@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "8da6d289-bda1-4164-b28f-1973842c4333",
-      "latitude": -35.021377,
-      "longitude": 138.614346,
-      "street": "Shepherds Hill Rd",
-      "city": "Blackwood",
+      "id": "75b99db7-4787-49aa-9832-569b45fd288a",
+      "latitude": -34.94222,
+      "longitude": 138.567298,
+      "street": "Richmond Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-16T20:20:54Z",
-      "reported_at": "2025-11-16T19:58:42Z"
+      "timestamp": "2025-11-16T20:40:33Z",
+      "reported_at": "2025-11-16T20:32:24Z"
+    },
+    {
+      "id": "0588d8c8-0287-4961-9e58-048024326594",
+      "latitude": -34.819654,
+      "longitude": 138.561833,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-16T20:40:33Z",
+      "reported_at": "2025-11-16T20:19:28Z"
+    },
+    {
+      "id": "65e0d918-aeaa-4bee-b29d-b34ebb4ae836",
+      "latitude": -34.861195,
+      "longitude": 138.56786,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-16T20:40:33Z",
+      "reported_at": "2025-11-16T20:34:08Z"
     }
   ]
 }
