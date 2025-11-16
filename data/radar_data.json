@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "f8d3f4b2-bfa4-4ed7-a1d8-ccbd2236cd70",
-      "latitude": -35.010395,
-      "longitude": 138.749955,
-      "street": "Mount Barker Rd",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2025-11-16T23:17:51Z",
-      "reported_at": "2025-11-16T21:19:27Z"
-    },
-    {
       "id": "293d19d9-5768-4e1c-847d-bec7469e8676",
       "latitude": -34.922135,
       "longitude": 138.615004,
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-16T23:17:51Z",
+      "timestamp": "2025-11-16T23:38:41Z",
       "reported_at": "2025-11-16T21:25:08Z"
+    },
+    {
+      "id": "701bda52-2c14-47ec-8ae5-0f604af94055",
+      "latitude": -35.011493,
+      "longitude": 138.746395,
+      "street": "Mount Barker Rd",
+      "city": "Aldgate",
+      "type": "mobile",
+      "timestamp": "2025-11-16T23:38:41Z",
+      "reported_at": "2025-11-16T21:17:57Z"
+    },
+    {
+      "id": "f8d3f4b2-bfa4-4ed7-a1d8-ccbd2236cd70",
+      "latitude": -35.010395,
+      "longitude": 138.749955,
+      "street": "Mount Barker Rd",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2025-11-16T23:38:41Z",
+      "reported_at": "2025-11-16T21:19:27Z"
+    },
+    {
+      "id": "487e77cc-73ff-45b9-a9fa-ee1127580b48",
+      "latitude": -35.119646,
+      "longitude": 138.489405,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2025-11-16T23:38:41Z",
+      "reported_at": "2025-11-16T23:13:25Z"
     },
     {
       "id": "81eba762-de32-4d20-aa87-12bece8be3c5",
@@ -27,28 +47,18 @@
       "street": "A10 - North East Rd",
       "city": "Manningham",
       "type": "mobile",
-      "timestamp": "2025-11-16T23:17:51Z",
+      "timestamp": "2025-11-16T23:38:41Z",
       "reported_at": "2025-11-16T22:18:18Z"
     },
     {
-      "id": "0fd9ca4c-42d2-4288-a8bd-a3985692643a",
-      "latitude": -35.047863,
-      "longitude": 138.548978,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "0b74c0f5-d60d-4905-8389-d5b18b1cfd2e",
+      "latitude": -34.802721,
+      "longitude": 138.596884,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-16T23:17:51Z",
-      "reported_at": "2025-11-16T23:01:07Z"
-    },
-    {
-      "id": "e0753584-3613-40f1-964c-d260ab54fd22",
-      "latitude": -35.050754,
-      "longitude": 138.547146,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2025-11-16T23:17:51Z",
-      "reported_at": "2025-11-16T22:43:21Z"
+      "timestamp": "2025-11-16T23:38:41Z",
+      "reported_at": "2025-11-16T23:21:48Z"
     }
   ]
 }
