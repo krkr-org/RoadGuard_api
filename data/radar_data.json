@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "94d487ff-ed00-4009-8e0a-4257dd380e64",
-      "latitude": -34.953756,
-      "longitude": 138.507978,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "8db15c63-5dbc-4ae3-a446-514f6ad1eb59",
+      "latitude": -34.987027,
+      "longitude": 138.583288,
+      "street": "Winston Av",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-11-16T21:17:01Z",
-      "reported_at": "2025-11-16T20:45:10Z"
+      "timestamp": "2025-11-16T21:37:40Z",
+      "reported_at": "2025-11-16T21:14:37Z"
     },
     {
-      "id": "220e54cb-f291-4157-9f7c-1cea0d4b6be4",
-      "latitude": -34.707237,
-      "longitude": 138.678675,
-      "street": "Unknown Street",
-      "city": "Elizabeth North",
+      "id": "c2a6727b-ee0d-4c2b-b1ca-8c227163f193",
+      "latitude": -34.994824,
+      "longitude": 138.59286,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-11-16T21:17:01Z",
-      "reported_at": "2025-11-16T20:52:06Z"
+      "timestamp": "2025-11-16T21:37:40Z",
+      "reported_at": "2025-11-16T21:20:00Z"
+    },
+    {
+      "id": "b2d2fe57-0d6d-4b99-b757-419188047aed",
+      "latitude": -34.932692,
+      "longitude": 138.593494,
+      "street": "Whitmore Sq",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-16T21:37:40Z",
+      "reported_at": "2025-11-16T21:32:44Z"
     },
     {
       "id": "5e7a39d4-fae0-4bd7-9ce3-1f9ab283d700",
@@ -27,18 +37,28 @@
       "street": "A13 - Main South Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-11-16T21:17:01Z",
+      "timestamp": "2025-11-16T21:37:40Z",
       "reported_at": "2025-11-16T21:08:36Z"
     },
     {
-      "id": "0588d8c8-0287-4961-9e58-048024326594",
-      "latitude": -34.817528,
-      "longitude": 138.56166,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
+      "id": "9f7be1a0-d577-447b-ad91-dae848710bf7",
+      "latitude": -34.940651,
+      "longitude": 138.6137,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2025-11-16T21:17:01Z",
-      "reported_at": "2025-11-16T20:19:28Z"
+      "timestamp": "2025-11-16T21:37:40Z",
+      "reported_at": "2025-11-16T21:25:09Z"
+    },
+    {
+      "id": "485a8729-9c74-4872-927c-c0a827e8d7a9",
+      "latitude": -34.810182,
+      "longitude": 138.597172,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2025-11-16T21:37:40Z",
+      "reported_at": "2025-11-16T21:28:28Z"
     },
     {
       "id": "03b28757-a33f-433a-8343-1091f430dd6f",
@@ -47,8 +67,18 @@
       "street": "M2 - North-South Mwy",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-16T21:17:01Z",
+      "timestamp": "2025-11-16T21:37:40Z",
       "reported_at": "2025-11-16T20:45:39Z"
+    },
+    {
+      "id": "0588d8c8-0287-4961-9e58-048024326594",
+      "latitude": -34.817528,
+      "longitude": 138.56166,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-16T21:37:40Z",
+      "reported_at": "2025-11-16T20:19:28Z"
     }
   ]
 }
