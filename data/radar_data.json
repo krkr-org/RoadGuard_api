@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "75b99db7-4787-49aa-9832-569b45fd288a",
-      "latitude": -34.94222,
-      "longitude": 138.567298,
-      "street": "Richmond Rd",
-      "city": "Richmond",
+      "id": "94d487ff-ed00-4009-8e0a-4257dd380e64",
+      "latitude": -34.953756,
+      "longitude": 138.507978,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-16T20:40:33Z",
-      "reported_at": "2025-11-16T20:32:24Z"
+      "timestamp": "2025-11-16T21:17:01Z",
+      "reported_at": "2025-11-16T20:45:10Z"
+    },
+    {
+      "id": "220e54cb-f291-4157-9f7c-1cea0d4b6be4",
+      "latitude": -34.707237,
+      "longitude": 138.678675,
+      "street": "Unknown Street",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2025-11-16T21:17:01Z",
+      "reported_at": "2025-11-16T20:52:06Z"
+    },
+    {
+      "id": "5e7a39d4-fae0-4bd7-9ce3-1f9ab283d700",
+      "latitude": -35.041715,
+      "longitude": 138.560108,
+      "street": "A13 - Main South Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-16T21:17:01Z",
+      "reported_at": "2025-11-16T21:08:36Z"
     },
     {
       "id": "0588d8c8-0287-4961-9e58-048024326594",
-      "latitude": -34.819654,
-      "longitude": 138.561833,
+      "latitude": -34.817528,
+      "longitude": 138.56166,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2025-11-16T20:40:33Z",
+      "timestamp": "2025-11-16T21:17:01Z",
       "reported_at": "2025-11-16T20:19:28Z"
     },
     {
-      "id": "65e0d918-aeaa-4bee-b29d-b34ebb4ae836",
-      "latitude": -34.861195,
-      "longitude": 138.56786,
+      "id": "03b28757-a33f-433a-8343-1091f430dd6f",
+      "latitude": -34.819001,
+      "longitude": 138.561927,
       "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-16T20:40:33Z",
-      "reported_at": "2025-11-16T20:34:08Z"
+      "timestamp": "2025-11-16T21:17:01Z",
+      "reported_at": "2025-11-16T20:45:39Z"
     }
   ]
 }
