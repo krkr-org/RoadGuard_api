@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "92120343-511e-4f15-8c6b-942f4fd30118",
-      "latitude": -34.860893,
-      "longitude": 138.592686,
-      "street": "Florence Av",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2025-11-16T09:02:13Z",
-      "reported_at": "2025-11-16T08:32:28Z"
-    },
-    {
       "id": "3b48969a-4c69-463e-bc43-37b6331d19cc",
       "latitude": -34.907095,
       "longitude": 138.646539,
       "street": "Devitt Av",
       "city": "Payneham South",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:02:13Z",
+      "timestamp": "2025-11-16T09:19:13Z",
       "reported_at": "2025-11-16T07:25:20Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:02:13Z",
+      "timestamp": "2025-11-16T09:19:13Z",
       "reported_at": "2025-11-16T08:17:39Z"
+    },
+    {
+      "id": "40a31c01-98fa-4eb7-a219-15e44ed0280b",
+      "latitude": -35.121511,
+      "longitude": 138.536052,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-11-16T09:19:13Z",
+      "reported_at": "2025-11-16T04:57:21Z"
     },
     {
       "id": "12c386b4-d7ec-45d1-9eda-aa1a08174f56",
@@ -37,28 +37,28 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:02:13Z",
+      "timestamp": "2025-11-16T09:19:13Z",
       "reported_at": "2025-11-16T05:18:53Z"
     },
     {
-      "id": "f5387fff-af6f-4fcc-a361-3eaf1d2f1c05",
-      "latitude": -34.962706,
-      "longitude": 138.556638,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "84ce0197-f48a-4d62-a045-a8d67ba13988",
+      "latitude": -34.814537,
+      "longitude": 138.640648,
+      "street": "Maxwell Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:02:13Z",
-      "reported_at": "2025-11-16T08:30:27Z"
+      "timestamp": "2025-11-16T09:19:13Z",
+      "reported_at": "2025-11-16T09:06:01Z"
     },
     {
-      "id": "396f452a-03ef-40c5-a4d5-53bf25c56194",
-      "latitude": -34.978762,
-      "longitude": 138.555961,
-      "street": "A14 - Marion Rd",
-      "city": "South Plympton",
+      "id": "c1f03df5-78ae-4f92-b430-03323b68660e",
+      "latitude": -34.913817,
+      "longitude": 138.598766,
+      "street": "King William Rd",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:02:13Z",
-      "reported_at": "2025-11-16T08:25:35Z"
+      "timestamp": "2025-11-16T09:19:13Z",
+      "reported_at": "2025-11-16T09:13:17Z"
     }
   ]
 }
