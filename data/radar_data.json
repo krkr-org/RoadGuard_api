@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "89f3c26a-c2b0-4682-8a1a-ba43b42f784c",
+      "latitude": -34.796757,
+      "longitude": 138.649484,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-11-16T09:39:10Z",
+      "reported_at": "2025-11-16T06:11:11Z"
+    },
+    {
       "id": "3b48969a-4c69-463e-bc43-37b6331d19cc",
       "latitude": -34.907095,
       "longitude": 138.646539,
       "street": "Devitt Av",
       "city": "Payneham South",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:19:13Z",
+      "timestamp": "2025-11-16T09:39:10Z",
       "reported_at": "2025-11-16T07:25:20Z"
     },
     {
@@ -17,8 +27,18 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:19:13Z",
+      "timestamp": "2025-11-16T09:39:10Z",
       "reported_at": "2025-11-16T08:17:39Z"
+    },
+    {
+      "id": "5bd128b3-01a9-4fa7-91dc-26dc695deb5d",
+      "latitude": -34.811818,
+      "longitude": 138.63617,
+      "street": "Maxwell Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-11-16T09:39:10Z",
+      "reported_at": "2025-11-16T09:30:14Z"
     },
     {
       "id": "40a31c01-98fa-4eb7-a219-15e44ed0280b",
@@ -27,28 +47,8 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:19:13Z",
+      "timestamp": "2025-11-16T09:39:10Z",
       "reported_at": "2025-11-16T04:57:21Z"
-    },
-    {
-      "id": "12c386b4-d7ec-45d1-9eda-aa1a08174f56",
-      "latitude": -35.141361,
-      "longitude": 138.659948,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2025-11-16T09:19:13Z",
-      "reported_at": "2025-11-16T05:18:53Z"
-    },
-    {
-      "id": "84ce0197-f48a-4d62-a045-a8d67ba13988",
-      "latitude": -34.814537,
-      "longitude": 138.640648,
-      "street": "Maxwell Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2025-11-16T09:19:13Z",
-      "reported_at": "2025-11-16T09:06:01Z"
     },
     {
       "id": "c1f03df5-78ae-4f92-b430-03323b68660e",
@@ -57,8 +57,18 @@
       "street": "King William Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-16T09:19:13Z",
+      "timestamp": "2025-11-16T09:39:10Z",
       "reported_at": "2025-11-16T09:13:17Z"
+    },
+    {
+      "id": "1a35d5ab-464e-4118-a615-9ed3b29bf51f",
+      "latitude": -34.79775,
+      "longitude": 138.656885,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-11-16T09:39:10Z",
+      "reported_at": "2025-11-16T09:18:17Z"
     }
   ]
 }
