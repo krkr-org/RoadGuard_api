@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "4b3b5ba2-7495-4d8e-b9cb-ce4ecc1d3ad3",
+      "latitude": -34.811278,
+      "longitude": 138.674645,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2025-11-16T19:15:22Z",
+      "reported_at": "2025-11-16T19:10:19Z"
+    },
+    {
+      "id": "121631f3-e971-45b3-91e7-e779e48f1f09",
+      "latitude": -35.033918,
+      "longitude": 138.556004,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-16T19:15:22Z",
+      "reported_at": "2025-11-16T18:59:52Z"
+    }
+  ]
 }
