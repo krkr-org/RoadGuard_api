@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "abf92727-9d9a-4f47-92c1-7a7a79a9795c",
-      "latitude": -34.918433,
-      "longitude": 138.627315,
-      "street": "Unknown Street",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
-      "reported_at": "2025-11-17T07:20:06Z"
-    },
-    {
       "id": "27a36196-9d2a-41c4-91bb-d05e9e3c3515",
       "latitude": -34.945183,
       "longitude": 138.507276,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T06:30:05Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T06:17:38Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Montefiore Hill",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T04:51:41Z"
     },
     {
@@ -47,7 +37,7 @@
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T04:54:40Z"
     },
     {
@@ -57,18 +47,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T06:50:18Z"
     },
     {
-      "id": "2f04e28b-6a0a-4d9a-9962-5628081db3eb",
-      "latitude": -34.710711,
-      "longitude": 138.690433,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
+      "id": "bccf89c0-dc2f-4c94-8182-8dcb9d87a4c7",
+      "latitude": -34.766063,
+      "longitude": 138.626227,
+      "street": "Spains Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
-      "reported_at": "2025-11-17T07:29:08Z"
+      "timestamp": "2025-11-17T08:30:04Z",
+      "reported_at": "2025-11-17T08:00:02Z"
     },
     {
       "id": "ed1085f4-8631-441f-bacc-b391273fd861",
@@ -77,28 +67,18 @@
       "street": "Unknown Street",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T05:56:28Z"
     },
     {
-      "id": "754fc2d7-88a8-4bb7-8dbc-7c1fb160067b",
-      "latitude": -34.856832,
-      "longitude": 138.677241,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "d1bd88cb-e985-4a77-b44b-3d3ed345f612",
+      "latitude": -34.999648,
+      "longitude": 138.592785,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
-      "reported_at": "2025-11-17T07:32:41Z"
-    },
-    {
-      "id": "3217afed-41b6-4050-a091-de8b4f354073",
-      "latitude": -34.766941,
-      "longitude": 138.624476,
-      "street": "Winzor St",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
-      "reported_at": "2025-11-17T07:35:46Z"
+      "timestamp": "2025-11-17T08:30:04Z",
+      "reported_at": "2025-11-17T08:01:15Z"
     },
     {
       "id": "88ac6694-ddbd-40cb-9f9d-58e94384c9b7",
@@ -107,8 +87,18 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T05:08:39Z"
+    },
+    {
+      "id": "76f52acd-b741-43a5-8c6c-9e073a321fa1",
+      "latitude": -34.845712,
+      "longitude": 138.506203,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-17T08:30:04Z",
+      "reported_at": "2025-11-17T08:12:52Z"
     },
     {
       "id": "95381556-69cd-4cbd-9f1e-b722464b8a7a",
@@ -117,38 +107,38 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T06:45:44Z"
     },
     {
-      "id": "c8819de0-753d-497e-80fb-90932dd2f98a",
-      "latitude": -34.839569,
-      "longitude": 138.676165,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
-      "reported_at": "2025-11-17T07:32:42Z"
-    },
-    {
       "id": "34e1d034-6807-4c35-b51f-1c472f09c56e",
-      "latitude": -34.931495,
-      "longitude": 138.517614,
+      "latitude": -34.930836,
+      "longitude": 138.517629,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
+      "timestamp": "2025-11-17T08:30:04Z",
       "reported_at": "2025-11-17T04:50:18Z"
     },
     {
-      "id": "b907cd4f-48a5-4688-a48b-930bff3e7d98",
-      "latitude": -34.847624,
-      "longitude": 138.610892,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "5126684a-820d-4a19-ab52-ce81fa78de85",
+      "latitude": -34.929499,
+      "longitude": 138.517662,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2025-11-17T07:40:15Z",
-      "reported_at": "2025-11-17T07:23:48Z"
+      "timestamp": "2025-11-17T08:30:04Z",
+      "reported_at": "2025-11-17T08:02:29Z"
+    },
+    {
+      "id": "88a7aa75-e4d6-4435-bd4e-98e639d7a223",
+      "latitude": -34.860831,
+      "longitude": 138.56756,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T08:30:04Z",
+      "reported_at": "2025-11-17T08:02:45Z"
     }
   ]
 }
