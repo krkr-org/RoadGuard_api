@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "41bb12bb-fe14-4de6-b02b-ae2a724d6d95",
-      "latitude": -34.844014,
-      "longitude": 138.505162,
-      "street": "Commercial Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
-      "reported_at": "2025-11-17T09:57:09Z"
-    },
-    {
       "id": "27a36196-9d2a-41c4-91bb-d05e9e3c3515",
       "latitude": -34.945183,
       "longitude": 138.507276,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
+      "timestamp": "2025-11-17T10:47:07Z",
       "reported_at": "2025-11-17T06:30:05Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
+      "timestamp": "2025-11-17T10:47:07Z",
       "reported_at": "2025-11-17T06:50:18Z"
     },
     {
@@ -37,18 +27,28 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
+      "timestamp": "2025-11-17T10:47:07Z",
       "reported_at": "2025-11-17T06:49:48Z"
     },
     {
-      "id": "ed1085f4-8631-441f-bacc-b391273fd861",
-      "latitude": -34.901161,
-      "longitude": 138.50527,
-      "street": "Unknown Street",
-      "city": "Grange",
+      "id": "16618c3c-4e41-4828-a9ec-a9d6686754c6",
+      "latitude": -34.91397,
+      "longitude": 138.525128,
+      "street": "Valetta Rd",
+      "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
-      "reported_at": "2025-11-17T05:56:28Z"
+      "timestamp": "2025-11-17T10:47:07Z",
+      "reported_at": "2025-11-17T09:53:14Z"
+    },
+    {
+      "id": "625e5078-5cd3-48d5-a053-df37ca6f11df",
+      "latitude": -34.824382,
+      "longitude": 138.627259,
+      "street": "Montague Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-17T10:47:07Z",
+      "reported_at": "2025-11-17T10:30:48Z"
     },
     {
       "id": "88ac6694-ddbd-40cb-9f9d-58e94384c9b7",
@@ -57,18 +57,28 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
+      "timestamp": "2025-11-17T10:47:07Z",
       "reported_at": "2025-11-17T05:08:39Z"
     },
     {
-      "id": "5126684a-820d-4a19-ab52-ce81fa78de85",
-      "latitude": -34.929499,
-      "longitude": 138.517662,
+      "id": "0bdb02a4-003f-4e83-b113-31225d2cca09",
+      "latitude": -34.931021,
+      "longitude": 138.517526,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:23:52Z",
-      "reported_at": "2025-11-17T08:02:29Z"
+      "timestamp": "2025-11-17T10:47:07Z",
+      "reported_at": "2025-11-17T08:30:50Z"
+    },
+    {
+      "id": "6004bba1-1adc-4817-8193-bd687f67eb7a",
+      "latitude": -34.889247,
+      "longitude": 138.629201,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T10:47:07Z",
+      "reported_at": "2025-11-17T10:41:18Z"
     }
   ]
 }
