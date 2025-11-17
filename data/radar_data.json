@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "27a36196-9d2a-41c4-91bb-d05e9e3c3515",
-      "latitude": -34.945183,
-      "longitude": 138.507276,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
-      "reported_at": "2025-11-17T06:30:05Z"
-    },
-    {
-      "id": "6b21ebc8-cff8-477e-9870-fe6152dbe71b",
-      "latitude": -34.916642,
-      "longitude": 138.589174,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
-      "reported_at": "2025-11-17T06:50:18Z"
-    },
-    {
-      "id": "2a22fc20-542c-4849-899f-bdaecce7ac57",
-      "latitude": -34.929314,
-      "longitude": 138.542476,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
-      "reported_at": "2025-11-17T06:49:48Z"
-    },
-    {
       "id": "16618c3c-4e41-4828-a9ec-a9d6686754c6",
       "latitude": -34.91397,
       "longitude": 138.525128,
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
+      "timestamp": "2025-11-17T11:18:10Z",
       "reported_at": "2025-11-17T09:53:14Z"
     },
     {
-      "id": "625e5078-5cd3-48d5-a053-df37ca6f11df",
-      "latitude": -34.824382,
-      "longitude": 138.627259,
-      "street": "Montague Rd",
-      "city": "Pooraka",
+      "id": "ba64d120-96e7-4872-a587-343816c60962",
+      "latitude": -34.873612,
+      "longitude": 138.545681,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
-      "reported_at": "2025-11-17T10:30:48Z"
+      "timestamp": "2025-11-17T11:18:10Z",
+      "reported_at": "2025-11-17T10:55:11Z"
+    },
+    {
+      "id": "ed771da8-7d44-40e6-beb1-633ba0dd2cd2",
+      "latitude": -34.899916,
+      "longitude": 138.505136,
+      "street": "Frederick Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2025-11-17T11:18:10Z",
+      "reported_at": "2025-11-17T07:25:56Z"
     },
     {
       "id": "88ac6694-ddbd-40cb-9f9d-58e94384c9b7",
@@ -57,7 +37,7 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
+      "timestamp": "2025-11-17T11:18:10Z",
       "reported_at": "2025-11-17T05:08:39Z"
     },
     {
@@ -67,18 +47,48 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
+      "timestamp": "2025-11-17T11:18:10Z",
       "reported_at": "2025-11-17T08:30:50Z"
     },
     {
-      "id": "6004bba1-1adc-4817-8193-bd687f67eb7a",
-      "latitude": -34.889247,
-      "longitude": 138.629201,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
+      "id": "7021b86a-d244-447a-a7bc-44902fc6c7f3",
+      "latitude": -34.847534,
+      "longitude": 138.617359,
+      "street": "A17 - Hampstead Rd",
+      "city": "Clearview",
       "type": "mobile",
-      "timestamp": "2025-11-17T10:47:07Z",
-      "reported_at": "2025-11-17T10:41:18Z"
+      "timestamp": "2025-11-17T11:18:10Z",
+      "reported_at": "2025-11-17T10:38:13Z"
+    },
+    {
+      "id": "c1b7f268-59ab-4517-9f3d-27a2506199c2",
+      "latitude": -34.847797,
+      "longitude": 138.604479,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-11-17T11:18:10Z",
+      "reported_at": "2025-11-17T11:03:54Z"
+    },
+    {
+      "id": "749e724f-afa6-4990-abb4-e92497603d48",
+      "latitude": -35.006741,
+      "longitude": 138.775372,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2025-11-17T11:18:10Z",
+      "reported_at": "2025-11-17T10:58:37Z"
+    },
+    {
+      "id": "ecbc4902-d5c3-40c7-be55-f14a54fc28b8",
+      "latitude": -34.869381,
+      "longitude": 138.570625,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T11:18:10Z",
+      "reported_at": "2025-11-17T11:00:14Z"
     }
   ]
 }
