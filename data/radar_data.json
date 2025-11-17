@@ -1,3 +1,44 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "a5d606af-d85a-46be-ac94-54fa28b0efdd",
+      "latitude": -34.718961,
+      "longitude": 138.627916,
+      "street": "Fisher Bvd",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-11-17T20:40:53Z",
+      "reported_at": "2025-11-17T20:32:10Z"
+    },
+    {
+      "id": "1941c426-e498-46f5-8ae8-1314de0f4321",
+      "latitude": -34.999843,
+      "longitude": 138.532763,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2025-11-17T20:40:53Z",
+      "reported_at": "2025-11-17T20:12:33Z"
+    },
+    {
+      "id": "ab286070-8436-4f58-84e7-1a9145acd35d",
+      "latitude": -35.048261,
+      "longitude": 138.548298,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-17T20:40:53Z",
+      "reported_at": "2025-11-17T20:35:35Z"
+    },
+    {
+      "id": "3a3ae4b4-9a13-4e99-a730-2e4a5b082117",
+      "latitude": -34.870583,
+      "longitude": 138.570853,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T20:40:53Z",
+      "reported_at": "2025-11-17T20:36:00Z"
+    }
+  ]
 }
