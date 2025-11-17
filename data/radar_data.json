@@ -1,14 +1,74 @@
 {
   "radars": [
     {
-      "id": "1941c426-e498-46f5-8ae8-1314de0f4321",
-      "latitude": -34.999843,
-      "longitude": 138.532763,
-      "street": "Diagonal Rd",
-      "city": "Warradale",
+      "id": "c5fc86ca-dc5b-4328-a0be-932533fc3acc",
+      "latitude": -35.101058,
+      "longitude": 138.493702,
+      "street": "Meyer Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-17T21:18:42Z",
-      "reported_at": "2025-11-17T20:12:33Z"
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:05:52Z"
+    },
+    {
+      "id": "e8a93246-4956-4bd7-8b25-c14c4bb39e1b",
+      "latitude": -35.114114,
+      "longitude": 138.556905,
+      "street": "Bains Rd",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:09:14Z"
+    },
+    {
+      "id": "e0d8f824-406b-4cbe-8005-7b28f42255df",
+      "latitude": -34.994443,
+      "longitude": 138.592833,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:33:19Z"
+    },
+    {
+      "id": "bf3f3969-a212-4a7b-9e85-6f4677379775",
+      "latitude": -34.849447,
+      "longitude": 138.580516,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:33:17Z"
+    },
+    {
+      "id": "0339a86e-0418-42ac-a735-945fc4f9ca5f",
+      "latitude": -34.860646,
+      "longitude": 138.567407,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:35:16Z"
+    },
+    {
+      "id": "747371c0-1c5b-4b49-9cb2-7bee749b5e77",
+      "latitude": -35.049124,
+      "longitude": 138.54768,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:36:04Z"
+    },
+    {
+      "id": "49571eaa-1527-41da-b710-2e93aca701b4",
+      "latitude": -35.054395,
+      "longitude": 138.546262,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-17T21:40:16Z",
+      "reported_at": "2025-11-17T21:28:47Z"
     }
   ]
 }
