@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "9e5c331e-8955-4e72-a7ab-bafbb7b6c032",
-      "latitude": -34.930824,
-      "longitude": 138.54196,
+      "id": "1ee62a90-041e-406a-929d-a0f799f3bd2a",
+      "latitude": -34.940875,
+      "longitude": 138.65099,
+      "street": "Hood St",
+      "city": "Linden Park",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:40:46Z"
+    },
+    {
+      "id": "a461b2a1-34b1-429f-b474-ece1f4bc614e",
+      "latitude": -34.927035,
+      "longitude": 138.543781,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
-      "reported_at": "2025-11-17T04:42:15Z"
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:10:25Z"
     },
     {
-      "id": "f24a0a9e-2c00-4a77-8525-060fdd218d5a",
-      "latitude": -34.927323,
-      "longitude": 138.596574,
-      "street": "Franklin St",
-      "city": "Adelaide",
+      "id": "7ae6a33e-ef92-470a-b554-a4be87f3e36d",
+      "latitude": -34.848498,
+      "longitude": 138.702047,
+      "street": "Valley Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
-      "reported_at": "2025-11-17T05:02:23Z"
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:22:16Z"
     },
     {
       "id": "0845bfe9-71c6-41f2-b0a0-eaf79d70afa0",
@@ -27,8 +37,18 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
+      "timestamp": "2025-11-17T05:43:40Z",
       "reported_at": "2025-11-17T04:39:34Z"
+    },
+    {
+      "id": "80a1545f-a306-41b4-ac84-19bcd225aaa5",
+      "latitude": -34.912419,
+      "longitude": 138.594352,
+      "street": "Montefiore Hill",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T04:51:41Z"
     },
     {
       "id": "5de167f3-a4c5-454c-95b6-32d9f12b2f22",
@@ -37,38 +57,8 @@
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
+      "timestamp": "2025-11-17T05:43:40Z",
       "reported_at": "2025-11-17T04:59:15Z"
-    },
-    {
-      "id": "5dfffa1e-cd66-44f1-a67e-b1df3ab67ee4",
-      "latitude": -35.058621,
-      "longitude": 138.610026,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
-      "reported_at": "2025-11-17T05:03:48Z"
-    },
-    {
-      "id": "b84c7641-1595-40f3-8af2-079a6ca1070e",
-      "latitude": -35.023035,
-      "longitude": 138.607728,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
-      "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
-      "reported_at": "2025-11-17T05:09:52Z"
-    },
-    {
-      "id": "8bb9b40c-c4f4-4c1a-a714-9e897caab2a2",
-      "latitude": -35.028586,
-      "longitude": 138.551548,
-      "street": "Seacombe Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
-      "reported_at": "2025-11-17T05:11:27Z"
     },
     {
       "id": "a511e62c-10fb-424d-a76f-0c0eb6860b77",
@@ -77,8 +67,48 @@
       "street": "Lander Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
+      "timestamp": "2025-11-17T05:43:40Z",
       "reported_at": "2025-11-17T05:13:17Z"
+    },
+    {
+      "id": "8bb9b40c-c4f4-4c1a-a714-9e897caab2a2",
+      "latitude": -35.028586,
+      "longitude": 138.551548,
+      "street": "Seacombe Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:11:27Z"
+    },
+    {
+      "id": "52e57d26-eb2b-45d5-a815-2ef46c02112c",
+      "latitude": -35.058919,
+      "longitude": 138.605597,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:18:37Z"
+    },
+    {
+      "id": "98000675-fca0-4db2-8e04-00ddb87957e3",
+      "latitude": -34.914231,
+      "longitude": 138.593472,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:24:18Z"
+    },
+    {
+      "id": "011160a8-e114-4b05-a1dc-08008c11c314",
+      "latitude": -34.837559,
+      "longitude": 138.623055,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:23:14Z"
     },
     {
       "id": "88ac6694-ddbd-40cb-9f9d-58e94384c9b7",
@@ -87,8 +117,58 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
+      "timestamp": "2025-11-17T05:43:40Z",
       "reported_at": "2025-11-17T05:08:39Z"
+    },
+    {
+      "id": "b7de5a88-fbbb-479b-9ee6-568f1af7c47c",
+      "latitude": -35.00511,
+      "longitude": 138.699527,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:10:12Z"
+    },
+    {
+      "id": "85f7819a-ce57-4abd-b32b-e4b7049d5f2e",
+      "latitude": -35.023169,
+      "longitude": 138.559307,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:30:34Z"
+    },
+    {
+      "id": "444fcf91-7193-400f-bd97-d3443c46cff6",
+      "latitude": -35.047021,
+      "longitude": 138.560456,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:24:41Z"
+    },
+    {
+      "id": "34e1d034-6807-4c35-b51f-1c472f09c56e",
+      "latitude": -34.931495,
+      "longitude": 138.517614,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T04:50:18Z"
+    },
+    {
+      "id": "3ad9a331-74c7-4ec8-a3bd-b426a1378e01",
+      "latitude": -34.822781,
+      "longitude": 138.619384,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:18:33Z"
     },
     {
       "id": "b7afe1c9-762f-4abb-8ec9-c3e11f7782f6",
@@ -97,18 +177,28 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
+      "timestamp": "2025-11-17T05:43:40Z",
       "reported_at": "2025-11-17T05:04:16Z"
     },
     {
-      "id": "7b6d6bc4-fbfc-4d77-99a6-f1c316056f39",
-      "latitude": -34.908344,
-      "longitude": 138.576837,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "id": "2fb00f7e-c3bc-4c62-a441-46ce95a15652",
+      "latitude": -34.8055,
+      "longitude": 138.634828,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-17T05:21:04Z",
-      "reported_at": "2025-11-17T05:19:04Z"
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:20:36Z"
+    },
+    {
+      "id": "f7dd5956-06c8-41f4-b1a9-1244cbd974a7",
+      "latitude": -34.852911,
+      "longitude": 138.617689,
+      "street": "A17 - Hampstead Rd",
+      "city": "Clearview",
+      "type": "mobile",
+      "timestamp": "2025-11-17T05:43:40Z",
+      "reported_at": "2025-11-17T05:32:13Z"
     }
   ]
 }
