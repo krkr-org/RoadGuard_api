@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "2944c0cc-219e-4f7c-9e14-9a77d0e830ad",
-      "latitude": -34.893362,
-      "longitude": 138.659596,
+      "id": "f7da247d-4131-46bf-8d05-0457b3aeb683",
+      "latitude": -34.892196,
+      "longitude": 138.661107,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T06:48:11Z"
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T07:29:54Z"
     },
     {
-      "id": "f6e2360f-ce19-4a01-833a-237016e02fd2",
-      "latitude": -34.868908,
-      "longitude": 138.68672,
-      "street": "George St",
-      "city": "Paradise",
+      "id": "9360131d-6bb9-47d8-b9b7-aff905e32176",
+      "latitude": -34.921167,
+      "longitude": 138.636676,
+      "street": "The Parade",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T08:17:45Z"
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T10:04:12Z"
     },
     {
       "id": "4ea0a06d-f636-4507-9337-b1816f88603b",
@@ -27,8 +27,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
+      "timestamp": "2025-11-18T10:47:08Z",
       "reported_at": "2025-11-18T06:55:43Z"
+    },
+    {
+      "id": "f6e2360f-ce19-4a01-833a-237016e02fd2",
+      "latitude": -34.868908,
+      "longitude": 138.68672,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T08:17:45Z"
     },
     {
       "id": "f7df6eb1-e5a5-47a6-9253-9e7840b6af97",
@@ -37,7 +47,7 @@
       "street": "Unknown Street",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
+      "timestamp": "2025-11-18T10:47:08Z",
       "reported_at": "2025-11-18T07:03:31Z"
     },
     {
@@ -47,68 +57,48 @@
       "street": "Smart Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
+      "timestamp": "2025-11-18T10:47:08Z",
       "reported_at": "2025-11-18T08:06:53Z"
     },
     {
-      "id": "75a6a9fe-fb0c-4cec-b674-9b453b9ea066",
-      "latitude": -34.807932,
-      "longitude": 138.628138,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T10:02:20Z"
-    },
-    {
-      "id": "de08fd72-9fe8-420c-abb9-b94b16a9f357",
-      "latitude": -34.711932,
-      "longitude": 138.66404,
-      "street": "Winterslow Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T09:56:42Z"
-    },
-    {
-      "id": "fee2ae38-2702-4876-a7cc-0967fa54ed30",
-      "latitude": -34.770062,
-      "longitude": 138.6187,
+      "id": "ef741728-a7cf-4f69-a347-19b423064f87",
+      "latitude": -34.771341,
+      "longitude": 138.617573,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T09:36:33Z"
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T08:50:16Z"
     },
     {
-      "id": "37318956-2165-45da-ac2b-878e28381f25",
-      "latitude": -34.806106,
-      "longitude": 138.634278,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
+      "id": "81a864e7-f516-4330-bcbe-b7eb781bb9ea",
+      "latitude": -34.928781,
+      "longitude": 138.593907,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T09:56:16Z"
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T10:25:15Z"
     },
     {
-      "id": "3c5d9e3b-7442-4a6f-9b0b-31a5318c9f77",
-      "latitude": -34.876342,
-      "longitude": 138.694373,
+      "id": "7eb13839-a35b-4bc9-894b-81b752280d6c",
+      "latitude": -34.874655,
+      "longitude": 138.696467,
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T05:40:49Z"
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T06:00:30Z"
     },
     {
-      "id": "c6f8cfd8-62e1-42d4-94be-aff75b0e63c5",
-      "latitude": -34.837061,
-      "longitude": 138.525178,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "0077017e-e62b-4b45-8ab1-aa7dcfec1c47",
+      "latitude": -34.902534,
+      "longitude": 138.584305,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
       "type": "mobile",
-      "timestamp": "2025-11-18T10:23:51Z",
-      "reported_at": "2025-11-18T10:10:16Z"
+      "timestamp": "2025-11-18T10:47:08Z",
+      "reported_at": "2025-11-18T10:03:39Z"
     }
   ]
 }
