@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "acbddedb-70a4-4a26-bc84-7c53cc133d32",
-      "latitude": -34.940699,
-      "longitude": 138.500385,
-      "street": "Seaview Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
-      "reported_at": "2025-11-18T20:47:52Z"
-    },
-    {
-      "id": "b8a73d7f-59be-4631-a7c1-2ad6379d7ef0",
-      "latitude": -34.91291,
-      "longitude": 138.516714,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
-      "reported_at": "2025-11-18T21:25:08Z"
-    },
-    {
       "id": "f8e7489b-6b8a-4211-a765-c0bb7adcdbe5",
       "latitude": -34.945131,
       "longitude": 138.508303,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
+      "timestamp": "2025-11-18T23:36:38Z",
       "reported_at": "2025-11-18T20:49:59Z"
     },
     {
-      "id": "78f9203d-1903-4f80-aa01-dfaa0aa8ad5d",
-      "latitude": -34.918077,
-      "longitude": 138.501167,
-      "street": "Cudmore Tce",
-      "city": "Henley Beach",
+      "id": "157b69ba-2ac9-4054-b537-fcfda32021e7",
+      "latitude": -34.913394,
+      "longitude": 138.519002,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
-      "reported_at": "2025-11-18T21:20:06Z"
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T21:26:24Z"
+    },
+    {
+      "id": "5f848b72-12d6-452d-b4ca-453a3041ee67",
+      "latitude": -34.939394,
+      "longitude": 138.500215,
+      "street": "Seaview Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T21:44:58Z"
     },
     {
       "id": "6bd79b76-96b3-4cec-a897-5a94b4beadc2",
@@ -47,8 +37,18 @@
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
+      "timestamp": "2025-11-18T23:36:38Z",
       "reported_at": "2025-11-18T21:36:21Z"
+    },
+    {
+      "id": "78f9203d-1903-4f80-aa01-dfaa0aa8ad5d",
+      "latitude": -34.918077,
+      "longitude": 138.501167,
+      "street": "Cudmore Tce",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T21:20:06Z"
     },
     {
       "id": "5acb4553-ccd0-4fb3-afdc-d4c6c98fe663",
@@ -57,8 +57,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
+      "timestamp": "2025-11-18T23:36:38Z",
       "reported_at": "2025-11-18T22:25:40Z"
+    },
+    {
+      "id": "ac942c5c-31c3-4e3c-bfbd-c823a9756cdf",
+      "latitude": -34.836016,
+      "longitude": 138.619804,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T22:50:45Z"
     },
     {
       "id": "11c642c9-bb01-4eab-b719-d485858f9d5d",
@@ -67,38 +77,38 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
+      "timestamp": "2025-11-18T23:36:38Z",
       "reported_at": "2025-11-18T21:07:47Z"
     },
     {
-      "id": "545040bd-6d2e-47ed-8cc0-6dbebc5cc428",
-      "latitude": -34.969042,
-      "longitude": 138.517055,
+      "id": "9ef9c9c9-0fde-4b9e-9ffc-4d01b775e65d",
+      "latitude": -35.009152,
+      "longitude": 138.623802,
+      "street": "B29 - Main Rd",
+      "city": "Glenalta",
+      "type": "mobile",
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T23:25:54Z"
+    },
+    {
+      "id": "afde2f60-7c57-414f-a5be-7430d0d28328",
+      "latitude": -34.975988,
+      "longitude": 138.519931,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
-      "reported_at": "2025-11-18T22:05:38Z"
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T22:40:10Z"
     },
     {
-      "id": "2c1afda8-2b00-44bf-b9dd-c748a0183578",
-      "latitude": -34.930808,
-      "longitude": 138.51763,
+      "id": "31f1d309-db83-4948-ab7e-2bc467b4077a",
+      "latitude": -34.930706,
+      "longitude": 138.517632,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
-      "reported_at": "2025-11-18T22:46:08Z"
-    },
-    {
-      "id": "76c941c5-695b-4ffd-b7ad-066086f2bcd3",
-      "latitude": -34.797791,
-      "longitude": 138.656949,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2025-11-18T23:18:50Z",
-      "reported_at": "2025-11-18T22:56:02Z"
+      "timestamp": "2025-11-18T23:36:38Z",
+      "reported_at": "2025-11-18T21:01:06Z"
     }
   ]
 }
