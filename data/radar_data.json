@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "398e20b2-5cda-4a3a-9bd7-e2df7a3fce7a",
+      "latitude": -34.796565,
+      "longitude": 138.649168,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-11-18T04:25:41Z",
+      "reported_at": "2025-11-18T03:36:11Z"
+    },
+    {
       "id": "dd743b4c-5d90-46f6-b450-686715046d80",
       "latitude": -35.097525,
       "longitude": 138.491353,
       "street": "Meyer Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-18T03:55:36Z",
+      "timestamp": "2025-11-18T04:25:41Z",
       "reported_at": "2025-11-18T00:59:16Z"
-    },
-    {
-      "id": "0266485b-868a-4a6e-8430-5c7aca1a016c",
-      "latitude": -35.134239,
-      "longitude": 138.500342,
-      "street": "Elizabeth Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2025-11-18T03:55:36Z",
-      "reported_at": "2025-11-17T22:29:50Z"
-    },
-    {
-      "id": "da176457-d3a3-4935-a715-e905cc995f03",
-      "latitude": -35.093505,
-      "longitude": 138.548764,
-      "street": "Reynell Rd",
-      "city": "Reynella East",
-      "type": "mobile",
-      "timestamp": "2025-11-18T03:55:36Z",
-      "reported_at": "2025-11-18T02:39:17Z"
-    },
-    {
-      "id": "08b63b14-0f4b-4bcd-8762-175b85cbb7de",
-      "latitude": -35.114121,
-      "longitude": 138.556764,
-      "street": "Bains Rd",
-      "city": "Woodcroft",
-      "type": "mobile",
-      "timestamp": "2025-11-18T03:55:36Z",
-      "reported_at": "2025-11-18T01:10:16Z"
     },
     {
       "id": "2d1de657-0181-4e85-9827-f6bfcb19f6fa",
@@ -47,8 +27,38 @@
       "street": "Sir James Hardy Way",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2025-11-18T03:55:36Z",
+      "timestamp": "2025-11-18T04:25:41Z",
       "reported_at": "2025-11-18T01:39:27Z"
+    },
+    {
+      "id": "08b63b14-0f4b-4bcd-8762-175b85cbb7de",
+      "latitude": -35.114121,
+      "longitude": 138.556764,
+      "street": "Bains Rd",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2025-11-18T04:25:41Z",
+      "reported_at": "2025-11-18T01:10:16Z"
+    },
+    {
+      "id": "2a8c0695-12cd-4d82-917c-b818b75f1241",
+      "latitude": -35.023879,
+      "longitude": 138.562244,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-18T04:25:41Z",
+      "reported_at": "2025-11-18T04:20:46Z"
+    },
+    {
+      "id": "f3a13a0e-e94a-4dac-b4e3-f1836ba008b0",
+      "latitude": -34.826106,
+      "longitude": 138.615988,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-18T04:25:41Z",
+      "reported_at": "2025-11-18T04:02:42Z"
     }
   ]
 }
