@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "44d2ab89-38d3-46a3-b916-e9f89ac2448d",
+      "latitude": -34.928713,
+      "longitude": 138.509853,
+      "street": "Coral Sea Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:25:50Z",
+      "reported_at": "2025-11-19T01:31:10Z"
+    },
+    {
       "id": "879a92fd-8266-4009-9ab6-6ecf01893e65",
       "latitude": -34.93079,
       "longitude": 138.534478,
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2025-11-19T03:55:31Z",
+      "timestamp": "2025-11-19T04:25:50Z",
       "reported_at": "2025-11-19T02:35:34Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-19T03:55:31Z",
+      "timestamp": "2025-11-19T04:25:50Z",
       "reported_at": "2025-11-19T02:01:45Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-19T03:55:31Z",
+      "timestamp": "2025-11-19T04:25:50Z",
       "reported_at": "2025-11-19T02:44:14Z"
     },
     {
@@ -37,18 +47,8 @@
       "street": "Unknown Street",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2025-11-19T03:55:31Z",
+      "timestamp": "2025-11-19T04:25:50Z",
       "reported_at": "2025-11-19T03:07:45Z"
-    },
-    {
-      "id": "b74b3f92-e839-44d5-ba06-13fabf4227ed",
-      "latitude": -34.975264,
-      "longitude": 138.572071,
-      "street": "Angus Av",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2025-11-19T03:55:31Z",
-      "reported_at": "2025-11-19T03:25:35Z"
     },
     {
       "id": "b9d4821a-8b8f-412b-aa92-bc14f378ce6b",
@@ -57,8 +57,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-11-19T03:55:31Z",
+      "timestamp": "2025-11-19T04:25:50Z",
       "reported_at": "2025-11-19T02:39:39Z"
+    },
+    {
+      "id": "5fbb92a8-9e90-4517-87bf-341ea5003b13",
+      "latitude": -34.935226,
+      "longitude": 138.511355,
+      "street": "A6 - Burbridge Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:25:50Z",
+      "reported_at": "2025-11-19T03:12:11Z"
     }
   ]
 }
