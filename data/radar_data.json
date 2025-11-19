@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "44d2ab89-38d3-46a3-b916-e9f89ac2448d",
-      "latitude": -34.928713,
-      "longitude": 138.509853,
-      "street": "Coral Sea Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T01:31:10Z"
-    },
-    {
       "id": "879a92fd-8266-4009-9ab6-6ecf01893e65",
       "latitude": -34.93079,
       "longitude": 138.534478,
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
+      "timestamp": "2025-11-19T05:43:03Z",
       "reported_at": "2025-11-19T02:35:34Z"
     },
     {
@@ -27,28 +17,18 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
+      "timestamp": "2025-11-19T05:43:03Z",
       "reported_at": "2025-11-19T02:01:45Z"
     },
     {
-      "id": "971bd148-e5ad-419e-9240-c4da45c5e624",
-      "latitude": -34.721306,
-      "longitude": 138.64327,
-      "street": "West Av",
-      "city": "Edinburgh",
+      "id": "6ca36747-d830-4503-b077-1e4ddbaf5ffb",
+      "latitude": -34.74103,
+      "longitude": 138.602984,
+      "street": "Kensington Way",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:09:04Z"
-    },
-    {
-      "id": "aea66c48-531b-43b9-801e-4432004e7aa3",
-      "latitude": -34.735018,
-      "longitude": 138.64141,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:07:36Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:16:23Z"
     },
     {
       "id": "26fda01f-4484-45f2-b8d6-b67b5216fca5",
@@ -57,78 +37,118 @@
       "street": "Unknown Street",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
+      "timestamp": "2025-11-19T05:43:03Z",
       "reported_at": "2025-11-19T03:07:45Z"
     },
     {
-      "id": "74c46083-3719-4d42-b35c-8caa8ab52cd6",
-      "latitude": -34.931363,
-      "longitude": 138.606181,
-      "street": "Pulteney St",
-      "city": "Adelaide",
+      "id": "971bd148-e5ad-419e-9240-c4da45c5e624",
+      "latitude": -34.721306,
+      "longitude": 138.64327,
+      "street": "West Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:00:34Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:09:04Z"
     },
     {
-      "id": "cb6c7e69-3854-47e2-8432-e5b785ac564e",
-      "latitude": -34.687123,
-      "longitude": 138.632001,
+      "id": "5fef5855-a523-4d6e-a217-d5d5d1d5b538",
+      "latitude": -34.850789,
+      "longitude": 138.483483,
+      "street": "Bower Rd",
+      "city": "Semaphore South",
+      "type": "mobile",
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:10:46Z"
+    },
+    {
+      "id": "67dcda41-7afc-45e6-8008-1074b25754e5",
+      "latitude": -34.929043,
+      "longitude": 138.590905,
+      "street": "Grote St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:35:13Z"
+    },
+    {
+      "id": "bfe3f2f3-1c62-45a4-a2cf-eada004aaf01",
+      "latitude": -34.928501,
+      "longitude": 138.659396,
+      "street": "Glynburn Rd",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:19:21Z"
+    },
+    {
+      "id": "5fc14bd2-91e4-4ad4-97c3-1a88b196bb16",
+      "latitude": -34.768929,
+      "longitude": 138.619734,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:36:59Z"
+    },
+    {
+      "id": "c9741507-395e-4f35-95ec-9c522cedc449",
+      "latitude": -34.73857,
+      "longitude": 138.615129,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:33:46Z"
+    },
+    {
+      "id": "4f9af0e7-719a-44f9-b33d-4d1fa07bda81",
+      "latitude": -34.689752,
+      "longitude": 138.638077,
       "street": "Womma Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:10:12Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:20:05Z"
     },
     {
-      "id": "b9d4821a-8b8f-412b-aa92-bc14f378ce6b",
-      "latitude": -35.128136,
-      "longitude": 138.485511,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "e845fc54-afb0-42db-8dd7-744703f47665",
+      "latitude": -34.982561,
+      "longitude": 138.619867,
+      "street": "B28 - Old Belair Rd",
+      "city": "Mitcham",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T02:39:39Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:38:40Z"
     },
     {
-      "id": "46ed6a70-2e26-4350-9dca-3470e3b51b03",
-      "latitude": -34.877679,
-      "longitude": 138.664006,
-      "street": "Lower North East Rd",
-      "city": "Campbelltown",
+      "id": "34392a19-1792-447f-b265-e6dae2b27a21",
+      "latitude": -34.899041,
+      "longitude": 138.587858,
+      "street": "A22 - Torrens Rd",
+      "city": "Ovingham",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:01:54Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:32:54Z"
     },
     {
-      "id": "c2c4751a-8a9e-404c-9663-a1964de35078",
-      "latitude": -34.768284,
-      "longitude": 138.594113,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Bolivar",
+      "id": "3387036f-3dd4-4d01-b166-4381927e9a6c",
+      "latitude": -35.034293,
+      "longitude": 138.809494,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T04:25:39Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:20:38Z"
     },
     {
-      "id": "a7d86a6c-be7c-4394-b89e-44ad0bc46d3a",
-      "latitude": -34.720863,
-      "longitude": 138.573309,
+      "id": "015dccfd-5d71-436f-b9de-fc9dbf6d6908",
+      "latitude": -34.724348,
+      "longitude": 138.574628,
       "street": "M2 - North-South Mwy",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:02:24Z"
-    },
-    {
-      "id": "e0111163-5d7c-4c08-a249-f35a0fc5126b",
-      "latitude": -34.860614,
-      "longitude": 138.567381,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2025-11-19T05:20:28Z",
-      "reported_at": "2025-11-19T05:16:58Z"
+      "timestamp": "2025-11-19T05:43:03Z",
+      "reported_at": "2025-11-19T05:38:01Z"
     }
   ]
 }
