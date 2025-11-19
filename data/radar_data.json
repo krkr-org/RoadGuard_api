@@ -1,64 +1,74 @@
 {
   "radars": [
     {
-      "id": "53a813e2-dca9-405b-8128-7ef6815db65c",
-      "latitude": -35.033768,
-      "longitude": 138.689731,
+      "id": "8f8275b2-bdf8-4d9d-bcae-90c813547df1",
+      "latitude": -34.93146,
+      "longitude": 138.668509,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T20:56:29Z"
+    },
+    {
+      "id": "16d6f650-82d3-458c-9f86-2e6bfaf73a50",
+      "latitude": -35.048098,
+      "longitude": 138.694167,
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2025-11-19T21:15:52Z",
-      "reported_at": "2025-11-19T20:41:22Z"
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T21:16:58Z"
     },
     {
-      "id": "9aed3813-ade5-4b5e-87c1-037df757ec50",
-      "latitude": -34.82103,
-      "longitude": 138.729204,
-      "street": "A10 - North East Rd",
-      "city": "Tea Tree Gully",
+      "id": "b9d7b1ef-cbad-4b26-8794-18eb3265eb39",
+      "latitude": -34.798133,
+      "longitude": 138.707193,
+      "street": "Golden Grove Rd",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2025-11-19T21:15:52Z",
-      "reported_at": "2025-11-19T20:49:33Z"
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T21:11:02Z"
     },
     {
-      "id": "22471c48-48f8-44c7-81b3-f03f1d39c265",
-      "latitude": -35.018538,
-      "longitude": 138.558962,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2025-11-19T21:15:52Z",
-      "reported_at": "2025-11-19T20:56:41Z"
-    },
-    {
-      "id": "9dbdf671-ed6c-4bf3-ab7c-a23428d0b71f",
-      "latitude": -34.900232,
-      "longitude": 138.603165,
+      "id": "4ac65883-8cb2-4e4a-9fec-081fa2dc66d7",
+      "latitude": -34.900889,
+      "longitude": 138.605136,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-19T21:15:52Z",
-      "reported_at": "2025-11-19T21:08:06Z"
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T20:38:29Z"
     },
     {
-      "id": "ccd913b2-3fa5-4fc5-b1a3-6444fbe184d8",
-      "latitude": -34.845378,
-      "longitude": 138.66374,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Valley View",
+      "id": "6e759e74-f613-4469-b8c4-25f6325f6e2a",
+      "latitude": -35.020069,
+      "longitude": 138.559073,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2025-11-19T21:15:52Z",
-      "reported_at": "2025-11-19T20:49:52Z"
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T21:31:36Z"
     },
     {
-      "id": "a371d456-04ab-4ea0-b674-aeb91a713b41",
-      "latitude": -34.923691,
-      "longitude": 138.617399,
+      "id": "0442c2c3-d35f-4653-b03e-95885d838e3b",
+      "latitude": -34.913169,
+      "longitude": 138.687547,
+      "street": "B27 - Old Norton Summit Rd",
+      "city": "Teringie",
+      "type": "mobile",
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T21:16:04Z"
+    },
+    {
+      "id": "255bf905-7005-4046-b110-70d5b59743a0",
+      "latitude": -34.925646,
+      "longitude": 138.620137,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-19T21:15:52Z",
-      "reported_at": "2025-11-19T21:14:11Z"
+      "timestamp": "2025-11-19T21:37:26Z",
+      "reported_at": "2025-11-19T21:23:43Z"
     }
   ]
 }
