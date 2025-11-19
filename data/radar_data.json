@@ -7,7 +7,7 @@
       "street": "Coral Sea Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
+      "timestamp": "2025-11-19T04:45:47Z",
       "reported_at": "2025-11-19T01:31:10Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
+      "timestamp": "2025-11-19T04:45:47Z",
       "reported_at": "2025-11-19T02:35:34Z"
+    },
+    {
+      "id": "a9b2fadb-b7a0-43bc-8476-769b7374b699",
+      "latitude": -34.735769,
+      "longitude": 138.643146,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T04:35:00Z"
     },
     {
       "id": "26b96ea2-a0e2-41cc-8dbb-bc071d027215",
@@ -27,18 +37,8 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
+      "timestamp": "2025-11-19T04:45:47Z",
       "reported_at": "2025-11-19T02:01:45Z"
-    },
-    {
-      "id": "44a7515b-0546-4d31-80ea-e2dd6d3d730a",
-      "latitude": -34.91344,
-      "longitude": 138.519211,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
-      "reported_at": "2025-11-19T02:44:14Z"
     },
     {
       "id": "26fda01f-4484-45f2-b8d6-b67b5216fca5",
@@ -47,8 +47,38 @@
       "street": "Unknown Street",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
+      "timestamp": "2025-11-19T04:45:47Z",
       "reported_at": "2025-11-19T03:07:45Z"
+    },
+    {
+      "id": "44a7515b-0546-4d31-80ea-e2dd6d3d730a",
+      "latitude": -34.91344,
+      "longitude": 138.519211,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T02:44:14Z"
+    },
+    {
+      "id": "613f71c0-05aa-4748-9efe-7ae1df1109b0",
+      "latitude": -34.927593,
+      "longitude": 138.62897,
+      "street": "Kensington Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T04:23:18Z"
+    },
+    {
+      "id": "8f15cf30-d135-4266-be36-a3673465f8a4",
+      "latitude": -34.942533,
+      "longitude": 138.562642,
+      "street": "Richmond Rd",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T04:22:29Z"
     },
     {
       "id": "b9d4821a-8b8f-412b-aa92-bc14f378ce6b",
@@ -57,7 +87,7 @@
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
+      "timestamp": "2025-11-19T04:45:47Z",
       "reported_at": "2025-11-19T02:39:39Z"
     },
     {
@@ -67,8 +97,38 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-19T04:25:50Z",
+      "timestamp": "2025-11-19T04:45:47Z",
       "reported_at": "2025-11-19T03:12:11Z"
+    },
+    {
+      "id": "3954bcf6-bf59-4b3c-be18-9bd5b00a69b4",
+      "latitude": -34.84382,
+      "longitude": 138.599746,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T04:30:20Z"
+    },
+    {
+      "id": "ca8588cf-dd6f-4a44-9073-b97204eb7e8a",
+      "latitude": -34.820759,
+      "longitude": 138.621185,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T04:43:37Z"
+    },
+    {
+      "id": "c2c4751a-8a9e-404c-9663-a1964de35078",
+      "latitude": -34.768284,
+      "longitude": 138.594113,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-19T04:45:47Z",
+      "reported_at": "2025-11-19T04:25:39Z"
     }
   ]
 }
