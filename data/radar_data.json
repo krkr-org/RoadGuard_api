@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "30b3a6e7-2f72-495b-b9cf-339d530ba360",
-      "latitude": -35.054826,
-      "longitude": 138.539707,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "482756eb-da9c-489c-a11e-e43a8cd983f4",
+      "latitude": -34.717917,
+      "longitude": 138.628576,
+      "street": "Fisher Bvd",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-19T20:20:10Z",
-      "reported_at": "2025-11-19T20:04:19Z"
-    },
-    {
-      "id": "bd0ade70-024e-4c0e-85c6-72e59efb468c",
-      "latitude": -34.779865,
-      "longitude": 138.673569,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2025-11-19T20:20:10Z",
-      "reported_at": "2025-11-19T20:01:43Z"
+      "timestamp": "2025-11-19T20:39:04Z",
+      "reported_at": "2025-11-19T20:25:41Z"
     },
     {
       "id": "d4419807-ee76-47e8-9d76-3e65f6d6bb33",
@@ -27,18 +17,28 @@
       "street": "Commercial Rd",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-11-19T20:20:10Z",
+      "timestamp": "2025-11-19T20:39:04Z",
       "reported_at": "2025-11-19T19:22:10Z"
     },
     {
-      "id": "7fa76368-4fd6-40ef-a187-42201f7408ff",
-      "latitude": -34.767835,
-      "longitude": 138.673999,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
+      "id": "bd0ade70-024e-4c0e-85c6-72e59efb468c",
+      "latitude": -34.779865,
+      "longitude": 138.673569,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-11-19T20:20:10Z",
-      "reported_at": "2025-11-19T19:59:41Z"
+      "timestamp": "2025-11-19T20:39:04Z",
+      "reported_at": "2025-11-19T20:01:43Z"
+    },
+    {
+      "id": "365b31c2-68d9-401a-bd4e-5f3f7c61cab7",
+      "latitude": -34.917433,
+      "longitude": 138.622857,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-19T20:39:04Z",
+      "reported_at": "2025-11-19T20:25:07Z"
     }
   ]
 }
