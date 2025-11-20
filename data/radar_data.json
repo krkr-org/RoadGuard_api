@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "8b914f4d-ce4a-46c9-8f36-656f29a97805",
-      "latitude": -34.916148,
-      "longitude": 138.60559,
-      "street": "Frome Rd",
-      "city": "Adelaide",
+      "id": "a71b5ff1-194a-455d-baf4-7d9bb8cafc85",
+      "latitude": -34.919727,
+      "longitude": 138.549224,
+      "street": "Golden Glow Av",
+      "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:36:47Z",
-      "reported_at": "2025-11-20T21:25:22Z"
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T21:42:44Z"
+    },
+    {
+      "id": "953b57ba-7f7b-4a2f-baba-fe58affd94e8",
+      "latitude": -34.694951,
+      "longitude": 138.692184,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T21:33:54Z"
+    },
+    {
+      "id": "e2827359-6df4-4340-8913-a6ae0b481c85",
+      "latitude": -34.854404,
+      "longitude": 138.502363,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T21:42:28Z"
+    },
+    {
+      "id": "71e9e980-f639-4ed5-a862-c33c4cf2da0b",
+      "latitude": -34.81836,
+      "longitude": 138.674425,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T21:49:36Z"
     },
     {
       "id": "74a3b088-0298-4182-a5f3-f59ea7b57f28",
@@ -17,7 +47,7 @@
       "street": "Elizabeth Way",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:36:47Z",
+      "timestamp": "2025-11-20T22:18:37Z",
       "reported_at": "2025-11-20T21:20:21Z"
     },
     {
@@ -27,38 +57,58 @@
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:36:47Z",
+      "timestamp": "2025-11-20T22:18:37Z",
       "reported_at": "2025-11-20T21:05:57Z"
     },
     {
-      "id": "f7ad1355-f800-4bf2-b054-3f57e1b419ee",
-      "latitude": -34.858168,
-      "longitude": 138.511657,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
+      "id": "6b35cb40-dde6-4454-835b-b82f14eb1ff3",
+      "latitude": -34.915142,
+      "longitude": 138.613959,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:36:47Z",
-      "reported_at": "2025-11-20T21:07:14Z"
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T22:10:11Z"
     },
     {
-      "id": "19bc7b12-5b06-4e8a-87d0-133c0bc60714",
-      "latitude": -34.752074,
-      "longitude": 138.65426,
+      "id": "31812c85-1577-4161-8bd6-eb1afd565c92",
+      "latitude": -34.785149,
+      "longitude": 138.636367,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T22:04:14Z"
+    },
+    {
+      "id": "9f2e0199-25a4-48a4-8a5f-864b3dc6587b",
+      "latitude": -34.752105,
+      "longitude": 138.653585,
       "street": "A9 - John Rice Av",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:36:47Z",
-      "reported_at": "2025-11-20T21:18:40Z"
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T22:01:19Z"
     },
     {
-      "id": "e0b6fb14-07d1-46e8-9320-fee38eccc2cc",
-      "latitude": -34.968672,
-      "longitude": 138.662672,
+      "id": "6a98fd91-fff0-4640-81cc-1c03c6195f02",
+      "latitude": -34.98701,
+      "longitude": 138.693612,
       "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
+      "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:36:47Z",
-      "reported_at": "2025-11-20T20:56:52Z"
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T22:04:45Z"
+    },
+    {
+      "id": "d50a13f9-70a7-46f7-9618-5169aa49c8f9",
+      "latitude": -35.003443,
+      "longitude": 138.764498,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2025-11-20T22:18:37Z",
+      "reported_at": "2025-11-20T21:59:32Z"
     }
   ]
 }
