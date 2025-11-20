@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "874c54a3-99ce-4360-8a66-6913a8467007",
+      "latitude": -34.906095,
+      "longitude": 138.595862,
+      "street": "O'Connell St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-20T14:42:23Z",
+      "reported_at": "2025-11-20T14:12:14Z"
+    },
+    {
+      "id": "0801a748-8fa5-4037-9630-50fd66df81f1",
+      "latitude": -34.825013,
+      "longitude": 138.635067,
+      "street": "Bridge Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2025-11-20T14:42:23Z",
+      "reported_at": "2025-11-20T14:33:16Z"
+    }
+  ]
 }
