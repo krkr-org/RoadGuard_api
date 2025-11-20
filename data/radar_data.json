@@ -1,34 +1,64 @@
 {
   "radars": [
     {
+      "id": "45a42ea2-df60-46c2-9927-6fb6336d3a43",
+      "latitude": -34.720609,
+      "longitude": 138.681605,
+      "street": "Kinkaid Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T21:17:52Z"
+    },
+    {
+      "id": "a635d8cd-1bab-47a2-9da0-e0a9b6531293",
+      "latitude": -34.738697,
+      "longitude": 138.670136,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Grove",
+      "type": "mobile",
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T21:29:09Z"
+    },
+    {
+      "id": "654f6034-8135-4e5a-a72c-8900039648c2",
+      "latitude": -34.938154,
+      "longitude": 138.536032,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T22:43:16Z"
+    },
+    {
       "id": "953b57ba-7f7b-4a2f-baba-fe58affd94e8",
       "latitude": -34.694951,
       "longitude": 138.692184,
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
+      "timestamp": "2025-11-20T23:18:44Z",
       "reported_at": "2025-11-20T21:33:54Z"
     },
     {
-      "id": "c23df534-7023-4b88-9a6d-f65c44df4dae",
-      "latitude": -34.918747,
-      "longitude": 138.622963,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
+      "id": "55793c05-ec41-4cf0-9845-451f7cd99606",
+      "latitude": -34.900907,
+      "longitude": 138.566906,
+      "street": "South Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
-      "reported_at": "2025-11-20T22:19:14Z"
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T22:05:02Z"
     },
     {
-      "id": "74a3b088-0298-4182-a5f3-f59ea7b57f28",
-      "latitude": -34.717158,
-      "longitude": 138.666259,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
+      "id": "84d1f0ac-b01c-4487-a5a3-be0ca094adfc",
+      "latitude": -34.886146,
+      "longitude": 138.548902,
+      "street": "Kilkenny Rd",
+      "city": "Woodville Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
-      "reported_at": "2025-11-20T21:20:21Z"
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T22:09:59Z"
     },
     {
       "id": "6d173f09-b134-4aaf-a783-0c961dd6b7ee",
@@ -37,18 +67,28 @@
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
+      "timestamp": "2025-11-20T23:18:44Z",
       "reported_at": "2025-11-20T21:05:57Z"
     },
     {
-      "id": "788b93b0-6183-43a0-94c3-25a164f0c1a8",
-      "latitude": -34.752558,
-      "longitude": 138.651598,
+      "id": "74a3b088-0298-4182-a5f3-f59ea7b57f28",
+      "latitude": -34.717158,
+      "longitude": 138.666259,
+      "street": "Elizabeth Way",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T21:20:21Z"
+    },
+    {
+      "id": "ad2e443c-b5c4-4575-a032-0fb44330a4dc",
+      "latitude": -34.752196,
+      "longitude": 138.653574,
       "street": "A9 - John Rice Av",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
-      "reported_at": "2025-11-20T21:18:54Z"
+      "timestamp": "2025-11-20T23:18:44Z",
+      "reported_at": "2025-11-20T22:21:49Z"
     },
     {
       "id": "6a98fd91-fff0-4640-81cc-1c03c6195f02",
@@ -57,18 +97,8 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
+      "timestamp": "2025-11-20T23:18:44Z",
       "reported_at": "2025-11-20T22:04:45Z"
-    },
-    {
-      "id": "ade67a45-3150-4df6-add3-e812815a5edd",
-      "latitude": -34.875126,
-      "longitude": 138.571245,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2025-11-20T22:39:44Z",
-      "reported_at": "2025-11-20T22:20:53Z"
     }
   ]
 }
