@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "6772da03-4a91-410a-b5f9-b18bfa158185",
-      "latitude": -34.72557,
-      "longitude": 138.64059,
-      "street": "West Av",
-      "city": "Edinburgh",
+      "id": "a508a00f-2b46-41a7-aa03-fd4c390f4efe",
+      "latitude": -34.726022,
+      "longitude": 138.666476,
+      "street": "Philip Hwy",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T20:41:56Z",
-      "reported_at": "2025-11-20T20:07:32Z"
+      "timestamp": "2025-11-20T21:18:44Z",
+      "reported_at": "2025-11-20T21:09:48Z"
+    },
+    {
+      "id": "f7ad1355-f800-4bf2-b054-3f57e1b419ee",
+      "latitude": -34.858168,
+      "longitude": 138.511657,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2025-11-20T21:18:44Z",
+      "reported_at": "2025-11-20T21:07:14Z"
+    },
+    {
+      "id": "78fd30f4-bf0a-4d05-b81a-6181f5770e77",
+      "latitude": -34.967115,
+      "longitude": 138.667371,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-20T21:18:44Z",
+      "reported_at": "2025-11-20T20:59:19Z"
     }
   ]
 }
