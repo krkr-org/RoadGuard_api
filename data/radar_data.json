@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "a508a00f-2b46-41a7-aa03-fd4c390f4efe",
-      "latitude": -34.726022,
-      "longitude": 138.666476,
+      "id": "8b914f4d-ce4a-46c9-8f36-656f29a97805",
+      "latitude": -34.916148,
+      "longitude": 138.60559,
+      "street": "Frome Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-20T21:36:47Z",
+      "reported_at": "2025-11-20T21:25:22Z"
+    },
+    {
+      "id": "74a3b088-0298-4182-a5f3-f59ea7b57f28",
+      "latitude": -34.717158,
+      "longitude": 138.666259,
+      "street": "Elizabeth Way",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2025-11-20T21:36:47Z",
+      "reported_at": "2025-11-20T21:20:21Z"
+    },
+    {
+      "id": "6d173f09-b134-4aaf-a783-0c961dd6b7ee",
+      "latitude": -34.726087,
+      "longitude": 138.666435,
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:18:44Z",
-      "reported_at": "2025-11-20T21:09:48Z"
+      "timestamp": "2025-11-20T21:36:47Z",
+      "reported_at": "2025-11-20T21:05:57Z"
     },
     {
       "id": "f7ad1355-f800-4bf2-b054-3f57e1b419ee",
@@ -17,18 +37,28 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:18:44Z",
+      "timestamp": "2025-11-20T21:36:47Z",
       "reported_at": "2025-11-20T21:07:14Z"
     },
     {
-      "id": "78fd30f4-bf0a-4d05-b81a-6181f5770e77",
-      "latitude": -34.967115,
-      "longitude": 138.667371,
+      "id": "19bc7b12-5b06-4e8a-87d0-133c0bc60714",
+      "latitude": -34.752074,
+      "longitude": 138.65426,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2025-11-20T21:36:47Z",
+      "reported_at": "2025-11-20T21:18:40Z"
+    },
+    {
+      "id": "e0b6fb14-07d1-46e8-9320-fee38eccc2cc",
+      "latitude": -34.968672,
+      "longitude": 138.662672,
       "street": "M1 - South Eastern Fwy",
       "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-20T21:18:44Z",
-      "reported_at": "2025-11-20T20:59:19Z"
+      "timestamp": "2025-11-20T21:36:47Z",
+      "reported_at": "2025-11-20T20:56:52Z"
     }
   ]
 }
