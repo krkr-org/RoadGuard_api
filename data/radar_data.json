@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "bde44108-0a04-4187-a8ca-a7f7fc7d3bef",
-      "latitude": -34.894427,
-      "longitude": 138.68173,
+      "id": "3c707618-453e-49a0-9551-53255d4c3622",
+      "latitude": -34.894426,
+      "longitude": 138.681757,
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-19T23:45:28Z"
-    },
-    {
-      "id": "3e2d2a2f-dc6a-4337-b0ec-d67d4c3af63a",
-      "latitude": -34.932936,
-      "longitude": 138.668645,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-19T22:58:29Z"
-    },
-    {
-      "id": "36aba7c1-96d0-49a1-a89a-5cbfcdbd0475",
-      "latitude": -34.93193,
-      "longitude": 138.63268,
-      "street": "Grant Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-19T22:06:56Z"
-    },
-    {
-      "id": "16830a39-6661-48b2-ad30-d403224450f2",
-      "latitude": -34.903687,
-      "longitude": 138.667176,
-      "street": "Arthur St",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-19T22:38:52Z"
+      "timestamp": "2025-11-20T02:58:10Z",
+      "reported_at": "2025-11-20T01:02:38Z"
     },
     {
       "id": "ba1088b6-b7af-41a3-9f34-f344209492dc",
@@ -47,8 +17,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
+      "timestamp": "2025-11-20T02:58:10Z",
       "reported_at": "2025-11-19T21:12:16Z"
+    },
+    {
+      "id": "3e2d2a2f-dc6a-4337-b0ec-d67d4c3af63a",
+      "latitude": -34.932936,
+      "longitude": 138.668645,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2025-11-20T02:58:10Z",
+      "reported_at": "2025-11-19T22:58:29Z"
     },
     {
       "id": "81e33817-ffb7-45e8-a764-9e07191b100a",
@@ -57,58 +37,48 @@
       "street": "Lady Gowrie Dr",
       "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
+      "timestamp": "2025-11-20T02:58:10Z",
       "reported_at": "2025-11-20T00:01:19Z"
     },
     {
-      "id": "4851a730-794f-49ad-99ea-2933be850dba",
-      "latitude": -34.926299,
-      "longitude": 138.522652,
-      "street": "Henley Beach Rd",
-      "city": "Lockleys",
+      "id": "fa9f4401-415b-4527-a559-7b83e95df492",
+      "latitude": -34.683876,
+      "longitude": 138.671526,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-20T01:18:49Z"
+      "timestamp": "2025-11-20T02:58:10Z",
+      "reported_at": "2025-11-20T02:41:46Z"
     },
     {
-      "id": "76f9ac46-abb5-4f4a-9b06-dce318cfcfb7",
-      "latitude": -34.900368,
-      "longitude": 138.603265,
+      "id": "f6f73cc5-e89f-41ca-8756-837a946f43d8",
+      "latitude": -34.900494,
+      "longitude": 138.604092,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-19T22:24:18Z"
+      "timestamp": "2025-11-20T02:58:10Z",
+      "reported_at": "2025-11-20T02:06:15Z"
     },
     {
-      "id": "dd06a431-7cfc-4223-8d3c-789d276465ac",
-      "latitude": -34.912873,
-      "longitude": 138.684676,
+      "id": "eb39d241-ed13-4ace-b71b-8db8141dc252",
+      "latitude": -34.912827,
+      "longitude": 138.684145,
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-19T21:49:45Z"
+      "timestamp": "2025-11-20T02:58:10Z",
+      "reported_at": "2025-11-20T00:39:53Z"
     },
     {
-      "id": "d9e0d3a1-a465-46fe-86ac-6aae67a85ca9",
-      "latitude": -34.987844,
-      "longitude": 138.556642,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
+      "id": "655861b0-5ea4-48a3-a054-ceb805f0718b",
+      "latitude": -34.868032,
+      "longitude": 138.570559,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-20T01:12:17Z"
-    },
-    {
-      "id": "62f9cba8-519c-4281-9c8d-760c3c3d6141",
-      "latitude": -34.806324,
-      "longitude": 138.596893,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2025-11-20T01:28:42Z",
-      "reported_at": "2025-11-20T00:57:11Z"
+      "timestamp": "2025-11-20T02:58:10Z",
+      "reported_at": "2025-11-20T02:35:59Z"
     }
   ]
 }
