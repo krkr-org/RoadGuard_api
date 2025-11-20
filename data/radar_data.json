@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "ee8b60e6-5a08-4413-baa6-4f5f15645796",
-      "latitude": -35.007957,
-      "longitude": 138.561508,
+      "id": "e460597b-3cb9-4b4c-992c-677ec22aee36",
+      "latitude": -34.961332,
+      "longitude": 138.615109,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T05:07:57Z"
+    },
+    {
+      "id": "69b2aa8c-2078-46b0-9293-77fab64d314d",
+      "latitude": -34.964301,
+      "longitude": 138.581567,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T05:54:00Z"
+    },
+    {
+      "id": "52d4635f-47dc-4a2b-b112-371d052ea3c9",
+      "latitude": -34.970892,
+      "longitude": 138.62477,
+      "street": "Kitchener St",
+      "city": "Netherby",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T06:12:15Z"
+    },
+    {
+      "id": "e88c4dd5-ca59-42f1-b34f-2fb520a562db",
+      "latitude": -35.008061,
+      "longitude": 138.5621,
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:20:13Z"
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T06:05:09Z"
+    },
+    {
+      "id": "97821472-76e2-48de-b447-a360f06b287e",
+      "latitude": -34.964574,
+      "longitude": 138.563687,
+      "street": "Winifred Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T05:11:15Z"
     },
     {
       "id": "58c904e2-0b40-44dd-af1c-808feb2958fb",
@@ -17,38 +57,8 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
+      "timestamp": "2025-11-20T06:30:16Z",
       "reported_at": "2025-11-20T05:37:21Z"
-    },
-    {
-      "id": "ad16f611-6d66-4400-ab69-d6da81a3d994",
-      "latitude": -34.961278,
-      "longitude": 138.615105,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:29:36Z"
-    },
-    {
-      "id": "55f52087-c1f9-463e-b436-cffd8118b1a0",
-      "latitude": -34.963279,
-      "longitude": 138.581493,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:09:36Z"
-    },
-    {
-      "id": "fa4a3eb2-1acf-4cf0-8233-8d3856ac7b1d",
-      "latitude": -34.765976,
-      "longitude": 138.606524,
-      "street": "Whites Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:16:32Z"
     },
     {
       "id": "98d2a25e-22a6-4de6-8c3d-36efeaa8de8c",
@@ -57,7 +67,7 @@
       "street": "Dunorlan Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
+      "timestamp": "2025-11-20T06:30:16Z",
       "reported_at": "2025-11-20T05:15:48Z"
     },
     {
@@ -67,8 +77,38 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
+      "timestamp": "2025-11-20T06:30:16Z",
       "reported_at": "2025-11-20T05:32:48Z"
+    },
+    {
+      "id": "9dd083ea-d8c5-426e-ae97-82c588892496",
+      "latitude": -34.910416,
+      "longitude": 138.598935,
+      "street": "King William Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T05:49:24Z"
+    },
+    {
+      "id": "cdf23ac5-ad4e-4167-ba58-a9893c2c41e8",
+      "latitude": -35.017062,
+      "longitude": 138.561701,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T05:31:10Z"
+    },
+    {
+      "id": "80f3071e-5ebc-428f-950d-72275c7c4af5",
+      "latitude": -34.927069,
+      "longitude": 138.639401,
+      "street": "Kensington Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T06:17:54Z"
     },
     {
       "id": "a03fa2d7-91ba-450c-a7ae-6b449f8c1a27",
@@ -77,38 +117,28 @@
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
+      "timestamp": "2025-11-20T06:30:16Z",
       "reported_at": "2025-11-20T04:28:46Z"
     },
     {
-      "id": "f16b93f5-4ccf-4cea-8177-941bbf45ce35",
-      "latitude": -34.925026,
-      "longitude": 138.544015,
-      "street": "Henley Beach Rd",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:23:07Z"
-    },
-    {
-      "id": "e25d0f6c-d972-434e-a998-e012fc1430ae",
-      "latitude": -34.903402,
-      "longitude": 138.568779,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:15:55Z"
-    },
-    {
-      "id": "1a05479a-810b-446f-b62b-56068065ade4",
-      "latitude": -35.051492,
-      "longitude": 138.546913,
-      "street": "M2 - Southern Exp",
+      "id": "effce167-42e5-4d3b-b696-c833154da569",
+      "latitude": -35.061228,
+      "longitude": 138.558978,
+      "street": "A13 - Main South Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2025-11-20T05:42:47Z",
-      "reported_at": "2025-11-20T05:34:05Z"
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T06:11:56Z"
+    },
+    {
+      "id": "7cfb8bae-e71a-4316-bd1c-bbfce4ed08ed",
+      "latitude": -34.901293,
+      "longitude": 138.606583,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-20T06:30:16Z",
+      "reported_at": "2025-11-20T06:04:59Z"
     }
   ]
 }
