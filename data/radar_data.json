@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "1595a480-68db-416e-bf74-204453c4652c",
-      "latitude": -34.970817,
-      "longitude": 138.626229,
+      "id": "3242477d-8b62-4144-9bbd-138aa552a775",
+      "latitude": -34.794251,
+      "longitude": 138.612855,
+      "street": "Unknown Street",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T11:28:15Z"
+    },
+    {
+      "id": "14e3fbc1-f29a-4ed5-9279-84e244c72d9a",
+      "latitude": -34.971113,
+      "longitude": 138.619653,
       "street": "Kitchener St",
       "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T07:19:58Z"
-    },
-    {
-      "id": "06a53209-fa45-4297-a37b-38d98c224bac",
-      "latitude": -34.964969,
-      "longitude": 138.563717,
-      "street": "Winifred Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T10:57:28Z"
-    },
-    {
-      "id": "a6289484-9589-4f52-9b64-0a70d580712e",
-      "latitude": -34.961821,
-      "longitude": 138.615144,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T05:03:44Z"
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T06:45:49Z"
     },
     {
       "id": "865a8e9e-ff66-4b4c-b07e-638bec045769",
@@ -37,18 +27,28 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
+      "timestamp": "2025-11-20T11:38:27Z",
       "reported_at": "2025-11-20T07:10:39Z"
     },
     {
-      "id": "5a949099-8b2a-47ff-aa7a-e8ac36deba03",
-      "latitude": -34.856351,
-      "longitude": 138.502476,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
+      "id": "a6289484-9589-4f52-9b64-0a70d580712e",
+      "latitude": -34.961821,
+      "longitude": 138.615144,
+      "street": "Duthy St",
+      "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T10:50:25Z"
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T05:03:44Z"
+    },
+    {
+      "id": "06a53209-fa45-4297-a37b-38d98c224bac",
+      "latitude": -34.964969,
+      "longitude": 138.563717,
+      "street": "Winifred Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T10:57:28Z"
     },
     {
       "id": "4933faf2-fe0c-4750-8ac0-e6f678e23433",
@@ -57,18 +57,18 @@
       "street": "Old Port Rd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
+      "timestamp": "2025-11-20T11:38:27Z",
       "reported_at": "2025-11-20T10:56:33Z"
     },
     {
-      "id": "11ec9881-1e45-4b31-b84b-aeeff3a1f995",
-      "latitude": -34.9924,
-      "longitude": 138.582848,
+      "id": "9c7c479c-117d-41bb-8d5a-6e1ab887ff33",
+      "latitude": -34.9926,
+      "longitude": 138.581081,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T06:04:40Z"
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T08:28:37Z"
     },
     {
       "id": "c863ac9a-124e-404f-923f-734e72d8adbb",
@@ -77,18 +77,18 @@
       "street": "Sturt Rd",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
+      "timestamp": "2025-11-20T11:38:27Z",
       "reported_at": "2025-11-20T07:27:43Z"
     },
     {
-      "id": "daff3c20-0260-4b78-a8f6-589f79db4697",
-      "latitude": -34.965481,
-      "longitude": 138.516668,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "id": "375513c7-9e6a-45a3-ba0a-8c3e16d286b3",
+      "latitude": -34.99331,
+      "longitude": 138.565513,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T10:53:55Z"
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T11:25:17Z"
     },
     {
       "id": "aec83a9c-8e4a-4680-813f-54374ecbf1df",
@@ -97,38 +97,18 @@
       "street": "A5 - Anzac Hwy",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
+      "timestamp": "2025-11-20T11:38:27Z",
       "reported_at": "2025-11-20T08:10:23Z"
     },
     {
-      "id": "928b5858-b2d4-4ed2-a6a1-987680b6d68a",
-      "latitude": -35.050478,
-      "longitude": 138.54701,
+      "id": "6cd92154-7fb6-4c7c-98f7-dc179cc010ee",
+      "latitude": -35.05409,
+      "longitude": 138.546329,
       "street": "M2 - Southern Exp",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T10:44:08Z"
-    },
-    {
-      "id": "8d1bb96d-7ae3-4d87-91d7-b6f85c20b837",
-      "latitude": -35.057273,
-      "longitude": 138.545654,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T11:12:35Z"
-    },
-    {
-      "id": "92f81c8c-a0d6-4ea0-b158-17ec85953674",
-      "latitude": -35.047866,
-      "longitude": 138.548976,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2025-11-20T11:18:11Z",
-      "reported_at": "2025-11-20T11:01:54Z"
+      "timestamp": "2025-11-20T11:38:27Z",
+      "reported_at": "2025-11-20T11:12:22Z"
     }
   ]
 }
