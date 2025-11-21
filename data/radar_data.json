@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "932b3584-193d-4301-bfbb-ee4df0581125",
-      "latitude": -34.857676,
-      "longitude": 138.504616,
+      "id": "568d5917-f939-4561-aa7c-fdfd1e54b2de",
+      "latitude": -34.85731,
+      "longitude": 138.505029,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T05:39:23Z"
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T06:18:59Z"
     },
     {
       "id": "adb8f111-b043-401d-9ed0-53475048508f",
@@ -17,48 +17,18 @@
       "street": "May Tce",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
+      "timestamp": "2025-11-21T07:20:07Z",
       "reported_at": "2025-11-21T05:35:33Z"
     },
     {
-      "id": "7dd2d38d-9bca-4387-b6e2-db7311dee6bc",
-      "latitude": -34.962102,
-      "longitude": 138.512406,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "dd8c872c-d014-474e-9c84-b5d68e507466",
+      "latitude": -34.816542,
+      "longitude": 138.635522,
+      "street": "Research Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T06:05:50Z"
-    },
-    {
-      "id": "36956d1e-09cd-4da2-b79a-6974f48bc7eb",
-      "latitude": -34.867952,
-      "longitude": 138.565762,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T05:23:24Z"
-    },
-    {
-      "id": "8ccbfe57-965a-4d5c-b198-a6379e5da696",
-      "latitude": -34.755141,
-      "longitude": 138.593878,
-      "street": "Liberator Dr",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T03:33:01Z"
-    },
-    {
-      "id": "6d6db653-de59-49c1-a179-5b65fe353fbe",
-      "latitude": -34.737479,
-      "longitude": 138.647098,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T05:25:52Z"
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T06:54:43Z"
     },
     {
       "id": "b69ee9f2-5f0c-49ee-900e-6b1275f45695",
@@ -67,8 +37,18 @@
       "street": "Bedford St",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
+      "timestamp": "2025-11-21T07:20:07Z",
       "reported_at": "2025-11-21T05:02:58Z"
+    },
+    {
+      "id": "9bb5d43d-9a25-43a6-9e9e-8842a45361a3",
+      "latitude": -34.861801,
+      "longitude": 138.526328,
+      "street": "Torrens Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T07:09:30Z"
     },
     {
       "id": "7e24c84e-277f-441d-8854-512c56be5a4c",
@@ -77,38 +57,78 @@
       "street": "The Parade West",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
+      "timestamp": "2025-11-21T07:20:07Z",
       "reported_at": "2025-11-21T05:51:09Z"
     },
     {
-      "id": "1d0baaf0-14e5-44d4-890c-0176c4aff5db",
-      "latitude": -34.860884,
-      "longitude": 138.524821,
-      "street": "Torrens Rd",
-      "city": "Pennington",
+      "id": "6d6db653-de59-49c1-a179-5b65fe353fbe",
+      "latitude": -34.737479,
+      "longitude": 138.647098,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T05:39:20Z"
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T05:25:52Z"
     },
     {
-      "id": "8b4a3aca-1c1c-45c7-8f8a-4f8167034668",
-      "latitude": -34.936396,
-      "longitude": 138.660003,
+      "id": "02f8e76c-b1e6-4524-8ebf-423affda84f9",
+      "latitude": -34.926379,
+      "longitude": 138.587845,
+      "street": "Waymouth St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T06:57:29Z"
+    },
+    {
+      "id": "8ccbfe57-965a-4d5c-b198-a6379e5da696",
+      "latitude": -34.755141,
+      "longitude": 138.593878,
+      "street": "Liberator Dr",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T03:33:01Z"
+    },
+    {
+      "id": "3a54d854-838d-42f6-a85c-893d38dfadff",
+      "latitude": -34.866788,
+      "longitude": 138.56568,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T05:11:45Z"
+    },
+    {
+      "id": "3ef2dbca-1e65-40af-8228-08f41a5b9d71",
+      "latitude": -34.936695,
+      "longitude": 138.660025,
       "street": "Glynburn Rd",
       "city": "Hazelwood Park",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T05:55:06Z"
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T06:32:36Z"
     },
     {
-      "id": "7b7983e3-4d53-491a-9198-c3da84d7beb8",
-      "latitude": -34.932098,
-      "longitude": 138.588173,
-      "street": "West Tce",
+      "id": "07220a4d-ec97-421c-add0-83aafb55cf0d",
+      "latitude": -34.938498,
+      "longitude": 138.612487,
+      "street": "Glen Osmond Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T05:53:38Z"
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T06:56:04Z"
+    },
+    {
+      "id": "abeb548e-a614-4e4f-bbd3-e185f9a24945",
+      "latitude": -34.926307,
+      "longitude": 138.5182,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2025-11-21T07:20:07Z",
+      "reported_at": "2025-11-21T06:59:15Z"
     },
     {
       "id": "992729e6-a3e4-48c6-9579-95b4a14924d9",
@@ -117,7 +137,7 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
+      "timestamp": "2025-11-21T07:20:07Z",
       "reported_at": "2025-11-21T05:32:30Z"
     },
     {
@@ -127,58 +147,8 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
+      "timestamp": "2025-11-21T07:20:07Z",
       "reported_at": "2025-11-21T05:52:40Z"
-    },
-    {
-      "id": "0a0bc8e7-3c79-4b1c-9857-c486dc3d0fff",
-      "latitude": -35.023802,
-      "longitude": 138.56233,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T06:20:58Z"
-    },
-    {
-      "id": "cc7ae283-289f-4249-91c7-bd7aab138e88",
-      "latitude": -34.931866,
-      "longitude": 138.571355,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Mile End",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T06:06:44Z"
-    },
-    {
-      "id": "f121744f-a9fd-4160-8cc2-96f5d9e453c9",
-      "latitude": -34.932275,
-      "longitude": 138.562142,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Hilton",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T06:08:10Z"
-    },
-    {
-      "id": "e3b033c4-3f7b-49bb-a018-0dcb58cd370c",
-      "latitude": -34.867758,
-      "longitude": 138.676906,
-      "street": "A11 - Lower North East Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T06:09:55Z"
-    },
-    {
-      "id": "6836f91e-d0ff-4e00-9819-51c9ca258510",
-      "latitude": -34.854525,
-      "longitude": 138.69697,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2025-11-21T06:31:53Z",
-      "reported_at": "2025-11-21T06:21:36Z"
     }
   ]
 }
