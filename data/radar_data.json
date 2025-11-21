@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "983244d1-c14e-41b0-807d-eb541a92d594",
+      "latitude": -35.006433,
+      "longitude": 138.587873,
+      "street": "Fiveash Dr",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2025-11-21T21:18:15Z",
+      "reported_at": "2025-11-21T21:09:48Z"
+    },
+    {
       "id": "3a0d02a5-8274-4739-86a8-b5627c30c417",
       "latitude": -34.980903,
       "longitude": 138.591859,
       "street": "Goodwood Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-21T20:42:01Z",
+      "timestamp": "2025-11-21T21:18:15Z",
       "reported_at": "2025-11-21T20:15:53Z"
     },
     {
@@ -17,18 +27,28 @@
       "street": "Park Tce",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-11-21T20:42:01Z",
+      "timestamp": "2025-11-21T21:18:15Z",
       "reported_at": "2025-11-21T19:06:44Z"
     },
     {
-      "id": "d0e2fb4d-87a5-4d4b-b6dc-70e86c19c7d6",
-      "latitude": -34.759967,
-      "longitude": 138.591886,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Paralowie",
+      "id": "7db42ead-0503-4241-b0e8-dc6b56984b90",
+      "latitude": -35.051762,
+      "longitude": 138.572402,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-11-21T20:42:01Z",
-      "reported_at": "2025-11-21T20:15:20Z"
+      "timestamp": "2025-11-21T21:18:15Z",
+      "reported_at": "2025-11-21T20:59:20Z"
+    },
+    {
+      "id": "23f99fd8-4301-418e-b172-d16c0829e227",
+      "latitude": -35.104144,
+      "longitude": 138.798077,
+      "street": "Church Hill Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2025-11-21T21:18:15Z",
+      "reported_at": "2025-11-21T21:11:15Z"
     }
   ]
 }
