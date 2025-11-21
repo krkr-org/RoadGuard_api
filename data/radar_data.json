@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "8ccbfe57-965a-4d5c-b198-a6379e5da696",
+      "latitude": -34.755141,
+      "longitude": 138.593878,
+      "street": "Liberator Dr",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T03:33:01Z"
+    },
+    {
+      "id": "fc909295-26f2-450c-a209-d0d988c1c078",
+      "latitude": -34.942345,
+      "longitude": 138.503373,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T04:58:57Z"
+    },
+    {
+      "id": "3a54d854-838d-42f6-a85c-893d38dfadff",
+      "latitude": -34.866788,
+      "longitude": 138.56568,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T05:11:45Z"
+    },
+    {
       "id": "943dddfd-58e6-464b-a5af-da1b3bf84ae2",
       "latitude": -34.73889,
       "longitude": 138.670379,
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
+      "timestamp": "2025-11-21T05:20:22Z",
       "reported_at": "2025-11-21T02:07:40Z"
     },
     {
-      "id": "1ece3f0a-1e13-4655-9602-e22d66e93922",
-      "latitude": -34.924932,
-      "longitude": 138.587893,
-      "street": "Currie St",
-      "city": "Adelaide",
+      "id": "473d4618-4e88-4231-8e24-71f43e4d9ece",
+      "latitude": -34.920379,
+      "longitude": 138.618622,
+      "street": "Rundle St",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
-      "reported_at": "2025-11-21T03:58:19Z"
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T04:59:38Z"
     },
     {
       "id": "97a7f951-02ee-40bb-8cab-2a26334c57f1",
@@ -27,28 +57,38 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
+      "timestamp": "2025-11-21T05:20:22Z",
       "reported_at": "2025-11-21T04:33:02Z"
     },
     {
-      "id": "4e5d8be6-66ed-4d18-84ae-4081a06f2295",
-      "latitude": -34.873101,
-      "longitude": 138.611979,
-      "street": "Regency Rd",
-      "city": "Broadview",
+      "id": "9ce6d57f-8fa6-48e0-8ca0-b58b5aec396e",
+      "latitude": -35.104608,
+      "longitude": 138.535971,
+      "street": "Pimpala Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
-      "reported_at": "2025-11-21T04:21:09Z"
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T05:12:05Z"
     },
     {
-      "id": "097366a9-231e-49b0-814d-bbef82782918",
-      "latitude": -34.808393,
-      "longitude": 138.677243,
-      "street": "The Golden Way",
+      "id": "1b3f8541-0ee2-4126-9566-834c11a64f59",
+      "latitude": -34.825494,
+      "longitude": 138.610041,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T05:00:46Z"
+    },
+    {
+      "id": "9c590067-ce57-4abb-a514-d4a7dcb0e59c",
+      "latitude": -34.806354,
+      "longitude": 138.69413,
+      "street": "Grenfell Rd",
       "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
-      "reported_at": "2025-11-21T04:34:02Z"
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T05:05:17Z"
     },
     {
       "id": "68badeb2-2b6d-42d7-a099-1b90fa547b49",
@@ -57,18 +97,28 @@
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
+      "timestamp": "2025-11-21T05:20:22Z",
       "reported_at": "2025-11-21T03:27:13Z"
     },
     {
-      "id": "d83cb6c3-d1a5-4230-b06f-cd6fbe82a954",
-      "latitude": -34.969684,
-      "longitude": 138.573086,
-      "street": "A2 - South Rd",
-      "city": "Glandore",
+      "id": "a6ea2b92-c20d-46de-a3c1-1767eb0a17e7",
+      "latitude": -34.863247,
+      "longitude": 138.601305,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2025-11-21T04:45:12Z",
-      "reported_at": "2025-11-21T04:38:00Z"
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T05:03:11Z"
+    },
+    {
+      "id": "c3d082e7-47ae-4fa2-95eb-a4d5841faf7e",
+      "latitude": -35.049407,
+      "longitude": 138.547514,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-21T05:20:22Z",
+      "reported_at": "2025-11-21T05:13:20Z"
     }
   ]
 }
