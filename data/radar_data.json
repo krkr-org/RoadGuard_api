@@ -1,44 +1,84 @@
 {
   "radars": [
     {
-      "id": "45a42ea2-df60-46c2-9927-6fb6336d3a43",
-      "latitude": -34.720609,
-      "longitude": 138.681605,
+      "id": "ccfcfaf8-3bb7-4b18-aeff-ee8ace8e8590",
+      "latitude": -34.848902,
+      "longitude": 138.671406,
+      "street": "Valiant Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T00:26:54Z"
+    },
+    {
+      "id": "78760fcb-ba1d-4de7-834b-e6a2f4bc526d",
+      "latitude": -34.721114,
+      "longitude": 138.682764,
       "street": "Kinkaid Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T21:17:52Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-20T22:11:08Z"
     },
     {
-      "id": "a635d8cd-1bab-47a2-9da0-e0a9b6531293",
-      "latitude": -34.738697,
-      "longitude": 138.670136,
-      "street": "Haydown Rd",
-      "city": "Elizabeth Grove",
+      "id": "9daf0efd-33a3-42a4-9f99-5c53b46a1a2d",
+      "latitude": -34.932127,
+      "longitude": 138.745293,
+      "street": "Pound Rd",
+      "city": "Ashton",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T21:29:09Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T00:44:08Z"
     },
     {
-      "id": "953b57ba-7f7b-4a2f-baba-fe58affd94e8",
-      "latitude": -34.694951,
-      "longitude": 138.692184,
+      "id": "40bbc7aa-cdf3-4344-a281-e29b47697add",
+      "latitude": -34.927637,
+      "longitude": 138.74667,
+      "street": "Marble Hill Rd",
+      "city": "Norton Summit",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T00:45:03Z"
+    },
+    {
+      "id": "91ac0b45-6d74-4710-a002-e40f155c9d55",
+      "latitude": -34.695106,
+      "longitude": 138.692175,
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T21:33:54Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-20T22:30:02Z"
     },
     {
-      "id": "55793c05-ec41-4cf0-9845-451f7cd99606",
-      "latitude": -34.900907,
-      "longitude": 138.566906,
-      "street": "South Rd",
-      "city": "Hindmarsh",
+      "id": "717e0e66-8080-4821-af6e-c5b9a50b1041",
+      "latitude": -34.73855,
+      "longitude": 138.670229,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T22:05:02Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-20T21:19:25Z"
+    },
+    {
+      "id": "eb5f4a7e-95f6-43bd-9d27-b1b1926aae93",
+      "latitude": -34.855075,
+      "longitude": 138.502259,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T01:22:33Z"
+    },
+    {
+      "id": "ec78050c-bd84-4720-8625-fa98fc8458fc",
+      "latitude": -35.011367,
+      "longitude": 138.5764,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T00:35:25Z"
     },
     {
       "id": "84d1f0ac-b01c-4487-a5a3-be0ca094adfc",
@@ -47,18 +87,8 @@
       "street": "Kilkenny Rd",
       "city": "Woodville Park",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
+      "timestamp": "2025-11-21T01:37:52Z",
       "reported_at": "2025-11-20T22:09:59Z"
-    },
-    {
-      "id": "74a3b088-0298-4182-a5f3-f59ea7b57f28",
-      "latitude": -34.717158,
-      "longitude": 138.666259,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T21:20:21Z"
     },
     {
       "id": "6d173f09-b134-4aaf-a783-0c961dd6b7ee",
@@ -67,38 +97,78 @@
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
+      "timestamp": "2025-11-21T01:37:52Z",
       "reported_at": "2025-11-20T21:05:57Z"
     },
     {
-      "id": "5ed51a8e-dfa9-45e8-a863-7343507acfb9",
-      "latitude": -35.132168,
-      "longitude": 138.485698,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "74a3b088-0298-4182-a5f3-f59ea7b57f28",
+      "latitude": -34.717158,
+      "longitude": 138.666259,
+      "street": "Elizabeth Way",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T23:25:36Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-20T21:20:21Z"
     },
     {
-      "id": "d58bc397-24a3-4547-9761-2ec3f64a6e65",
-      "latitude": -34.752226,
-      "longitude": 138.652844,
+      "id": "43cc275e-4447-4f46-bfe3-a73e703bb3c2",
+      "latitude": -34.72843,
+      "longitude": 138.664959,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-20T23:33:04Z"
+    },
+    {
+      "id": "3c18c9ea-cded-4b64-a65c-4941e29aeeab",
+      "latitude": -34.855496,
+      "longitude": 138.659138,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T01:15:47Z"
+    },
+    {
+      "id": "9a821ad3-16af-4251-b1e3-cd9b4f2ebd38",
+      "latitude": -34.939991,
+      "longitude": 138.769107,
+      "street": "B27 - Lobethal Rd",
+      "city": "Basket Range",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T00:33:26Z"
+    },
+    {
+      "id": "9f2e0199-25a4-48a4-8a5f-864b3dc6587b",
+      "latitude": -34.752111,
+      "longitude": 138.653551,
       "street": "A9 - John Rice Av",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T23:21:39Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-20T22:01:19Z"
     },
     {
-      "id": "6a98fd91-fff0-4640-81cc-1c03c6195f02",
-      "latitude": -34.98701,
-      "longitude": 138.693612,
+      "id": "f8ff2bef-7a74-4909-84f8-2d551f9e8119",
+      "latitude": -34.966488,
+      "longitude": 138.648618,
       "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
+      "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2025-11-20T23:39:01Z",
-      "reported_at": "2025-11-20T22:04:45Z"
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T01:11:19Z"
+    },
+    {
+      "id": "433951c2-91e7-4960-a0cd-5a76e84a7dc4",
+      "latitude": -34.833823,
+      "longitude": 138.541484,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-11-21T01:37:52Z",
+      "reported_at": "2025-11-21T01:29:20Z"
     }
   ]
 }
