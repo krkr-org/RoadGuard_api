@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "983244d1-c14e-41b0-807d-eb541a92d594",
-      "latitude": -35.006433,
-      "longitude": 138.587873,
+      "id": "65d11de4-00b1-4718-9b2a-f2c426cbaa28",
+      "latitude": -35.005436,
+      "longitude": 138.588403,
       "street": "Fiveash Dr",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-11-21T21:18:15Z",
-      "reported_at": "2025-11-21T21:09:48Z"
-    },
-    {
-      "id": "3a0d02a5-8274-4739-86a8-b5627c30c417",
-      "latitude": -34.980903,
-      "longitude": 138.591859,
-      "street": "Goodwood Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-21T21:18:15Z",
-      "reported_at": "2025-11-21T20:15:53Z"
+      "timestamp": "2025-11-21T21:38:21Z",
+      "reported_at": "2025-11-21T21:18:06Z"
     },
     {
       "id": "a0807659-1841-4562-9316-93c6be248d55",
@@ -27,18 +17,8 @@
       "street": "Park Tce",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-11-21T21:18:15Z",
+      "timestamp": "2025-11-21T21:38:21Z",
       "reported_at": "2025-11-21T19:06:44Z"
-    },
-    {
-      "id": "7db42ead-0503-4241-b0e8-dc6b56984b90",
-      "latitude": -35.051762,
-      "longitude": 138.572402,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2025-11-21T21:18:15Z",
-      "reported_at": "2025-11-21T20:59:20Z"
     },
     {
       "id": "23f99fd8-4301-418e-b172-d16c0829e227",
@@ -47,8 +27,18 @@
       "street": "Church Hill Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2025-11-21T21:18:15Z",
+      "timestamp": "2025-11-21T21:38:21Z",
       "reported_at": "2025-11-21T21:11:15Z"
+    },
+    {
+      "id": "80b046aa-0396-4e45-9681-796e7faabeee",
+      "latitude": -34.869647,
+      "longitude": 138.570637,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-21T21:38:21Z",
+      "reported_at": "2025-11-21T21:17:47Z"
     }
   ]
 }
