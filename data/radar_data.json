@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "d2e8fca4-092c-454c-b03d-41c1fe759ede",
-      "latitude": -34.992478,
-      "longitude": 138.581265,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "b17f93d4-7c65-4210-87c0-753da286e7f0",
+      "latitude": -34.94467,
+      "longitude": 138.517494,
+      "street": "West Beach Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-21T22:41:22Z",
-      "reported_at": "2025-11-21T22:08:06Z"
+      "timestamp": "2025-11-21T23:18:03Z",
+      "reported_at": "2025-11-21T23:14:19Z"
     },
     {
-      "id": "9d6f7b4b-8162-4579-9646-6b083aa831e5",
-      "latitude": -35.137214,
-      "longitude": 138.515042,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
+      "id": "16ad2f27-a634-4199-bb42-3384b56fb8bf",
+      "latitude": -35.104108,
+      "longitude": 138.797941,
+      "street": "Church Hill Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2025-11-21T22:41:22Z",
-      "reported_at": "2025-11-21T22:29:54Z"
+      "timestamp": "2025-11-21T23:18:03Z",
+      "reported_at": "2025-11-21T23:03:31Z"
+    },
+    {
+      "id": "e653829e-f655-4dae-a862-da2bf8edb96f",
+      "latitude": -34.980099,
+      "longitude": 138.564136,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2025-11-21T23:18:03Z",
+      "reported_at": "2025-11-21T22:19:19Z"
+    },
+    {
+      "id": "ec9abf0d-0f1a-478c-8e8d-33b966da0e46",
+      "latitude": -34.690863,
+      "longitude": 138.640679,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2025-11-21T23:18:03Z",
+      "reported_at": "2025-11-21T22:55:28Z"
     }
   ]
 }
