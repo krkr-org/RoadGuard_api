@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "a377698d-f1cc-4e89-ba8c-a66df169aff6",
-      "latitude": -34.792779,
-      "longitude": 138.602923,
-      "street": "George St",
-      "city": "Green Fields",
+      "id": "58433c7c-df6a-4e4a-8498-411937f9ce77",
+      "latitude": -34.885719,
+      "longitude": 138.614863,
+      "street": "Galway Av",
+      "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:18:25Z",
-      "reported_at": "2025-11-22T20:30:28Z"
+      "timestamp": "2025-11-22T22:40:48Z",
+      "reported_at": "2025-11-22T21:11:11Z"
     },
     {
       "id": "44cf86cf-e881-4546-8eed-ff59c8ce639d",
@@ -17,8 +17,18 @@
       "street": "Richmond Rd",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:18:25Z",
+      "timestamp": "2025-11-22T22:40:48Z",
       "reported_at": "2025-11-22T21:09:48Z"
+    },
+    {
+      "id": "4df10018-ad81-4e8d-99b5-4f2cc9a70a66",
+      "latitude": -34.872855,
+      "longitude": 138.616911,
+      "street": "Regency Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2025-11-22T22:40:48Z",
+      "reported_at": "2025-11-22T22:16:45Z"
     },
     {
       "id": "d12fcf1a-0314-4a6a-b56e-04daa468e2eb",
@@ -27,18 +37,28 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:18:25Z",
+      "timestamp": "2025-11-22T22:40:48Z",
       "reported_at": "2025-11-22T20:46:53Z"
     },
     {
-      "id": "2b472c4a-f38a-4854-833c-2e1c77c6b17d",
-      "latitude": -34.840726,
-      "longitude": 138.599659,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "567af76a-d138-417a-80c2-a8d2b7e6892d",
+      "latitude": -34.789405,
+      "longitude": 138.617184,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:18:25Z",
-      "reported_at": "2025-11-22T21:45:17Z"
+      "timestamp": "2025-11-22T22:40:48Z",
+      "reported_at": "2025-11-22T22:13:16Z"
+    },
+    {
+      "id": "e5edc437-21ff-4551-b92b-e08130e9a64b",
+      "latitude": -34.901559,
+      "longitude": 138.6075,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-22T22:40:48Z",
+      "reported_at": "2025-11-22T22:08:07Z"
     }
   ]
 }
