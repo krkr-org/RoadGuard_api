@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "61417aa5-ac42-4751-a560-f1b0af01a0fc",
-      "latitude": -34.897017,
-      "longitude": 138.666655,
-      "street": "Reid Av",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
-      "reported_at": "2025-11-22T05:25:18Z"
-    },
-    {
-      "id": "7718477f-b901-4d3a-b285-42cb3313342b",
-      "latitude": -34.852098,
-      "longitude": 138.671636,
-      "street": "Valiant Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
-      "reported_at": "2025-11-22T07:21:16Z"
-    },
-    {
       "id": "02bcfc21-e8de-4329-9c42-f804d91e600c",
       "latitude": -34.888733,
       "longitude": 138.642718,
       "street": "Briar Rd",
       "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
+      "timestamp": "2025-11-22T11:37:19Z",
       "reported_at": "2025-11-22T08:35:38Z"
     },
     {
-      "id": "5bbe0ec2-28e9-4d4a-8e86-1f3ce2b57596",
-      "latitude": -34.908295,
-      "longitude": 138.491279,
-      "street": "Seaview Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
-      "reported_at": "2025-11-22T11:05:07Z"
-    },
-    {
-      "id": "2280f073-851d-4b32-b43e-f8d49ff31c41",
-      "latitude": -35.054593,
-      "longitude": 138.566071,
+      "id": "fd13db7e-c53d-4157-b414-6e621faedeee",
+      "latitude": -35.054178,
+      "longitude": 138.569089,
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
-      "reported_at": "2025-11-22T09:32:41Z"
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T10:12:03Z"
     },
     {
       "id": "49c39409-3fa2-45a3-8acc-3ce7fdabc358",
@@ -57,8 +27,18 @@
       "street": "Penfold Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
+      "timestamp": "2025-11-22T11:37:19Z",
       "reported_at": "2025-11-22T10:34:16Z"
+    },
+    {
+      "id": "bf290e53-30e4-4047-b5a3-5563fff5f384",
+      "latitude": -34.921014,
+      "longitude": 138.608516,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:15:12Z"
     },
     {
       "id": "219f5791-e488-40b9-b6ac-6a05f8f0bc93",
@@ -67,8 +47,18 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
+      "timestamp": "2025-11-22T11:37:19Z",
       "reported_at": "2025-11-22T09:03:15Z"
+    },
+    {
+      "id": "e6d94ca4-3ef3-43d1-8ac7-9cc53b36b6f0",
+      "latitude": -34.80975,
+      "longitude": 138.697083,
+      "street": "Golden Grove Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:22:20Z"
     },
     {
       "id": "2268858d-9939-4dea-b554-bb807ab00581",
@@ -77,18 +67,68 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
+      "timestamp": "2025-11-22T11:37:19Z",
       "reported_at": "2025-11-22T08:53:21Z"
     },
     {
-      "id": "f423028c-262e-46b6-b6a6-fb0af4be295a",
-      "latitude": -34.976082,
-      "longitude": 138.525894,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
+      "id": "72a00088-59dc-433b-b22c-c41ec1acaabb",
+      "latitude": -34.76706,
+      "longitude": 138.671836,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2025-11-22T11:14:45Z",
-      "reported_at": "2025-11-22T10:53:10Z"
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:25:17Z"
+    },
+    {
+      "id": "a4d6d089-3a68-4efd-8f42-95d655fb8d75",
+      "latitude": -34.993847,
+      "longitude": 138.574882,
+      "street": "A2 - South Rd",
+      "city": "Clovelly Park",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:36:08Z"
+    },
+    {
+      "id": "4f65047e-c9d2-48d0-8cf2-48bc353c7df1",
+      "latitude": -34.941848,
+      "longitude": 138.571125,
+      "street": "A2 - South Rd",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T10:17:24Z"
+    },
+    {
+      "id": "4673e7ae-5af2-42b3-9bf3-4af984f5ab12",
+      "latitude": -34.931348,
+      "longitude": 138.552465,
+      "street": "A14 - Marion Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:00:36Z"
+    },
+    {
+      "id": "964887af-c53f-4624-9d4f-8415fe0894c5",
+      "latitude": -35.007095,
+      "longitude": 138.575799,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:35:15Z"
+    },
+    {
+      "id": "c43b9c7a-13aa-42ba-a808-863d2b276417",
+      "latitude": -34.966585,
+      "longitude": 138.648497,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2025-11-22T11:37:19Z",
+      "reported_at": "2025-11-22T11:05:16Z"
     }
   ]
 }
