@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "c13ac625-2c91-49a5-a81a-0b68f44bd66c",
-      "latitude": -34.844771,
-      "longitude": 138.619093,
-      "street": "Briens Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-11-22T14:39:17Z",
-      "reported_at": "2025-11-22T14:18:29Z"
-    },
-    {
-      "id": "409572a2-e920-4a63-b7f2-2032a9d052e3",
-      "latitude": -34.851968,
-      "longitude": 138.666517,
+      "id": "7644a493-f7bb-4c4b-bcf2-2b692a19698b",
+      "latitude": -34.84984,
+      "longitude": 138.668639,
       "street": "A10 - North East Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:39:17Z",
-      "reported_at": "2025-11-22T14:29:21Z"
+      "timestamp": "2025-11-22T15:17:56Z",
+      "reported_at": "2025-11-22T14:43:39Z"
     },
     {
       "id": "c3cd11f1-a55f-4e74-913d-918bbcc94fe5",
@@ -27,28 +17,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:39:17Z",
+      "timestamp": "2025-11-22T15:17:56Z",
       "reported_at": "2025-11-22T14:17:20Z"
     },
     {
-      "id": "e59e5921-426b-42c5-8b2b-cfdf3277003a",
-      "latitude": -34.8475,
-      "longitude": 138.617211,
-      "street": "A17 - Hampstead Rd",
-      "city": "Clearview",
+      "id": "47d7f88b-1082-422c-a438-7bded37aa4b9",
+      "latitude": -34.96246,
+      "longitude": 138.557019,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:39:17Z",
-      "reported_at": "2025-11-22T14:10:49Z"
-    },
-    {
-      "id": "3cfe78fb-1976-46dd-9f11-d691ea801305",
-      "latitude": -35.010212,
-      "longitude": 138.575845,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2025-11-22T14:39:17Z",
-      "reported_at": "2025-11-22T13:29:35Z"
+      "timestamp": "2025-11-22T15:17:56Z",
+      "reported_at": "2025-11-22T14:52:59Z"
     },
     {
       "id": "26e48083-f770-460d-ba9a-135ce428bb29",
@@ -57,8 +37,18 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:39:17Z",
+      "timestamp": "2025-11-22T15:17:56Z",
       "reported_at": "2025-11-22T14:17:14Z"
+    },
+    {
+      "id": "c47bcd6d-b403-4932-8054-75e51ce0e67e",
+      "latitude": -35.04841,
+      "longitude": 138.548493,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-22T15:17:56Z",
+      "reported_at": "2025-11-22T14:57:50Z"
     }
   ]
 }
