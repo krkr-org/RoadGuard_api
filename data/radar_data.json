@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "f2cb0e44-e81e-4889-a04f-fc39ee4641f8",
-      "latitude": -34.791769,
-      "longitude": 138.606535,
-      "street": "Oleander Dr",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-22T04:23:16Z",
-      "reported_at": "2025-11-22T00:36:32Z"
-    },
-    {
       "id": "fe0b926a-d1ba-4afb-bc80-872b5f807296",
       "latitude": -34.978039,
       "longitude": 138.517579,
       "street": "Gordon St",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2025-11-22T04:23:16Z",
+      "timestamp": "2025-11-22T04:42:33Z",
       "reported_at": "2025-11-22T00:55:50Z"
-    },
-    {
-      "id": "4722443d-7b51-4dd1-a49a-2cfe09f28703",
-      "latitude": -34.992398,
-      "longitude": 138.582898,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2025-11-22T04:23:16Z",
-      "reported_at": "2025-11-22T03:32:35Z"
-    },
-    {
-      "id": "13856e06-8d40-4ed3-b41c-3a68abeb5ef8",
-      "latitude": -34.837938,
-      "longitude": 138.623828,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-11-22T04:23:16Z",
-      "reported_at": "2025-11-22T04:05:21Z"
     },
     {
       "id": "f0ac9eef-a5c9-44c6-be01-6b69ffffebc8",
@@ -47,8 +17,28 @@
       "street": "St. Bernards Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T04:23:16Z",
+      "timestamp": "2025-11-22T04:42:33Z",
       "reported_at": "2025-11-22T04:15:28Z"
+    },
+    {
+      "id": "13856e06-8d40-4ed3-b41c-3a68abeb5ef8",
+      "latitude": -34.837938,
+      "longitude": 138.623828,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-22T04:42:33Z",
+      "reported_at": "2025-11-22T04:05:21Z"
+    },
+    {
+      "id": "4722443d-7b51-4dd1-a49a-2cfe09f28703",
+      "latitude": -34.992398,
+      "longitude": 138.582898,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-11-22T04:42:33Z",
+      "reported_at": "2025-11-22T03:32:35Z"
     }
   ]
 }
