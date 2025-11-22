@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "13ecc5ac-ff98-4bc2-be04-24c3d0fbea46",
-      "latitude": -34.905145,
-      "longitude": 138.60031,
-      "street": "LeFevre Tce",
-      "city": "North Adelaide",
+      "id": "c13ac625-2c91-49a5-a81a-0b68f44bd66c",
+      "latitude": -34.844771,
+      "longitude": 138.619093,
+      "street": "Briens Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:17:03Z",
-      "reported_at": "2025-11-22T10:22:52Z"
+      "timestamp": "2025-11-22T14:39:17Z",
+      "reported_at": "2025-11-22T14:18:29Z"
     },
     {
-      "id": "55a49081-065e-4866-aae4-f67a2d077b91",
-      "latitude": -34.915401,
-      "longitude": 138.587061,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "409572a2-e920-4a63-b7f2-2032a9d052e3",
+      "latitude": -34.851968,
+      "longitude": 138.666517,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:17:03Z",
-      "reported_at": "2025-11-22T10:34:02Z"
+      "timestamp": "2025-11-22T14:39:17Z",
+      "reported_at": "2025-11-22T14:29:21Z"
     },
     {
-      "id": "49c39409-3fa2-45a3-8acc-3ce7fdabc358",
-      "latitude": -34.91711,
-      "longitude": 138.676365,
-      "street": "Penfold Rd",
-      "city": "Magill",
+      "id": "c3cd11f1-a55f-4e74-913d-918bbcc94fe5",
+      "latitude": -34.904943,
+      "longitude": 138.571092,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:17:03Z",
-      "reported_at": "2025-11-22T10:34:16Z"
+      "timestamp": "2025-11-22T14:39:17Z",
+      "reported_at": "2025-11-22T14:17:20Z"
+    },
+    {
+      "id": "e59e5921-426b-42c5-8b2b-cfdf3277003a",
+      "latitude": -34.8475,
+      "longitude": 138.617211,
+      "street": "A17 - Hampstead Rd",
+      "city": "Clearview",
+      "type": "mobile",
+      "timestamp": "2025-11-22T14:39:17Z",
+      "reported_at": "2025-11-22T14:10:49Z"
     },
     {
       "id": "3cfe78fb-1976-46dd-9f11-d691ea801305",
@@ -37,8 +47,18 @@
       "street": "M2 - Southern Exp",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2025-11-22T14:17:03Z",
+      "timestamp": "2025-11-22T14:39:17Z",
       "reported_at": "2025-11-22T13:29:35Z"
+    },
+    {
+      "id": "26e48083-f770-460d-ba9a-135ce428bb29",
+      "latitude": -34.883781,
+      "longitude": 138.57156,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-22T14:39:17Z",
+      "reported_at": "2025-11-22T14:17:14Z"
     }
   ]
 }
