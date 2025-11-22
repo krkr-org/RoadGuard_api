@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "a377698d-f1cc-4e89-ba8c-a66df169aff6",
+      "latitude": -34.792779,
+      "longitude": 138.602923,
+      "street": "George St",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2025-11-22T21:17:03Z",
+      "reported_at": "2025-11-22T20:30:28Z"
+    },
+    {
+      "id": "d12fcf1a-0314-4a6a-b56e-04daa468e2eb",
+      "latitude": -34.852724,
+      "longitude": 138.600454,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2025-11-22T21:17:03Z",
+      "reported_at": "2025-11-22T20:46:53Z"
+    },
+    {
+      "id": "50b46153-e825-4e72-a372-b5ff5180a769",
+      "latitude": -34.798121,
+      "longitude": 138.657377,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2025-11-22T21:17:03Z",
+      "reported_at": "2025-11-22T20:40:08Z"
+    }
+  ]
 }
