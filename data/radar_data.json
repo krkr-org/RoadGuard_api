@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "8f4f266f-3258-46c0-806b-5ef15245ad5d",
-      "latitude": -34.887444,
-      "longitude": 138.641971,
-      "street": "Briar Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
-      "reported_at": "2025-11-22T06:26:16Z"
-    },
-    {
       "id": "61417aa5-ac42-4751-a560-f1b0af01a0fc",
       "latitude": -34.897017,
       "longitude": 138.666655,
       "street": "Reid Av",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
+      "timestamp": "2025-11-22T08:44:56Z",
       "reported_at": "2025-11-22T05:25:18Z"
     },
     {
-      "id": "a5bdf97a-d823-40b5-b03b-423ca41ebf2b",
-      "latitude": -34.915012,
-      "longitude": 138.586444,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "8f4f266f-3258-46c0-806b-5ef15245ad5d",
+      "latitude": -34.887444,
+      "longitude": 138.641971,
+      "street": "Briar Rd",
+      "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
-      "reported_at": "2025-11-22T05:41:25Z"
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T06:26:16Z"
     },
     {
       "id": "ce875ea5-474a-4e7e-8616-ad82238aa85a",
@@ -37,18 +27,38 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
+      "timestamp": "2025-11-22T08:44:56Z",
       "reported_at": "2025-11-22T06:18:55Z"
     },
     {
-      "id": "679af441-fc36-41c8-8280-8606db640596",
-      "latitude": -34.925811,
-      "longitude": 138.632529,
+      "id": "729ab862-d27d-497e-92b4-5ff8b9dc2b96",
+      "latitude": -34.914332,
+      "longitude": 138.585368,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T04:51:25Z"
+    },
+    {
+      "id": "82952454-193e-4270-81d8-20aa23c08cfb",
+      "latitude": -34.891655,
+      "longitude": 138.641686,
+      "street": "Turner St",
+      "city": "Felixstow",
+      "type": "mobile",
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T08:05:30Z"
+    },
+    {
+      "id": "35546870-6522-4297-8af9-15e928abdb64",
+      "latitude": -34.921576,
+      "longitude": 138.632032,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
-      "reported_at": "2025-11-22T05:12:43Z"
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T07:19:56Z"
     },
     {
       "id": "a163c91e-b24d-46ce-b055-6b1944ff4378",
@@ -57,7 +67,7 @@
       "street": "Penfold Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
+      "timestamp": "2025-11-22T08:44:56Z",
       "reported_at": "2025-11-22T05:11:20Z"
     },
     {
@@ -67,28 +77,48 @@
       "street": "Penfold Rd",
       "city": "Rosslyn Park",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
+      "timestamp": "2025-11-22T08:44:56Z",
       "reported_at": "2025-11-22T05:45:26Z"
     },
     {
-      "id": "4ebb5fc4-68c0-4b53-8602-056ea1e83a62",
-      "latitude": -34.825151,
-      "longitude": 138.616953,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "e8667db3-fbc1-49b6-8845-d6b76af0a8fe",
+      "latitude": -34.68867,
+      "longitude": 138.669757,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
-      "reported_at": "2025-11-22T07:59:15Z"
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T08:26:11Z"
     },
     {
-      "id": "2bb7f4a9-abe0-4082-be17-40a3f47479c0",
-      "latitude": -34.848569,
-      "longitude": 138.589305,
+      "id": "8114b201-6cea-48ec-85b0-3415b2582805",
+      "latitude": -34.948718,
+      "longitude": 138.577436,
+      "street": "A5 - Anzac Hwy",
+      "city": "Forestville",
+      "type": "mobile",
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T08:18:55Z"
+    },
+    {
+      "id": "907f59cb-d0cd-464f-98b4-0de9b28e0171",
+      "latitude": -34.845828,
+      "longitude": 138.506425,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T08:22:34Z"
+    },
+    {
+      "id": "2d95a0c1-4f27-4db0-9104-205c9d5413c3",
+      "latitude": -34.848479,
+      "longitude": 138.591253,
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-22T08:24:51Z",
-      "reported_at": "2025-11-22T08:03:47Z"
+      "timestamp": "2025-11-22T08:44:56Z",
+      "reported_at": "2025-11-22T08:19:09Z"
     }
   ]
 }
