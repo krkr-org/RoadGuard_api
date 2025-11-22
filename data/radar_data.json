@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "e7f34781-01fb-4089-a992-a6f319fcfe2f",
-      "latitude": -34.89745,
-      "longitude": 138.614423,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
-      "reported_at": "2025-11-22T08:54:40Z"
-    },
-    {
       "id": "13ecc5ac-ff98-4bc2-be04-24c3d0fbea46",
       "latitude": -34.905145,
       "longitude": 138.60031,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
+      "timestamp": "2025-11-22T13:23:39Z",
       "reported_at": "2025-11-22T10:22:52Z"
     },
     {
@@ -27,38 +17,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
+      "timestamp": "2025-11-22T13:23:39Z",
       "reported_at": "2025-11-22T10:34:02Z"
-    },
-    {
-      "id": "02bcfc21-e8de-4329-9c42-f804d91e600c",
-      "latitude": -34.888733,
-      "longitude": 138.642718,
-      "street": "Briar Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
-      "reported_at": "2025-11-22T08:35:38Z"
-    },
-    {
-      "id": "219f5791-e488-40b9-b6ac-6a05f8f0bc93",
-      "latitude": -34.925646,
-      "longitude": 138.632324,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
-      "reported_at": "2025-11-22T09:03:15Z"
-    },
-    {
-      "id": "49c39409-3fa2-45a3-8acc-3ce7fdabc358",
-      "latitude": -34.91711,
-      "longitude": 138.676365,
-      "street": "Penfold Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
-      "reported_at": "2025-11-22T10:34:16Z"
     },
     {
       "id": "fd13db7e-c53d-4157-b414-6e621faedeee",
@@ -67,28 +27,48 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
+      "timestamp": "2025-11-22T13:23:39Z",
       "reported_at": "2025-11-22T10:12:03Z"
     },
     {
-      "id": "e1dae793-dc0c-4baf-ac14-46016ca85db0",
-      "latitude": -34.707309,
-      "longitude": 138.678684,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
+      "id": "49c39409-3fa2-45a3-8acc-3ce7fdabc358",
+      "latitude": -34.91711,
+      "longitude": 138.676365,
+      "street": "Penfold Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
-      "reported_at": "2025-11-22T12:17:06Z"
+      "timestamp": "2025-11-22T13:23:39Z",
+      "reported_at": "2025-11-22T10:34:16Z"
     },
     {
-      "id": "a829f421-f606-4592-93ab-1bff22c785d6",
-      "latitude": -34.909195,
-      "longitude": 138.628157,
-      "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
+      "id": "a0085927-c32c-44b9-af09-ff308852f4cc",
+      "latitude": -35.047257,
+      "longitude": 138.571621,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
-      "reported_at": "2025-11-22T12:07:00Z"
+      "timestamp": "2025-11-22T13:23:39Z",
+      "reported_at": "2025-11-22T12:54:07Z"
+    },
+    {
+      "id": "e3a3fe11-0c2e-4244-b034-f4f20e8d24eb",
+      "latitude": -34.885611,
+      "longitude": 138.602787,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2025-11-22T13:23:39Z",
+      "reported_at": "2025-11-22T12:45:31Z"
+    },
+    {
+      "id": "46d3f7f2-2b96-4360-a609-faffdfbfa16f",
+      "latitude": -34.891826,
+      "longitude": 138.551355,
+      "street": "A7 - Port Rd",
+      "city": "Allenby Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-22T13:23:39Z",
+      "reported_at": "2025-11-22T13:08:39Z"
     },
     {
       "id": "2268858d-9939-4dea-b554-bb807ab00581",
@@ -97,8 +77,28 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
+      "timestamp": "2025-11-22T13:23:39Z",
       "reported_at": "2025-11-22T08:53:21Z"
+    },
+    {
+      "id": "4dcb7da4-1c34-47b9-9243-c995f43ce17e",
+      "latitude": -34.855532,
+      "longitude": 138.659033,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-22T13:23:39Z",
+      "reported_at": "2025-11-22T13:15:50Z"
+    },
+    {
+      "id": "983ae34a-7c91-4d66-93ff-568532f75a7c",
+      "latitude": -35.038009,
+      "longitude": 138.557488,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-11-22T13:23:39Z",
+      "reported_at": "2025-11-22T13:00:58Z"
     },
     {
       "id": "964887af-c53f-4624-9d4f-8415fe0894c5",
@@ -107,7 +107,7 @@
       "street": "M2 - Southern Exp",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2025-11-22T12:36:24Z",
+      "timestamp": "2025-11-22T13:23:39Z",
       "reported_at": "2025-11-22T11:35:15Z"
     }
   ]
