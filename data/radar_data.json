@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "8f4f266f-3258-46c0-806b-5ef15245ad5d",
-      "latitude": -34.887444,
-      "longitude": 138.641971,
-      "street": "Briar Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
-      "reported_at": "2025-11-22T06:26:16Z"
-    },
-    {
       "id": "61417aa5-ac42-4751-a560-f1b0af01a0fc",
       "latitude": -34.897017,
       "longitude": 138.666655,
       "street": "Reid Av",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
+      "timestamp": "2025-11-22T10:40:16Z",
       "reported_at": "2025-11-22T05:25:18Z"
-    },
-    {
-      "id": "398c68ed-57ab-47a5-8a51-bd5832d371d2",
-      "latitude": -34.899078,
-      "longitude": 138.612398,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
-      "reported_at": "2025-11-22T06:45:03Z"
-    },
-    {
-      "id": "729ab862-d27d-497e-92b4-5ff8b9dc2b96",
-      "latitude": -34.914332,
-      "longitude": 138.585368,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
-      "reported_at": "2025-11-22T04:51:25Z"
     },
     {
       "id": "7718477f-b901-4d3a-b285-42cb3313342b",
@@ -47,7 +17,7 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
+      "timestamp": "2025-11-22T10:40:16Z",
       "reported_at": "2025-11-22T07:21:16Z"
     },
     {
@@ -57,18 +27,8 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
+      "timestamp": "2025-11-22T10:40:16Z",
       "reported_at": "2025-11-22T06:18:55Z"
-    },
-    {
-      "id": "697e05e6-58a8-404e-a7b2-6c4a0fac21b4",
-      "latitude": -34.903827,
-      "longitude": 138.598866,
-      "street": "Gover St",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
-      "reported_at": "2025-11-22T07:35:17Z"
     },
     {
       "id": "219f5791-e488-40b9-b6ac-6a05f8f0bc93",
@@ -77,18 +37,38 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
+      "timestamp": "2025-11-22T10:40:16Z",
       "reported_at": "2025-11-22T09:03:15Z"
     },
     {
-      "id": "52aea4bf-cf69-41da-8fa4-c9a694f7a185",
-      "latitude": -34.852638,
-      "longitude": 138.665546,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
+      "id": "49c39409-3fa2-45a3-8acc-3ce7fdabc358",
+      "latitude": -34.91711,
+      "longitude": 138.676365,
+      "street": "Penfold Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
-      "reported_at": "2025-11-22T09:47:11Z"
+      "timestamp": "2025-11-22T10:40:16Z",
+      "reported_at": "2025-11-22T10:34:16Z"
+    },
+    {
+      "id": "fd13db7e-c53d-4157-b414-6e621faedeee",
+      "latitude": -35.054178,
+      "longitude": 138.569089,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-22T10:40:16Z",
+      "reported_at": "2025-11-22T10:12:03Z"
+    },
+    {
+      "id": "2268858d-9939-4dea-b554-bb807ab00581",
+      "latitude": -34.91288,
+      "longitude": 138.684755,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2025-11-22T10:40:16Z",
+      "reported_at": "2025-11-22T08:53:21Z"
     },
     {
       "id": "c5fb1ff7-6075-4a95-9b81-25c84de80865",
@@ -97,8 +77,28 @@
       "street": "B29 - Belair Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2025-11-22T10:19:19Z",
+      "timestamp": "2025-11-22T10:40:16Z",
       "reported_at": "2025-11-22T09:16:25Z"
+    },
+    {
+      "id": "530202b5-2888-4d5b-9e54-a3edfaf8a605",
+      "latitude": -34.875473,
+      "longitude": 138.63144,
+      "street": "A10 - North East Rd",
+      "city": "Klemzig",
+      "type": "mobile",
+      "timestamp": "2025-11-22T10:40:16Z",
+      "reported_at": "2025-11-22T10:30:52Z"
+    },
+    {
+      "id": "7bf84a74-bc5f-4457-bfb7-883f8dbd30d1",
+      "latitude": -34.95682,
+      "longitude": 138.638605,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2025-11-22T10:40:16Z",
+      "reported_at": "2025-11-22T10:07:27Z"
     }
   ]
 }
