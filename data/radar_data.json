@@ -1,44 +1,44 @@
 {
   "radars": [
     {
+      "id": "bc111608-a07a-4182-bbef-71b028d30f0a",
+      "latitude": -34.958497,
+      "longitude": 138.614895,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2025-11-22T23:18:41Z",
+      "reported_at": "2025-11-22T22:19:00Z"
+    },
+    {
       "id": "58433c7c-df6a-4e4a-8498-411937f9ce77",
       "latitude": -34.885719,
       "longitude": 138.614863,
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:40:48Z",
+      "timestamp": "2025-11-22T23:18:41Z",
       "reported_at": "2025-11-22T21:11:11Z"
     },
     {
-      "id": "44cf86cf-e881-4546-8eed-ff59c8ce639d",
-      "latitude": -34.942383,
-      "longitude": 138.564204,
-      "street": "Richmond Rd",
-      "city": "Richmond",
+      "id": "99ee7af4-27a7-49c3-8a11-a42e54d44362",
+      "latitude": -34.838764,
+      "longitude": 138.599318,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:40:48Z",
-      "reported_at": "2025-11-22T21:09:48Z"
+      "timestamp": "2025-11-22T23:18:41Z",
+      "reported_at": "2025-11-22T21:45:55Z"
     },
     {
-      "id": "4df10018-ad81-4e8d-99b5-4f2cc9a70a66",
-      "latitude": -34.872855,
-      "longitude": 138.616911,
-      "street": "Regency Rd",
-      "city": "Broadview",
-      "type": "mobile",
-      "timestamp": "2025-11-22T22:40:48Z",
-      "reported_at": "2025-11-22T22:16:45Z"
-    },
-    {
-      "id": "d12fcf1a-0314-4a6a-b56e-04daa468e2eb",
-      "latitude": -34.852724,
-      "longitude": 138.600454,
+      "id": "5b258e12-4e5a-4080-a52a-ceb94ca941f6",
+      "latitude": -34.855694,
+      "longitude": 138.600773,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:40:48Z",
-      "reported_at": "2025-11-22T20:46:53Z"
+      "timestamp": "2025-11-22T23:18:41Z",
+      "reported_at": "2025-11-22T22:29:27Z"
     },
     {
       "id": "567af76a-d138-417a-80c2-a8d2b7e6892d",
@@ -47,18 +47,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-22T22:40:48Z",
+      "timestamp": "2025-11-22T23:18:41Z",
       "reported_at": "2025-11-22T22:13:16Z"
-    },
-    {
-      "id": "e5edc437-21ff-4551-b92b-e08130e9a64b",
-      "latitude": -34.901559,
-      "longitude": 138.6075,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-22T22:40:48Z",
-      "reported_at": "2025-11-22T22:08:07Z"
     }
   ]
 }
