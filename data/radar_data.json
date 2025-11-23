@@ -1,14 +1,44 @@
 {
   "radars": [
     {
+      "id": "4914bf84-361e-47d6-a6b6-1a3064b29d85",
+      "latitude": -34.867869,
+      "longitude": 138.663909,
+      "street": "Darley Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2025-11-23T20:41:39Z",
+      "reported_at": "2025-11-23T20:24:01Z"
+    },
+    {
+      "id": "26e43e42-713a-4d74-8c27-c0c0f152840f",
+      "latitude": -34.898978,
+      "longitude": 138.592996,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2025-11-23T20:41:39Z",
+      "reported_at": "2025-11-23T20:37:03Z"
+    },
+    {
       "id": "a921ad7e-2bf3-4f0c-80a9-60b741b2177d",
       "latitude": -34.836374,
       "longitude": 138.526896,
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2025-11-23T20:22:15Z",
+      "timestamp": "2025-11-23T20:41:39Z",
       "reported_at": "2025-11-23T18:15:56Z"
+    },
+    {
+      "id": "c5f58b57-b4c9-456b-b8b0-a4994bbe6372",
+      "latitude": -34.83306,
+      "longitude": 138.559466,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-11-23T20:41:39Z",
+      "reported_at": "2025-11-23T20:28:39Z"
     }
   ]
 }
