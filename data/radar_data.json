@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "30118151-57f5-4243-a54a-ac0f2eaf5e06",
+      "latitude": -34.956533,
+      "longitude": 138.632348,
+      "street": "Fisher St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2025-11-23T22:18:40Z",
+      "reported_at": "2025-11-23T21:50:34Z"
+    },
+    {
       "id": "66fb6354-3fe4-44d1-b9c1-dfeb750b1a41",
       "latitude": -34.905394,
       "longitude": 138.6004,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
+      "timestamp": "2025-11-23T22:18:40Z",
       "reported_at": "2025-11-23T21:07:54Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
+      "timestamp": "2025-11-23T22:18:40Z",
       "reported_at": "2025-11-23T21:25:16Z"
     },
     {
-      "id": "8597db5c-1f58-437a-b95b-2dddea17c792",
-      "latitude": -34.918747,
-      "longitude": 138.622963,
+      "id": "f45a356e-b274-4b25-9abe-77932558f8f3",
+      "latitude": -34.918058,
+      "longitude": 138.622911,
       "street": "Fullarton Rd",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
-      "reported_at": "2025-11-23T21:17:17Z"
+      "timestamp": "2025-11-23T22:18:40Z",
+      "reported_at": "2025-11-23T22:05:01Z"
     },
     {
       "id": "31534e8b-a66a-4b64-a59c-f52e88045330",
@@ -37,8 +47,18 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
+      "timestamp": "2025-11-23T22:18:40Z",
       "reported_at": "2025-11-23T21:09:10Z"
+    },
+    {
+      "id": "fed860cd-05d7-47d0-9c01-3929a90f3c39",
+      "latitude": -34.737087,
+      "longitude": 138.616471,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2025-11-23T22:18:40Z",
+      "reported_at": "2025-11-23T22:01:04Z"
     },
     {
       "id": "85c7e090-8979-4d9e-8d8f-390d4e1dc5c0",
@@ -47,28 +67,28 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
+      "timestamp": "2025-11-23T22:18:40Z",
       "reported_at": "2025-11-23T20:54:08Z"
     },
     {
-      "id": "3cd3cb95-2db8-4880-8045-6b1398e70070",
-      "latitude": -34.900542,
-      "longitude": 138.604261,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "886dc4bf-432b-49f6-81bf-269a5f23cf61",
+      "latitude": -34.83258,
+      "longitude": 138.563014,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
-      "reported_at": "2025-11-23T21:17:31Z"
+      "timestamp": "2025-11-23T22:18:40Z",
+      "reported_at": "2025-11-23T21:38:11Z"
     },
     {
-      "id": "a9f882eb-f2e6-4c35-9c2b-553e91b83d39",
-      "latitude": -34.96768,
-      "longitude": 138.649202,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "9279f64b-5867-4432-8710-29ef7acd749f",
+      "latitude": -34.835582,
+      "longitude": 138.528657,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:38:04Z",
-      "reported_at": "2025-11-23T21:21:47Z"
+      "timestamp": "2025-11-23T22:18:40Z",
+      "reported_at": "2025-11-23T22:04:38Z"
     }
   ]
 }
