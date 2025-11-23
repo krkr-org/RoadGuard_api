@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "66fb6354-3fe4-44d1-b9c1-dfeb750b1a41",
+      "latitude": -34.905394,
+      "longitude": 138.6004,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-23T21:38:04Z",
+      "reported_at": "2025-11-23T21:07:54Z"
+    },
+    {
+      "id": "2cd05045-3a76-46b3-bf60-bd948d0c1693",
+      "latitude": -34.964324,
+      "longitude": 138.581569,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2025-11-23T21:38:04Z",
+      "reported_at": "2025-11-23T21:25:16Z"
+    },
+    {
+      "id": "8597db5c-1f58-437a-b95b-2dddea17c792",
+      "latitude": -34.918747,
+      "longitude": 138.622963,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-23T21:38:04Z",
+      "reported_at": "2025-11-23T21:17:17Z"
+    },
+    {
       "id": "31534e8b-a66a-4b64-a59c-f52e88045330",
       "latitude": -34.925075,
       "longitude": 138.632472,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:17:47Z",
+      "timestamp": "2025-11-23T21:38:04Z",
       "reported_at": "2025-11-23T21:09:10Z"
     },
     {
@@ -17,28 +47,28 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:17:47Z",
+      "timestamp": "2025-11-23T21:38:04Z",
       "reported_at": "2025-11-23T20:54:08Z"
     },
     {
-      "id": "c56243e3-c6bf-4e76-8eeb-5ec58e30030d",
-      "latitude": -34.870997,
-      "longitude": 138.570708,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
+      "id": "3cd3cb95-2db8-4880-8045-6b1398e70070",
+      "latitude": -34.900542,
+      "longitude": 138.604261,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:17:47Z",
-      "reported_at": "2025-11-23T21:09:45Z"
+      "timestamp": "2025-11-23T21:38:04Z",
+      "reported_at": "2025-11-23T21:17:31Z"
     },
     {
-      "id": "fdd9f063-b4a7-4937-b264-ab2c542936b3",
-      "latitude": -34.832981,
-      "longitude": 138.560615,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "a9f882eb-f2e6-4c35-9c2b-553e91b83d39",
+      "latitude": -34.96768,
+      "longitude": 138.649202,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2025-11-23T21:17:47Z",
-      "reported_at": "2025-11-23T21:06:35Z"
+      "timestamp": "2025-11-23T21:38:04Z",
+      "reported_at": "2025-11-23T21:21:47Z"
     }
   ]
 }
