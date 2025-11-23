@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "16e0148d-3ff4-41ad-bcd0-ed665206924e",
-      "latitude": -34.796977,
-      "longitude": 138.649845,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T06:23:17Z"
-    },
-    {
       "id": "fa28ae75-510b-46e3-8442-e71583672bac",
       "latitude": -34.729011,
       "longitude": 138.660931,
       "street": "Goodman Rd",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
+      "timestamp": "2025-11-23T10:19:21Z",
       "reported_at": "2025-11-23T07:23:24Z"
     },
     {
-      "id": "8003d695-3481-4881-b756-e1c5eeba1184",
-      "latitude": -34.74231,
-      "longitude": 138.680695,
+      "id": "16e0148d-3ff4-41ad-bcd0-ed665206924e",
+      "latitude": -34.796977,
+      "longitude": 138.649845,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T06:23:17Z"
+    },
+    {
+      "id": "dbfe1c03-e803-4f9a-9e2c-34447b838b08",
+      "latitude": -34.738603,
+      "longitude": 138.682326,
       "street": "Christine Av",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T05:21:43Z"
-    },
-    {
-      "id": "3ad58d51-a2a3-46a4-a205-ca5429ba71de",
-      "latitude": -34.682559,
-      "longitude": 138.690177,
-      "street": "Anderson Walk",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T06:01:30Z"
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T07:15:14Z"
     },
     {
       "id": "56ce1d82-8495-43e2-97c1-c29831e6c59b",
@@ -47,28 +37,8 @@
       "street": "Whites Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
+      "timestamp": "2025-11-23T10:19:21Z",
       "reported_at": "2025-11-23T05:13:29Z"
-    },
-    {
-      "id": "00610989-9178-4ea9-a185-3ddfaeb2470e",
-      "latitude": -34.737901,
-      "longitude": 138.648073,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T06:33:35Z"
-    },
-    {
-      "id": "a1a09449-da7f-4e55-ae13-4568100872da",
-      "latitude": -34.869954,
-      "longitude": 138.570536,
-      "street": "Unknown Street",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T07:39:30Z"
     },
     {
       "id": "42c12951-b732-4b9d-ab51-f1de1253ff2b",
@@ -77,8 +47,28 @@
       "street": "Edinburgh Rd",
       "city": "Direk",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
+      "timestamp": "2025-11-23T10:19:21Z",
       "reported_at": "2025-11-23T06:52:09Z"
+    },
+    {
+      "id": "4edf547d-0d4c-44df-a290-606b9f5b6c89",
+      "latitude": -34.737793,
+      "longitude": 138.647825,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T06:03:15Z"
+    },
+    {
+      "id": "a1a09449-da7f-4e55-ae13-4568100872da",
+      "latitude": -34.869954,
+      "longitude": 138.570536,
+      "street": "Unknown Street",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T07:39:30Z"
     },
     {
       "id": "365b6dcb-27fa-407c-9e04-eb8bfc95e658",
@@ -87,38 +77,8 @@
       "street": "Rundle St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
+      "timestamp": "2025-11-23T10:19:21Z",
       "reported_at": "2025-11-23T06:03:18Z"
-    },
-    {
-      "id": "f1b6e904-1650-4c3c-955d-fd32534a17a8",
-      "latitude": -34.701796,
-      "longitude": 138.694711,
-      "street": "Campbell Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T05:56:45Z"
-    },
-    {
-      "id": "1fa08856-2ebd-48d6-9d8a-f43811efbbe3",
-      "latitude": -34.689309,
-      "longitude": 138.76865,
-      "street": "Gawler-One Tree Hill Rd",
-      "city": "Uleybury",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T05:34:19Z"
-    },
-    {
-      "id": "1777f63f-63c7-4f46-b394-f2920b1c8d4b",
-      "latitude": -34.75405,
-      "longitude": 138.632921,
-      "street": "Bagster Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T08:10:46Z"
     },
     {
       "id": "d054f4c2-d867-4579-b822-1bbce5bab6b6",
@@ -127,28 +87,48 @@
       "street": "Smith Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
+      "timestamp": "2025-11-23T10:19:21Z",
       "reported_at": "2025-11-23T06:31:32Z"
     },
     {
-      "id": "44e9d97a-4b90-4186-a30f-84fe63239e7b",
-      "latitude": -34.689605,
-      "longitude": 138.711142,
+      "id": "96d7ab01-b8bf-4c5d-8fc4-f97ac7eb70ec",
+      "latitude": -34.68625,
+      "longitude": 138.76821,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Uleybury",
+      "type": "mobile",
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T06:11:14Z"
+    },
+    {
+      "id": "e271e876-41b2-46db-9192-da3b6dfbc94f",
+      "latitude": -34.751998,
+      "longitude": 138.634717,
+      "street": "Bagster Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T08:22:10Z"
+    },
+    {
+      "id": "3b0780b9-7e97-4a99-a299-5a4764305447",
+      "latitude": -34.68881,
+      "longitude": 138.711638,
       "street": "Adams Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T05:57:17Z"
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T09:58:35Z"
     },
     {
-      "id": "2b61469b-7089-4600-bd29-4f1e238ec4a2",
-      "latitude": -34.741522,
-      "longitude": 138.628893,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "a4f90de0-b174-4d78-909a-8171d256441c",
+      "latitude": -34.824499,
+      "longitude": 138.679189,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
-      "reported_at": "2025-11-23T04:48:27Z"
+      "timestamp": "2025-11-23T10:19:21Z",
+      "reported_at": "2025-11-23T09:41:18Z"
     },
     {
       "id": "f0fbeed2-3584-4de2-ab4c-67fe55c8ba6e",
@@ -157,7 +137,7 @@
       "street": "A20 - Main North Rd",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2025-11-23T09:39:07Z",
+      "timestamp": "2025-11-23T10:19:21Z",
       "reported_at": "2025-11-23T08:06:14Z"
     }
   ]
