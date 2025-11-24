@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "5f6f5154-6ab9-43e6-8a94-f60ddb67cb3d",
-      "latitude": -34.735757,
-      "longitude": 138.643119,
+      "id": "08fd91f6-fff2-451b-862e-c0a5174ae2ed",
+      "latitude": -34.736362,
+      "longitude": 138.644517,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T21:11:37Z"
-    },
-    {
-      "id": "f2ceaa9f-5b17-4a7d-9cd5-c6736821bbdb",
-      "latitude": -34.776028,
-      "longitude": 138.598743,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T21:09:48Z"
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T21:22:32Z"
     },
     {
       "id": "1609b2e9-44c3-49f4-b3f6-4fc4f1e6cd79",
@@ -27,8 +17,38 @@
       "street": "Whites Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
+      "timestamp": "2025-11-24T23:18:48Z",
       "reported_at": "2025-11-24T20:51:02Z"
+    },
+    {
+      "id": "f2ceaa9f-5b17-4a7d-9cd5-c6736821bbdb",
+      "latitude": -34.776028,
+      "longitude": 138.598743,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T21:09:48Z"
+    },
+    {
+      "id": "15bcb1ce-8aba-4579-8ffd-6d3356e6de2d",
+      "latitude": -34.805215,
+      "longitude": 138.603671,
+      "street": "Elder Dr",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T21:55:48Z"
+    },
+    {
+      "id": "e8013594-73ef-4201-b544-17fa8ac955b1",
+      "latitude": -34.920366,
+      "longitude": 138.619004,
+      "street": "The Parade West",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T22:48:57Z"
     },
     {
       "id": "f6aa7119-ad92-4714-abb5-86e21587207c",
@@ -37,58 +57,78 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
+      "timestamp": "2025-11-24T23:18:48Z",
       "reported_at": "2025-11-24T22:05:05Z"
     },
     {
-      "id": "66d633e8-8655-4dff-9977-97e74972bfdc",
-      "latitude": -35.075898,
-      "longitude": 138.542778,
-      "street": "Lander Rd",
-      "city": "Trott Park",
+      "id": "86e89a59-93d2-4f95-b258-13e4825906bb",
+      "latitude": -34.755604,
+      "longitude": 138.649311,
+      "street": "Commercial Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T22:22:41Z"
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T22:37:11Z"
     },
     {
-      "id": "ff9bc515-18ac-44d0-9124-adcf30fdc349",
-      "latitude": -34.917665,
-      "longitude": 138.622877,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T21:36:32Z"
-    },
-    {
-      "id": "2473f7b5-613e-44c3-b0d0-136b4e8ea7bf",
-      "latitude": -34.9272,
-      "longitude": 138.636609,
-      "street": "Kensington Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T22:14:59Z"
-    },
-    {
-      "id": "c78666fe-9e35-45e6-9be7-0a5f460fdbf1",
-      "latitude": -34.738293,
-      "longitude": 138.602231,
+      "id": "a4864214-5061-4057-9bfd-2948f8049451",
+      "latitude": -34.739271,
+      "longitude": 138.603828,
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T21:25:05Z"
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T21:43:38Z"
     },
     {
-      "id": "a83ed4b6-aa86-46ca-b33c-9f68c2cd43bf",
-      "latitude": -34.842549,
-      "longitude": 138.589822,
+      "id": "834a622d-4e78-4218-9852-5840a044fa34",
+      "latitude": -34.803997,
+      "longitude": 138.501324,
+      "street": "A16 - Victoria Rd",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T22:37:36Z"
+    },
+    {
+      "id": "1cdc00c0-5d30-49f1-9d2b-5c8ae0ffc15e",
+      "latitude": -34.843677,
+      "longitude": 138.588426,
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-11-24T22:41:55Z",
-      "reported_at": "2025-11-24T21:00:10Z"
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T20:54:02Z"
+    },
+    {
+      "id": "dce57c6f-e8f7-45d4-88c8-abcb7106d462",
+      "latitude": -34.842516,
+      "longitude": 138.590126,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T22:56:40Z"
+    },
+    {
+      "id": "455af314-b61f-4699-abc5-9537c709f2b2",
+      "latitude": -34.795597,
+      "longitude": 138.653401,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T22:46:12Z"
+    },
+    {
+      "id": "821f1499-b651-46ae-b3d7-7e11de6c2960",
+      "latitude": -34.756054,
+      "longitude": 138.590346,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-24T23:18:48Z",
+      "reported_at": "2025-11-24T22:18:29Z"
     }
   ]
 }
