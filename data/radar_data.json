@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "2cd05045-3a76-46b3-bf60-bd948d0c1693",
-      "latitude": -34.964324,
-      "longitude": 138.581569,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T21:25:16Z"
-    },
-    {
-      "id": "e849bb53-5a08-4442-8147-a0ecc9a08832",
-      "latitude": -34.956534,
-      "longitude": 138.63232,
+      "id": "81924dfc-57be-4cd0-82cc-f11f0e181c2b",
+      "latitude": -34.956558,
+      "longitude": 138.631818,
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T22:38:11Z"
+      "timestamp": "2025-11-24T01:45:02Z",
+      "reported_at": "2025-11-23T23:38:07Z"
     },
     {
-      "id": "66fb6354-3fe4-44d1-b9c1-dfeb750b1a41",
-      "latitude": -34.905394,
-      "longitude": 138.6004,
+      "id": "527be095-5f32-43d2-8ae8-f64c983feb95",
+      "latitude": -34.905379,
+      "longitude": 138.600395,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T21:07:54Z"
-    },
-    {
-      "id": "727586bf-4ced-4cd7-822f-10c2fc505bdf",
-      "latitude": -34.848405,
-      "longitude": 138.649693,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T23:04:25Z"
+      "timestamp": "2025-11-24T01:45:02Z",
+      "reported_at": "2025-11-24T01:17:18Z"
     },
     {
       "id": "31534e8b-a66a-4b64-a59c-f52e88045330",
@@ -47,7 +27,7 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
+      "timestamp": "2025-11-24T01:45:02Z",
       "reported_at": "2025-11-23T21:09:10Z"
     },
     {
@@ -57,18 +37,8 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
+      "timestamp": "2025-11-24T01:45:02Z",
       "reported_at": "2025-11-23T22:01:04Z"
-    },
-    {
-      "id": "8a515dac-ff2e-45f1-91bc-7677987ceb32",
-      "latitude": -34.964403,
-      "longitude": 138.628723,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T21:42:21Z"
     },
     {
       "id": "48c077d5-8584-4d29-b61f-6bbfb9ba493f",
@@ -77,28 +47,38 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
+      "timestamp": "2025-11-24T01:45:02Z",
       "reported_at": "2025-11-23T21:09:51Z"
     },
     {
-      "id": "bea36bbf-900f-4654-8c80-def7ba4d7184",
-      "latitude": -34.900875,
-      "longitude": 138.605089,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "f779a6e6-455e-4b99-9f24-b10589997d61",
+      "latitude": -34.946531,
+      "longitude": 138.625024,
+      "street": "B28 - Fullarton Rd",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T21:49:17Z"
+      "timestamp": "2025-11-24T01:45:02Z",
+      "reported_at": "2025-11-24T01:19:32Z"
     },
     {
-      "id": "102912bd-70ee-4540-b707-93de5fa21015",
-      "latitude": -34.79386,
-      "longitude": 138.613185,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "900d0eba-9c7b-463a-b3cf-b8fc5d02aeb6",
+      "latitude": -34.795331,
+      "longitude": 138.700592,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2025-11-23T23:38:41Z",
-      "reported_at": "2025-11-23T23:15:11Z"
+      "timestamp": "2025-11-24T01:45:02Z",
+      "reported_at": "2025-11-24T01:18:27Z"
+    },
+    {
+      "id": "fb5d3639-bad3-463a-b1ef-f09b5ee78556",
+      "latitude": -34.860998,
+      "longitude": 138.567697,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-24T01:45:02Z",
+      "reported_at": "2025-11-24T01:33:10Z"
     }
   ]
 }
