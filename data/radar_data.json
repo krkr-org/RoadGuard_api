@@ -1,84 +1,114 @@
 {
   "radars": [
     {
+      "id": "d67e8dc6-48a8-4b48-bf19-5ddeec2351df",
+      "latitude": -34.920247,
+      "longitude": 138.618879,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T00:50:01Z"
+    },
+    {
+      "id": "c328da03-ef92-4aec-a9f2-64890a8cadf2",
+      "latitude": -34.922213,
+      "longitude": 138.614686,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T03:19:31Z"
+    },
+    {
       "id": "81924dfc-57be-4cd0-82cc-f11f0e181c2b",
       "latitude": -34.956558,
       "longitude": 138.631818,
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
+      "timestamp": "2025-11-24T03:24:25Z",
       "reported_at": "2025-11-23T23:38:07Z"
     },
     {
-      "id": "527be095-5f32-43d2-8ae8-f64c983feb95",
-      "latitude": -34.905379,
-      "longitude": 138.600395,
+      "id": "3f40fad9-807e-45c9-9437-5a381b10e11c",
+      "latitude": -34.907358,
+      "longitude": 138.601108,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-24T01:17:18Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T01:46:49Z"
     },
     {
-      "id": "31534e8b-a66a-4b64-a59c-f52e88045330",
-      "latitude": -34.925193,
-      "longitude": 138.632481,
+      "id": "cfd5576d-0909-4a2c-a57e-8de1f56e77f6",
+      "latitude": -34.940124,
+      "longitude": 138.615092,
+      "street": "Glen Osmond Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T03:08:06Z"
+    },
+    {
+      "id": "12278c4a-af1d-4c88-a588-1a51efe5fc8a",
+      "latitude": -34.922666,
+      "longitude": 138.63229,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-23T21:09:10Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T01:07:48Z"
     },
     {
-      "id": "fed860cd-05d7-47d0-9c01-3929a90f3c39",
-      "latitude": -34.737087,
-      "longitude": 138.616471,
-      "street": "Bolivar Rd",
-      "city": "Burton",
+      "id": "12927833-6bb9-44b8-9d5d-fd2debfc662a",
+      "latitude": -34.765326,
+      "longitude": 138.626916,
+      "street": "Winzor St",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-23T22:01:04Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T02:45:51Z"
     },
     {
-      "id": "48c077d5-8584-4d29-b61f-6bbfb9ba493f",
-      "latitude": -34.939776,
-      "longitude": 138.671671,
-      "street": "B26 - Greenhill Rd",
-      "city": "Burnside",
+      "id": "6b77e72d-7ece-49d1-8970-fa20e7adab5c",
+      "latitude": -34.900132,
+      "longitude": 138.60245,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-23T21:09:51Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T02:02:19Z"
     },
     {
-      "id": "f779a6e6-455e-4b99-9f24-b10589997d61",
-      "latitude": -34.946531,
-      "longitude": 138.625024,
-      "street": "B28 - Fullarton Rd",
-      "city": "Parkside",
+      "id": "8a515dac-ff2e-45f1-91bc-7677987ceb32",
+      "latitude": -34.964364,
+      "longitude": 138.629352,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-24T01:19:32Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-23T21:42:21Z"
     },
     {
-      "id": "900d0eba-9c7b-463a-b3cf-b8fc5d02aeb6",
-      "latitude": -34.795331,
-      "longitude": 138.700592,
-      "street": "A11 - The Grove Way",
-      "city": "Golden Grove",
+      "id": "c4ffbd1f-8ee3-41e2-9554-905e908b7ad9",
+      "latitude": -34.835194,
+      "longitude": 138.68048,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-24T01:18:27Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T03:00:36Z"
     },
     {
-      "id": "fb5d3639-bad3-463a-b1ef-f09b5ee78556",
-      "latitude": -34.860998,
-      "longitude": 138.567697,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "05131c8a-c7b0-47f7-a212-dca0bd573968",
+      "latitude": -34.795891,
+      "longitude": 138.611543,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Green Fields",
       "type": "mobile",
-      "timestamp": "2025-11-24T01:45:02Z",
-      "reported_at": "2025-11-24T01:33:10Z"
+      "timestamp": "2025-11-24T03:24:25Z",
+      "reported_at": "2025-11-24T02:15:07Z"
     }
   ]
 }
