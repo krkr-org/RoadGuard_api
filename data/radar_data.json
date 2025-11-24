@@ -1,74 +1,64 @@
 {
   "radars": [
     {
+      "id": "3f40fad9-807e-45c9-9437-5a381b10e11c",
+      "latitude": -34.907358,
+      "longitude": 138.601108,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-24T04:53:14Z",
+      "reported_at": "2025-11-24T01:46:49Z"
+    },
+    {
       "id": "d67e8dc6-48a8-4b48-bf19-5ddeec2351df",
       "latitude": -34.920247,
       "longitude": 138.618879,
       "street": "Rundle St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
+      "timestamp": "2025-11-24T04:53:14Z",
       "reported_at": "2025-11-24T00:50:01Z"
     },
     {
-      "id": "527be095-5f32-43d2-8ae8-f64c983feb95",
-      "latitude": -34.905379,
-      "longitude": 138.600395,
-      "street": "LeFevre Tce",
-      "city": "North Adelaide",
+      "id": "b3c2a0ab-99d5-40d9-9bca-b0ff78f5f825",
+      "latitude": -34.900724,
+      "longitude": 138.684199,
+      "street": "Glen Stuart Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
-      "reported_at": "2025-11-24T01:17:18Z"
+      "timestamp": "2025-11-24T04:53:14Z",
+      "reported_at": "2025-11-24T03:39:43Z"
     },
     {
-      "id": "2dadd4bd-20fb-48b6-af8f-6a258a5af4e5",
-      "latitude": -35.076667,
-      "longitude": 138.582956,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
+      "id": "d5a8d810-36a2-4994-91f1-ed29618811a7",
+      "latitude": -34.837424,
+      "longitude": 138.502378,
+      "street": "A16 - Victoria Rd",
+      "city": "Birkenhead",
       "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
-      "reported_at": "2025-11-24T03:30:36Z"
+      "timestamp": "2025-11-24T04:53:14Z",
+      "reported_at": "2025-11-24T04:40:29Z"
     },
     {
-      "id": "866123f4-b631-40ba-90af-47dffc55ded8",
-      "latitude": -34.930211,
-      "longitude": 138.606138,
-      "street": "Pulteney St",
-      "city": "Adelaide",
+      "id": "97555900-98e0-45cf-b08b-327cc868b947",
+      "latitude": -34.960262,
+      "longitude": 138.608262,
+      "street": "B29 - Unley Rd",
+      "city": "Unley Park",
       "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
-      "reported_at": "2025-11-24T04:01:37Z"
+      "timestamp": "2025-11-24T04:53:14Z",
+      "reported_at": "2025-11-24T04:36:12Z"
     },
     {
-      "id": "12278c4a-af1d-4c88-a588-1a51efe5fc8a",
-      "latitude": -34.922666,
-      "longitude": 138.63229,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "d28e7d6c-d387-4a4b-b779-233176a9ddf9",
+      "latitude": -34.856208,
+      "longitude": 138.565186,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
-      "reported_at": "2025-11-24T01:07:48Z"
-    },
-    {
-      "id": "6b77e72d-7ece-49d1-8970-fa20e7adab5c",
-      "latitude": -34.900132,
-      "longitude": 138.60245,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
-      "reported_at": "2025-11-24T02:02:19Z"
-    },
-    {
-      "id": "f0e6cac9-a400-4b02-9d27-d3120ff80ffe",
-      "latitude": -34.822968,
-      "longitude": 138.819711,
-      "street": "B10 - North East Rd",
-      "city": "Millbrook",
-      "type": "mobile",
-      "timestamp": "2025-11-24T04:08:32Z",
-      "reported_at": "2025-11-24T03:38:32Z"
+      "timestamp": "2025-11-24T04:53:14Z",
+      "reported_at": "2025-11-24T04:48:25Z"
     }
   ]
 }
