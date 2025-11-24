@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "04f67769-3047-415a-b5e4-04639ea9b948",
+      "latitude": -34.99141,
+      "longitude": 138.565123,
+      "street": "West St",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2025-11-24T11:18:06Z",
+      "reported_at": "2025-11-24T07:23:33Z"
+    },
+    {
       "id": "049245fb-c5e6-48fa-9921-97004b9b09da",
       "latitude": -34.986486,
       "longitude": 138.572447,
       "street": "Dunorlan Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
+      "timestamp": "2025-11-24T11:18:06Z",
       "reported_at": "2025-11-24T08:30:03Z"
-    },
-    {
-      "id": "514084e4-c33e-4e51-8219-510eddfbe0cc",
-      "latitude": -34.961211,
-      "longitude": 138.6151,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
-      "reported_at": "2025-11-24T06:13:16Z"
-    },
-    {
-      "id": "62ee9bcf-69c5-4d64-a701-fbedf97780f6",
-      "latitude": -35.06228,
-      "longitude": 138.521776,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
-      "reported_at": "2025-11-24T07:09:19Z"
-    },
-    {
-      "id": "885ad42c-9cc9-49bf-87d1-9187b19004a4",
-      "latitude": -35.025889,
-      "longitude": 138.550429,
-      "street": "Miller St",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
-      "reported_at": "2025-11-24T07:46:01Z"
     },
     {
       "id": "5caf671c-dead-40d5-a66b-a0c8ab4e4da5",
@@ -47,8 +27,28 @@
       "street": "Cliff St",
       "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
+      "timestamp": "2025-11-24T11:18:06Z",
       "reported_at": "2025-11-24T08:07:04Z"
+    },
+    {
+      "id": "885ad42c-9cc9-49bf-87d1-9187b19004a4",
+      "latitude": -35.025889,
+      "longitude": 138.550429,
+      "street": "Miller St",
+      "city": "Seacombe Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-24T11:18:06Z",
+      "reported_at": "2025-11-24T07:46:01Z"
+    },
+    {
+      "id": "ec15d8af-9d18-4e91-a4bc-58605191d1d3",
+      "latitude": -34.875255,
+      "longitude": 138.483996,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-11-24T11:18:06Z",
+      "reported_at": "2025-11-24T10:53:51Z"
     },
     {
       "id": "c99b2661-3fef-40ae-88f2-6c12d1655a59",
@@ -57,7 +57,7 @@
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
+      "timestamp": "2025-11-24T11:18:06Z",
       "reported_at": "2025-11-24T09:27:01Z"
     },
     {
@@ -67,18 +67,18 @@
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
+      "timestamp": "2025-11-24T11:18:06Z",
       "reported_at": "2025-11-24T08:07:28Z"
     },
     {
-      "id": "e0f95436-dcfc-4fdc-84a1-d581ff14eb75",
-      "latitude": -34.937592,
-      "longitude": 138.610995,
-      "street": "Glen Osmond Rd",
-      "city": "Adelaide",
+      "id": "715a662f-0018-4f3d-8fd4-77f5e0697308",
+      "latitude": -34.896718,
+      "longitude": 138.638851,
+      "street": "A11 - Payneham Rd",
+      "city": "Royston Park",
       "type": "mobile",
-      "timestamp": "2025-11-24T10:47:34Z",
-      "reported_at": "2025-11-24T10:32:07Z"
+      "timestamp": "2025-11-24T11:18:06Z",
+      "reported_at": "2025-11-24T10:50:57Z"
     }
   ]
 }
