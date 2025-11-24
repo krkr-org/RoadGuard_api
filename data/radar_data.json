@@ -1,64 +1,54 @@
 {
   "radars": [
     {
-      "id": "885ad42c-9cc9-49bf-87d1-9187b19004a4",
-      "latitude": -35.025889,
-      "longitude": 138.550429,
-      "street": "Miller St",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-24T11:39:40Z",
-      "reported_at": "2025-11-24T07:46:01Z"
-    },
-    {
-      "id": "049245fb-c5e6-48fa-9921-97004b9b09da",
-      "latitude": -34.986486,
-      "longitude": 138.572447,
-      "street": "Dunorlan Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2025-11-24T11:39:40Z",
-      "reported_at": "2025-11-24T08:30:03Z"
-    },
-    {
-      "id": "5caf671c-dead-40d5-a66b-a0c8ab4e4da5",
-      "latitude": -34.986048,
-      "longitude": 138.534992,
-      "street": "Cliff St",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2025-11-24T11:39:40Z",
-      "reported_at": "2025-11-24T08:07:04Z"
-    },
-    {
       "id": "c99b2661-3fef-40ae-88f2-6c12d1655a59",
       "latitude": -35.010964,
       "longitude": 138.579207,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2025-11-24T11:39:40Z",
+      "timestamp": "2025-11-24T12:43:11Z",
       "reported_at": "2025-11-24T09:27:01Z"
     },
     {
-      "id": "8cc80412-be06-481e-a418-4ddaa6b1d22e",
-      "latitude": -34.921052,
-      "longitude": 138.60778,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "d90468ea-0b85-43af-8f28-1bbadba52dcc",
+      "latitude": -34.86429,
+      "longitude": 138.583348,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2025-11-24T11:39:40Z",
-      "reported_at": "2025-11-24T11:13:20Z"
+      "timestamp": "2025-11-24T12:43:11Z",
+      "reported_at": "2025-11-24T12:13:36Z"
     },
     {
-      "id": "0be46b5d-50d5-4306-9487-9f718aec495c",
-      "latitude": -34.873457,
-      "longitude": 138.601997,
+      "id": "d295ad9e-3f43-41af-9c6b-91a7696ccab9",
+      "latitude": -34.872648,
+      "longitude": 138.601938,
       "street": "A1 - Main North Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2025-11-24T11:39:40Z",
-      "reported_at": "2025-11-24T11:05:02Z"
+      "timestamp": "2025-11-24T12:43:11Z",
+      "reported_at": "2025-11-24T12:19:53Z"
+    },
+    {
+      "id": "0c76fa73-b8ca-4800-9cd5-533e56aff809",
+      "latitude": -35.012942,
+      "longitude": 138.574158,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2025-11-24T12:43:11Z",
+      "reported_at": "2025-11-24T12:18:25Z"
+    },
+    {
+      "id": "600ecb9d-249c-439e-b20f-f44c575daaea",
+      "latitude": -34.849924,
+      "longitude": 138.564729,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-11-24T12:43:11Z",
+      "reported_at": "2025-11-24T12:37:31Z"
     }
   ]
 }
