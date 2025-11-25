@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "b14f57e2-1375-427f-90ed-5ab05242cb7f",
-      "latitude": -34.910439,
-      "longitude": 138.49268,
-      "street": "Military Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T22:19:21Z"
-    },
-    {
-      "id": "8e01f3cf-b69a-46e7-9c33-43e239e7b10f",
-      "latitude": -34.920503,
-      "longitude": 138.619184,
-      "street": "The Parade West",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T22:01:03Z"
-    },
-    {
-      "id": "b753343c-926b-4b3c-9f74-2b4c4066b4b4",
-      "latitude": -34.940358,
-      "longitude": 138.562131,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T22:28:03Z"
-    },
-    {
-      "id": "28789b1e-349d-4bdd-a1bb-27d914881697",
-      "latitude": -34.956306,
-      "longitude": 138.614713,
+      "id": "8cd8e93b-d313-410d-9bd2-ca856f2e9072",
+      "latitude": -34.955638,
+      "longitude": 138.614663,
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T20:58:54Z"
-    },
-    {
-      "id": "644c1e77-3fb0-46ea-8bb1-9f3cacae8f16",
-      "latitude": -34.968334,
-      "longitude": 138.543905,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T20:43:37Z"
+      "timestamp": "2025-11-25T23:18:41Z",
+      "reported_at": "2025-11-25T22:53:39Z"
     },
     {
       "id": "32e4c8cc-ef54-4e35-aeda-01ae2f78b8b4",
@@ -57,28 +17,28 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
+      "timestamp": "2025-11-25T23:18:41Z",
       "reported_at": "2025-11-25T21:19:03Z"
     },
     {
-      "id": "16f7a410-4f17-4622-be40-a189ec202f44",
-      "latitude": -34.921624,
-      "longitude": 138.593381,
-      "street": "Montefiore Rd",
-      "city": "Adelaide",
+      "id": "644c1e77-3fb0-46ea-8bb1-9f3cacae8f16",
+      "latitude": -34.968334,
+      "longitude": 138.543905,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T22:15:29Z"
+      "timestamp": "2025-11-25T23:18:41Z",
+      "reported_at": "2025-11-25T20:43:37Z"
     },
     {
-      "id": "db466bfc-80ec-4b88-8da0-1bb2dda6d0e7",
-      "latitude": -34.91774,
-      "longitude": 138.622884,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
+      "id": "682cc779-2bfd-4b7f-91cd-7197efb1e484",
+      "latitude": -34.714047,
+      "longitude": 138.64497,
+      "street": "Research Rd",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
-      "reported_at": "2025-11-25T21:55:13Z"
+      "timestamp": "2025-11-25T23:18:41Z",
+      "reported_at": "2025-11-25T23:07:57Z"
     },
     {
       "id": "6ed1759d-ce3f-44ae-81f5-eb25b5740147",
@@ -87,8 +47,38 @@
       "street": "Melbourne St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-25T22:42:32Z",
+      "timestamp": "2025-11-25T23:18:41Z",
       "reported_at": "2025-11-25T21:33:50Z"
+    },
+    {
+      "id": "f849fa3c-367e-4097-a0af-31d81ed27830",
+      "latitude": -34.908538,
+      "longitude": 138.514248,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:18:41Z",
+      "reported_at": "2025-11-25T23:06:10Z"
+    },
+    {
+      "id": "fdf37afe-46fc-4b57-8028-9d242a8cf0c4",
+      "latitude": -34.967035,
+      "longitude": 138.578043,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:18:41Z",
+      "reported_at": "2025-11-25T22:45:09Z"
+    },
+    {
+      "id": "b41e4532-fffa-46a9-b084-670aea4c8c7a",
+      "latitude": -34.91483,
+      "longitude": 138.623389,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:18:41Z",
+      "reported_at": "2025-11-25T23:07:16Z"
     }
   ]
 }
