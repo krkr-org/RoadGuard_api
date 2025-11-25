@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "749db48e-8d9c-4581-9cca-92b9c1247b99",
+      "latitude": -35.023039,
+      "longitude": 138.570648,
+      "street": "University Dr",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2025-11-25T11:39:32Z",
+      "reported_at": "2025-11-25T11:12:14Z"
+    },
+    {
       "id": "dc7afea4-d3a2-42c5-96f7-446ab44ef12f",
       "latitude": -34.943895,
       "longitude": 138.500938,
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T07:47:17Z"
     },
     {
@@ -17,28 +27,8 @@
       "street": "Galloway Rd",
       "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T08:54:08Z"
-    },
-    {
-      "id": "c30b4840-eece-42e0-a9f4-4aebd56c85f5",
-      "latitude": -34.862899,
-      "longitude": 138.486715,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
-      "reported_at": "2025-11-25T08:11:39Z"
-    },
-    {
-      "id": "519c64aa-edfd-44b4-ac43-27eec5323d6e",
-      "latitude": -34.922218,
-      "longitude": 138.614599,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
-      "reported_at": "2025-11-25T10:56:41Z"
     },
     {
       "id": "7e6598aa-4272-4aa9-8755-7ff6a7af8b06",
@@ -47,8 +37,18 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T06:33:29Z"
+    },
+    {
+      "id": "c30b4840-eece-42e0-a9f4-4aebd56c85f5",
+      "latitude": -34.862899,
+      "longitude": 138.486715,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-11-25T11:39:32Z",
+      "reported_at": "2025-11-25T08:11:39Z"
     },
     {
       "id": "8578a1b6-874d-4260-9d7f-cf610c78a188",
@@ -57,7 +57,7 @@
       "street": "Unknown Street",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T09:24:21Z"
     },
     {
@@ -67,7 +67,7 @@
       "street": "Fletcher Rd",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T08:47:05Z"
     },
     {
@@ -77,18 +77,8 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T05:33:43Z"
-    },
-    {
-      "id": "8e987c43-eadc-49c2-a589-960b7d8eae1d",
-      "latitude": -34.825581,
-      "longitude": 138.500026,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
-      "reported_at": "2025-11-25T09:38:57Z"
     },
     {
       "id": "5c491b4b-9e97-4643-ba3e-d881bb5158d8",
@@ -97,18 +87,28 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T08:47:35Z"
     },
     {
-      "id": "7ff8781d-1ba2-4626-bdfa-58a677fa5d8b",
-      "latitude": -34.901643,
-      "longitude": 138.566863,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "id": "e0e0cd86-4253-4cd1-bb57-c6c4d51f1a64",
+      "latitude": -34.825896,
+      "longitude": 138.500259,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
-      "reported_at": "2025-11-25T11:08:47Z"
+      "timestamp": "2025-11-25T11:39:32Z",
+      "reported_at": "2025-11-25T08:50:04Z"
+    },
+    {
+      "id": "65df29ec-aca7-45e1-aa18-672a2c205e68",
+      "latitude": -34.999965,
+      "longitude": 138.610022,
+      "street": "B29 - Belair Rd",
+      "city": "Lynton",
+      "type": "mobile",
+      "timestamp": "2025-11-25T11:39:32Z",
+      "reported_at": "2025-11-25T10:53:11Z"
     },
     {
       "id": "8621d038-cd54-40c5-8834-b2b20ee600a3",
@@ -117,18 +117,18 @@
       "street": "A7 - Port Rd",
       "city": "Croydon",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
+      "timestamp": "2025-11-25T11:39:32Z",
       "reported_at": "2025-11-25T11:08:30Z"
     },
     {
-      "id": "d5dd8c8f-3a69-41b9-9c15-d905ad4917b3",
-      "latitude": -34.848128,
-      "longitude": 138.600642,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "7ff8781d-1ba2-4626-bdfa-58a677fa5d8b",
+      "latitude": -34.901643,
+      "longitude": 138.566863,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-25T11:18:27Z",
-      "reported_at": "2025-11-25T10:02:18Z"
+      "timestamp": "2025-11-25T11:39:32Z",
+      "reported_at": "2025-11-25T11:08:47Z"
     }
   ]
 }
