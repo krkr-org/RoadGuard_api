@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "407c112c-ac48-4f26-bc43-598429a027a2",
-      "latitude": -34.776852,
-      "longitude": 138.600098,
+      "id": "22ea4f77-52da-45a7-83cd-b5c68d387c71",
+      "latitude": -34.762755,
+      "longitude": 138.609395,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2025-11-25T04:34:11Z",
+      "reported_at": "2025-11-25T02:51:49Z"
+    },
+    {
+      "id": "a783f9d2-f51c-4415-9a2a-fb8ae2a5af3e",
+      "latitude": -34.892051,
+      "longitude": 138.569062,
+      "street": "South Rd",
+      "city": "Ridleyton",
+      "type": "mobile",
+      "timestamp": "2025-11-25T04:34:11Z",
+      "reported_at": "2025-11-25T03:57:51Z"
+    },
+    {
+      "id": "787a5259-88bf-4499-b31f-e5ae97759e8b",
+      "latitude": -34.776662,
+      "longitude": 138.599786,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:59:02Z",
-      "reported_at": "2025-11-25T02:28:19Z"
+      "timestamp": "2025-11-25T04:34:11Z",
+      "reported_at": "2025-11-25T02:41:57Z"
     },
     {
       "id": "35b50eda-967e-496a-8d20-db4b010b14ec",
@@ -17,8 +37,18 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:59:02Z",
+      "timestamp": "2025-11-25T04:34:11Z",
       "reported_at": "2025-11-25T02:07:07Z"
+    },
+    {
+      "id": "1388af34-7504-4de2-b6e4-7aa4572b6d62",
+      "latitude": -34.895227,
+      "longitude": 138.581366,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2025-11-25T04:34:11Z",
+      "reported_at": "2025-11-25T04:17:09Z"
     },
     {
       "id": "c90f5c99-7e39-4a55-89c1-b8f24007d090",
@@ -27,7 +57,7 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:59:02Z",
+      "timestamp": "2025-11-25T04:34:11Z",
       "reported_at": "2025-11-25T02:38:41Z"
     },
     {
@@ -37,28 +67,18 @@
       "street": "A16 - Victoria Rd",
       "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:59:02Z",
+      "timestamp": "2025-11-25T04:34:11Z",
       "reported_at": "2025-11-25T03:41:27Z"
     },
     {
-      "id": "02cc410c-d8df-4510-a982-7a9e20949ad9",
-      "latitude": -34.947582,
-      "longitude": 138.55354,
-      "street": "A14 - Marion Rd",
-      "city": "Netley",
+      "id": "8e59088c-2808-4aa2-87fe-2418cf2e48c3",
+      "latitude": -34.966339,
+      "longitude": 138.59168,
+      "street": "A3 - Cross Rd",
+      "city": "Kings Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:59:02Z",
-      "reported_at": "2025-11-25T03:26:59Z"
-    },
-    {
-      "id": "8bba3d52-567b-417f-9c31-92f3651f059e",
-      "latitude": -34.938955,
-      "longitude": 138.642488,
-      "street": "A17 - Portrush Rd",
-      "city": "Toorak Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-25T03:59:02Z",
-      "reported_at": "2025-11-25T03:35:57Z"
+      "timestamp": "2025-11-25T04:34:11Z",
+      "reported_at": "2025-11-25T04:28:35Z"
     }
   ]
 }
