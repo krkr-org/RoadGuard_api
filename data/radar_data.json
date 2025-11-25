@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "62a08e71-66b6-4bfe-8792-9e293fdba883",
+      "latitude": -34.949533,
+      "longitude": 138.565627,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2025-11-25T22:20:27Z",
+      "reported_at": "2025-11-25T21:53:29Z"
+    },
+    {
       "id": "644c1e77-3fb0-46ea-8bb1-9f3cacae8f16",
       "latitude": -34.968334,
       "longitude": 138.543905,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
+      "timestamp": "2025-11-25T22:20:27Z",
       "reported_at": "2025-11-25T20:43:37Z"
-    },
-    {
-      "id": "32e4c8cc-ef54-4e35-aeda-01ae2f78b8b4",
-      "latitude": -34.949447,
-      "longitude": 138.567329,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
-      "reported_at": "2025-11-25T21:19:03Z"
     },
     {
       "id": "28789b1e-349d-4bdd-a1bb-27d914881697",
@@ -27,48 +27,8 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
+      "timestamp": "2025-11-25T22:20:27Z",
       "reported_at": "2025-11-25T20:58:54Z"
-    },
-    {
-      "id": "95823f0b-d153-421b-af6d-9853e829d8e8",
-      "latitude": -34.958291,
-      "longitude": 138.530915,
-      "street": "James Melrose Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
-      "reported_at": "2025-11-25T20:17:15Z"
-    },
-    {
-      "id": "588bffcf-9c1a-4ac5-8d7c-876878fc6171",
-      "latitude": -34.919846,
-      "longitude": 138.61905,
-      "street": "Unknown Street",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
-      "reported_at": "2025-11-25T21:05:24Z"
-    },
-    {
-      "id": "dc446a10-e2da-4e9f-962f-bd678c9950b2",
-      "latitude": -34.992512,
-      "longitude": 138.580488,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
-      "reported_at": "2025-11-25T21:16:27Z"
-    },
-    {
-      "id": "e1011f76-3e47-4ca6-9449-c451a728ca56",
-      "latitude": -35.083793,
-      "longitude": 138.583165,
-      "street": "Chandlers Hill Rd",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
-      "reported_at": "2025-11-25T20:59:13Z"
     },
     {
       "id": "a20d4a9b-0940-4e24-85dd-dc94295ddff2",
@@ -77,18 +37,28 @@
       "street": "Morphett St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
+      "timestamp": "2025-11-25T22:20:27Z",
       "reported_at": "2025-11-25T21:04:31Z"
     },
     {
-      "id": "239c05f5-6ae1-4d2f-9432-4f0bef9a19f5",
-      "latitude": -34.966795,
-      "longitude": 138.581152,
+      "id": "6ed1759d-ce3f-44ae-81f5-eb25b5740147",
+      "latitude": -34.907249,
+      "longitude": 138.60694,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-25T22:20:27Z",
+      "reported_at": "2025-11-25T21:33:50Z"
+    },
+    {
+      "id": "651e9091-e5b5-4f97-aa3a-0d2ab779cecf",
+      "latitude": -34.966967,
+      "longitude": 138.57953,
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T21:39:28Z",
-      "reported_at": "2025-11-25T20:51:44Z"
+      "timestamp": "2025-11-25T22:20:27Z",
+      "reported_at": "2025-11-25T21:17:58Z"
     }
   ]
 }
