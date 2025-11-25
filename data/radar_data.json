@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "8cd8e93b-d313-410d-9bd2-ca856f2e9072",
-      "latitude": -34.955638,
-      "longitude": 138.614663,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
-      "reported_at": "2025-11-25T22:53:39Z"
-    },
-    {
       "id": "32e4c8cc-ef54-4e35-aeda-01ae2f78b8b4",
       "latitude": -34.949447,
       "longitude": 138.567329,
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
+      "timestamp": "2025-11-25T23:39:16Z",
       "reported_at": "2025-11-25T21:19:03Z"
+    },
+    {
+      "id": "8cd8e93b-d313-410d-9bd2-ca856f2e9072",
+      "latitude": -34.955638,
+      "longitude": 138.614663,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:39:16Z",
+      "reported_at": "2025-11-25T22:53:39Z"
     },
     {
       "id": "644c1e77-3fb0-46ea-8bb1-9f3cacae8f16",
@@ -27,7 +27,7 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
+      "timestamp": "2025-11-25T23:39:16Z",
       "reported_at": "2025-11-25T20:43:37Z"
     },
     {
@@ -37,8 +37,28 @@
       "street": "Research Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
+      "timestamp": "2025-11-25T23:39:16Z",
       "reported_at": "2025-11-25T23:07:57Z"
+    },
+    {
+      "id": "5a36ef35-bb89-468d-9f1f-e9871c40ccc6",
+      "latitude": -34.877917,
+      "longitude": 138.48485,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:39:16Z",
+      "reported_at": "2025-11-25T23:21:06Z"
+    },
+    {
+      "id": "064db539-ca42-4f7e-9ec5-ec7ac4c2a6a3",
+      "latitude": -34.992537,
+      "longitude": 138.57993,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:39:16Z",
+      "reported_at": "2025-11-25T23:09:37Z"
     },
     {
       "id": "6ed1759d-ce3f-44ae-81f5-eb25b5740147",
@@ -47,7 +67,7 @@
       "street": "Melbourne St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
+      "timestamp": "2025-11-25T23:39:16Z",
       "reported_at": "2025-11-25T21:33:50Z"
     },
     {
@@ -57,7 +77,7 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
+      "timestamp": "2025-11-25T23:39:16Z",
       "reported_at": "2025-11-25T23:06:10Z"
     },
     {
@@ -67,18 +87,38 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
+      "timestamp": "2025-11-25T23:39:16Z",
       "reported_at": "2025-11-25T22:45:09Z"
     },
     {
-      "id": "b41e4532-fffa-46a9-b084-670aea4c8c7a",
-      "latitude": -34.91483,
-      "longitude": 138.623389,
+      "id": "7146799d-da2c-4e9b-a727-91ac1320f5f6",
+      "latitude": -34.924021,
+      "longitude": 138.516624,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:39:16Z",
+      "reported_at": "2025-11-25T23:23:21Z"
+    },
+    {
+      "id": "a5b408cf-0c48-4e12-becb-f91281cb71e4",
+      "latitude": -34.913327,
+      "longitude": 138.624656,
       "street": "A11 - Payneham Rd",
       "city": "St. Peters",
       "type": "mobile",
-      "timestamp": "2025-11-25T23:18:41Z",
-      "reported_at": "2025-11-25T23:07:16Z"
+      "timestamp": "2025-11-25T23:39:16Z",
+      "reported_at": "2025-11-25T23:20:55Z"
+    },
+    {
+      "id": "526374aa-472a-408b-90f4-7185928f26c5",
+      "latitude": -34.848069,
+      "longitude": 138.601846,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-11-25T23:39:16Z",
+      "reported_at": "2025-11-25T23:16:31Z"
     }
   ]
 }
