@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "1609b2e9-44c3-49f4-b3f6-4fc4f1e6cd79",
-      "latitude": -34.761693,
-      "longitude": 138.610344,
-      "street": "Whites Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T20:51:02Z"
-    },
-    {
       "id": "f2ceaa9f-5b17-4a7d-9cd5-c6736821bbdb",
       "latitude": -34.776028,
       "longitude": 138.598743,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
+      "timestamp": "2025-11-25T01:39:34Z",
       "reported_at": "2025-11-24T21:09:48Z"
+    },
+    {
+      "id": "5f6f5154-6ab9-43e6-8a94-f60ddb67cb3d",
+      "latitude": -34.735757,
+      "longitude": 138.643119,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-24T21:11:37Z"
     },
     {
       "id": "15bcb1ce-8aba-4579-8ffd-6d3356e6de2d",
@@ -27,78 +27,38 @@
       "street": "Elder Dr",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
+      "timestamp": "2025-11-25T01:39:34Z",
       "reported_at": "2025-11-24T21:55:48Z"
     },
     {
-      "id": "4fdcbc4c-97c8-4c6f-a3d4-f7df8467fd13",
-      "latitude": -34.751738,
-      "longitude": 138.646783,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
+      "id": "404a250c-a9ac-4b0d-a890-c369c18805c4",
+      "latitude": -35.022667,
+      "longitude": 138.584839,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T23:18:36Z"
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-25T01:26:25Z"
     },
     {
-      "id": "08fd91f6-fff2-451b-862e-c0a5174ae2ed",
-      "latitude": -34.736362,
-      "longitude": 138.644517,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T21:22:32Z"
-    },
-    {
-      "id": "f6aa7119-ad92-4714-abb5-86e21587207c",
-      "latitude": -34.8757,
-      "longitude": 138.484229,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T22:05:05Z"
-    },
-    {
-      "id": "534607fd-3815-4c35-b484-71354917d4d4",
-      "latitude": -35.058468,
-      "longitude": 138.615466,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T23:29:08Z"
-    },
-    {
-      "id": "c78666fe-9e35-45e6-9be7-0a5f460fdbf1",
-      "latitude": -34.738293,
-      "longitude": 138.602231,
+      "id": "a4864214-5061-4057-9bfd-2948f8049451",
+      "latitude": -34.738448,
+      "longitude": 138.602484,
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T21:25:05Z"
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-24T21:43:38Z"
     },
     {
-      "id": "24ac0efa-0b1d-4114-993d-410f54dfbb30",
-      "latitude": -34.968385,
-      "longitude": 138.608792,
-      "street": "B29 - Belair Rd",
-      "city": "Hawthorn",
+      "id": "27c2ab74-2979-4ad3-b3b2-328930ecb1c3",
+      "latitude": -34.802582,
+      "longitude": 138.610905,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T23:33:57Z"
-    },
-    {
-      "id": "d271208d-2a76-4921-b05e-34134b77f0da",
-      "latitude": -34.91697,
-      "longitude": 138.614377,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T23:26:04Z"
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-24T22:26:55Z"
     },
     {
       "id": "1cdc00c0-5d30-49f1-9d2b-5c8ae0ffc15e",
@@ -107,7 +67,7 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
+      "timestamp": "2025-11-25T01:39:34Z",
       "reported_at": "2025-11-24T20:54:02Z"
     },
     {
@@ -117,18 +77,28 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
+      "timestamp": "2025-11-25T01:39:34Z",
       "reported_at": "2025-11-24T22:56:40Z"
     },
     {
-      "id": "93de6521-0ca8-4d2f-ab77-b35a7a21c1a1",
-      "latitude": -34.80748,
-      "longitude": 138.601008,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "244b67c3-ea20-4888-85c7-33bcf009c531",
+      "latitude": -34.726592,
+      "longitude": 138.580507,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T23:08:20Z"
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-24T23:34:12Z"
+    },
+    {
+      "id": "5317c962-c9e2-478b-b522-5c768fd5d3b8",
+      "latitude": -34.793553,
+      "longitude": 138.613633,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-25T01:28:14Z"
     },
     {
       "id": "fb13a173-6a6c-4e11-9cd6-62763fad31a6",
@@ -137,18 +107,18 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
+      "timestamp": "2025-11-25T01:39:34Z",
       "reported_at": "2025-11-24T23:01:07Z"
     },
     {
-      "id": "821f1499-b651-46ae-b3d7-7e11de6c2960",
-      "latitude": -34.756054,
-      "longitude": 138.590346,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Bolivar",
+      "id": "995760f9-0b57-41b4-9a71-dce0b2c5650a",
+      "latitude": -35.028726,
+      "longitude": 138.55609,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2025-11-24T23:39:50Z",
-      "reported_at": "2025-11-24T22:18:29Z"
+      "timestamp": "2025-11-25T01:39:34Z",
+      "reported_at": "2025-11-25T01:34:59Z"
     }
   ]
 }
