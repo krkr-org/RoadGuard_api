@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "407c112c-ac48-4f26-bc43-598429a027a2",
+      "latitude": -34.776852,
+      "longitude": 138.600098,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-25T03:59:02Z",
+      "reported_at": "2025-11-25T02:28:19Z"
+    },
+    {
       "id": "35b50eda-967e-496a-8d20-db4b010b14ec",
       "latitude": -34.956463,
       "longitude": 138.508969,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
+      "timestamp": "2025-11-25T03:59:02Z",
       "reported_at": "2025-11-25T02:07:07Z"
-    },
-    {
-      "id": "5f6f5154-6ab9-43e6-8a94-f60ddb67cb3d",
-      "latitude": -34.735757,
-      "longitude": 138.643119,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
-      "reported_at": "2025-11-24T21:11:37Z"
-    },
-    {
-      "id": "e958768b-26d4-4bbc-b8be-e5b767383717",
-      "latitude": -34.904195,
-      "longitude": 138.545448,
-      "street": "Crittenden Rd",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
-      "reported_at": "2025-11-25T02:40:56Z"
     },
     {
       "id": "c90f5c99-7e39-4a55-89c1-b8f24007d090",
@@ -37,48 +27,38 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
+      "timestamp": "2025-11-25T03:59:02Z",
       "reported_at": "2025-11-25T02:38:41Z"
     },
     {
-      "id": "dcebd626-9d2d-463f-b651-45c078be883d",
-      "latitude": -34.956723,
-      "longitude": 138.514422,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "a3b13805-c8ba-4307-b9b5-8751e1121789",
+      "latitude": -34.791221,
+      "longitude": 138.501544,
+      "street": "A16 - Victoria Rd",
+      "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
-      "reported_at": "2025-11-25T02:51:55Z"
+      "timestamp": "2025-11-25T03:59:02Z",
+      "reported_at": "2025-11-25T03:41:27Z"
     },
     {
-      "id": "1cdc00c0-5d30-49f1-9d2b-5c8ae0ffc15e",
-      "latitude": -34.843677,
-      "longitude": 138.588426,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
+      "id": "02cc410c-d8df-4510-a982-7a9e20949ad9",
+      "latitude": -34.947582,
+      "longitude": 138.55354,
+      "street": "A14 - Marion Rd",
+      "city": "Netley",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
-      "reported_at": "2025-11-24T20:54:02Z"
+      "timestamp": "2025-11-25T03:59:02Z",
+      "reported_at": "2025-11-25T03:26:59Z"
     },
     {
-      "id": "6915d9c7-fbc7-42b2-adb4-03b773721296",
-      "latitude": -34.795237,
-      "longitude": 138.652834,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "8bba3d52-567b-417f-9c31-92f3651f059e",
+      "latitude": -34.938955,
+      "longitude": 138.642488,
+      "street": "A17 - Portrush Rd",
+      "city": "Toorak Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
-      "reported_at": "2025-11-24T22:49:30Z"
-    },
-    {
-      "id": "244b67c3-ea20-4888-85c7-33bcf009c531",
-      "latitude": -34.726592,
-      "longitude": 138.580507,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2025-11-25T03:15:09Z",
-      "reported_at": "2025-11-24T23:34:12Z"
+      "timestamp": "2025-11-25T03:59:02Z",
+      "reported_at": "2025-11-25T03:35:57Z"
     }
   ]
 }
