@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "976ea927-98f1-4003-9f71-56c2550968ce",
+      "latitude": -34.875634,
+      "longitude": 138.566287,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:38:38Z",
+      "reported_at": "2025-11-26T21:24:48Z"
+    },
+    {
+      "id": "ba5c08b2-8568-4f1d-91f5-a433ccebb822",
+      "latitude": -34.891805,
+      "longitude": 138.510795,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:38:38Z",
+      "reported_at": "2025-11-26T20:56:44Z"
+    },
+    {
       "id": "3242bd1e-cb9e-4f33-9c91-a69e3852b508",
       "latitude": -34.855352,
       "longitude": 138.502276,
       "street": "Old Port Rd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
+      "timestamp": "2025-11-26T21:38:38Z",
       "reported_at": "2025-11-26T21:12:11Z"
     },
     {
@@ -17,8 +37,18 @@
       "street": "Park Tce",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
+      "timestamp": "2025-11-26T21:38:38Z",
       "reported_at": "2025-11-26T21:13:29Z"
+    },
+    {
+      "id": "36b26559-65d1-4ed2-841a-6216334f3dcf",
+      "latitude": -34.817703,
+      "longitude": 138.501138,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:38:38Z",
+      "reported_at": "2025-11-26T21:14:02Z"
     },
     {
       "id": "7182ab3c-18fc-4f93-bfc3-6bd3d42fc53b",
@@ -27,28 +57,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
+      "timestamp": "2025-11-26T21:38:38Z",
       "reported_at": "2025-11-26T20:29:46Z"
     },
     {
-      "id": "5eac05f0-972c-438f-9f59-f7c3cd28cf07",
-      "latitude": -34.961715,
-      "longitude": 138.644209,
-      "street": "A17 - Portrush Rd",
-      "city": "Mount Osmond",
+      "id": "1dcb5e0f-ca16-495b-a577-c5f689d5fa8f",
+      "latitude": -34.840988,
+      "longitude": 138.599681,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
-      "reported_at": "2025-11-26T20:55:29Z"
-    },
-    {
-      "id": "958fd6b9-8722-41f0-81e9-37c34fbdd351",
-      "latitude": -34.860253,
-      "longitude": 138.583175,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
-      "reported_at": "2025-11-26T21:00:06Z"
+      "timestamp": "2025-11-26T21:38:38Z",
+      "reported_at": "2025-11-26T20:58:04Z"
     },
     {
       "id": "74812f88-17f3-4fd6-93ea-8bf0ac1362da",
@@ -57,28 +77,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
+      "timestamp": "2025-11-26T21:38:38Z",
       "reported_at": "2025-11-26T21:02:59Z"
-    },
-    {
-      "id": "5f051fe8-d3cc-43f1-a9d2-7f1542a6f68a",
-      "latitude": -34.841313,
-      "longitude": 138.599502,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
-      "reported_at": "2025-11-26T20:58:01Z"
-    },
-    {
-      "id": "60c4f6c8-3bae-4bb0-b95f-d20065e6a4c2",
-      "latitude": -34.767337,
-      "longitude": 138.606918,
-      "street": "A18 - Kings Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2025-11-26T21:17:59Z",
-      "reported_at": "2025-11-26T20:51:42Z"
     }
   ]
 }
