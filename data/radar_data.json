@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "925c464f-4e25-4e55-9ff1-a4da2a4c89e9",
+      "latitude": -34.933013,
+      "longitude": 138.497658,
+      "street": "The Esplanade",
+      "city": "Henley Beach South",
+      "type": "mobile",
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T09:09:31Z"
+    },
+    {
       "id": "7fd35c43-3fb9-4c2c-a9e6-f11554492d2d",
       "latitude": -35.001078,
       "longitude": 138.721991,
       "street": "Pomona Rd",
       "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
+      "timestamp": "2025-11-26T10:24:06Z",
       "reported_at": "2025-11-26T06:21:24Z"
     },
     {
-      "id": "403e59b1-d5bd-4b9b-aabd-1541357e917a",
-      "latitude": -34.94526,
-      "longitude": 138.501311,
+      "id": "7a113041-127e-4bbd-afc8-bcbaf2128f8f",
+      "latitude": -34.858451,
+      "longitude": 138.54571,
+      "street": "Annette St",
+      "city": "Athol Park",
+      "type": "mobile",
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T09:56:40Z"
+    },
+    {
+      "id": "ebe2fd13-7532-4e6f-bd90-e8c34c9c4c37",
+      "latitude": -34.940636,
+      "longitude": 138.500378,
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
-      "reported_at": "2025-11-26T09:11:53Z"
-    },
-    {
-      "id": "1358eb4c-d6db-48aa-8b50-8d61a4b27bcf",
-      "latitude": -34.992902,
-      "longitude": 138.527824,
-      "street": "Diagonal Rd",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
-      "reported_at": "2025-11-26T09:26:44Z"
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T09:11:05Z"
     },
     {
       "id": "be204306-6dad-4885-8e55-c35983d584be",
@@ -37,18 +47,8 @@
       "street": "Piccadilly Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
+      "timestamp": "2025-11-26T10:24:06Z",
       "reported_at": "2025-11-26T06:17:45Z"
-    },
-    {
-      "id": "36dd6fc8-1a17-4526-bfd4-bc7b5d6865be",
-      "latitude": -34.708187,
-      "longitude": 138.662635,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
-      "reported_at": "2025-11-26T09:11:18Z"
     },
     {
       "id": "bbd91271-1a3f-4ddb-aa60-6a1247161ddf",
@@ -57,18 +57,18 @@
       "street": "B33 - Mount Barker Rd",
       "city": "Aldgate",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
+      "timestamp": "2025-11-26T10:24:06Z",
       "reported_at": "2025-11-26T06:25:49Z"
     },
     {
-      "id": "430eb54a-d2cf-4adb-b026-41510873ed2c",
-      "latitude": -35.008419,
-      "longitude": 138.726595,
+      "id": "06f7318a-cd31-4046-8f62-8ea4b6d79802",
+      "latitude": -35.008455,
+      "longitude": 138.726308,
       "street": "B33 - Mount Barker Rd",
       "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
-      "reported_at": "2025-11-26T05:52:28Z"
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T08:09:03Z"
     },
     {
       "id": "26a8fd89-bfc7-4684-a06a-28b7255c3196",
@@ -77,28 +77,38 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
+      "timestamp": "2025-11-26T10:24:06Z",
       "reported_at": "2025-11-26T06:29:40Z"
     },
     {
-      "id": "af80df21-9ba7-4da1-974d-acd51d8c3da7",
-      "latitude": -34.993061,
-      "longitude": 138.574821,
-      "street": "A2 - South Rd",
-      "city": "Clovelly Park",
+      "id": "2834ae19-a5e5-4167-9ea2-e1ad279f2a47",
+      "latitude": -35.018075,
+      "longitude": 138.616286,
+      "street": "B29 - Main Rd",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
-      "reported_at": "2025-11-26T09:26:35Z"
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T09:48:40Z"
     },
     {
-      "id": "cc01d992-fdb6-471d-b67b-148dc919ec3e",
-      "latitude": -34.761225,
-      "longitude": 138.674052,
+      "id": "e0e8347a-d1e7-472b-a0cf-9e084ee4bd0d",
+      "latitude": -34.733737,
+      "longitude": 138.675568,
       "street": "A20 - Main North Rd",
-      "city": "Salisbury Heights",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2025-11-26T09:45:29Z",
-      "reported_at": "2025-11-26T09:18:26Z"
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T09:52:16Z"
+    },
+    {
+      "id": "7e228c34-40a3-4181-9c76-87bbcb1da14c",
+      "latitude": -34.811192,
+      "longitude": 138.564556,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-26T10:24:06Z",
+      "reported_at": "2025-11-26T09:51:45Z"
     }
   ]
 }
