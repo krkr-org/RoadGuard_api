@@ -7,18 +7,8 @@
       "street": "The Esplanade",
       "city": "Henley Beach South",
       "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
+      "timestamp": "2025-11-26T11:18:12Z",
       "reported_at": "2025-11-26T09:09:31Z"
-    },
-    {
-      "id": "7fd35c43-3fb9-4c2c-a9e6-f11554492d2d",
-      "latitude": -35.001078,
-      "longitude": 138.721991,
-      "street": "Pomona Rd",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
-      "reported_at": "2025-11-26T06:21:24Z"
     },
     {
       "id": "ebe2fd13-7532-4e6f-bd90-e8c34c9c4c37",
@@ -27,7 +17,7 @@
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
+      "timestamp": "2025-11-26T11:18:12Z",
       "reported_at": "2025-11-26T09:11:05Z"
     },
     {
@@ -37,28 +27,38 @@
       "street": "Piccadilly Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
+      "timestamp": "2025-11-26T11:18:12Z",
       "reported_at": "2025-11-26T06:17:45Z"
     },
     {
-      "id": "26a8fd89-bfc7-4684-a06a-28b7255c3196",
-      "latitude": -35.007897,
-      "longitude": 138.791557,
+      "id": "9546026a-091b-43e1-87c9-36bf5af25375",
+      "latitude": -34.92873,
+      "longitude": 138.593892,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-26T11:18:12Z",
+      "reported_at": "2025-11-26T11:11:20Z"
+    },
+    {
+      "id": "06f7318a-cd31-4046-8f62-8ea4b6d79802",
+      "latitude": -35.008455,
+      "longitude": 138.726308,
+      "street": "B33 - Mount Barker Rd",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2025-11-26T11:18:12Z",
+      "reported_at": "2025-11-26T08:09:03Z"
+    },
+    {
+      "id": "48e9d8fc-751e-4a9b-bc26-213715478ec8",
+      "latitude": -35.008178,
+      "longitude": 138.789608,
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
-      "reported_at": "2025-11-26T06:29:40Z"
-    },
-    {
-      "id": "71a17a39-efa8-4dfd-a51f-e99796be753c",
-      "latitude": -34.987614,
-      "longitude": 138.574536,
-      "street": "A2 - South Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
-      "reported_at": "2025-11-26T10:33:09Z"
+      "timestamp": "2025-11-26T11:18:12Z",
+      "reported_at": "2025-11-26T10:27:26Z"
     },
     {
       "id": "f21bfefd-cb7d-41c2-bf7c-ea6fdfc4d550",
@@ -67,18 +67,28 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
+      "timestamp": "2025-11-26T11:18:12Z",
       "reported_at": "2025-11-26T10:34:32Z"
     },
     {
-      "id": "f843fb63-e444-4abb-9b58-2b18bc1940c3",
-      "latitude": -34.699537,
-      "longitude": 138.683586,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Downs",
+      "id": "dbb1ffe4-f9c5-4a58-ac30-c598def98975",
+      "latitude": -34.97597,
+      "longitude": 138.519929,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2025-11-26T10:47:16Z",
-      "reported_at": "2025-11-26T10:43:43Z"
+      "timestamp": "2025-11-26T11:18:12Z",
+      "reported_at": "2025-11-26T10:46:27Z"
+    },
+    {
+      "id": "1fb6c547-6f16-4d2e-b452-4ca04cf41316",
+      "latitude": -34.879166,
+      "longitude": 138.626737,
+      "street": "A10 - North East Rd",
+      "city": "Klemzig",
+      "type": "mobile",
+      "timestamp": "2025-11-26T11:18:12Z",
+      "reported_at": "2025-11-26T10:57:09Z"
     }
   ]
 }
