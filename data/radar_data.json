@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "32e4c8cc-ef54-4e35-aeda-01ae2f78b8b4",
-      "latitude": -34.949447,
-      "longitude": 138.567329,
+      "id": "52167ee1-75ce-44b0-aee6-faa2c4658579",
+      "latitude": -34.920364,
+      "longitude": 138.618651,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T01:40:16Z"
+    },
+    {
+      "id": "62a08e71-66b6-4bfe-8792-9e293fdba883",
+      "latitude": -34.949546,
+      "longitude": 138.565328,
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
-      "reported_at": "2025-11-25T21:19:03Z"
-    },
-    {
-      "id": "e9d8f3fa-fd55-46d7-9d34-52b343a18881",
-      "latitude": -34.925763,
-      "longitude": 138.599718,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
-      "reported_at": "2025-11-26T01:10:50Z"
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-25T21:53:29Z"
     },
     {
       "id": "28789b1e-349d-4bdd-a1bb-27d914881697",
@@ -27,38 +27,78 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
+      "timestamp": "2025-11-26T03:15:09Z",
       "reported_at": "2025-11-25T20:58:54Z"
     },
     {
-      "id": "b753343c-926b-4b3c-9f74-2b4c4066b4b4",
-      "latitude": -34.940358,
-      "longitude": 138.562131,
+      "id": "ff5b7824-6926-476b-a505-273d43d4898c",
+      "latitude": -34.941303,
+      "longitude": 138.562201,
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
-      "reported_at": "2025-11-25T22:28:03Z"
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-25T23:19:42Z"
     },
     {
-      "id": "400d03bf-3ad8-4249-887d-f944b370765a",
-      "latitude": -34.992572,
-      "longitude": 138.579084,
+      "id": "771d37a9-8f79-4a87-a2e4-45f59e9c6f49",
+      "latitude": -34.968386,
+      "longitude": 138.542871,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T01:11:46Z"
+    },
+    {
+      "id": "d8ce9efd-29cd-49a1-a4f4-d1208b4cfe65",
+      "latitude": -34.873485,
+      "longitude": 138.55059,
+      "street": "Unknown Street",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T00:46:25Z"
+    },
+    {
+      "id": "008e62cd-8be2-44ca-a7d8-be10d4eaec56",
+      "latitude": -34.9925,
+      "longitude": 138.58076,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
-      "reported_at": "2025-11-25T21:26:46Z"
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-25T23:57:57Z"
     },
     {
-      "id": "71887631-30ca-4f47-88c0-3f35443f1e99",
-      "latitude": -35.059458,
-      "longitude": 138.535252,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "d1c6fa74-3b4e-4317-b351-9c30ffe994a7",
+      "latitude": -34.92256,
+      "longitude": 138.587474,
+      "street": "West Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
-      "reported_at": "2025-11-26T01:22:24Z"
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T02:50:18Z"
+    },
+    {
+      "id": "727af337-5bb9-4977-bc94-9422bdc5788b",
+      "latitude": -34.92187,
+      "longitude": 138.586743,
+      "street": "Unknown Street",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T02:51:08Z"
+    },
+    {
+      "id": "7a94dafe-ce2c-482a-8ada-88c766045d2b",
+      "latitude": -35.048676,
+      "longitude": 138.559807,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T03:00:35Z"
     },
     {
       "id": "b62b211a-0e83-4bac-8204-0da1a3a70be7",
@@ -67,18 +107,18 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
+      "timestamp": "2025-11-26T03:15:09Z",
       "reported_at": "2025-11-26T01:22:31Z"
     },
     {
-      "id": "2061e699-44d8-48d0-a342-e47560b970d5",
-      "latitude": -34.813756,
-      "longitude": 138.562652,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
+      "id": "58dcbd18-e3ce-4e43-af65-ae159f80f89c",
+      "latitude": -34.749176,
+      "longitude": 138.677916,
+      "street": "A20 - Main North Rd",
+      "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2025-11-26T01:39:20Z",
-      "reported_at": "2025-11-26T01:27:56Z"
+      "timestamp": "2025-11-26T03:15:09Z",
+      "reported_at": "2025-11-26T02:58:04Z"
     }
   ]
 }
