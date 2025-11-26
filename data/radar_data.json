@@ -1,44 +1,84 @@
 {
   "radars": [
     {
-      "id": "fcef0dd7-3156-41f7-9932-fe126e35151f",
-      "latitude": -34.796444,
-      "longitude": 138.648969,
+      "id": "7fd35c43-3fb9-4c2c-a9e6-f11554492d2d",
+      "latitude": -35.001078,
+      "longitude": 138.721991,
+      "street": "Pomona Rd",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:21:24Z"
+    },
+    {
+      "id": "0125d341-fe7f-4cc7-b669-942f5f195902",
+      "latitude": -34.954709,
+      "longitude": 138.608545,
+      "street": "Wattle St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T05:26:33Z"
+    },
+    {
+      "id": "2ca79f29-2774-4ed8-a3b4-2fe56228a127",
+      "latitude": -34.796502,
+      "longitude": 138.649065,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T02:35:56Z"
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T02:26:12Z"
     },
     {
-      "id": "9f151d31-889f-467e-a87c-44105c678d43",
-      "latitude": -34.952766,
-      "longitude": 138.507582,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T05:35:04Z"
-    },
-    {
-      "id": "a0be304b-fff3-4b94-82a5-a3ab28ad63bb",
-      "latitude": -34.699797,
-      "longitude": 138.654384,
-      "street": "Stebonheath Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T06:05:23Z"
-    },
-    {
-      "id": "d3c36cdc-c307-4516-ab1e-da5f47445402",
-      "latitude": -34.71662,
-      "longitude": 138.645341,
-      "street": "McNamara Dr",
+      "id": "bb96692f-e06d-4fd6-9885-5c5483478e11",
+      "latitude": -34.73754,
+      "longitude": 138.647241,
+      "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T06:00:56Z"
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:46:41Z"
+    },
+    {
+      "id": "52167ee1-75ce-44b0-aee6-faa2c4658579",
+      "latitude": -34.920364,
+      "longitude": 138.618651,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T01:40:16Z"
+    },
+    {
+      "id": "be204306-6dad-4885-8e55-c35983d584be",
+      "latitude": -34.990539,
+      "longitude": 138.723095,
+      "street": "Piccadilly Rd",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:17:45Z"
+    },
+    {
+      "id": "853cb6d4-879b-4b63-a1af-7d6e4f641eed",
+      "latitude": -35.115433,
+      "longitude": 138.528844,
+      "street": "Bains Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:45:27Z"
+    },
+    {
+      "id": "e5372cc0-6648-4c24-8718-e93e8d2d8d30",
+      "latitude": -34.967806,
+      "longitude": 138.590882,
+      "street": "Goodwood Rd",
+      "city": "Cumberland Park",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T07:13:32Z"
     },
     {
       "id": "d09c20e8-1cd3-4b31-9c00-39e47b0c90d3",
@@ -47,58 +87,78 @@
       "street": "O'Connell St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
+      "timestamp": "2025-11-26T07:20:02Z",
       "reported_at": "2025-11-26T04:27:48Z"
     },
     {
-      "id": "1b932674-67bd-4c6a-b174-6f2cb36e39aa",
-      "latitude": -34.926737,
-      "longitude": 138.605893,
-      "street": "Pulteney St",
+      "id": "6cf36701-57c5-42ce-ba36-e77e450c4d15",
+      "latitude": -34.918033,
+      "longitude": 138.622909,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:55:19Z"
+    },
+    {
+      "id": "59112e0c-714b-4f24-b85f-1c2964d0edcf",
+      "latitude": -34.924092,
+      "longitude": 138.606017,
+      "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T06:21:58Z"
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:24:31Z"
     },
     {
-      "id": "880c75d2-a62b-4056-a148-7d4eaa70fe1b",
-      "latitude": -34.891468,
-      "longitude": 138.521843,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
+      "id": "da44c196-b3c9-432e-818b-fa0a4af41e64",
+      "latitude": -34.808837,
+      "longitude": 138.630976,
+      "street": "Elder Smith Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T06:04:34Z"
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:53:25Z"
     },
     {
-      "id": "430eb54a-d2cf-4adb-b026-41510873ed2c",
-      "latitude": -35.008419,
-      "longitude": 138.726595,
+      "id": "038ac0c8-a4b9-4a0c-afc3-3bca11aed36d",
+      "latitude": -34.718765,
+      "longitude": 138.767871,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T07:10:33Z"
+    },
+    {
+      "id": "1ad3f3e4-a60f-4f9d-87be-482ee3ed2f8e",
+      "latitude": -34.837772,
+      "longitude": 138.50286,
+      "street": "A16 - Victoria Rd",
+      "city": "Birkenhead",
+      "type": "mobile",
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T07:15:06Z"
+    },
+    {
+      "id": "2bfba939-6977-4860-ba31-b837826b95a4",
+      "latitude": -35.008602,
+      "longitude": 138.724866,
       "street": "B33 - Mount Barker Rd",
       "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T05:52:28Z"
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T05:37:27Z"
     },
     {
-      "id": "6a6469ce-8c52-4ff2-9aad-9d0d153ca738",
-      "latitude": -35.008028,
-      "longitude": 138.558166,
-      "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T04:49:25Z"
-    },
-    {
-      "id": "981dd2d8-7884-4362-aa28-ac245cec3cd7",
-      "latitude": -35.007957,
-      "longitude": 138.791129,
+      "id": "26a8fd89-bfc7-4684-a06a-28b7255c3196",
+      "latitude": -35.007897,
+      "longitude": 138.791557,
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2025-11-26T06:32:09Z",
-      "reported_at": "2025-11-26T05:03:13Z"
+      "timestamp": "2025-11-26T07:20:02Z",
+      "reported_at": "2025-11-26T06:29:40Z"
     }
   ]
 }
