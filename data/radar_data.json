@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "771d37a9-8f79-4a87-a2e4-45f59e9c6f49",
-      "latitude": -34.968386,
-      "longitude": 138.542871,
+      "id": "6fd80a28-fc65-4fd3-be0f-7b291087e49a",
+      "latitude": -34.944619,
+      "longitude": 138.518254,
+      "street": "Sir Reginald Ansett Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2025-11-26T04:34:04Z",
+      "reported_at": "2025-11-26T04:06:41Z"
+    },
+    {
+      "id": "aad7b29d-dccd-4499-8e40-5e223c4c2b98",
+      "latitude": -34.968342,
+      "longitude": 138.543738,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T01:11:46Z"
-    },
-    {
-      "id": "ff5b7824-6926-476b-a505-273d43d4898c",
-      "latitude": -34.941303,
-      "longitude": 138.562201,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-25T23:19:42Z"
+      "timestamp": "2025-11-26T04:34:04Z",
+      "reported_at": "2025-11-26T03:10:48Z"
     },
     {
       "id": "52167ee1-75ce-44b0-aee6-faa2c4658579",
@@ -27,7 +27,7 @@
       "street": "Rundle St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
+      "timestamp": "2025-11-26T04:34:04Z",
       "reported_at": "2025-11-26T01:40:16Z"
     },
     {
@@ -37,38 +37,18 @@
       "street": "Unknown Street",
       "city": "Kilkenny",
       "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
+      "timestamp": "2025-11-26T04:34:04Z",
       "reported_at": "2025-11-26T00:46:25Z"
     },
     {
-      "id": "008e62cd-8be2-44ca-a7d8-be10d4eaec56",
-      "latitude": -34.9925,
-      "longitude": 138.58076,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "949d0aa1-c585-4e2d-b129-acc1550e4ce9",
+      "latitude": -35.065896,
+      "longitude": 138.531822,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-25T23:57:57Z"
-    },
-    {
-      "id": "6e5a09de-451d-43b9-8a9d-962e77117334",
-      "latitude": -34.997764,
-      "longitude": 138.593096,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T03:41:06Z"
-    },
-    {
-      "id": "cb8b6bf7-f3f4-4842-843b-d3ed9e1cfda2",
-      "latitude": -35.021438,
-      "longitude": 138.559189,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T03:49:39Z"
+      "timestamp": "2025-11-26T04:34:04Z",
+      "reported_at": "2025-11-26T04:13:20Z"
     },
     {
       "id": "b62b211a-0e83-4bac-8204-0da1a3a70be7",
@@ -77,48 +57,28 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
+      "timestamp": "2025-11-26T04:34:04Z",
       "reported_at": "2025-11-26T01:22:31Z"
     },
     {
-      "id": "25109a1f-ef17-4304-af02-6e232e5642e9",
-      "latitude": -34.883267,
-      "longitude": 138.621189,
+      "id": "b31047e9-71dd-4146-8f6f-555d31551a0d",
+      "latitude": -34.949377,
+      "longitude": 138.517988,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-26T04:34:04Z",
+      "reported_at": "2025-11-26T04:07:51Z"
+    },
+    {
+      "id": "0eb6c6d9-99af-44e4-ad72-88be30a3c95f",
+      "latitude": -34.839456,
+      "longitude": 138.6763,
       "street": "A10 - North East Rd",
-      "city": "Manningham",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T03:39:28Z"
-    },
-    {
-      "id": "32272f81-297a-46cb-8096-418ec585a69d",
-      "latitude": -34.87027,
-      "longitude": 138.601785,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T03:54:46Z"
-    },
-    {
-      "id": "9d763fa4-2227-46c5-8a2b-6752ef0656df",
-      "latitude": -34.842304,
-      "longitude": 138.673125,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
-      "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T03:31:33Z"
-    },
-    {
-      "id": "4d2de235-b86e-4d97-a05f-658cef384ceb",
-      "latitude": -35.030162,
-      "longitude": 138.555178,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2025-11-26T03:58:45Z",
-      "reported_at": "2025-11-26T03:44:05Z"
+      "timestamp": "2025-11-26T04:34:04Z",
+      "reported_at": "2025-11-26T04:30:25Z"
     }
   ]
 }
