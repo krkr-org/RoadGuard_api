@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "976ea927-98f1-4003-9f71-56c2550968ce",
-      "latitude": -34.875634,
-      "longitude": 138.566287,
+      "id": "dd4f66b2-0a0a-41ba-9e13-24e2ec49bb51",
+      "latitude": -34.941704,
+      "longitude": 138.503151,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T20:54:37Z"
+    },
+    {
+      "id": "f733d155-1a41-449c-af59-b4d2c928611b",
+      "latitude": -34.877785,
+      "longitude": 138.566444,
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T21:24:48Z"
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T21:48:41Z"
     },
     {
       "id": "ba5c08b2-8568-4f1d-91f5-a433ccebb822",
@@ -17,68 +27,58 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
+      "timestamp": "2025-11-26T22:19:39Z",
       "reported_at": "2025-11-26T20:56:44Z"
     },
     {
-      "id": "3242bd1e-cb9e-4f33-9c91-a69e3852b508",
-      "latitude": -34.855352,
-      "longitude": 138.502276,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
+      "id": "c5284eb5-dcda-4e67-9d8e-a8e2d60a1a5d",
+      "latitude": -35.028396,
+      "longitude": 138.557015,
+      "street": "Seacombe Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T21:12:11Z"
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T22:05:30Z"
     },
     {
-      "id": "4c48eb49-98f7-402f-ae73-4477df615472",
-      "latitude": -34.772861,
-      "longitude": 138.658726,
-      "street": "Park Tce",
-      "city": "Salisbury Plain",
+      "id": "50533023-0cb7-4bd5-9f50-e390bfc70fc7",
+      "latitude": -34.840224,
+      "longitude": 138.571235,
+      "street": "Cormack Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T21:13:29Z"
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T21:57:38Z"
     },
     {
-      "id": "36b26559-65d1-4ed2-841a-6216334f3dcf",
-      "latitude": -34.817703,
-      "longitude": 138.501138,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
+      "id": "3dbbcfaf-79e5-4c84-b5fa-88e41ead7030",
+      "latitude": -34.800748,
+      "longitude": 138.63934,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T21:14:02Z"
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T21:58:15Z"
     },
     {
-      "id": "7182ab3c-18fc-4f93-bfc3-6bd3d42fc53b",
-      "latitude": -34.903472,
-      "longitude": 138.568877,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T20:29:46Z"
-    },
-    {
-      "id": "1dcb5e0f-ca16-495b-a577-c5f689d5fa8f",
-      "latitude": -34.840988,
-      "longitude": 138.599681,
+      "id": "5f051fe8-d3cc-43f1-a9d2-7f1542a6f68a",
+      "latitude": -34.840827,
+      "longitude": 138.599465,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T20:58:04Z"
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T20:58:01Z"
     },
     {
-      "id": "74812f88-17f3-4fd6-93ea-8bf0ac1362da",
-      "latitude": -34.845771,
-      "longitude": 138.656342,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Valley View",
+      "id": "c4f2c329-4521-4180-8d73-7b58e9cba835",
+      "latitude": -34.860062,
+      "longitude": 138.600972,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2025-11-26T21:38:38Z",
-      "reported_at": "2025-11-26T21:02:59Z"
+      "timestamp": "2025-11-26T22:19:39Z",
+      "reported_at": "2025-11-26T21:50:42Z"
     }
   ]
 }
