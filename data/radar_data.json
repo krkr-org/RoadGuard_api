@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "8f2d7bfa-bbb0-4766-9070-84077c058acb",
-      "latitude": -34.992396,
-      "longitude": 138.58292,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "3242bd1e-cb9e-4f33-9c91-a69e3852b508",
+      "latitude": -34.855352,
+      "longitude": 138.502276,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-26T20:39:49Z",
-      "reported_at": "2025-11-26T16:47:15Z"
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T21:12:11Z"
+    },
+    {
+      "id": "4c48eb49-98f7-402f-ae73-4477df615472",
+      "latitude": -34.772861,
+      "longitude": 138.658726,
+      "street": "Park Tce",
+      "city": "Salisbury Plain",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T21:13:29Z"
     },
     {
       "id": "7182ab3c-18fc-4f93-bfc3-6bd3d42fc53b",
@@ -17,28 +27,58 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-26T20:39:49Z",
+      "timestamp": "2025-11-26T21:17:59Z",
       "reported_at": "2025-11-26T20:29:46Z"
     },
     {
-      "id": "0bd2e313-5165-4fd4-95fc-132dac742598",
-      "latitude": -34.845721,
-      "longitude": 138.65528,
+      "id": "5eac05f0-972c-438f-9f59-f7c3cd28cf07",
+      "latitude": -34.961715,
+      "longitude": 138.644209,
+      "street": "A17 - Portrush Rd",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T20:55:29Z"
+    },
+    {
+      "id": "958fd6b9-8722-41f0-81e9-37c34fbdd351",
+      "latitude": -34.860253,
+      "longitude": 138.583175,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T21:00:06Z"
+    },
+    {
+      "id": "74812f88-17f3-4fd6-93ea-8bf0ac1362da",
+      "latitude": -34.845771,
+      "longitude": 138.656342,
       "street": "A16 - Grand Junction Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2025-11-26T20:39:49Z",
-      "reported_at": "2025-11-26T20:30:52Z"
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T21:02:59Z"
     },
     {
-      "id": "f3484136-1ab4-4199-9682-ffe70e6cb4d1",
-      "latitude": -35.079086,
-      "longitude": 138.544283,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "5f051fe8-d3cc-43f1-a9d2-7f1542a6f68a",
+      "latitude": -34.841313,
+      "longitude": 138.599502,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-26T20:39:49Z",
-      "reported_at": "2025-11-26T20:38:27Z"
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T20:58:01Z"
+    },
+    {
+      "id": "60c4f6c8-3bae-4bb0-b95f-d20065e6a4c2",
+      "latitude": -34.767337,
+      "longitude": 138.606918,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2025-11-26T21:17:59Z",
+      "reported_at": "2025-11-26T20:51:42Z"
     }
   ]
 }
