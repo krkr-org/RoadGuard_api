@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "a8249ec4-d7d3-4454-857e-e51ca0bd3a76",
+      "latitude": -35.053987,
+      "longitude": 138.553475,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-27T20:39:50Z",
+      "reported_at": "2025-11-27T20:05:35Z"
+    },
+    {
+      "id": "f352ee37-586e-434c-b3a2-19adb8a17757",
+      "latitude": -34.780725,
+      "longitude": 138.595405,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-11-27T20:39:50Z",
+      "reported_at": "2025-11-27T20:35:36Z"
+    }
+  ]
 }
