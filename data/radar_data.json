@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "cf6f5ba6-6fd9-448c-ab08-e38ade9a69ef",
+      "latitude": -34.86731,
+      "longitude": 138.693487,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T21:17:58Z"
+    },
+    {
       "id": "1d85bd33-c91b-45fd-8a0e-c5cadb56dfcb",
       "latitude": -34.885962,
       "longitude": 138.630975,
       "street": "Harris Rd",
       "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
+      "timestamp": "2025-11-27T23:18:33Z",
       "reported_at": "2025-11-27T21:35:06Z"
     },
     {
-      "id": "1856ba6e-2e38-4023-8604-ee41caccd73b",
-      "latitude": -34.783392,
-      "longitude": 138.654601,
-      "street": "Clayson Rd",
-      "city": "Salisbury East",
+      "id": "6072304f-3875-4024-abaa-249e587c628a",
+      "latitude": -34.692274,
+      "longitude": 138.659117,
+      "street": "Stebonheath Rd",
+      "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:02:16Z"
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:33:37Z"
+    },
+    {
+      "id": "50515b88-2eb2-4d54-8811-d0891ab007bf",
+      "latitude": -34.824797,
+      "longitude": 138.614119,
+      "street": "Mawson Lakes Bvd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:18:40Z"
     },
     {
       "id": "66f039c9-87cb-47de-9252-6260b43f826a",
@@ -27,7 +47,7 @@
       "street": "Morialta Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
+      "timestamp": "2025-11-27T23:18:33Z",
       "reported_at": "2025-11-27T21:47:20Z"
     },
     {
@@ -37,48 +57,18 @@
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
+      "timestamp": "2025-11-27T23:18:33Z",
       "reported_at": "2025-11-27T19:36:32Z"
     },
     {
-      "id": "3ac67d04-62a5-44e3-8dbd-a450c05a35a1",
-      "latitude": -34.92023,
-      "longitude": 138.618912,
-      "street": "Rundle St",
-      "city": "Kent Town",
+      "id": "1856ba6e-2e38-4023-8604-ee41caccd73b",
+      "latitude": -34.783392,
+      "longitude": 138.654601,
+      "street": "Clayson Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:06:59Z"
-    },
-    {
-      "id": "50515b88-2eb2-4d54-8811-d0891ab007bf",
-      "latitude": -34.824797,
-      "longitude": 138.614119,
-      "street": "Mawson Lakes Bvd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:18:40Z"
-    },
-    {
-      "id": "a859c414-cc86-433f-8d79-88c541a5433f",
-      "latitude": -34.910413,
-      "longitude": 138.684492,
-      "street": "Norton Summit Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:33:47Z"
-    },
-    {
-      "id": "cf6f5ba6-6fd9-448c-ab08-e38ade9a69ef",
-      "latitude": -34.86731,
-      "longitude": 138.693487,
-      "street": "George St",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T21:17:58Z"
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:02:16Z"
     },
     {
       "id": "da33a0cd-06a6-4820-9cd6-dcc2e954c77c",
@@ -87,48 +77,48 @@
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
+      "timestamp": "2025-11-27T23:18:33Z",
       "reported_at": "2025-11-27T21:52:55Z"
     },
     {
-      "id": "b61320b7-a118-40c5-99bb-b8bba516fbac",
-      "latitude": -34.825207,
-      "longitude": 138.612842,
+      "id": "33bbe580-c19d-451a-8a9b-84920e2d623b",
+      "latitude": -34.905563,
+      "longitude": 138.610014,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:45:23Z"
+    },
+    {
+      "id": "8c41e9dd-8ccb-4f2b-b783-5e1492886c99",
+      "latitude": -34.825238,
+      "longitude": 138.612619,
       "street": "Montague Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T21:32:24Z"
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:44:37Z"
     },
     {
-      "id": "49be8bd4-5e3f-455b-94e8-b2c42f661d0f",
-      "latitude": -34.852245,
-      "longitude": 138.591637,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
+      "id": "650dcf3f-4dd0-4515-80ac-195002207d76",
+      "latitude": -34.863812,
+      "longitude": 138.529384,
+      "street": "Cheltenham Pde",
+      "city": "Cheltenham",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:29:49Z"
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:16:17Z"
     },
     {
-      "id": "319404d9-d72a-4bd1-89c4-781bcc5bc9e7",
-      "latitude": -34.787378,
-      "longitude": 138.666472,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
+      "id": "086ff52f-1d8a-4173-8703-6f0ca86c8736",
+      "latitude": -34.846774,
+      "longitude": 138.60109,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:19:49Z"
-    },
-    {
-      "id": "336a031d-2c8d-46aa-ad17-0547a73e7fa3",
-      "latitude": -34.948715,
-      "longitude": 138.577439,
-      "street": "A5 - Anzac Hwy",
-      "city": "Forestville",
-      "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
-      "reported_at": "2025-11-27T22:38:19Z"
+      "timestamp": "2025-11-27T23:18:33Z",
+      "reported_at": "2025-11-27T22:45:31Z"
     },
     {
       "id": "0cd924dc-48cb-4a5a-a84a-db7eddbda218",
@@ -137,7 +127,7 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2025-11-27T22:41:09Z",
+      "timestamp": "2025-11-27T23:18:33Z",
       "reported_at": "2025-11-27T21:27:01Z"
     }
   ]
