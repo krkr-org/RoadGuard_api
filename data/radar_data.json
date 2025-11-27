@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "d90cad69-a37d-415e-ac08-cad7bd333e37",
-      "latitude": -34.778368,
-      "longitude": 138.646346,
-      "street": "Frost Rd",
-      "city": "Brahma Lodge",
-      "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
-      "reported_at": "2025-11-27T07:54:40Z"
-    },
-    {
       "id": "2870d3a7-0973-4877-bdee-1f887f21a381",
       "latitude": -35.124037,
       "longitude": 138.478441,
       "street": "Galloway Rd",
       "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
+      "timestamp": "2025-11-27T10:46:28Z",
       "reported_at": "2025-11-27T07:11:49Z"
     },
     {
-      "id": "ca60ec3a-cb1b-44ba-972b-108a4b074fc8",
-      "latitude": -34.828492,
-      "longitude": 138.647192,
-      "street": "Unknown Street",
-      "city": "Ingle Farm",
+      "id": "d90cad69-a37d-415e-ac08-cad7bd333e37",
+      "latitude": -34.778368,
+      "longitude": 138.646346,
+      "street": "Frost Rd",
+      "city": "Brahma Lodge",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
-      "reported_at": "2025-11-27T06:29:37Z"
-    },
-    {
-      "id": "202b78b0-8580-4620-b58f-420abf488715",
-      "latitude": -34.688297,
-      "longitude": 138.68888,
-      "street": "Unknown Street",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
-      "reported_at": "2025-11-27T10:15:19Z"
+      "timestamp": "2025-11-27T10:46:28Z",
+      "reported_at": "2025-11-27T07:54:40Z"
     },
     {
       "id": "0e89c494-383a-4efa-b6c0-e73af83f4c7e",
@@ -47,28 +27,38 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
+      "timestamp": "2025-11-27T10:46:28Z",
       "reported_at": "2025-11-27T09:40:12Z"
     },
     {
-      "id": "49b3dc79-d2d8-47f4-9560-e11e26fce50a",
-      "latitude": -34.941974,
-      "longitude": 138.584766,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
+      "id": "5f5c026a-9adb-4ad9-b572-83c0b731f34a",
+      "latitude": -35.022433,
+      "longitude": 138.55944,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
-      "reported_at": "2025-11-27T09:53:51Z"
+      "timestamp": "2025-11-27T10:46:28Z",
+      "reported_at": "2025-11-27T10:27:51Z"
     },
     {
-      "id": "1c1045b8-7855-4d24-afd4-e0dcbf759623",
-      "latitude": -34.942331,
-      "longitude": 138.582654,
+      "id": "ab9cbdce-6c6b-4103-b8c2-7685a20e72d4",
+      "latitude": -34.942892,
+      "longitude": 138.582444,
       "street": "A5 - Anzac Hwy",
       "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
-      "reported_at": "2025-11-27T09:02:27Z"
+      "timestamp": "2025-11-27T10:46:28Z",
+      "reported_at": "2025-11-27T10:20:11Z"
+    },
+    {
+      "id": "ed932025-71c4-42ea-bb11-4fce8d2ec502",
+      "latitude": -34.94199,
+      "longitude": 138.583213,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-27T10:46:28Z",
+      "reported_at": "2025-11-27T10:25:32Z"
     },
     {
       "id": "8b7a2645-9a1e-4af2-b896-7b0ea4daa0d5",
@@ -77,18 +67,28 @@
       "street": "A7 - Port Rd",
       "city": "Albert Park",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
+      "timestamp": "2025-11-27T10:46:28Z",
       "reported_at": "2025-11-27T10:04:37Z"
     },
     {
-      "id": "61b54200-4358-46df-bc94-ed5146c10451",
-      "latitude": -34.967443,
-      "longitude": 138.665728,
+      "id": "5cfc4356-2204-42d8-b46a-aa346778c534",
+      "latitude": -34.750822,
+      "longitude": 138.679029,
+      "street": "A20 - Main North Rd",
+      "city": "Hillbank",
+      "type": "mobile",
+      "timestamp": "2025-11-27T10:46:28Z",
+      "reported_at": "2025-11-27T10:18:24Z"
+    },
+    {
+      "id": "53494f2f-3c6f-4913-ac7b-c51e0292ab10",
+      "latitude": -34.967137,
+      "longitude": 138.668992,
       "street": "M1 - South Eastern Fwy",
       "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-27T10:23:50Z",
-      "reported_at": "2025-11-27T09:39:45Z"
+      "timestamp": "2025-11-27T10:46:28Z",
+      "reported_at": "2025-11-27T10:19:33Z"
     }
   ]
 }
