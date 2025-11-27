@@ -1,44 +1,94 @@
 {
   "radars": [
     {
+      "id": "3a2dab2c-ef2b-46de-9870-956f0937cc51",
+      "latitude": -34.923115,
+      "longitude": 138.634551,
+      "street": "Edward St",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-27T00:10:30Z"
+    },
+    {
+      "id": "11c89e66-9bf0-4bea-a9ab-a9c2f4690aed",
+      "latitude": -34.848647,
+      "longitude": 138.529418,
+      "street": "May Tce",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-26T21:24:32Z"
+    },
+    {
       "id": "dd4f66b2-0a0a-41ba-9e13-24e2ec49bb51",
       "latitude": -34.941704,
       "longitude": 138.503151,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-26T23:38:48Z",
+      "timestamp": "2025-11-27T01:37:51Z",
       "reported_at": "2025-11-26T20:54:37Z"
     },
     {
-      "id": "7ac94cab-fe73-46a5-b35a-7e927991a163",
-      "latitude": -34.891914,
-      "longitude": 138.509871,
+      "id": "a76a9193-f0a2-4674-9af4-ac1cb0080fec",
+      "latitude": -34.878909,
+      "longitude": 138.566523,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-26T23:15:10Z"
+    },
+    {
+      "id": "24528140-7964-4fe9-9237-40fe380e8350",
+      "latitude": -34.891906,
+      "longitude": 138.508295,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-26T23:38:48Z",
-      "reported_at": "2025-11-26T22:39:36Z"
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-26T23:23:13Z"
     },
     {
-      "id": "7182ab3c-18fc-4f93-bfc3-6bd3d42fc53b",
-      "latitude": -34.903472,
-      "longitude": 138.568877,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "id": "70ec5624-7673-45c7-aaba-00e18edfa7af",
+      "latitude": -35.016429,
+      "longitude": 138.574301,
+      "street": "Sturt Rd",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2025-11-26T23:38:48Z",
-      "reported_at": "2025-11-26T20:29:46Z"
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-27T01:00:57Z"
     },
     {
-      "id": "5f051fe8-d3cc-43f1-a9d2-7f1542a6f68a",
-      "latitude": -34.840827,
-      "longitude": 138.599465,
+      "id": "ba8bd54d-bf77-4765-9db9-770cfd778f87",
+      "latitude": -34.92291,
+      "longitude": 138.605575,
+      "street": "Pulteney St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-27T00:56:28Z"
+    },
+    {
+      "id": "483154c3-d892-4b26-9003-6e9050972c13",
+      "latitude": -34.747039,
+      "longitude": 138.657364,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-27T01:28:16Z"
+    },
+    {
+      "id": "feeb3840-5af9-4e8c-a73b-1c230ead2c3f",
+      "latitude": -34.84155,
+      "longitude": 138.599727,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-26T23:38:48Z",
-      "reported_at": "2025-11-26T20:58:01Z"
+      "timestamp": "2025-11-27T01:37:51Z",
+      "reported_at": "2025-11-26T21:43:12Z"
     }
   ]
 }
