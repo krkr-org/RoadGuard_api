@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "17b8cf36-57e6-4e21-a729-54ea99c5236d",
+      "latitude": -34.920369,
+      "longitude": 138.619008,
+      "street": "The Parade West",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T06:52:38Z"
+    },
+    {
+      "id": "5e6d315d-0659-4d3e-8524-c91aa8755985",
+      "latitude": -34.905221,
+      "longitude": 138.58311,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T07:26:57Z"
+    },
+    {
       "id": "ca60ec3a-cb1b-44ba-972b-108a4b074fc8",
       "latitude": -34.828492,
       "longitude": 138.647192,
       "street": "Unknown Street",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
+      "timestamp": "2025-11-27T07:40:51Z",
       "reported_at": "2025-11-27T06:29:37Z"
     },
     {
-      "id": "95ff9335-1345-4396-ab12-37773a7a70f7",
-      "latitude": -34.921492,
-      "longitude": 138.587808,
-      "street": "Unknown Street",
-      "city": "Adelaide",
+      "id": "8b10209c-6ac6-4935-92d1-518e3933005d",
+      "latitude": -34.876503,
+      "longitude": 138.484569,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
-      "reported_at": "2025-11-27T05:02:39Z"
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T07:19:22Z"
     },
     {
       "id": "e1a55d76-7f85-442c-997b-c2ee18e06fda",
@@ -27,38 +47,38 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
+      "timestamp": "2025-11-27T07:40:51Z",
       "reported_at": "2025-11-27T06:57:04Z"
     },
     {
-      "id": "28b8ae91-970e-42b8-9915-92645b44bd0f",
-      "latitude": -35.104523,
-      "longitude": 138.534786,
-      "street": "States Rd",
-      "city": "Old Reynella",
+      "id": "fc6dd437-aacb-4e7f-92ac-ac8929358a8f",
+      "latitude": -34.923496,
+      "longitude": 138.575627,
+      "street": "Unknown Street",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
-      "reported_at": "2025-11-27T06:20:57Z"
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T07:32:39Z"
     },
     {
-      "id": "1c8e7a1c-de9d-4639-bf78-8adfcc98b735",
-      "latitude": -34.918616,
-      "longitude": 138.622954,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
+      "id": "a3056592-adb7-49fd-88c5-d71cd1f9a6f7",
+      "latitude": -34.93644,
+      "longitude": 138.606557,
+      "street": "Unley Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
-      "reported_at": "2025-11-27T06:57:17Z"
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T07:25:00Z"
     },
     {
-      "id": "8158db0f-db35-4234-bece-99d4fc53c67d",
-      "latitude": -34.876859,
-      "longitude": 138.512563,
+      "id": "31c7e86e-ea24-41b2-b71e-ad72493309e8",
+      "latitude": -34.905897,
+      "longitude": 138.51471,
       "street": "A15 - Tapleys Hill Rd",
-      "city": "Royal Park",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
-      "reported_at": "2025-11-27T06:27:30Z"
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T06:50:57Z"
     },
     {
       "id": "53667a56-5a9d-4c10-9804-240a62098e8f",
@@ -67,8 +87,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-27T07:21:11Z",
+      "timestamp": "2025-11-27T07:40:51Z",
       "reported_at": "2025-11-27T06:37:37Z"
+    },
+    {
+      "id": "bf6da383-3212-49d8-b208-ae4273da08c2",
+      "latitude": -34.78909,
+      "longitude": 138.642626,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:40:51Z",
+      "reported_at": "2025-11-27T07:28:04Z"
     }
   ]
 }
