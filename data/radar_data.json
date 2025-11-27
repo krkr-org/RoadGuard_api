@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "a8249ec4-d7d3-4454-857e-e51ca0bd3a76",
-      "latitude": -35.053987,
-      "longitude": 138.553475,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "32dc096d-cfd9-4d40-b7a1-39c31d6e4a17",
+      "latitude": -34.825389,
+      "longitude": 138.610786,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-27T20:39:50Z",
-      "reported_at": "2025-11-27T20:05:35Z"
+      "timestamp": "2025-11-27T21:18:02Z",
+      "reported_at": "2025-11-27T20:56:03Z"
+    },
+    {
+      "id": "c71416f5-c032-4875-a71c-0dfb5822347c",
+      "latitude": -35.106066,
+      "longitude": 138.511079,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-11-27T21:18:02Z",
+      "reported_at": "2025-11-27T20:45:38Z"
     },
     {
       "id": "f352ee37-586e-434c-b3a2-19adb8a17757",
@@ -17,7 +27,7 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-27T20:39:50Z",
+      "timestamp": "2025-11-27T21:18:02Z",
       "reported_at": "2025-11-27T20:35:36Z"
     }
   ]
