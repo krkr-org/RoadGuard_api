@@ -1,24 +1,74 @@
 {
   "radars": [
     {
-      "id": "72d16680-8188-4dc2-94bc-c87a43cdd6dd",
-      "latitude": -35.088277,
-      "longitude": 138.613172,
-      "street": "Grants Gully Rd",
-      "city": "Chandlers Hill",
+      "id": "ca60ec3a-cb1b-44ba-972b-108a4b074fc8",
+      "latitude": -34.828492,
+      "longitude": 138.647192,
+      "street": "Unknown Street",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-11-27T06:33:04Z",
-      "reported_at": "2025-11-27T06:17:38Z"
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T06:29:37Z"
     },
     {
-      "id": "86d52d8a-2451-426c-9c46-6311ffaec9f6",
-      "latitude": -34.926526,
-      "longitude": 138.593722,
-      "street": "Morphett St",
+      "id": "95ff9335-1345-4396-ab12-37773a7a70f7",
+      "latitude": -34.921492,
+      "longitude": 138.587808,
+      "street": "Unknown Street",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-27T06:33:04Z",
-      "reported_at": "2025-11-27T06:06:25Z"
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T05:02:39Z"
+    },
+    {
+      "id": "e1a55d76-7f85-442c-997b-c2ee18e06fda",
+      "latitude": -34.891776,
+      "longitude": 138.511747,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T06:57:04Z"
+    },
+    {
+      "id": "28b8ae91-970e-42b8-9915-92645b44bd0f",
+      "latitude": -35.104523,
+      "longitude": 138.534786,
+      "street": "States Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T06:20:57Z"
+    },
+    {
+      "id": "1c8e7a1c-de9d-4639-bf78-8adfcc98b735",
+      "latitude": -34.918616,
+      "longitude": 138.622954,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T06:57:17Z"
+    },
+    {
+      "id": "8158db0f-db35-4234-bece-99d4fc53c67d",
+      "latitude": -34.876859,
+      "longitude": 138.512563,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T06:27:30Z"
+    },
+    {
+      "id": "53667a56-5a9d-4c10-9804-240a62098e8f",
+      "latitude": -34.904837,
+      "longitude": 138.570929,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-11-27T07:21:11Z",
+      "reported_at": "2025-11-27T06:37:37Z"
     }
   ]
 }
