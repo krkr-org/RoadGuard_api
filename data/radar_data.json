@@ -1,54 +1,34 @@
 {
   "radars": [
     {
+      "id": "541e73b4-6c8b-4639-8302-50ee82eeb60b",
+      "latitude": -34.918273,
+      "longitude": 138.622813,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-27T05:43:44Z",
+      "reported_at": "2025-11-27T05:20:04Z"
+    },
+    {
       "id": "e8032935-aca0-4a0b-8b45-6343be7e4c04",
       "latitude": -34.878361,
       "longitude": 138.566484,
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2025-11-27T05:21:13Z",
+      "timestamp": "2025-11-27T05:43:44Z",
       "reported_at": "2025-11-27T02:01:51Z"
     },
     {
-      "id": "3ca4cc81-c232-43ac-a675-81386ac91e7d",
-      "latitude": -34.733553,
-      "longitude": 138.638071,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "5634a0aa-6eec-4faa-8097-06c48bc27c2d",
+      "latitude": -34.889237,
+      "longitude": 138.660662,
+      "street": "Montacute Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2025-11-27T05:21:13Z",
-      "reported_at": "2025-11-27T04:58:55Z"
-    },
-    {
-      "id": "78a0bd36-d59e-4aed-9617-ff398a6385b4",
-      "latitude": -34.919964,
-      "longitude": 138.619426,
-      "street": "Rundle St",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-11-27T05:21:13Z",
-      "reported_at": "2025-11-27T05:02:47Z"
-    },
-    {
-      "id": "c8624471-4268-4966-95bd-cd38a0a2e378",
-      "latitude": -34.918429,
-      "longitude": 138.62294,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-11-27T05:21:13Z",
-      "reported_at": "2025-11-27T04:40:38Z"
-    },
-    {
-      "id": "3856e143-d1db-494d-9b12-d643d932add1",
-      "latitude": -34.79149,
-      "longitude": 138.501384,
-      "street": "A16 - Victoria Rd",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2025-11-27T05:21:13Z",
-      "reported_at": "2025-11-27T05:00:35Z"
+      "timestamp": "2025-11-27T05:43:44Z",
+      "reported_at": "2025-11-27T05:17:06Z"
     }
   ]
 }
