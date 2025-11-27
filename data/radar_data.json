@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "2870d3a7-0973-4877-bdee-1f887f21a381",
-      "latitude": -35.124037,
-      "longitude": 138.478441,
-      "street": "Galloway Rd",
-      "city": "O'Sullivan Beach",
-      "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T07:11:49Z"
-    },
-    {
-      "id": "86449c72-fb79-4397-9dca-48f0a5443eab",
-      "latitude": -34.909631,
-      "longitude": 138.58144,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:18:19Z"
-    },
-    {
-      "id": "10738e4c-137e-455f-a845-3ed2311e06b9",
-      "latitude": -34.861044,
-      "longitude": 138.6798,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:20:59Z"
-    },
-    {
       "id": "d90cad69-a37d-415e-ac08-cad7bd333e37",
       "latitude": -34.778368,
       "longitude": 138.646346,
       "street": "Frost Rd",
       "city": "Brahma Lodge",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
+      "timestamp": "2025-11-27T10:23:50Z",
       "reported_at": "2025-11-27T07:54:40Z"
+    },
+    {
+      "id": "2870d3a7-0973-4877-bdee-1f887f21a381",
+      "latitude": -35.124037,
+      "longitude": 138.478441,
+      "street": "Galloway Rd",
+      "city": "O'Sullivan Beach",
+      "type": "mobile",
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T07:11:49Z"
     },
     {
       "id": "ca60ec3a-cb1b-44ba-972b-108a4b074fc8",
@@ -47,88 +27,68 @@
       "street": "Unknown Street",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
+      "timestamp": "2025-11-27T10:23:50Z",
       "reported_at": "2025-11-27T06:29:37Z"
     },
     {
-      "id": "d6d6eb9a-7bfd-4b01-971e-10b007f086ad",
-      "latitude": -34.923722,
-      "longitude": 138.582121,
+      "id": "202b78b0-8580-4620-b58f-420abf488715",
+      "latitude": -34.688297,
+      "longitude": 138.68888,
+      "street": "Unknown Street",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T10:15:19Z"
+    },
+    {
+      "id": "0e89c494-383a-4efa-b6c0-e73af83f4c7e",
+      "latitude": -34.923969,
+      "longitude": 138.582852,
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:13:21Z"
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T09:40:12Z"
     },
     {
-      "id": "aec8f688-b94d-4735-892f-8456525e8479",
-      "latitude": -34.92349,
-      "longitude": 138.577109,
-      "street": "Henley Beach Rd",
-      "city": "Mile End",
+      "id": "49b3dc79-d2d8-47f4-9560-e11e26fce50a",
+      "latitude": -34.941974,
+      "longitude": 138.584766,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:24:39Z"
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T09:53:51Z"
     },
     {
-      "id": "d95f6244-30c6-4ad0-87f8-261abc20a516",
-      "latitude": -34.919908,
-      "longitude": 138.593145,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T08:46:53Z"
-    },
-    {
-      "id": "b42b959c-0f7f-43cd-85b7-7b45b112fb51",
-      "latitude": -34.944072,
-      "longitude": 138.581217,
+      "id": "1c1045b8-7855-4d24-afd4-e0dcbf759623",
+      "latitude": -34.942331,
+      "longitude": 138.582654,
       "street": "A5 - Anzac Hwy",
       "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:23:58Z"
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T09:02:27Z"
     },
     {
-      "id": "6a74f65e-d5d4-4260-a79b-20bf55ee90e8",
-      "latitude": -34.942048,
-      "longitude": 138.583166,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "id": "8b7a2645-9a1e-4af2-b896-7b0ea4daa0d5",
+      "latitude": -34.873761,
+      "longitude": 138.52424,
+      "street": "A7 - Port Rd",
+      "city": "Albert Park",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T08:37:52Z"
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T10:04:37Z"
     },
     {
-      "id": "63b80e2e-46d6-4960-8eb9-a73791287334",
-      "latitude": -34.90388,
-      "longitude": 138.582789,
-      "street": "R1 - Park Tce (City Ring Route)",
-      "city": "Bowden",
+      "id": "61b54200-4358-46df-bc94-ed5146c10451",
+      "latitude": -34.967443,
+      "longitude": 138.665728,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:24:53Z"
-    },
-    {
-      "id": "4cfde9c1-168f-4155-bf11-bb1bed973648",
-      "latitude": -34.839208,
-      "longitude": 138.676597,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:15:48Z"
-    },
-    {
-      "id": "edf4ff06-bf72-40ed-ba8a-76e103651c11",
-      "latitude": -34.790675,
-      "longitude": 138.645463,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury South",
-      "type": "mobile",
-      "timestamp": "2025-11-27T09:43:22Z",
-      "reported_at": "2025-11-27T09:18:05Z"
+      "timestamp": "2025-11-27T10:23:50Z",
+      "reported_at": "2025-11-27T09:39:45Z"
     }
   ]
 }
