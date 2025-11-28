@@ -7,28 +7,8 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T08:34:54Z"
-    },
-    {
-      "id": "537c839c-8957-4f1a-8fd3-b8b75b0ff8e7",
-      "latitude": -35.101223,
-      "longitude": 138.493883,
-      "street": "Meyer Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T06:40:00Z"
-    },
-    {
-      "id": "24746bfa-f73a-4144-85ad-93c02b017b86",
-      "latitude": -34.938939,
-      "longitude": 138.562025,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T06:57:56Z"
     },
     {
       "id": "67945801-2b73-4174-b99f-95953de82318",
@@ -37,8 +17,18 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T07:15:45Z"
+    },
+    {
+      "id": "24746bfa-f73a-4144-85ad-93c02b017b86",
+      "latitude": -34.938939,
+      "longitude": 138.562025,
+      "street": "Brooker Tce",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T06:57:56Z"
     },
     {
       "id": "2d4cc9d1-7707-4c55-af32-5b4bbb03bdc6",
@@ -47,8 +37,18 @@
       "street": "Unknown Street",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T10:14:55Z"
+    },
+    {
+      "id": "c08c35a2-d35d-4719-a217-ac97518128d3",
+      "latitude": -34.864166,
+      "longitude": 138.620693,
+      "street": "Warren Lane",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:32:15Z"
     },
     {
       "id": "804a3ca1-c9d4-4d18-b57c-0e0579311358",
@@ -57,18 +57,18 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T06:27:19Z"
     },
     {
-      "id": "96f9515c-bd8f-40ce-9593-8b99816ecf00",
-      "latitude": -35.10625,
-      "longitude": 138.502285,
-      "street": "Sherriffs Rd",
-      "city": "Lonsdale",
+      "id": "4de0401c-4468-4e3e-ab7d-254f53f410db",
+      "latitude": -35.137723,
+      "longitude": 138.503223,
+      "street": "Beach Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T09:05:41Z"
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:38:47Z"
     },
     {
       "id": "775b55b9-62ce-4f50-8c5e-e66b069fbe5c",
@@ -77,38 +77,48 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T08:58:50Z"
     },
     {
-      "id": "bb7d6cec-4261-4918-b98d-c9f7b8a4a5ea",
-      "latitude": -34.873703,
-      "longitude": 138.545832,
+      "id": "695c3b32-d31e-4fd9-b063-b9b5cf1b6551",
+      "latitude": -34.874612,
+      "longitude": 138.547327,
       "street": "Torrens Rd",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T09:51:39Z"
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:01:44Z"
     },
     {
-      "id": "4eb6ad9e-bb2e-4650-ab30-7cd3e4ec748c",
-      "latitude": -34.88644,
-      "longitude": 138.51324,
+      "id": "32608277-11a2-4f07-9523-5b078afa08a9",
+      "latitude": -34.883754,
+      "longitude": 138.593788,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:08:28Z"
+    },
+    {
+      "id": "da385485-a7ac-4028-ac37-aaf4b6750916",
+      "latitude": -34.829702,
+      "longitude": 138.657692,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:37:22Z"
+    },
+    {
+      "id": "ebab3a99-10b0-46b1-b2d1-0ad8b8c700fe",
+      "latitude": -34.888771,
+      "longitude": 138.513419,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T10:08:14Z"
-    },
-    {
-      "id": "66099ab3-07c0-4213-b6e8-7806f92dece4",
-      "latitude": -35.146235,
-      "longitude": 138.482715,
-      "street": "A15 - Murray Rd",
-      "city": "Port Noarlunga",
-      "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T06:05:22Z"
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T09:30:35Z"
     },
     {
       "id": "e52c0d28-a5b5-411c-86e1-0c53f6d82276",
@@ -117,7 +127,7 @@
       "street": "B29 - Belair Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T09:17:12Z"
     },
     {
@@ -127,18 +137,28 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
+      "timestamp": "2025-11-28T10:45:03Z",
       "reported_at": "2025-11-28T09:59:46Z"
     },
     {
-      "id": "7aba77fb-78c5-422f-b448-a6ba9e754e94",
-      "latitude": -34.872222,
-      "longitude": 138.619101,
+      "id": "0a705f55-d2d9-46a0-bdd5-7fdeb6a1ff46",
+      "latitude": -34.859038,
+      "longitude": 138.618149,
       "street": "A17 - Hampstead Rd",
-      "city": "Broadview",
+      "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2025-11-28T10:22:28Z",
-      "reported_at": "2025-11-28T09:56:52Z"
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:13:33Z"
+    },
+    {
+      "id": "9bde70fa-a46d-4f60-a392-d588ddd4144e",
+      "latitude": -34.888327,
+      "longitude": 138.628182,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2025-11-28T10:45:03Z",
+      "reported_at": "2025-11-28T10:38:47Z"
     }
   ]
 }
