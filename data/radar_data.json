@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "b2157658-8807-44ea-87e8-80ff05de83b0",
-      "latitude": -34.796565,
-      "longitude": 138.649168,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "f5744d27-f3f6-4193-885e-8bc94f086eb9",
+      "latitude": -35.100918,
+      "longitude": 138.49355,
+      "street": "Meyer Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T08:34:54Z"
-    },
-    {
-      "id": "429ab3c6-f7c1-4eda-9370-0546576a1b70",
-      "latitude": -34.788275,
-      "longitude": 138.602414,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T11:18:40Z"
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T09:54:47Z"
     },
     {
       "id": "96f9515c-bd8f-40ce-9593-8b99816ecf00",
@@ -27,7 +17,7 @@
       "street": "Sherriffs Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
+      "timestamp": "2025-11-28T12:41:36Z",
       "reported_at": "2025-11-28T09:05:41Z"
     },
     {
@@ -37,18 +27,28 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
+      "timestamp": "2025-11-28T12:41:36Z",
       "reported_at": "2025-11-28T08:58:50Z"
     },
     {
-      "id": "c0cbf287-7ac7-4007-a2d2-7c38eed5edae",
-      "latitude": -34.885955,
-      "longitude": 138.593947,
+      "id": "2e8bf128-6681-440b-8279-5cfacb909ca6",
+      "latitude": -34.898603,
+      "longitude": 138.594815,
       "street": "Prospect Rd",
-      "city": "Prospect",
+      "city": "Fitzroy",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T11:11:50Z"
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T12:30:56Z"
+    },
+    {
+      "id": "d064c036-c315-49bf-ad66-f0a7324ab546",
+      "latitude": -34.923416,
+      "longitude": 138.578913,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T12:32:33Z"
     },
     {
       "id": "ebab3a99-10b0-46b1-b2d1-0ad8b8c700fe",
@@ -57,28 +57,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
+      "timestamp": "2025-11-28T12:41:36Z",
       "reported_at": "2025-11-28T09:30:35Z"
-    },
-    {
-      "id": "e52c0d28-a5b5-411c-86e1-0c53f6d82276",
-      "latitude": -34.980856,
-      "longitude": 138.61089,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
-      "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T09:17:12Z"
-    },
-    {
-      "id": "16b0def4-44c7-42dc-a97c-c05d2a90dbe1",
-      "latitude": -34.941648,
-      "longitude": 138.590785,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
-      "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T11:31:56Z"
     },
     {
       "id": "e205a852-a1a2-4113-8f1c-9b997eb142a4",
@@ -87,48 +67,48 @@
       "street": "A5 - Anzac Hwy",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
+      "timestamp": "2025-11-28T12:41:36Z",
       "reported_at": "2025-11-28T10:09:47Z"
     },
     {
-      "id": "a77e9347-3374-4fcc-a3eb-e93a787fde83",
-      "latitude": -34.811472,
-      "longitude": 138.629475,
+      "id": "21860e14-c93f-42bc-83f8-5442aebfddd2",
+      "latitude": -34.906279,
+      "longitude": 138.573123,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T12:19:33Z"
+    },
+    {
+      "id": "cfe2e5ef-d579-4178-a806-0d733a5a7a7f",
+      "latitude": -34.891456,
+      "longitude": 138.611038,
+      "street": "A10 - North East Rd",
+      "city": "Walkerville",
+      "type": "mobile",
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T12:27:05Z"
+    },
+    {
+      "id": "3c778ded-0e5a-4e86-bf18-49479a6cec97",
+      "latitude": -34.752345,
+      "longitude": 138.652116,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T10:18:37Z"
+    },
+    {
+      "id": "a0b951bf-f1ef-4100-9623-8221635d3f52",
+      "latitude": -34.720699,
+      "longitude": 138.673263,
       "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T09:59:46Z"
-    },
-    {
-      "id": "73e300cb-6aec-482f-b319-05963deeb06b",
-      "latitude": -34.729094,
-      "longitude": 138.675055,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Grove",
-      "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T11:07:32Z"
-    },
-    {
-      "id": "37da2a32-0618-4972-8f77-7ade19bcd6d9",
-      "latitude": -34.764075,
-      "longitude": 138.601521,
-      "street": "A18 - Kings Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T11:02:03Z"
-    },
-    {
-      "id": "c9a44907-9ab3-4837-9fe0-475e0ac90b26",
-      "latitude": -34.965172,
-      "longitude": 138.646933,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2025-11-28T11:38:08Z",
-      "reported_at": "2025-11-28T10:52:06Z"
+      "timestamp": "2025-11-28T12:41:36Z",
+      "reported_at": "2025-11-28T12:04:24Z"
     }
   ]
 }
