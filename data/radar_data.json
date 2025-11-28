@@ -7,18 +7,8 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T08:34:54Z"
-    },
-    {
-      "id": "537c839c-8957-4f1a-8fd3-b8b75b0ff8e7",
-      "latitude": -35.101223,
-      "longitude": 138.493883,
-      "street": "Meyer Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
-      "reported_at": "2025-11-28T06:40:00Z"
     },
     {
       "id": "67945801-2b73-4174-b99f-95953de82318",
@@ -27,8 +17,18 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T07:15:45Z"
+    },
+    {
+      "id": "537c839c-8957-4f1a-8fd3-b8b75b0ff8e7",
+      "latitude": -35.101223,
+      "longitude": 138.493883,
+      "street": "Meyer Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2025-11-28T09:41:54Z",
+      "reported_at": "2025-11-28T06:40:00Z"
     },
     {
       "id": "24746bfa-f73a-4144-85ad-93c02b017b86",
@@ -37,18 +37,8 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T06:57:56Z"
-    },
-    {
-      "id": "5894c9f6-3cae-4cc0-8f29-148db6da9f9d",
-      "latitude": -35.106262,
-      "longitude": 138.504126,
-      "street": "Sherriffs Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
-      "reported_at": "2025-11-28T04:59:13Z"
     },
     {
       "id": "804a3ca1-c9d4-4d18-b57c-0e0579311358",
@@ -57,28 +47,18 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T06:27:19Z"
     },
     {
-      "id": "a1ce941b-54cc-488d-b592-18618f03d050",
-      "latitude": -35.02789,
-      "longitude": 138.597644,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "5894c9f6-3cae-4cc0-8f29-148db6da9f9d",
+      "latitude": -35.106262,
+      "longitude": 138.504126,
+      "street": "Sherriffs Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
-      "reported_at": "2025-11-28T08:55:28Z"
-    },
-    {
-      "id": "38cb92c6-947c-4451-9afc-e0bec8ef6a44",
-      "latitude": -35.135966,
-      "longitude": 138.537129,
-      "street": "Unknown Street",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
-      "reported_at": "2025-11-28T08:54:17Z"
+      "timestamp": "2025-11-28T09:41:54Z",
+      "reported_at": "2025-11-28T04:59:13Z"
     },
     {
       "id": "775b55b9-62ce-4f50-8c5e-e66b069fbe5c",
@@ -87,8 +67,18 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T08:58:50Z"
+    },
+    {
+      "id": "a1ce941b-54cc-488d-b592-18618f03d050",
+      "latitude": -35.02789,
+      "longitude": 138.597644,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2025-11-28T09:41:54Z",
+      "reported_at": "2025-11-28T08:55:28Z"
     },
     {
       "id": "60a99db9-484b-4948-b5c8-8088939b75ee",
@@ -97,8 +87,18 @@
       "street": "Torrens Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T09:18:22Z"
+    },
+    {
+      "id": "62a8e973-885b-49ac-aa37-b21fc1e8b56b",
+      "latitude": -34.87793,
+      "longitude": 138.51263,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2025-11-28T09:41:54Z",
+      "reported_at": "2025-11-28T09:15:37Z"
     },
     {
       "id": "66099ab3-07c0-4213-b6e8-7806f92dece4",
@@ -107,7 +107,7 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T06:05:22Z"
     },
     {
@@ -117,28 +117,18 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
+      "timestamp": "2025-11-28T09:41:54Z",
       "reported_at": "2025-11-28T08:55:48Z"
     },
     {
-      "id": "33f2e469-6909-424e-a826-f2e4f8dcde34",
-      "latitude": -34.876857,
-      "longitude": 138.512658,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Royal Park",
+      "id": "9ac5ca86-bb7e-4671-941c-f34cdaf1848f",
+      "latitude": -34.914811,
+      "longitude": 138.565864,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
-      "reported_at": "2025-11-28T08:55:37Z"
-    },
-    {
-      "id": "5bcb154c-e406-4fec-9693-a057e0b5cc65",
-      "latitude": -35.043188,
-      "longitude": 138.81648,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2025-11-28T09:21:27Z",
-      "reported_at": "2025-11-28T08:54:58Z"
+      "timestamp": "2025-11-28T09:41:54Z",
+      "reported_at": "2025-11-28T09:17:55Z"
     }
   ]
 }
