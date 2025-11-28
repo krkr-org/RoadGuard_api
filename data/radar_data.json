@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "1b0909c0-e9a6-4400-a668-353eb73a6adf",
+      "latitude": -34.866236,
+      "longitude": 138.601517,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2025-11-28T16:26:13Z",
+      "reported_at": "2025-11-28T16:14:45Z"
+    },
+    {
       "id": "ba66bba6-0448-4c90-9ec3-70dfa84a7990",
       "latitude": -34.807499,
       "longitude": 138.570345,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2025-11-28T15:40:42Z",
+      "timestamp": "2025-11-28T16:26:13Z",
       "reported_at": "2025-11-28T14:45:36Z"
     }
   ]
