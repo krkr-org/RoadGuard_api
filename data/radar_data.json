@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "32431561-ceb6-4004-b133-237d9bbdcfa4",
+      "latitude": -34.915617,
+      "longitude": 138.627126,
+      "street": "Sydenham Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-11-28T05:21:14Z",
+      "reported_at": "2025-11-28T05:16:13Z"
+    },
+    {
       "id": "02a56cf8-d8e1-42f5-a614-c8d16192e5b6",
       "latitude": -34.976949,
       "longitude": 138.595565,
       "street": "Grange Rd",
       "city": "Westbourne Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T04:45:42Z",
+      "timestamp": "2025-11-28T05:21:14Z",
       "reported_at": "2025-11-28T04:20:32Z"
     },
     {
@@ -17,28 +27,48 @@
       "street": "Heytesbury Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T04:45:42Z",
+      "timestamp": "2025-11-28T05:21:14Z",
       "reported_at": "2025-11-28T03:24:39Z"
     },
     {
-      "id": "15782557-62ff-4a54-b74d-e4b9218f8109",
-      "latitude": -34.859002,
-      "longitude": 138.503062,
+      "id": "d889e8b3-9545-4b5a-b857-8c2718ed05f5",
+      "latitude": -34.855864,
+      "longitude": 138.502444,
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-28T04:45:42Z",
-      "reported_at": "2025-11-28T04:40:55Z"
+      "timestamp": "2025-11-28T05:21:14Z",
+      "reported_at": "2025-11-28T04:44:41Z"
     },
     {
-      "id": "299e6d83-d8bf-4cb9-9fdd-fc507aded173",
-      "latitude": -34.79913,
-      "longitude": 138.685727,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
+      "id": "78a82e3e-ee85-47bd-ba15-5b8f435512b0",
+      "latitude": -35.126489,
+      "longitude": 138.517735,
+      "street": "Flaxmill Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-11-28T04:45:42Z",
-      "reported_at": "2025-11-28T04:40:08Z"
+      "timestamp": "2025-11-28T05:21:14Z",
+      "reported_at": "2025-11-28T04:59:29Z"
+    },
+    {
+      "id": "0cfd5338-4da9-475f-b00e-c2f695eb4b25",
+      "latitude": -34.905403,
+      "longitude": 138.610304,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-28T05:21:14Z",
+      "reported_at": "2025-11-28T05:00:54Z"
+    },
+    {
+      "id": "de1a49ab-8a0d-41d7-b75a-48433fca35cf",
+      "latitude": -34.765534,
+      "longitude": 138.626609,
+      "street": "Winzor St",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2025-11-28T05:21:14Z",
+      "reported_at": "2025-11-28T04:55:51Z"
     },
     {
       "id": "a44e606c-6c52-4269-a339-694e49f9d20b",
@@ -47,18 +77,18 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-11-28T04:45:42Z",
+      "timestamp": "2025-11-28T05:21:14Z",
       "reported_at": "2025-11-28T03:54:42Z"
     },
     {
-      "id": "13208be1-1716-4bb0-a9e5-623e82745873",
-      "latitude": -34.96684,
-      "longitude": 138.581998,
-      "street": "A3 - Cross Rd",
-      "city": "Clarence Park",
+      "id": "235ec6e5-9655-4125-b5b4-8b634a4ebd16",
+      "latitude": -35.146338,
+      "longitude": 138.480604,
+      "street": "A15 - Murray Rd",
+      "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2025-11-28T04:45:42Z",
-      "reported_at": "2025-11-28T04:02:45Z"
+      "timestamp": "2025-11-28T05:21:14Z",
+      "reported_at": "2025-11-28T05:13:31Z"
     }
   ]
 }
