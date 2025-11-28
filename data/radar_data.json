@@ -7,7 +7,7 @@
       "street": "Sherriffs Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T04:57:06Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Meyer Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T06:40:00Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T07:15:45Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T06:57:56Z"
+    },
+    {
+      "id": "586f3556-b670-4d6c-b718-b0dcdb143086",
+      "latitude": -34.906712,
+      "longitude": 138.581932,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T08:34:00Z"
     },
     {
       "id": "804a3ca1-c9d4-4d18-b57c-0e0579311358",
@@ -47,18 +57,38 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T06:27:19Z"
     },
     {
-      "id": "6a591e02-f534-44a2-9ba5-6b36f4616886",
-      "latitude": -34.9122,
-      "longitude": 138.658209,
+      "id": "060275f8-86d9-4b2f-8427-c18c173c1213",
+      "latitude": -34.994723,
+      "longitude": 138.592982,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T08:38:26Z"
+    },
+    {
+      "id": "e373c097-1f6d-464b-998b-865c6cdac09d",
+      "latitude": -35.027315,
+      "longitude": 138.599788,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T08:41:26Z"
+    },
+    {
+      "id": "c3c15686-0d06-4ef1-8de4-b98f7cada776",
+      "latitude": -34.911274,
+      "longitude": 138.658046,
       "street": "Glynburn Rd",
       "city": "St. Morris",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
-      "reported_at": "2025-11-28T08:03:15Z"
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T08:16:59Z"
     },
     {
       "id": "40f88d71-f420-4887-8efb-efb301e43869",
@@ -67,57 +97,47 @@
       "street": "Hanson Rd",
       "city": "Athol Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T08:23:03Z"
     },
     {
-      "id": "f92a52b4-9e43-4863-b457-2cb5d82c3300",
-      "latitude": -34.891933,
-      "longitude": 138.513768,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
-      "reported_at": "2025-11-28T07:02:45Z"
-    },
-    {
-      "id": "4c796203-a04f-465b-b4d7-217e4ef9317d",
-      "latitude": -34.844377,
-      "longitude": 138.50533,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
-      "reported_at": "2025-11-28T08:00:42Z"
-    },
-    {
-      "id": "649390ee-7210-49a5-9e5a-1fcccca7d9b7",
-      "latitude": -35.14623,
-      "longitude": 138.482808,
+      "id": "1907da40-61dc-4489-91aa-15feacba97d8",
+      "latitude": -35.146232,
+      "longitude": 138.482764,
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
-      "reported_at": "2025-11-28T08:02:47Z"
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T05:30:15Z"
     },
     {
-      "id": "463bdfcf-f213-4935-8304-c4290e25179a",
-      "latitude": -34.838241,
-      "longitude": 138.506926,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "id": "934f48fd-371e-4314-afc5-72271f3bb93c",
+      "latitude": -34.836362,
+      "longitude": 138.501924,
+      "street": "A16 - Victoria Rd",
+      "city": "Birkenhead",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
-      "reported_at": "2025-11-28T08:17:19Z"
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T08:42:28Z"
+    },
+    {
+      "id": "a949aa0c-d701-405c-a293-77209325c7de",
+      "latitude": -34.881679,
+      "longitude": 138.536996,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
+      "type": "mobile",
+      "timestamp": "2025-11-28T08:52:23Z",
+      "reported_at": "2025-11-28T08:20:48Z"
     },
     {
       "id": "78221caf-9f56-4316-bf3d-a24b0f27a49a",
-      "latitude": -34.853688,
-      "longitude": 138.564809,
+      "latitude": -34.853775,
+      "longitude": 138.564815,
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-11-28T08:28:44Z",
+      "timestamp": "2025-11-28T08:52:23Z",
       "reported_at": "2025-11-28T07:06:15Z"
     }
   ]
