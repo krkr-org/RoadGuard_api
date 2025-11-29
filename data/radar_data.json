@@ -1,84 +1,44 @@
 {
   "radars": [
     {
-      "id": "dcf9ec02-ca8b-44bf-80cc-41b99d9da5b9",
-      "latitude": -34.914545,
-      "longitude": 138.623547,
-      "street": "Marlborough St",
-      "city": "College Park",
-      "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T11:01:47Z"
-    },
-    {
-      "id": "8ea6b7a4-a1a6-4530-b06f-2a9aa37a4e4b",
-      "latitude": -34.923069,
-      "longitude": 138.597811,
-      "street": "Hindley St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T10:55:27Z"
-    },
-    {
       "id": "8ab878d6-04c4-4a7e-afc5-419d2b1a739d",
       "latitude": -34.864553,
       "longitude": 138.565534,
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
+      "timestamp": "2025-11-29T12:38:49Z",
       "reported_at": "2025-11-29T08:59:37Z"
     },
     {
-      "id": "cd28ad0e-c5ce-4267-a2aa-5b969f3ae7a4",
-      "latitude": -35.010801,
-      "longitude": 138.582742,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "871c14fe-d6a3-402c-841c-1baeb0fae56f",
+      "latitude": -34.949064,
+      "longitude": 138.614179,
+      "street": "Duthy St",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T11:15:49Z"
+      "timestamp": "2025-11-29T12:38:49Z",
+      "reported_at": "2025-11-29T11:46:47Z"
     },
     {
-      "id": "cd4daf7f-3184-4ae2-a4c8-94600ad2387b",
-      "latitude": -34.996083,
-      "longitude": 138.592958,
+      "id": "c0711c2c-ab24-4d85-b161-3bcac7c9bad0",
+      "latitude": -34.981588,
+      "longitude": 138.591912,
       "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T11:18:41Z"
+      "timestamp": "2025-11-29T12:38:49Z",
+      "reported_at": "2025-11-29T12:30:33Z"
     },
     {
-      "id": "e9c8cdb2-df41-4e00-ada3-8f19997ef24e",
-      "latitude": -34.924221,
-      "longitude": 138.603339,
-      "street": "Grenfell St",
+      "id": "0ec88365-8487-4f34-9650-8ba1caa4b070",
+      "latitude": -34.92432,
+      "longitude": 138.605679,
+      "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T10:49:04Z"
-    },
-    {
-      "id": "321a61c0-7b73-49d7-a0b3-7054d40434a3",
-      "latitude": -34.920517,
-      "longitude": 138.593184,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T09:39:03Z"
-    },
-    {
-      "id": "d52c116e-7ad9-4f3b-bec3-55e3bde21258",
-      "latitude": -34.905869,
-      "longitude": 138.56812,
-      "street": "Manton St",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T06:29:05Z"
+      "timestamp": "2025-11-29T12:38:49Z",
+      "reported_at": "2025-11-29T12:05:41Z"
     },
     {
       "id": "a400e7e3-500f-4789-8450-1f158f1b6768",
@@ -87,18 +47,8 @@
       "street": "Hanson Rd North",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
+      "timestamp": "2025-11-29T12:38:49Z",
       "reported_at": "2025-11-29T10:13:30Z"
-    },
-    {
-      "id": "71f14ffc-c760-4156-9ab4-38f10077973f",
-      "latitude": -34.903517,
-      "longitude": 138.568939,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T11:09:57Z"
     },
     {
       "id": "05c6ed42-56b4-4f9e-8592-b340d1da64a5",
@@ -107,38 +57,38 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
+      "timestamp": "2025-11-29T12:38:49Z",
       "reported_at": "2025-11-29T09:32:24Z"
     },
     {
-      "id": "8c1d162b-81d4-4fef-a5cb-09bab9201428",
-      "latitude": -34.846137,
-      "longitude": 138.601809,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
+      "id": "f657086b-17f7-4a1a-8da1-d7d475c1d0cb",
+      "latitude": -34.907461,
+      "longitude": 138.574921,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T05:54:25Z"
+      "timestamp": "2025-11-29T12:38:49Z",
+      "reported_at": "2025-11-29T12:29:07Z"
     },
     {
-      "id": "24990cfa-8883-444e-b1ed-0ca324a6493a",
-      "latitude": -34.851994,
-      "longitude": 138.600506,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "d4bcb802-6932-493e-af1b-98b5b32b5d80",
+      "latitude": -34.867235,
+      "longitude": 138.618744,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T10:22:46Z"
+      "timestamp": "2025-11-29T12:38:49Z",
+      "reported_at": "2025-11-29T12:27:55Z"
     },
     {
-      "id": "e30248d0-d899-4710-8e54-34681ad7e0a1",
-      "latitude": -34.883077,
-      "longitude": 138.66046,
-      "street": "A11 - Lower North East Rd",
-      "city": "Campbelltown",
+      "id": "422a492b-ca93-4972-b401-a75625c3d4d8",
+      "latitude": -35.021388,
+      "longitude": 138.784342,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-11-29T11:37:38Z",
-      "reported_at": "2025-11-29T11:22:14Z"
+      "timestamp": "2025-11-29T12:38:49Z",
+      "reported_at": "2025-11-29T12:17:51Z"
     }
   ]
 }
