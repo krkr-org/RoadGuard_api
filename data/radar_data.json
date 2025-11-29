@@ -1,44 +1,64 @@
 {
   "radars": [
     {
-      "id": "8ab878d6-04c4-4a7e-afc5-419d2b1a739d",
-      "latitude": -34.864553,
-      "longitude": 138.565534,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
-      "reported_at": "2025-11-29T08:59:37Z"
-    },
-    {
       "id": "871c14fe-d6a3-402c-841c-1baeb0fae56f",
       "latitude": -34.949064,
       "longitude": 138.614179,
       "street": "Duthy St",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
+      "timestamp": "2025-11-29T13:26:46Z",
       "reported_at": "2025-11-29T11:46:47Z"
     },
     {
-      "id": "c0711c2c-ab24-4d85-b161-3bcac7c9bad0",
-      "latitude": -34.981588,
-      "longitude": 138.591912,
-      "street": "Goodwood Rd",
-      "city": "Colonel Light Gardens",
+      "id": "b5210741-00eb-4dec-919a-64a5656979d9",
+      "latitude": -34.893347,
+      "longitude": 138.554822,
+      "street": "Rosetta St",
+      "city": "West Croydon",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
-      "reported_at": "2025-11-29T12:30:33Z"
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T13:08:31Z"
     },
     {
-      "id": "0ec88365-8487-4f34-9650-8ba1caa4b070",
-      "latitude": -34.92432,
-      "longitude": 138.605679,
-      "street": "Pulteney St",
+      "id": "cb43428d-fa3d-4688-9db4-e599780918b0",
+      "latitude": -34.92215,
+      "longitude": 138.593289,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T13:16:10Z"
+    },
+    {
+      "id": "a4b2e7ce-017e-4ffd-ab68-ba2a430f3978",
+      "latitude": -34.924316,
+      "longitude": 138.587604,
+      "street": "West Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
-      "reported_at": "2025-11-29T12:05:41Z"
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T13:11:16Z"
+    },
+    {
+      "id": "4fa7ab83-3ab8-4f5b-8fbf-cff947ed4ff4",
+      "latitude": -34.920133,
+      "longitude": 138.581826,
+      "street": "Port Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T13:13:45Z"
+    },
+    {
+      "id": "8c5c3af6-2c90-4e26-a1e9-b60783aae5e1",
+      "latitude": -34.905364,
+      "longitude": 138.610408,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T13:02:48Z"
     },
     {
       "id": "a400e7e3-500f-4789-8450-1f158f1b6768",
@@ -47,48 +67,58 @@
       "street": "Hanson Rd North",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
+      "timestamp": "2025-11-29T13:26:46Z",
       "reported_at": "2025-11-29T10:13:30Z"
     },
     {
-      "id": "05c6ed42-56b4-4f9e-8592-b340d1da64a5",
-      "latitude": -34.897805,
-      "longitude": 138.560368,
-      "street": "A7 - Port Rd",
-      "city": "West Hindmarsh",
+      "id": "132bd790-fc0c-4bfb-a4f8-08bed4ea2e72",
+      "latitude": -34.939391,
+      "longitude": 138.517258,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
-      "reported_at": "2025-11-29T09:32:24Z"
-    },
-    {
-      "id": "f657086b-17f7-4a1a-8da1-d7d475c1d0cb",
-      "latitude": -34.907461,
-      "longitude": 138.574921,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
+      "timestamp": "2025-11-29T13:26:46Z",
       "reported_at": "2025-11-29T12:29:07Z"
     },
     {
-      "id": "d4bcb802-6932-493e-af1b-98b5b32b5d80",
-      "latitude": -34.867235,
-      "longitude": 138.618744,
-      "street": "A17 - Hampstead Rd",
-      "city": "Broadview",
+      "id": "e18dea93-b13a-4b34-ad4f-3da2df138d69",
+      "latitude": -34.915365,
+      "longitude": 138.628815,
+      "street": "B27 - Magill Rd",
+      "city": "Stepney",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
-      "reported_at": "2025-11-29T12:27:55Z"
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T12:53:37Z"
     },
     {
-      "id": "422a492b-ca93-4972-b401-a75625c3d4d8",
-      "latitude": -35.021388,
-      "longitude": 138.784342,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "14ed3018-3d08-4f2b-95a4-18befd8d13fe",
+      "latitude": -34.903658,
+      "longitude": 138.609972,
+      "street": "R1 - Mann Rd (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-29T12:38:49Z",
-      "reported_at": "2025-11-29T12:17:51Z"
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T13:02:37Z"
+    },
+    {
+      "id": "3bc2bacd-3fe1-447f-a125-09aa3d1fb3d3",
+      "latitude": -34.849728,
+      "longitude": 138.572816,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T12:59:48Z"
+    },
+    {
+      "id": "b36ca1c5-b7a3-4545-b950-005ecbc35339",
+      "latitude": -34.851473,
+      "longitude": 138.666882,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-29T13:26:46Z",
+      "reported_at": "2025-11-29T12:39:22Z"
     }
   ]
 }
