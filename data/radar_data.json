@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "2c6004ec-fe2e-441f-8556-b621b7bd476c",
-      "latitude": -35.135567,
-      "longitude": 138.485945,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "eec6d141-7f52-45ea-b67b-47d3c59f1e09",
+      "latitude": -34.9916,
+      "longitude": 138.592602,
+      "street": "Goodwood Rd",
+      "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T21:37:55Z",
-      "reported_at": "2025-11-29T20:44:21Z"
+      "timestamp": "2025-11-29T22:18:45Z",
+      "reported_at": "2025-11-29T21:51:07Z"
+    },
+    {
+      "id": "50ce0467-b723-43c0-b007-4c8ad7a69ccd",
+      "latitude": -35.017149,
+      "longitude": 138.559358,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2025-11-29T22:18:45Z",
+      "reported_at": "2025-11-29T22:06:08Z"
+    },
+    {
+      "id": "97aabe71-3486-4b2c-9964-8caaeab989d9",
+      "latitude": -34.919181,
+      "longitude": 138.579986,
+      "street": "Port Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T22:18:45Z",
+      "reported_at": "2025-11-29T21:29:41Z"
+    },
+    {
+      "id": "6af964f7-b206-4ecf-9923-2148aa44520e",
+      "latitude": -34.824386,
+      "longitude": 138.620546,
+      "street": "Montague Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-29T22:18:45Z",
+      "reported_at": "2025-11-29T21:41:01Z"
+    },
+    {
+      "id": "d9e6cce0-a634-4b20-a0c7-eb9060d87d38",
+      "latitude": -35.135513,
+      "longitude": 138.486096,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2025-11-29T22:18:45Z",
+      "reported_at": "2025-11-29T20:55:36Z"
     }
   ]
 }
