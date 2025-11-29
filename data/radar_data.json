@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "8ab878d6-04c4-4a7e-afc5-419d2b1a739d",
+      "latitude": -34.864055,
+      "longitude": 138.565503,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2025-11-29T09:39:47Z",
+      "reported_at": "2025-11-29T08:59:37Z"
+    },
+    {
+      "id": "62c23324-4359-4318-992f-9b30fa40d02b",
+      "latitude": -34.851784,
+      "longitude": 138.493172,
+      "street": "Bower Rd",
+      "city": "Ethelton",
+      "type": "mobile",
+      "timestamp": "2025-11-29T09:39:47Z",
+      "reported_at": "2025-11-29T09:17:32Z"
+    },
+    {
       "id": "0f37b6d0-deb3-4901-b072-ed213bbd5d4a",
       "latitude": -34.992416,
       "longitude": 138.584867,
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T05:42:25Z"
     },
     {
@@ -17,7 +37,7 @@
       "street": "Manton St",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T06:29:05Z"
     },
     {
@@ -27,18 +47,18 @@
       "street": "Henley Beach Rd",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T08:42:59Z"
     },
     {
-      "id": "dab40579-f779-488e-bb1e-47af6e25b6fc",
-      "latitude": -34.939196,
-      "longitude": 138.613389,
+      "id": "5dcefe38-f870-4fd8-ac86-f1eb5e0091f6",
+      "latitude": -34.9395,
+      "longitude": 138.614096,
       "street": "Glen Osmond Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
-      "reported_at": "2025-11-29T08:40:24Z"
+      "timestamp": "2025-11-29T09:39:47Z",
+      "reported_at": "2025-11-29T08:47:46Z"
     },
     {
       "id": "8c669121-bbb0-48f4-87bc-68a58597fdb4",
@@ -47,8 +67,18 @@
       "street": "Hanson Rd North",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T04:55:49Z"
+    },
+    {
+      "id": "fcd1a69e-4b7f-4ef7-9235-a2aa6fb3c54e",
+      "latitude": -34.897796,
+      "longitude": 138.560355,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-11-29T09:39:47Z",
+      "reported_at": "2025-11-29T05:49:03Z"
     },
     {
       "id": "78aefa2b-4c2b-43f9-92b5-d21189f399b3",
@@ -57,7 +87,7 @@
       "street": "A7 - Port Rd",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T06:33:24Z"
     },
     {
@@ -67,7 +97,7 @@
       "street": "A11 - Payneham Rd",
       "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T09:15:21Z"
     },
     {
@@ -77,18 +107,18 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T08:10:42Z"
     },
     {
-      "id": "cc0310cd-0d59-436a-aae4-c2c80dc54b04",
-      "latitude": -34.840068,
-      "longitude": 138.593114,
+      "id": "65424c30-b5cc-422d-a66a-c1fdb800c6f6",
+      "latitude": -34.83933,
+      "longitude": 138.594041,
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
-      "reported_at": "2025-11-29T05:33:42Z"
+      "timestamp": "2025-11-29T09:39:47Z",
+      "reported_at": "2025-11-29T07:05:57Z"
     },
     {
       "id": "fe406586-c368-4338-b6ca-e274ca6e2c62",
@@ -97,7 +127,7 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T08:29:17Z"
     },
     {
@@ -107,7 +137,7 @@
       "street": "B27 - Lobethal Rd",
       "city": "Forest Range",
       "type": "mobile",
-      "timestamp": "2025-11-29T09:19:56Z",
+      "timestamp": "2025-11-29T09:39:47Z",
       "reported_at": "2025-11-29T06:35:38Z"
     }
   ]
