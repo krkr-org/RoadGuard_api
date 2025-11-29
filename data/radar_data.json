@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "bfc91f87-7c50-4c97-9c88-502bdd49759a",
-      "latitude": -34.71325,
-      "longitude": 138.688847,
+      "id": "dfeed295-889a-4ad6-aecc-80cc870e2510",
+      "latitude": -34.891364,
+      "longitude": 138.630888,
+      "street": "River St",
+      "city": "Marden",
+      "type": "mobile",
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-29T03:43:59Z"
+    },
+    {
+      "id": "bf2ba3db-9ce0-4419-a8a7-e8a1a4a34a8d",
+      "latitude": -34.713892,
+      "longitude": 138.688454,
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-28T21:17:55Z"
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-29T02:22:48Z"
     },
     {
       "id": "147bb1be-c1d0-4ae8-9289-26c7736f7092",
@@ -17,68 +27,58 @@
       "street": "Coventry Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
+      "timestamp": "2025-11-29T03:54:38Z",
       "reported_at": "2025-11-29T00:00:24Z"
     },
     {
-      "id": "d606a5a2-9cbd-46fb-abed-5e08e58a03a8",
-      "latitude": -35.018074,
-      "longitude": 138.541018,
-      "street": "Morphett Rd",
-      "city": "Oaklands Park",
+      "id": "c8fefb9a-608f-4067-b4df-de79b901eb0a",
+      "latitude": -34.993562,
+      "longitude": 138.560645,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-29T02:38:39Z"
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-29T03:43:56Z"
     },
     {
-      "id": "881da3e7-84f2-4024-82a8-a1ecaef89c23",
-      "latitude": -34.85721,
-      "longitude": 138.670411,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "5703169b-13c7-4368-86fd-9e7035158848",
+      "latitude": -34.879246,
+      "longitude": 138.635232,
+      "street": "O.G Rd",
+      "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-29T02:40:44Z"
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-29T03:42:50Z"
     },
     {
-      "id": "b2b86751-dd99-4d67-870f-91dd1b2a88d7",
-      "latitude": -34.693586,
-      "longitude": 138.667137,
+      "id": "a6b2a787-8677-461f-ab11-9f1543a2af90",
+      "latitude": -34.880459,
+      "longitude": 138.535509,
+      "street": "Woodville Rd",
+      "city": "Woodville",
+      "type": "mobile",
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-29T03:32:46Z"
+    },
+    {
+      "id": "f56fad5f-fe47-46aa-a75f-9ee5d056d638",
+      "latitude": -34.695708,
+      "longitude": 138.666585,
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-28T23:49:28Z"
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-28T22:05:17Z"
     },
     {
-      "id": "1179a955-0a0c-4687-bf2a-33035ae48a33",
-      "latitude": -34.864069,
-      "longitude": 138.782661,
-      "street": "B31 - Gorge Rd",
-      "city": "Paracombe",
-      "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-28T22:03:15Z"
-    },
-    {
-      "id": "c0669591-09f4-473a-abce-03c91e2a0bab",
-      "latitude": -34.697343,
-      "longitude": 138.570446,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-29T02:29:33Z"
-    },
-    {
-      "id": "59643ee1-67ff-4c83-a1a0-221979350081",
-      "latitude": -34.796224,
-      "longitude": 138.654229,
+      "id": "f53ac1ec-22bb-40f3-b853-c5b3468bb10b",
+      "latitude": -34.797225,
+      "longitude": 138.655882,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-11-29T03:11:41Z",
-      "reported_at": "2025-11-29T01:08:49Z"
+      "timestamp": "2025-11-29T03:54:38Z",
+      "reported_at": "2025-11-29T01:25:54Z"
     }
   ]
 }
