@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "8c669121-bbb0-48f4-87bc-68a58597fdb4",
-      "latitude": -34.847429,
-      "longitude": 138.546517,
-      "street": "Hanson Rd North",
-      "city": "Wingfield",
+      "id": "aaf30171-4d7a-43e0-afbb-20d73e92f8a4",
+      "latitude": -34.863495,
+      "longitude": 138.565468,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T04:55:49Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T09:55:38Z"
     },
     {
-      "id": "ef6163df-b5f2-4069-a56c-50e043c175e1",
-      "latitude": -34.905516,
-      "longitude": 138.567748,
-      "street": "Manton St",
-      "city": "Hindmarsh",
+      "id": "02b4a404-3aaa-4a98-b107-1cdfc8f541dc",
+      "latitude": -34.923614,
+      "longitude": 138.57918,
+      "street": "Unknown Street",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T08:23:08Z"
-    },
-    {
-      "id": "321a61c0-7b73-49d7-a0b3-7054d40434a3",
-      "latitude": -34.920517,
-      "longitude": 138.593184,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T09:39:03Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:23:21Z"
     },
     {
       "id": "ff9d0305-c143-4446-bb99-9cda9818fd7d",
@@ -37,28 +27,58 @@
       "street": "Henley Beach Rd",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
+      "timestamp": "2025-11-29T10:42:06Z",
       "reported_at": "2025-11-29T08:42:59Z"
     },
     {
-      "id": "59def1ab-4107-468e-b55b-c676d9144ab3",
-      "latitude": -34.939581,
-      "longitude": 138.614225,
+      "id": "65460138-4b11-49ea-ab67-58f72e5bb7fc",
+      "latitude": -34.939108,
+      "longitude": 138.613243,
       "street": "Glen Osmond Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T09:53:37Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:23:51Z"
     },
     {
-      "id": "78aefa2b-4c2b-43f9-92b5-d21189f399b3",
-      "latitude": -34.897082,
-      "longitude": 138.559243,
-      "street": "A7 - Port Rd",
-      "city": "Welland",
+      "id": "ef6163df-b5f2-4069-a56c-50e043c175e1",
+      "latitude": -34.905516,
+      "longitude": 138.567748,
+      "street": "Manton St",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T06:33:24Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T08:23:08Z"
+    },
+    {
+      "id": "d19c87e3-5b92-4df6-806e-61697449ce2f",
+      "latitude": -34.934453,
+      "longitude": 138.594319,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:28:08Z"
+    },
+    {
+      "id": "321a61c0-7b73-49d7-a0b3-7054d40434a3",
+      "latitude": -34.920517,
+      "longitude": 138.593184,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T09:39:03Z"
+    },
+    {
+      "id": "a400e7e3-500f-4789-8450-1f158f1b6768",
+      "latitude": -34.847795,
+      "longitude": 138.546539,
+      "street": "Hanson Rd North",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:13:30Z"
     },
     {
       "id": "05c6ed42-56b4-4f9e-8592-b340d1da64a5",
@@ -67,48 +87,58 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
+      "timestamp": "2025-11-29T10:42:06Z",
       "reported_at": "2025-11-29T09:32:24Z"
     },
     {
-      "id": "5ca7c33e-6a2b-4d4d-90c4-7000222a4c70",
-      "latitude": -34.893588,
-      "longitude": 138.646247,
-      "street": "A11 - Payneham Rd",
-      "city": "Glynde",
+      "id": "205c8141-8434-4b15-8e4a-11709474bfeb",
+      "latitude": -34.879048,
+      "longitude": 138.533011,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T09:15:21Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:35:28Z"
     },
     {
-      "id": "9c02daa2-d6b1-4264-875a-b130912e1b44",
-      "latitude": -34.916159,
-      "longitude": 138.621744,
-      "street": "A11 - North Tce",
-      "city": "College Park",
-      "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T09:58:37Z"
-    },
-    {
-      "id": "67ff6a1a-32be-4b05-bf39-6c26642fefb0",
-      "latitude": -34.914256,
-      "longitude": 138.623864,
+      "id": "0e5bdb28-2c99-4bc8-8669-8be348851b91",
+      "latitude": -34.914665,
+      "longitude": 138.623522,
       "street": "A11 - Payneham Rd",
       "city": "St. Peters",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T09:45:40Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:17:29Z"
     },
     {
-      "id": "7a564aa7-7b7c-4eb7-9cf6-8b5c87360a64",
-      "latitude": -34.847711,
-      "longitude": 138.600631,
+      "id": "339d7eb1-d7a0-4ed4-88ee-515b30520677",
+      "latitude": -35.00896,
+      "longitude": 138.522268,
+      "street": "A15 - Brighton Rd",
+      "city": "Hove",
+      "type": "mobile",
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T10:28:36Z"
+    },
+    {
+      "id": "8c1d162b-81d4-4fef-a5cb-09bab9201428",
+      "latitude": -34.846137,
+      "longitude": 138.601809,
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T07:43:41Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T05:54:25Z"
+    },
+    {
+      "id": "78aefa2b-4c2b-43f9-92b5-d21189f399b3",
+      "latitude": -34.897082,
+      "longitude": 138.559243,
+      "street": "A7 - Port Rd",
+      "city": "Welland",
+      "type": "mobile",
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T06:33:24Z"
     },
     {
       "id": "fe406586-c368-4338-b6ca-e274ca6e2c62",
@@ -117,7 +147,7 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
+      "timestamp": "2025-11-29T10:42:06Z",
       "reported_at": "2025-11-29T08:29:17Z"
     },
     {
@@ -127,18 +157,18 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
+      "timestamp": "2025-11-29T10:42:06Z",
       "reported_at": "2025-11-29T07:05:57Z"
     },
     {
-      "id": "089d6e22-c97e-4570-8ce6-a63cd1c7532c",
-      "latitude": -34.928795,
-      "longitude": 138.80605,
-      "street": "B27 - Lobethal Rd",
-      "city": "Forest Range",
+      "id": "5ca7c33e-6a2b-4d4d-90c4-7000222a4c70",
+      "latitude": -34.893588,
+      "longitude": 138.646247,
+      "street": "A11 - Payneham Rd",
+      "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2025-11-29T10:19:50Z",
-      "reported_at": "2025-11-29T06:35:38Z"
+      "timestamp": "2025-11-29T10:42:06Z",
+      "reported_at": "2025-11-29T09:15:21Z"
     }
   ]
 }
