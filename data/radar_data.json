@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "120857c4-0c0f-439a-8379-8dc85a24dc38",
+      "latitude": -34.857809,
+      "longitude": 138.504466,
+      "street": "Webb St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-29T05:41:57Z",
+      "reported_at": "2025-11-29T04:43:23Z"
+    },
+    {
       "id": "2d8c469d-c866-458b-aa40-b0efe5578f15",
       "latitude": -34.865143,
       "longitude": 138.565571,
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
+      "timestamp": "2025-11-29T05:41:57Z",
       "reported_at": "2025-11-29T04:46:35Z"
-    },
-    {
-      "id": "1a7c69ef-ef38-478b-9634-227f95407a75",
-      "latitude": -34.907084,
-      "longitude": 138.569939,
-      "street": "Manton St",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
-      "reported_at": "2025-11-29T04:44:58Z"
     },
     {
       "id": "5703169b-13c7-4368-86fd-9e7035158848",
@@ -27,18 +27,8 @@
       "street": "O.G Rd",
       "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
+      "timestamp": "2025-11-29T05:41:57Z",
       "reported_at": "2025-11-29T03:42:50Z"
-    },
-    {
-      "id": "3b4a0e16-e0e9-42d6-ad7f-73f02ded1871",
-      "latitude": -34.847122,
-      "longitude": 138.546498,
-      "street": "Hanson Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
-      "reported_at": "2025-11-29T05:00:10Z"
     },
     {
       "id": "ee4959f7-44ae-4896-8329-303423f7c778",
@@ -47,7 +37,7 @@
       "street": "A16 - Nelson St",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
+      "timestamp": "2025-11-29T05:41:57Z",
       "reported_at": "2025-11-29T05:13:22Z"
     },
     {
@@ -57,38 +47,48 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
+      "timestamp": "2025-11-29T05:41:57Z",
       "reported_at": "2025-11-29T04:58:34Z"
     },
     {
-      "id": "0bd0d4b4-73f1-47c9-a82f-45c58d446756",
-      "latitude": -34.843784,
-      "longitude": 138.603538,
+      "id": "3945e046-75aa-41a4-a26a-ec39e41a3a5b",
+      "latitude": -34.846606,
+      "longitude": 138.601458,
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
-      "reported_at": "2025-11-29T05:03:13Z"
+      "timestamp": "2025-11-29T05:41:57Z",
+      "reported_at": "2025-11-29T05:05:04Z"
     },
     {
-      "id": "b155c918-26dc-4917-8449-9b948900e0b6",
-      "latitude": -34.863842,
-      "longitude": 138.601348,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
-      "reported_at": "2025-11-29T05:06:50Z"
-    },
-    {
-      "id": "0d6f4651-6198-4570-9660-f46c85f4cdb4",
-      "latitude": -34.839758,
-      "longitude": 138.67594,
+      "id": "f66e7756-c7f5-4402-ad9d-f521850f5d45",
+      "latitude": -34.842995,
+      "longitude": 138.67256,
       "street": "A10 - North East Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2025-11-29T05:19:42Z",
-      "reported_at": "2025-11-29T05:16:48Z"
+      "timestamp": "2025-11-29T05:41:57Z",
+      "reported_at": "2025-11-29T05:24:02Z"
+    },
+    {
+      "id": "996e8466-a023-4968-ad02-1c5dcfb57ca2",
+      "latitude": -34.839085,
+      "longitude": 138.594112,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2025-11-29T05:41:57Z",
+      "reported_at": "2025-11-29T04:49:41Z"
+    },
+    {
+      "id": "9ae53273-0b21-4c50-af79-e162dfb5e4ca",
+      "latitude": -34.783862,
+      "longitude": 138.582257,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-29T05:41:57Z",
+      "reported_at": "2025-11-29T05:35:32Z"
     }
   ]
 }
