@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "bf2ba3db-9ce0-4419-a8a7-e8a1a4a34a8d",
-      "latitude": -34.713892,
-      "longitude": 138.688454,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
-      "reported_at": "2025-11-29T02:22:48Z"
-    },
-    {
       "id": "dc8474d2-3cdb-424c-a7ee-de3a39938c0c",
       "latitude": -34.829147,
       "longitude": 138.562726,
       "street": "to A9 - Salisbury Hwy to Salisbury",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
+      "timestamp": "2025-11-29T04:44:54Z",
       "reported_at": "2025-11-29T04:07:38Z"
     },
     {
-      "id": "d6d332b8-2f45-4046-9a25-8a890ab2a4cd",
-      "latitude": -34.980738,
-      "longitude": 138.538129,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
+      "id": "bf2ba3db-9ce0-4419-a8a7-e8a1a4a34a8d",
+      "latitude": -34.713892,
+      "longitude": 138.688454,
+      "street": "Midway Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
-      "reported_at": "2025-11-29T04:01:53Z"
-    },
-    {
-      "id": "5703169b-13c7-4368-86fd-9e7035158848",
-      "latitude": -34.879246,
-      "longitude": 138.635232,
-      "street": "O.G Rd",
-      "city": "Klemzig",
-      "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
-      "reported_at": "2025-11-29T03:42:50Z"
+      "timestamp": "2025-11-29T04:44:54Z",
+      "reported_at": "2025-11-29T02:22:48Z"
     },
     {
       "id": "b5ecbab2-4f06-4bad-a18c-11630d3f229f",
@@ -47,18 +27,18 @@
       "street": "Walkleys Rd",
       "city": "Walkley Heights",
       "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
+      "timestamp": "2025-11-29T04:44:54Z",
       "reported_at": "2025-11-29T04:19:34Z"
     },
     {
-      "id": "b2b86751-dd99-4d67-870f-91dd1b2a88d7",
-      "latitude": -34.693586,
-      "longitude": 138.667137,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
+      "id": "5703169b-13c7-4368-86fd-9e7035158848",
+      "latitude": -34.879246,
+      "longitude": 138.635232,
+      "street": "O.G Rd",
+      "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
-      "reported_at": "2025-11-28T23:49:28Z"
+      "timestamp": "2025-11-29T04:44:54Z",
+      "reported_at": "2025-11-29T03:42:50Z"
     },
     {
       "id": "f53ac1ec-22bb-40f3-b853-c5b3468bb10b",
@@ -67,8 +47,18 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-11-29T04:24:06Z",
+      "timestamp": "2025-11-29T04:44:54Z",
       "reported_at": "2025-11-29T01:25:54Z"
+    },
+    {
+      "id": "81499a75-e13e-4dd2-b00f-a014a5fead00",
+      "latitude": -34.766375,
+      "longitude": 138.590292,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-11-29T04:44:54Z",
+      "reported_at": "2025-11-29T04:35:37Z"
     }
   ]
 }
