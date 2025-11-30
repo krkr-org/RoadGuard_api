@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "119c288f-4136-4c4e-a2cf-b3ca66e1dd29",
-      "latitude": -34.921044,
-      "longitude": 138.584164,
-      "street": "Port Rd",
-      "city": "Adelaide",
+      "id": "1ec91a0b-1a2a-49f0-8ace-712f092800d6",
+      "latitude": -34.955199,
+      "longitude": 138.508507,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-11-30T20:41:28Z",
-      "reported_at": "2025-11-30T20:23:20Z"
+      "timestamp": "2025-11-30T21:17:51Z",
+      "reported_at": "2025-11-30T20:45:59Z"
     },
     {
-      "id": "9e647270-3e30-402e-a8db-dc430273b1d1",
-      "latitude": -34.964359,
-      "longitude": 138.516588,
+      "id": "c1fbe28e-fd37-43ef-999f-af40cf5f4202",
+      "latitude": -34.918319,
+      "longitude": 138.622754,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-11-30T21:17:51Z",
+      "reported_at": "2025-11-30T20:53:45Z"
+    },
+    {
+      "id": "77bc21cb-4c4f-4e4a-86b4-a1c4ff6a07f3",
+      "latitude": -34.926414,
+      "longitude": 138.518027,
+      "street": "Henley Beach Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2025-11-30T21:17:51Z",
+      "reported_at": "2025-11-30T20:43:14Z"
+    },
+    {
+      "id": "1c2170ec-01f1-4c36-8063-852259c55ee2",
+      "latitude": -34.926189,
+      "longitude": 138.525444,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2025-11-30T21:17:51Z",
+      "reported_at": "2025-11-30T21:01:19Z"
+    },
+    {
+      "id": "034e78fd-b5f7-4a5f-82eb-4d1c614a6cfe",
+      "latitude": -34.96607,
+      "longitude": 138.516711,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2025-11-30T20:41:28Z",
-      "reported_at": "2025-11-30T20:36:49Z"
+      "timestamp": "2025-11-30T21:17:51Z",
+      "reported_at": "2025-11-30T21:13:02Z"
     },
     {
       "id": "a52cad36-c630-4092-b4c3-345cd288b922",
@@ -27,8 +57,18 @@
       "street": "B29 - Unley Rd",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-11-30T20:41:28Z",
+      "timestamp": "2025-11-30T21:17:51Z",
       "reported_at": "2025-11-30T20:36:53Z"
+    },
+    {
+      "id": "13f2fb8c-f969-42d2-8094-ce8c97cae7dd",
+      "latitude": -34.861075,
+      "longitude": 138.6835,
+      "street": "A11 - Lower North East Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2025-11-30T21:17:51Z",
+      "reported_at": "2025-11-30T21:10:24Z"
     }
   ]
 }
