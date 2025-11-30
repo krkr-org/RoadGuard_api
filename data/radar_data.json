@@ -1,104 +1,94 @@
 {
   "radars": [
     {
-      "id": "2676bcc9-099f-4978-8601-816a4af7c701",
-      "latitude": -34.866206,
-      "longitude": 138.531598,
-      "street": "Stallion Dr",
-      "city": "St. Clair",
-      "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:10:56Z"
-    },
-    {
-      "id": "fced15dd-fd2d-497c-917c-48f7d28eac9b",
-      "latitude": -34.862866,
-      "longitude": 138.679957,
+      "id": "f09907eb-a474-4484-9e6b-a9e63b349470",
+      "latitude": -34.862035,
+      "longitude": 138.679889,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T04:08:43Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T07:33:56Z"
     },
     {
-      "id": "898716f6-47cb-476d-9be4-ebc9bd29fac4",
-      "latitude": -34.959576,
-      "longitude": 138.590202,
+      "id": "ba9ec381-4f34-4daa-a483-bc04dfc13213",
+      "latitude": -35.020686,
+      "longitude": 138.61668,
+      "street": "Unknown Street",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T09:13:25Z"
+    },
+    {
+      "id": "14a482d5-458a-4f2b-a3b9-f818a83cb43f",
+      "latitude": -34.997719,
+      "longitude": 138.593218,
       "street": "Goodwood Rd",
-      "city": "Clarence Park",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:28:49Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T08:55:51Z"
     },
     {
-      "id": "404e2393-5d98-4256-ba43-e1595610cfad",
-      "latitude": -34.924721,
-      "longitude": 138.586956,
-      "street": "Glover Av",
-      "city": "Adelaide",
+      "id": "579941e3-bec4-487c-b22b-4b5639e511a3",
+      "latitude": -34.959528,
+      "longitude": 138.59011,
+      "street": "Goodwood Rd",
+      "city": "Millswood",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:13:49Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T07:24:38Z"
     },
     {
-      "id": "4ba5d903-c831-4aef-9a5f-da395a35bb7a",
-      "latitude": -34.920613,
-      "longitude": 138.59331,
+      "id": "221aa52a-977b-44a5-ae78-8e9e6b06b535",
+      "latitude": -34.923492,
+      "longitude": 138.579592,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T08:49:07Z"
+    },
+    {
+      "id": "4f01ed87-9fec-49bf-b784-21363a44f70f",
+      "latitude": -34.921302,
+      "longitude": 138.593358,
       "street": "Montefiore Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:14:57Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T08:36:46Z"
     },
     {
-      "id": "d9628906-b39e-4998-9cde-0a85fbad6340",
-      "latitude": -34.914234,
-      "longitude": 138.593606,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:13:34Z"
-    },
-    {
-      "id": "38873b82-46ec-438b-98ce-eff285e5100e",
-      "latitude": -34.938667,
-      "longitude": 138.61252,
+      "id": "efb594a9-db63-4d5b-841d-f8bfc1d1b3d6",
+      "latitude": -34.938549,
+      "longitude": 138.61257,
       "street": "Glen Osmond Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:26:18Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T08:42:50Z"
     },
     {
-      "id": "6822d828-c3c1-4f18-86fe-7b9879fad185",
-      "latitude": -34.859588,
-      "longitude": 138.63626,
-      "street": "Fosters Rd",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T04:55:33Z"
-    },
-    {
-      "id": "08cb6c28-1e79-4e0b-9efa-74739d09d2b7",
-      "latitude": -34.825441,
-      "longitude": 138.611197,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T06:32:51Z"
-    },
-    {
-      "id": "16a25d2b-391c-4732-bfa8-56c0738372e6",
-      "latitude": -34.815964,
-      "longitude": 138.641598,
+      "id": "c992da24-70d9-45ae-baf4-140d0ab7bd9c",
+      "latitude": -34.824938,
+      "longitude": 138.635134,
       "street": "Bridge Rd",
-      "city": "Pooraka",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T07:56:37Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T09:00:41Z"
+    },
+    {
+      "id": "5c74322a-4142-4fac-ae3e-8738ef7ce64b",
+      "latitude": -34.815076,
+      "longitude": 138.641557,
+      "street": "Maxwell Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T08:42:55Z"
     },
     {
       "id": "2bdf72f2-d268-4eab-8e05-60377be39767",
@@ -107,38 +97,48 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
+      "timestamp": "2025-11-30T09:19:01Z",
       "reported_at": "2025-11-30T06:35:30Z"
     },
     {
-      "id": "cd28fee6-f170-4d13-bfc3-fe11f115f05d",
-      "latitude": -34.813901,
-      "longitude": 138.642983,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
+      "id": "6208c3e6-0368-4084-9c28-74d51c10e72c",
+      "latitude": -34.824746,
+      "longitude": 138.615431,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:37:34Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T08:25:38Z"
     },
     {
-      "id": "7e20154e-e4b7-456a-9279-9db4adfe66f4",
-      "latitude": -34.894813,
-      "longitude": 138.637109,
+      "id": "6822d828-c3c1-4f18-86fe-7b9879fad185",
+      "latitude": -34.859588,
+      "longitude": 138.63626,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T04:55:33Z"
+    },
+    {
+      "id": "ed5b05d3-d1ae-41ae-a165-6c98ade07d17",
+      "latitude": -34.893867,
+      "longitude": 138.635766,
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T04:54:38Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T09:02:47Z"
     },
     {
-      "id": "0a0a37dd-89ba-40bf-ba07-298a6f3756c9",
-      "latitude": -34.860613,
-      "longitude": 138.684248,
+      "id": "b0bc9f77-5cbf-4baf-bf8b-1f62c752d118",
+      "latitude": -34.86086,
+      "longitude": 138.68385,
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
-      "reported_at": "2025-11-30T08:13:39Z"
+      "timestamp": "2025-11-30T09:19:01Z",
+      "reported_at": "2025-11-30T05:08:25Z"
     },
     {
       "id": "f2e8590d-7a56-48eb-a7c7-47ec36b62620",
@@ -147,7 +147,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
+      "timestamp": "2025-11-30T09:19:01Z",
       "reported_at": "2025-11-30T07:42:18Z"
     },
     {
@@ -157,7 +157,7 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2025-11-30T08:44:36Z",
+      "timestamp": "2025-11-30T09:19:01Z",
       "reported_at": "2025-11-30T07:49:46Z"
     }
   ]
