@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "f47788f9-2ef3-4a70-b620-325de1e13684",
-      "latitude": -34.990656,
-      "longitude": 138.595501,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T12:28:55Z"
-    },
-    {
       "id": "5a003820-9768-4d67-8bc2-e5c2130889e2",
       "latitude": -34.923502,
       "longitude": 138.576166,
       "street": "Henley Beach Rd",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
+      "timestamp": "2025-11-30T13:26:47Z",
       "reported_at": "2025-11-30T11:23:36Z"
-    },
-    {
-      "id": "5c74322a-4142-4fac-ae3e-8738ef7ce64b",
-      "latitude": -34.815076,
-      "longitude": 138.641557,
-      "street": "Maxwell Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T08:42:55Z"
-    },
-    {
-      "id": "ebc8abc9-c22c-4b50-a043-5837ca6dc3b1",
-      "latitude": -34.859716,
-      "longitude": 138.63627,
-      "street": "Fosters Rd",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T08:52:36Z"
-    },
-    {
-      "id": "3ba6d615-4c3c-4841-97e6-bb4b8a05fdd7",
-      "latitude": -34.836924,
-      "longitude": 138.621674,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T08:52:13Z"
     },
     {
       "id": "7590eb03-1440-4338-85e0-88c3e6424691",
@@ -57,48 +17,48 @@
       "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
+      "timestamp": "2025-11-30T13:26:47Z",
       "reported_at": "2025-11-30T10:09:59Z"
     },
     {
-      "id": "98c3df85-5819-46fb-ab43-9e6442997943",
-      "latitude": -34.832844,
-      "longitude": 138.698427,
-      "street": "Smart Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T08:54:18Z"
-    },
-    {
-      "id": "6ecb51f0-1ee7-4b51-8e0d-37547a2f3e4c",
-      "latitude": -34.973513,
-      "longitude": 138.573467,
+      "id": "d22f1a57-5aef-41be-9ea5-ff9bce782394",
+      "latitude": -34.971822,
+      "longitude": 138.573348,
       "street": "A2 - South Rd",
-      "city": "Clarence Gardens",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T12:18:43Z"
+      "timestamp": "2025-11-30T13:26:47Z",
+      "reported_at": "2025-11-30T12:24:30Z"
     },
     {
-      "id": "893614dc-426b-4b82-a5b4-4ab503218d90",
-      "latitude": -34.904934,
-      "longitude": 138.611056,
-      "street": "R1 - Mann Rd (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T12:07:30Z"
-    },
-    {
-      "id": "72fcd2a8-833c-4297-a6f0-456635f38928",
-      "latitude": -34.91541,
-      "longitude": 138.622924,
+      "id": "d186429f-1df5-419a-b65b-505d9ba62bb1",
+      "latitude": -34.915399,
+      "longitude": 138.622933,
       "street": "A11 - Payneham Rd",
       "city": "St. Peters",
       "type": "mobile",
-      "timestamp": "2025-11-30T12:38:15Z",
-      "reported_at": "2025-11-30T11:31:02Z"
+      "timestamp": "2025-11-30T13:26:47Z",
+      "reported_at": "2025-11-30T12:35:14Z"
+    },
+    {
+      "id": "1c31d412-79a4-4706-9498-e019d21e7fee",
+      "latitude": -34.903098,
+      "longitude": 138.609524,
+      "street": "R1 - Mann Rd (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-30T13:26:47Z",
+      "reported_at": "2025-11-30T13:13:16Z"
+    },
+    {
+      "id": "49480af4-774b-46da-8b9e-a57b4180a51a",
+      "latitude": -34.846939,
+      "longitude": 138.670119,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-11-30T13:26:47Z",
+      "reported_at": "2025-11-30T13:03:25Z"
     }
   ]
 }
