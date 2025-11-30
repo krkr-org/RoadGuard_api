@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "91460d6e-de86-4957-b027-3bc06e8bb74b",
+      "latitude": -34.910257,
+      "longitude": 138.581583,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T09:06:41Z"
+    },
+    {
       "id": "f09907eb-a474-4484-9e6b-a9e63b349470",
       "latitude": -34.862035,
       "longitude": 138.679889,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T07:33:56Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Unknown Street",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T09:13:25Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T08:55:51Z"
     },
     {
@@ -37,28 +47,18 @@
       "street": "Goodwood Rd",
       "city": "Millswood",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T07:24:38Z"
     },
     {
-      "id": "221aa52a-977b-44a5-ae78-8e9e6b06b535",
-      "latitude": -34.923492,
-      "longitude": 138.579592,
-      "street": "Henley Beach Rd",
-      "city": "Mile End",
+      "id": "629f471e-1533-4c9d-b713-bf0e0934ac01",
+      "latitude": -34.9124,
+      "longitude": 138.5934,
+      "street": "Jeffcott St",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
-      "reported_at": "2025-11-30T08:49:07Z"
-    },
-    {
-      "id": "4f01ed87-9fec-49bf-b784-21363a44f70f",
-      "latitude": -34.921302,
-      "longitude": 138.593358,
-      "street": "Montefiore Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
-      "reported_at": "2025-11-30T08:36:46Z"
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T09:12:19Z"
     },
     {
       "id": "efb594a9-db63-4d5b-841d-f8bfc1d1b3d6",
@@ -67,18 +67,28 @@
       "street": "Glen Osmond Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T08:42:50Z"
     },
     {
-      "id": "c992da24-70d9-45ae-baf4-140d0ab7bd9c",
-      "latitude": -34.824938,
-      "longitude": 138.635134,
+      "id": "391e4f85-caf2-4828-b95d-c523977fbca4",
+      "latitude": -34.816647,
+      "longitude": 138.641438,
       "street": "Bridge Rd",
-      "city": "Ingle Farm",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
-      "reported_at": "2025-11-30T09:00:41Z"
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T05:36:28Z"
+    },
+    {
+      "id": "08cb6c28-1e79-4e0b-9efa-74739d09d2b7",
+      "latitude": -34.825519,
+      "longitude": 138.610645,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T06:32:51Z"
     },
     {
       "id": "5c74322a-4142-4fac-ae3e-8738ef7ce64b",
@@ -87,8 +97,18 @@
       "street": "Maxwell Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T08:42:55Z"
+    },
+    {
+      "id": "ebc8abc9-c22c-4b50-a043-5837ca6dc3b1",
+      "latitude": -34.859716,
+      "longitude": 138.63627,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T08:52:36Z"
     },
     {
       "id": "2bdf72f2-d268-4eab-8e05-60377be39767",
@@ -97,38 +117,28 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T06:35:30Z"
     },
     {
-      "id": "6208c3e6-0368-4084-9c28-74d51c10e72c",
-      "latitude": -34.824746,
-      "longitude": 138.615431,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
+      "id": "4c9edb65-c405-4fe7-8c0d-f443cc5f31b3",
+      "latitude": -34.957444,
+      "longitude": 138.564772,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
-      "reported_at": "2025-11-30T08:25:38Z"
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T09:00:47Z"
     },
     {
-      "id": "6822d828-c3c1-4f18-86fe-7b9879fad185",
-      "latitude": -34.859588,
-      "longitude": 138.63626,
-      "street": "Fosters Rd",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
-      "reported_at": "2025-11-30T04:55:33Z"
-    },
-    {
-      "id": "ed5b05d3-d1ae-41ae-a165-6c98ade07d17",
-      "latitude": -34.893867,
-      "longitude": 138.635766,
+      "id": "cfbe76f9-c582-45c4-8452-fd9e7f5a1d24",
+      "latitude": -34.89398,
+      "longitude": 138.636093,
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
-      "reported_at": "2025-11-30T09:02:47Z"
+      "timestamp": "2025-11-30T09:38:56Z",
+      "reported_at": "2025-11-30T08:54:03Z"
     },
     {
       "id": "b0bc9f77-5cbf-4baf-bf8b-1f62c752d118",
@@ -137,7 +147,7 @@
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T05:08:25Z"
     },
     {
@@ -147,7 +157,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T07:42:18Z"
     },
     {
@@ -157,7 +167,7 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2025-11-30T09:19:01Z",
+      "timestamp": "2025-11-30T09:38:56Z",
       "reported_at": "2025-11-30T07:49:46Z"
     }
   ]
