@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "7908877c-13d4-45e5-be69-a3199f48dfb4",
-      "latitude": -34.921669,
-      "longitude": 138.598373,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "f47788f9-2ef3-4a70-b620-325de1e13684",
+      "latitude": -34.990656,
+      "longitude": 138.595501,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T10:53:45Z"
+      "timestamp": "2025-11-30T12:38:15Z",
+      "reported_at": "2025-11-30T12:28:55Z"
+    },
+    {
+      "id": "5a003820-9768-4d67-8bc2-e5c2130889e2",
+      "latitude": -34.923502,
+      "longitude": 138.576166,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2025-11-30T12:38:15Z",
+      "reported_at": "2025-11-30T11:23:36Z"
     },
     {
       "id": "5c74322a-4142-4fac-ae3e-8738ef7ce64b",
@@ -17,28 +27,8 @@
       "street": "Maxwell Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
+      "timestamp": "2025-11-30T12:38:15Z",
       "reported_at": "2025-11-30T08:42:55Z"
-    },
-    {
-      "id": "08cb6c28-1e79-4e0b-9efa-74739d09d2b7",
-      "latitude": -34.825519,
-      "longitude": 138.610645,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T06:32:51Z"
-    },
-    {
-      "id": "391e4f85-caf2-4828-b95d-c523977fbca4",
-      "latitude": -34.816647,
-      "longitude": 138.641438,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T05:36:28Z"
     },
     {
       "id": "ebc8abc9-c22c-4b50-a043-5837ca6dc3b1",
@@ -47,7 +37,7 @@
       "street": "Fosters Rd",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
+      "timestamp": "2025-11-30T12:38:15Z",
       "reported_at": "2025-11-30T08:52:36Z"
     },
     {
@@ -57,7 +47,7 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
+      "timestamp": "2025-11-30T12:38:15Z",
       "reported_at": "2025-11-30T08:52:13Z"
     },
     {
@@ -67,7 +57,7 @@
       "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
+      "timestamp": "2025-11-30T12:38:15Z",
       "reported_at": "2025-11-30T10:09:59Z"
     },
     {
@@ -77,68 +67,38 @@
       "street": "Smart Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
+      "timestamp": "2025-11-30T12:38:15Z",
       "reported_at": "2025-11-30T08:54:18Z"
     },
     {
-      "id": "4322f28b-d8c2-426d-aeab-547d8b56f27d",
-      "latitude": -34.964857,
-      "longitude": 138.646409,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
+      "id": "6ecb51f0-1ee7-4b51-8e0d-37547a2f3e4c",
+      "latitude": -34.973513,
+      "longitude": 138.573467,
+      "street": "A2 - South Rd",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T11:16:06Z"
+      "timestamp": "2025-11-30T12:38:15Z",
+      "reported_at": "2025-11-30T12:18:43Z"
     },
     {
-      "id": "a4d42a5e-752d-4d70-abd2-34ff7e8d5701",
-      "latitude": -34.915777,
-      "longitude": 138.622533,
-      "street": "A11 - North Tce",
-      "city": "College Park",
-      "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T11:27:09Z"
-    },
-    {
-      "id": "512bba96-a98f-4474-81ba-5f35d4bf7905",
-      "latitude": -34.916641,
-      "longitude": 138.614484,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T11:02:42Z"
-    },
-    {
-      "id": "ce750365-ca28-4a8d-a262-d0cbe98b3f35",
-      "latitude": -34.903972,
-      "longitude": 138.610236,
+      "id": "893614dc-426b-4b82-a5b4-4ab503218d90",
+      "latitude": -34.904934,
+      "longitude": 138.611056,
       "street": "R1 - Mann Rd (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T10:41:12Z"
+      "timestamp": "2025-11-30T12:38:15Z",
+      "reported_at": "2025-11-30T12:07:30Z"
     },
     {
-      "id": "9b21f767-e1b3-47bf-a0a3-d6009f681d0b",
-      "latitude": -34.860388,
-      "longitude": 138.684772,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
+      "id": "72fcd2a8-833c-4297-a6f0-456635f38928",
+      "latitude": -34.91541,
+      "longitude": 138.622924,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
       "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T06:12:07Z"
-    },
-    {
-      "id": "f2e8590d-7a56-48eb-a7c7-47ec36b62620",
-      "latitude": -34.840177,
-      "longitude": 138.714525,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2025-11-30T11:37:21Z",
-      "reported_at": "2025-11-30T07:42:18Z"
+      "timestamp": "2025-11-30T12:38:15Z",
+      "reported_at": "2025-11-30T11:31:02Z"
     }
   ]
 }
