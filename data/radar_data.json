@@ -1,24 +1,94 @@
 {
   "radars": [
     {
-      "id": "896deb90-6755-4d5a-91c7-3cd486cd4f66",
-      "latitude": -35.127294,
-      "longitude": 138.510876,
-      "street": "Kenneth Rd",
-      "city": "Morphett Vale",
+      "id": "fe8278e9-67c6-4164-9c5f-53c45b2e528b",
+      "latitude": -35.095127,
+      "longitude": 138.526945,
+      "street": "The Strand",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-11-29T23:38:35Z",
-      "reported_at": "2025-11-29T23:18:50Z"
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-29T23:12:39Z"
     },
     {
-      "id": "2c6004ec-fe2e-441f-8556-b621b7bd476c",
-      "latitude": -35.135567,
-      "longitude": 138.485945,
+      "id": "08e0f421-31a8-4853-9c5d-bdd509c98ef0",
+      "latitude": -35.119424,
+      "longitude": 138.535873,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-29T23:51:11Z"
+    },
+    {
+      "id": "6fb5c53d-2113-44f9-a61f-841f119583ea",
+      "latitude": -34.926332,
+      "longitude": 138.517024,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-30T00:48:15Z"
+    },
+    {
+      "id": "3ef50e55-27f5-49de-bb2f-09032b431f76",
+      "latitude": -34.809285,
+      "longitude": 138.6316,
+      "street": "Maxwell Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-30T01:08:34Z"
+    },
+    {
+      "id": "9bcf1305-65b3-4d93-b611-c1d155b5874b",
+      "latitude": -35.139564,
+      "longitude": 138.486354,
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2025-11-29T23:38:35Z",
-      "reported_at": "2025-11-29T20:44:21Z"
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-30T00:59:25Z"
+    },
+    {
+      "id": "d9e6cce0-a634-4b20-a0c7-eb9060d87d38",
+      "latitude": -35.135513,
+      "longitude": 138.486096,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-29T20:55:36Z"
+    },
+    {
+      "id": "bad563d8-060c-467b-b59a-0d3b772e84f7",
+      "latitude": -34.923134,
+      "longitude": 138.641095,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-30T01:31:42Z"
+    },
+    {
+      "id": "4dd86f1a-f728-41d6-9c1b-c3608885ee72",
+      "latitude": -34.833905,
+      "longitude": 138.598962,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-30T00:13:00Z"
+    },
+    {
+      "id": "f9bf8d8f-803b-4716-9227-c1ddd8ca3afd",
+      "latitude": -34.868877,
+      "longitude": 138.601692,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2025-11-30T01:49:22Z",
+      "reported_at": "2025-11-30T01:16:46Z"
     }
   ]
 }
