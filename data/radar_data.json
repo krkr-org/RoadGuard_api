@@ -1,54 +1,94 @@
 {
   "radars": [
     {
-      "id": "822c82b7-3783-45de-b9a3-dc590a5b35c6",
-      "latitude": -34.994365,
-      "longitude": 138.529931,
-      "street": "Panton Cr",
-      "city": "Somerton Park",
+      "id": "2676bcc9-099f-4978-8601-816a4af7c701",
+      "latitude": -34.866206,
+      "longitude": 138.531598,
+      "street": "Stallion Dr",
+      "city": "St. Clair",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T03:53:45Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:10:56Z"
     },
     {
-      "id": "3ba817bb-b305-46ac-a4af-d432eee6d989",
-      "latitude": -34.86624,
-      "longitude": 138.619544,
-      "street": "Redward Av",
-      "city": "Lightsview",
+      "id": "fced15dd-fd2d-497c-917c-48f7d28eac9b",
+      "latitude": -34.862866,
+      "longitude": 138.679957,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T07:29:28Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T04:08:43Z"
     },
     {
-      "id": "f2a0b872-f1c1-4a4e-b116-b115d01bb1e0",
-      "latitude": -34.865137,
-      "longitude": 138.583181,
-      "street": "Unknown Street",
-      "city": "Kilburn",
+      "id": "9714f6c1-d12e-4bf9-82ab-45519fad3809",
+      "latitude": -34.863469,
+      "longitude": 138.529367,
+      "street": "Addison Rd",
+      "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T07:20:59Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T07:51:18Z"
     },
     {
-      "id": "9cd12690-0971-48bf-b821-e5e248e2949a",
-      "latitude": -34.935143,
-      "longitude": 138.61262,
-      "street": "Hutt Rd",
+      "id": "404e2393-5d98-4256-ba43-e1595610cfad",
+      "latitude": -34.924721,
+      "longitude": 138.586956,
+      "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T07:25:24Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:13:49Z"
     },
     {
-      "id": "53ca492d-8635-45c8-8b18-e5c8f8cc6a0b",
-      "latitude": -34.93393,
-      "longitude": 138.612402,
-      "street": "Hutt St",
+      "id": "4ba5d903-c831-4aef-9a5f-da395a35bb7a",
+      "latitude": -34.920613,
+      "longitude": 138.59331,
+      "street": "Montefiore Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T07:32:33Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:14:57Z"
+    },
+    {
+      "id": "d9628906-b39e-4998-9cde-0a85fbad6340",
+      "latitude": -34.914234,
+      "longitude": 138.593606,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:13:34Z"
+    },
+    {
+      "id": "9f9de7dd-800d-4a94-a203-328b683a0858",
+      "latitude": -34.923492,
+      "longitude": 138.579304,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T07:28:45Z"
+    },
+    {
+      "id": "dd53f3c1-01bb-4f47-93b3-4846e74862ea",
+      "latitude": -34.937643,
+      "longitude": 138.61086,
+      "street": "Glen Osmond Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T07:44:08Z"
+    },
+    {
+      "id": "579941e3-bec4-487c-b22b-4b5639e511a3",
+      "latitude": -34.959528,
+      "longitude": 138.59011,
+      "street": "Goodwood Rd",
+      "city": "Millswood",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T07:24:38Z"
     },
     {
       "id": "391e4f85-caf2-4828-b95d-c523977fbca4",
@@ -57,7 +97,7 @@
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
+      "timestamp": "2025-11-30T08:24:44Z",
       "reported_at": "2025-11-30T05:36:28Z"
     },
     {
@@ -67,8 +107,18 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
+      "timestamp": "2025-11-30T08:24:44Z",
       "reported_at": "2025-11-30T06:35:30Z"
+    },
+    {
+      "id": "6df4d560-b2a7-42f8-9a6a-9c07ec3b50c0",
+      "latitude": -34.825311,
+      "longitude": 138.611342,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:15:08Z"
     },
     {
       "id": "6822d828-c3c1-4f18-86fe-7b9879fad185",
@@ -77,18 +127,18 @@
       "street": "Fosters Rd",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
+      "timestamp": "2025-11-30T08:24:44Z",
       "reported_at": "2025-11-30T04:55:33Z"
     },
     {
-      "id": "08cb6c28-1e79-4e0b-9efa-74739d09d2b7",
-      "latitude": -34.825441,
-      "longitude": 138.611197,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
+      "id": "83e2f2be-726a-4724-92b6-143b7a912cda",
+      "latitude": -34.852235,
+      "longitude": 138.51204,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T06:32:51Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T07:59:14Z"
     },
     {
       "id": "7e20154e-e4b7-456a-9279-9db4adfe66f4",
@@ -97,18 +147,48 @@
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
+      "timestamp": "2025-11-30T08:24:44Z",
       "reported_at": "2025-11-30T04:54:38Z"
     },
     {
-      "id": "b0bc9f77-5cbf-4baf-bf8b-1f62c752d118",
-      "latitude": -34.86086,
-      "longitude": 138.68385,
+      "id": "c09ab28e-5157-448c-b1b4-a58e4cab57e7",
+      "latitude": -34.860928,
+      "longitude": 138.683931,
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-11-30T07:37:34Z",
-      "reported_at": "2025-11-30T05:08:25Z"
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T04:55:29Z"
+    },
+    {
+      "id": "f7368615-b3a8-498b-b16c-4af4888d724b",
+      "latitude": -34.851712,
+      "longitude": 138.521367,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:00:16Z"
+    },
+    {
+      "id": "f3b80d36-bdfa-4305-b4e2-a072dd079147",
+      "latitude": -34.768397,
+      "longitude": 138.67527,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T07:49:46Z"
+    },
+    {
+      "id": "91bb6c72-45bc-4b60-9855-253c7d9be1ef",
+      "latitude": -34.869373,
+      "longitude": 138.570625,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-11-30T08:24:44Z",
+      "reported_at": "2025-11-30T08:00:04Z"
     }
   ]
 }
