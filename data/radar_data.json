@@ -1,34 +1,74 @@
 {
   "radars": [
     {
-      "id": "2d50dabd-b13c-4e6b-8f30-3409c4cd9880",
-      "latitude": -35.094485,
-      "longitude": 138.529046,
-      "street": "Grant Rd",
-      "city": "Reynella",
+      "id": "440dfb5b-306e-46e9-bc96-cf883ebcc492",
+      "latitude": -34.859821,
+      "longitude": 138.656068,
+      "street": "Seymour Av",
+      "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2025-11-30T04:53:01Z",
-      "reported_at": "2025-11-30T02:01:09Z"
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T05:03:34Z"
     },
     {
-      "id": "c57629a0-f415-4ea9-9be0-96ff7b17f928",
-      "latitude": -35.07753,
-      "longitude": 138.514604,
-      "street": "Patpa Dr",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2025-11-30T04:53:01Z",
-      "reported_at": "2025-11-30T04:19:33Z"
-    },
-    {
-      "id": "2397e666-8521-4eab-afbe-ba707a4488fc",
-      "latitude": -35.077348,
-      "longitude": 138.524624,
+      "id": "3fa39f7a-104f-4fe3-b992-8c91f274a005",
+      "latitude": -35.076999,
+      "longitude": 138.525266,
       "street": "Patpa Dr",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2025-11-30T04:53:01Z",
-      "reported_at": "2025-11-30T04:11:53Z"
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T05:07:59Z"
+    },
+    {
+      "id": "d8e5cdc0-c887-4027-8fa3-fcad5ac453f4",
+      "latitude": -34.88424,
+      "longitude": 138.486073,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T05:01:45Z"
+    },
+    {
+      "id": "2b5af215-d872-4301-81e5-9372b33a172a",
+      "latitude": -35.002213,
+      "longitude": 138.590261,
+      "street": "Fiveash Dr",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T05:08:18Z"
+    },
+    {
+      "id": "07d7e333-76ed-419f-a7e6-b56f83118d47",
+      "latitude": -34.923557,
+      "longitude": 138.60562,
+      "street": "Pulteney St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T04:53:16Z"
+    },
+    {
+      "id": "6822d828-c3c1-4f18-86fe-7b9879fad185",
+      "latitude": -34.859588,
+      "longitude": 138.63626,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T04:55:33Z"
+    },
+    {
+      "id": "b47864de-d82c-4475-8a6f-45c0b419563b",
+      "latitude": -34.825298,
+      "longitude": 138.611437,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T04:52:37Z"
     },
     {
       "id": "28bf55c3-a8e6-4930-940e-aa21265e451d",
@@ -37,7 +77,7 @@
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-11-30T04:53:01Z",
+      "timestamp": "2025-11-30T05:20:12Z",
       "reported_at": "2025-11-30T04:44:31Z"
     },
     {
@@ -47,8 +87,28 @@
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-11-30T04:53:01Z",
+      "timestamp": "2025-11-30T05:20:12Z",
       "reported_at": "2025-11-30T04:49:12Z"
+    },
+    {
+      "id": "c09ab28e-5157-448c-b1b4-a58e4cab57e7",
+      "latitude": -34.860928,
+      "longitude": 138.683931,
+      "street": "A11 - Lower North East Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T04:55:29Z"
+    },
+    {
+      "id": "14f4dc27-988f-4901-b213-571f88aa3fd6",
+      "latitude": -35.017413,
+      "longitude": 138.783903,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2025-11-30T05:20:12Z",
+      "reported_at": "2025-11-30T05:17:23Z"
     }
   ]
 }
