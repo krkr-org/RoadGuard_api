@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "119c288f-4136-4c4e-a2cf-b3ca66e1dd29",
+      "latitude": -34.921044,
+      "longitude": 138.584164,
+      "street": "Port Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-11-30T20:41:28Z",
+      "reported_at": "2025-11-30T20:23:20Z"
+    },
+    {
+      "id": "9e647270-3e30-402e-a8db-dc430273b1d1",
+      "latitude": -34.964359,
+      "longitude": 138.516588,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2025-11-30T20:41:28Z",
+      "reported_at": "2025-11-30T20:36:49Z"
+    },
+    {
+      "id": "a52cad36-c630-4092-b4c3-345cd288b922",
+      "latitude": -34.941888,
+      "longitude": 138.606799,
+      "street": "B29 - Unley Rd",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2025-11-30T20:41:28Z",
+      "reported_at": "2025-11-30T20:36:53Z"
+    }
+  ]
 }
