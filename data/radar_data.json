@@ -1,134 +1,54 @@
 {
   "radars": [
     {
-      "id": "5e668dc6-da17-4788-9c2b-c23f791911b7",
-      "latitude": -34.721907,
-      "longitude": 138.642892,
+      "id": "49bfa85e-4544-4af2-b1ff-22c791c7b85f",
+      "latitude": -34.721298,
+      "longitude": 138.643275,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:18:36Z"
+      "timestamp": "2025-12-01T05:50:31Z",
+      "reported_at": "2025-12-01T05:01:32Z"
     },
     {
-      "id": "3fdedfb3-fc3c-4205-bb88-9926261f67ad",
-      "latitude": -34.915898,
-      "longitude": 138.587855,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T04:33:52Z"
-    },
-    {
-      "id": "b798db79-d80e-4008-94e2-c789696c98a4",
-      "latitude": -35.123328,
-      "longitude": 138.510613,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:06:40Z"
-    },
-    {
-      "id": "d802a39f-fc06-442e-8e38-114e625169ab",
-      "latitude": -34.917864,
-      "longitude": 138.622895,
-      "street": "Fullarton Rd",
+      "id": "4a345506-d5eb-4e66-b65d-8859bfddb1b2",
+      "latitude": -34.919279,
+      "longitude": 138.620745,
+      "street": "Rundle St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:08:59Z"
+      "timestamp": "2025-12-01T05:50:31Z",
+      "reported_at": "2025-12-01T05:03:19Z"
     },
     {
-      "id": "481b7427-607c-46f4-8956-000cf29c94bd",
-      "latitude": -34.874386,
-      "longitude": 138.586998,
-      "street": "Regency Rd",
-      "city": "Prospect",
+      "id": "8291f7dc-94a8-4647-a514-fca4a7189ff2",
+      "latitude": -35.119087,
+      "longitude": 138.548473,
+      "street": "Panalatinga Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:16:09Z"
+      "timestamp": "2025-12-01T05:50:31Z",
+      "reported_at": "2025-12-01T05:35:14Z"
     },
     {
-      "id": "43612abe-3034-424a-b812-50ef195e3047",
-      "latitude": -34.730855,
-      "longitude": 138.72344,
-      "street": "Black Top Rd",
-      "city": "Gould Creek",
+      "id": "4743a78b-9ab9-4d2a-bab3-cc8926a16586",
+      "latitude": -35.047071,
+      "longitude": 138.560206,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:11:16Z"
+      "timestamp": "2025-12-01T05:50:31Z",
+      "reported_at": "2025-12-01T05:24:11Z"
     },
     {
-      "id": "2626313a-ec16-4818-afe1-b20707d5fdc8",
-      "latitude": -34.737273,
-      "longitude": 138.616302,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T02:18:21Z"
-    },
-    {
-      "id": "2bfdd085-14f1-4852-8296-7ec162200933",
-      "latitude": -34.715241,
-      "longitude": 138.672966,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:13:01Z"
-    },
-    {
-      "id": "b4961ab4-8cce-4767-9235-8f7a4c27ca3a",
-      "latitude": -34.815093,
-      "longitude": 138.501331,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:20:32Z"
-    },
-    {
-      "id": "f10ae637-8c1b-43f7-82c7-14d77b7e784e",
-      "latitude": -34.790874,
-      "longitude": 138.501546,
-      "street": "A16 - Victoria Rd",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T04:33:05Z"
-    },
-    {
-      "id": "2c8d75a6-982a-4117-81f3-5e1d20627dce",
-      "latitude": -34.93221,
-      "longitude": 138.547674,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:12:49Z"
-    },
-    {
-      "id": "0a22d709-56d5-40cc-9cb0-493c94a30550",
-      "latitude": -34.946349,
-      "longitude": 138.607154,
+      "id": "f98a7bc8-0e44-4678-b83a-04049a59bc49",
+      "latitude": -34.949889,
+      "longitude": 138.607424,
       "street": "B29 - Unley Rd",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T05:00:06Z"
-    },
-    {
-      "id": "bb334809-26b9-4384-be26-b47f941e3f3f",
-      "latitude": -34.856521,
-      "longitude": 138.692143,
-      "street": "A11 - Lower North East Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2025-12-01T05:28:28Z",
-      "reported_at": "2025-12-01T04:42:49Z"
+      "timestamp": "2025-12-01T05:50:31Z",
+      "reported_at": "2025-12-01T05:40:17Z"
     }
   ]
 }
