@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "556656d5-8372-496a-a0a7-860bdf3e8c9d",
-      "latitude": -34.919967,
-      "longitude": 138.566979,
-      "street": "North Pde",
-      "city": "Torrensville",
-      "type": "mobile",
-      "timestamp": "2025-12-01T03:53:43Z",
-      "reported_at": "2025-12-01T01:45:22Z"
-    },
-    {
       "id": "7a5fabd2-4532-48fe-b315-50f270ee06b5",
       "latitude": -34.979835,
       "longitude": 138.52703,
       "street": "Maxwell Tce",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2025-12-01T03:53:43Z",
+      "timestamp": "2025-12-01T04:50:42Z",
       "reported_at": "2025-12-01T00:01:16Z"
+    },
+    {
+      "id": "3fbe51a2-6412-4a50-8933-a7f8a9bf8fa7",
+      "latitude": -34.920066,
+      "longitude": 138.564714,
+      "street": "North Pde",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T01:19:00Z"
     },
     {
       "id": "466aa897-d45f-4e0a-8046-13642fdf75c7",
@@ -27,8 +27,88 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-01T03:53:43Z",
+      "timestamp": "2025-12-01T04:50:42Z",
       "reported_at": "2025-12-01T01:13:40Z"
+    },
+    {
+      "id": "3fdedfb3-fc3c-4205-bb88-9926261f67ad",
+      "latitude": -34.915898,
+      "longitude": 138.587855,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:33:52Z"
+    },
+    {
+      "id": "9943611f-2c03-49f1-97f4-5219c420809d",
+      "latitude": -34.918352,
+      "longitude": 138.622682,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:07:35Z"
+    },
+    {
+      "id": "7b4b866e-e62f-4e07-b5ff-1aa2bdc4341d",
+      "latitude": -35.124297,
+      "longitude": 138.536251,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:31:57Z"
+    },
+    {
+      "id": "2626313a-ec16-4818-afe1-b20707d5fdc8",
+      "latitude": -34.737273,
+      "longitude": 138.616302,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T02:18:21Z"
+    },
+    {
+      "id": "5f970db1-a5bf-4904-b9fd-fe158fb60013",
+      "latitude": -35.137853,
+      "longitude": 138.48625,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:43:14Z"
+    },
+    {
+      "id": "c79de8f4-9f51-4452-ae66-49c731120daf",
+      "latitude": -34.800346,
+      "longitude": 138.501495,
+      "street": "A16 - Victoria Rd",
+      "city": "Osborne",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:34:10Z"
+    },
+    {
+      "id": "eeb020d0-d9c6-4195-b3b8-8bdec9d52714",
+      "latitude": -34.931954,
+      "longitude": 138.569843,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Hilton",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:44:43Z"
+    },
+    {
+      "id": "0f87ef7f-ab81-4984-aa24-c21b83d8675f",
+      "latitude": -34.680068,
+      "longitude": 138.60984,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-01T04:50:42Z",
+      "reported_at": "2025-12-01T04:49:34Z"
     }
   ]
 }
