@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "2d8ac8b7-a5b0-4667-99be-8b13d8d41382",
-      "latitude": -34.725237,
-      "longitude": 138.633749,
-      "street": "Sturton Rd",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
-      "reported_at": "2025-12-01T05:16:50Z"
-    },
-    {
       "id": "ae3ad539-9cdf-4c0a-939a-2b5f6edc3520",
       "latitude": -34.759924,
       "longitude": 138.664113,
       "street": "Goddard Dr",
       "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
+      "timestamp": "2025-12-01T10:24:30Z",
       "reported_at": "2025-12-01T06:53:48Z"
+    },
+    {
+      "id": "876a56ab-a883-48c9-badf-0f59186223e5",
+      "latitude": -34.851046,
+      "longitude": 138.67156,
+      "street": "Valiant Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-01T10:24:30Z",
+      "reported_at": "2025-12-01T09:31:15Z"
     },
     {
       "id": "5e668dc6-da17-4788-9c2b-c23f791911b7",
@@ -27,28 +27,18 @@
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
+      "timestamp": "2025-12-01T10:24:30Z",
       "reported_at": "2025-12-01T05:18:36Z"
     },
     {
-      "id": "1b916c85-33a2-4004-8531-9194245dcb76",
-      "latitude": -35.024603,
-      "longitude": 138.55897,
-      "street": "to M2 - Southern Exp",
-      "city": "Sturt",
+      "id": "1f87d136-a293-4f8e-8e8f-127d13746b0b",
+      "latitude": -34.807389,
+      "longitude": 138.626885,
+      "street": "Elder Smith Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
-      "reported_at": "2025-12-01T09:36:20Z"
-    },
-    {
-      "id": "ca221fc7-1bb0-4829-89c1-6256e4832fc5",
-      "latitude": -34.667717,
-      "longitude": 138.560865,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
-      "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
-      "reported_at": "2025-12-01T06:47:49Z"
+      "timestamp": "2025-12-01T10:24:30Z",
+      "reported_at": "2025-12-01T09:52:15Z"
     },
     {
       "id": "ddb869d4-4ab5-4f39-ac6b-0b3227d5f8d9",
@@ -57,7 +47,7 @@
       "street": "Black Top Rd",
       "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
+      "timestamp": "2025-12-01T10:24:30Z",
       "reported_at": "2025-12-01T06:22:03Z"
     },
     {
@@ -67,18 +57,38 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
+      "timestamp": "2025-12-01T10:24:30Z",
       "reported_at": "2025-12-01T05:06:54Z"
     },
     {
-      "id": "ace1938f-0081-47e1-898b-d4bd34bfacb8",
-      "latitude": -35.047645,
-      "longitude": 138.548873,
+      "id": "ca221fc7-1bb0-4829-89c1-6256e4832fc5",
+      "latitude": -34.667717,
+      "longitude": 138.560865,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2025-12-01T10:24:30Z",
+      "reported_at": "2025-12-01T06:47:49Z"
+    },
+    {
+      "id": "86265349-bea0-4077-afac-eaa7962fef81",
+      "latitude": -34.868087,
+      "longitude": 138.641289,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2025-12-01T10:24:30Z",
+      "reported_at": "2025-12-01T09:55:45Z"
+    },
+    {
+      "id": "ed03db0a-53a9-47ad-803e-95a232f5f1df",
+      "latitude": -35.042781,
+      "longitude": 138.553498,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2025-12-01T09:51:04Z",
-      "reported_at": "2025-12-01T09:32:04Z"
+      "timestamp": "2025-12-01T10:24:30Z",
+      "reported_at": "2025-12-01T09:52:06Z"
     }
   ]
 }
