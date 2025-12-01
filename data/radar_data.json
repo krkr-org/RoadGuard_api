@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "ea64002f-3a34-4455-b0b5-7493f839145a",
+      "latitude": -34.893542,
+      "longitude": 138.603866,
+      "street": "Nottage Tce",
+      "city": "Medindie Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-01T19:21:34Z",
+      "reported_at": "2025-12-01T19:06:52Z"
+    },
+    {
+      "id": "501222de-66a3-423e-bf5a-443d4c41c7e4",
+      "latitude": -34.791888,
+      "longitude": 138.64721,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-01T19:21:34Z",
+      "reported_at": "2025-12-01T18:58:20Z"
+    }
+  ]
 }
