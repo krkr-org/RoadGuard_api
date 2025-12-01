@@ -1,54 +1,124 @@
 {
   "radars": [
     {
+      "id": "5fc7ae7c-f457-4689-ba4f-de74fbf53076",
+      "latitude": -34.79593,
+      "longitude": 138.641105,
+      "street": "Nobby Buckley Dr",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T05:19:59Z"
+    },
+    {
+      "id": "d2aae6db-1db7-4088-99ed-55a1eecc5382",
+      "latitude": -34.794123,
+      "longitude": 138.642514,
+      "street": "Lawrence Hargrave Way",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T05:51:19Z"
+    },
+    {
+      "id": "9d297bfc-72a1-4834-9238-85256356963d",
+      "latitude": -34.920337,
+      "longitude": 138.618703,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T06:31:10Z"
+    },
+    {
       "id": "49bfa85e-4544-4af2-b1ff-22c791c7b85f",
       "latitude": -34.721298,
       "longitude": 138.643275,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:50:31Z",
+      "timestamp": "2025-12-01T06:34:40Z",
       "reported_at": "2025-12-01T05:01:32Z"
     },
     {
-      "id": "4a345506-d5eb-4e66-b65d-8859bfddb1b2",
-      "latitude": -34.919279,
-      "longitude": 138.620745,
-      "street": "Rundle St",
+      "id": "eefdae84-7050-4202-ae1d-5d01b988963b",
+      "latitude": -34.700143,
+      "longitude": 138.720564,
+      "street": "Uley Rd",
+      "city": "Craigmore",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T05:31:12Z"
+    },
+    {
+      "id": "57cdc2fa-153c-4a0e-9236-5ed95468061e",
+      "latitude": -34.921727,
+      "longitude": 138.620925,
+      "street": "The Parade West",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:50:31Z",
-      "reported_at": "2025-12-01T05:03:19Z"
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T05:56:07Z"
     },
     {
-      "id": "8291f7dc-94a8-4647-a514-fca4a7189ff2",
-      "latitude": -35.119087,
-      "longitude": 138.548473,
-      "street": "Panalatinga Rd",
-      "city": "Morphett Vale",
+      "id": "377738f6-6ea1-4b09-b5d9-72b4b100ac63",
+      "latitude": -34.805126,
+      "longitude": 138.646691,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:50:31Z",
-      "reported_at": "2025-12-01T05:35:14Z"
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T06:13:46Z"
     },
     {
-      "id": "4743a78b-9ab9-4d2a-bab3-cc8926a16586",
-      "latitude": -35.047071,
-      "longitude": 138.560206,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
+      "id": "d2971c33-fcec-4390-88ab-4af5e37ab1bc",
+      "latitude": -34.804936,
+      "longitude": 138.615159,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:50:31Z",
-      "reported_at": "2025-12-01T05:24:11Z"
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T06:22:28Z"
     },
     {
-      "id": "f98a7bc8-0e44-4678-b83a-04049a59bc49",
-      "latitude": -34.949889,
-      "longitude": 138.607424,
+      "id": "0bb0c7e5-4429-47b2-acc1-25c84387247e",
+      "latitude": -34.857326,
+      "longitude": 138.668311,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T06:07:41Z"
+    },
+    {
+      "id": "d54e335e-a53d-4761-94b6-18cf73800843",
+      "latitude": -34.731194,
+      "longitude": 138.722386,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T05:49:09Z"
+    },
+    {
+      "id": "c5c0e1ab-b462-4579-89ea-a05ed6af3b3a",
+      "latitude": -34.950974,
+      "longitude": 138.607507,
       "street": "B29 - Unley Rd",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-12-01T05:50:31Z",
-      "reported_at": "2025-12-01T05:40:17Z"
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T05:54:27Z"
+    },
+    {
+      "id": "22c7ab20-0e42-48c7-92b6-8f4f0f0096d4",
+      "latitude": -34.785066,
+      "longitude": 138.636012,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2025-12-01T06:34:40Z",
+      "reported_at": "2025-12-01T06:07:11Z"
     }
   ]
 }
