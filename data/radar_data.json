@@ -1,34 +1,34 @@
 {
   "radars": [
     {
+      "id": "2d8ac8b7-a5b0-4667-99be-8b13d8d41382",
+      "latitude": -34.725237,
+      "longitude": 138.633749,
+      "street": "Sturton Rd",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-12-01T09:29:28Z",
+      "reported_at": "2025-12-01T05:16:50Z"
+    },
+    {
       "id": "ae3ad539-9cdf-4c0a-939a-2b5f6edc3520",
       "latitude": -34.759924,
       "longitude": 138.664113,
       "street": "Goddard Dr",
       "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
+      "timestamp": "2025-12-01T09:29:28Z",
       "reported_at": "2025-12-01T06:53:48Z"
     },
     {
-      "id": "83bac9b2-0f88-47cb-87dc-de475a03ffd4",
-      "latitude": -34.696025,
-      "longitude": 138.666399,
-      "street": "Fordingbridge Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T05:14:59Z"
-    },
-    {
-      "id": "0d32437b-976a-4b79-90f9-936bdeaff345",
-      "latitude": -34.721916,
-      "longitude": 138.642887,
+      "id": "5e668dc6-da17-4788-9c2b-c23f791911b7",
+      "latitude": -34.721907,
+      "longitude": 138.642892,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T04:54:08Z"
+      "timestamp": "2025-12-01T09:29:28Z",
+      "reported_at": "2025-12-01T05:18:36Z"
     },
     {
       "id": "eefdae84-7050-4202-ae1d-5d01b988963b",
@@ -37,78 +37,38 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
+      "timestamp": "2025-12-01T09:29:28Z",
       "reported_at": "2025-12-01T05:31:12Z"
     },
     {
-      "id": "c985bc46-560e-473d-92f6-b84e9c28ca25",
-      "latitude": -34.91989,
-      "longitude": 138.662641,
-      "street": "The Parade",
-      "city": "Kensington Gardens",
+      "id": "ca221fc7-1bb0-4829-89c1-6256e4832fc5",
+      "latitude": -34.667717,
+      "longitude": 138.560865,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T07:05:02Z"
+      "timestamp": "2025-12-01T09:29:28Z",
+      "reported_at": "2025-12-01T06:47:49Z"
     },
     {
-      "id": "6bd070da-ccd8-4c21-bfdc-5d198c2b20c1",
-      "latitude": -34.807699,
-      "longitude": 138.627982,
-      "street": "Elder Smith Rd",
-      "city": "Parafield",
+      "id": "aeecb492-8db2-44a8-b0de-b9e98b493410",
+      "latitude": -34.69592,
+      "longitude": 138.666531,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T08:07:19Z"
+      "timestamp": "2025-12-01T09:29:28Z",
+      "reported_at": "2025-12-01T05:06:54Z"
     },
     {
-      "id": "d42ea6e3-2237-4cb8-b27b-fc14a94d137c",
-      "latitude": -34.807186,
-      "longitude": 138.625284,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "88d7ffb0-f75f-4fb5-9eb8-6fbeef92e971",
+      "latitude": -34.740475,
+      "longitude": 138.711383,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T08:06:30Z"
-    },
-    {
-      "id": "37d84e3b-6000-46a3-9984-60d0be062fc9",
-      "latitude": -34.879187,
-      "longitude": 138.635203,
-      "street": "O.G Rd",
-      "city": "Klemzig",
-      "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T08:07:29Z"
-    },
-    {
-      "id": "1a1076ae-8599-4af2-b235-178d29545b46",
-      "latitude": -35.042255,
-      "longitude": 138.560622,
-      "street": "A13 - Main South Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T07:53:00Z"
-    },
-    {
-      "id": "8977f530-22f7-4068-959e-e7e4ba74e2c1",
-      "latitude": -34.979726,
-      "longitude": 138.52025,
-      "street": "A15 - Brighton Rd",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T08:21:03Z"
-    },
-    {
-      "id": "3e3596c7-8aa0-430c-9ece-ea6e887c2596",
-      "latitude": -35.126001,
-      "longitude": 138.505989,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-01T08:32:37Z",
-      "reported_at": "2025-12-01T08:26:30Z"
+      "timestamp": "2025-12-01T09:29:28Z",
+      "reported_at": "2025-12-01T05:48:48Z"
     }
   ]
 }
