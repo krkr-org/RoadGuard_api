@@ -1,34 +1,74 @@
 {
   "radars": [
     {
-      "id": "e83ffd73-aec0-4d50-9fe2-8f99d3054bbb",
-      "latitude": -34.938742,
-      "longitude": 138.534357,
-      "street": "Western Link Rd",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2025-12-01T21:17:25Z",
-      "reported_at": "2025-12-01T21:01:59Z"
-    },
-    {
       "id": "8a985258-3ee3-4422-85e1-10f017131e5c",
       "latitude": -34.862974,
       "longitude": 138.652714,
       "street": "Pitman Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-01T21:17:25Z",
+      "timestamp": "2025-12-01T21:36:57Z",
       "reported_at": "2025-12-01T20:56:43Z"
     },
     {
-      "id": "ce7fee7e-7dd2-4856-9f05-0294be91a2b7",
-      "latitude": -34.920031,
-      "longitude": 138.619295,
+      "id": "84e9e1ea-6217-461a-beab-103b9c2fd09b",
+      "latitude": -34.895974,
+      "longitude": 138.604527,
+      "street": "Dutton Tce",
+      "city": "Medindie",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:11:39Z"
+    },
+    {
+      "id": "e83ffd73-aec0-4d50-9fe2-8f99d3054bbb",
+      "latitude": -34.938742,
+      "longitude": 138.534357,
+      "street": "Western Link Rd",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:01:59Z"
+    },
+    {
+      "id": "2433ae7e-f228-4cee-8a4e-d7cc1a25d0fb",
+      "latitude": -34.921545,
+      "longitude": 138.628658,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:22:51Z"
+    },
+    {
+      "id": "f816d372-2f29-4cbf-bdcd-00bb57ac0ea4",
+      "latitude": -34.891809,
+      "longitude": 138.661607,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:20:32Z"
+    },
+    {
+      "id": "5c409fc5-1cbe-4e6e-8465-4df13e793d47",
+      "latitude": -34.920076,
+      "longitude": 138.619209,
       "street": "Rundle St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T21:17:25Z",
-      "reported_at": "2025-12-01T21:03:47Z"
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:27:50Z"
+    },
+    {
+      "id": "8108ecdf-dc9b-4c77-86d8-9519d44a1e98",
+      "latitude": -34.85976,
+      "longitude": 138.679708,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:30:40Z"
     },
     {
       "id": "aa435f71-6be8-400d-bac2-25b80d94fb25",
@@ -37,8 +77,58 @@
       "street": "Fullarton Rd",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T21:17:25Z",
+      "timestamp": "2025-12-01T21:36:57Z",
       "reported_at": "2025-12-01T20:59:38Z"
+    },
+    {
+      "id": "0b25d096-7528-4f4c-ba44-a0bdb63cbbc7",
+      "latitude": -34.918625,
+      "longitude": 138.632005,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:14:48Z"
+    },
+    {
+      "id": "6f091cad-2c55-47aa-b3cd-ad346cd14804",
+      "latitude": -34.870716,
+      "longitude": 138.666362,
+      "street": "Darley Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:11:59Z"
+    },
+    {
+      "id": "d8c9754b-ebe9-4879-b19e-e351cc30405d",
+      "latitude": -34.829221,
+      "longitude": 138.669659,
+      "street": "Montague Rd",
+      "city": "Modbury North",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:30:29Z"
+    },
+    {
+      "id": "d0df48f4-1a77-4c47-9e9e-d35ea6c101ac",
+      "latitude": -34.730275,
+      "longitude": 138.725234,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:30:41Z"
+    },
+    {
+      "id": "5d10b8c8-d844-4837-8ae1-58f454d1f9ba",
+      "latitude": -34.82528,
+      "longitude": 138.708493,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2025-12-01T21:36:57Z",
+      "reported_at": "2025-12-01T21:12:05Z"
     }
   ]
 }
