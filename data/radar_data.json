@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "1a83b737-d7c3-4251-adf3-6be53680c8fa",
-      "latitude": -34.919884,
-      "longitude": 138.567414,
-      "street": "Unknown Street",
+      "id": "556656d5-8372-496a-a0a7-860bdf3e8c9d",
+      "latitude": -34.919967,
+      "longitude": 138.566979,
+      "street": "North Pde",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T00:13:37Z"
+      "timestamp": "2025-12-01T03:53:43Z",
+      "reported_at": "2025-12-01T01:45:22Z"
     },
     {
       "id": "7a5fabd2-4532-48fe-b315-50f270ee06b5",
@@ -17,18 +17,8 @@
       "street": "Maxwell Tce",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
+      "timestamp": "2025-12-01T03:53:43Z",
       "reported_at": "2025-12-01T00:01:16Z"
-    },
-    {
-      "id": "669ceea6-a4aa-49cd-aad1-64c73aad2999",
-      "latitude": -34.918606,
-      "longitude": 138.501318,
-      "street": "Cudmore Tce",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-11-30T22:10:04Z"
     },
     {
       "id": "466aa897-d45f-4e0a-8046-13642fdf75c7",
@@ -37,108 +27,8 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
+      "timestamp": "2025-12-01T03:53:43Z",
       "reported_at": "2025-12-01T01:13:40Z"
-    },
-    {
-      "id": "b8ec7f88-9f28-4094-98f5-7df57ea6fa1a",
-      "latitude": -34.97562,
-      "longitude": 138.537151,
-      "street": "Unknown Street",
-      "city": "Morphettville",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:38:45Z"
-    },
-    {
-      "id": "291ea4dc-9c87-4eaa-beb7-dee434d3d122",
-      "latitude": -34.861704,
-      "longitude": 138.507031,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:47:16Z"
-    },
-    {
-      "id": "a0c0b26a-a705-49be-8313-9bf7479127d3",
-      "latitude": -34.980353,
-      "longitude": 138.561503,
-      "street": "Raglan Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:41:36Z"
-    },
-    {
-      "id": "f352f1de-a253-4fde-b4f1-55d38d86c739",
-      "latitude": -34.926087,
-      "longitude": 138.528131,
-      "street": "Henley Beach Rd",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-11-30T22:30:16Z"
-    },
-    {
-      "id": "a1e844a7-53ac-4fd4-bb98-7b0ef06149c0",
-      "latitude": -34.825841,
-      "longitude": 138.607567,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:48:10Z"
-    },
-    {
-      "id": "354ff8ca-443a-4949-8078-bdaea8f05d85",
-      "latitude": -34.839553,
-      "longitude": 138.510064,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:40:00Z"
-    },
-    {
-      "id": "1062424c-f761-4fa6-828f-b7d35d14a75b",
-      "latitude": -35.057595,
-      "longitude": 138.535314,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:23:58Z"
-    },
-    {
-      "id": "92e6b1fd-f459-42d5-98ad-560d642fa36d",
-      "latitude": -35.052689,
-      "longitude": 138.534762,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:24:10Z"
-    },
-    {
-      "id": "dfe64bef-d816-4c8a-96e3-c78cb750332a",
-      "latitude": -34.965667,
-      "longitude": 138.516813,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:07:59Z"
-    },
-    {
-      "id": "a970ca59-9cef-46c6-b818-544ea8f3ee34",
-      "latitude": -34.937148,
-      "longitude": 138.587405,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-01T01:56:24Z",
-      "reported_at": "2025-12-01T01:43:23Z"
     }
   ]
 }
