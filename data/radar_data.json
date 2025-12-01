@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "ae3ad539-9cdf-4c0a-939a-2b5f6edc3520",
+      "latitude": -34.759924,
+      "longitude": 138.664113,
+      "street": "Goddard Dr",
+      "city": "Salisbury Park",
+      "type": "mobile",
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T06:53:48Z"
+    },
+    {
       "id": "5fc7ae7c-f457-4689-ba4f-de74fbf53076",
       "latitude": -34.79593,
       "longitude": 138.641105,
       "street": "Nobby Buckley Dr",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
+      "timestamp": "2025-12-01T07:23:34Z",
       "reported_at": "2025-12-01T05:19:59Z"
-    },
-    {
-      "id": "d2aae6db-1db7-4088-99ed-55a1eecc5382",
-      "latitude": -34.794123,
-      "longitude": 138.642514,
-      "street": "Lawrence Hargrave Way",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T05:51:19Z"
-    },
-    {
-      "id": "9d297bfc-72a1-4834-9238-85256356963d",
-      "latitude": -34.920337,
-      "longitude": 138.618703,
-      "street": "Rundle St",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T06:31:10Z"
-    },
-    {
-      "id": "49bfa85e-4544-4af2-b1ff-22c791c7b85f",
-      "latitude": -34.721298,
-      "longitude": 138.643275,
-      "street": "West Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T05:01:32Z"
     },
     {
       "id": "eefdae84-7050-4202-ae1d-5d01b988963b",
@@ -47,78 +27,108 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
+      "timestamp": "2025-12-01T07:23:34Z",
       "reported_at": "2025-12-01T05:31:12Z"
     },
     {
-      "id": "57cdc2fa-153c-4a0e-9236-5ed95468061e",
-      "latitude": -34.921727,
-      "longitude": 138.620925,
+      "id": "83bac9b2-0f88-47cb-87dc-de475a03ffd4",
+      "latitude": -34.696025,
+      "longitude": 138.666399,
+      "street": "Fordingbridge Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T05:14:59Z"
+    },
+    {
+      "id": "2499fecd-6d38-459a-8e05-fdfae79942de",
+      "latitude": -34.921441,
+      "longitude": 138.620508,
       "street": "The Parade West",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T05:56:07Z"
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T06:26:16Z"
     },
     {
-      "id": "377738f6-6ea1-4b09-b5d9-72b4b100ac63",
-      "latitude": -34.805126,
-      "longitude": 138.646691,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
+      "id": "e095d720-8ae9-4a36-b65e-35d1d3bb6973",
+      "latitude": -34.720974,
+      "longitude": 138.643479,
+      "street": "West Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T06:13:46Z"
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T05:22:38Z"
     },
     {
-      "id": "d2971c33-fcec-4390-88ab-4af5e37ab1bc",
-      "latitude": -34.804936,
-      "longitude": 138.615159,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "9d297bfc-72a1-4834-9238-85256356963d",
+      "latitude": -34.920337,
+      "longitude": 138.618703,
+      "street": "Rundle St",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T06:22:28Z"
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T06:31:10Z"
     },
     {
-      "id": "0bb0c7e5-4429-47b2-acc1-25c84387247e",
-      "latitude": -34.857326,
-      "longitude": 138.668311,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "d6e0a425-d871-4157-92b3-551a483cc34e",
+      "latitude": -34.918605,
+      "longitude": 138.622953,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T06:07:41Z"
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T07:04:23Z"
     },
     {
-      "id": "d54e335e-a53d-4761-94b6-18cf73800843",
-      "latitude": -34.731194,
-      "longitude": 138.722386,
+      "id": "eb440a54-0985-4c6a-934f-2320edac85c7",
+      "latitude": -34.878394,
+      "longitude": 138.634813,
+      "street": "O.G Rd",
+      "city": "Klemzig",
+      "type": "mobile",
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T06:54:36Z"
+    },
+    {
+      "id": "ddb869d4-4ab5-4f39-ac6b-0b3227d5f8d9",
+      "latitude": -34.730507,
+      "longitude": 138.724517,
       "street": "Black Top Rd",
       "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T05:49:09Z"
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T06:22:03Z"
+    },
+    {
+      "id": "401e1e3d-25d3-4f50-bf11-372ec178c26a",
+      "latitude": -35.063122,
+      "longitude": 138.534303,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T07:21:25Z"
     },
     {
       "id": "c5c0e1ab-b462-4579-89ea-a05ed6af3b3a",
-      "latitude": -34.950974,
-      "longitude": 138.607507,
+      "latitude": -34.950839,
+      "longitude": 138.607496,
       "street": "B29 - Unley Rd",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
+      "timestamp": "2025-12-01T07:23:34Z",
       "reported_at": "2025-12-01T05:54:27Z"
     },
     {
-      "id": "22c7ab20-0e42-48c7-92b6-8f4f0f0096d4",
-      "latitude": -34.785066,
-      "longitude": 138.636012,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury South",
+      "id": "0774751c-e3ec-475f-a4f4-d081d252d46d",
+      "latitude": -35.041054,
+      "longitude": 138.815387,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-01T06:34:40Z",
-      "reported_at": "2025-12-01T06:07:11Z"
+      "timestamp": "2025-12-01T07:23:34Z",
+      "reported_at": "2025-12-01T07:16:43Z"
     }
   ]
 }
