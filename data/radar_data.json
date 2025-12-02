@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "411baaa4-1d5d-472b-955c-ae1ed5daf695",
-      "latitude": -34.932813,
-      "longitude": 138.588228,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "cc752502-90f0-46d9-b869-4f07edcd657b",
+      "latitude": -34.900599,
+      "longitude": 138.618332,
+      "street": "Stephen Tce",
+      "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2025-12-02T20:46:09Z",
-      "reported_at": "2025-12-02T20:32:05Z"
+      "timestamp": "2025-12-02T21:20:03Z",
+      "reported_at": "2025-12-02T21:06:30Z"
+    },
+    {
+      "id": "fd7f9e3e-29a7-4ad8-8f9e-697b0ee58a08",
+      "latitude": -34.796487,
+      "longitude": 138.687497,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-02T21:20:03Z",
+      "reported_at": "2025-12-02T20:40:33Z"
     }
   ]
 }
