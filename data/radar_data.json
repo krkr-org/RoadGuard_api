@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "6898e64b-b731-4b68-afbf-09d947d56397",
+      "latitude": -34.821507,
+      "longitude": 138.611391,
+      "street": "Mawson Lakes Bvd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:17:57Z",
+      "reported_at": "2025-12-02T21:32:54Z"
+    },
+    {
       "id": "52600e60-e803-48a9-9b7c-b50b38d1fef3",
       "latitude": -34.775205,
       "longitude": 138.597366,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-02T21:38:49Z",
+      "timestamp": "2025-12-02T22:17:57Z",
       "reported_at": "2025-12-02T21:08:50Z"
     },
     {
@@ -17,38 +27,58 @@
       "street": "Burton Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-02T21:38:49Z",
+      "timestamp": "2025-12-02T22:17:57Z",
       "reported_at": "2025-12-02T21:31:35Z"
     },
     {
-      "id": "7f36889e-5a41-45f6-b15a-fc9421ed848d",
-      "latitude": -34.805275,
-      "longitude": 138.646789,
+      "id": "e36c88a1-f89d-4879-b7a4-03743823677f",
+      "latitude": -34.760386,
+      "longitude": 138.677123,
+      "street": "Target Hill Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:17:57Z",
+      "reported_at": "2025-12-02T21:31:16Z"
+    },
+    {
+      "id": "1449d596-b6fb-4cbd-b18b-b576938f8a70",
+      "latitude": -34.806602,
+      "longitude": 138.648967,
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-02T21:38:49Z",
-      "reported_at": "2025-12-02T21:21:32Z"
+      "timestamp": "2025-12-02T22:17:57Z",
+      "reported_at": "2025-12-02T21:32:54Z"
     },
     {
-      "id": "a39d68cc-2ce7-41fa-a10d-51ff04484d7c",
-      "latitude": -34.866476,
-      "longitude": 138.643407,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "4588f9f8-a0ec-4564-a40f-d0cc9a2c9898",
+      "latitude": -34.711531,
+      "longitude": 138.682866,
+      "street": "Yorktown Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-12-02T21:38:49Z",
-      "reported_at": "2025-12-02T21:29:37Z"
+      "timestamp": "2025-12-02T22:17:57Z",
+      "reported_at": "2025-12-02T22:02:40Z"
     },
     {
-      "id": "1b09f662-b927-4421-b3c1-e864367c8989",
-      "latitude": -34.773548,
-      "longitude": 138.594667,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Parafield Gardens",
+      "id": "cef48d56-180f-4752-8b04-966e019a6577",
+      "latitude": -34.708425,
+      "longitude": 138.681359,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-12-02T21:38:49Z",
-      "reported_at": "2025-12-02T21:32:24Z"
+      "timestamp": "2025-12-02T22:17:57Z",
+      "reported_at": "2025-12-02T21:56:54Z"
+    },
+    {
+      "id": "3360dcc5-2020-4be0-9058-7dc0cd92e958",
+      "latitude": -34.79595,
+      "longitude": 138.653982,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:17:57Z",
+      "reported_at": "2025-12-02T21:46:00Z"
     }
   ]
 }
