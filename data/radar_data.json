@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "40e3e990-c932-4306-90a0-2ea1e3783ecd",
-      "latitude": -34.889069,
-      "longitude": 138.544854,
-      "street": "Pope St",
-      "city": "Beverley",
-      "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T04:39:34Z"
-    },
-    {
-      "id": "5e518ce7-a33b-4f92-9f83-80a006fe53fb",
-      "latitude": -34.787086,
-      "longitude": 138.61649,
-      "street": "Boston Av",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T07:54:36Z"
-    },
-    {
-      "id": "decfb259-a022-4645-b732-6e1f5dbad6eb",
-      "latitude": -34.996245,
-      "longitude": 138.585486,
-      "street": "Unknown Street",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T04:50:38Z"
-    },
-    {
-      "id": "a2fd81b0-f349-4e7f-874b-eeb4558ecc31",
-      "latitude": -34.843378,
-      "longitude": 138.512565,
-      "street": "St. Vincent St East",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T08:22:21Z"
-    },
-    {
-      "id": "ceef1085-8d30-4acb-beef-660c588253c9",
-      "latitude": -35.141316,
-      "longitude": 138.659933,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T05:19:26Z"
-    },
-    {
-      "id": "f4394f4f-8b0f-4dee-895e-a4a78ec51110",
-      "latitude": -35.108491,
-      "longitude": 138.625905,
+      "id": "eec57a3b-3943-430c-a1eb-4b35ed2a174c",
+      "latitude": -35.108581,
+      "longitude": 138.625189,
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T05:41:42Z"
+      "timestamp": "2025-12-02T09:26:47Z",
+      "reported_at": "2025-12-02T04:57:17Z"
+    },
+    {
+      "id": "2f1cd620-e45f-48b7-a295-d04589639c2a",
+      "latitude": -35.142198,
+      "longitude": 138.660224,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
+      "type": "mobile",
+      "timestamp": "2025-12-02T09:26:47Z",
+      "reported_at": "2025-12-02T05:27:21Z"
     },
     {
       "id": "3fcb5f5a-9e43-430c-af69-b28d71456243",
@@ -67,7 +27,7 @@
       "street": "B34 - Battunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
+      "timestamp": "2025-12-02T09:26:47Z",
       "reported_at": "2025-12-02T06:23:16Z"
     },
     {
@@ -77,28 +37,38 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
+      "timestamp": "2025-12-02T09:26:47Z",
       "reported_at": "2025-12-02T08:07:35Z"
     },
     {
-      "id": "f75a40a3-6b30-471d-b02a-548434398894",
-      "latitude": -34.969576,
-      "longitude": 138.626876,
-      "street": "B28 - Fullarton Rd",
-      "city": "Highgate",
+      "id": "b0519b90-a930-4264-9894-5393524b5aef",
+      "latitude": -34.907838,
+      "longitude": 138.576233,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T08:02:23Z"
+      "timestamp": "2025-12-02T09:26:47Z",
+      "reported_at": "2025-12-02T08:57:56Z"
     },
     {
-      "id": "5de3d8a2-4f58-4fc5-9aa9-16ad6e540094",
-      "latitude": -34.860401,
-      "longitude": 138.567205,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "cf8e4569-d550-4bfb-8a10-6e1c4e1dcf49",
+      "latitude": -34.790357,
+      "longitude": 138.64471,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2025-12-02T08:31:24Z",
-      "reported_at": "2025-12-02T07:42:47Z"
+      "timestamp": "2025-12-02T09:26:47Z",
+      "reported_at": "2025-12-02T08:50:50Z"
+    },
+    {
+      "id": "e31e0a15-874e-4b98-ac6e-03fd73216ab7",
+      "latitude": -34.869884,
+      "longitude": 138.570648,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-12-02T09:26:47Z",
+      "reported_at": "2025-12-02T09:05:31Z"
     }
   ]
 }
