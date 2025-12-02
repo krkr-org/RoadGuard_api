@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "b780c742-8250-4940-9206-836ff4a51826",
-      "latitude": -34.858542,
-      "longitude": 138.666127,
-      "street": "Clansman Av",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
-      "reported_at": "2025-12-02T07:12:57Z"
-    },
-    {
       "id": "40e3e990-c932-4306-90a0-2ea1e3783ecd",
       "latitude": -34.889069,
       "longitude": 138.544854,
       "street": "Pope St",
       "city": "Beverley",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
+      "timestamp": "2025-12-02T08:31:24Z",
       "reported_at": "2025-12-02T04:39:34Z"
     },
     {
-      "id": "8929b94b-886b-45d5-8822-931090168524",
-      "latitude": -34.837597,
-      "longitude": 138.523839,
-      "street": "to A9 - Port River Exp to City / Port Wakefield",
-      "city": "Gillman",
+      "id": "5e518ce7-a33b-4f92-9f83-80a006fe53fb",
+      "latitude": -34.787086,
+      "longitude": 138.61649,
+      "street": "Boston Av",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
-      "reported_at": "2025-12-02T07:15:39Z"
-    },
-    {
-      "id": "39939c7f-285f-46f9-9b0c-a29a92c318a2",
-      "latitude": -35.001328,
-      "longitude": 138.716061,
-      "street": "to B33 to Stirling / Aldgate",
-      "city": "Crafers",
-      "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
-      "reported_at": "2025-12-02T06:29:57Z"
+      "timestamp": "2025-12-02T08:31:24Z",
+      "reported_at": "2025-12-02T07:54:36Z"
     },
     {
       "id": "decfb259-a022-4645-b732-6e1f5dbad6eb",
@@ -47,8 +27,18 @@
       "street": "Unknown Street",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
+      "timestamp": "2025-12-02T08:31:24Z",
       "reported_at": "2025-12-02T04:50:38Z"
+    },
+    {
+      "id": "a2fd81b0-f349-4e7f-874b-eeb4558ecc31",
+      "latitude": -34.843378,
+      "longitude": 138.512565,
+      "street": "St. Vincent St East",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-02T08:31:24Z",
+      "reported_at": "2025-12-02T08:22:21Z"
     },
     {
       "id": "ceef1085-8d30-4acb-beef-660c588253c9",
@@ -57,7 +47,7 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
+      "timestamp": "2025-12-02T08:31:24Z",
       "reported_at": "2025-12-02T05:19:26Z"
     },
     {
@@ -67,18 +57,8 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
+      "timestamp": "2025-12-02T08:31:24Z",
       "reported_at": "2025-12-02T05:41:42Z"
-    },
-    {
-      "id": "5fe5964e-e973-4a8f-abe6-bd1bf3aaf1bd",
-      "latitude": -34.913363,
-      "longitude": 138.676075,
-      "street": "Penfold Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
-      "reported_at": "2025-12-02T07:08:43Z"
     },
     {
       "id": "3fcb5f5a-9e43-430c-af69-b28d71456243",
@@ -87,18 +67,38 @@
       "street": "B34 - Battunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
+      "timestamp": "2025-12-02T08:31:24Z",
       "reported_at": "2025-12-02T06:23:16Z"
     },
     {
-      "id": "136f8b5a-f6bc-4c2c-84c9-5a516670f676",
-      "latitude": -34.900532,
-      "longitude": 138.565215,
-      "street": "A7 - Port Rd",
-      "city": "Croydon",
+      "id": "c9b04cb3-313f-4430-97b5-c34d20ac8e7a",
+      "latitude": -34.923721,
+      "longitude": 138.617179,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-02T07:42:30Z",
-      "reported_at": "2025-12-02T07:35:05Z"
+      "timestamp": "2025-12-02T08:31:24Z",
+      "reported_at": "2025-12-02T08:07:35Z"
+    },
+    {
+      "id": "f75a40a3-6b30-471d-b02a-548434398894",
+      "latitude": -34.969576,
+      "longitude": 138.626876,
+      "street": "B28 - Fullarton Rd",
+      "city": "Highgate",
+      "type": "mobile",
+      "timestamp": "2025-12-02T08:31:24Z",
+      "reported_at": "2025-12-02T08:02:23Z"
+    },
+    {
+      "id": "5de3d8a2-4f58-4fc5-9aa9-16ad6e540094",
+      "latitude": -34.860401,
+      "longitude": 138.567205,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-12-02T08:31:24Z",
+      "reported_at": "2025-12-02T07:42:47Z"
     }
   ]
 }
