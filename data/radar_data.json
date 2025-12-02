@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "02f60da5-9195-4ed7-9d3c-86ba277b47ef",
-      "latitude": -34.897219,
-      "longitude": 138.662598,
-      "street": "Reid Av",
-      "city": "Hectorville",
+      "id": "84487d8f-cf8c-4222-bce6-f9916d5173af",
+      "latitude": -34.893072,
+      "longitude": 138.692429,
+      "street": "Stradbroke Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-12-02T04:50:32Z",
-      "reported_at": "2025-12-02T01:18:18Z"
+      "timestamp": "2025-12-02T05:20:38Z",
+      "reported_at": "2025-12-02T05:05:45Z"
     },
     {
-      "id": "4252956f-fc78-4a47-9c2a-e5b55eaca68e",
-      "latitude": -34.931166,
-      "longitude": 138.632932,
-      "street": "Prescott Tce",
-      "city": "Rose Park",
+      "id": "58d41ba8-38cb-4d76-8baa-905bad27da13",
+      "latitude": -34.849637,
+      "longitude": 138.516777,
+      "street": "Gray Tce",
+      "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2025-12-02T04:50:32Z",
-      "reported_at": "2025-12-02T04:39:41Z"
+      "timestamp": "2025-12-02T05:20:38Z",
+      "reported_at": "2025-12-02T04:54:50Z"
     },
     {
       "id": "2a4b981d-3549-45c3-836b-7101355d9664",
@@ -27,7 +27,7 @@
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2025-12-02T04:50:32Z",
+      "timestamp": "2025-12-02T05:20:38Z",
       "reported_at": "2025-12-02T02:41:11Z"
     },
     {
@@ -37,18 +37,38 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-02T04:50:32Z",
+      "timestamp": "2025-12-02T05:20:38Z",
       "reported_at": "2025-12-02T02:07:40Z"
     },
     {
-      "id": "112be4b4-6d96-4173-a30b-4df9f11b05fd",
-      "latitude": -35.016363,
-      "longitude": 138.558861,
+      "id": "ba803e70-007e-47db-a1ed-9d4a9f93d1be",
+      "latitude": -34.926414,
+      "longitude": 138.517987,
+      "street": "Henley Beach Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2025-12-02T05:20:38Z",
+      "reported_at": "2025-12-02T04:51:04Z"
+    },
+    {
+      "id": "e976e027-5bc6-4cfc-8171-d1801d5f117b",
+      "latitude": -34.919783,
+      "longitude": 138.514573,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-02T05:20:38Z",
+      "reported_at": "2025-12-02T04:52:23Z"
+    },
+    {
+      "id": "fdd74d85-e992-4a17-b259-04d54f01b41c",
+      "latitude": -35.009004,
+      "longitude": 138.55824,
       "street": "A14 - Marion Rd",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-12-02T04:50:32Z",
-      "reported_at": "2025-12-02T04:44:19Z"
+      "timestamp": "2025-12-02T05:20:38Z",
+      "reported_at": "2025-12-02T04:56:23Z"
     },
     {
       "id": "2cdad4bc-9d41-4e44-8fee-493a2b7d7bc5",
@@ -57,8 +77,18 @@
       "street": "Unknown Street",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2025-12-02T04:50:32Z",
+      "timestamp": "2025-12-02T05:20:38Z",
       "reported_at": "2025-12-02T03:36:31Z"
+    },
+    {
+      "id": "cdc06b23-cbb5-41a3-8ac3-2a2f7958c4b3",
+      "latitude": -35.037001,
+      "longitude": 138.557597,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-12-02T05:20:38Z",
+      "reported_at": "2025-12-02T04:50:24Z"
     }
   ]
 }
