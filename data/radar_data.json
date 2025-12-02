@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "e85822c8-77f5-4761-a69e-eeab97cd53f0",
-      "latitude": -34.938966,
-      "longitude": 138.562026,
-      "street": "Brooker Tce",
-      "city": "Richmond",
+      "id": "303f5319-330b-4519-9371-1cb6861ab58a",
+      "latitude": -35.074976,
+      "longitude": 138.535577,
+      "street": "Heysen Dr",
+      "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2025-12-02T05:43:34Z",
-      "reported_at": "2025-12-02T05:23:03Z"
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T06:08:43Z"
+    },
+    {
+      "id": "58e964cb-cb6d-4d0e-b557-b19e7c4abaa9",
+      "latitude": -34.784406,
+      "longitude": 138.612451,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T06:20:57Z"
+    },
+    {
+      "id": "f7ed75b6-bf94-47e7-a817-7dee4d711d9b",
+      "latitude": -34.708883,
+      "longitude": 138.673256,
+      "street": "Woodford Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T06:02:51Z"
     },
     {
       "id": "2a4b981d-3549-45c3-836b-7101355d9664",
@@ -17,38 +37,58 @@
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2025-12-02T05:43:34Z",
+      "timestamp": "2025-12-02T06:33:42Z",
       "reported_at": "2025-12-02T02:41:11Z"
     },
     {
-      "id": "4ac18938-62af-4197-aa51-57b40319a248",
-      "latitude": -34.843414,
-      "longitude": 138.510119,
-      "street": "St. Vincent St",
-      "city": "Port Adelaide",
+      "id": "eec57a3b-3943-430c-a1eb-4b35ed2a174c",
+      "latitude": -35.108581,
+      "longitude": 138.625189,
+      "street": "Grants Gully Rd",
+      "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2025-12-02T05:43:34Z",
-      "reported_at": "2025-12-02T05:29:02Z"
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T04:57:17Z"
     },
     {
-      "id": "edc1526c-f90e-4082-a19c-b592f5812311",
-      "latitude": -34.926414,
-      "longitude": 138.517987,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
+      "id": "ceef1085-8d30-4acb-beef-660c588253c9",
+      "latitude": -35.141316,
+      "longitude": 138.659933,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2025-12-02T05:43:34Z",
-      "reported_at": "2025-12-02T04:50:11Z"
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T05:19:26Z"
     },
     {
-      "id": "45cc2982-5a0d-408d-89ed-4cc036d04ee6",
-      "latitude": -35.09541,
-      "longitude": 138.792801,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
+      "id": "df743b3b-aed4-439d-b673-c82518c63cc5",
+      "latitude": -34.824441,
+      "longitude": 138.622391,
+      "street": "Montague Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-12-02T05:43:34Z",
-      "reported_at": "2025-12-02T05:12:12Z"
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T06:03:37Z"
+    },
+    {
+      "id": "b5c50f77-cb74-4d33-8503-fa4988d9f9b8",
+      "latitude": -34.811641,
+      "longitude": 138.501382,
+      "street": "A16 - Victoria Rd",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T06:24:53Z"
+    },
+    {
+      "id": "cf44bbce-9c29-43e7-b1bf-5e4aa8dd40bf",
+      "latitude": -34.790924,
+      "longitude": 138.501546,
+      "street": "A16 - Victoria Rd",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2025-12-02T06:33:42Z",
+      "reported_at": "2025-12-02T06:14:43Z"
     }
   ]
 }
