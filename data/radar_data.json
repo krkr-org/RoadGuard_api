@@ -7,28 +7,18 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
+      "timestamp": "2025-12-02T22:41:06Z",
       "reported_at": "2025-12-02T21:32:54Z"
     },
     {
-      "id": "52600e60-e803-48a9-9b7c-b50b38d1fef3",
-      "latitude": -34.775205,
-      "longitude": 138.597366,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
+      "id": "29e4b8ba-4be2-4258-b533-ec583eb7ddb9",
+      "latitude": -34.850094,
+      "longitude": 138.573954,
+      "street": "Gallipoli Dr",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
-      "reported_at": "2025-12-02T21:08:50Z"
-    },
-    {
-      "id": "f5ac5c03-6137-4354-b6dc-33f92deeeb39",
-      "latitude": -34.755094,
-      "longitude": 138.608172,
-      "street": "Burton Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
-      "reported_at": "2025-12-02T21:31:35Z"
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:19:50Z"
     },
     {
       "id": "e36c88a1-f89d-4879-b7a4-03743823677f",
@@ -37,28 +27,48 @@
       "street": "Target Hill Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
+      "timestamp": "2025-12-02T22:41:06Z",
       "reported_at": "2025-12-02T21:31:16Z"
     },
     {
-      "id": "1449d596-b6fb-4cbd-b18b-b576938f8a70",
-      "latitude": -34.806602,
-      "longitude": 138.648967,
+      "id": "e3b43679-28a3-497c-8fdf-61a98a617411",
+      "latitude": -34.776661,
+      "longitude": 138.599785,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T21:52:54Z"
+    },
+    {
+      "id": "3f2bf1d8-e4dc-47bf-978d-90ca403bf072",
+      "latitude": -34.794271,
+      "longitude": 138.607693,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:22:40Z"
+    },
+    {
+      "id": "60565b93-d20f-4f72-b665-d3c8c5e25461",
+      "latitude": -35.058458,
+      "longitude": 138.57895,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:33:00Z"
+    },
+    {
+      "id": "db7bb9b2-f58f-4781-81da-ca19033f233e",
+      "latitude": -34.805478,
+      "longitude": 138.647117,
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
-      "reported_at": "2025-12-02T21:32:54Z"
-    },
-    {
-      "id": "4588f9f8-a0ec-4564-a40f-d0cc9a2c9898",
-      "latitude": -34.711531,
-      "longitude": 138.682866,
-      "street": "Yorktown Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
-      "reported_at": "2025-12-02T22:02:40Z"
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:00:45Z"
     },
     {
       "id": "cef48d56-180f-4752-8b04-966e019a6577",
@@ -67,18 +77,38 @@
       "street": "Tolmer Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
+      "timestamp": "2025-12-02T22:41:06Z",
       "reported_at": "2025-12-02T21:56:54Z"
     },
     {
-      "id": "3360dcc5-2020-4be0-9058-7dc0cd92e958",
-      "latitude": -34.79595,
-      "longitude": 138.653982,
+      "id": "4588f9f8-a0ec-4564-a40f-d0cc9a2c9898",
+      "latitude": -34.711531,
+      "longitude": 138.682866,
+      "street": "Yorktown Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:02:40Z"
+    },
+    {
+      "id": "565bbf82-a2fe-403e-81be-61a801f263dd",
+      "latitude": -34.879349,
+      "longitude": 138.619665,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:13:07Z"
+    },
+    {
+      "id": "6198efb4-c92d-46f8-bf9c-29778564dd59",
+      "latitude": -34.795235,
+      "longitude": 138.652831,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-02T22:17:57Z",
-      "reported_at": "2025-12-02T21:46:00Z"
+      "timestamp": "2025-12-02T22:41:06Z",
+      "reported_at": "2025-12-02T22:13:08Z"
     }
   ]
 }
