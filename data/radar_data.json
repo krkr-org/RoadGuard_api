@@ -7,7 +7,7 @@
       "street": "Burton St",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
+      "timestamp": "2025-12-03T08:30:10Z",
       "reported_at": "2025-12-03T06:52:22Z"
     },
     {
@@ -17,28 +17,48 @@
       "street": "Scottsglade Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
+      "timestamp": "2025-12-03T08:30:10Z",
       "reported_at": "2025-12-03T04:38:59Z"
     },
     {
-      "id": "68602052-fd38-465f-808a-8ce0ec36752f",
-      "latitude": -34.952701,
-      "longitude": 138.507555,
+      "id": "2b4eaf87-10f0-4f04-bcfa-5441eee3533e",
+      "latitude": -34.953759,
+      "longitude": 138.507979,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
-      "reported_at": "2025-12-03T05:48:01Z"
+      "timestamp": "2025-12-03T08:30:10Z",
+      "reported_at": "2025-12-03T07:13:48Z"
     },
     {
       "id": "04fb6edc-d80d-4790-ba6b-131abcf559c8",
-      "latitude": -34.945184,
-      "longitude": 138.507271,
+      "latitude": -34.945199,
+      "longitude": 138.506967,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
+      "timestamp": "2025-12-03T08:30:10Z",
       "reported_at": "2025-12-03T05:41:58Z"
+    },
+    {
+      "id": "3110dd35-9704-4906-8bf2-492ad4d6b714",
+      "latitude": -34.936939,
+      "longitude": 138.561872,
+      "street": "Brooker Tce",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2025-12-03T08:30:10Z",
+      "reported_at": "2025-12-03T06:53:19Z"
+    },
+    {
+      "id": "268c486b-c4f3-470e-add8-83a8675acc74",
+      "latitude": -34.909299,
+      "longitude": 138.581391,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-03T08:30:10Z",
+      "reported_at": "2025-12-03T07:56:56Z"
     },
     {
       "id": "dfb99540-05f8-4e11-a3df-c322d74d617c",
@@ -47,48 +67,18 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
+      "timestamp": "2025-12-03T08:30:10Z",
       "reported_at": "2025-12-03T05:44:58Z"
     },
     {
-      "id": "30305dc0-031b-48fe-82b4-bf41b2e2a909",
-      "latitude": -34.912796,
-      "longitude": 138.583151,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "5852728f-1def-4a9c-bbc5-aa3efe42eb8b",
+      "latitude": -34.999443,
+      "longitude": 138.59309,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
-      "reported_at": "2025-12-03T06:22:55Z"
-    },
-    {
-      "id": "d034360e-a63f-4356-b7b6-23ddf3116705",
-      "latitude": -34.926642,
-      "longitude": 138.599706,
-      "street": "King William St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
-      "reported_at": "2025-12-03T07:32:23Z"
-    },
-    {
-      "id": "c247930f-0f71-4be1-a13e-caa234195411",
-      "latitude": -34.806387,
-      "longitude": 138.694221,
-      "street": "Grenfell Rd",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
-      "reported_at": "2025-12-03T07:21:10Z"
-    },
-    {
-      "id": "e253ff64-0382-4e36-954d-1f3bd96f09d6",
-      "latitude": -34.903977,
-      "longitude": 138.569618,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
-      "reported_at": "2025-12-03T05:12:30Z"
+      "timestamp": "2025-12-03T08:30:10Z",
+      "reported_at": "2025-12-03T08:21:13Z"
     },
     {
       "id": "fddb08e6-c876-470a-80c5-3ff1cce69dc8",
@@ -97,8 +87,18 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2025-12-03T07:42:12Z",
+      "timestamp": "2025-12-03T08:30:10Z",
       "reported_at": "2025-12-03T06:19:36Z"
+    },
+    {
+      "id": "e253ff64-0382-4e36-954d-1f3bd96f09d6",
+      "latitude": -34.903977,
+      "longitude": 138.569618,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-12-03T08:30:10Z",
+      "reported_at": "2025-12-03T05:12:30Z"
     }
   ]
 }
