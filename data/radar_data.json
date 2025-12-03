@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "3c2413cd-ddd4-46e9-9795-99f7c037eba8",
-      "latitude": -34.92069,
-      "longitude": 138.647416,
-      "street": "The Parade",
-      "city": "Beulah Park",
-      "type": "mobile",
-      "timestamp": "2025-12-03T15:24:13Z",
-      "reported_at": "2025-12-03T11:24:54Z"
-    },
-    {
       "id": "b0cdece7-dfde-4487-b475-e66bfe97376f",
       "latitude": -34.805282,
       "longitude": 138.725805,
       "street": "Grenfell Rd",
       "city": "Fairview Park",
       "type": "mobile",
-      "timestamp": "2025-12-03T15:24:13Z",
+      "timestamp": "2025-12-03T15:46:59Z",
       "reported_at": "2025-12-03T12:37:10Z"
+    },
+    {
+      "id": "0ed0614d-3fb0-4e9f-bc10-2573bd4036dc",
+      "latitude": -35.008254,
+      "longitude": 138.522342,
+      "street": "A15 - Brighton Rd",
+      "city": "Hove",
+      "type": "mobile",
+      "timestamp": "2025-12-03T15:46:59Z",
+      "reported_at": "2025-12-03T15:24:46Z"
+    },
+    {
+      "id": "e6da436f-fe95-4bed-a0e7-7ba167cd68b6",
+      "latitude": -34.882474,
+      "longitude": 138.53732,
+      "street": "A7 - Port Rd",
+      "city": "Woodville South",
+      "type": "mobile",
+      "timestamp": "2025-12-03T15:46:59Z",
+      "reported_at": "2025-12-03T15:15:46Z"
     }
   ]
 }
