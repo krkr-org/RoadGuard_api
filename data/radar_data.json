@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "bca80b6b-b430-4485-ae21-dd16ee43184f",
-      "latitude": -34.953993,
-      "longitude": 138.508066,
+      "id": "adef8ede-b676-40f4-a83d-ed770e6b49c5",
+      "latitude": -34.954617,
+      "longitude": 138.508294,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
-      "reported_at": "2025-12-03T05:08:56Z"
+      "timestamp": "2025-12-03T05:43:34Z",
+      "reported_at": "2025-12-03T05:14:01Z"
     },
     {
-      "id": "b3fd2b07-4223-440f-83ab-3dc0d0275539",
-      "latitude": -34.910164,
-      "longitude": 138.581553,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "04fb6edc-d80d-4790-ba6b-131abcf559c8",
+      "latitude": -34.945184,
+      "longitude": 138.507271,
+      "street": "West Beach Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
-      "reported_at": "2025-12-03T04:38:04Z"
+      "timestamp": "2025-12-03T05:43:34Z",
+      "reported_at": "2025-12-03T05:41:58Z"
+    },
+    {
+      "id": "f5d4e981-c14c-4ba3-8a2f-8ff5e98c3f7a",
+      "latitude": -34.870615,
+      "longitude": 138.56595,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2025-12-03T05:43:34Z",
+      "reported_at": "2025-12-03T05:34:49Z"
     },
     {
       "id": "56354480-47f0-4908-926a-258497da3b31",
@@ -27,8 +37,18 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
+      "timestamp": "2025-12-03T05:43:34Z",
       "reported_at": "2025-12-03T03:27:42Z"
+    },
+    {
+      "id": "b3fd2b07-4223-440f-83ab-3dc0d0275539",
+      "latitude": -34.910089,
+      "longitude": 138.581529,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-03T05:43:34Z",
+      "reported_at": "2025-12-03T04:38:04Z"
     },
     {
       "id": "31d7b45c-9a9e-4ea3-b414-450d18cc4ed2",
@@ -37,18 +57,18 @@
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
+      "timestamp": "2025-12-03T05:43:34Z",
       "reported_at": "2025-12-03T03:31:13Z"
     },
     {
-      "id": "bc6300e0-c3ca-4ec1-9b06-7ab5f9c4fd36",
-      "latitude": -35.055876,
-      "longitude": 138.559773,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
+      "id": "69cf8a35-f4e6-4abf-a819-c01ad13c685f",
+      "latitude": -35.031288,
+      "longitude": 138.8094,
+      "street": "B34 - Pine Av",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
-      "reported_at": "2025-12-03T04:14:59Z"
+      "timestamp": "2025-12-03T05:43:34Z",
+      "reported_at": "2025-12-03T05:22:47Z"
     },
     {
       "id": "e253ff64-0382-4e36-954d-1f3bd96f09d6",
@@ -57,18 +77,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
+      "timestamp": "2025-12-03T05:43:34Z",
       "reported_at": "2025-12-03T05:12:30Z"
     },
     {
-      "id": "e60d0377-cb2b-4410-8b2a-487fb4653484",
-      "latitude": -34.849326,
-      "longitude": 138.71528,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
+      "id": "bef02ada-dc95-4935-9e92-0cf869a1a14c",
+      "latitude": -34.843007,
+      "longitude": 138.599866,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-03T05:20:16Z",
-      "reported_at": "2025-12-03T05:16:15Z"
+      "timestamp": "2025-12-03T05:43:34Z",
+      "reported_at": "2025-12-03T05:06:51Z"
     }
   ]
 }
