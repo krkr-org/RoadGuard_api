@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d54f807f-cbcb-4891-9d21-8f23df0da83f",
+      "latitude": -34.93796,
+      "longitude": 138.562024,
+      "street": "Burton St",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T06:52:22Z"
+    },
+    {
       "id": "a797c21d-8a63-4511-bec9-6cfeb442cc91",
       "latitude": -35.125951,
       "longitude": 138.505106,
       "street": "Scottsglade Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T04:38:59Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T05:41:58Z"
     },
     {
-      "id": "1b4bf3c3-44e8-415c-b7e6-a399410b5bbf",
-      "latitude": -35.13371,
-      "longitude": 138.495043,
-      "street": "Elizabeth Rd",
+      "id": "33177aa1-1b39-4b6f-862a-b9cf9c130056",
+      "latitude": -35.129167,
+      "longitude": 138.498288,
+      "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T06:06:14Z"
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T06:51:49Z"
     },
     {
       "id": "56354480-47f0-4908-926a-258497da3b31",
@@ -37,28 +47,18 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T03:27:42Z"
     },
     {
-      "id": "8cac860e-5c96-4d6f-99d1-32a62694cb87",
-      "latitude": -34.91175,
-      "longitude": 138.582269,
+      "id": "30305dc0-031b-48fe-82b4-bf41b2e2a909",
+      "latitude": -34.912796,
+      "longitude": 138.583151,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T06:09:25Z"
-    },
-    {
-      "id": "4033d5cf-c1ef-469e-bec8-87c8bb3b5f61",
-      "latitude": -34.921151,
-      "longitude": 138.63498,
-      "street": "The Parade",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T05:49:59Z"
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T06:22:55Z"
     },
     {
       "id": "dfb99540-05f8-4e11-a3df-c322d74d617c",
@@ -67,28 +67,18 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T05:44:58Z"
     },
     {
-      "id": "88330e03-05a3-458b-9e4e-4d1feef9eca8",
-      "latitude": -34.879029,
-      "longitude": 138.614306,
-      "street": "Galway Av",
-      "city": "Broadview",
+      "id": "2600afca-1c95-486e-9ef7-189de2eac13d",
+      "latitude": -34.747638,
+      "longitude": 138.622921,
+      "street": "Whites Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T06:00:26Z"
-    },
-    {
-      "id": "a0c37e46-5d7e-45b4-836c-e3b12e83d604",
-      "latitude": -34.746708,
-      "longitude": 138.64568,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T06:12:05Z"
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T06:37:36Z"
     },
     {
       "id": "c5096694-22a7-4dbf-85cc-4eefca435208",
@@ -97,7 +87,7 @@
       "street": "Glynburn Rd",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T06:08:09Z"
     },
     {
@@ -107,8 +97,38 @@
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T03:31:13Z"
+    },
+    {
+      "id": "3c6b585c-4285-46d6-a6d9-e96fcf3f4b4a",
+      "latitude": -34.715017,
+      "longitude": 138.784412,
+      "street": "Unknown Street",
+      "city": "Humbug Scrub",
+      "type": "mobile",
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T07:05:14Z"
+    },
+    {
+      "id": "e253ff64-0382-4e36-954d-1f3bd96f09d6",
+      "latitude": -34.903977,
+      "longitude": 138.569618,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T05:12:30Z"
+    },
+    {
+      "id": "458626c5-3832-453d-ab78-27522c1d0f85",
+      "latitude": -34.938296,
+      "longitude": 138.65921,
+      "street": "B26 - Greenhill Rd",
+      "city": "Hazelwood Park",
+      "type": "mobile",
+      "timestamp": "2025-12-03T07:22:01Z",
+      "reported_at": "2025-12-03T06:42:40Z"
     },
     {
       "id": "fddb08e6-c876-470a-80c5-3ff1cce69dc8",
@@ -117,28 +137,8 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
+      "timestamp": "2025-12-03T07:22:01Z",
       "reported_at": "2025-12-03T06:19:36Z"
-    },
-    {
-      "id": "28771991-73a3-465e-b127-809dd2b3666b",
-      "latitude": -34.751667,
-      "longitude": 138.657241,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T06:15:55Z"
-    },
-    {
-      "id": "a0839d93-cd66-4894-b8ab-64595848bc58",
-      "latitude": -34.794889,
-      "longitude": 138.61228,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-03T06:33:23Z",
-      "reported_at": "2025-12-03T06:02:47Z"
     }
   ]
 }
