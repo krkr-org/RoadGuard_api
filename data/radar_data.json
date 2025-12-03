@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "488539db-a460-4d65-8fae-28d0919b7a19",
-      "latitude": -34.916585,
-      "longitude": 138.493469,
-      "street": "Seaview Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T22:00:47Z"
-    },
-    {
       "id": "1a8a36d7-0322-429c-aec7-fc360e1690ad",
       "latitude": -35.062472,
       "longitude": 138.517899,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
+      "timestamp": "2025-12-03T23:18:21Z",
       "reported_at": "2025-12-03T21:21:37Z"
-    },
-    {
-      "id": "8103159c-6d3b-4fd1-ad22-1e4942d1d828",
-      "latitude": -35.09605,
-      "longitude": 138.5511,
-      "street": "Sherebrooke Bvd",
-      "city": "Woodcroft",
-      "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T21:57:30Z"
-    },
-    {
-      "id": "d0b63b37-99c7-4344-8ab3-b0ee38f71cdc",
-      "latitude": -34.869684,
-      "longitude": 138.677738,
-      "street": "George St",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T22:29:38Z"
     },
     {
       "id": "181ff2e9-9641-4c07-8e19-552d502773cf",
@@ -47,8 +17,18 @@
       "street": "Capella Dr",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
+      "timestamp": "2025-12-03T23:18:21Z",
       "reported_at": "2025-12-03T22:23:53Z"
+    },
+    {
+      "id": "8103159c-6d3b-4fd1-ad22-1e4942d1d828",
+      "latitude": -35.09605,
+      "longitude": 138.5511,
+      "street": "Sherebrooke Bvd",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2025-12-03T23:18:21Z",
+      "reported_at": "2025-12-03T21:57:30Z"
     },
     {
       "id": "742a37d1-e2f8-44a6-8617-9436e3f82b13",
@@ -57,7 +37,7 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
+      "timestamp": "2025-12-03T23:18:21Z",
       "reported_at": "2025-12-03T22:15:30Z"
     },
     {
@@ -67,58 +47,38 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
+      "timestamp": "2025-12-03T23:18:21Z",
       "reported_at": "2025-12-03T21:32:33Z"
     },
     {
-      "id": "fae203af-4915-4d55-b6e7-3c2f4b4d1ffa",
-      "latitude": -34.833864,
-      "longitude": 138.675209,
-      "street": "Kelly Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T22:22:31Z"
-    },
-    {
-      "id": "b1c60a93-c0d2-40bb-a1cd-4991c782ed3c",
-      "latitude": -34.809623,
-      "longitude": 138.632264,
-      "street": "Maxwell Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T22:21:56Z"
-    },
-    {
-      "id": "8e006120-522d-4242-b92a-9f21d7a0a37d",
-      "latitude": -34.874462,
-      "longitude": 138.525277,
+      "id": "7f481242-e958-4562-89b4-d4c671c7dae7",
+      "latitude": -34.903731,
+      "longitude": 138.569241,
       "street": "A7 - Port Rd",
-      "city": "Albert Park",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T21:59:35Z"
+      "timestamp": "2025-12-03T23:18:21Z",
+      "reported_at": "2025-12-03T22:48:19Z"
     },
     {
-      "id": "e723fd98-7a3a-41d7-a1ce-db661b6534f3",
-      "latitude": -35.004724,
-      "longitude": 138.699845,
-      "street": "B28 - Waverley Ridge Rd",
-      "city": "Crafers West",
+      "id": "3113d440-68f4-47a4-9fb6-ab1d580b0aae",
+      "latitude": -34.880285,
+      "longitude": 138.662199,
+      "street": "A11 - Lower North East Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T22:16:53Z"
+      "timestamp": "2025-12-03T23:18:21Z",
+      "reported_at": "2025-12-03T23:01:26Z"
     },
     {
-      "id": "bb5a4e97-1ccb-46d5-b0ea-cc7c1531a2e5",
-      "latitude": -34.833343,
-      "longitude": 138.554581,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "689c9be8-7692-432d-a835-5ffa4bd730cd",
+      "latitude": -34.99868,
+      "longitude": 138.726347,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2025-12-03T22:43:41Z",
-      "reported_at": "2025-12-03T22:30:28Z"
+      "timestamp": "2025-12-03T23:18:21Z",
+      "reported_at": "2025-12-03T23:12:27Z"
     }
   ]
 }
