@@ -1,54 +1,44 @@
 {
   "radars": [
     {
-      "id": "0814ff06-daa9-4918-9453-308923a48e7f",
-      "latitude": -34.937187,
-      "longitude": 138.53746,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
+      "id": "54a923d4-1e71-4eed-83b7-ed4f6d9d4e70",
+      "latitude": -34.85916,
+      "longitude": 138.559698,
+      "street": "Cowan St",
+      "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-03T01:15:12Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:48:11Z"
     },
     {
-      "id": "6898e64b-b731-4b68-afbf-09d947d56397",
-      "latitude": -34.821507,
-      "longitude": 138.611391,
+      "id": "c778681c-1247-47c3-a4d7-a7c14fbce83e",
+      "latitude": -34.973497,
+      "longitude": 138.537603,
+      "street": "Morphett Rd",
+      "city": "Novar Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T03:02:18Z"
+    },
+    {
+      "id": "272a05cd-1f17-4603-96f6-0a03c8e27508",
+      "latitude": -34.821124,
+      "longitude": 138.611396,
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T21:32:54Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T00:59:57Z"
     },
     {
-      "id": "fcf36650-31ea-43fe-a0ac-6fc64fddd2fc",
-      "latitude": -34.791287,
-      "longitude": 138.602149,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
+      "id": "6ad4dff6-611d-4dd2-9eaa-a4f5dc3b1fc7",
+      "latitude": -34.927431,
+      "longitude": 138.594403,
+      "street": "Franklin St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T23:07:46Z"
-    },
-    {
-      "id": "e36c88a1-f89d-4879-b7a4-03743823677f",
-      "latitude": -34.760386,
-      "longitude": 138.677123,
-      "street": "Target Hill Rd",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T21:31:16Z"
-    },
-    {
-      "id": "03fb0559-46a6-4871-b84a-613d2a7be14c",
-      "latitude": -34.692253,
-      "longitude": 138.693302,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T22:44:20Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T03:00:07Z"
     },
     {
       "id": "8ba79e6f-e855-4a6a-b4ff-6369bd2c6918",
@@ -57,48 +47,78 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
+      "timestamp": "2025-12-03T03:17:43Z",
       "reported_at": "2025-12-02T23:16:25Z"
     },
     {
-      "id": "ee55d84e-ab3c-4512-9445-528900f2d411",
-      "latitude": -34.756203,
-      "longitude": 138.609991,
-      "street": "Burton Rd",
-      "city": "Paralowie",
+      "id": "03fb0559-46a6-4871-b84a-613d2a7be14c",
+      "latitude": -34.692253,
+      "longitude": 138.693302,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T23:14:13Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-02T22:44:20Z"
     },
     {
-      "id": "1449d596-b6fb-4cbd-b18b-b576938f8a70",
-      "latitude": -34.806602,
-      "longitude": 138.648967,
+      "id": "fcf36650-31ea-43fe-a0ac-6fc64fddd2fc",
+      "latitude": -34.791287,
+      "longitude": 138.602149,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-02T23:07:46Z"
+    },
+    {
+      "id": "866b3fae-801b-44a9-af41-19339edc4b76",
+      "latitude": -34.760094,
+      "longitude": 138.677555,
+      "street": "Target Hill Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:29:33Z"
+    },
+    {
+      "id": "b2c556ba-30b6-409c-8998-957a063e1ba6",
+      "latitude": -34.853836,
+      "longitude": 138.50221,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:54:35Z"
+    },
+    {
+      "id": "d80bb720-0ad1-4b0e-8a1f-f0ec71971c9e",
+      "latitude": -34.805468,
+      "longitude": 138.6471,
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T21:32:54Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:38:18Z"
     },
     {
-      "id": "27f1fad9-4724-4741-9574-f729686fd914",
-      "latitude": -34.708555,
-      "longitude": 138.681665,
-      "street": "Tolmer Rd",
-      "city": "Elizabeth Park",
+      "id": "0dca789e-c8c1-4594-9b7b-aa24dce7c010",
+      "latitude": -34.833598,
+      "longitude": 138.686431,
+      "street": "Smart Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T22:30:27Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T03:08:48Z"
     },
     {
-      "id": "fcdea16e-5548-4116-a1b1-b232c789accc",
-      "latitude": -34.747243,
-      "longitude": 138.607386,
+      "id": "94d27755-a5e2-42c6-a0fb-98802551ccd6",
+      "latitude": -34.749284,
+      "longitude": 138.605576,
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-03T00:44:59Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:12:52Z"
     },
     {
       "id": "e89407c8-cca7-4d90-b646-9f6e97238340",
@@ -107,78 +127,68 @@
       "street": "Womma Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
+      "timestamp": "2025-12-03T03:17:43Z",
       "reported_at": "2025-12-02T23:24:42Z"
     },
     {
-      "id": "4588f9f8-a0ec-4564-a40f-d0cc9a2c9898",
-      "latitude": -34.711531,
-      "longitude": 138.682866,
-      "street": "Yorktown Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T22:02:40Z"
-    },
-    {
-      "id": "766106e9-3eea-48a2-8b86-d7fd7efb9513",
-      "latitude": -34.817031,
-      "longitude": 138.501148,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
-      "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-03T01:12:00Z"
-    },
-    {
-      "id": "ca0a655b-3d5a-4ee1-b7d2-34c182ba0901",
-      "latitude": -34.941955,
-      "longitude": 138.583242,
+      "id": "d98fb64b-ea8d-45c9-8a37-3c1a85ebcb20",
+      "latitude": -34.975926,
+      "longitude": 138.526046,
       "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T23:35:55Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:48:50Z"
     },
     {
-      "id": "84473cc3-9447-4c5b-aadd-6abe20d2e446",
-      "latitude": -34.875465,
-      "longitude": 138.527669,
+      "id": "db45687e-0d03-43f8-9ca6-69865b1ea124",
+      "latitude": -34.976127,
+      "longitude": 138.524825,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T03:03:06Z"
+    },
+    {
+      "id": "c28ef420-a22b-4b80-8441-3bb65beb1ef5",
+      "latitude": -34.883897,
+      "longitude": 138.584764,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T03:12:37Z"
+    },
+    {
+      "id": "f5bab593-a585-43f8-9bed-032b2de537c3",
+      "latitude": -34.873987,
+      "longitude": 138.525441,
       "street": "A7 - Port Rd",
       "city": "Cheltenham",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T23:19:34Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:13:59Z"
     },
     {
-      "id": "163b6535-1f05-4aa9-8bbd-d7c5791d06bd",
-      "latitude": -34.794115,
-      "longitude": 138.613131,
+      "id": "723a8b3e-de07-4cfe-bd1a-504f59dcc2cd",
+      "latitude": -34.794199,
+      "longitude": 138.61288,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-03T00:29:22Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T01:17:19Z"
     },
     {
-      "id": "509eb1fa-3e3d-4ee5-bb64-faf25ceb5674",
-      "latitude": -34.79459,
-      "longitude": 138.651637,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "7d60bdc1-b253-4b81-8bed-0ce2298c4616",
+      "latitude": -34.858772,
+      "longitude": 138.566043,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-02T22:44:35Z"
-    },
-    {
-      "id": "fb29ecb2-340b-4b7d-b049-e5ef4318cadd",
-      "latitude": -35.035397,
-      "longitude": 138.55724,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2025-12-03T01:40:59Z",
-      "reported_at": "2025-12-03T01:31:09Z"
+      "timestamp": "2025-12-03T03:17:43Z",
+      "reported_at": "2025-12-03T02:45:42Z"
     }
   ]
 }
