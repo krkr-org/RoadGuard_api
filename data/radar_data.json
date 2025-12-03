@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "d54f807f-cbcb-4891-9d21-8f23df0da83f",
-      "latitude": -34.93796,
-      "longitude": 138.562024,
-      "street": "Burton St",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T06:52:22Z"
-    },
-    {
       "id": "15ddae01-9fbe-4cc8-ac50-af81fca5b4cb",
       "latitude": -34.92861,
       "longitude": 138.512621,
       "street": "Coral Sea Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
+      "timestamp": "2025-12-03T11:19:12Z",
       "reported_at": "2025-12-03T08:45:55Z"
     },
     {
-      "id": "58f7784f-3fb0-48f2-93f8-c4e39a347eaa",
-      "latitude": -34.95404,
-      "longitude": 138.508082,
+      "id": "2b4eaf87-10f0-4f04-bcfa-5441eee3533e",
+      "latitude": -34.953759,
+      "longitude": 138.507979,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T10:19:56Z"
-    },
-    {
-      "id": "3110dd35-9704-4906-8bf2-492ad4d6b714",
-      "latitude": -34.936939,
-      "longitude": 138.561872,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T06:53:19Z"
-    },
-    {
-      "id": "efcad21a-1732-47b0-b0f4-9173c8a2cd87",
-      "latitude": -34.86977,
-      "longitude": 138.56589,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T07:35:05Z"
-    },
-    {
-      "id": "f7706650-e47d-4d46-9053-18ec1f200227",
-      "latitude": -34.910735,
-      "longitude": 138.581737,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T10:28:00Z"
+      "timestamp": "2025-12-03T11:19:12Z",
+      "reported_at": "2025-12-03T07:13:48Z"
     },
     {
       "id": "84fd138e-7651-4b21-9834-ab9299307b9f",
@@ -67,18 +27,28 @@
       "street": "East Pwy",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
+      "timestamp": "2025-12-03T11:19:12Z",
       "reported_at": "2025-12-03T08:33:35Z"
     },
     {
-      "id": "d0ffe1df-7aaf-44b2-b935-6e89fbab448c",
-      "latitude": -34.768515,
-      "longitude": 138.701966,
-      "street": "Target Hill Rd",
-      "city": "Greenwith",
+      "id": "1de269eb-940f-48f0-9286-c564e449f670",
+      "latitude": -34.938323,
+      "longitude": 138.561978,
+      "street": "Brooker Tce",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T10:25:51Z"
+      "timestamp": "2025-12-03T11:19:12Z",
+      "reported_at": "2025-12-03T07:29:02Z"
+    },
+    {
+      "id": "efcad21a-1732-47b0-b0f4-9173c8a2cd87",
+      "latitude": -34.86977,
+      "longitude": 138.56589,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2025-12-03T11:19:12Z",
+      "reported_at": "2025-12-03T07:35:05Z"
     },
     {
       "id": "b4ee5478-3f6d-49e9-a865-745d1308582d",
@@ -87,18 +57,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
+      "timestamp": "2025-12-03T11:19:12Z",
       "reported_at": "2025-12-03T05:46:28Z"
     },
     {
-      "id": "0f3937d0-3f5d-4090-8085-03eb266fa364",
-      "latitude": -34.895919,
-      "longitude": 138.600409,
-      "street": "A1 - Main North Rd",
-      "city": "Prospect",
+      "id": "617ef578-2182-4065-b74b-72d39eaedd5c",
+      "latitude": -35.022216,
+      "longitude": 138.618961,
+      "street": "B29 - Main Rd",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2025-12-03T10:49:21Z",
-      "reported_at": "2025-12-03T10:28:40Z"
+      "timestamp": "2025-12-03T11:19:12Z",
+      "reported_at": "2025-12-03T10:54:37Z"
     }
   ]
 }
