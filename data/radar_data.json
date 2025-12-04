@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "4a40e7de-22b1-4bbe-aa05-dc73c0f88530",
+      "latitude": -34.954003,
+      "longitude": 138.508069,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-04T21:19:57Z",
+      "reported_at": "2025-12-04T20:44:43Z"
+    },
+    {
+      "id": "ade69f9f-dda9-462b-b11e-6dcf3e0413fb",
+      "latitude": -34.68206,
+      "longitude": 138.636248,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2025-12-04T21:19:57Z",
+      "reported_at": "2025-12-04T20:48:42Z"
+    }
+  ]
 }
