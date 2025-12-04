@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "0a3d1835-7b63-4290-903c-6c71353e3692",
-      "latitude": -34.921296,
-      "longitude": 138.633296,
-      "street": "Church Av",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
-      "reported_at": "2025-12-04T10:12:43Z"
-    },
-    {
       "id": "647ffe40-4ade-4aa6-89c0-ac84595a41ff",
       "latitude": -34.904,
       "longitude": 138.599896,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
+      "timestamp": "2025-12-04T10:49:07Z",
       "reported_at": "2025-12-04T09:35:36Z"
     },
     {
@@ -27,18 +17,28 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
+      "timestamp": "2025-12-04T10:49:07Z",
       "reported_at": "2025-12-04T07:25:28Z"
     },
     {
-      "id": "27bf3395-1c45-4b3f-b86e-67d9c74591fa",
-      "latitude": -34.868973,
-      "longitude": 138.503163,
-      "street": "Frederick Rd",
-      "city": "West Lakes",
+      "id": "92ed7f21-2d24-45ca-bfe9-d3c7cf8f8759",
+      "latitude": -34.959925,
+      "longitude": 138.641177,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
-      "reported_at": "2025-12-04T10:06:02Z"
+      "timestamp": "2025-12-04T10:49:07Z",
+      "reported_at": "2025-12-04T04:58:05Z"
+    },
+    {
+      "id": "f11f6131-1f44-4035-b7bd-8b5cdc2a8dc6",
+      "latitude": -34.875433,
+      "longitude": 138.695516,
+      "street": "B31 - Gorge Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2025-12-04T10:49:07Z",
+      "reported_at": "2025-12-04T05:38:39Z"
     },
     {
       "id": "b5de86c3-8192-4536-b808-5dddcad6ee46",
@@ -47,7 +47,7 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
+      "timestamp": "2025-12-04T10:49:07Z",
       "reported_at": "2025-12-04T06:53:38Z"
     },
     {
@@ -57,18 +57,8 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
+      "timestamp": "2025-12-04T10:49:07Z",
       "reported_at": "2025-12-04T08:31:10Z"
-    },
-    {
-      "id": "f11f6131-1f44-4035-b7bd-8b5cdc2a8dc6",
-      "latitude": -34.875433,
-      "longitude": 138.695516,
-      "street": "B31 - Gorge Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2025-12-04T10:25:08Z",
-      "reported_at": "2025-12-04T05:38:39Z"
     }
   ]
 }
