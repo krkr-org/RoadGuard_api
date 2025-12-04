@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "7b198d90-0a03-4084-8e32-6a8167d12146",
-      "latitude": -34.855071,
-      "longitude": 138.665913,
-      "street": "Tarton Rd",
-      "city": "Holden Hill",
+      "id": "a42433a5-6c88-4494-b3bd-e00381ca3948",
+      "latitude": -34.898795,
+      "longitude": 138.612735,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2025-12-04T04:50:38Z",
-      "reported_at": "2025-12-04T03:56:42Z"
+      "timestamp": "2025-12-04T05:20:18Z",
+      "reported_at": "2025-12-04T04:46:54Z"
     },
     {
       "id": "611c77af-f445-4c02-bc35-d955ba29e0be",
@@ -17,8 +17,28 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2025-12-04T04:50:38Z",
+      "timestamp": "2025-12-04T05:20:18Z",
       "reported_at": "2025-12-04T01:44:29Z"
+    },
+    {
+      "id": "7b198d90-0a03-4084-8e32-6a8167d12146",
+      "latitude": -34.855071,
+      "longitude": 138.665913,
+      "street": "Tarton Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-04T05:20:18Z",
+      "reported_at": "2025-12-04T03:56:42Z"
+    },
+    {
+      "id": "e0b0ecca-a411-4ab1-9788-5b483c56301b",
+      "latitude": -34.710268,
+      "longitude": 138.704503,
+      "street": "Turner Dr",
+      "city": "Craigmore",
+      "type": "mobile",
+      "timestamp": "2025-12-04T05:20:18Z",
+      "reported_at": "2025-12-04T04:56:54Z"
     },
     {
       "id": "782e9bcf-f324-484d-bdab-d80e168b2313",
@@ -27,8 +47,18 @@
       "street": "Sudholz Rd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2025-12-04T04:50:38Z",
+      "timestamp": "2025-12-04T05:20:18Z",
       "reported_at": "2025-12-04T04:38:35Z"
+    },
+    {
+      "id": "92ed7f21-2d24-45ca-bfe9-d3c7cf8f8759",
+      "latitude": -34.959777,
+      "longitude": 138.641053,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2025-12-04T05:20:18Z",
+      "reported_at": "2025-12-04T04:58:05Z"
     }
   ]
 }
