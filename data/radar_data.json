@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "6d1e4a40-8db7-4e09-ab71-2d111b713957",
-      "latitude": -34.956405,
-      "longitude": 138.508948,
+      "id": "24d7947d-21e2-4f9c-8ed3-f9ad54882c85",
+      "latitude": -35.044369,
+      "longitude": 138.617641,
+      "street": "Coromandel Pde",
+      "city": "Coromandel Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-04T22:18:22Z",
+      "reported_at": "2025-12-04T21:59:28Z"
+    },
+    {
+      "id": "4a40e7de-22b1-4bbe-aa05-dc73c0f88530",
+      "latitude": -34.954003,
+      "longitude": 138.508069,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-04T21:40:43Z",
-      "reported_at": "2025-12-04T20:42:11Z"
-    },
-    {
-      "id": "070b1363-90bf-49e1-9f99-573ca94a87e7",
-      "latitude": -34.914022,
-      "longitude": 138.524045,
-      "street": "Valetta Rd",
-      "city": "Kidman Park",
-      "type": "mobile",
-      "timestamp": "2025-12-04T21:40:43Z",
-      "reported_at": "2025-12-04T21:32:05Z"
-    },
-    {
-      "id": "41392464-9be8-416a-a0c5-a073e025ee9b",
-      "latitude": -34.942271,
-      "longitude": 138.633791,
-      "street": "Conyngham St",
-      "city": "Glenside",
-      "type": "mobile",
-      "timestamp": "2025-12-04T21:40:43Z",
-      "reported_at": "2025-12-04T21:14:29Z"
-    },
-    {
-      "id": "a973be2d-9d7f-4aa6-8db8-0a50aeab3b70",
-      "latitude": -34.923576,
-      "longitude": 138.55418,
-      "street": "Hardys Rd",
-      "city": "Underdale",
-      "type": "mobile",
-      "timestamp": "2025-12-04T21:40:43Z",
-      "reported_at": "2025-12-04T21:34:39Z"
+      "timestamp": "2025-12-04T22:18:22Z",
+      "reported_at": "2025-12-04T20:44:43Z"
     },
     {
       "id": "4fd489fa-8c65-4cb7-8a7a-b986d838e203",
@@ -47,18 +27,48 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-04T21:40:43Z",
+      "timestamp": "2025-12-04T22:18:22Z",
       "reported_at": "2025-12-04T21:13:34Z"
     },
     {
-      "id": "2e82bf78-bd11-4419-a3f0-a0e124c30127",
-      "latitude": -34.708017,
-      "longitude": 138.706894,
-      "street": "Yorktown Rd",
-      "city": "Craigmore",
+      "id": "e2572468-3f55-4a96-95f8-8dd2f63a073c",
+      "latitude": -34.935019,
+      "longitude": 138.606493,
+      "street": "Pulteney St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-04T21:40:43Z",
-      "reported_at": "2025-12-04T21:12:22Z"
+      "timestamp": "2025-12-04T22:18:22Z",
+      "reported_at": "2025-12-04T22:10:47Z"
+    },
+    {
+      "id": "ca551f94-a3f3-4bbb-b941-ac5e38e29ea6",
+      "latitude": -35.074934,
+      "longitude": 138.561039,
+      "street": "Candy Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-04T22:18:22Z",
+      "reported_at": "2025-12-04T21:54:12Z"
+    },
+    {
+      "id": "867ca790-8a0b-4a53-a347-6c005238eda3",
+      "latitude": -34.958105,
+      "longitude": 138.711226,
+      "street": "B26 - Greenhill Rd",
+      "city": "Greenhill",
+      "type": "mobile",
+      "timestamp": "2025-12-04T22:18:22Z",
+      "reported_at": "2025-12-04T21:20:36Z"
+    },
+    {
+      "id": "6d2cc4e3-0acd-4f3b-b853-04a0116f9b38",
+      "latitude": -34.712841,
+      "longitude": 138.575996,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2025-12-04T22:18:22Z",
+      "reported_at": "2025-12-04T21:57:27Z"
     }
   ]
 }
