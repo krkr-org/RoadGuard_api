@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "4fc62d1e-bd38-4891-a045-ab04934977c0",
-      "latitude": -35.094348,
-      "longitude": 138.528966,
-      "street": "Pembroke Dr",
-      "city": "Reynella",
+      "id": "5fa9274d-ebfc-4bbc-8d6b-0f0ed82212cb",
+      "latitude": -34.973064,
+      "longitude": 138.582257,
+      "street": "Winston Av",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
-      "reported_at": "2025-12-03T23:18:08Z"
+      "timestamp": "2025-12-04T04:04:08Z",
+      "reported_at": "2025-12-04T03:46:46Z"
+    },
+    {
+      "id": "2cf7ac28-e429-480a-a745-031910799828",
+      "latitude": -34.980131,
+      "longitude": 138.517728,
+      "street": "Gordon St",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2025-12-04T04:04:08Z",
+      "reported_at": "2025-12-04T03:24:18Z"
     },
     {
       "id": "611c77af-f445-4c02-bc35-d955ba29e0be",
@@ -17,7 +27,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
+      "timestamp": "2025-12-04T04:04:08Z",
       "reported_at": "2025-12-04T01:44:29Z"
     },
     {
@@ -27,28 +37,18 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
+      "timestamp": "2025-12-04T04:04:08Z",
       "reported_at": "2025-12-03T22:15:30Z"
     },
     {
-      "id": "fd0c9d0f-1b10-4ae4-9766-25414a04ac40",
-      "latitude": -35.105455,
-      "longitude": 138.519935,
-      "street": "Sherriffs Rd",
-      "city": "Reynella",
+      "id": "15e117bc-ff3b-435c-b436-ca7c18bd4365",
+      "latitude": -34.695467,
+      "longitude": 138.666791,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
-      "reported_at": "2025-12-03T23:41:08Z"
-    },
-    {
-      "id": "79026c3b-3b6a-48fa-8ce1-0ab0a71f1b38",
-      "latitude": -34.881643,
-      "longitude": 138.522782,
-      "street": "West Lakes Bvd",
-      "city": "Albert Park",
-      "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
-      "reported_at": "2025-12-04T02:18:42Z"
+      "timestamp": "2025-12-04T04:04:08Z",
+      "reported_at": "2025-12-04T03:43:03Z"
     },
     {
       "id": "3d2994d0-5125-41d1-b348-7befb12f54ff",
@@ -57,28 +57,8 @@
       "street": "A7 - Port Rd",
       "city": "Albert Park",
       "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
+      "timestamp": "2025-12-04T04:04:08Z",
       "reported_at": "2025-12-04T02:56:29Z"
-    },
-    {
-      "id": "b42569f3-ff2e-414d-a7ee-8c123f3a6d21",
-      "latitude": -34.69509,
-      "longitude": 138.685976,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
-      "reported_at": "2025-12-04T03:00:41Z"
-    },
-    {
-      "id": "caa28637-e6d1-4da4-9bd7-ed5a85847721",
-      "latitude": -34.66958,
-      "longitude": 138.652054,
-      "street": "M2 - Northern Exp",
-      "city": "Andrews Farm",
-      "type": "mobile",
-      "timestamp": "2025-12-04T03:19:43Z",
-      "reported_at": "2025-12-04T03:14:37Z"
     }
   ]
 }
