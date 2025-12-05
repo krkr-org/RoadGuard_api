@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "9950ad4e-fc73-47d3-a133-49fc6013ccf8",
-      "latitude": -34.797007,
-      "longitude": 138.649894,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T07:43:53Z"
-    },
-    {
       "id": "c0d5228e-7e1b-4c75-9691-4406b1e337af",
       "latitude": -35.028535,
       "longitude": 138.53289,
       "street": "Neath Av",
       "city": "South Brighton",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
+      "timestamp": "2025-12-05T10:46:20Z",
       "reported_at": "2025-12-05T06:58:47Z"
+    },
+    {
+      "id": "9950ad4e-fc73-47d3-a133-49fc6013ccf8",
+      "latitude": -34.797007,
+      "longitude": 138.649894,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T07:43:53Z"
     },
     {
       "id": "779dae03-ee7f-4320-8ab0-8f2c28d0c0fb",
@@ -27,7 +27,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
+      "timestamp": "2025-12-05T10:46:20Z",
       "reported_at": "2025-12-05T07:49:39Z"
     },
     {
@@ -37,18 +37,18 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
+      "timestamp": "2025-12-05T10:46:20Z",
       "reported_at": "2025-12-05T08:07:27Z"
     },
     {
-      "id": "4f216f8f-49e7-44f6-bbbd-775be9145937",
-      "latitude": -34.715701,
-      "longitude": 138.687306,
+      "id": "1e36d6a5-95ac-4f06-8462-a7ed510aeb1b",
+      "latitude": -34.717033,
+      "longitude": 138.686472,
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T05:49:05Z"
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T06:32:58Z"
     },
     {
       "id": "423e1a00-067c-4275-b79b-a9dc57b66f56",
@@ -57,28 +57,58 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
+      "timestamp": "2025-12-05T10:46:20Z",
       "reported_at": "2025-12-05T05:07:05Z"
     },
     {
-      "id": "020dbc7e-7c84-440a-af30-da5909ddb027",
-      "latitude": -34.739437,
-      "longitude": 138.6041,
+      "id": "d7623b56-ec5c-4cd5-bab6-337ee37a9f53",
+      "latitude": -34.737962,
+      "longitude": 138.601689,
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T06:58:04Z"
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T06:34:03Z"
     },
     {
-      "id": "9e1a660b-6552-4d58-9cf7-b2a6520df6d8",
-      "latitude": -34.948395,
-      "longitude": 138.58942,
-      "street": "Goodwood Rd",
-      "city": "Wayville",
+      "id": "ddfef60b-1504-4da9-a455-d243ebf808e0",
+      "latitude": -34.826015,
+      "longitude": 138.60713,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T10:07:19Z"
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T10:00:34Z"
+    },
+    {
+      "id": "9fd7231f-0f67-43ca-b43b-89fbb265f672",
+      "latitude": -35.100683,
+      "longitude": 138.531356,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T10:30:53Z"
+    },
+    {
+      "id": "62a19f87-b1f6-4c20-9531-435adcc8097e",
+      "latitude": -34.837774,
+      "longitude": 138.596917,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T05:10:56Z"
+    },
+    {
+      "id": "1eac904a-ff67-4649-88b2-9e3df00294ce",
+      "latitude": -34.941376,
+      "longitude": 138.583726,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-05T10:46:20Z",
+      "reported_at": "2025-12-05T10:41:17Z"
     },
     {
       "id": "7ab508d4-12ed-427b-a2f8-cd99619b4f43",
@@ -87,7 +117,7 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
+      "timestamp": "2025-12-05T10:46:20Z",
       "reported_at": "2025-12-05T07:10:39Z"
     },
     {
@@ -97,48 +127,8 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
+      "timestamp": "2025-12-05T10:46:20Z",
       "reported_at": "2025-12-05T06:59:24Z"
-    },
-    {
-      "id": "f7f6e0b9-0cef-409b-97bc-182db2d2e39c",
-      "latitude": -34.942829,
-      "longitude": 138.582248,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T09:59:25Z"
-    },
-    {
-      "id": "62a19f87-b1f6-4c20-9531-435adcc8097e",
-      "latitude": -34.837774,
-      "longitude": 138.596917,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T05:10:56Z"
-    },
-    {
-      "id": "9e858edc-00d0-46d9-aa11-c08c365340b4",
-      "latitude": -34.870107,
-      "longitude": 138.570659,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T09:45:49Z"
-    },
-    {
-      "id": "b5fe4e88-82ef-4897-8bd2-bf478e543e12",
-      "latitude": -35.005657,
-      "longitude": 138.770596,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2025-12-05T10:22:43Z",
-      "reported_at": "2025-12-05T10:03:03Z"
     }
   ]
 }
