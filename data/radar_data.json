@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "a4fd509a-f2f3-4e71-8536-cff3c76d2182",
-      "latitude": -34.926645,
-      "longitude": 138.512722,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2025-12-05T12:42:47Z",
-      "reported_at": "2025-12-05T12:30:44Z"
-    },
-    {
       "id": "d14c1e16-5858-4730-9105-9dc304daccfe",
       "latitude": -34.738108,
       "longitude": 138.601927,
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-12-05T12:42:47Z",
+      "timestamp": "2025-12-05T13:32:23Z",
       "reported_at": "2025-12-05T09:42:42Z"
     },
     {
-      "id": "cfeb80f2-9642-4f39-88df-2ae870b22418",
-      "latitude": -34.974573,
-      "longitude": 138.538343,
-      "street": "A5 - Anzac Hwy",
-      "city": "Camden Park",
+      "id": "b32d334b-3b25-49aa-9c40-a25e8b02c984",
+      "latitude": -34.990505,
+      "longitude": 138.598522,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-05T12:42:47Z",
-      "reported_at": "2025-12-05T12:08:50Z"
+      "timestamp": "2025-12-05T13:32:23Z",
+      "reported_at": "2025-12-05T12:43:30Z"
+    },
+    {
+      "id": "acf0a712-640f-4e5c-ab3b-3f4c555e4ba1",
+      "latitude": -34.923974,
+      "longitude": 138.608258,
+      "street": "Grenfell St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-05T13:32:23Z",
+      "reported_at": "2025-12-05T12:34:08Z"
+    },
+    {
+      "id": "8995206b-c125-4d51-a5e2-6195d9f01f26",
+      "latitude": -34.914397,
+      "longitude": 138.565859,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2025-12-05T13:32:23Z",
+      "reported_at": "2025-12-05T11:46:36Z"
     },
     {
       "id": "e3b95121-dcac-4e5e-8ca8-cefc033ffb30",
@@ -37,18 +47,8 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-05T12:42:47Z",
+      "timestamp": "2025-12-05T13:32:23Z",
       "reported_at": "2025-12-05T10:23:29Z"
-    },
-    {
-      "id": "21548bd7-a586-4176-832e-4ef1e1fc3d2c",
-      "latitude": -34.796321,
-      "longitude": 138.654593,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2025-12-05T12:42:47Z",
-      "reported_at": "2025-12-05T09:16:45Z"
     }
   ]
 }
