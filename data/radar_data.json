@@ -1,14 +1,64 @@
 {
   "radars": [
     {
+      "id": "0f6579b8-c93a-4868-aa3b-c26a479fe900",
+      "latitude": -34.891785,
+      "longitude": 138.661637,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2025-12-05T21:40:13Z",
+      "reported_at": "2025-12-05T21:12:45Z"
+    },
+    {
+      "id": "85137a24-0891-40c8-8c54-631b148fdc40",
+      "latitude": -34.990467,
+      "longitude": 138.59926,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-05T21:40:13Z",
+      "reported_at": "2025-12-05T21:24:12Z"
+    },
+    {
+      "id": "943e0fd0-2d21-49ed-81a6-d720237e838f",
+      "latitude": -34.990343,
+      "longitude": 138.601774,
+      "street": "Springbank Rd",
+      "city": "Clapham",
+      "type": "mobile",
+      "timestamp": "2025-12-05T21:40:13Z",
+      "reported_at": "2025-12-05T21:24:27Z"
+    },
+    {
+      "id": "0489276f-646a-4489-9cf5-9f741f9104f7",
+      "latitude": -34.916499,
+      "longitude": 138.61445,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-05T21:40:13Z",
+      "reported_at": "2025-12-05T21:31:01Z"
+    },
+    {
       "id": "9ba10675-fefb-4a51-a261-3a141fcf0b8d",
       "latitude": -35.039684,
       "longitude": 138.559255,
       "street": "A13 - Main South Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-12-05T21:19:08Z",
+      "timestamp": "2025-12-05T21:40:13Z",
       "reported_at": "2025-12-05T21:13:14Z"
+    },
+    {
+      "id": "997bbd4c-abdc-4586-baec-e6595e8bbcba",
+      "latitude": -34.919149,
+      "longitude": 138.615932,
+      "street": "A11 - North Tce",
+      "city": "Hackney",
+      "type": "mobile",
+      "timestamp": "2025-12-05T21:40:13Z",
+      "reported_at": "2025-12-05T21:31:53Z"
     }
   ]
 }
