@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "0f6579b8-c93a-4868-aa3b-c26a479fe900",
-      "latitude": -34.891785,
-      "longitude": 138.661637,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
-      "reported_at": "2025-12-05T21:12:45Z"
-    },
-    {
       "id": "8a6b4fa6-0052-4b27-b5bf-51b4276e4dc0",
       "latitude": -34.903642,
       "longitude": 138.667994,
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
+      "timestamp": "2025-12-05T23:38:49Z",
       "reported_at": "2025-12-05T21:34:19Z"
+    },
+    {
+      "id": "0f6579b8-c93a-4868-aa3b-c26a479fe900",
+      "latitude": -34.891785,
+      "longitude": 138.661637,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2025-12-05T23:38:49Z",
+      "reported_at": "2025-12-05T21:12:45Z"
     },
     {
       "id": "c7b379d1-0cf0-4c13-8486-09419b201829",
@@ -27,7 +27,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
+      "timestamp": "2025-12-05T23:38:49Z",
       "reported_at": "2025-12-05T21:24:43Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
+      "timestamp": "2025-12-05T23:38:49Z",
       "reported_at": "2025-12-05T22:24:00Z"
+    },
+    {
+      "id": "cfa81ea2-55c1-4b42-bb1e-f5d9ca0df28e",
+      "latitude": -35.086637,
+      "longitude": 138.587377,
+      "street": "Chandlers Hill Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-05T23:38:49Z",
+      "reported_at": "2025-12-05T23:22:09Z"
     },
     {
       "id": "893c8eeb-9ad1-4318-8f56-51fab2ea8aea",
@@ -47,7 +57,7 @@
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
+      "timestamp": "2025-12-05T23:38:49Z",
       "reported_at": "2025-12-05T21:52:52Z"
     },
     {
@@ -57,18 +67,8 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
+      "timestamp": "2025-12-05T23:38:49Z",
       "reported_at": "2025-12-05T21:37:51Z"
-    },
-    {
-      "id": "adb29dd8-1e2d-496b-98ff-f5c421c27456",
-      "latitude": -35.007835,
-      "longitude": 138.575698,
-      "street": "A2 - South Rd",
-      "city": "Tonsley",
-      "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
-      "reported_at": "2025-12-05T22:39:23Z"
     },
     {
       "id": "85137a24-0891-40c8-8c54-631b148fdc40",
@@ -77,8 +77,28 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:19:15Z",
+      "timestamp": "2025-12-05T23:38:49Z",
       "reported_at": "2025-12-05T21:24:12Z"
+    },
+    {
+      "id": "749bc55b-dadc-45a3-9515-c58bb5aaf9c1",
+      "latitude": -34.694654,
+      "longitude": 138.666997,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2025-12-05T23:38:49Z",
+      "reported_at": "2025-12-05T21:19:27Z"
+    },
+    {
+      "id": "6d86fb98-4c9c-45ba-a922-d8861fe0466b",
+      "latitude": -34.805296,
+      "longitude": 138.635013,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-12-05T23:38:49Z",
+      "reported_at": "2025-12-05T23:32:55Z"
     }
   ]
 }
