@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "c0d5228e-7e1b-4c75-9691-4406b1e337af",
+      "latitude": -35.028535,
+      "longitude": 138.53289,
+      "street": "Neath Av",
+      "city": "South Brighton",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T06:58:47Z"
+    },
+    {
+      "id": "779dae03-ee7f-4320-8ab0-8f2c28d0c0fb",
+      "latitude": -34.91555,
+      "longitude": 138.587298,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T07:49:39Z"
+    },
+    {
       "id": "f5bb6bab-5b44-40aa-9bb6-f3575c88a467",
       "latitude": -34.90204,
       "longitude": 138.575555,
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
+      "timestamp": "2025-12-05T08:28:35Z",
       "reported_at": "2025-12-05T06:00:28Z"
     },
     {
@@ -17,28 +37,48 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
+      "timestamp": "2025-12-05T08:28:35Z",
       "reported_at": "2025-12-05T05:07:05Z"
     },
     {
-      "id": "4f216f8f-49e7-44f6-bbbd-775be9145937",
-      "latitude": -34.715701,
-      "longitude": 138.687306,
+      "id": "1e36d6a5-95ac-4f06-8462-a7ed510aeb1b",
+      "latitude": -34.717033,
+      "longitude": 138.686472,
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
-      "reported_at": "2025-12-05T05:49:05Z"
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T06:32:58Z"
     },
     {
-      "id": "2a40c79b-3598-427d-8dcb-650af196ec7e",
-      "latitude": -34.831482,
-      "longitude": 138.645899,
-      "street": "Walkleys Rd",
-      "city": "Ingle Farm",
+      "id": "3bc642df-e3dc-4efc-9227-012a86bab97a",
+      "latitude": -34.995678,
+      "longitude": 138.543806,
+      "street": "Oaklands Rd",
+      "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
-      "reported_at": "2025-12-05T07:24:44Z"
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T08:03:37Z"
+    },
+    {
+      "id": "018df7b3-3172-458f-8fca-ccd4fe4380a7",
+      "latitude": -34.942539,
+      "longitude": 138.562509,
+      "street": "Richmond Rd",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T08:02:00Z"
+    },
+    {
+      "id": "a9f323ec-70f7-4a6c-a2ae-b3ddeacd6c0b",
+      "latitude": -34.99155,
+      "longitude": 138.592765,
+      "street": "Goodwood Rd",
+      "city": "Daw Park",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T07:52:49Z"
     },
     {
       "id": "3a517837-e77e-42b0-89b1-ea586d008d42",
@@ -47,8 +87,18 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
+      "timestamp": "2025-12-05T08:28:35Z",
       "reported_at": "2025-12-05T05:27:18Z"
+    },
+    {
+      "id": "7d5bf4a5-2f84-4f71-aeab-fec1b1fe32c6",
+      "latitude": -35.12902,
+      "longitude": 138.48565,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T08:11:49Z"
     },
     {
       "id": "62a19f87-b1f6-4c20-9531-435adcc8097e",
@@ -57,18 +107,38 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
+      "timestamp": "2025-12-05T08:28:35Z",
       "reported_at": "2025-12-05T05:10:56Z"
     },
     {
-      "id": "b79fffa5-2c41-47df-b658-39a2a7c5c9f9",
-      "latitude": -34.882654,
-      "longitude": 138.584671,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
+      "id": "83ebf451-5f18-467a-b8c5-a775a26458fa",
+      "latitude": -34.935458,
+      "longitude": 138.55278,
+      "street": "A14 - Marion Rd",
+      "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
-      "reported_at": "2025-12-05T06:33:29Z"
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T08:03:05Z"
+    },
+    {
+      "id": "7aff8aed-1c97-43e1-89ac-944ba2efdd26",
+      "latitude": -34.850639,
+      "longitude": 138.544418,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T08:06:22Z"
+    },
+    {
+      "id": "4a678579-5c66-4e1c-bcad-db146e707cc2",
+      "latitude": -34.67116,
+      "longitude": 138.700601,
+      "street": "A20 - Main North Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2025-12-05T08:28:35Z",
+      "reported_at": "2025-12-05T06:59:24Z"
     },
     {
       "id": "efa11347-deac-4e74-ad18-cd9eb1ad27e1",
@@ -77,7 +147,7 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
+      "timestamp": "2025-12-05T08:28:35Z",
       "reported_at": "2025-12-05T06:07:39Z"
     },
     {
@@ -87,28 +157,8 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
+      "timestamp": "2025-12-05T08:28:35Z",
       "reported_at": "2025-12-05T06:19:04Z"
-    },
-    {
-      "id": "4a678579-5c66-4e1c-bcad-db146e707cc2",
-      "latitude": -34.67116,
-      "longitude": 138.700601,
-      "street": "A20 - Main North Rd",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
-      "reported_at": "2025-12-05T06:59:24Z"
-    },
-    {
-      "id": "ab460311-6e76-4024-88b0-41dd288c8601",
-      "latitude": -34.670086,
-      "longitude": 138.701435,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
-      "type": "mobile",
-      "timestamp": "2025-12-05T07:41:37Z",
-      "reported_at": "2025-12-05T07:23:39Z"
     }
   ]
 }
