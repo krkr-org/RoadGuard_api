@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "9950ad4e-fc73-47d3-a133-49fc6013ccf8",
-      "latitude": -34.797007,
-      "longitude": 138.649894,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
-      "reported_at": "2025-12-05T07:43:53Z"
-    },
-    {
       "id": "c0d5228e-7e1b-4c75-9691-4406b1e337af",
       "latitude": -35.028535,
       "longitude": 138.53289,
       "street": "Neath Av",
       "city": "South Brighton",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T06:58:47Z"
+    },
+    {
+      "id": "9950ad4e-fc73-47d3-a133-49fc6013ccf8",
+      "latitude": -34.797007,
+      "longitude": 138.649894,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-12-05T09:43:17Z",
+      "reported_at": "2025-12-05T07:43:53Z"
     },
     {
       "id": "779dae03-ee7f-4320-8ab0-8f2c28d0c0fb",
@@ -27,7 +27,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T07:49:39Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T06:00:28Z"
     },
     {
@@ -47,8 +47,18 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T08:07:27Z"
+    },
+    {
+      "id": "1e36d6a5-95ac-4f06-8462-a7ed510aeb1b",
+      "latitude": -34.717033,
+      "longitude": 138.686472,
+      "street": "Midway Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2025-12-05T09:43:17Z",
+      "reported_at": "2025-12-05T06:32:58Z"
     },
     {
       "id": "08f4000a-8c63-47db-9f5f-f9b94ee3b0aa",
@@ -57,38 +67,8 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T05:13:55Z"
-    },
-    {
-      "id": "4f216f8f-49e7-44f6-bbbd-775be9145937",
-      "latitude": -34.715701,
-      "longitude": 138.687306,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
-      "reported_at": "2025-12-05T05:49:05Z"
-    },
-    {
-      "id": "b46e0181-ecad-4f6e-85f7-45e08369a482",
-      "latitude": -34.862014,
-      "longitude": 138.547439,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
-      "reported_at": "2025-12-05T08:53:56Z"
-    },
-    {
-      "id": "020dbc7e-7c84-440a-af30-da5909ddb027",
-      "latitude": -34.739437,
-      "longitude": 138.6041,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
-      "reported_at": "2025-12-05T06:58:04Z"
     },
     {
       "id": "c4a5704f-7774-4b4b-a8fd-6955aa690782",
@@ -97,8 +77,38 @@
       "street": "Glynburn Rd",
       "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T08:22:55Z"
+    },
+    {
+      "id": "020dbc7e-7c84-440a-af30-da5909ddb027",
+      "latitude": -34.739437,
+      "longitude": 138.6041,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2025-12-05T09:43:17Z",
+      "reported_at": "2025-12-05T06:58:04Z"
+    },
+    {
+      "id": "b46e0181-ecad-4f6e-85f7-45e08369a482",
+      "latitude": -34.862014,
+      "longitude": 138.547439,
+      "street": "Hanson Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2025-12-05T09:43:17Z",
+      "reported_at": "2025-12-05T08:53:56Z"
+    },
+    {
+      "id": "1dcadf8a-1108-4ec6-ada1-f3082b4c1688",
+      "latitude": -34.796624,
+      "longitude": 138.654886,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-05T09:43:17Z",
+      "reported_at": "2025-12-05T09:25:53Z"
     },
     {
       "id": "7ab508d4-12ed-427b-a2f8-cd99619b4f43",
@@ -107,18 +117,8 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T07:10:39Z"
-    },
-    {
-      "id": "62a19f87-b1f6-4c20-9531-435adcc8097e",
-      "latitude": -34.837774,
-      "longitude": 138.596917,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
-      "reported_at": "2025-12-05T05:10:56Z"
     },
     {
       "id": "4a678579-5c66-4e1c-bcad-db146e707cc2",
@@ -127,18 +127,18 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
+      "timestamp": "2025-12-05T09:43:17Z",
       "reported_at": "2025-12-05T06:59:24Z"
     },
     {
-      "id": "93351827-efd7-4e43-a581-048bb68b5584",
-      "latitude": -34.942839,
-      "longitude": 138.553304,
-      "street": "A14 - Marion Rd",
-      "city": "Richmond",
+      "id": "62a19f87-b1f6-4c20-9531-435adcc8097e",
+      "latitude": -34.837774,
+      "longitude": 138.596917,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-05T09:22:19Z",
-      "reported_at": "2025-12-05T08:55:53Z"
+      "timestamp": "2025-12-05T09:43:17Z",
+      "reported_at": "2025-12-05T05:10:56Z"
     }
   ]
 }
