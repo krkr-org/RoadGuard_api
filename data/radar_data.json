@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "8b1d1884-ef2b-4232-a23e-1eea114d64c8",
+      "latitude": -34.762353,
+      "longitude": 138.685072,
+      "street": "Target Hill Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-12-05T15:44:20Z",
+      "reported_at": "2025-12-05T15:22:30Z"
+    },
+    {
       "id": "acf0a712-640f-4e5c-ab3b-3f4c555e4ba1",
       "latitude": -34.923974,
       "longitude": 138.608258,
       "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-05T15:22:45Z",
+      "timestamp": "2025-12-05T15:44:20Z",
       "reported_at": "2025-12-05T12:34:08Z"
     },
     {
@@ -17,28 +27,18 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-05T15:22:45Z",
+      "timestamp": "2025-12-05T15:44:20Z",
       "reported_at": "2025-12-05T12:43:30Z"
     },
     {
-      "id": "8f0bbe87-9c1a-4b3d-ac1c-ef4779017b2c",
-      "latitude": -34.837973,
-      "longitude": 138.677832,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "0883483f-8ee3-4aa3-9760-de16b4b0da2e",
+      "latitude": -34.970173,
+      "longitude": 138.545134,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-12-05T15:22:45Z",
-      "reported_at": "2025-12-05T14:51:01Z"
-    },
-    {
-      "id": "799fd0db-e586-40e0-ab67-1cf7fc268fd8",
-      "latitude": -34.864669,
-      "longitude": 138.570242,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2025-12-05T15:22:45Z",
-      "reported_at": "2025-12-05T14:37:30Z"
+      "timestamp": "2025-12-05T15:44:20Z",
+      "reported_at": "2025-12-05T14:48:11Z"
     }
   ]
 }
