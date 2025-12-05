@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "b2ed7453-9578-4b13-930d-36354be55aca",
-      "latitude": -34.965192,
-      "longitude": 138.53697,
-      "street": "Morphett Rd",
-      "city": "Novar Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
-      "reported_at": "2025-12-05T04:41:55Z"
-    },
-    {
       "id": "7e384b7b-efd3-4471-b419-2e9863a632d0",
       "latitude": -34.920156,
       "longitude": 138.569186,
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
+      "timestamp": "2025-12-05T05:20:30Z",
       "reported_at": "2025-12-05T00:20:32Z"
-    },
-    {
-      "id": "0b78ac03-2708-4247-9c02-24a499e3bb73",
-      "latitude": -34.878605,
-      "longitude": 138.614428,
-      "street": "Galway Av",
-      "city": "Broadview",
-      "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
-      "reported_at": "2025-12-05T00:10:57Z"
-    },
-    {
-      "id": "08bf2dc6-798f-48a4-8a10-24e703325ad3",
-      "latitude": -34.913917,
-      "longitude": 138.573132,
-      "street": "Phillips St",
-      "city": "Thebarton",
-      "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
-      "reported_at": "2025-12-05T02:57:59Z"
     },
     {
       "id": "329794b9-4998-4066-b204-31b810e1a27b",
@@ -47,28 +17,118 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
+      "timestamp": "2025-12-05T05:20:30Z",
       "reported_at": "2025-12-04T23:00:45Z"
     },
     {
-      "id": "8a104d2c-32ea-44ef-9b0c-e5c2461fda71",
-      "latitude": -34.901938,
-      "longitude": 138.542109,
+      "id": "08bf2dc6-798f-48a4-8a10-24e703325ad3",
+      "latitude": -34.913917,
+      "longitude": 138.573132,
+      "street": "Phillips St",
+      "city": "Thebarton",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T02:57:59Z"
+    },
+    {
+      "id": "0b78ac03-2708-4247-9c02-24a499e3bb73",
+      "latitude": -34.878605,
+      "longitude": 138.614428,
+      "street": "Galway Av",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T00:10:57Z"
+    },
+    {
+      "id": "423e1a00-067c-4275-b79b-a9dc57b66f56",
+      "latitude": -34.73705,
+      "longitude": 138.646107,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:07:05Z"
+    },
+    {
+      "id": "c1e30fe2-07b5-483d-aff0-655df48befdd",
+      "latitude": -34.892054,
+      "longitude": 138.506459,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:17:00Z"
+    },
+    {
+      "id": "921a5d98-7fb4-432a-b298-16624315abc5",
+      "latitude": -34.899585,
+      "longitude": 138.538436,
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
-      "reported_at": "2025-12-05T03:03:02Z"
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T02:05:09Z"
     },
     {
-      "id": "e036d1f3-4944-4b25-b63f-9e513c73fee8",
-      "latitude": -34.92756,
-      "longitude": 138.629569,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "c27730ff-ec40-441e-a188-f766497a2e6c",
+      "latitude": -35.080541,
+      "longitude": 138.796887,
+      "street": "B34 - Echunga Rd",
+      "city": "Biggs Flat",
       "type": "mobile",
-      "timestamp": "2025-12-05T04:50:14Z",
-      "reported_at": "2025-12-05T04:42:53Z"
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:17:45Z"
+    },
+    {
+      "id": "b370afc0-e226-43f4-bce7-a3db7d464644",
+      "latitude": -34.837713,
+      "longitude": 138.597207,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:10:39Z"
+    },
+    {
+      "id": "27d64432-a6f1-4817-9d2f-f0b084f3cd45",
+      "latitude": -34.77297,
+      "longitude": 138.663622,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T04:59:57Z"
+    },
+    {
+      "id": "4f008913-7857-4fb3-ae2a-61ea399b4a77",
+      "latitude": -34.669341,
+      "longitude": 138.701636,
+      "street": "A20 - Main North Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:13:20Z"
+    },
+    {
+      "id": "d5a10e75-5578-4331-b186-2f055630981c",
+      "latitude": -34.796205,
+      "longitude": 138.654401,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:09:46Z"
+    },
+    {
+      "id": "6a0527cf-c143-497c-8108-ee7ec3891e8e",
+      "latitude": -34.742322,
+      "longitude": 138.579605,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2025-12-05T05:20:30Z",
+      "reported_at": "2025-12-05T05:18:51Z"
     }
   ]
 }
