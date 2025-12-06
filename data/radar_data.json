@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "aa34b913-34bb-45ad-ac30-81dceeb88a4e",
-      "latitude": -34.990447,
-      "longitude": 138.599705,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "ecf0a81f-16bf-4873-91be-d37dbc50ca42",
+      "latitude": -34.905938,
+      "longitude": 138.524068,
+      "street": "Grange Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2025-12-06T22:41:09Z",
-      "reported_at": "2025-12-06T21:18:50Z"
+      "timestamp": "2025-12-06T23:18:37Z",
+      "reported_at": "2025-12-06T23:09:46Z"
     },
     {
-      "id": "96cd136c-fed8-43dd-bd38-b621799a9154",
-      "latitude": -34.955131,
-      "longitude": 138.516559,
+      "id": "e7e01697-9b4e-4164-bb6a-4ddf7f85514b",
+      "latitude": -34.96403,
+      "longitude": 138.554578,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-06T23:18:37Z",
+      "reported_at": "2025-12-06T23:03:18Z"
+    },
+    {
+      "id": "09f5172d-f1b9-4aee-8401-cd8d53c1e263",
+      "latitude": -34.953794,
+      "longitude": 138.517654,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-06T22:41:09Z",
-      "reported_at": "2025-12-06T22:00:46Z"
+      "timestamp": "2025-12-06T23:18:37Z",
+      "reported_at": "2025-12-06T23:11:34Z"
+    },
+    {
+      "id": "79a02386-cef0-46c0-b905-f956e778f79f",
+      "latitude": -34.826891,
+      "longitude": 138.50047,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2025-12-06T23:18:37Z",
+      "reported_at": "2025-12-06T22:43:20Z"
+    },
+    {
+      "id": "9124a246-db09-4b1c-aea0-b500eb42f1ef",
+      "latitude": -34.681081,
+      "longitude": 138.607469,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-06T23:18:37Z",
+      "reported_at": "2025-12-06T23:12:32Z"
     }
   ]
 }
