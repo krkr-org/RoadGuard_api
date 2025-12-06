@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e58be012-2aa5-4d6c-9d10-23918b915560",
-      "latitude": -34.992367,
-      "longitude": 138.583457,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "30032e41-e7ff-4e0b-8177-59c7ff639885",
+      "latitude": -35.007833,
+      "longitude": 138.560809,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T13:27:02Z",
-      "reported_at": "2025-12-06T10:59:21Z"
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T10:12:49Z"
     },
     {
       "id": "07e784bd-abfd-40ed-9ee4-7e7f21e5bfc2",
@@ -17,18 +17,18 @@
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2025-12-06T13:27:02Z",
+      "timestamp": "2025-12-06T13:43:20Z",
       "reported_at": "2025-12-06T13:15:21Z"
     },
     {
-      "id": "4a2e2cd1-3c85-49e5-a7c2-d4d7e8e4c3f4",
-      "latitude": -34.927116,
-      "longitude": 138.632635,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "68667825-e42b-4499-8df9-e5e3010e3e5f",
+      "latitude": -34.889994,
+      "longitude": 138.572746,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T13:27:02Z",
-      "reported_at": "2025-12-06T12:09:31Z"
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T13:08:57Z"
     },
     {
       "id": "91acf554-3f60-406b-b4e5-202ebaaec31b",
@@ -37,18 +37,78 @@
       "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-06T13:27:02Z",
+      "timestamp": "2025-12-06T13:43:20Z",
       "reported_at": "2025-12-06T12:55:11Z"
     },
     {
-      "id": "3ca53e82-ed90-4ee1-81e2-b3f451be51f5",
-      "latitude": -34.849805,
-      "longitude": 138.600355,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "fad53015-ca9c-4b76-aca3-6da5dc48d801",
+      "latitude": -34.921887,
+      "longitude": 138.590644,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-06T13:27:02Z",
-      "reported_at": "2025-12-06T12:56:07Z"
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T13:16:57Z"
+    },
+    {
+      "id": "e58be012-2aa5-4d6c-9d10-23918b915560",
+      "latitude": -34.992367,
+      "longitude": 138.583457,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T10:59:21Z"
+    },
+    {
+      "id": "4a2e2cd1-3c85-49e5-a7c2-d4d7e8e4c3f4",
+      "latitude": -34.927116,
+      "longitude": 138.632635,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T12:09:31Z"
+    },
+    {
+      "id": "eb08fd7b-b34b-418a-bf2d-e9e2be68037a",
+      "latitude": -34.952934,
+      "longitude": 138.572059,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T13:19:25Z"
+    },
+    {
+      "id": "15d4a9b1-d18b-4f1b-bcc3-0698a53713ea",
+      "latitude": -34.898025,
+      "longitude": 138.560701,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T13:26:47Z"
+    },
+    {
+      "id": "815927b9-c147-42a7-b74f-9d006a23d49d",
+      "latitude": -34.890334,
+      "longitude": 138.549958,
+      "street": "A7 - Port Rd",
+      "city": "West Croydon",
+      "type": "mobile",
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T13:19:38Z"
+    },
+    {
+      "id": "195e4cb7-d231-4682-81ce-da6d55a1df9e",
+      "latitude": -34.80669,
+      "longitude": 138.601711,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-06T13:43:20Z",
+      "reported_at": "2025-12-06T13:35:44Z"
     },
     {
       "id": "ce5d6176-1eb5-474f-b8e7-da9f0cdef156",
@@ -57,7 +117,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T13:27:02Z",
+      "timestamp": "2025-12-06T13:43:20Z",
       "reported_at": "2025-12-06T13:06:27Z"
     }
   ]
