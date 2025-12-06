@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "d3b8cb52-37f9-48c9-8808-76d87bae7c8e",
-      "latitude": -35.027924,
-      "longitude": 138.532835,
-      "street": "Neath Av",
-      "city": "South Brighton",
+      "id": "92955ce1-5d71-4214-8112-1b92c9cfb529",
+      "latitude": -34.937719,
+      "longitude": 138.499927,
+      "street": "Seaview Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T05:56:19Z"
-    },
-    {
-      "id": "d2f9a5c3-2d68-4b89-ae7b-9a3e31cfedb5",
-      "latitude": -35.023218,
-      "longitude": 138.525845,
-      "street": "Lewis St",
-      "city": "Brighton",
-      "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T06:01:43Z"
-    },
-    {
-      "id": "c288ac8e-c203-4244-8adf-30825f200ae8",
-      "latitude": -34.94942,
-      "longitude": 138.567882,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T05:37:02Z"
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:48:24Z"
     },
     {
       "id": "fef73f10-f3c0-45a2-b847-f4e95c401930",
@@ -37,38 +17,18 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
+      "timestamp": "2025-12-06T10:19:59Z",
       "reported_at": "2025-12-06T07:17:37Z"
     },
     {
-      "id": "88d37f0c-855e-4093-b63a-eb3caa29a279",
-      "latitude": -34.968363,
-      "longitude": 138.543326,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T05:36:59Z"
-    },
-    {
-      "id": "6f6860e6-eefe-42a9-abe9-34f2b8322187",
-      "latitude": -34.848868,
-      "longitude": 138.5466,
-      "street": "Hanson Rd North",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T09:04:37Z"
-    },
-    {
-      "id": "aa168596-1d88-4f99-81eb-4ce00e58c54e",
-      "latitude": -34.992536,
-      "longitude": 138.582422,
+      "id": "9fdb52e7-e197-4ec5-beb0-2216b0eb9e0a",
+      "latitude": -34.992364,
+      "longitude": 138.583508,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T09:08:57Z"
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T06:42:33Z"
     },
     {
       "id": "c9f1251b-1f30-4e44-813e-4e389d247315",
@@ -77,18 +37,98 @@
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
+      "timestamp": "2025-12-06T10:19:59Z",
       "reported_at": "2025-12-06T05:01:23Z"
     },
     {
-      "id": "f3fb58ec-acfd-46e1-942a-6eb40cd8e463",
-      "latitude": -34.904304,
-      "longitude": 138.554285,
-      "street": "Grange Rd",
-      "city": "Allenby Gardens",
+      "id": "3b68c162-90a3-404e-b93e-101711a818af",
+      "latitude": -35.018256,
+      "longitude": 138.53983,
+      "street": "Sturt Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T09:08:39Z"
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:38:14Z"
+    },
+    {
+      "id": "5f4ec8a5-ac33-434a-92c2-eb7f4565dd5b",
+      "latitude": -35.015578,
+      "longitude": 138.540743,
+      "street": "Morphett Rd",
+      "city": "Oaklands Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:38:44Z"
+    },
+    {
+      "id": "a82b8913-731a-4a2f-a4b0-bb153dab27ce",
+      "latitude": -35.142631,
+      "longitude": 138.486541,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:36:29Z"
+    },
+    {
+      "id": "a0419c54-d5ff-4172-973e-1a4d37911c85",
+      "latitude": -34.867227,
+      "longitude": 138.618842,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:46:55Z"
+    },
+    {
+      "id": "ac09ddf1-e6c3-4549-8791-de094380e6f4",
+      "latitude": -34.975316,
+      "longitude": 138.573604,
+      "street": "A2 - South Rd",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:02:59Z"
+    },
+    {
+      "id": "50c516d2-45d9-4937-995a-5d60a675847b",
+      "latitude": -34.880807,
+      "longitude": 138.662022,
+      "street": "A11 - Lower North East Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:56:16Z"
+    },
+    {
+      "id": "b79d8cbc-3d0a-4d17-9a2c-4a592eafc8f5",
+      "latitude": -34.851149,
+      "longitude": 138.535248,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:58:30Z"
+    },
+    {
+      "id": "12d17030-205f-4a48-aee7-cc20483c6804",
+      "latitude": -34.95489,
+      "longitude": 138.568741,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T08:10:37Z"
+    },
+    {
+      "id": "2249bd1d-2d11-4f05-8453-b4bb3a4dd335",
+      "latitude": -34.97299,
+      "longitude": 138.573315,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T07:42:59Z"
     },
     {
       "id": "89788678-267a-4ae7-bcfb-5c9967ca6e44",
@@ -97,28 +137,38 @@
       "street": "B29 - Main Rd",
       "city": "Coromandel Valley",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
+      "timestamp": "2025-12-06T10:19:59Z",
       "reported_at": "2025-12-06T08:16:59Z"
     },
     {
-      "id": "022cc2b4-6b3a-4aec-8071-350fe9321b59",
-      "latitude": -34.939884,
-      "longitude": 138.629974,
-      "street": "B26 - Greenhill Rd",
-      "city": "Dulwich",
+      "id": "3a6e3087-35d6-4fb2-87b1-a55323e5c445",
+      "latitude": -34.963691,
+      "longitude": 138.644587,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T08:52:47Z"
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T10:04:12Z"
     },
     {
-      "id": "fcf45c8c-1833-4664-968e-e1812779c8ca",
-      "latitude": -34.963036,
-      "longitude": 138.556127,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "70f02ed7-2293-4df5-922f-d2fc2bd408a6",
+      "latitude": -34.700877,
+      "longitude": 138.682327,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2025-12-06T09:39:08Z",
-      "reported_at": "2025-12-06T09:12:49Z"
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T10:00:01Z"
+    },
+    {
+      "id": "0a2bc1d6-d0d4-43a3-9213-37e898343e7a",
+      "latitude": -34.861802,
+      "longitude": 138.56836,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T10:19:59Z",
+      "reported_at": "2025-12-06T09:40:00Z"
     }
   ]
 }
