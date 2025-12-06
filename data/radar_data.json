@@ -1,13 +1,53 @@
 {
   "radars": [
     {
+      "id": "dd4214cf-c6f6-48c2-8689-70f29ee782ae",
+      "latitude": -34.861399,
+      "longitude": 138.568172,
+      "street": "to M2 - North South Mwy to City / Darlington",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "reported_at": "2025-12-06T14:20:37Z"
+    },
+    {
+      "id": "e58be012-2aa5-4d6c-9d10-23918b915560",
+      "latitude": -34.992367,
+      "longitude": 138.583457,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "reported_at": "2025-12-06T10:59:21Z"
+    },
+    {
+      "id": "f1fb9545-ce62-4865-ab3d-27a896ca6b14",
+      "latitude": -34.931803,
+      "longitude": 138.594377,
+      "street": "Wright St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "reported_at": "2025-12-06T14:11:32Z"
+    },
+    {
+      "id": "2ce7df19-001d-4a33-acb9-f619f78d28ce",
+      "latitude": -34.934782,
+      "longitude": 138.594342,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "reported_at": "2025-12-06T14:12:08Z"
+    },
+    {
       "id": "367afa46-24b0-47ce-8685-2022ad27204f",
       "latitude": -34.920432,
       "longitude": 138.582569,
       "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-06T14:17:19Z",
+      "timestamp": "2025-12-06T14:40:00Z",
       "reported_at": "2025-12-06T14:12:22Z"
     },
     {
@@ -17,18 +57,8 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-06T14:17:19Z",
+      "timestamp": "2025-12-06T14:40:00Z",
       "reported_at": "2025-12-06T12:09:31Z"
-    },
-    {
-      "id": "e58be012-2aa5-4d6c-9d10-23918b915560",
-      "latitude": -34.992367,
-      "longitude": 138.583457,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2025-12-06T14:17:19Z",
-      "reported_at": "2025-12-06T10:59:21Z"
     },
     {
       "id": "815927b9-c147-42a7-b74f-9d006a23d49d",
@@ -37,8 +67,28 @@
       "street": "A7 - Port Rd",
       "city": "West Croydon",
       "type": "mobile",
-      "timestamp": "2025-12-06T14:17:19Z",
+      "timestamp": "2025-12-06T14:40:00Z",
       "reported_at": "2025-12-06T13:19:38Z"
+    },
+    {
+      "id": "a589a623-fb20-457a-9115-5e3945eb4ae8",
+      "latitude": -34.914811,
+      "longitude": 138.639966,
+      "street": "B27 - Magill Rd",
+      "city": "Maylands",
+      "type": "mobile",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "reported_at": "2025-12-06T14:21:41Z"
+    },
+    {
+      "id": "ccd61eee-914c-445c-b1d7-a419a799f2fc",
+      "latitude": -34.809601,
+      "longitude": 138.599139,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-06T14:40:00Z",
+      "reported_at": "2025-12-06T13:36:09Z"
     }
   ]
 }
