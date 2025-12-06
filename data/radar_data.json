@@ -1,124 +1,64 @@
 {
   "radars": [
     {
-      "id": "e7444e0a-896e-4fb1-a5aa-c118c6e5df97",
-      "latitude": -34.929075,
-      "longitude": 138.592084,
-      "street": "Grote St",
-      "city": "Adelaide",
+      "id": "254a6405-309c-476f-94fa-07adfcb8a85b",
+      "latitude": -34.852968,
+      "longitude": 138.671705,
+      "street": "Valiant Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T10:58:36Z"
+      "timestamp": "2025-12-06T12:38:58Z",
+      "reported_at": "2025-12-06T12:19:48Z"
     },
     {
-      "id": "3b68c162-90a3-404e-b93e-101711a818af",
-      "latitude": -35.018256,
-      "longitude": 138.53983,
-      "street": "Sturt Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T09:38:14Z"
-    },
-    {
-      "id": "aa168596-1d88-4f99-81eb-4ce00e58c54e",
-      "latitude": -34.992536,
-      "longitude": 138.582422,
+      "id": "e58be012-2aa5-4d6c-9d10-23918b915560",
+      "latitude": -34.992367,
+      "longitude": 138.583457,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T09:08:57Z"
+      "timestamp": "2025-12-06T12:38:58Z",
+      "reported_at": "2025-12-06T10:59:21Z"
     },
     {
-      "id": "5f4ec8a5-ac33-434a-92c2-eb7f4565dd5b",
-      "latitude": -35.015578,
-      "longitude": 138.540743,
-      "street": "Morphett Rd",
-      "city": "Oaklands Park",
+      "id": "7ef5d9b3-3c7a-4f8d-bb59-5d53c3d9f362",
+      "latitude": -35.011058,
+      "longitude": 138.582545,
+      "street": "Unknown Street",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T09:38:44Z"
+      "timestamp": "2025-12-06T12:38:58Z",
+      "reported_at": "2025-12-06T12:30:31Z"
     },
     {
-      "id": "e1421f79-f85d-42e5-aef3-b16c1a491a19",
-      "latitude": -34.850489,
-      "longitude": 138.668174,
+      "id": "7bf6e29d-fe56-46dd-a52a-7193c6526341",
+      "latitude": -34.851295,
+      "longitude": 138.667078,
       "street": "A10 - North East Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T11:23:50Z"
+      "timestamp": "2025-12-06T12:38:58Z",
+      "reported_at": "2025-12-06T11:49:51Z"
     },
     {
-      "id": "e8dd3bf6-b679-46d0-8b91-f2c27e566f33",
-      "latitude": -34.944081,
-      "longitude": 138.581421,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
+      "id": "4d93b960-5a19-4474-9317-7929106f9578",
+      "latitude": -34.993568,
+      "longitude": 138.557065,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T10:54:15Z"
+      "timestamp": "2025-12-06T12:38:58Z",
+      "reported_at": "2025-12-06T11:41:03Z"
     },
     {
-      "id": "12d17030-205f-4a48-aee7-cc20483c6804",
-      "latitude": -34.95489,
-      "longitude": 138.568741,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
+      "id": "08c2a6eb-7ba7-4e21-963a-da041d45e716",
+      "latitude": -34.916457,
+      "longitude": 138.578214,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T08:10:37Z"
-    },
-    {
-      "id": "6de6a5d6-47f0-47fc-93fb-4956d58e3197",
-      "latitude": -34.975668,
-      "longitude": 138.531311,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T11:14:19Z"
-    },
-    {
-      "id": "2249bd1d-2d11-4f05-8453-b4bb3a4dd335",
-      "latitude": -34.97299,
-      "longitude": 138.573315,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T07:42:59Z"
-    },
-    {
-      "id": "4f4b4cdc-899d-4d1f-b1b3-c08c77dd0232",
-      "latitude": -34.973964,
-      "longitude": 138.573497,
-      "street": "A2 - South Rd",
-      "city": "Clarence Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T08:23:09Z"
-    },
-    {
-      "id": "7d59822c-9994-4dff-9656-0afc68e33487",
-      "latitude": -34.941968,
-      "longitude": 138.642712,
-      "street": "A17 - Portrush Rd",
-      "city": "Glenside",
-      "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T11:15:26Z"
-    },
-    {
-      "id": "89788678-267a-4ae7-bcfb-5c9967ca6e44",
-      "latitude": -35.035865,
-      "longitude": 138.624626,
-      "street": "B29 - Main Rd",
-      "city": "Coromandel Valley",
-      "type": "mobile",
-      "timestamp": "2025-12-06T11:37:30Z",
-      "reported_at": "2025-12-06T08:16:59Z"
+      "timestamp": "2025-12-06T12:38:58Z",
+      "reported_at": "2025-12-06T11:57:39Z"
     }
   ]
 }
