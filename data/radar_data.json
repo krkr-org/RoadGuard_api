@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "8d7fc97b-a3c7-4507-b385-95248b1c21e0",
-      "latitude": -34.897248,
-      "longitude": 138.662003,
-      "street": "Reid Av",
-      "city": "Hectorville",
+      "id": "14acdf65-5d15-419b-a639-f4292c341216",
+      "latitude": -34.977506,
+      "longitude": 138.517541,
+      "street": "Gordon St",
+      "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2025-12-06T04:23:02Z",
-      "reported_at": "2025-12-06T01:53:31Z"
+      "timestamp": "2025-12-06T04:44:03Z",
+      "reported_at": "2025-12-06T04:26:06Z"
     },
     {
       "id": "fd70a163-5623-4d3d-9242-2c3f0b724a09",
@@ -17,7 +17,7 @@
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-12-06T04:23:02Z",
+      "timestamp": "2025-12-06T04:44:03Z",
       "reported_at": "2025-12-06T01:38:33Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-12-06T04:23:02Z",
+      "timestamp": "2025-12-06T04:44:03Z",
       "reported_at": "2025-12-06T02:15:45Z"
     },
     {
@@ -37,18 +37,8 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-12-06T04:23:02Z",
+      "timestamp": "2025-12-06T04:44:03Z",
       "reported_at": "2025-12-06T03:09:09Z"
-    },
-    {
-      "id": "7b20b966-598d-4b19-bed4-1b71737546d0",
-      "latitude": -35.126102,
-      "longitude": 138.648299,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2025-12-06T04:23:02Z",
-      "reported_at": "2025-12-06T02:03:28Z"
     },
     {
       "id": "eda74470-73fe-4a14-943f-0ab8a5c64051",
@@ -57,8 +47,48 @@
       "street": "Daws Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T04:23:02Z",
+      "timestamp": "2025-12-06T04:44:03Z",
       "reported_at": "2025-12-06T03:30:40Z"
+    },
+    {
+      "id": "7b20b966-598d-4b19-bed4-1b71737546d0",
+      "latitude": -35.126102,
+      "longitude": 138.648299,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
+      "type": "mobile",
+      "timestamp": "2025-12-06T04:44:03Z",
+      "reported_at": "2025-12-06T02:03:28Z"
+    },
+    {
+      "id": "ccc13d35-776e-4ef5-a1f0-b30486ca2709",
+      "latitude": -34.687687,
+      "longitude": 138.670162,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T04:44:03Z",
+      "reported_at": "2025-12-06T04:34:18Z"
+    },
+    {
+      "id": "3601f28f-490e-4669-a56b-0bd59a1e67f3",
+      "latitude": -34.719909,
+      "longitude": 138.666141,
+      "street": "Elizabeth Way",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2025-12-06T04:44:03Z",
+      "reported_at": "2025-12-06T04:32:13Z"
+    },
+    {
+      "id": "6e75a7b7-2e54-48cc-85b5-9a72be107941",
+      "latitude": -35.047166,
+      "longitude": 138.531995,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T04:44:03Z",
+      "reported_at": "2025-12-06T04:33:55Z"
     }
   ]
 }
