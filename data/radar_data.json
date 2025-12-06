@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d3b8cb52-37f9-48c9-8808-76d87bae7c8e",
+      "latitude": -35.027924,
+      "longitude": 138.532835,
+      "street": "Neath Av",
+      "city": "South Brighton",
+      "type": "mobile",
+      "timestamp": "2025-12-06T06:51:21Z",
+      "reported_at": "2025-12-06T05:56:19Z"
+    },
+    {
       "id": "800a2616-5ef8-4b90-aa3a-1d44fb6adef6",
       "latitude": -34.973897,
       "longitude": 138.573368,
       "street": "De Laine Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:04:52Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Lewis St",
       "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T06:01:43Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:02:27Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:37:02Z"
     },
     {
@@ -47,7 +57,7 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:13:38Z"
     },
     {
@@ -57,18 +67,28 @@
       "street": "Unknown Street",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:09:58Z"
     },
     {
-      "id": "929b3dac-b0a3-4edf-a237-945b01b811a8",
-      "latitude": -34.857532,
-      "longitude": 138.655859,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
+      "id": "eabd7672-b763-44ae-b667-8cf4c0452061",
+      "latitude": -35.125508,
+      "longitude": 138.646447,
+      "street": "Kangarilla Rd",
+      "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
-      "reported_at": "2025-12-06T05:50:46Z"
+      "timestamp": "2025-12-06T06:51:21Z",
+      "reported_at": "2025-12-06T05:17:57Z"
+    },
+    {
+      "id": "67f9b958-210b-4805-bb80-0c8fe7b4b43c",
+      "latitude": -34.99333,
+      "longitude": 138.528023,
+      "street": "Diagonal Rd",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2025-12-06T06:51:21Z",
+      "reported_at": "2025-12-06T06:34:59Z"
     },
     {
       "id": "c9f1251b-1f30-4e44-813e-4e389d247315",
@@ -77,7 +97,7 @@
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:01:23Z"
     },
     {
@@ -87,28 +107,28 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:13:14Z"
     },
     {
-      "id": "eabd7672-b763-44ae-b667-8cf4c0452061",
-      "latitude": -35.125508,
-      "longitude": 138.646447,
-      "street": "Kangarilla Rd",
-      "city": "Clarendon",
+      "id": "dd439f74-eb1c-4d9c-8810-e94b946be852",
+      "latitude": -34.955996,
+      "longitude": 138.567034,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
-      "reported_at": "2025-12-06T05:17:57Z"
+      "timestamp": "2025-12-06T06:51:21Z",
+      "reported_at": "2025-12-06T04:59:16Z"
     },
     {
-      "id": "8c645eda-c10a-4dce-8419-4f05df28e878",
-      "latitude": -34.968156,
-      "longitude": 138.556051,
-      "street": "A3 - Cross Rd",
-      "city": "South Plympton",
+      "id": "7295127b-b2e4-4843-92cd-54a87bd147e9",
+      "latitude": -35.029238,
+      "longitude": 138.523937,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
-      "reported_at": "2025-12-06T04:48:28Z"
+      "timestamp": "2025-12-06T06:51:21Z",
+      "reported_at": "2025-12-06T06:41:28Z"
     },
     {
       "id": "a0e0991d-4f6c-41bd-a396-a6985711f4c3",
@@ -117,18 +137,18 @@
       "street": "A2 - South Rd",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
+      "timestamp": "2025-12-06T06:51:21Z",
       "reported_at": "2025-12-06T05:05:53Z"
     },
     {
-      "id": "2d443bbc-1a16-460b-85ea-2837dc1dc447",
-      "latitude": -34.95599,
-      "longitude": 138.567042,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
+      "id": "8ff96e6b-ec89-4293-a23b-5c5344f4e3e6",
+      "latitude": -34.800039,
+      "longitude": 138.717065,
+      "street": "A11 - Hancock Rd",
+      "city": "Surrey Downs",
       "type": "mobile",
-      "timestamp": "2025-12-06T06:29:09Z",
-      "reported_at": "2025-12-06T04:52:40Z"
+      "timestamp": "2025-12-06T06:51:21Z",
+      "reported_at": "2025-12-06T06:19:33Z"
     }
   ]
 }
