@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "7475ae62-2d2d-4aa9-ae03-b1242f0fd48b",
+      "latitude": -34.897136,
+      "longitude": 138.66428,
+      "street": "Reid Av",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-06T00:12:11Z"
+    },
+    {
       "id": "8a6b4fa6-0052-4b27-b5bf-51b4276e4dc0",
       "latitude": -34.903642,
       "longitude": 138.667994,
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
+      "timestamp": "2025-12-06T01:28:15Z",
       "reported_at": "2025-12-05T21:34:19Z"
+    },
+    {
+      "id": "c0e91fb0-f81e-4cbf-a902-c0eaaa46f788",
+      "latitude": -34.879515,
+      "longitude": 138.66984,
+      "street": "Hambledon Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-05T21:42:09Z"
     },
     {
       "id": "0f6579b8-c93a-4868-aa3b-c26a479fe900",
@@ -17,38 +37,8 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
+      "timestamp": "2025-12-06T01:28:15Z",
       "reported_at": "2025-12-05T21:12:45Z"
-    },
-    {
-      "id": "c7b379d1-0cf0-4c13-8486-09419b201829",
-      "latitude": -34.914418,
-      "longitude": 138.585502,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
-      "reported_at": "2025-12-05T21:24:43Z"
-    },
-    {
-      "id": "69d91beb-d65f-47ea-aa2a-3800376d4559",
-      "latitude": -34.719471,
-      "longitude": 138.644439,
-      "street": "West Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
-      "reported_at": "2025-12-05T22:24:00Z"
-    },
-    {
-      "id": "cfa81ea2-55c1-4b42-bb1e-f5d9ca0df28e",
-      "latitude": -35.086637,
-      "longitude": 138.587377,
-      "street": "Chandlers Hill Rd",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
-      "reported_at": "2025-12-05T23:22:09Z"
     },
     {
       "id": "893c8eeb-9ad1-4318-8f56-51fab2ea8aea",
@@ -57,7 +47,7 @@
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
+      "timestamp": "2025-12-06T01:28:15Z",
       "reported_at": "2025-12-05T21:52:52Z"
     },
     {
@@ -67,38 +57,58 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
+      "timestamp": "2025-12-06T01:28:15Z",
       "reported_at": "2025-12-05T21:37:51Z"
     },
     {
-      "id": "85137a24-0891-40c8-8c54-631b148fdc40",
-      "latitude": -34.990467,
-      "longitude": 138.59926,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "ade67cf6-43a3-48e8-a9de-65c92e3264a9",
+      "latitude": -34.850747,
+      "longitude": 138.546682,
+      "street": "Hanson Rd",
+      "city": "Athol Park",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
-      "reported_at": "2025-12-05T21:24:12Z"
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-06T01:01:14Z"
     },
     {
-      "id": "749bc55b-dadc-45a3-9515-c58bb5aaf9c1",
-      "latitude": -34.694654,
-      "longitude": 138.666997,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
+      "id": "e59d0c3f-aef8-443a-a64e-326480e8d118",
+      "latitude": -34.747407,
+      "longitude": 138.657582,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
-      "reported_at": "2025-12-05T21:19:27Z"
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-06T00:21:54Z"
     },
     {
-      "id": "6d86fb98-4c9c-45ba-a922-d8861fe0466b",
-      "latitude": -34.805296,
-      "longitude": 138.635013,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
+      "id": "1f405450-5c1e-45e4-990b-bade19af83f6",
+      "latitude": -34.89129,
+      "longitude": 138.513721,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-12-05T23:38:49Z",
-      "reported_at": "2025-12-05T23:32:55Z"
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-06T01:03:55Z"
+    },
+    {
+      "id": "a60ec331-1706-4322-a31f-c3a14299b487",
+      "latitude": -34.944895,
+      "longitude": 138.625013,
+      "street": "A1 - Fullarton Rd",
+      "city": "Glenside",
+      "type": "mobile",
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-06T01:07:07Z"
+    },
+    {
+      "id": "dc17105f-5d6d-41d5-9656-77d8071528c9",
+      "latitude": -35.092754,
+      "longitude": 138.523594,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-06T01:28:15Z",
+      "reported_at": "2025-12-06T01:23:07Z"
     }
   ]
 }
