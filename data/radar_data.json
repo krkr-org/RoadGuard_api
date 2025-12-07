@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "1fbb6f85-b968-47cb-805b-9a2694c0925f",
+      "latitude": -34.945204,
+      "longitude": 138.508381,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T06:53:59Z"
+    },
+    {
       "id": "af92eac8-1cc2-4d6d-8763-dd3d9029749b",
       "latitude": -34.947889,
       "longitude": 138.562692,
       "street": "Grove Av",
       "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
+      "timestamp": "2025-12-07T07:18:53Z",
       "reported_at": "2025-12-07T05:13:58Z"
-    },
-    {
-      "id": "05cebdf9-f373-4bf0-88d7-0b1f49dc7dea",
-      "latitude": -34.908373,
-      "longitude": 138.609253,
-      "street": "Bundeys Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
-      "reported_at": "2025-12-07T06:18:07Z"
     },
     {
       "id": "9724b71b-422e-4827-b5ba-01c1c50e884e",
@@ -27,8 +27,18 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
+      "timestamp": "2025-12-07T07:18:53Z",
       "reported_at": "2025-12-07T04:43:34Z"
+    },
+    {
+      "id": "8c3bdc13-1999-4eb6-931b-6dfc2db10511",
+      "latitude": -34.891928,
+      "longitude": 138.507815,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T05:22:49Z"
     },
     {
       "id": "6bbd7d9a-c457-4066-b095-c5d165b25920",
@@ -37,8 +47,18 @@
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
+      "timestamp": "2025-12-07T07:18:53Z",
       "reported_at": "2025-12-07T04:43:02Z"
+    },
+    {
+      "id": "a4093e97-d645-4497-8e70-e6b49860cd3b",
+      "latitude": -34.82594,
+      "longitude": 138.693654,
+      "street": "Golden Grove Rd",
+      "city": "Modbury North",
+      "type": "mobile",
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T07:11:59Z"
     },
     {
       "id": "da94a0c9-d500-4ace-ac06-649368338ae2",
@@ -47,28 +67,38 @@
       "street": "Maxwell Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
+      "timestamp": "2025-12-07T07:18:53Z",
       "reported_at": "2025-12-07T06:24:09Z"
     },
     {
-      "id": "c2d28d20-2829-4adc-a163-01a4e1d46785",
-      "latitude": -34.861444,
-      "longitude": 138.513588,
+      "id": "63d0ec36-2337-48f8-9684-851ff4c5cc65",
+      "latitude": -34.755222,
+      "longitude": 138.629961,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T07:12:55Z"
+    },
+    {
+      "id": "27cafe8d-041e-473c-bfc3-7b903bc55510",
+      "latitude": -34.862043,
+      "longitude": 138.514528,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
-      "reported_at": "2025-12-07T04:50:32Z"
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T05:54:14Z"
     },
     {
-      "id": "5a40d2d3-954f-4fcf-9eb1-19cc490d9887",
-      "latitude": -34.958665,
-      "longitude": 138.563182,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "f377443b-86b2-4ec3-ba88-3bcedab1f2dc",
+      "latitude": -34.842335,
+      "longitude": 138.599595,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
-      "reported_at": "2025-12-07T06:34:52Z"
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T05:25:11Z"
     },
     {
       "id": "6c25029b-500a-49d0-830e-5d7e9f22e3a8",
@@ -77,28 +107,38 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
+      "timestamp": "2025-12-07T07:18:53Z",
       "reported_at": "2025-12-07T06:33:14Z"
     },
     {
-      "id": "51278a97-a50a-48db-896e-a066a73c1340",
-      "latitude": -34.838104,
-      "longitude": 138.599275,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "e6ced820-6c6a-4122-871d-1f7d89b63f71",
+      "latitude": -34.84288,
+      "longitude": 138.672653,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
-      "reported_at": "2025-12-07T05:49:34Z"
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T07:07:10Z"
     },
     {
-      "id": "78f4396c-f727-43e5-bc47-29769e2b91d5",
-      "latitude": -34.712258,
-      "longitude": 138.675299,
+      "id": "ae39eb52-288b-4a5c-94bf-51c78461cbd9",
+      "latitude": -34.812696,
+      "longitude": 138.628121,
       "street": "A20 - Main North Rd",
-      "city": "Elizabeth",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-07T06:50:38Z",
-      "reported_at": "2025-12-07T06:25:36Z"
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T06:54:18Z"
+    },
+    {
+      "id": "f5889b5c-326f-4837-af0e-ff4dbe495cb4",
+      "latitude": -34.678951,
+      "longitude": 138.62024,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-07T07:18:53Z",
+      "reported_at": "2025-12-07T07:12:24Z"
     }
   ]
 }
