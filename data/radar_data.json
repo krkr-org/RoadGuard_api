@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "1fbb6f85-b968-47cb-805b-9a2694c0925f",
-      "latitude": -34.945204,
-      "longitude": 138.508381,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
-      "reported_at": "2025-12-07T06:53:59Z"
-    },
-    {
       "id": "e8aa0125-0f65-447b-a203-68fc7790dce7",
       "latitude": -34.861396,
       "longitude": 138.529297,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
+      "timestamp": "2025-12-07T09:39:49Z",
       "reported_at": "2025-12-07T06:46:07Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
+      "timestamp": "2025-12-07T09:39:49Z",
       "reported_at": "2025-12-07T04:43:02Z"
     },
     {
@@ -37,18 +27,28 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
+      "timestamp": "2025-12-07T09:39:49Z",
       "reported_at": "2025-12-07T05:22:49Z"
     },
     {
-      "id": "f32b4ef1-3166-4890-a953-6336089e5bd0",
-      "latitude": -34.840711,
-      "longitude": 138.599456,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "b320f5a8-5952-4aa6-8a72-b7477e364d8d",
+      "latitude": -34.924421,
+      "longitude": 138.556279,
+      "street": "Henley Beach Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
-      "reported_at": "2025-12-07T06:37:35Z"
+      "timestamp": "2025-12-07T09:39:49Z",
+      "reported_at": "2025-12-07T09:15:23Z"
+    },
+    {
+      "id": "9160b6b5-6fc0-4cfc-8d64-9b4189a1ba12",
+      "latitude": -34.996952,
+      "longitude": 138.530574,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2025-12-07T09:39:49Z",
+      "reported_at": "2025-12-07T09:12:05Z"
     },
     {
       "id": "27cafe8d-041e-473c-bfc3-7b903bc55510",
@@ -57,8 +57,18 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
+      "timestamp": "2025-12-07T09:39:49Z",
       "reported_at": "2025-12-07T05:54:14Z"
+    },
+    {
+      "id": "0551ada1-4ce0-4a88-9183-23728cbd2e93",
+      "latitude": -34.841243,
+      "longitude": 138.599702,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-12-07T09:39:49Z",
+      "reported_at": "2025-12-07T06:19:12Z"
     },
     {
       "id": "6c25029b-500a-49d0-830e-5d7e9f22e3a8",
@@ -67,18 +77,8 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
+      "timestamp": "2025-12-07T09:39:49Z",
       "reported_at": "2025-12-07T06:33:14Z"
-    },
-    {
-      "id": "65297c7f-1a0c-4692-8d3c-a565b423275f",
-      "latitude": -34.897162,
-      "longitude": 138.514134,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2025-12-07T09:19:45Z",
-      "reported_at": "2025-12-07T08:52:04Z"
     }
   ]
 }
