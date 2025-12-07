@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "c9938756-f398-4575-bc8f-9a15c9ad35ff",
-      "latitude": -34.692549,
-      "longitude": 138.655904,
-      "street": "Burke Cct",
-      "city": "Eyre",
-      "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T10:27:32Z"
-    },
-    {
-      "id": "1fbb6f85-b968-47cb-805b-9a2694c0925f",
-      "latitude": -34.945204,
-      "longitude": 138.508381,
+      "id": "c22d52a0-762f-4469-8697-c6f0506bf22a",
+      "latitude": -34.945085,
+      "longitude": 138.509193,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T06:53:59Z"
+      "timestamp": "2025-12-07T11:15:41Z",
+      "reported_at": "2025-12-07T07:59:15Z"
     },
     {
-      "id": "e888a500-2c82-4535-95c6-74b3c0173901",
-      "latitude": -34.861538,
-      "longitude": 138.529303,
+      "id": "e8aa0125-0f65-447b-a203-68fc7790dce7",
+      "latitude": -34.861396,
+      "longitude": 138.529297,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T10:15:06Z"
+      "timestamp": "2025-12-07T11:15:41Z",
+      "reported_at": "2025-12-07T06:46:07Z"
     },
     {
       "id": "bb0b1b82-2b49-4722-910c-66e7d460bf7c",
@@ -37,18 +27,38 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
+      "timestamp": "2025-12-07T11:15:41Z",
       "reported_at": "2025-12-07T09:46:48Z"
     },
     {
-      "id": "9724b71b-422e-4827-b5ba-01c1c50e884e",
-      "latitude": -34.862669,
-      "longitude": 138.508499,
+      "id": "28bba094-2be1-4bda-8e6f-f7e25e03d194",
+      "latitude": -34.860114,
+      "longitude": 138.479014,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T11:15:41Z",
+      "reported_at": "2025-12-07T10:43:49Z"
+    },
+    {
+      "id": "1513906d-f4f7-4fe7-9a9f-7db38ee3ea3f",
+      "latitude": -34.992696,
+      "longitude": 138.578084,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T11:15:41Z",
+      "reported_at": "2025-12-07T11:01:03Z"
+    },
+    {
+      "id": "e0c02b99-f672-401a-8297-992add0efb94",
+      "latitude": -34.863209,
+      "longitude": 138.509325,
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T04:43:34Z"
+      "timestamp": "2025-12-07T11:15:41Z",
+      "reported_at": "2025-12-07T10:49:00Z"
     },
     {
       "id": "2b539d72-428d-4817-9b3f-15b5e93a23c9",
@@ -57,38 +67,18 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
+      "timestamp": "2025-12-07T11:15:41Z",
       "reported_at": "2025-12-07T10:27:26Z"
     },
     {
-      "id": "5f70fc90-a08f-4560-aaa3-7a77a7dfd1a7",
-      "latitude": -34.859569,
-      "longitude": 138.478791,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
-      "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T10:15:41Z"
-    },
-    {
-      "id": "27cafe8d-041e-473c-bfc3-7b903bc55510",
-      "latitude": -34.862043,
-      "longitude": 138.514528,
+      "id": "c2d28d20-2829-4adc-a163-01a4e1d46785",
+      "latitude": -34.861444,
+      "longitude": 138.513588,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T05:54:14Z"
-    },
-    {
-      "id": "0551ada1-4ce0-4a88-9183-23728cbd2e93",
-      "latitude": -34.841243,
-      "longitude": 138.599702,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T06:19:12Z"
+      "timestamp": "2025-12-07T11:15:41Z",
+      "reported_at": "2025-12-07T04:50:32Z"
     },
     {
       "id": "d9f2bf01-dd88-4bcb-8439-bbbcc81ebcbd",
@@ -97,18 +87,8 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
+      "timestamp": "2025-12-07T11:15:41Z",
       "reported_at": "2025-12-07T10:07:23Z"
-    },
-    {
-      "id": "6acb4df3-5a11-4ff6-b0af-5d2a04324c4e",
-      "latitude": -35.038018,
-      "longitude": 138.813228,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2025-12-07T10:40:39Z",
-      "reported_at": "2025-12-07T10:23:18Z"
     }
   ]
 }
