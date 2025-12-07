@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "ef4d44a8-fb21-44c1-b7eb-a951085393f8",
+      "latitude": -34.833576,
+      "longitude": 138.68709,
+      "street": "Smart Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2025-12-07T20:40:46Z",
+      "reported_at": "2025-12-07T20:32:43Z"
+    },
+    {
+      "id": "2777d996-2707-42ea-b821-a1dd08b50304",
+      "latitude": -34.959647,
+      "longitude": 138.561631,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-07T20:40:46Z",
+      "reported_at": "2025-12-07T20:33:17Z"
+    },
+    {
       "id": "ba3a4019-1e4a-4df4-96a5-2b0ca8ed123d",
       "latitude": -34.957765,
       "longitude": 138.564573,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T20:21:20Z",
+      "timestamp": "2025-12-07T20:40:46Z",
       "reported_at": "2025-12-07T20:18:24Z"
     }
   ]
