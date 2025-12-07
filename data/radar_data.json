@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "3b6e67cb-bada-49c8-b03a-bac70432dbdb",
-      "latitude": -35.009419,
-      "longitude": 138.533176,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
+      "id": "58734704-54d2-4cbd-a924-2a8c1e383c0d",
+      "latitude": -34.955131,
+      "longitude": 138.565857,
+      "street": "Mortimer St",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
-      "reported_at": "2025-12-07T21:20:05Z"
+      "timestamp": "2025-12-07T23:38:26Z",
+      "reported_at": "2025-12-07T21:17:56Z"
     },
     {
       "id": "ec9dc389-f6f9-4f5b-b88b-0fba63c777e0",
@@ -17,28 +17,18 @@
       "street": "Unknown Street",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
+      "timestamp": "2025-12-07T23:38:26Z",
       "reported_at": "2025-12-07T22:52:07Z"
     },
     {
-      "id": "58734704-54d2-4cbd-a924-2a8c1e383c0d",
-      "latitude": -34.955131,
-      "longitude": 138.565857,
-      "street": "Mortimer St",
-      "city": "Kurralta Park",
+      "id": "3b6e67cb-bada-49c8-b03a-bac70432dbdb",
+      "latitude": -35.009419,
+      "longitude": 138.533176,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
-      "reported_at": "2025-12-07T21:17:56Z"
-    },
-    {
-      "id": "200bc192-66f7-4c39-b791-3b8626ac565d",
-      "latitude": -34.961487,
-      "longitude": 138.563453,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
-      "reported_at": "2025-12-07T21:11:22Z"
+      "timestamp": "2025-12-07T23:38:26Z",
+      "reported_at": "2025-12-07T21:20:05Z"
     },
     {
       "id": "9d3ca633-2227-4842-b4f0-1be15952adc1",
@@ -47,7 +37,7 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
+      "timestamp": "2025-12-07T23:38:26Z",
       "reported_at": "2025-12-07T21:15:28Z"
     },
     {
@@ -57,8 +47,18 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
+      "timestamp": "2025-12-07T23:38:26Z",
       "reported_at": "2025-12-07T21:29:08Z"
+    },
+    {
+      "id": "200bc192-66f7-4c39-b791-3b8626ac565d",
+      "latitude": -34.961487,
+      "longitude": 138.563453,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:38:26Z",
+      "reported_at": "2025-12-07T21:11:22Z"
     },
     {
       "id": "48367d94-22d8-4e90-924f-e5e29bccd77f",
@@ -67,7 +67,7 @@
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
+      "timestamp": "2025-12-07T23:38:26Z",
       "reported_at": "2025-12-07T22:35:58Z"
     },
     {
@@ -77,7 +77,7 @@
       "street": "Rundle St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
+      "timestamp": "2025-12-07T23:38:26Z",
       "reported_at": "2025-12-07T22:34:34Z"
     },
     {
@@ -87,18 +87,38 @@
       "street": "Clayson Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
+      "timestamp": "2025-12-07T23:38:26Z",
       "reported_at": "2025-12-07T21:44:20Z"
     },
     {
-      "id": "c3d57e9d-f3e2-4991-b694-2cb49f154f73",
-      "latitude": -34.957195,
-      "longitude": 138.565161,
+      "id": "07598d4d-626f-4980-ac3e-697c646462e7",
+      "latitude": -35.023885,
+      "longitude": 138.666794,
+      "street": "B28 - Upper Sturt Rd",
+      "city": "Belair",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:38:26Z",
+      "reported_at": "2025-12-07T23:22:35Z"
+    },
+    {
+      "id": "a1e0a514-8dac-447e-a642-b6ca4b321f08",
+      "latitude": -34.957284,
+      "longitude": 138.5653,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:17:57Z",
-      "reported_at": "2025-12-07T21:16:30Z"
+      "timestamp": "2025-12-07T23:38:26Z",
+      "reported_at": "2025-12-07T22:52:56Z"
+    },
+    {
+      "id": "3ab278b2-969e-4e31-a3fd-bca78ca1ba76",
+      "latitude": -34.869878,
+      "longitude": 138.638793,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:38:26Z",
+      "reported_at": "2025-12-07T23:22:36Z"
     }
   ]
 }
