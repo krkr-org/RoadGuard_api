@@ -1,14 +1,54 @@
 {
   "radars": [
     {
+      "id": "c22d52a0-762f-4469-8697-c6f0506bf22a",
+      "latitude": -34.945085,
+      "longitude": 138.509193,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T07:59:15Z"
+    },
+    {
+      "id": "bb0b1b82-2b49-4722-910c-66e7d460bf7c",
+      "latitude": -34.928728,
+      "longitude": 138.542964,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T09:46:48Z"
+    },
+    {
+      "id": "9e4108b3-44b7-4b09-bc06-e619dfef46a0",
+      "latitude": -34.751228,
+      "longitude": 138.619596,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T09:54:30Z"
+    },
+    {
       "id": "e8aa0125-0f65-447b-a203-68fc7790dce7",
       "latitude": -34.861396,
       "longitude": 138.529297,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
+      "timestamp": "2025-12-07T10:19:06Z",
       "reported_at": "2025-12-07T06:46:07Z"
+    },
+    {
+      "id": "9724b71b-422e-4827-b5ba-01c1c50e884e",
+      "latitude": -34.862669,
+      "longitude": 138.508499,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T04:43:34Z"
     },
     {
       "id": "6bbd7d9a-c457-4066-b095-c5d165b25920",
@@ -17,58 +57,48 @@
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
+      "timestamp": "2025-12-07T10:19:06Z",
       "reported_at": "2025-12-07T04:43:02Z"
     },
     {
-      "id": "8c3bdc13-1999-4eb6-931b-6dfc2db10511",
-      "latitude": -34.891928,
-      "longitude": 138.507815,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
+      "id": "b42bd3e6-51a3-4ef6-9ef6-cc02c360402f",
+      "latitude": -34.931458,
+      "longitude": 138.588124,
+      "street": "West Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
-      "reported_at": "2025-12-07T05:22:49Z"
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T09:47:49Z"
     },
     {
-      "id": "b320f5a8-5952-4aa6-8a72-b7477e364d8d",
-      "latitude": -34.924421,
-      "longitude": 138.556279,
-      "street": "Henley Beach Rd",
-      "city": "Torrensville",
+      "id": "6185e396-4534-47f6-89c9-9d2a5eb19bc3",
+      "latitude": -34.763317,
+      "longitude": 138.640181,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
-      "reported_at": "2025-12-07T09:15:23Z"
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T09:45:23Z"
     },
     {
-      "id": "9160b6b5-6fc0-4cfc-8d64-9b4189a1ba12",
-      "latitude": -34.996952,
-      "longitude": 138.530574,
-      "street": "Diagonal Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
-      "reported_at": "2025-12-07T09:12:05Z"
-    },
-    {
-      "id": "27cafe8d-041e-473c-bfc3-7b903bc55510",
-      "latitude": -34.862043,
-      "longitude": 138.514528,
+      "id": "c2d28d20-2829-4adc-a163-01a4e1d46785",
+      "latitude": -34.861444,
+      "longitude": 138.513588,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
-      "reported_at": "2025-12-07T05:54:14Z"
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T04:50:32Z"
     },
     {
-      "id": "0551ada1-4ce0-4a88-9183-23728cbd2e93",
-      "latitude": -34.841243,
-      "longitude": 138.599702,
+      "id": "f32b4ef1-3166-4890-a953-6336089e5bd0",
+      "latitude": -34.840711,
+      "longitude": 138.599456,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
-      "reported_at": "2025-12-07T06:19:12Z"
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T06:37:35Z"
     },
     {
       "id": "6c25029b-500a-49d0-830e-5d7e9f22e3a8",
@@ -77,8 +107,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2025-12-07T09:39:49Z",
+      "timestamp": "2025-12-07T10:19:06Z",
       "reported_at": "2025-12-07T06:33:14Z"
+    },
+    {
+      "id": "7e89e25b-2976-4bee-9096-47e089b08183",
+      "latitude": -34.994669,
+      "longitude": 138.574947,
+      "street": "A2 - South Rd",
+      "city": "Clovelly Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T10:11:55Z"
+    },
+    {
+      "id": "d9f2bf01-dd88-4bcb-8439-bbbcc81ebcbd",
+      "latitude": -34.833934,
+      "longitude": 138.539267,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-12-07T10:19:06Z",
+      "reported_at": "2025-12-07T10:07:23Z"
     }
   ]
 }
