@@ -7,7 +7,7 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
+      "timestamp": "2025-12-07T08:45:15Z",
       "reported_at": "2025-12-07T06:53:59Z"
     },
     {
@@ -17,28 +17,8 @@
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
+      "timestamp": "2025-12-07T08:45:15Z",
       "reported_at": "2025-12-07T06:46:07Z"
-    },
-    {
-      "id": "6bbd7d9a-c457-4066-b095-c5d165b25920",
-      "latitude": -34.863525,
-      "longitude": 138.479566,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
-      "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
-      "reported_at": "2025-12-07T04:43:02Z"
-    },
-    {
-      "id": "9724b71b-422e-4827-b5ba-01c1c50e884e",
-      "latitude": -34.862669,
-      "longitude": 138.508499,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
-      "reported_at": "2025-12-07T04:43:34Z"
     },
     {
       "id": "8c3bdc13-1999-4eb6-931b-6dfc2db10511",
@@ -47,8 +27,48 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
+      "timestamp": "2025-12-07T08:45:15Z",
       "reported_at": "2025-12-07T05:22:49Z"
+    },
+    {
+      "id": "9724b71b-422e-4827-b5ba-01c1c50e884e",
+      "latitude": -34.862669,
+      "longitude": 138.508499,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2025-12-07T08:45:15Z",
+      "reported_at": "2025-12-07T04:43:34Z"
+    },
+    {
+      "id": "6bbd7d9a-c457-4066-b095-c5d165b25920",
+      "latitude": -34.863525,
+      "longitude": 138.479566,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T08:45:15Z",
+      "reported_at": "2025-12-07T04:43:02Z"
+    },
+    {
+      "id": "ef3c7567-074c-4a68-9a00-22b9af40b306",
+      "latitude": -34.98142,
+      "longitude": 138.538179,
+      "street": "Morphett Rd",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2025-12-07T08:45:15Z",
+      "reported_at": "2025-12-07T08:18:14Z"
+    },
+    {
+      "id": "c644068e-07c7-46cd-976e-1a98ae6313c0",
+      "latitude": -34.990172,
+      "longitude": 138.605212,
+      "street": "Springbank Rd",
+      "city": "Clapham",
+      "type": "mobile",
+      "timestamp": "2025-12-07T08:45:15Z",
+      "reported_at": "2025-12-07T08:21:40Z"
     },
     {
       "id": "bea2ea45-901e-4bde-9d66-a3260a8d2ef8",
@@ -57,7 +77,7 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
+      "timestamp": "2025-12-07T08:45:15Z",
       "reported_at": "2025-12-07T07:50:40Z"
     },
     {
@@ -67,18 +87,8 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
+      "timestamp": "2025-12-07T08:45:15Z",
       "reported_at": "2025-12-07T04:50:32Z"
-    },
-    {
-      "id": "0551ada1-4ce0-4a88-9183-23728cbd2e93",
-      "latitude": -34.841243,
-      "longitude": 138.599702,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
-      "reported_at": "2025-12-07T06:19:12Z"
     },
     {
       "id": "6c25029b-500a-49d0-830e-5d7e9f22e3a8",
@@ -87,8 +97,18 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2025-12-07T08:25:00Z",
+      "timestamp": "2025-12-07T08:45:15Z",
       "reported_at": "2025-12-07T06:33:14Z"
+    },
+    {
+      "id": "0551ada1-4ce0-4a88-9183-23728cbd2e93",
+      "latitude": -34.841243,
+      "longitude": 138.599702,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-12-07T08:45:15Z",
+      "reported_at": "2025-12-07T06:19:12Z"
     }
   ]
 }
