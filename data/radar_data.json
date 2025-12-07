@@ -1,24 +1,94 @@
 {
   "radars": [
     {
+      "id": "6d6c5104-db45-401f-9e5c-18f4b3cc2081",
+      "latitude": -35.025522,
+      "longitude": 138.534791,
+      "street": "Folkestone Rd",
+      "city": "Dover Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T21:16:15Z"
+    },
+    {
+      "id": "58734704-54d2-4cbd-a924-2a8c1e383c0d",
+      "latitude": -34.955131,
+      "longitude": 138.565857,
+      "street": "Mortimer St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T21:17:56Z"
+    },
+    {
+      "id": "f11c5780-a598-456d-82ad-0b3b7cfe534a",
+      "latitude": -34.962011,
+      "longitude": 138.5814,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T20:55:11Z"
+    },
+    {
+      "id": "f6b2afc6-209a-4d04-adbc-4cc190a4976f",
+      "latitude": -34.922248,
+      "longitude": 138.614018,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T21:05:28Z"
+    },
+    {
       "id": "8035e97b-d76f-43d6-8e97-3675cbe6e85a",
       "latitude": -34.924414,
       "longitude": 138.55486,
       "street": "Henley Beach Rd",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2025-12-07T21:17:03Z",
+      "timestamp": "2025-12-07T21:37:12Z",
       "reported_at": "2025-12-07T21:08:56Z"
     },
     {
-      "id": "ba3a4019-1e4a-4df4-96a5-2b0ca8ed123d",
-      "latitude": -34.957765,
-      "longitude": 138.564573,
+      "id": "9f8209c4-0ea0-4289-83a3-efe0c10fde8f",
+      "latitude": -34.904892,
+      "longitude": 138.514642,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T20:23:48Z"
+    },
+    {
+      "id": "d2f6adfc-2350-4986-be1f-a90d8e299cba",
+      "latitude": -34.956827,
+      "longitude": 138.565735,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T21:17:03Z",
-      "reported_at": "2025-12-07T20:18:24Z"
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T21:09:25Z"
+    },
+    {
+      "id": "abcf2f17-ea80-43ba-a97b-56f54b6c92a5",
+      "latitude": -34.813025,
+      "longitude": 138.597394,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T21:28:03Z"
+    },
+    {
+      "id": "f8a622ff-de89-4cbb-baf9-cbbb4a049bc7",
+      "latitude": -34.848913,
+      "longitude": 138.669327,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-07T21:37:12Z",
+      "reported_at": "2025-12-07T21:24:59Z"
     }
   ]
 }
