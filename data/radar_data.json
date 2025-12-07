@@ -1,54 +1,54 @@
 {
   "radars": [
     {
-      "id": "58734704-54d2-4cbd-a924-2a8c1e383c0d",
-      "latitude": -34.955131,
-      "longitude": 138.565857,
-      "street": "Mortimer St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T21:17:56Z"
-    },
-    {
-      "id": "2dda104c-4375-4a78-aa4e-e7ebfebd0fd3",
-      "latitude": -34.99691,
-      "longitude": 138.516688,
-      "street": "Whyte St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T22:28:07Z"
-    },
-    {
       "id": "3b6e67cb-bada-49c8-b03a-bac70432dbdb",
       "latitude": -35.009419,
       "longitude": 138.533176,
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
+      "timestamp": "2025-12-07T23:17:57Z",
       "reported_at": "2025-12-07T21:20:05Z"
     },
     {
-      "id": "caa2bafb-1e3e-4610-b990-d0f4d990a220",
-      "latitude": -34.987867,
-      "longitude": 138.513661,
-      "street": "Moseley St",
-      "city": "Glenelg South",
+      "id": "ec9dc389-f6f9-4f5b-b88b-0fba63c777e0",
+      "latitude": -34.781545,
+      "longitude": 138.624278,
+      "street": "Unknown Street",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T22:16:00Z"
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T22:52:07Z"
     },
     {
-      "id": "1dad605b-8d79-4494-870a-01fda0575310",
-      "latitude": -34.922249,
-      "longitude": 138.613998,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
+      "id": "58734704-54d2-4cbd-a924-2a8c1e383c0d",
+      "latitude": -34.955131,
+      "longitude": 138.565857,
+      "street": "Mortimer St",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T21:56:15Z"
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T21:17:56Z"
+    },
+    {
+      "id": "200bc192-66f7-4c39-b791-3b8626ac565d",
+      "latitude": -34.961487,
+      "longitude": 138.563453,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T21:11:22Z"
+    },
+    {
+      "id": "9d3ca633-2227-4842-b4f0-1be15952adc1",
+      "latitude": -34.96403,
+      "longitude": 138.581548,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T21:15:28Z"
     },
     {
       "id": "603a5ef9-1d6b-40e7-98e3-d2e829bb4d2a",
@@ -57,8 +57,28 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
+      "timestamp": "2025-12-07T23:17:57Z",
       "reported_at": "2025-12-07T21:29:08Z"
+    },
+    {
+      "id": "48367d94-22d8-4e90-924f-e5e29bccd77f",
+      "latitude": -34.922223,
+      "longitude": 138.6145,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T22:35:58Z"
+    },
+    {
+      "id": "855dd0b0-3400-4cec-a699-1b452e02c2f4",
+      "latitude": -34.921789,
+      "longitude": 138.615855,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T22:34:34Z"
     },
     {
       "id": "5dd0cc53-147f-4c69-928f-32e67dc2f0ac",
@@ -67,48 +87,18 @@
       "street": "Clayson Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
+      "timestamp": "2025-12-07T23:17:57Z",
       "reported_at": "2025-12-07T21:44:20Z"
     },
     {
-      "id": "3d749c9b-d892-4bb0-b7e1-00d7d8fe78ad",
-      "latitude": -35.03571,
-      "longitude": 138.814915,
-      "street": "Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T22:02:30Z"
-    },
-    {
-      "id": "a585d59c-ddb7-46d7-bb22-57d7c7f2f601",
-      "latitude": -34.990495,
-      "longitude": 138.59872,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T21:36:39Z"
-    },
-    {
-      "id": "2191dded-37c7-4d39-a90a-cb3149ee8bf0",
-      "latitude": -35.058658,
-      "longitude": 138.609405,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T22:27:08Z"
-    },
-    {
-      "id": "d2f6adfc-2350-4986-be1f-a90d8e299cba",
-      "latitude": -34.956921,
-      "longitude": 138.565589,
+      "id": "c3d57e9d-f3e2-4991-b694-2cb49f154f73",
+      "latitude": -34.957195,
+      "longitude": 138.565161,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T22:40:51Z",
-      "reported_at": "2025-12-07T21:09:25Z"
+      "timestamp": "2025-12-07T23:17:57Z",
+      "reported_at": "2025-12-07T21:16:30Z"
     }
   ]
 }
