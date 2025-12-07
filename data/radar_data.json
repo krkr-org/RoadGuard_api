@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "ba86923e-e066-48a6-8320-e2a58e6e5e8b",
-      "latitude": -34.944937,
-      "longitude": 138.512099,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
-      "reported_at": "2025-12-07T10:08:22Z"
-    },
-    {
       "id": "bb0b1b82-2b49-4722-910c-66e7d460bf7c",
       "latitude": -34.928728,
       "longitude": 138.542964,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
+      "timestamp": "2025-12-07T13:41:58Z",
       "reported_at": "2025-12-07T09:46:48Z"
+    },
+    {
+      "id": "ba86923e-e066-48a6-8320-e2a58e6e5e8b",
+      "latitude": -34.944937,
+      "longitude": 138.512099,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-07T13:41:58Z",
+      "reported_at": "2025-12-07T10:08:22Z"
     },
     {
       "id": "e888a500-2c82-4535-95c6-74b3c0173901",
@@ -27,7 +27,7 @@
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
+      "timestamp": "2025-12-07T13:41:58Z",
       "reported_at": "2025-12-07T10:15:06Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Commercial Rd",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
+      "timestamp": "2025-12-07T13:41:58Z",
       "reported_at": "2025-12-07T09:51:58Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
+      "timestamp": "2025-12-07T13:41:58Z",
       "reported_at": "2025-12-07T10:27:26Z"
     },
     {
@@ -57,8 +57,18 @@
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
+      "timestamp": "2025-12-07T13:41:58Z",
       "reported_at": "2025-12-07T10:43:49Z"
+    },
+    {
+      "id": "8673334b-3ab6-49f2-b74d-a9f9da0c6ead",
+      "latitude": -34.963659,
+      "longitude": 138.644306,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2025-12-07T13:41:58Z",
+      "reported_at": "2025-12-07T13:19:20Z"
     },
     {
       "id": "d9f2bf01-dd88-4bcb-8439-bbbcc81ebcbd",
@@ -67,7 +77,7 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-07T13:25:29Z",
+      "timestamp": "2025-12-07T13:41:58Z",
       "reported_at": "2025-12-07T10:07:23Z"
     }
   ]
