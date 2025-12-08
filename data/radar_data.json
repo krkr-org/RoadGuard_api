@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "58734704-54d2-4cbd-a924-2a8c1e383c0d",
-      "latitude": -34.955131,
-      "longitude": 138.565857,
-      "street": "Mortimer St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T21:17:56Z"
-    },
-    {
-      "id": "ec9dc389-f6f9-4f5b-b88b-0fba63c777e0",
-      "latitude": -34.781545,
-      "longitude": 138.624278,
-      "street": "Unknown Street",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T22:52:07Z"
-    },
-    {
       "id": "3b6e67cb-bada-49c8-b03a-bac70432dbdb",
       "latitude": -35.009419,
       "longitude": 138.533176,
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
+      "timestamp": "2025-12-08T01:42:44Z",
       "reported_at": "2025-12-07T21:20:05Z"
     },
     {
-      "id": "9d3ca633-2227-4842-b4f0-1be15952adc1",
-      "latitude": -34.96403,
-      "longitude": 138.581548,
-      "street": "East Av",
-      "city": "Clarence Park",
+      "id": "b6fd5cdb-7b71-4406-8164-4f1fe3ec3efc",
+      "latitude": -35.025459,
+      "longitude": 138.535854,
+      "street": "Folkestone Rd",
+      "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T21:15:28Z"
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-08T00:13:10Z"
     },
     {
-      "id": "603a5ef9-1d6b-40e7-98e3-d2e829bb4d2a",
-      "latitude": -34.977817,
-      "longitude": 138.579854,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
+      "id": "3d8c2fae-8662-41b9-8442-9f545666d161",
+      "latitude": -34.991736,
+      "longitude": 138.565148,
+      "street": "West St",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T21:29:08Z"
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-07T23:04:02Z"
     },
     {
       "id": "200bc192-66f7-4c39-b791-3b8626ac565d",
@@ -57,8 +37,28 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
+      "timestamp": "2025-12-08T01:42:44Z",
       "reported_at": "2025-12-07T21:11:22Z"
+    },
+    {
+      "id": "0d9138ad-8c5c-4dbb-8d7e-50e6ab7313ad",
+      "latitude": -34.958411,
+      "longitude": 138.528401,
+      "street": "James Melrose Av",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-07T23:31:19Z"
+    },
+    {
+      "id": "8a45bfda-056e-4c12-b0a2-a33d56ef5821",
+      "latitude": -34.968381,
+      "longitude": 138.542971,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-07T22:09:28Z"
     },
     {
       "id": "48367d94-22d8-4e90-924f-e5e29bccd77f",
@@ -67,18 +67,8 @@
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
+      "timestamp": "2025-12-08T01:42:44Z",
       "reported_at": "2025-12-07T22:35:58Z"
-    },
-    {
-      "id": "855dd0b0-3400-4cec-a699-1b452e02c2f4",
-      "latitude": -34.921789,
-      "longitude": 138.615855,
-      "street": "Rundle St",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T22:34:34Z"
     },
     {
       "id": "5dd0cc53-147f-4c69-928f-32e67dc2f0ac",
@@ -87,38 +77,78 @@
       "street": "Clayson Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
+      "timestamp": "2025-12-08T01:42:44Z",
       "reported_at": "2025-12-07T21:44:20Z"
     },
     {
-      "id": "07598d4d-626f-4980-ac3e-697c646462e7",
-      "latitude": -35.023885,
-      "longitude": 138.666794,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Belair",
+      "id": "73f7a0e8-dd8d-426c-ba9f-3af15424fa86",
+      "latitude": -34.853305,
+      "longitude": 138.502311,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T23:22:35Z"
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-08T00:23:05Z"
     },
     {
-      "id": "a1e0a514-8dac-447e-a642-b6ca4b321f08",
-      "latitude": -34.957284,
-      "longitude": 138.5653,
+      "id": "66d7a9b5-3658-4511-96d9-9bcd46ec00a0",
+      "latitude": -35.088166,
+      "longitude": 138.539777,
+      "street": "A13 - Main South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-08T00:53:10Z"
+    },
+    {
+      "id": "0b539b9d-65b7-46f3-b43b-3e0cfca00340",
+      "latitude": -34.956455,
+      "longitude": 138.566587,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T22:52:56Z"
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-07T23:24:10Z"
     },
     {
-      "id": "3ab278b2-969e-4e31-a3fd-bca78ca1ba76",
-      "latitude": -34.869878,
-      "longitude": 138.638793,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "d350e47f-3ce1-4777-90bd-db1d51c9b4af",
+      "latitude": -34.958644,
+      "longitude": 138.563215,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-07T23:38:26Z",
-      "reported_at": "2025-12-07T23:22:36Z"
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-08T00:58:29Z"
+    },
+    {
+      "id": "99c8dcfa-4221-4e12-9485-c428e332b957",
+      "latitude": -34.942223,
+      "longitude": 138.606827,
+      "street": "B29 - Unley Rd",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-07T23:59:19Z"
+    },
+    {
+      "id": "4945f048-dbf5-4e45-9282-800c6e8289f3",
+      "latitude": -35.088494,
+      "longitude": 138.533333,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-08T01:18:17Z"
+    },
+    {
+      "id": "f3ea0f10-124d-4f4f-9bba-f72264f81d1e",
+      "latitude": -35.035086,
+      "longitude": 138.556898,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-12-08T01:42:44Z",
+      "reported_at": "2025-12-08T01:12:14Z"
     }
   ]
 }
