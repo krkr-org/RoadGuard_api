@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "1044178c-4fb2-4663-9ce4-8eb7e563116c",
+      "latitude": -34.919639,
+      "longitude": 138.504025,
+      "street": "North St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-08T10:24:26Z",
+      "reported_at": "2025-12-08T10:00:34Z"
+    },
+    {
       "id": "6abb225e-bb3b-4660-8881-5de1423c30cd",
       "latitude": -34.801247,
       "longitude": 138.603102,
       "street": "Sanctuary Dr",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T08:26:54Z"
     },
     {
@@ -17,18 +27,8 @@
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T08:06:22Z"
-    },
-    {
-      "id": "e552a928-315e-4241-986e-18ace39b412c",
-      "latitude": -34.898996,
-      "longitude": 138.612497,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
-      "reported_at": "2025-12-08T06:07:54Z"
     },
     {
       "id": "656f446b-9abe-4d36-8e51-733a63c4c5ba",
@@ -37,7 +37,7 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T08:04:17Z"
     },
     {
@@ -47,8 +47,18 @@
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T05:02:00Z"
+    },
+    {
+      "id": "eb2eae76-829d-4ac0-b652-c11e9d115e90",
+      "latitude": -34.71841,
+      "longitude": 138.64522,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2025-12-08T10:24:26Z",
+      "reported_at": "2025-12-08T10:16:12Z"
     },
     {
       "id": "09a07729-c0af-4d74-9cba-b48bcbbd63cd",
@@ -57,7 +67,7 @@
       "street": "Penfold Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T07:08:51Z"
     },
     {
@@ -67,28 +77,8 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T08:56:19Z"
-    },
-    {
-      "id": "f568cab3-031c-4dc8-b588-3c7f1ee7e6d2",
-      "latitude": -34.917806,
-      "longitude": 138.631756,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
-      "reported_at": "2025-12-08T06:31:34Z"
-    },
-    {
-      "id": "f82c47a3-fb81-4875-8ec7-3ec75ba7018c",
-      "latitude": -34.900881,
-      "longitude": 138.605451,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
-      "reported_at": "2025-12-08T06:22:10Z"
     },
     {
       "id": "0c0c8f55-c623-4395-a721-c7661e512ce0",
@@ -97,18 +87,18 @@
       "street": "A14 - Marion Rd",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
+      "timestamp": "2025-12-08T10:24:26Z",
       "reported_at": "2025-12-08T07:33:35Z"
     },
     {
-      "id": "20fded24-969d-49c3-9555-6d4c8dfd9343",
-      "latitude": -34.988831,
-      "longitude": 138.574628,
-      "street": "A2 - South Rd",
-      "city": "Melrose Park",
+      "id": "d577112b-f1bd-4b37-8889-2b7bed891f0c",
+      "latitude": -35.046186,
+      "longitude": 138.550247,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2025-12-08T09:51:12Z",
-      "reported_at": "2025-12-08T09:31:34Z"
+      "timestamp": "2025-12-08T10:24:26Z",
+      "reported_at": "2025-12-08T10:11:37Z"
     }
   ]
 }
