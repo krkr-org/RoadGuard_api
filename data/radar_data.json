@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "3b6e67cb-bada-49c8-b03a-bac70432dbdb",
-      "latitude": -35.009419,
-      "longitude": 138.533176,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T21:20:05Z"
-    },
-    {
       "id": "b6fd5cdb-7b71-4406-8164-4f1fe3ec3efc",
       "latitude": -35.025459,
       "longitude": 138.535854,
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
+      "timestamp": "2025-12-08T03:22:19Z",
       "reported_at": "2025-12-08T00:13:10Z"
     },
     {
-      "id": "3d8c2fae-8662-41b9-8442-9f545666d161",
-      "latitude": -34.991736,
-      "longitude": 138.565148,
-      "street": "West St",
-      "city": "Ascot Park",
+      "id": "190de7b4-3e13-492b-ac45-c5e8c485a530",
+      "latitude": -34.968493,
+      "longitude": 138.540748,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T23:04:02Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T01:57:16Z"
+    },
+    {
+      "id": "bc3b658f-25b8-4877-b710-b3793237fa2b",
+      "latitude": -34.966407,
+      "longitude": 138.635673,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T02:01:01Z"
     },
     {
       "id": "200bc192-66f7-4c39-b791-3b8626ac565d",
@@ -37,88 +37,58 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
+      "timestamp": "2025-12-08T03:22:19Z",
       "reported_at": "2025-12-07T21:11:22Z"
     },
     {
-      "id": "0d9138ad-8c5c-4dbb-8d7e-50e6ab7313ad",
-      "latitude": -34.958411,
-      "longitude": 138.528401,
-      "street": "James Melrose Av",
-      "city": "Adelaide Airport",
+      "id": "bc07a91a-bbd5-45a5-84e9-ef6f9a2e9110",
+      "latitude": -34.963127,
+      "longitude": 138.581482,
+      "street": "East Av",
+      "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T23:31:19Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T00:24:19Z"
     },
     {
-      "id": "8a45bfda-056e-4c12-b0a2-a33d56ef5821",
-      "latitude": -34.968381,
-      "longitude": 138.542971,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "a875fa33-98a7-4163-ada6-b7ce1350a6d2",
+      "latitude": -34.97259,
+      "longitude": 138.528541,
+      "street": "Pine Av",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T22:09:28Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T01:36:40Z"
     },
     {
-      "id": "48367d94-22d8-4e90-924f-e5e29bccd77f",
-      "latitude": -34.922223,
-      "longitude": 138.6145,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
+      "id": "3612f48d-5328-4fb6-9429-557d79bca13e",
+      "latitude": -34.992502,
+      "longitude": 138.580713,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T22:35:58Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T01:59:08Z"
     },
     {
-      "id": "5dd0cc53-147f-4c69-928f-32e67dc2f0ac",
-      "latitude": -34.783384,
-      "longitude": 138.654588,
-      "street": "Clayson Rd",
-      "city": "Salisbury East",
+      "id": "0b30b830-30d1-4cd6-b19e-b61254e5de1a",
+      "latitude": -34.901448,
+      "longitude": 138.51432,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T21:44:20Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T03:09:13Z"
     },
     {
-      "id": "73f7a0e8-dd8d-426c-ba9f-3af15424fa86",
-      "latitude": -34.853305,
-      "longitude": 138.502311,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-08T00:23:05Z"
-    },
-    {
-      "id": "66d7a9b5-3658-4511-96d9-9bcd46ec00a0",
-      "latitude": -35.088166,
-      "longitude": 138.539777,
-      "street": "A13 - Main South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-08T00:53:10Z"
-    },
-    {
-      "id": "0b539b9d-65b7-46f3-b43b-3e0cfca00340",
-      "latitude": -34.956455,
-      "longitude": 138.566587,
+      "id": "914ee471-7d58-4403-9fac-02d30ee9be50",
+      "latitude": -34.95719,
+      "longitude": 138.565169,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-07T23:24:10Z"
-    },
-    {
-      "id": "d350e47f-3ce1-4777-90bd-db1d51c9b4af",
-      "latitude": -34.958644,
-      "longitude": 138.563215,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-08T00:58:29Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T03:11:55Z"
     },
     {
       "id": "99c8dcfa-4221-4e12-9485-c428e332b957",
@@ -127,28 +97,38 @@
       "street": "B29 - Unley Rd",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
+      "timestamp": "2025-12-08T03:22:19Z",
       "reported_at": "2025-12-07T23:59:19Z"
     },
     {
-      "id": "4945f048-dbf5-4e45-9282-800c6e8289f3",
-      "latitude": -35.088494,
-      "longitude": 138.533333,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "3c7a274e-82d1-4407-ae48-c6941904e22b",
+      "latitude": -34.840229,
+      "longitude": 138.675387,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-08T01:18:17Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T03:09:21Z"
     },
     {
-      "id": "f3ea0f10-124d-4f4f-9bba-f72264f81d1e",
-      "latitude": -35.035086,
-      "longitude": 138.556898,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "9f64065f-8349-4bca-a8c6-347272945101",
+      "latitude": -34.798986,
+      "longitude": 138.596613,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-08T01:42:44Z",
-      "reported_at": "2025-12-08T01:12:14Z"
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T03:02:57Z"
+    },
+    {
+      "id": "1be2f741-94d2-4234-adb0-c914b68be661",
+      "latitude": -34.968622,
+      "longitude": 138.672759,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-08T03:22:19Z",
+      "reported_at": "2025-12-08T02:58:10Z"
     }
   ]
 }
