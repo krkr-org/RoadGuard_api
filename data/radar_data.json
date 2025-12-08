@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "70c2909b-0e5f-4cc1-9ba8-049bb48693bb",
-      "latitude": -34.856754,
-      "longitude": 138.529123,
-      "street": "Addison Rd",
-      "city": "Pennington",
+      "id": "e552a928-315e-4241-986e-18ace39b412c",
+      "latitude": -34.898996,
+      "longitude": 138.612497,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
-      "reported_at": "2025-12-08T07:13:33Z"
+      "timestamp": "2025-12-08T08:32:10Z",
+      "reported_at": "2025-12-08T06:07:54Z"
     },
     {
       "id": "d2f166f9-1b00-4e8e-a6bc-7ad4d842faf2",
-      "latitude": -34.92011,
-      "longitude": 138.657857,
+      "latitude": -34.920103,
+      "longitude": 138.658004,
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
+      "timestamp": "2025-12-08T08:32:10Z",
       "reported_at": "2025-12-08T05:02:00Z"
+    },
+    {
+      "id": "656f446b-9abe-4d36-8e51-733a63c4c5ba",
+      "latitude": -34.904407,
+      "longitude": 138.600043,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-08T08:32:10Z",
+      "reported_at": "2025-12-08T08:04:17Z"
+    },
+    {
+      "id": "faf5cc48-e810-48f4-ac19-68f78244eee2",
+      "latitude": -34.87489,
+      "longitude": 138.575888,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-12-08T08:32:10Z",
+      "reported_at": "2025-12-08T08:29:06Z"
     },
     {
       "id": "f568cab3-031c-4dc8-b588-3c7f1ee7e6d2",
@@ -27,28 +47,8 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
+      "timestamp": "2025-12-08T08:32:10Z",
       "reported_at": "2025-12-08T06:31:34Z"
-    },
-    {
-      "id": "932f2a30-d7ce-4b68-858d-e171a7199377",
-      "latitude": -34.916375,
-      "longitude": 138.676309,
-      "street": "Penfold Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
-      "reported_at": "2025-12-08T06:59:49Z"
-    },
-    {
-      "id": "73ddf047-ec60-41bd-a342-87135096d26f",
-      "latitude": -34.80281,
-      "longitude": 138.611385,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
-      "reported_at": "2025-12-08T07:22:26Z"
     },
     {
       "id": "f82c47a3-fb81-4875-8ec7-3ec75ba7018c",
@@ -57,18 +57,28 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
+      "timestamp": "2025-12-08T08:32:10Z",
       "reported_at": "2025-12-08T06:22:10Z"
     },
     {
-      "id": "b7f06441-8975-4aba-84b6-dd5a8fe6eda9",
-      "latitude": -34.850428,
-      "longitude": 138.55076,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
+      "id": "064d8951-5e37-484e-bd91-9d96c09fc394",
+      "latitude": -34.917193,
+      "longitude": 138.567359,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2025-12-08T07:43:47Z",
-      "reported_at": "2025-12-08T07:24:34Z"
+      "timestamp": "2025-12-08T08:32:10Z",
+      "reported_at": "2025-12-08T08:04:17Z"
+    },
+    {
+      "id": "0c0c8f55-c623-4395-a721-c7661e512ce0",
+      "latitude": -34.968673,
+      "longitude": 138.555037,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton Park",
+      "type": "mobile",
+      "timestamp": "2025-12-08T08:32:10Z",
+      "reported_at": "2025-12-08T07:33:35Z"
     }
   ]
 }
