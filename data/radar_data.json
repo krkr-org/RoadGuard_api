@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "01aacf11-2625-4c07-99bc-ebedf9732bb3",
-      "latitude": -34.914095,
-      "longitude": 138.565697,
-      "street": "A2 - South Rd",
-      "city": "Torrensville",
+      "id": "070b26f4-2c3a-4b6c-b8bc-361215b76bbe",
+      "latitude": -34.856605,
+      "longitude": 138.529117,
+      "street": "Addison Rd",
+      "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2025-12-08T20:24:32Z",
-      "reported_at": "2025-12-08T20:11:04Z"
+      "timestamp": "2025-12-08T20:45:29Z",
+      "reported_at": "2025-12-08T20:22:19Z"
+    },
+    {
+      "id": "1e979c14-a5a5-4bda-a12d-febdbcacc338",
+      "latitude": -34.806719,
+      "longitude": 138.680093,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-08T20:45:29Z",
+      "reported_at": "2025-12-08T20:35:38Z"
+    },
+    {
+      "id": "ebee3e03-3dd6-4e2f-91be-5c15a2e04425",
+      "latitude": -34.838435,
+      "longitude": 138.507644,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-08T20:45:29Z",
+      "reported_at": "2025-12-08T20:29:27Z"
     }
   ]
 }
