@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "bd48b5d4-7a5c-42d1-b268-e4607ce467f3",
+      "latitude": -34.862745,
+      "longitude": 138.54071,
+      "street": "Ninth Av",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2025-12-08T22:43:19Z",
+      "reported_at": "2025-12-08T22:13:48Z"
+    },
+    {
       "id": "650054af-3fc1-4141-a287-bf2eea4d8b41",
       "latitude": -34.780779,
       "longitude": 138.650288,
       "street": "Frost Rd",
       "city": "Brahma Lodge",
       "type": "mobile",
-      "timestamp": "2025-12-08T22:20:01Z",
+      "timestamp": "2025-12-08T22:43:19Z",
       "reported_at": "2025-12-08T21:04:22Z"
     },
     {
@@ -17,48 +27,18 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-08T22:20:01Z",
+      "timestamp": "2025-12-08T22:43:19Z",
       "reported_at": "2025-12-08T21:48:44Z"
     },
     {
-      "id": "0ca1e9a4-61e5-4622-8d11-5dd0f4571d89",
-      "latitude": -35.075573,
-      "longitude": 138.549455,
-      "street": "Lander Rd",
-      "city": "O'Halloran Hill",
+      "id": "aef7e067-a98b-4b06-a47d-0e9bec9599e0",
+      "latitude": -34.724061,
+      "longitude": 138.667715,
+      "street": "Philip Hwy",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2025-12-08T22:20:01Z",
-      "reported_at": "2025-12-08T21:56:27Z"
-    },
-    {
-      "id": "4605b867-b67d-4ebc-bac6-b1ba6343036d",
-      "latitude": -34.795224,
-      "longitude": 138.713347,
-      "street": "A11 - Yatala Vale Rd",
-      "city": "Surrey Downs",
-      "type": "mobile",
-      "timestamp": "2025-12-08T22:20:01Z",
-      "reported_at": "2025-12-08T21:55:24Z"
-    },
-    {
-      "id": "75ce9d16-6b6a-43bc-870b-34902d51b878",
-      "latitude": -34.787083,
-      "longitude": 138.651013,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2025-12-08T22:20:01Z",
-      "reported_at": "2025-12-08T22:11:55Z"
-    },
-    {
-      "id": "a4a0fa9f-24dd-4876-964d-6dfd5b86e67d",
-      "latitude": -34.869637,
-      "longitude": 138.570637,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2025-12-08T22:20:01Z",
-      "reported_at": "2025-12-08T21:56:53Z"
+      "timestamp": "2025-12-08T22:43:19Z",
+      "reported_at": "2025-12-08T22:21:25Z"
     }
   ]
 }
