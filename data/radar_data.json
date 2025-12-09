@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "07bc4656-f725-4d8a-b0f1-9638b6c6f4ef",
+      "latitude": -34.909121,
+      "longitude": 138.679305,
+      "street": "Edward St",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T07:16:07Z"
+    },
+    {
       "id": "10c66052-324f-48e0-b6d5-7317d8cc35f2",
       "latitude": -34.809425,
       "longitude": 138.616936,
       "street": "Main St",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
+      "timestamp": "2025-12-09T11:19:53Z",
       "reported_at": "2025-12-09T10:18:12Z"
     },
     {
@@ -17,18 +27,28 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
+      "timestamp": "2025-12-09T11:19:53Z",
       "reported_at": "2025-12-09T07:30:57Z"
     },
     {
-      "id": "27b2f367-d0d1-4e09-b9df-5e161af4079e",
-      "latitude": -34.725648,
-      "longitude": 138.680041,
+      "id": "ffaae2f6-8f3f-4222-a918-9e2631e8120d",
+      "latitude": -34.726063,
+      "longitude": 138.679613,
       "street": "Midway Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
-      "reported_at": "2025-12-09T05:59:17Z"
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T10:46:33Z"
+    },
+    {
+      "id": "6a340a2f-5a97-441f-97d8-24f4ed5f32b4",
+      "latitude": -34.77677,
+      "longitude": 138.599963,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T10:09:34Z"
     },
     {
       "id": "5df315de-5dc5-4fee-bb17-953e2f7f887b",
@@ -37,38 +57,18 @@
       "street": "Adelaide Airport Taxi Rank",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
+      "timestamp": "2025-12-09T11:19:53Z",
       "reported_at": "2025-12-09T07:45:45Z"
     },
     {
-      "id": "de53bd6d-de56-41b3-83fb-75001be8efee",
-      "latitude": -35.074127,
-      "longitude": 138.599162,
-      "street": "Hub Dr",
-      "city": "Aberfoyle Park",
+      "id": "554b4ccf-e342-4451-8337-ae020d4bbf73",
+      "latitude": -34.806239,
+      "longitude": 138.648374,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
-      "reported_at": "2025-12-09T08:35:59Z"
-    },
-    {
-      "id": "928aeee8-8be0-4825-a2a8-cd9beef73677",
-      "latitude": -34.869626,
-      "longitude": 138.481338,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
-      "reported_at": "2025-12-09T09:43:16Z"
-    },
-    {
-      "id": "8bb0edf2-9351-4da7-80a0-2e36fff2a355",
-      "latitude": -34.995815,
-      "longitude": 138.539336,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
-      "reported_at": "2025-12-09T10:35:14Z"
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T06:16:50Z"
     },
     {
       "id": "cb24a611-2c38-4fc5-b20d-3f35ac952b53",
@@ -77,8 +77,18 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
+      "timestamp": "2025-12-09T11:19:53Z",
       "reported_at": "2025-12-09T05:26:37Z"
+    },
+    {
+      "id": "8ae8951e-4d17-4ef0-9970-d296db73a51b",
+      "latitude": -34.847362,
+      "longitude": 138.617653,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T10:50:55Z"
     },
     {
       "id": "19d1e0fd-b317-4c32-a7a0-58882cd28e34",
@@ -87,18 +97,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
+      "timestamp": "2025-12-09T11:19:53Z",
       "reported_at": "2025-12-09T04:55:18Z"
     },
     {
-      "id": "34e6d172-e804-421c-b975-6af8c7075856",
-      "latitude": -35.090551,
-      "longitude": 138.496755,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Lonsdale",
+      "id": "11eea65d-e903-4a26-b1ea-fba1076adb94",
+      "latitude": -34.791435,
+      "longitude": 138.647169,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2025-12-09T10:49:45Z",
-      "reported_at": "2025-12-09T09:26:05Z"
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T10:56:59Z"
+    },
+    {
+      "id": "5bbed280-d570-4523-9fb4-15f87cdfe965",
+      "latitude": -34.833917,
+      "longitude": 138.539588,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-12-09T11:19:53Z",
+      "reported_at": "2025-12-09T10:48:34Z"
     }
   ]
 }
