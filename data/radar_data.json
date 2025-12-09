@@ -1,24 +1,154 @@
 {
   "radars": [
     {
-      "id": "502357ac-2a82-45a8-8705-45158f109e88",
-      "latitude": -34.747577,
-      "longitude": 138.63894,
-      "street": "Commercial Rd",
-      "city": "Salisbury North",
+      "id": "efe7aefa-acd2-45cc-babe-c28e1d7bef91",
+      "latitude": -34.907331,
+      "longitude": 138.653863,
+      "street": "Gwynne St",
+      "city": "Firle",
       "type": "mobile",
-      "timestamp": "2025-12-09T21:40:13Z",
-      "reported_at": "2025-12-09T21:22:49Z"
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:13:39Z"
     },
     {
-      "id": "b93d9d91-0c32-4ac2-b2e2-346b0b381918",
-      "latitude": -34.86095,
-      "longitude": 138.683894,
+      "id": "196e5e5e-c971-4af7-9de6-46e8c1cbfe49",
+      "latitude": -34.962828,
+      "longitude": 138.615221,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T22:14:06Z"
+    },
+    {
+      "id": "f53fa59f-c3b6-4974-81ff-9c3a48569980",
+      "latitude": -34.900104,
+      "longitude": 138.690755,
+      "street": "Morialta Rd",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T20:56:53Z"
+    },
+    {
+      "id": "b44525b2-a30d-4032-9ef2-f4fc4987332d",
+      "latitude": -34.916888,
+      "longitude": 138.589629,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:51:27Z"
+    },
+    {
+      "id": "5017b46c-6265-46d9-887e-39d9e1cbae39",
+      "latitude": -34.922248,
+      "longitude": 138.614005,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:36:29Z"
+    },
+    {
+      "id": "84f54d99-348d-4ac2-a0d0-42f48a57db26",
+      "latitude": -34.922588,
+      "longitude": 138.607234,
+      "street": "Rundle St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:53:00Z"
+    },
+    {
+      "id": "bd42395a-2263-458b-b1ea-90f633d41363",
+      "latitude": -34.881212,
+      "longitude": 138.681467,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:12:35Z"
+    },
+    {
+      "id": "612e9e11-0f51-493e-b238-2900d578d95d",
+      "latitude": -34.88238,
+      "longitude": 138.700647,
+      "street": "Maryvale Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T20:41:24Z"
+    },
+    {
+      "id": "d95bec9b-04f7-492d-8c1e-cc6bbc06fe08",
+      "latitude": -34.867546,
+      "longitude": 138.480335,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:39:57Z"
+    },
+    {
+      "id": "8bf67cef-9fee-4fa2-9725-146d85b7e5b9",
+      "latitude": -34.840339,
+      "longitude": 138.592769,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:51:58Z"
+    },
+    {
+      "id": "00ec38dc-3d4e-4a48-ab93-7f74906af3cf",
+      "latitude": -34.860876,
+      "longitude": 138.684015,
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-09T21:40:13Z",
-      "reported_at": "2025-12-09T21:03:49Z"
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T22:11:17Z"
+    },
+    {
+      "id": "d6e4a44e-bd2b-4e19-a06e-bf88e6842782",
+      "latitude": -34.963162,
+      "longitude": 138.572605,
+      "street": "A2 - South Rd",
+      "city": "Glandore",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:53:04Z"
+    },
+    {
+      "id": "f5ce619e-f16c-4c8b-831f-2d90a8f0e73e",
+      "latitude": -34.924409,
+      "longitude": 138.6184,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T22:16:30Z"
+    },
+    {
+      "id": "1b582c3a-099d-4803-b13f-ba1956a56623",
+      "latitude": -34.766179,
+      "longitude": 138.604984,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:50:23Z"
+    },
+    {
+      "id": "364bfb83-57eb-4d14-8201-7555fd3f0510",
+      "latitude": -34.778497,
+      "longitude": 138.625228,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2025-12-09T22:20:40Z",
+      "reported_at": "2025-12-09T21:54:40Z"
     }
   ]
 }
