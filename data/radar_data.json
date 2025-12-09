@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "1aab45f9-205f-428e-b66b-0c8671b72ae4",
-      "latitude": -35.094563,
-      "longitude": 138.534093,
-      "street": "Young St",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
-      "reported_at": "2025-12-09T03:03:21Z"
-    },
-    {
       "id": "6f30f91c-a45b-423d-bc08-2fe140685964",
       "latitude": -34.922246,
       "longitude": 138.614052,
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
+      "timestamp": "2025-12-09T04:01:49Z",
       "reported_at": "2025-12-09T03:02:59Z"
     },
     {
-      "id": "34556107-22e6-46ad-99c6-bcb3cae10a44",
-      "latitude": -34.990454,
-      "longitude": 138.599515,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "7280b35e-9672-445c-a71d-4bfdf5540232",
+      "latitude": -34.993257,
+      "longitude": 138.564951,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
-      "reported_at": "2025-12-09T02:14:18Z"
-    },
-    {
-      "id": "d9e9bbf1-6cfa-467b-987f-4024fc9d314b",
-      "latitude": -35.058619,
-      "longitude": 138.610082,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
-      "reported_at": "2025-12-09T03:05:59Z"
-    },
-    {
-      "id": "70886d77-d016-48ff-a25d-6059e6ae05d7",
-      "latitude": -34.746011,
-      "longitude": 138.657364,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
-      "reported_at": "2025-12-09T02:21:05Z"
+      "timestamp": "2025-12-09T04:01:49Z",
+      "reported_at": "2025-12-09T03:20:17Z"
     },
     {
       "id": "891560d9-7d82-4074-9dfd-9e785cbafec4",
@@ -57,18 +27,28 @@
       "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
+      "timestamp": "2025-12-09T04:01:49Z",
       "reported_at": "2025-12-09T02:49:45Z"
     },
     {
-      "id": "2013873f-bc17-4f41-8bd8-f0a2aa8da7ed",
-      "latitude": -34.883333,
-      "longitude": 138.521368,
-      "street": "West Lakes Bvd",
-      "city": "Albert Park",
+      "id": "d9e9bbf1-6cfa-467b-987f-4024fc9d314b",
+      "latitude": -35.058619,
+      "longitude": 138.610082,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-12-09T03:19:07Z",
-      "reported_at": "2025-12-09T03:06:22Z"
+      "timestamp": "2025-12-09T04:01:49Z",
+      "reported_at": "2025-12-09T03:05:59Z"
+    },
+    {
+      "id": "dc5898d1-eaf1-4051-a45c-d34ef8da12b9",
+      "latitude": -34.82311,
+      "longitude": 138.618813,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-09T04:01:49Z",
+      "reported_at": "2025-12-09T03:49:47Z"
     }
   ]
 }
