@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "c8a4b3ab-906a-4be4-810e-614b9080d1d5",
-      "latitude": -35.09396,
-      "longitude": 138.540055,
-      "street": "Reynell Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T04:57:24Z"
-    },
-    {
       "id": "e0fd6ae1-b497-482e-a54f-49b3e5fa2928",
       "latitude": -34.913576,
       "longitude": 138.584269,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
+      "timestamp": "2025-12-09T09:25:10Z",
       "reported_at": "2025-12-09T06:34:36Z"
     },
     {
-      "id": "fcd33665-2607-46de-a1cf-29839ccfedca",
-      "latitude": -34.726222,
-      "longitude": 138.679448,
+      "id": "27b2f367-d0d1-4e09-b9df-5e161af4079e",
+      "latitude": -34.725648,
+      "longitude": 138.680041,
       "street": "Midway Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T05:45:17Z"
-    },
-    {
-      "id": "0f8ad5e6-ab31-4a35-87c3-7cb51972950d",
-      "latitude": -34.774088,
-      "longitude": 138.603211,
-      "street": "Andrew Smith Dr",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T05:20:16Z"
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T05:59:17Z"
     },
     {
       "id": "5df315de-5dc5-4fee-bb17-953e2f7f887b",
@@ -47,8 +27,18 @@
       "street": "Adelaide Airport Taxi Rank",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
+      "timestamp": "2025-12-09T09:25:10Z",
       "reported_at": "2025-12-09T07:45:45Z"
+    },
+    {
+      "id": "e2f75df9-ae48-4c3a-b1ab-2e7446bb066c",
+      "latitude": -34.857194,
+      "longitude": 138.670685,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T08:55:41Z"
     },
     {
       "id": "554b4ccf-e342-4451-8337-ae020d4bbf73",
@@ -57,8 +47,28 @@
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
+      "timestamp": "2025-12-09T09:25:10Z",
       "reported_at": "2025-12-09T06:16:50Z"
+    },
+    {
+      "id": "36907b4e-4df0-4fcc-8d68-9e40502f498d",
+      "latitude": -34.825263,
+      "longitude": 138.611687,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T09:12:24Z"
+    },
+    {
+      "id": "de53bd6d-de56-41b3-83fb-75001be8efee",
+      "latitude": -35.074127,
+      "longitude": 138.599162,
+      "street": "Hub Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T08:35:59Z"
     },
     {
       "id": "850be4bf-1a86-4786-92f1-48f8e65089d5",
@@ -67,38 +77,48 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
+      "timestamp": "2025-12-09T09:25:10Z",
       "reported_at": "2025-12-09T08:04:57Z"
     },
     {
-      "id": "53869f89-4e96-4387-86bf-192283b60884",
-      "latitude": -35.117302,
-      "longitude": 138.535727,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T07:07:20Z"
-    },
-    {
-      "id": "01220661-706f-4edb-868a-2023ae19b3ca",
-      "latitude": -34.742404,
-      "longitude": 138.657366,
+      "id": "4927e604-e7db-4bf0-81e2-5f78b9e64c7d",
+      "latitude": -34.742391,
+      "longitude": 138.657726,
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T05:01:43Z"
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T06:42:24Z"
     },
     {
-      "id": "87c3c10a-fe35-46d3-8f4d-5789483e671e",
-      "latitude": -34.718662,
-      "longitude": 138.764129,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
+      "id": "5fecb1e2-5ee1-4077-a529-f22385653610",
+      "latitude": -34.85479,
+      "longitude": 138.66105,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T05:11:27Z"
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T08:52:34Z"
+    },
+    {
+      "id": "19d1e0fd-b317-4c32-a7a0-58882cd28e34",
+      "latitude": -34.727455,
+      "longitude": 138.580815,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T04:55:18Z"
+    },
+    {
+      "id": "32ba4b70-5547-4372-a1b8-83016ef19720",
+      "latitude": -35.087676,
+      "longitude": 138.499075,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2025-12-09T09:25:10Z",
+      "reported_at": "2025-12-09T08:51:07Z"
     },
     {
       "id": "41fbcb0c-4079-4101-989f-62164334c430",
@@ -107,7 +127,7 @@
       "street": "B28 - Mount Lofty Summit Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
+      "timestamp": "2025-12-09T09:25:10Z",
       "reported_at": "2025-12-09T05:43:25Z"
     },
     {
@@ -117,18 +137,8 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
+      "timestamp": "2025-12-09T09:25:10Z",
       "reported_at": "2025-12-09T06:47:45Z"
-    },
-    {
-      "id": "19d1e0fd-b317-4c32-a7a0-58882cd28e34",
-      "latitude": -34.727048,
-      "longitude": 138.58067,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2025-12-09T08:31:02Z",
-      "reported_at": "2025-12-09T04:55:18Z"
     }
   ]
 }
