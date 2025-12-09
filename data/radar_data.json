@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "27e4e82a-1d2a-4924-a87b-c307b4a406a8",
-      "latitude": -34.938122,
-      "longitude": 138.536079,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T07:17:54Z"
-    },
-    {
       "id": "c8a4b3ab-906a-4be4-810e-614b9080d1d5",
       "latitude": -35.09396,
       "longitude": 138.540055,
       "street": "Reynell Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T04:57:24Z"
     },
     {
-      "id": "0f8ad5e6-ab31-4a35-87c3-7cb51972950d",
-      "latitude": -34.774088,
-      "longitude": 138.603211,
-      "street": "Andrew Smith Dr",
-      "city": "Parafield Gardens",
+      "id": "e0fd6ae1-b497-482e-a54f-49b3e5fa2928",
+      "latitude": -34.913576,
+      "longitude": 138.584269,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T05:20:16Z"
+      "timestamp": "2025-12-09T08:31:02Z",
+      "reported_at": "2025-12-09T06:34:36Z"
     },
     {
       "id": "fcd33665-2607-46de-a1cf-29839ccfedca",
@@ -37,38 +27,28 @@
       "street": "Midway Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T05:45:17Z"
     },
     {
-      "id": "c83a16bd-f994-47cd-b131-1b519d587450",
-      "latitude": -34.760303,
-      "longitude": 138.616777,
-      "street": "Burton Rd",
-      "city": "Paralowie",
+      "id": "0f8ad5e6-ab31-4a35-87c3-7cb51972950d",
+      "latitude": -34.774088,
+      "longitude": 138.603211,
+      "street": "Andrew Smith Dr",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T07:05:08Z"
+      "timestamp": "2025-12-09T08:31:02Z",
+      "reported_at": "2025-12-09T05:20:16Z"
     },
     {
-      "id": "06efeadc-7817-435f-b93e-52253cb421ec",
-      "latitude": -34.678285,
-      "longitude": 138.666538,
-      "street": "Davoren Rd",
-      "city": "Andrews Farm",
+      "id": "5df315de-5dc5-4fee-bb17-953e2f7f887b",
+      "latitude": -34.938471,
+      "longitude": 138.535839,
+      "street": "Adelaide Airport Taxi Rank",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T06:24:37Z"
-    },
-    {
-      "id": "0b9e518e-dcd9-4a30-b7f1-12cee2513240",
-      "latitude": -34.871262,
-      "longitude": 138.48207,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T06:19:59Z"
+      "timestamp": "2025-12-09T08:31:02Z",
+      "reported_at": "2025-12-09T07:45:45Z"
     },
     {
       "id": "554b4ccf-e342-4451-8337-ae020d4bbf73",
@@ -77,8 +57,18 @@
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T06:16:50Z"
+    },
+    {
+      "id": "850be4bf-1a86-4786-92f1-48f8e65089d5",
+      "latitude": -34.990482,
+      "longitude": 138.598979,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-09T08:31:02Z",
+      "reported_at": "2025-12-09T08:04:57Z"
     },
     {
       "id": "53869f89-4e96-4387-86bf-192283b60884",
@@ -87,7 +77,7 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T07:07:20Z"
     },
     {
@@ -97,7 +87,7 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T05:01:43Z"
     },
     {
@@ -107,18 +97,8 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T05:11:27Z"
-    },
-    {
-      "id": "a8b86dbd-ac71-4dcd-8eef-4fc310d98566",
-      "latitude": -34.718186,
-      "longitude": 138.787366,
-      "street": "Kersbrook Rd",
-      "city": "Humbug Scrub",
-      "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T07:24:29Z"
     },
     {
       "id": "41fbcb0c-4079-4101-989f-62164334c430",
@@ -127,7 +107,7 @@
       "street": "B28 - Mount Lofty Summit Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T05:43:25Z"
     },
     {
@@ -137,18 +117,8 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T06:47:45Z"
-    },
-    {
-      "id": "c53b3d82-6ab6-4415-bcf5-b355ccee3388",
-      "latitude": -34.842391,
-      "longitude": 138.590281,
-      "street": "A22 - Cavan Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
-      "reported_at": "2025-12-09T06:52:43Z"
     },
     {
       "id": "19d1e0fd-b317-4c32-a7a0-58882cd28e34",
@@ -157,7 +127,7 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2025-12-09T07:42:29Z",
+      "timestamp": "2025-12-09T08:31:02Z",
       "reported_at": "2025-12-09T04:55:18Z"
     }
   ]
