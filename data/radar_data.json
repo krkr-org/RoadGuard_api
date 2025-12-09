@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "7280b35e-9672-445c-a71d-4bfdf5540232",
-      "latitude": -34.993257,
-      "longitude": 138.564951,
-      "street": "Daws Rd",
-      "city": "Ascot Park",
+      "id": "0e3bc9ce-53a8-4dbe-8e58-3242d2eb5f4c",
+      "latitude": -34.960524,
+      "longitude": 138.538095,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:49:25Z",
-      "reported_at": "2025-12-09T03:20:17Z"
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:18:53Z"
     },
     {
       "id": "d9e9bbf1-6cfa-467b-987f-4024fc9d314b",
@@ -17,8 +17,38 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:49:25Z",
+      "timestamp": "2025-12-09T05:20:44Z",
       "reported_at": "2025-12-09T03:05:59Z"
+    },
+    {
+      "id": "ed2a82e5-29ce-4f28-b581-de857ad8ae06",
+      "latitude": -34.74406,
+      "longitude": 138.657365,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:01:30Z"
+    },
+    {
+      "id": "6fa83af9-8fc8-4daa-b232-750a233245af",
+      "latitude": -35.105892,
+      "longitude": 138.50904,
+      "street": "Sherriffs Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T04:47:10Z"
+    },
+    {
+      "id": "9b463712-cfb6-4bdc-ab33-9eb7ef4a9cdf",
+      "latitude": -34.805448,
+      "longitude": 138.647264,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:09:58Z"
     },
     {
       "id": "891560d9-7d82-4074-9dfd-9e785cbafec4",
@@ -27,28 +57,68 @@
       "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:49:25Z",
+      "timestamp": "2025-12-09T05:20:44Z",
       "reported_at": "2025-12-09T02:49:45Z"
     },
     {
-      "id": "787ca97b-dccb-45b9-9450-2528428f6dd5",
-      "latitude": -34.922882,
-      "longitude": 138.616317,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "b2460046-cf62-4d8d-b308-29a0a3e539b6",
+      "latitude": -35.137076,
+      "longitude": 138.524507,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:49:25Z",
-      "reported_at": "2025-12-09T04:26:49Z"
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:05:12Z"
     },
     {
-      "id": "ddcc3b72-f943-46e1-87f4-c384a077e58d",
-      "latitude": -34.951595,
-      "longitude": 138.607584,
-      "street": "B29 - Unley Rd",
-      "city": "Unley",
+      "id": "deef721e-1f2f-4305-9acb-86f4969be6cd",
+      "latitude": -35.046982,
+      "longitude": 138.56024,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:49:25Z",
-      "reported_at": "2025-12-09T04:35:55Z"
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T04:57:21Z"
+    },
+    {
+      "id": "d4e607c5-6deb-42db-ac56-48fb6fcac8c1",
+      "latitude": -35.037306,
+      "longitude": 138.560277,
+      "street": "A13 - Main South Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T04:58:09Z"
+    },
+    {
+      "id": "9aee6da3-9c26-4ebd-8ba9-16a592b3115e",
+      "latitude": -34.852516,
+      "longitude": 138.665732,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T04:24:05Z"
+    },
+    {
+      "id": "80eb7736-064f-4850-8ab1-9c27b1d4577a",
+      "latitude": -34.970016,
+      "longitude": 138.516994,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:11:56Z"
+    },
+    {
+      "id": "28593b2a-f80b-4098-b50f-2a1840e67f3e",
+      "latitude": -34.723972,
+      "longitude": 138.579581,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:05:59Z"
     },
     {
       "id": "445eddbe-65f4-432c-b479-2e18acfe870b",
@@ -57,8 +127,28 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:49:25Z",
+      "timestamp": "2025-12-09T05:20:44Z",
       "reported_at": "2025-12-09T04:43:58Z"
+    },
+    {
+      "id": "b23d500e-e203-4d8e-91df-479170ec2f99",
+      "latitude": -34.752121,
+      "longitude": 138.653996,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:09:26Z"
+    },
+    {
+      "id": "00f7b422-5e27-42cf-9c59-710b5fdaeafe",
+      "latitude": -34.869854,
+      "longitude": 138.570646,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-12-09T05:20:44Z",
+      "reported_at": "2025-12-09T05:05:38Z"
     }
   ]
 }
