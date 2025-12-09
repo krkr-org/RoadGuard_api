@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "1a59aa8c-b8a2-4761-b719-de8339ef5aa3",
-      "latitude": -34.776157,
-      "longitude": 138.598956,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
+      "id": "10c66052-324f-48e0-b6d5-7317d8cc35f2",
+      "latitude": -34.809425,
+      "longitude": 138.616936,
+      "street": "Main St",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T06:31:23Z"
-    },
-    {
-      "id": "5ee813ef-d11c-4375-9c8e-a6214a04b1ee",
-      "latitude": -34.710456,
-      "longitude": 138.690598,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T09:32:04Z"
-    },
-    {
-      "id": "e0fd6ae1-b497-482e-a54f-49b3e5fa2928",
-      "latitude": -34.913576,
-      "longitude": 138.584269,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T06:34:36Z"
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T10:18:12Z"
     },
     {
       "id": "750d56c6-7df3-4b19-ad65-2d0a58fdd2a9",
@@ -37,8 +17,28 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
+      "timestamp": "2025-12-09T10:26:19Z",
       "reported_at": "2025-12-09T07:30:57Z"
+    },
+    {
+      "id": "e0fd6ae1-b497-482e-a54f-49b3e5fa2928",
+      "latitude": -34.913576,
+      "longitude": 138.584269,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T06:34:36Z"
+    },
+    {
+      "id": "27b2f367-d0d1-4e09-b9df-5e161af4079e",
+      "latitude": -34.725648,
+      "longitude": 138.680041,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T05:59:17Z"
     },
     {
       "id": "5df315de-5dc5-4fee-bb17-953e2f7f887b",
@@ -47,38 +47,18 @@
       "street": "Adelaide Airport Taxi Rank",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
+      "timestamp": "2025-12-09T10:26:19Z",
       "reported_at": "2025-12-09T07:45:45Z"
     },
     {
-      "id": "554b4ccf-e342-4451-8337-ae020d4bbf73",
-      "latitude": -34.806239,
-      "longitude": 138.648374,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
+      "id": "928aeee8-8be0-4825-a2a8-cd9beef73677",
+      "latitude": -34.869626,
+      "longitude": 138.481338,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T06:16:50Z"
-    },
-    {
-      "id": "de53bd6d-de56-41b3-83fb-75001be8efee",
-      "latitude": -35.074127,
-      "longitude": 138.599162,
-      "street": "Hub Dr",
-      "city": "Aberfoyle Park",
-      "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T08:35:59Z"
-    },
-    {
-      "id": "36907b4e-4df0-4fcc-8d68-9e40502f498d",
-      "latitude": -34.825263,
-      "longitude": 138.611687,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T09:12:24Z"
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T09:43:16Z"
     },
     {
       "id": "850be4bf-1a86-4786-92f1-48f8e65089d5",
@@ -87,8 +67,18 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
+      "timestamp": "2025-12-09T10:26:19Z",
       "reported_at": "2025-12-09T08:04:57Z"
+    },
+    {
+      "id": "9b463712-cfb6-4bdc-ab33-9eb7ef4a9cdf",
+      "latitude": -34.80574,
+      "longitude": 138.647749,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T05:09:58Z"
     },
     {
       "id": "4927e604-e7db-4bf0-81e2-5f78b9e64c7d",
@@ -97,48 +87,28 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
+      "timestamp": "2025-12-09T10:26:19Z",
       "reported_at": "2025-12-09T06:42:24Z"
     },
     {
-      "id": "34e6d172-e804-421c-b975-6af8c7075856",
-      "latitude": -35.090551,
-      "longitude": 138.496755,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Lonsdale",
+      "id": "de53bd6d-de56-41b3-83fb-75001be8efee",
+      "latitude": -35.074127,
+      "longitude": 138.599162,
+      "street": "Hub Dr",
+      "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T09:26:05Z"
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T08:35:59Z"
     },
     {
-      "id": "90a3618a-5206-4e7e-af7d-dc385c2fb751",
-      "latitude": -35.12708,
-      "longitude": 138.5237,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "id": "d06defa2-3ae6-4e51-87c3-ea550b11b1fc",
+      "latitude": -34.707367,
+      "longitude": 138.691249,
+      "street": "Unknown Street",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T09:17:26Z"
-    },
-    {
-      "id": "b550943f-d4c0-4a73-b14d-0d50501fbfea",
-      "latitude": -35.144921,
-      "longitude": 138.525119,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T09:19:45Z"
-    },
-    {
-      "id": "cb24a611-2c38-4fc5-b20d-3f35ac952b53",
-      "latitude": -34.84219,
-      "longitude": 138.590268,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T05:26:37Z"
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T10:09:44Z"
     },
     {
       "id": "19d1e0fd-b317-4c32-a7a0-58882cd28e34",
@@ -147,18 +117,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
+      "timestamp": "2025-12-09T10:26:19Z",
       "reported_at": "2025-12-09T04:55:18Z"
     },
     {
-      "id": "32ba4b70-5547-4372-a1b8-83016ef19720",
-      "latitude": -35.087676,
-      "longitude": 138.499075,
+      "id": "34e6d172-e804-421c-b975-6af8c7075856",
+      "latitude": -35.090551,
+      "longitude": 138.496755,
       "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
-      "reported_at": "2025-12-09T08:51:07Z"
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T09:26:05Z"
+    },
+    {
+      "id": "cb24a611-2c38-4fc5-b20d-3f35ac952b53",
+      "latitude": -34.84219,
+      "longitude": 138.590268,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2025-12-09T10:26:19Z",
+      "reported_at": "2025-12-09T05:26:37Z"
     },
     {
       "id": "0c1576d8-50e6-4462-a457-8c10887e03f3",
@@ -167,7 +147,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-09T09:46:10Z",
+      "timestamp": "2025-12-09T10:26:19Z",
       "reported_at": "2025-12-09T09:34:51Z"
     }
   ]
