@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "6f30f91c-a45b-423d-bc08-2fe140685964",
-      "latitude": -34.922246,
-      "longitude": 138.614052,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-09T04:01:49Z",
-      "reported_at": "2025-12-09T03:02:59Z"
-    },
-    {
       "id": "7280b35e-9672-445c-a71d-4bfdf5540232",
       "latitude": -34.993257,
       "longitude": 138.564951,
       "street": "Daws Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:01:49Z",
+      "timestamp": "2025-12-09T04:49:25Z",
       "reported_at": "2025-12-09T03:20:17Z"
-    },
-    {
-      "id": "891560d9-7d82-4074-9dfd-9e785cbafec4",
-      "latitude": -34.929921,
-      "longitude": 138.606115,
-      "street": "Pulteney St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-09T04:01:49Z",
-      "reported_at": "2025-12-09T02:49:45Z"
     },
     {
       "id": "d9e9bbf1-6cfa-467b-987f-4024fc9d314b",
@@ -37,18 +17,48 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:01:49Z",
+      "timestamp": "2025-12-09T04:49:25Z",
       "reported_at": "2025-12-09T03:05:59Z"
     },
     {
-      "id": "dc5898d1-eaf1-4051-a45c-d34ef8da12b9",
-      "latitude": -34.82311,
-      "longitude": 138.618813,
-      "street": "A20 - Main North Rd",
-      "city": "Mawson Lakes",
+      "id": "891560d9-7d82-4074-9dfd-9e785cbafec4",
+      "latitude": -34.929921,
+      "longitude": 138.606115,
+      "street": "Pulteney St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-09T04:01:49Z",
-      "reported_at": "2025-12-09T03:49:47Z"
+      "timestamp": "2025-12-09T04:49:25Z",
+      "reported_at": "2025-12-09T02:49:45Z"
+    },
+    {
+      "id": "787ca97b-dccb-45b9-9450-2528428f6dd5",
+      "latitude": -34.922882,
+      "longitude": 138.616317,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-09T04:49:25Z",
+      "reported_at": "2025-12-09T04:26:49Z"
+    },
+    {
+      "id": "ddcc3b72-f943-46e1-87f4-c384a077e58d",
+      "latitude": -34.951595,
+      "longitude": 138.607584,
+      "street": "B29 - Unley Rd",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2025-12-09T04:49:25Z",
+      "reported_at": "2025-12-09T04:35:55Z"
+    },
+    {
+      "id": "445eddbe-65f4-432c-b479-2e18acfe870b",
+      "latitude": -34.782768,
+      "longitude": 138.68797,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-09T04:49:25Z",
+      "reported_at": "2025-12-09T04:43:58Z"
     }
   ]
 }
