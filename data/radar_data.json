@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "610ea131-9022-4119-8c54-cb776ed8b014",
-      "latitude": -34.893395,
-      "longitude": 138.659552,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "afb38f0e-38e8-4fe6-8a03-3c26fde84d14",
+      "latitude": -34.90736,
+      "longitude": 138.653318,
+      "street": "Gwynne St",
+      "city": "Firle",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-09T22:39:59Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T01:18:25Z"
     },
     {
-      "id": "d076ada4-6014-4b06-9de2-c4802b685895",
-      "latitude": -34.861472,
-      "longitude": 138.679837,
+      "id": "7b75d4d4-2c08-45e3-8fc5-dfafc5592ec3",
+      "latitude": -34.966673,
+      "longitude": 138.542064,
+      "street": "Capper St",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T01:59:02Z"
+    },
+    {
+      "id": "9dc4e594-705f-4704-9cbd-6a00c4ccdeba",
+      "latitude": -34.862519,
+      "longitude": 138.679932,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-09T22:37:54Z"
-    },
-    {
-      "id": "673ae915-3305-41c8-b0dd-cca3f7924498",
-      "latitude": -34.959747,
-      "longitude": 138.554366,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:06:46Z"
-    },
-    {
-      "id": "7bc62aee-853d-405a-b307-60d0caf01b01",
-      "latitude": -34.908147,
-      "longitude": 138.581524,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:08:52Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T00:57:43Z"
     },
     {
       "id": "24361f7e-40dd-4c88-bb07-66fdaddd9774",
@@ -47,8 +37,18 @@
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
+      "timestamp": "2025-12-10T03:22:55Z",
       "reported_at": "2025-12-10T00:33:01Z"
+    },
+    {
+      "id": "251dd95a-bba1-4aef-be98-1b1c960030fc",
+      "latitude": -34.893223,
+      "longitude": 138.659777,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-09T22:07:51Z"
     },
     {
       "id": "c2005a9f-622f-4689-a619-5543a50f97c8",
@@ -57,98 +57,58 @@
       "street": "Unknown Street",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
+      "timestamp": "2025-12-10T03:22:55Z",
       "reported_at": "2025-12-10T00:23:41Z"
     },
     {
-      "id": "b058a6b4-fbe1-4d96-a433-d0ca96b5dccb",
-      "latitude": -35.127145,
-      "longitude": 138.504517,
-      "street": "Flaxmill Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:40:50Z"
-    },
-    {
-      "id": "2f843d43-a6ec-4df4-a837-2af34354ab81",
-      "latitude": -34.870938,
-      "longitude": 138.481923,
-      "street": "Military Rd",
+      "id": "a4128eb8-3e28-4d65-9d3c-e96ec9346f41",
+      "latitude": -34.871396,
+      "longitude": 138.483214,
+      "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T00:14:19Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T02:37:46Z"
     },
     {
-      "id": "9d41d9f4-1e71-4050-aee0-ef5c848a9aac",
-      "latitude": -34.880815,
-      "longitude": 138.700536,
-      "street": "Maryvale Rd",
-      "city": "Athelstone",
+      "id": "fd751a47-f5dd-433c-a2c9-b18a4e2f50db",
+      "latitude": -34.681286,
+      "longitude": 138.672883,
+      "street": "Unknown Street",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-09T21:40:13Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T02:55:53Z"
     },
     {
-      "id": "1bcbffc9-fb1c-49b9-a110-6b7a237bb06f",
-      "latitude": -34.905942,
-      "longitude": 138.639817,
-      "street": "A17 - Portrush Rd",
-      "city": "Evandale",
+      "id": "d9fc7d8d-34e2-471f-8099-dbf86dba5685",
+      "latitude": -35.010888,
+      "longitude": 138.580903,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:25:16Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T02:29:06Z"
     },
     {
-      "id": "89bcd36a-77b0-4f81-b2c8-00de3a0958db",
-      "latitude": -34.92607,
-      "longitude": 138.641443,
+      "id": "c478a21e-537d-4cad-b7eb-ad34bfe06a36",
+      "latitude": -34.920691,
+      "longitude": 138.641029,
       "street": "A17 - Portrush Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:31:49Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-10T03:02:27Z"
     },
     {
-      "id": "0c387672-462c-4d14-8b22-2bd7dbac584d",
-      "latitude": -34.860648,
-      "longitude": 138.684383,
+      "id": "b93d9d91-0c32-4ac2-b2e2-346b0b381918",
+      "latitude": -34.86095,
+      "longitude": 138.683894,
       "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T00:59:51Z"
-    },
-    {
-      "id": "37f81ddb-7951-4e76-982a-6085074a6863",
-      "latitude": -34.965433,
-      "longitude": 138.64732,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T00:50:13Z"
-    },
-    {
-      "id": "43b47953-1328-4e61-b689-e6be4321caa9",
-      "latitude": -35.042876,
-      "longitude": 138.553408,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:14:35Z"
-    },
-    {
-      "id": "2545f171-adf2-48dd-9ab5-f52c1023d317",
-      "latitude": -34.813499,
-      "longitude": 138.595643,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2025-12-10T01:44:03Z",
-      "reported_at": "2025-12-10T01:40:56Z"
+      "timestamp": "2025-12-10T03:22:55Z",
+      "reported_at": "2025-12-09T21:03:49Z"
     }
   ]
 }
