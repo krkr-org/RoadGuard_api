@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "24d35c06-08d0-4ff2-a0c8-0082ae51c788",
-      "latitude": -34.955502,
-      "longitude": 138.557751,
+      "id": "12981322-f4f1-45f2-a198-6bbbec877991",
+      "latitude": -34.954839,
+      "longitude": 138.558256,
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T10:25:09Z",
-      "reported_at": "2025-12-10T06:44:12Z"
-    },
-    {
-      "id": "31bba23c-1a8a-4dcb-92e2-df9b28816780",
-      "latitude": -34.963153,
-      "longitude": 138.581484,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T10:25:09Z",
-      "reported_at": "2025-12-10T05:09:46Z"
+      "timestamp": "2025-12-10T10:50:14Z",
+      "reported_at": "2025-12-10T07:18:28Z"
     },
     {
       "id": "f07ff66d-247e-43e2-a83a-de166ccdff60",
@@ -27,28 +17,18 @@
       "street": "South Tce",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T10:25:09Z",
+      "timestamp": "2025-12-10T10:50:14Z",
       "reported_at": "2025-12-10T06:38:42Z"
     },
     {
-      "id": "c130b4fb-d367-4ed1-bff2-329bc3aa8bdd",
-      "latitude": -35.000383,
-      "longitude": 138.607855,
-      "street": "Unknown Street",
-      "city": "Belair",
+      "id": "31bba23c-1a8a-4dcb-92e2-df9b28816780",
+      "latitude": -34.963153,
+      "longitude": 138.581484,
+      "street": "East Av",
+      "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T10:25:09Z",
-      "reported_at": "2025-12-10T09:46:24Z"
-    },
-    {
-      "id": "2b5532c5-8449-41af-882d-a512b7084e9d",
-      "latitude": -34.928585,
-      "longitude": 138.593878,
-      "street": "Morphett St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-10T10:25:09Z",
-      "reported_at": "2025-12-10T09:58:35Z"
+      "timestamp": "2025-12-10T10:50:14Z",
+      "reported_at": "2025-12-10T05:09:46Z"
     },
     {
       "id": "4631672b-cbff-4377-bd20-138526c947ee",
@@ -57,8 +37,38 @@
       "street": "Raglan Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T10:25:09Z",
+      "timestamp": "2025-12-10T10:50:14Z",
       "reported_at": "2025-12-10T08:44:46Z"
+    },
+    {
+      "id": "2b5532c5-8449-41af-882d-a512b7084e9d",
+      "latitude": -34.928585,
+      "longitude": 138.593878,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-10T10:50:14Z",
+      "reported_at": "2025-12-10T09:58:35Z"
+    },
+    {
+      "id": "b4eadc5d-9a44-401e-a5b4-9b2c3e829c63",
+      "latitude": -34.757465,
+      "longitude": 138.677006,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-12-10T10:50:14Z",
+      "reported_at": "2025-12-10T10:40:27Z"
+    },
+    {
+      "id": "cededcc5-9289-4483-8132-582c461b5764",
+      "latitude": -34.948893,
+      "longitude": 138.518107,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-10T10:50:14Z",
+      "reported_at": "2025-12-10T10:41:41Z"
     }
   ]
 }
