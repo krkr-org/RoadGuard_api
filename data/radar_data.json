@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "12981322-f4f1-45f2-a198-6bbbec877991",
-      "latitude": -34.954839,
-      "longitude": 138.558256,
-      "street": "Birdwood Tce",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
-      "reported_at": "2025-12-10T07:18:28Z"
-    },
-    {
       "id": "f07ff66d-247e-43e2-a83a-de166ccdff60",
       "latitude": -34.97197,
       "longitude": 138.552448,
       "street": "South Tce",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
+      "timestamp": "2025-12-10T11:40:32Z",
       "reported_at": "2025-12-10T06:38:42Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
+      "timestamp": "2025-12-10T11:40:32Z",
       "reported_at": "2025-12-10T10:45:40Z"
+    },
+    {
+      "id": "c3b11f42-bfd1-464d-bc05-69d42222b31c",
+      "latitude": -34.978081,
+      "longitude": 138.517582,
+      "street": "Gordon St",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2025-12-10T11:40:32Z",
+      "reported_at": "2025-12-10T11:23:41Z"
     },
     {
       "id": "4631672b-cbff-4377-bd20-138526c947ee",
@@ -37,28 +37,8 @@
       "street": "Raglan Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
+      "timestamp": "2025-12-10T11:40:32Z",
       "reported_at": "2025-12-10T08:44:46Z"
-    },
-    {
-      "id": "3066f0c5-c89a-412f-b14e-5a1a4dd22158",
-      "latitude": -34.964099,
-      "longitude": 138.636181,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
-      "reported_at": "2025-12-10T10:56:41Z"
-    },
-    {
-      "id": "032f2026-319e-4551-ab8f-cb2cd6d47bd1",
-      "latitude": -34.779312,
-      "longitude": 138.626157,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
-      "reported_at": "2025-12-10T10:46:47Z"
     },
     {
       "id": "74a399e4-b438-4333-adfa-0da0f5337284",
@@ -67,18 +47,18 @@
       "street": "A20 - Main North Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
+      "timestamp": "2025-12-10T11:40:32Z",
       "reported_at": "2025-12-10T11:05:20Z"
     },
     {
-      "id": "b71ac7ef-f90a-401c-922a-beb315ce9a5c",
-      "latitude": -34.759786,
-      "longitude": 138.675153,
-      "street": "Unknown Street",
-      "city": "Salisbury Park",
+      "id": "3066f0c5-c89a-412f-b14e-5a1a4dd22158",
+      "latitude": -34.964099,
+      "longitude": 138.636181,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
-      "reported_at": "2025-12-10T10:49:06Z"
+      "timestamp": "2025-12-10T11:40:32Z",
+      "reported_at": "2025-12-10T10:56:41Z"
     },
     {
       "id": "30854969-ce40-4eaf-bc51-a59bd67943eb",
@@ -87,7 +67,7 @@
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2025-12-10T11:18:58Z",
+      "timestamp": "2025-12-10T11:40:32Z",
       "reported_at": "2025-12-10T11:16:34Z"
     }
   ]
