@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "12981322-f4f1-45f2-a198-6bbbec877991",
+      "latitude": -34.954839,
+      "longitude": 138.558256,
+      "street": "Birdwood Tce",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T07:18:28Z"
+    },
+    {
       "id": "020fc71a-9c5e-455d-8e81-cd1156d68de1",
       "latitude": -34.981552,
       "longitude": 138.588576,
       "street": "Richmond Av",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
+      "timestamp": "2025-12-10T09:25:47Z",
       "reported_at": "2025-12-10T05:10:00Z"
-    },
-    {
-      "id": "c1b89ed4-c7bf-46fc-bdca-e0c1a6653a7f",
-      "latitude": -34.899715,
-      "longitude": 138.655377,
-      "street": "Loader St",
-      "city": "Glynde",
-      "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T04:40:10Z"
-    },
-    {
-      "id": "24d35c06-08d0-4ff2-a0c8-0082ae51c788",
-      "latitude": -34.955502,
-      "longitude": 138.557751,
-      "street": "Birdwood Tce",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T06:44:12Z"
     },
     {
       "id": "72e811b4-e19e-4bba-9c11-2c69c61d7102",
@@ -37,38 +27,8 @@
       "street": "Daly St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
+      "timestamp": "2025-12-10T09:25:47Z",
       "reported_at": "2025-12-10T05:46:15Z"
-    },
-    {
-      "id": "c99fb1f9-6d47-46df-b451-47a5492dce6c",
-      "latitude": -34.958784,
-      "longitude": 138.5138,
-      "street": "Africaine Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T07:49:37Z"
-    },
-    {
-      "id": "1c2b4dca-cf27-4e52-a753-14367bf5af27",
-      "latitude": -34.963262,
-      "longitude": 138.581492,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T05:26:28Z"
-    },
-    {
-      "id": "2260bb27-c4dc-4133-8502-0a9ecadff3eb",
-      "latitude": -34.949453,
-      "longitude": 138.5672,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T06:00:58Z"
     },
     {
       "id": "f07ff66d-247e-43e2-a83a-de166ccdff60",
@@ -77,7 +37,7 @@
       "street": "South Tce",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
+      "timestamp": "2025-12-10T09:25:47Z",
       "reported_at": "2025-12-10T06:38:42Z"
     },
     {
@@ -87,18 +47,28 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
+      "timestamp": "2025-12-10T09:25:47Z",
       "reported_at": "2025-12-10T06:17:49Z"
     },
     {
-      "id": "dc61e9ae-f48a-4045-a043-a65e99d0241e",
-      "latitude": -34.699023,
-      "longitude": 138.753474,
-      "street": "Uley Rd",
-      "city": "Uleybury",
+      "id": "1c2b4dca-cf27-4e52-a753-14367bf5af27",
+      "latitude": -34.963262,
+      "longitude": 138.581492,
+      "street": "East Av",
+      "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T04:53:21Z"
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T05:26:28Z"
+    },
+    {
+      "id": "2260bb27-c4dc-4133-8502-0a9ecadff3eb",
+      "latitude": -34.949453,
+      "longitude": 138.5672,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T06:00:58Z"
     },
     {
       "id": "24023bff-0ea2-4885-8f22-1e489bbf147d",
@@ -107,48 +77,58 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
+      "timestamp": "2025-12-10T09:25:47Z",
       "reported_at": "2025-12-10T07:29:42Z"
     },
     {
-      "id": "225fc67a-0d01-48b5-800f-6b272affa015",
-      "latitude": -34.841945,
-      "longitude": 138.599763,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "4631672b-cbff-4377-bd20-138526c947ee",
+      "latitude": -34.980341,
+      "longitude": 138.561722,
+      "street": "Raglan Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T07:36:01Z"
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T08:44:46Z"
     },
     {
-      "id": "ed1c8f00-910b-4569-b704-a7b42b601dd9",
-      "latitude": -34.933148,
-      "longitude": 138.517407,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "42009b3f-82e9-409d-8f23-0570c93a5fd3",
+      "latitude": -34.869591,
+      "longitude": 138.481323,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T08:24:44Z"
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T08:38:44Z"
     },
     {
-      "id": "e029f428-199c-4a63-a5ba-44e46520b12e",
-      "latitude": -34.98533,
-      "longitude": 138.689337,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
+      "id": "a8d7e21c-cf81-4610-9cff-2c0348ff7666",
+      "latitude": -34.861094,
+      "longitude": 138.618404,
+      "street": "A17 - Hampstead Rd",
+      "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T06:22:22Z"
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T09:19:29Z"
     },
     {
-      "id": "da76748c-0ae5-410e-9ae6-68e034d1937c",
-      "latitude": -34.967938,
-      "longitude": 138.66497,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
+      "id": "29434218-632a-4fb3-8caf-a35472185116",
+      "latitude": -34.881733,
+      "longitude": 138.62337,
+      "street": "A10 - North East Rd",
+      "city": "Manningham",
       "type": "mobile",
-      "timestamp": "2025-12-10T08:30:27Z",
-      "reported_at": "2025-12-10T08:11:24Z"
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T09:05:47Z"
+    },
+    {
+      "id": "fc91bffd-4cf7-43fc-b879-3c68e4122c10",
+      "latitude": -34.967004,
+      "longitude": 138.55027,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-10T09:25:47Z",
+      "reported_at": "2025-12-10T08:35:38Z"
     }
   ]
 }
