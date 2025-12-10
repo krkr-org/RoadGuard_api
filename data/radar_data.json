@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "72e811b4-e19e-4bba-9c11-2c69c61d7102",
-      "latitude": -34.949623,
-      "longitude": 138.564487,
-      "street": "Daly St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T05:46:15Z"
-    },
-    {
       "id": "020fc71a-9c5e-455d-8e81-cd1156d68de1",
       "latitude": -34.981552,
       "longitude": 138.588576,
       "street": "Richmond Av",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T05:10:00Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Loader St",
       "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T04:40:10Z"
     },
     {
@@ -37,38 +27,18 @@
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T06:44:12Z"
     },
     {
-      "id": "5792441e-3e6a-4c90-8f0a-6c45439c0563",
-      "latitude": -35.00797,
-      "longitude": 138.561584,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
+      "id": "72e811b4-e19e-4bba-9c11-2c69c61d7102",
+      "latitude": -34.949623,
+      "longitude": 138.564487,
+      "street": "Daly St",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T04:50:07Z"
-    },
-    {
-      "id": "863c23ed-e423-4045-a4ac-275356bbe612",
-      "latitude": -34.972001,
-      "longitude": 138.551882,
-      "street": "South Tce",
-      "city": "Plympton Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T05:34:16Z"
-    },
-    {
-      "id": "31bba23c-1a8a-4dcb-92e2-df9b28816780",
-      "latitude": -34.962901,
-      "longitude": 138.581466,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T05:09:46Z"
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T05:46:15Z"
     },
     {
       "id": "c6c9ef12-7e1e-4ed6-a563-9677cdc29961",
@@ -77,8 +47,18 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T06:53:14Z"
+    },
+    {
+      "id": "1c2b4dca-cf27-4e52-a753-14367bf5af27",
+      "latitude": -34.963262,
+      "longitude": 138.581492,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T05:26:28Z"
     },
     {
       "id": "2260bb27-c4dc-4133-8502-0a9ecadff3eb",
@@ -87,8 +67,28 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T06:00:58Z"
+    },
+    {
+      "id": "5792441e-3e6a-4c90-8f0a-6c45439c0563",
+      "latitude": -35.00797,
+      "longitude": 138.561584,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T04:50:07Z"
+    },
+    {
+      "id": "f07ff66d-247e-43e2-a83a-de166ccdff60",
+      "latitude": -34.97197,
+      "longitude": 138.552448,
+      "street": "South Tce",
+      "city": "Plympton Park",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T06:38:42Z"
     },
     {
       "id": "dc61e9ae-f48a-4045-a043-a65e99d0241e",
@@ -97,8 +97,48 @@
       "street": "Uley Rd",
       "city": "Uleybury",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T04:53:21Z"
+    },
+    {
+      "id": "b3ec7f5c-7042-4313-bb49-d74c42db9287",
+      "latitude": -34.705955,
+      "longitude": 138.675614,
+      "street": "Womma Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T07:30:52Z"
+    },
+    {
+      "id": "4f5a135b-7311-452b-936c-2d64097a78c7",
+      "latitude": -34.701943,
+      "longitude": 138.666243,
+      "street": "Womma Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T07:35:14Z"
+    },
+    {
+      "id": "ee801a59-471c-4785-a030-ac1c758c1ff8",
+      "latitude": -35.116271,
+      "longitude": 138.512797,
+      "street": "O'Sullivan Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T07:16:03Z"
+    },
+    {
+      "id": "24023bff-0ea2-4885-8f22-1e489bbf147d",
+      "latitude": -34.990485,
+      "longitude": 138.598913,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T07:29:42Z"
     },
     {
       "id": "c8a981d4-519c-42fb-a8d2-8d9e7d55324f",
@@ -107,7 +147,7 @@
       "street": "Black Top Rd",
       "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T07:18:12Z"
     },
     {
@@ -117,38 +157,38 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T07:20:41Z"
     },
     {
-      "id": "ee801a59-471c-4785-a030-ac1c758c1ff8",
-      "latitude": -35.116271,
-      "longitude": 138.512797,
-      "street": "O'Sullivan Beach Rd",
-      "city": "Morphett Vale",
+      "id": "225fc67a-0d01-48b5-800f-6b272affa015",
+      "latitude": -34.841945,
+      "longitude": 138.599763,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T07:16:03Z"
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T07:36:01Z"
     },
     {
-      "id": "931b4b1b-d043-436a-9700-b7050ca3d02b",
-      "latitude": -34.922485,
-      "longitude": 138.605543,
-      "street": "Pulteney St",
-      "city": "Adelaide",
+      "id": "aaab9d4e-dd4f-4c74-9d30-55e9980b82a2",
+      "latitude": -34.936516,
+      "longitude": 138.552745,
+      "street": "A14 - Marion Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T06:30:23Z"
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T06:45:11Z"
     },
     {
-      "id": "f4d21302-6a4e-4985-9bcf-9e79ff3f6da6",
-      "latitude": -34.851,
-      "longitude": 138.536599,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Ottoway",
+      "id": "c4a2ee10-17c4-420f-8131-5b8a2b852096",
+      "latitude": -34.934603,
+      "longitude": 138.552716,
+      "street": "A14 - Marion Rd",
+      "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
-      "reported_at": "2025-12-10T06:56:58Z"
+      "timestamp": "2025-12-10T07:43:42Z",
+      "reported_at": "2025-12-10T06:44:29Z"
     },
     {
       "id": "e029f428-199c-4a63-a5ba-44e46520b12e",
@@ -157,7 +197,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2025-12-10T07:23:01Z",
+      "timestamp": "2025-12-10T07:43:42Z",
       "reported_at": "2025-12-10T06:22:22Z"
     }
   ]
