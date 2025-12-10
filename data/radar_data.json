@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "3c6b0a66-0b7d-4bfd-be9a-6035d984161b",
+      "latitude": -34.956175,
+      "longitude": 138.557253,
+      "street": "Birdwood Tce",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-10T05:44:53Z",
+      "reported_at": "2025-12-10T05:03:16Z"
+    },
+    {
       "id": "7b75d4d4-2c08-45e3-8fc5-dfafc5592ec3",
       "latitude": -34.966673,
       "longitude": 138.542064,
       "street": "Capper St",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
+      "timestamp": "2025-12-10T05:44:53Z",
       "reported_at": "2025-12-10T01:59:02Z"
     },
     {
@@ -17,18 +27,8 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
+      "timestamp": "2025-12-10T05:44:53Z",
       "reported_at": "2025-12-10T04:50:07Z"
-    },
-    {
-      "id": "ff2135fa-16c6-4cc6-b58c-ae8bde2fb260",
-      "latitude": -34.962297,
-      "longitude": 138.581421,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T05:00:23Z"
     },
     {
       "id": "d2f95cce-5b56-4cd6-ad11-d51da4eea272",
@@ -37,38 +37,8 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
+      "timestamp": "2025-12-10T05:44:53Z",
       "reported_at": "2025-12-10T05:05:56Z"
-    },
-    {
-      "id": "8d8747ff-10cb-4a91-b154-9ff161f877b1",
-      "latitude": -34.816492,
-      "longitude": 138.635442,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T04:51:05Z"
-    },
-    {
-      "id": "35ce479c-982b-4192-a240-1f3044af629d",
-      "latitude": -34.900261,
-      "longitude": 138.687823,
-      "street": "Morialta Rd",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T01:43:57Z"
-    },
-    {
-      "id": "981430ec-be2d-4c82-a4aa-a549d0f8e315",
-      "latitude": -34.780559,
-      "longitude": 138.649927,
-      "street": "Frost Rd",
-      "city": "Brahma Lodge",
-      "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T05:01:25Z"
     },
     {
       "id": "a1ba2853-72a3-41a9-be95-bac30e42a4e6",
@@ -77,7 +47,7 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
+      "timestamp": "2025-12-10T05:44:53Z",
       "reported_at": "2025-12-10T01:59:36Z"
     },
     {
@@ -87,18 +57,8 @@
       "street": "East Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
+      "timestamp": "2025-12-10T05:44:53Z",
       "reported_at": "2025-12-10T05:17:00Z"
-    },
-    {
-      "id": "a4128eb8-3e28-4d65-9d3c-e96ec9346f41",
-      "latitude": -34.871396,
-      "longitude": 138.483214,
-      "street": "West Lakes Bvd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T02:37:46Z"
     },
     {
       "id": "ec8e6728-55bc-4b33-9a8a-46b55279e5cb",
@@ -107,28 +67,48 @@
       "street": "Kensington Rd",
       "city": "Kensington",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
+      "timestamp": "2025-12-10T05:44:53Z",
       "reported_at": "2025-12-10T02:19:29Z"
     },
     {
-      "id": "9c4f0ff6-2692-4af9-bfff-02796fa5bc31",
-      "latitude": -34.96352,
-      "longitude": 138.643615,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "44ba79c2-3d64-4d64-ad7f-3f0b566cc08f",
+      "latitude": -34.714308,
+      "longitude": 138.749408,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T05:06:32Z"
+      "timestamp": "2025-12-10T05:44:53Z",
+      "reported_at": "2025-12-10T05:36:44Z"
     },
     {
-      "id": "3fb58c95-1cb9-4e6a-b69c-c22e866550f1",
-      "latitude": -34.910573,
-      "longitude": 138.612926,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "126b1e0f-9f19-4b89-a534-91ee8bcdcf54",
+      "latitude": -34.942425,
+      "longitude": 138.618752,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2025-12-10T05:21:58Z",
-      "reported_at": "2025-12-10T05:10:00Z"
+      "timestamp": "2025-12-10T05:44:53Z",
+      "reported_at": "2025-12-10T05:30:26Z"
+    },
+    {
+      "id": "6c2c2672-b792-416b-85c3-dd76ed8c5db5",
+      "latitude": -34.958954,
+      "longitude": 138.51413,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-10T05:44:53Z",
+      "reported_at": "2025-12-10T05:33:51Z"
+    },
+    {
+      "id": "3f6a71e2-fac6-4c44-84de-48ac84e3aee8",
+      "latitude": -34.903501,
+      "longitude": 138.568917,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-12-10T05:44:53Z",
+      "reported_at": "2025-12-10T05:41:46Z"
     }
   ]
 }
