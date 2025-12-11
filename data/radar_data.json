@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "9ad3bca6-1c32-4a97-948e-5dd9da829bdd",
-      "latitude": -35.107836,
-      "longitude": 138.507034,
+      "id": "a224fdbb-0ace-468c-8d59-904b42007d23",
+      "latitude": -35.107082,
+      "longitude": 138.506975,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-11T22:20:58Z",
-      "reported_at": "2025-12-11T20:42:56Z"
+      "timestamp": "2025-12-11T22:44:18Z",
+      "reported_at": "2025-12-11T20:38:20Z"
     },
     {
       "id": "3fcb7941-83b7-40b7-9f72-eed0cb1f04fd",
@@ -17,18 +17,28 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-11T22:20:58Z",
+      "timestamp": "2025-12-11T22:44:18Z",
       "reported_at": "2025-12-11T21:19:52Z"
     },
     {
-      "id": "b282e3da-3db3-4300-b6ff-8bf81c611a81",
-      "latitude": -35.07953,
-      "longitude": 138.527292,
-      "street": "Berrima Rd",
-      "city": "Sheidow Park",
+      "id": "db5ba97a-fa4f-4cdb-8bf6-94faf1931fc6",
+      "latitude": -34.868197,
+      "longitude": 138.664155,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2025-12-11T22:20:58Z",
-      "reported_at": "2025-12-11T21:12:57Z"
+      "timestamp": "2025-12-11T22:44:18Z",
+      "reported_at": "2025-12-11T22:14:26Z"
+    },
+    {
+      "id": "66cab2fe-6b75-45c2-8014-6d7a9eee0ada",
+      "latitude": -34.990508,
+      "longitude": 138.598443,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-11T22:44:18Z",
+      "reported_at": "2025-12-11T22:20:03Z"
     },
     {
       "id": "812e9382-2427-49b1-978c-af3df4101cf8",
@@ -37,18 +47,38 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-12-11T22:20:58Z",
+      "timestamp": "2025-12-11T22:44:18Z",
       "reported_at": "2025-12-11T21:25:39Z"
     },
     {
-      "id": "d7232a68-6e5f-4cb2-ad64-357665c728cf",
-      "latitude": -34.775319,
-      "longitude": 138.662767,
-      "street": "Smith Rd",
-      "city": "Salisbury East",
+      "id": "3b1183c9-94e2-4989-aea9-a6751c0d2553",
+      "latitude": -34.834091,
+      "longitude": 138.682412,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2025-12-11T22:20:58Z",
-      "reported_at": "2025-12-11T21:50:31Z"
+      "timestamp": "2025-12-11T22:44:18Z",
+      "reported_at": "2025-12-11T22:32:07Z"
+    },
+    {
+      "id": "7f042ae0-5c6a-4a1e-84a4-895b5126918d",
+      "latitude": -34.929821,
+      "longitude": 138.582916,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-11T22:44:18Z",
+      "reported_at": "2025-12-11T22:19:21Z"
+    },
+    {
+      "id": "5860f601-a202-451e-a86e-17b813ee10cc",
+      "latitude": -34.885626,
+      "longitude": 138.571522,
+      "street": "M2 - North-South Mwy",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2025-12-11T22:44:18Z",
+      "reported_at": "2025-12-11T22:31:37Z"
     }
   ]
 }
