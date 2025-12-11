@@ -1,3 +1,44 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "9ad3bca6-1c32-4a97-948e-5dd9da829bdd",
+      "latitude": -35.107836,
+      "longitude": 138.507034,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2025-12-11T21:23:05Z",
+      "reported_at": "2025-12-11T20:42:56Z"
+    },
+    {
+      "id": "b282e3da-3db3-4300-b6ff-8bf81c611a81",
+      "latitude": -35.07953,
+      "longitude": 138.527292,
+      "street": "Berrima Rd",
+      "city": "Sheidow Park",
+      "type": "mobile",
+      "timestamp": "2025-12-11T21:23:05Z",
+      "reported_at": "2025-12-11T21:12:57Z"
+    },
+    {
+      "id": "2ffa57da-2a36-440c-9394-10178284b19a",
+      "latitude": -34.933805,
+      "longitude": 138.594032,
+      "street": "Whitmore Sq",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-11T21:23:05Z",
+      "reported_at": "2025-12-11T21:06:59Z"
+    },
+    {
+      "id": "ac6549b0-a389-4390-893f-f2f1f3a1a01a",
+      "latitude": -35.082781,
+      "longitude": 138.554306,
+      "street": "Kenihans Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-11T21:23:05Z",
+      "reported_at": "2025-12-11T21:03:31Z"
+    }
+  ]
 }
