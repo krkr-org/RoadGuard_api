@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "cbe52c99-1eea-4e45-b442-b2b40c2733d4",
-      "latitude": -34.890362,
-      "longitude": 138.575413,
-      "street": "Unknown Street",
-      "city": "Renown Park",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T07:08:32Z"
-    },
-    {
       "id": "719ffe35-1a33-441a-8c40-02cfa68e611f",
       "latitude": -34.82104,
       "longitude": 138.754403,
       "street": "Range Rd North",
       "city": "Houghton",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T03:44:56Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "George St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T04:29:59Z"
     },
     {
@@ -37,8 +27,18 @@
       "street": "Bagot Av",
       "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T06:06:21Z"
+    },
+    {
+      "id": "8a31e2c1-2139-478c-b657-a48a3c9abd9d",
+      "latitude": -34.912528,
+      "longitude": 138.594035,
+      "street": "Montefiore Hill",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-11T07:43:23Z",
+      "reported_at": "2025-12-11T07:17:26Z"
     },
     {
       "id": "3e9e44fe-168b-4492-a682-cd0f5e7cc6aa",
@@ -47,18 +47,8 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T06:53:47Z"
-    },
-    {
-      "id": "281d948c-08cc-4e1c-b141-58c1b9bb137e",
-      "latitude": -34.746432,
-      "longitude": 138.647064,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T06:52:29Z"
     },
     {
       "id": "e5bd321b-bba8-435c-b805-7ab4d28fcbfb",
@@ -67,58 +57,8 @@
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T07:11:57Z"
-    },
-    {
-      "id": "d953902b-79c1-4a0a-9cd2-69b701b2365e",
-      "latitude": -34.870632,
-      "longitude": 138.481645,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T07:06:49Z"
-    },
-    {
-      "id": "fd2fec18-a5b0-4991-b9a8-ea2d3dffb6d1",
-      "latitude": -34.825738,
-      "longitude": 138.6091,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T06:47:30Z"
-    },
-    {
-      "id": "4b37e3e8-e4bb-4164-b691-514359d3b7de",
-      "latitude": -35.108403,
-      "longitude": 138.626592,
-      "street": "Grants Gully Rd",
-      "city": "Clarendon",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T05:12:27Z"
-    },
-    {
-      "id": "fd8d75d4-d38d-42c5-8105-9488070dc3a9",
-      "latitude": -34.826526,
-      "longitude": 138.643466,
-      "street": "Montague Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T07:00:11Z"
-    },
-    {
-      "id": "c5615a42-6a59-4744-bf87-d38e182689cc",
-      "latitude": -35.009421,
-      "longitude": 138.586201,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
-      "reported_at": "2025-12-11T07:21:53Z"
     },
     {
       "id": "a3ac6821-405e-4c6d-a24a-ae58fddd7461",
@@ -127,7 +67,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T05:19:15Z"
     },
     {
@@ -137,7 +77,7 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T05:44:53Z"
     },
     {
@@ -147,7 +87,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-11T07:24:24Z",
+      "timestamp": "2025-12-11T07:43:23Z",
       "reported_at": "2025-12-11T06:41:37Z"
     }
   ]
