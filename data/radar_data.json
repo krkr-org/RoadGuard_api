@@ -1,144 +1,104 @@
 {
   "radars": [
     {
-      "id": "8b24c44f-fdbe-40cc-9cbc-8e35e2cbcd2e",
-      "latitude": -34.796143,
-      "longitude": 138.648475,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "dcdbe3e2-295a-4a27-87d4-943da5d86382",
+      "latitude": -34.762085,
+      "longitude": 138.609994,
+      "street": "Whites Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T21:29:32Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T00:18:23Z"
     },
     {
-      "id": "e21fe242-3250-4c0a-85bc-00e2b2e3a274",
-      "latitude": -34.858217,
-      "longitude": 138.628411,
-      "street": "Folland Av",
-      "city": "Northgate",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T23:24:05Z"
-    },
-    {
-      "id": "fb073d49-39b8-424a-ac81-1bb44fb502f8",
-      "latitude": -34.755141,
-      "longitude": 138.593878,
+      "id": "22114be5-438a-423e-b0fc-ef2b0fffd0cf",
+      "latitude": -34.754707,
+      "longitude": 138.593986,
       "street": "Liberator Dr",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T21:21:05Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T00:55:32Z"
     },
     {
-      "id": "6f4cfb5b-0211-43bb-9767-6df24fbd83ba",
-      "latitude": -34.826626,
-      "longitude": 138.602787,
+      "id": "a3e1171b-3a16-4565-8d07-f783b83b437e",
+      "latitude": -34.871958,
+      "longitude": 138.482277,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-10T22:12:59Z"
+    },
+    {
+      "id": "b9c00ee6-60d3-4502-822a-1552bc5706cd",
+      "latitude": -34.992508,
+      "longitude": 138.580591,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:20:23Z"
+    },
+    {
+      "id": "fe64ce95-db84-48fc-ab45-4146744475e8",
+      "latitude": -34.826507,
+      "longitude": 138.602856,
       "street": "Montague Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T21:26:58Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-10T22:48:43Z"
     },
     {
-      "id": "f642aaff-5c9b-4886-aba8-026fbf0c7eff",
-      "latitude": -35.126633,
-      "longitude": 138.51681,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
+      "id": "e01b1e71-9dbe-43c2-b375-9e13b06070c4",
+      "latitude": -34.809664,
+      "longitude": 138.697149,
+      "street": "Golden Grove Rd",
+      "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T21:31:18Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:22:17Z"
     },
     {
-      "id": "866e95ff-f102-4592-9c9b-b3feebd17cc9",
-      "latitude": -34.990475,
-      "longitude": 138.599111,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "34eb70e8-df2b-4372-a6b9-0b9d8dc0dcf8",
+      "latitude": -34.825967,
+      "longitude": 138.607468,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T22:16:37Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T00:57:48Z"
     },
     {
-      "id": "1ef186ee-3776-4ebe-b37f-744242505a5a",
-      "latitude": -34.98823,
-      "longitude": 138.592402,
-      "street": "Goodwood Rd",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T21:32:04Z"
-    },
-    {
-      "id": "b0b4e02e-f161-4090-bc6a-a2c50039eff7",
-      "latitude": -34.857794,
-      "longitude": 138.656446,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T23:06:09Z"
-    },
-    {
-      "id": "e85b2248-5850-4e27-b403-192ca7e5b3d2",
-      "latitude": -34.733616,
-      "longitude": 138.661643,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T23:35:05Z"
-    },
-    {
-      "id": "58eea3b6-3114-4f13-9834-8a1963b62d98",
-      "latitude": -34.785751,
-      "longitude": 138.66793,
+      "id": "a720d49f-f3c2-4512-a5ac-3b42f6d671a6",
+      "latitude": -34.784147,
+      "longitude": 138.669367,
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T20:44:37Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:31:32Z"
     },
     {
-      "id": "3a3572b8-5135-47b0-b459-abeb977890df",
-      "latitude": -34.769525,
-      "longitude": 138.634987,
+      "id": "779eed83-7be1-4711-8531-7072dc26027c",
+      "latitude": -35.088622,
+      "longitude": 138.497877,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:30:04Z"
+    },
+    {
+      "id": "5cddc41c-99e0-4cec-a7d4-90df83d66248",
+      "latitude": -34.805096,
+      "longitude": 138.603147,
       "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T21:31:33Z"
-    },
-    {
-      "id": "d4960078-707d-4b90-8684-d9d0c7870246",
-      "latitude": -34.944787,
-      "longitude": 138.51764,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T23:16:03Z"
-    },
-    {
-      "id": "eaa05250-e9eb-4ae4-ae9a-28b78e39ed09",
-      "latitude": -34.753799,
-      "longitude": 138.649294,
-      "street": "A9 - John Rice Av",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T23:26:04Z"
-    },
-    {
-      "id": "c0d3f1d5-c92e-4af2-9e0b-7a3d06aad829",
-      "latitude": -34.806166,
-      "longitude": 138.597151,
-      "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T23:01:43Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:02:11Z"
     },
     {
       "id": "397f65f8-1a79-410a-985e-e58d4347dc2a",
@@ -147,18 +107,68 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
+      "timestamp": "2025-12-11T01:44:42Z",
       "reported_at": "2025-12-10T21:40:22Z"
     },
     {
-      "id": "e53272a5-aee4-4064-bb1b-ae440b0efa7e",
-      "latitude": -34.816658,
-      "longitude": 138.593019,
+      "id": "c0d3f1d5-c92e-4af2-9e0b-7a3d06aad829",
+      "latitude": -34.805803,
+      "longitude": 138.597123,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-10T23:01:43Z"
+    },
+    {
+      "id": "fea5ab05-ffda-4420-8524-e21900ad2a13",
+      "latitude": -35.025381,
+      "longitude": 138.523523,
+      "street": "A15 - Brighton Rd",
+      "city": "South Brighton",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:23:22Z"
+    },
+    {
+      "id": "3831cad5-604f-48cb-a7df-b09c231cece5",
+      "latitude": -34.768177,
+      "longitude": 138.636331,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T00:25:14Z"
+    },
+    {
+      "id": "0177021e-4aa2-4a29-b16f-78e25ae5f69a",
+      "latitude": -34.826007,
+      "longitude": 138.586183,
       "street": "A9 - Salisbury Hwy",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2025-12-10T23:39:35Z",
-      "reported_at": "2025-12-10T22:46:05Z"
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-10T21:31:01Z"
+    },
+    {
+      "id": "e6b31a39-b016-4e26-a4d8-2c261827f5bc",
+      "latitude": -35.045255,
+      "longitude": 138.55138,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-11T01:11:17Z"
+    },
+    {
+      "id": "03e9b64a-de45-4e9a-9aa5-2428f2362bac",
+      "latitude": -34.833657,
+      "longitude": 138.548156,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-12-11T01:44:42Z",
+      "reported_at": "2025-12-10T23:55:53Z"
     }
   ]
 }
