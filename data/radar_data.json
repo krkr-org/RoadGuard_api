@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "9bc301e2-917a-424c-9865-709d0da88675",
-      "latitude": -34.854317,
-      "longitude": 138.573571,
-      "street": "Myuna St",
-      "city": "Regency Park",
+      "id": "9ad3bca6-1c32-4a97-948e-5dd9da829bdd",
+      "latitude": -35.107836,
+      "longitude": 138.507034,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-11T21:41:47Z",
-      "reported_at": "2025-12-11T21:25:38Z"
-    },
-    {
-      "id": "b282e3da-3db3-4300-b6ff-8bf81c611a81",
-      "latitude": -35.07953,
-      "longitude": 138.527292,
-      "street": "Berrima Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2025-12-11T21:41:47Z",
-      "reported_at": "2025-12-11T21:12:57Z"
+      "timestamp": "2025-12-11T22:20:58Z",
+      "reported_at": "2025-12-11T20:42:56Z"
     },
     {
       "id": "3fcb7941-83b7-40b7-9f72-eed0cb1f04fd",
@@ -27,28 +17,18 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-11T21:41:47Z",
+      "timestamp": "2025-12-11T22:20:58Z",
       "reported_at": "2025-12-11T21:19:52Z"
     },
     {
-      "id": "9ad3bca6-1c32-4a97-948e-5dd9da829bdd",
-      "latitude": -35.107836,
-      "longitude": 138.507034,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
+      "id": "b282e3da-3db3-4300-b6ff-8bf81c611a81",
+      "latitude": -35.07953,
+      "longitude": 138.527292,
+      "street": "Berrima Rd",
+      "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2025-12-11T21:41:47Z",
-      "reported_at": "2025-12-11T20:42:56Z"
-    },
-    {
-      "id": "4573c42d-cf85-40b9-8fd3-37f3a943799f",
-      "latitude": -34.936945,
-      "longitude": 138.537825,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2025-12-11T21:41:47Z",
-      "reported_at": "2025-12-11T21:23:41Z"
+      "timestamp": "2025-12-11T22:20:58Z",
+      "reported_at": "2025-12-11T21:12:57Z"
     },
     {
       "id": "812e9382-2427-49b1-978c-af3df4101cf8",
@@ -57,8 +37,18 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2025-12-11T21:41:47Z",
+      "timestamp": "2025-12-11T22:20:58Z",
       "reported_at": "2025-12-11T21:25:39Z"
+    },
+    {
+      "id": "d7232a68-6e5f-4cb2-ad64-357665c728cf",
+      "latitude": -34.775319,
+      "longitude": 138.662767,
+      "street": "Smith Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2025-12-11T22:20:58Z",
+      "reported_at": "2025-12-11T21:50:31Z"
     }
   ]
 }
