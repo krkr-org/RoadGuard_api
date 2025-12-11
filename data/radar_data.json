@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "46232386-3195-4d90-9dc4-5431e207ed11",
-      "latitude": -34.921725,
-      "longitude": 138.590836,
-      "street": "George St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
-      "reported_at": "2025-12-11T04:29:59Z"
-    },
-    {
       "id": "719ffe35-1a33-441a-8c40-02cfa68e611f",
       "latitude": -34.82104,
       "longitude": 138.754403,
       "street": "Range Rd North",
       "city": "Houghton",
       "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
+      "timestamp": "2025-12-11T05:46:42Z",
       "reported_at": "2025-12-11T03:44:56Z"
     },
     {
@@ -27,18 +17,28 @@
       "street": "Whites Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
+      "timestamp": "2025-12-11T05:46:42Z",
       "reported_at": "2025-12-11T02:53:16Z"
     },
     {
-      "id": "a0a2bbe3-1d10-4334-842e-0ce9ca598f4e",
-      "latitude": -34.759034,
-      "longitude": 138.594754,
-      "street": "Liberator Dr",
-      "city": "Paralowie",
+      "id": "a379b49a-0672-4599-a909-59c57a18a058",
+      "latitude": -34.747058,
+      "longitude": 138.646721,
+      "street": "Kettering Rd",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
-      "reported_at": "2025-12-11T01:26:33Z"
+      "timestamp": "2025-12-11T05:46:42Z",
+      "reported_at": "2025-12-11T05:33:18Z"
+    },
+    {
+      "id": "4b37e3e8-e4bb-4164-b691-514359d3b7de",
+      "latitude": -35.108403,
+      "longitude": 138.626592,
+      "street": "Grants Gully Rd",
+      "city": "Clarendon",
+      "type": "mobile",
+      "timestamp": "2025-12-11T05:46:42Z",
+      "reported_at": "2025-12-11T05:12:27Z"
     },
     {
       "id": "0fb02378-e5b7-44b2-a4b6-f53c722df07b",
@@ -47,28 +47,28 @@
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
+      "timestamp": "2025-12-11T05:46:42Z",
       "reported_at": "2025-12-11T03:14:00Z"
     },
     {
-      "id": "9bf5509b-a120-4425-8bc9-219d4eb52898",
-      "latitude": -35.008485,
-      "longitude": 138.787651,
+      "id": "01a23391-05aa-4f9f-826e-629c4dfe4129",
+      "latitude": -35.008646,
+      "longitude": 138.787245,
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
-      "reported_at": "2025-12-11T05:19:03Z"
+      "timestamp": "2025-12-11T05:46:42Z",
+      "reported_at": "2025-12-11T05:24:50Z"
     },
     {
-      "id": "1354969b-71c3-4752-9624-ebba44977641",
-      "latitude": -35.034718,
-      "longitude": 138.809973,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "f4637879-ace5-4ec7-ab6d-97666ca70665",
+      "latitude": -34.874932,
+      "longitude": 138.63216,
+      "street": "A10 - North East Rd",
+      "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2025-12-11T05:23:10Z",
-      "reported_at": "2025-12-11T03:51:07Z"
+      "timestamp": "2025-12-11T05:46:42Z",
+      "reported_at": "2025-12-11T05:27:37Z"
     }
   ]
 }
