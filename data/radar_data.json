@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "e5c250db-b7d8-430d-92b4-08b44756ee8d",
-      "latitude": -34.845975,
-      "longitude": 138.515823,
-      "street": "Bedford St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
-      "reported_at": "2025-12-12T22:36:30Z"
-    },
-    {
       "id": "8098bc8e-d999-43c8-80f5-9b9d36f50bd5",
       "latitude": -35.084705,
       "longitude": 138.558833,
       "street": "Byards Rd",
       "city": "Reynella East",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
+      "timestamp": "2025-12-12T23:40:19Z",
       "reported_at": "2025-12-12T23:12:20Z"
+    },
+    {
+      "id": "099b59c1-6e35-4807-96d5-f250782d0ff4",
+      "latitude": -34.783121,
+      "longitude": 138.654134,
+      "street": "Frost Rd",
+      "city": "Brahma Lodge",
+      "type": "mobile",
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T23:15:21Z"
+    },
+    {
+      "id": "e5c250db-b7d8-430d-92b4-08b44756ee8d",
+      "latitude": -34.845975,
+      "longitude": 138.515823,
+      "street": "Bedford St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T22:36:30Z"
     },
     {
       "id": "c2b759f9-74bf-4949-822a-81c6ed45bed9",
@@ -27,7 +37,7 @@
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
+      "timestamp": "2025-12-12T23:40:19Z",
       "reported_at": "2025-12-12T20:34:33Z"
     },
     {
@@ -37,28 +47,38 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
+      "timestamp": "2025-12-12T23:40:19Z",
       "reported_at": "2025-12-12T21:34:25Z"
     },
     {
-      "id": "c5a7b1f9-d383-4cb8-9f1b-db7f44685b3a",
-      "latitude": -34.849737,
-      "longitude": 138.56816,
+      "id": "a1262ad5-a84f-43f3-89b4-b94db3ee9449",
+      "latitude": -34.93514,
+      "longitude": 138.511871,
+      "street": "A6 - Burbridge Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T23:28:18Z"
+    },
+    {
+      "id": "63beda14-790c-49e3-8f74-b743b351a485",
+      "latitude": -34.860087,
+      "longitude": 138.618234,
+      "street": "A17 - Hampstead Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T23:04:39Z"
+    },
+    {
+      "id": "73a316b7-63ed-44da-bb23-6bfd84bee990",
+      "latitude": -34.849604,
+      "longitude": 138.567356,
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
-      "reported_at": "2025-12-12T21:49:56Z"
-    },
-    {
-      "id": "e298865b-9ac4-4502-8c20-f5012a315830",
-      "latitude": -34.848044,
-      "longitude": 138.600107,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
-      "reported_at": "2025-12-12T22:34:33Z"
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T22:54:32Z"
     },
     {
       "id": "b68584a8-1b79-4d60-8e57-c2a64fba9515",
@@ -67,8 +87,18 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
+      "timestamp": "2025-12-12T23:40:19Z",
       "reported_at": "2025-12-12T22:22:20Z"
+    },
+    {
+      "id": "e298865b-9ac4-4502-8c20-f5012a315830",
+      "latitude": -34.848044,
+      "longitude": 138.600107,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T22:34:33Z"
     },
     {
       "id": "3f48887a-d9e7-4067-8a2c-5dc70e36cf7e",
@@ -77,7 +107,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
+      "timestamp": "2025-12-12T23:40:19Z",
       "reported_at": "2025-12-12T22:30:30Z"
     },
     {
@@ -87,28 +117,18 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
+      "timestamp": "2025-12-12T23:40:19Z",
       "reported_at": "2025-12-12T22:34:07Z"
     },
     {
-      "id": "63beda14-790c-49e3-8f74-b743b351a485",
-      "latitude": -34.860087,
-      "longitude": 138.618234,
-      "street": "A17 - Hampstead Rd",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
-      "reported_at": "2025-12-12T23:04:39Z"
-    },
-    {
-      "id": "0f6ce58a-793c-4695-91f4-34de017d1dec",
-      "latitude": -34.775887,
-      "longitude": 138.595136,
-      "street": "A1 - Port Wakefield Rd",
+      "id": "8f3c0d46-5224-4aed-8728-93477c5ecbb9",
+      "latitude": -34.780899,
+      "longitude": 138.624782,
+      "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-12T23:20:13Z",
-      "reported_at": "2025-12-12T23:08:42Z"
+      "timestamp": "2025-12-12T23:40:19Z",
+      "reported_at": "2025-12-12T23:23:33Z"
     }
   ]
 }
