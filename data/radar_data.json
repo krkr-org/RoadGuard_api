@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "4ae6a499-6648-418d-b2c4-499f0841206f",
-      "latitude": -34.93192,
-      "longitude": 138.643191,
-      "street": "Stannington Av",
-      "city": "Heathpool",
+      "id": "48af6733-6746-45bd-8f6f-9f7f3986f4ba",
+      "latitude": -35.121056,
+      "longitude": 138.535008,
+      "street": "Reynold St",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T06:53:37Z"
+      "timestamp": "2025-12-12T07:43:45Z",
+      "reported_at": "2025-12-12T07:11:09Z"
     },
     {
       "id": "10bdc2a4-4484-47f5-88fc-881b31416fdc",
@@ -17,28 +17,8 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
+      "timestamp": "2025-12-12T07:43:45Z",
       "reported_at": "2025-12-12T04:28:37Z"
-    },
-    {
-      "id": "a963e434-be63-404c-8ef6-7a979586cb0c",
-      "latitude": -34.862353,
-      "longitude": 138.679918,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T05:32:57Z"
-    },
-    {
-      "id": "2dde6baf-1ec4-45af-af7d-20237a4e0ef0",
-      "latitude": -34.850751,
-      "longitude": 138.671538,
-      "street": "Valiant Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T06:45:21Z"
     },
     {
       "id": "6638759c-68ee-4608-a019-570dd8a3c48d",
@@ -47,8 +27,18 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
+      "timestamp": "2025-12-12T07:43:45Z",
       "reported_at": "2025-12-12T06:39:16Z"
+    },
+    {
+      "id": "1629ab38-bdc1-4fa7-bb26-10f06d8778ef",
+      "latitude": -34.858333,
+      "longitude": 138.679607,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:43:45Z",
+      "reported_at": "2025-12-12T07:22:25Z"
     },
     {
       "id": "e03b3d7e-b813-42a6-b0c7-c3a4d62efc94",
@@ -57,8 +47,18 @@
       "street": "Duthy St",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
+      "timestamp": "2025-12-12T07:43:45Z",
       "reported_at": "2025-12-12T06:41:21Z"
+    },
+    {
+      "id": "32383ceb-0ebf-4b3b-9b38-1b1a695c9d23",
+      "latitude": -34.92164,
+      "longitude": 138.616159,
+      "street": "Rundle St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:43:45Z",
+      "reported_at": "2025-12-12T07:32:20Z"
     },
     {
       "id": "807227d5-a173-49d9-8394-3b889c345da4",
@@ -67,48 +67,8 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
+      "timestamp": "2025-12-12T07:43:45Z",
       "reported_at": "2025-12-12T04:42:22Z"
-    },
-    {
-      "id": "d66c558f-e3d8-4fbf-b034-11f4de2f1142",
-      "latitude": -34.829365,
-      "longitude": 138.667246,
-      "street": "Montague Rd",
-      "city": "Para Vista",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T06:45:19Z"
-    },
-    {
-      "id": "adbbcb98-b0cb-44ac-a8c8-c7644cf6f4eb",
-      "latitude": -34.825349,
-      "longitude": 138.611075,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T06:48:26Z"
-    },
-    {
-      "id": "49e40b36-a539-4193-a450-0c294f2f1043",
-      "latitude": -34.918617,
-      "longitude": 138.640854,
-      "street": "A17 - Portrush Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T07:12:32Z"
-    },
-    {
-      "id": "97389272-e16b-4421-9d01-cf9a74cb90e5",
-      "latitude": -34.878825,
-      "longitude": 138.627179,
-      "street": "A10 - North East Rd",
-      "city": "Klemzig",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:25:00Z",
-      "reported_at": "2025-12-12T07:24:03Z"
     }
   ]
 }
