@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "8bb7c9e0-198e-4aa1-859f-5c597b368287",
-      "latitude": -34.829469,
-      "longitude": 138.640481,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
+      "id": "4ae6a499-6648-418d-b2c4-499f0841206f",
+      "latitude": -34.93192,
+      "longitude": 138.643191,
+      "street": "Stannington Av",
+      "city": "Heathpool",
       "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T05:35:02Z"
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T06:53:37Z"
     },
     {
       "id": "10bdc2a4-4484-47f5-88fc-881b31416fdc",
@@ -17,7 +17,7 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
+      "timestamp": "2025-12-12T07:25:00Z",
       "reported_at": "2025-12-12T04:28:37Z"
     },
     {
@@ -27,8 +27,38 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
+      "timestamp": "2025-12-12T07:25:00Z",
       "reported_at": "2025-12-12T05:32:57Z"
+    },
+    {
+      "id": "2dde6baf-1ec4-45af-af7d-20237a4e0ef0",
+      "latitude": -34.850751,
+      "longitude": 138.671538,
+      "street": "Valiant Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T06:45:21Z"
+    },
+    {
+      "id": "6638759c-68ee-4608-a019-570dd8a3c48d",
+      "latitude": -34.829706,
+      "longitude": 138.64111,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T06:39:16Z"
+    },
+    {
+      "id": "e03b3d7e-b813-42a6-b0c7-c3a4d62efc94",
+      "latitude": -34.952407,
+      "longitude": 138.614428,
+      "street": "Duthy St",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T06:41:21Z"
     },
     {
       "id": "807227d5-a173-49d9-8394-3b889c345da4",
@@ -37,88 +67,48 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
+      "timestamp": "2025-12-12T07:25:00Z",
       "reported_at": "2025-12-12T04:42:22Z"
     },
     {
-      "id": "54ce9cd4-a6c8-4ae5-a812-ad40f1e36a8b",
-      "latitude": -34.925455,
-      "longitude": 138.499525,
-      "street": "Henley Beach Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T03:06:48Z"
-    },
-    {
-      "id": "75b6495f-9398-4bb0-88ed-cc248f006e26",
-      "latitude": -35.12768,
-      "longitude": 138.495769,
-      "street": "Flaxmill Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T06:25:32Z"
-    },
-    {
-      "id": "9b948c55-45a9-4ee0-ae64-fcdb590462e2",
-      "latitude": -34.921937,
-      "longitude": 138.588621,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T04:50:21Z"
-    },
-    {
-      "id": "552d85d9-240c-4455-baf4-e15bccedcd05",
-      "latitude": -34.876513,
-      "longitude": 138.55044,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T05:40:02Z"
-    },
-    {
-      "id": "381cd277-f94f-48c6-9739-6705a4d79d53",
-      "latitude": -34.874623,
-      "longitude": 138.548393,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T06:12:26Z"
-    },
-    {
-      "id": "523782b7-e5b7-4cf4-abe7-9afe1abfa6eb",
-      "latitude": -34.829353,
-      "longitude": 138.665653,
+      "id": "d66c558f-e3d8-4fbf-b034-11f4de2f1142",
+      "latitude": -34.829365,
+      "longitude": 138.667246,
       "street": "Montague Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T05:15:42Z"
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T06:45:19Z"
     },
     {
-      "id": "d303017a-9670-422a-9784-8b38cd2e89ce",
-      "latitude": -34.975772,
-      "longitude": 138.531846,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T06:06:09Z"
-    },
-    {
-      "id": "f6f6cf00-f29b-43e0-b670-c41eb846a362",
-      "latitude": -34.824259,
-      "longitude": 138.617797,
-      "street": "A20 - Main North Rd",
+      "id": "adbbcb98-b0cb-44ac-a8c8-c7644cf6f4eb",
+      "latitude": -34.825349,
+      "longitude": 138.611075,
+      "street": "Montague Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-12T06:34:10Z",
-      "reported_at": "2025-12-12T06:05:36Z"
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T06:48:26Z"
+    },
+    {
+      "id": "49e40b36-a539-4193-a450-0c294f2f1043",
+      "latitude": -34.918617,
+      "longitude": 138.640854,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T07:12:32Z"
+    },
+    {
+      "id": "97389272-e16b-4421-9d01-cf9a74cb90e5",
+      "latitude": -34.878825,
+      "longitude": 138.627179,
+      "street": "A10 - North East Rd",
+      "city": "Klemzig",
+      "type": "mobile",
+      "timestamp": "2025-12-12T07:25:00Z",
+      "reported_at": "2025-12-12T07:24:03Z"
     }
   ]
 }
