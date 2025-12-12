@@ -1,34 +1,74 @@
 {
   "radars": [
     {
-      "id": "9ad3bca6-1c32-4a97-948e-5dd9da829bdd",
-      "latitude": -35.107836,
-      "longitude": 138.507034,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
+      "id": "58f31394-0814-497a-83b5-4fb1596fd72c",
+      "latitude": -34.912709,
+      "longitude": 138.493942,
+      "street": "Military Rd",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T20:42:56Z"
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T00:42:09Z"
     },
     {
-      "id": "3fcb7941-83b7-40b7-9f72-eed0cb1f04fd",
-      "latitude": -35.094424,
-      "longitude": 138.530403,
-      "street": "Grant Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T21:19:52Z"
-    },
-    {
-      "id": "b282e3da-3db3-4300-b6ff-8bf81c611a81",
-      "latitude": -35.07953,
-      "longitude": 138.527292,
+      "id": "de78bf69-3cc9-42fc-80f0-bef3f636fda2",
+      "latitude": -35.079757,
+      "longitude": 138.526976,
       "street": "Berrima Rd",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T21:12:57Z"
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-11T22:24:18Z"
+    },
+    {
+      "id": "5eff40ac-2ed5-4801-8721-96fcde748caf",
+      "latitude": -35.094454,
+      "longitude": 138.529724,
+      "street": "Grant Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-11T22:08:24Z"
+    },
+    {
+      "id": "313c7bbc-4e03-4eaf-ae20-db9c90959466",
+      "latitude": -35.082189,
+      "longitude": 138.563862,
+      "street": "Unknown Street",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-11T22:19:30Z"
+    },
+    {
+      "id": "8e1a3ef1-aaba-4f00-871b-018091026101",
+      "latitude": -35.1118,
+      "longitude": 138.509724,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T01:16:07Z"
+    },
+    {
+      "id": "7aefbd19-ae3b-4edb-993c-3b99642a1784",
+      "latitude": -34.871952,
+      "longitude": 138.482404,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T01:08:00Z"
+    },
+    {
+      "id": "71095096-740c-4ad2-acf0-05ad6277af7b",
+      "latitude": -34.980454,
+      "longitude": 138.559607,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T00:50:01Z"
     },
     {
       "id": "35fa5f8e-659d-4d97-b7c8-42e3c6bb971e",
@@ -37,68 +77,48 @@
       "street": "Kenihans Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
+      "timestamp": "2025-12-12T01:44:10Z",
       "reported_at": "2025-12-11T21:39:57Z"
     },
     {
-      "id": "c2db7885-ae6b-4548-b7c6-d03421372f43",
-      "latitude": -34.808926,
-      "longitude": 138.676789,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
+      "id": "8885df54-63d0-40cd-b12b-0ad0f2dcfcea",
+      "latitude": -34.990428,
+      "longitude": 138.60016,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T23:29:05Z"
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T01:30:18Z"
     },
     {
-      "id": "ab15b2eb-618b-4a60-a160-9784d40e19b2",
-      "latitude": -35.127949,
-      "longitude": 138.485514,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "84e5ed73-f623-4e85-a225-2621c41bbede",
+      "latitude": -35.006185,
+      "longitude": 138.698641,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T23:24:10Z"
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T01:05:08Z"
     },
     {
-      "id": "f820f91b-4bd1-45f8-9965-9816bb3d77ee",
-      "latitude": -35.016786,
-      "longitude": 138.61664,
-      "street": "B29 - Main Rd",
-      "city": "Blackwood",
-      "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T23:26:09Z"
-    },
-    {
-      "id": "d781a825-0b08-4e78-a004-a2d973168715",
-      "latitude": -34.908522,
-      "longitude": 138.577174,
-      "street": "R1 - Park Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T23:16:12Z"
-    },
-    {
-      "id": "6718e66f-8d5e-47f7-9f1b-57b3c05e6dbb",
-      "latitude": -34.962125,
-      "longitude": 138.554711,
+      "id": "5ee2b4ae-51b5-46f0-8767-87cf10eb1ad1",
+      "latitude": -35.024205,
+      "longitude": 138.559538,
       "street": "A14 - Marion Rd",
-      "city": "Plympton",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T23:18:19Z"
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T01:37:02Z"
     },
     {
-      "id": "5860f601-a202-451e-a86e-17b813ee10cc",
-      "latitude": -34.885626,
-      "longitude": 138.571522,
+      "id": "97488caa-069b-431e-b419-49cb082780e1",
+      "latitude": -34.778882,
+      "longitude": 138.5861,
       "street": "M2 - North-South Mwy",
-      "city": "Renown Park",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2025-12-11T23:41:24Z",
-      "reported_at": "2025-12-11T22:31:37Z"
+      "timestamp": "2025-12-12T01:44:10Z",
+      "reported_at": "2025-12-12T01:38:13Z"
     }
   ]
 }
