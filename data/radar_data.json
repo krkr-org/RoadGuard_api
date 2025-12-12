@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "8bb7c9e0-198e-4aa1-859f-5c597b368287",
+      "latitude": -34.829469,
+      "longitude": 138.640481,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2025-12-12T05:45:54Z",
+      "reported_at": "2025-12-12T05:35:02Z"
+    },
+    {
       "id": "10bdc2a4-4484-47f5-88fc-881b31416fdc",
       "latitude": -34.985898,
       "longitude": 138.58321,
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
+      "timestamp": "2025-12-12T05:45:54Z",
       "reported_at": "2025-12-12T04:28:37Z"
+    },
+    {
+      "id": "052a6226-13d0-4eec-94d2-5787c99ea574",
+      "latitude": -34.851077,
+      "longitude": 138.671562,
+      "street": "Valiant Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-12T05:45:54Z",
+      "reported_at": "2025-12-12T05:19:24Z"
     },
     {
       "id": "54ce9cd4-a6c8-4ae5-a812-ad40f1e36a8b",
@@ -17,78 +37,18 @@
       "street": "Henley Beach Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
+      "timestamp": "2025-12-12T05:45:54Z",
       "reported_at": "2025-12-12T03:06:48Z"
     },
     {
-      "id": "05d26c5b-49eb-4c3c-a8c2-efb6a8579ee9",
-      "latitude": -34.864858,
-      "longitude": 138.511756,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T05:14:59Z"
-    },
-    {
-      "id": "068e5573-50c2-414a-ad71-60e8334f130d",
-      "latitude": -34.825324,
-      "longitude": 138.612017,
+      "id": "a9036129-c2ee-4ce5-8720-d3a571893541",
+      "latitude": -34.825175,
+      "longitude": 138.612311,
       "street": "Montague Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T05:03:35Z"
-    },
-    {
-      "id": "b7c33f8f-59f9-4bb2-b7bf-986eeaf25661",
-      "latitude": -34.874447,
-      "longitude": 138.58567,
-      "street": "Regency Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T04:49:37Z"
-    },
-    {
-      "id": "0b504512-7ce0-4617-a183-669e6d1f484b",
-      "latitude": -34.806391,
-      "longitude": 138.703102,
-      "street": "Grenfell Rd",
-      "city": "Redwood Park",
-      "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T04:57:57Z"
-    },
-    {
-      "id": "69a3dc31-4f0d-45b7-a256-64d6529bfbc8",
-      "latitude": -34.806656,
-      "longitude": 138.696356,
-      "street": "Grenfell Rd",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T04:54:29Z"
-    },
-    {
-      "id": "9b948c55-45a9-4ee0-ae64-fcdb590462e2",
-      "latitude": -34.921937,
-      "longitude": 138.588621,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T04:50:21Z"
-    },
-    {
-      "id": "c8fbc201-88be-41f7-a1f4-bb17b276ee73",
-      "latitude": -34.875469,
-      "longitude": 138.57118,
-      "street": "South Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T04:59:09Z"
+      "timestamp": "2025-12-12T05:45:54Z",
+      "reported_at": "2025-12-12T05:02:31Z"
     },
     {
       "id": "37439813-c020-4a39-adfb-7bba7e4b2d3d",
@@ -97,18 +57,18 @@
       "street": "A14 - Marion Rd",
       "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
+      "timestamp": "2025-12-12T05:45:54Z",
       "reported_at": "2025-12-12T05:18:45Z"
     },
     {
-      "id": "86fd952e-35f8-4124-9785-c2b4822750d2",
-      "latitude": -34.846311,
-      "longitude": 138.646167,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Walkley Heights",
+      "id": "86ea175e-dbad-4452-b4ad-f576106ed156",
+      "latitude": -34.881131,
+      "longitude": 138.624155,
+      "street": "A10 - North East Rd",
+      "city": "Manningham",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T04:58:31Z"
+      "timestamp": "2025-12-12T05:45:54Z",
+      "reported_at": "2025-12-12T05:30:19Z"
     },
     {
       "id": "fdf2d132-6e64-444d-bb4c-33e9cf7793b0",
@@ -117,18 +77,18 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
+      "timestamp": "2025-12-12T05:45:54Z",
       "reported_at": "2025-12-12T04:59:15Z"
     },
     {
-      "id": "c6aecfe2-6d6c-496a-9b3e-9d7fa156bca1",
-      "latitude": -34.767218,
-      "longitude": 138.637164,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "83760cc9-5ad7-4a71-907f-79853ed188cd",
+      "latitude": -35.0378,
+      "longitude": 138.81307,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-12T05:22:00Z",
-      "reported_at": "2025-12-12T05:10:35Z"
+      "timestamp": "2025-12-12T05:45:54Z",
+      "reported_at": "2025-12-12T05:33:45Z"
     }
   ]
 }
