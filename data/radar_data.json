@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "afe07b9c-33f2-4dc9-80f3-1812dc525f37",
-      "latitude": -34.990416,
-      "longitude": 138.600378,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "80f46b83-c2fb-4e62-903a-0e43d04701d1",
+      "latitude": -34.89739,
+      "longitude": 138.614501,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2025-12-12T20:44:45Z",
-      "reported_at": "2025-12-12T19:51:53Z"
+      "timestamp": "2025-12-12T21:18:55Z",
+      "reported_at": "2025-12-12T16:50:56Z"
     },
     {
       "id": "2e83a232-6593-4047-bbf0-b63ccf887697",
@@ -17,8 +17,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-12T20:44:45Z",
+      "timestamp": "2025-12-12T21:18:55Z",
       "reported_at": "2025-12-12T20:35:10Z"
+    },
+    {
+      "id": "5fd58553-ee44-49d6-ba13-4df4fef9c1e2",
+      "latitude": -34.846315,
+      "longitude": 138.601425,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-12-12T21:18:55Z",
+      "reported_at": "2025-12-12T21:09:43Z"
     }
   ]
 }
