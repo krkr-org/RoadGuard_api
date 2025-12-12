@@ -7,18 +7,28 @@
       "street": "Dunn St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
+      "timestamp": "2025-12-12T10:24:09Z",
       "reported_at": "2025-12-12T09:21:32Z"
     },
     {
-      "id": "bdc33158-973e-4fd5-96ff-e570fe99d61a",
-      "latitude": -34.853077,
-      "longitude": 138.671715,
+      "id": "cb2f39b2-8da6-4310-87df-8b4f7d2ec800",
+      "latitude": -34.86284,
+      "longitude": 138.679955,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T07:48:17Z"
+    },
+    {
+      "id": "ffd6dea7-2a40-4ed6-a440-c68955ea750b",
+      "latitude": -34.851931,
+      "longitude": 138.671624,
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
-      "reported_at": "2025-12-12T06:17:07Z"
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T06:31:00Z"
     },
     {
       "id": "6638759c-68ee-4608-a019-570dd8a3c48d",
@@ -27,58 +37,8 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
+      "timestamp": "2025-12-12T10:24:09Z",
       "reported_at": "2025-12-12T06:39:16Z"
-    },
-    {
-      "id": "96329816-f15e-47a7-b495-9471f53efaa9",
-      "latitude": -34.926278,
-      "longitude": 138.589865,
-      "street": "Waymouth St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
-      "reported_at": "2025-12-12T07:55:46Z"
-    },
-    {
-      "id": "a7d503a2-e93a-407f-abe1-e6888d1b9399",
-      "latitude": -34.915818,
-      "longitude": 138.587727,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
-      "reported_at": "2025-12-12T07:58:18Z"
-    },
-    {
-      "id": "bd1662f8-8e38-4955-a6d1-880e1b539957",
-      "latitude": -34.829275,
-      "longitude": 138.668755,
-      "street": "Montague Rd",
-      "city": "Modbury North",
-      "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
-      "reported_at": "2025-12-12T09:14:20Z"
-    },
-    {
-      "id": "6a0052ba-3fd5-40be-89bd-5fdd110527d3",
-      "latitude": -34.849857,
-      "longitude": 138.635536,
-      "street": "Fosters Rd",
-      "city": "Northgate",
-      "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
-      "reported_at": "2025-12-12T06:09:30Z"
-    },
-    {
-      "id": "6515cb6a-8f81-4d91-be17-958af2fc0336",
-      "latitude": -34.857259,
-      "longitude": 138.669571,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
-      "reported_at": "2025-12-12T09:31:47Z"
     },
     {
       "id": "d66c558f-e3d8-4fbf-b034-11f4de2f1142",
@@ -87,8 +47,88 @@
       "street": "Montague Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2025-12-12T09:47:02Z",
+      "timestamp": "2025-12-12T10:24:09Z",
       "reported_at": "2025-12-12T06:45:19Z"
+    },
+    {
+      "id": "bd1662f8-8e38-4955-a6d1-880e1b539957",
+      "latitude": -34.829275,
+      "longitude": 138.668755,
+      "street": "Montague Rd",
+      "city": "Modbury North",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T09:14:20Z"
+    },
+    {
+      "id": "6515cb6a-8f81-4d91-be17-958af2fc0336",
+      "latitude": -34.857259,
+      "longitude": 138.669571,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T09:31:47Z"
+    },
+    {
+      "id": "6d9ecb9d-ec20-4d89-b447-bf8bd708fb80",
+      "latitude": -35.054559,
+      "longitude": 138.566799,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T10:12:45Z"
+    },
+    {
+      "id": "9ff02b2d-af6c-44f0-967d-df1d22fc726a",
+      "latitude": -34.825183,
+      "longitude": 138.612254,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T06:54:01Z"
+    },
+    {
+      "id": "6f82189f-8ad7-442b-952a-825eb2a0de2c",
+      "latitude": -34.99017,
+      "longitude": 138.520977,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg South",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T09:52:34Z"
+    },
+    {
+      "id": "e39cf742-1c18-484a-be33-f90affb094cb",
+      "latitude": -34.932293,
+      "longitude": 138.558737,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Cowandilla",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T09:55:42Z"
+    },
+    {
+      "id": "57b37016-81d6-4bd4-bda6-acdd06cc3725",
+      "latitude": -34.962619,
+      "longitude": 138.55474,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T09:50:18Z"
+    },
+    {
+      "id": "a07303c5-1b20-49e4-b4b5-11cd75334eaa",
+      "latitude": -34.772032,
+      "longitude": 138.590226,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-12-12T10:24:09Z",
+      "reported_at": "2025-12-12T10:06:11Z"
     }
   ]
 }
