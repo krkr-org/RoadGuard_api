@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "48af6733-6746-45bd-8f6f-9f7f3986f4ba",
-      "latitude": -35.121056,
-      "longitude": 138.535008,
-      "street": "Reynold St",
-      "city": "Morphett Vale",
+      "id": "96329816-f15e-47a7-b495-9471f53efaa9",
+      "latitude": -34.926278,
+      "longitude": 138.589865,
+      "street": "Waymouth St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
-      "reported_at": "2025-12-12T07:11:09Z"
-    },
-    {
-      "id": "10bdc2a4-4484-47f5-88fc-881b31416fdc",
-      "latitude": -34.985898,
-      "longitude": 138.58321,
-      "street": "Winston Av",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
-      "reported_at": "2025-12-12T04:28:37Z"
+      "timestamp": "2025-12-12T08:30:58Z",
+      "reported_at": "2025-12-12T07:55:46Z"
     },
     {
       "id": "6638759c-68ee-4608-a019-570dd8a3c48d",
@@ -27,18 +17,18 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
+      "timestamp": "2025-12-12T08:30:58Z",
       "reported_at": "2025-12-12T06:39:16Z"
     },
     {
-      "id": "1629ab38-bdc1-4fa7-bb26-10f06d8778ef",
-      "latitude": -34.858333,
-      "longitude": 138.679607,
+      "id": "a963e434-be63-404c-8ef6-7a979586cb0c",
+      "latitude": -34.862353,
+      "longitude": 138.679918,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
-      "reported_at": "2025-12-12T07:22:25Z"
+      "timestamp": "2025-12-12T08:30:58Z",
+      "reported_at": "2025-12-12T05:32:57Z"
     },
     {
       "id": "e03b3d7e-b813-42a6-b0c7-c3a4d62efc94",
@@ -47,18 +37,18 @@
       "street": "Duthy St",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
+      "timestamp": "2025-12-12T08:30:58Z",
       "reported_at": "2025-12-12T06:41:21Z"
     },
     {
-      "id": "32383ceb-0ebf-4b3b-9b38-1b1a695c9d23",
-      "latitude": -34.92164,
-      "longitude": 138.616159,
-      "street": "Rundle St",
-      "city": "Kent Town",
+      "id": "a7d503a2-e93a-407f-abe1-e6888d1b9399",
+      "latitude": -34.915818,
+      "longitude": 138.587727,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
-      "reported_at": "2025-12-12T07:32:20Z"
+      "timestamp": "2025-12-12T08:30:58Z",
+      "reported_at": "2025-12-12T07:58:18Z"
     },
     {
       "id": "807227d5-a173-49d9-8394-3b889c345da4",
@@ -67,8 +57,38 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-12T07:43:45Z",
+      "timestamp": "2025-12-12T08:30:58Z",
       "reported_at": "2025-12-12T04:42:22Z"
+    },
+    {
+      "id": "d66c558f-e3d8-4fbf-b034-11f4de2f1142",
+      "latitude": -34.829365,
+      "longitude": 138.667246,
+      "street": "Montague Rd",
+      "city": "Para Vista",
+      "type": "mobile",
+      "timestamp": "2025-12-12T08:30:58Z",
+      "reported_at": "2025-12-12T06:45:19Z"
+    },
+    {
+      "id": "53b4dd62-384a-4490-b69e-853547f25711",
+      "latitude": -34.897969,
+      "longitude": 138.674934,
+      "street": "St. Bernards Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2025-12-12T08:30:58Z",
+      "reported_at": "2025-12-12T08:06:23Z"
+    },
+    {
+      "id": "abe34083-2820-4b40-8906-6f5eeea708db",
+      "latitude": -34.896335,
+      "longitude": 138.67481,
+      "street": "St. Bernards Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2025-12-12T08:30:58Z",
+      "reported_at": "2025-12-12T07:57:01Z"
     }
   ]
 }
