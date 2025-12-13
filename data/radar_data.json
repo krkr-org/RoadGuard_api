@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "e5c250db-b7d8-430d-92b4-08b44756ee8d",
-      "latitude": -34.845975,
-      "longitude": 138.515823,
-      "street": "Bedford St",
-      "city": "Port Adelaide",
+      "id": "5092bc84-a126-4f78-b4d8-54f5d3b92aed",
+      "latitude": -34.949009,
+      "longitude": 138.555911,
+      "street": "Galway Av",
+      "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-12T22:36:30Z"
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-12T23:37:57Z"
     },
     {
-      "id": "9a6c0b28-d774-4e73-bc1d-9d89c12405ea",
-      "latitude": -34.901163,
-      "longitude": 138.576425,
+      "id": "b923ac88-3af8-42dc-8834-ea445a840a56",
+      "latitude": -34.901242,
+      "longitude": 138.576348,
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-12T23:46:25Z"
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T00:33:30Z"
+    },
+    {
+      "id": "1409b3d9-ee55-4c2f-8212-67036cb8a9d7",
+      "latitude": -34.821054,
+      "longitude": 138.700154,
+      "street": "Ashley Av",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T00:32:46Z"
+    },
+    {
+      "id": "657af90f-1a9c-4a82-9291-64646772f632",
+      "latitude": -34.858491,
+      "longitude": 138.623218,
+      "street": "Unknown Street",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T02:46:27Z"
     },
     {
       "id": "4228374b-97f6-4e66-91a5-b5e4601b9bbe",
@@ -27,48 +47,78 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
+      "timestamp": "2025-12-13T03:16:29Z",
       "reported_at": "2025-12-12T23:15:44Z"
     },
     {
-      "id": "f6c6f8f0-ceb2-4325-8159-08d4c862b729",
-      "latitude": -34.824306,
-      "longitude": 138.69405,
-      "street": "Golden Grove Rd",
-      "city": "Modbury North",
-      "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-13T01:30:40Z"
-    },
-    {
-      "id": "6979b29f-7809-435a-8281-954d94bbcd56",
-      "latitude": -34.844937,
-      "longitude": 138.546346,
+      "id": "c2b759f9-74bf-4949-822a-81c6ed45bed9",
+      "latitude": -34.844322,
+      "longitude": 138.5463,
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-12T23:22:39Z"
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-12T20:34:33Z"
     },
     {
-      "id": "dd8ea828-a9bf-4f98-995f-7ddfcc2f48b9",
-      "latitude": -34.921486,
-      "longitude": 138.599049,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "18cab77b-7917-4cbb-9fbb-cab63c89c1ad",
+      "latitude": -35.054755,
+      "longitude": 138.54163,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-13T01:04:01Z"
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T02:46:23Z"
     },
     {
-      "id": "e6eb6b9a-89c4-4b35-ab4e-99d5e4d21f0e",
-      "latitude": -34.849884,
-      "longitude": 138.572046,
+      "id": "63fe5f32-d95b-4a99-aba5-0bd3cef6d3af",
+      "latitude": -34.902761,
+      "longitude": 138.583838,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
+      "type": "mobile",
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T02:54:24Z"
+    },
+    {
+      "id": "cc725369-07be-437e-93c7-4b1c7cddbec1",
+      "latitude": -34.844724,
+      "longitude": 138.673498,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T03:01:29Z"
+    },
+    {
+      "id": "e3c97f66-daa9-453f-b573-a1aae54618b0",
+      "latitude": -34.846136,
+      "longitude": 138.601556,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-12T23:54:32Z"
+    },
+    {
+      "id": "ba9fd1bb-2cc0-4950-b136-457fd8c8d9e3",
+      "latitude": -34.849809,
+      "longitude": 138.569934,
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-13T01:00:03Z"
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T02:10:09Z"
+    },
+    {
+      "id": "879e732e-e7a6-4c1a-8204-9a867f00b84e",
+      "latitude": -34.879678,
+      "longitude": 138.619686,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2025-12-13T03:16:29Z",
+      "reported_at": "2025-12-13T03:09:17Z"
     },
     {
       "id": "e298865b-9ac4-4502-8c20-f5012a315830",
@@ -77,28 +127,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
+      "timestamp": "2025-12-13T03:16:29Z",
       "reported_at": "2025-12-12T22:34:33Z"
-    },
-    {
-      "id": "b68584a8-1b79-4d60-8e57-c2a64fba9515",
-      "latitude": -34.845401,
-      "longitude": 138.602095,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-12T22:22:20Z"
-    },
-    {
-      "id": "8b63dc5b-8830-4527-a511-26bc02b274bb",
-      "latitude": -34.863692,
-      "longitude": 138.601337,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2025-12-13T01:38:42Z",
-      "reported_at": "2025-12-13T01:11:14Z"
     }
   ]
 }
