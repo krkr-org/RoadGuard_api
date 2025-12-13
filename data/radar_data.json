@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "83a45409-4339-459a-94f3-46e5eb60e513",
-      "latitude": -34.870514,
-      "longitude": 138.540585,
-      "street": "Torrens Rd",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2025-12-13T21:17:49Z",
-      "reported_at": "2025-12-13T17:35:39Z"
-    },
-    {
       "id": "6bcc5396-2a6f-43a1-9ef9-ec81f7e969f3",
       "latitude": -34.926592,
       "longitude": 138.539545,
       "street": "Henley Beach Rd",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2025-12-13T21:17:49Z",
+      "timestamp": "2025-12-13T21:38:02Z",
       "reported_at": "2025-12-13T17:53:45Z"
-    },
-    {
-      "id": "739e9bd7-cd45-43cb-9e8f-ecbae47fdd82",
-      "latitude": -34.829253,
-      "longitude": 138.667371,
-      "street": "Montague Rd",
-      "city": "Para Vista",
-      "type": "mobile",
-      "timestamp": "2025-12-13T21:17:49Z",
-      "reported_at": "2025-12-13T21:03:35Z"
     },
     {
       "id": "e13bf88f-eee8-4631-833d-ae80188f13d7",
@@ -37,18 +17,58 @@
       "street": "Montague Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-12-13T21:17:49Z",
+      "timestamp": "2025-12-13T21:38:02Z",
       "reported_at": "2025-12-13T20:55:39Z"
     },
     {
-      "id": "709d6a52-42a4-4f15-891c-bf6c1ef089f3",
-      "latitude": -34.893863,
-      "longitude": 138.635951,
+      "id": "d3468fb3-4fd9-4392-a917-3e8e31a78d81",
+      "latitude": -34.848183,
+      "longitude": 138.693986,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-13T21:38:02Z",
+      "reported_at": "2025-12-13T21:20:55Z"
+    },
+    {
+      "id": "83a45409-4339-459a-94f3-46e5eb60e513",
+      "latitude": -34.870514,
+      "longitude": 138.540585,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2025-12-13T21:38:02Z",
+      "reported_at": "2025-12-13T17:35:39Z"
+    },
+    {
+      "id": "77cf4513-c3d9-4636-83c2-189376f38dc8",
+      "latitude": -34.893865,
+      "longitude": 138.635953,
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-12-13T21:17:49Z",
-      "reported_at": "2025-12-13T20:51:41Z"
+      "timestamp": "2025-12-13T21:38:02Z",
+      "reported_at": "2025-12-13T20:57:09Z"
+    },
+    {
+      "id": "b198595e-7511-45d1-875d-c7429a25d24c",
+      "latitude": -35.03891,
+      "longitude": 138.556924,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2025-12-13T21:38:02Z",
+      "reported_at": "2025-12-13T21:25:13Z"
+    },
+    {
+      "id": "336a0453-c95a-4dc0-803b-8907467753f1",
+      "latitude": -35.0161,
+      "longitude": 138.570061,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2025-12-13T21:38:02Z",
+      "reported_at": "2025-12-13T21:19:38Z"
     }
   ]
 }
