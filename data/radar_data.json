@@ -1,24 +1,64 @@
 {
   "radars": [
     {
-      "id": "e13bf88f-eee8-4631-833d-ae80188f13d7",
-      "latitude": -34.827503,
-      "longitude": 138.647067,
-      "street": "Montague Rd",
-      "city": "Ingle Farm",
+      "id": "e77b811c-3ca7-4095-8818-469db9d4083f",
+      "latitude": -34.850274,
+      "longitude": 138.69426,
+      "street": "Macdonnell St",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2025-12-13T22:41:27Z",
-      "reported_at": "2025-12-13T20:55:39Z"
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T22:14:25Z"
     },
     {
-      "id": "d9fc2bc3-de38-4677-9376-f808fd550d4d",
-      "latitude": -34.832889,
-      "longitude": 138.611316,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "438afc0b-fb9d-405c-b388-525938b167db",
+      "latitude": -34.90022,
+      "longitude": 138.688643,
+      "street": "Morialta Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-12-13T22:41:27Z",
-      "reported_at": "2025-12-13T22:25:58Z"
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T22:58:32Z"
+    },
+    {
+      "id": "8485f34f-cad7-4a03-af8a-ccace552a588",
+      "latitude": -34.940812,
+      "longitude": 138.500396,
+      "street": "Seaview Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T23:07:13Z"
+    },
+    {
+      "id": "f9b1660a-5791-4595-a26f-ce518648812b",
+      "latitude": -34.84788,
+      "longitude": 138.693979,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T22:22:38Z"
+    },
+    {
+      "id": "626127de-80f4-4488-aadb-0fa7e3bd3511",
+      "latitude": -34.829195,
+      "longitude": 138.668378,
+      "street": "Montague Rd",
+      "city": "Modbury North",
+      "type": "mobile",
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T22:37:49Z"
+    },
+    {
+      "id": "63b9dc31-8a2e-465d-b660-4e1c636e236c",
+      "latitude": -34.808674,
+      "longitude": 138.630671,
+      "street": "Unknown Street",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T22:46:55Z"
     },
     {
       "id": "77cf4513-c3d9-4636-83c2-189376f38dc8",
@@ -27,8 +67,18 @@
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-12-13T22:41:27Z",
+      "timestamp": "2025-12-13T23:18:49Z",
       "reported_at": "2025-12-13T20:57:09Z"
+    },
+    {
+      "id": "35df0224-6f18-4492-a4b1-79cecd967f89",
+      "latitude": -34.904007,
+      "longitude": 138.570522,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2025-12-13T23:18:49Z",
+      "reported_at": "2025-12-13T23:08:03Z"
     }
   ]
 }
