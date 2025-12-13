@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "0f75997f-2b60-4ef1-bc31-b81e2283547d",
-      "latitude": -34.986909,
-      "longitude": 138.592464,
-      "street": "Goodwood Rd",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
-      "reported_at": "2025-12-13T12:56:44Z"
-    },
-    {
       "id": "9575dc86-4924-431b-9981-a45274b2b235",
       "latitude": -34.743091,
       "longitude": 138.631485,
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
+      "timestamp": "2025-12-13T13:44:13Z",
       "reported_at": "2025-12-13T10:41:00Z"
+    },
+    {
+      "id": "f7e7499d-864c-47a1-b4b8-1966f045b459",
+      "latitude": -34.870758,
+      "longitude": 138.481701,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-12-13T13:44:13Z",
+      "reported_at": "2025-12-13T10:48:37Z"
     },
     {
       "id": "4855be2a-099a-46be-a320-6fee6a48f5d9",
@@ -27,18 +27,8 @@
       "street": "B28 - Mount Lofty Summit Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
+      "timestamp": "2025-12-13T13:44:13Z",
       "reported_at": "2025-12-13T13:10:57Z"
-    },
-    {
-      "id": "5935fb63-67b0-4324-a22d-25f446930bea",
-      "latitude": -34.935369,
-      "longitude": 138.552774,
-      "street": "A14 - Marion Rd",
-      "city": "Cowandilla",
-      "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
-      "reported_at": "2025-12-13T12:55:21Z"
     },
     {
       "id": "6e251bf7-9760-4bad-97a2-e533844ef433",
@@ -47,18 +37,8 @@
       "street": "A10 - North East Rd",
       "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
+      "timestamp": "2025-12-13T13:44:13Z",
       "reported_at": "2025-12-13T13:05:03Z"
-    },
-    {
-      "id": "3d1255f7-b3f4-493a-9db3-5988e0b471bf",
-      "latitude": -34.827084,
-      "longitude": 138.704678,
-      "street": "A10 - North East Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
-      "reported_at": "2025-12-13T13:13:39Z"
     },
     {
       "id": "d9e8854b-bbc3-4845-8dcd-42a690ecdfa6",
@@ -67,18 +47,28 @@
       "street": "A10 - North East Rd",
       "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
+      "timestamp": "2025-12-13T13:44:13Z",
       "reported_at": "2025-12-13T11:31:58Z"
     },
     {
-      "id": "278a27ea-f569-4989-87c1-a2fe1d1c0f31",
-      "latitude": -34.763664,
-      "longitude": 138.671935,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury Heights",
+      "id": "3d1255f7-b3f4-493a-9db3-5988e0b471bf",
+      "latitude": -34.827084,
+      "longitude": 138.704678,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2025-12-13T13:27:19Z",
-      "reported_at": "2025-12-13T12:55:51Z"
+      "timestamp": "2025-12-13T13:44:13Z",
+      "reported_at": "2025-12-13T13:13:39Z"
+    },
+    {
+      "id": "27dec0c4-0e90-4e2a-aab5-23b554657f80",
+      "latitude": -34.860836,
+      "longitude": 138.567348,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2025-12-13T13:44:13Z",
+      "reported_at": "2025-12-13T13:33:21Z"
     }
   ]
 }
