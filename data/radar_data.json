@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "1409b3d9-ee55-4c2f-8212-67036cb8a9d7",
-      "latitude": -34.821054,
-      "longitude": 138.700154,
-      "street": "Ashley Av",
-      "city": "Ridgehaven",
+      "id": "43a6de6d-a39a-40f9-a88b-27504a085d3a",
+      "latitude": -34.682546,
+      "longitude": 138.690146,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T00:32:46Z"
+      "timestamp": "2025-12-13T05:21:01Z",
+      "reported_at": "2025-12-13T05:04:50Z"
     },
     {
-      "id": "8808f2c1-3c84-4bb0-8e50-cf2f4f042d57",
-      "latitude": -34.848279,
-      "longitude": 138.660048,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
+      "id": "45b0c77f-af2c-4dbb-b4f5-3ab4b9db08cd",
+      "latitude": -35.138699,
+      "longitude": 138.486439,
+      "street": "Beach Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T04:12:50Z"
-    },
-    {
-      "id": "b923ac88-3af8-42dc-8834-ea445a840a56",
-      "latitude": -34.901242,
-      "longitude": 138.576348,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T00:33:30Z"
-    },
-    {
-      "id": "ea9a8c67-c048-451e-b309-e27d5f698eab",
-      "latitude": -34.832242,
-      "longitude": 138.7097,
-      "street": "Smart Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T03:16:34Z"
+      "timestamp": "2025-12-13T05:21:01Z",
+      "reported_at": "2025-12-13T04:32:00Z"
     },
     {
       "id": "6979b29f-7809-435a-8281-954d94bbcd56",
@@ -47,38 +27,48 @@
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
+      "timestamp": "2025-12-13T05:21:01Z",
       "reported_at": "2025-12-12T23:22:39Z"
     },
     {
-      "id": "e2fd052f-b513-40e7-b774-4dc4fa0dbbf2",
-      "latitude": -34.845871,
-      "longitude": 138.717212,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
+      "id": "ea9a8c67-c048-451e-b309-e27d5f698eab",
+      "latitude": -34.832242,
+      "longitude": 138.7097,
+      "street": "Smart Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T04:17:22Z"
+      "timestamp": "2025-12-13T05:21:01Z",
+      "reported_at": "2025-12-13T03:16:34Z"
     },
     {
-      "id": "fd815684-28ba-40ff-a9ef-241a85539ac0",
-      "latitude": -34.89907,
-      "longitude": 138.591595,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T04:12:25Z"
-    },
-    {
-      "id": "efe0dc8c-9f62-461c-b3b5-9e2e938e0df0",
-      "latitude": -34.847916,
-      "longitude": 138.600303,
-      "street": "A20 - Main North Rd",
+      "id": "e298865b-9ac4-4502-8c20-f5012a315830",
+      "latitude": -34.848044,
+      "longitude": 138.600107,
+      "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-13T04:34:35Z",
-      "reported_at": "2025-12-13T02:16:14Z"
+      "timestamp": "2025-12-13T05:21:01Z",
+      "reported_at": "2025-12-12T22:34:33Z"
+    },
+    {
+      "id": "7a6ab8af-d9c3-44e4-b1f8-5336e4eacf27",
+      "latitude": -34.821273,
+      "longitude": 138.598043,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2025-12-13T05:21:01Z",
+      "reported_at": "2025-12-13T05:15:03Z"
+    },
+    {
+      "id": "353f7e93-9b7e-4796-ab1c-867fe97b89c4",
+      "latitude": -34.721867,
+      "longitude": 138.573923,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2025-12-13T05:21:01Z",
+      "reported_at": "2025-12-13T05:15:55Z"
     }
   ]
 }
