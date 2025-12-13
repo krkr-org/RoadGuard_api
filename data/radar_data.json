@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "6bcc5396-2a6f-43a1-9ef9-ec81f7e969f3",
+      "latitude": -34.926592,
+      "longitude": 138.539545,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2025-12-13T20:21:53Z",
+      "reported_at": "2025-12-13T17:53:45Z"
+    },
+    {
       "id": "83a45409-4339-459a-94f3-46e5eb60e513",
       "latitude": -34.870514,
       "longitude": 138.540585,
       "street": "Torrens Rd",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2025-12-13T19:37:13Z",
+      "timestamp": "2025-12-13T20:21:53Z",
       "reported_at": "2025-12-13T17:35:39Z"
     }
   ]
