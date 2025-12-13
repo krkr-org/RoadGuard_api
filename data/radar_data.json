@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "d1843483-8908-46ba-b7bb-e19444be9689",
-      "latitude": -34.855557,
-      "longitude": 138.694585,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2025-12-13T22:18:51Z",
-      "reported_at": "2025-12-13T21:43:57Z"
-    },
-    {
       "id": "e13bf88f-eee8-4631-833d-ae80188f13d7",
       "latitude": -34.827503,
       "longitude": 138.647067,
       "street": "Montague Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-12-13T22:18:51Z",
+      "timestamp": "2025-12-13T22:41:27Z",
       "reported_at": "2025-12-13T20:55:39Z"
+    },
+    {
+      "id": "d9fc2bc3-de38-4677-9376-f808fd550d4d",
+      "latitude": -34.832889,
+      "longitude": 138.611316,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-12-13T22:41:27Z",
+      "reported_at": "2025-12-13T22:25:58Z"
     },
     {
       "id": "77cf4513-c3d9-4636-83c2-189376f38dc8",
@@ -27,28 +27,8 @@
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-12-13T22:18:51Z",
+      "timestamp": "2025-12-13T22:41:27Z",
       "reported_at": "2025-12-13T20:57:09Z"
-    },
-    {
-      "id": "e9f240a4-e774-4ed6-9b46-c76247487ac3",
-      "latitude": -35.033859,
-      "longitude": 138.556208,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2025-12-13T22:18:51Z",
-      "reported_at": "2025-12-13T21:49:50Z"
-    },
-    {
-      "id": "5681ab5f-cdfa-4b62-ba75-dc7621236b8c",
-      "latitude": -35.12542,
-      "longitude": 138.506338,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-13T22:18:51Z",
-      "reported_at": "2025-12-13T22:11:15Z"
     }
   ]
 }
