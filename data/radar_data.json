@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "833f6170-ee5e-4f8c-8edb-b2cf0041a619",
-      "latitude": -35.111459,
-      "longitude": 138.507353,
-      "street": "Aldershot Rd",
+      "id": "f34bf59f-052f-4148-8c6c-f9363db123e0",
+      "latitude": -35.09707,
+      "longitude": 138.491294,
+      "street": "Meyer Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
-      "reported_at": "2025-12-14T05:21:59Z"
-    },
-    {
-      "id": "b7e03819-5524-4ae8-92bd-e5bfd27e5a27",
-      "latitude": -35.06583,
-      "longitude": 138.542551,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
-      "reported_at": "2025-12-14T05:26:45Z"
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T09:46:43Z"
     },
     {
       "id": "27484326-d1f9-4bdb-baca-b73ce931c522",
@@ -27,18 +17,38 @@
       "street": "Clark Tce",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
+      "timestamp": "2025-12-14T10:20:49Z",
       "reported_at": "2025-12-14T09:04:24Z"
     },
     {
-      "id": "a772dbd4-668b-4775-9416-675a326df6b7",
-      "latitude": -34.922387,
-      "longitude": 138.611173,
-      "street": "Rundle Rd",
+      "id": "b7e03819-5524-4ae8-92bd-e5bfd27e5a27",
+      "latitude": -35.06583,
+      "longitude": 138.542551,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T05:26:45Z"
+    },
+    {
+      "id": "2ae91886-aa83-4967-9c26-4dd16d933f5b",
+      "latitude": -34.922544,
+      "longitude": 138.610841,
+      "street": "East Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
-      "reported_at": "2025-12-14T09:25:31Z"
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T09:48:49Z"
+    },
+    {
+      "id": "27839269-85b3-45a6-b622-fc131a65be55",
+      "latitude": -34.927971,
+      "longitude": 138.593831,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T10:10:52Z"
     },
     {
       "id": "14bde05e-dc12-4775-b9ab-188f6f3cee85",
@@ -47,7 +57,7 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
+      "timestamp": "2025-12-14T10:20:49Z",
       "reported_at": "2025-12-14T08:31:54Z"
     },
     {
@@ -57,18 +67,18 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
+      "timestamp": "2025-12-14T10:20:49Z",
       "reported_at": "2025-12-14T05:20:58Z"
     },
     {
-      "id": "9bc1ef54-63a4-44b8-83c6-1226416c509b",
-      "latitude": -34.925493,
-      "longitude": 138.593004,
-      "street": "Light Sq",
-      "city": "Adelaide",
+      "id": "19792293-63af-47b1-8fd9-a44acb1a838e",
+      "latitude": -34.852271,
+      "longitude": 138.50899,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
-      "reported_at": "2025-12-14T09:32:04Z"
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T09:23:16Z"
     },
     {
       "id": "1d64078e-0fc6-401d-934b-241805563e14",
@@ -77,8 +87,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
+      "timestamp": "2025-12-14T10:20:49Z",
       "reported_at": "2025-12-14T08:19:08Z"
+    },
+    {
+      "id": "767a7fa1-f168-4776-bf21-37fda13a7cb7",
+      "latitude": -35.020643,
+      "longitude": 138.796684,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T09:36:26Z"
     },
     {
       "id": "4eaa5e74-7b09-4f65-945c-4dff8f07e597",
@@ -87,18 +107,38 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
+      "timestamp": "2025-12-14T10:20:49Z",
       "reported_at": "2025-12-14T08:25:47Z"
     },
     {
-      "id": "01e60df2-8bf0-49a6-9f01-9028e295abc7",
-      "latitude": -35.129992,
-      "longitude": 138.505117,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
+      "id": "0a3c40de-e760-4378-ae8b-8a065cc771a0",
+      "latitude": -34.814295,
+      "longitude": 138.62695,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-12-14T09:40:57Z",
-      "reported_at": "2025-12-14T09:37:31Z"
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T10:18:24Z"
+    },
+    {
+      "id": "d481ae2f-7675-4758-95ce-f4dfc296e519",
+      "latitude": -34.713771,
+      "longitude": 138.674343,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T10:14:58Z"
+    },
+    {
+      "id": "aec2a97c-9b57-4ace-ac97-5e13998df7f0",
+      "latitude": -34.840088,
+      "longitude": 138.517473,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-14T10:20:49Z",
+      "reported_at": "2025-12-14T10:14:49Z"
     }
   ]
 }
