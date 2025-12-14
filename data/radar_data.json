@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "add91899-968d-4eaf-b652-3cf9a6b8037c",
+      "latitude": -34.99315,
+      "longitude": 138.513426,
+      "street": "Tarlton St",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2025-12-14T07:39:04Z",
+      "reported_at": "2025-12-14T04:52:54Z"
+    },
+    {
       "id": "833f6170-ee5e-4f8c-8edb-b2cf0041a619",
       "latitude": -35.111459,
       "longitude": 138.507353,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T05:21:59Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Meyer Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T04:55:07Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T05:16:00Z"
     },
     {
@@ -37,18 +47,8 @@
       "street": "Frome St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T04:13:55Z"
-    },
-    {
-      "id": "b7e03819-5524-4ae8-92bd-e5bfd27e5a27",
-      "latitude": -35.06583,
-      "longitude": 138.542551,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
-      "reported_at": "2025-12-14T05:26:45Z"
     },
     {
       "id": "7a3b199b-29ab-40eb-b332-9bee73915611",
@@ -57,18 +57,8 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T05:08:36Z"
-    },
-    {
-      "id": "1c7785b1-8d91-4839-9401-341a6fc5f35c",
-      "latitude": -35.087476,
-      "longitude": 138.543278,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
-      "reported_at": "2025-12-14T05:20:58Z"
     },
     {
       "id": "c0678534-52e1-415c-8312-893281f340c5",
@@ -77,8 +67,28 @@
       "street": "Wakefield St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T05:48:06Z"
+    },
+    {
+      "id": "1c7785b1-8d91-4839-9401-341a6fc5f35c",
+      "latitude": -35.087476,
+      "longitude": 138.543278,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-14T07:39:04Z",
+      "reported_at": "2025-12-14T05:20:58Z"
+    },
+    {
+      "id": "5bf61430-cf00-47ba-a358-6e9099fc549b",
+      "latitude": -34.919234,
+      "longitude": 138.658701,
+      "street": "Glynburn Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2025-12-14T07:39:04Z",
+      "reported_at": "2025-12-14T07:10:38Z"
     },
     {
       "id": "d08172ab-dd27-4998-b6b0-67d2ec98d341",
@@ -87,7 +97,7 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T06:22:01Z"
     },
     {
@@ -97,7 +107,7 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2025-12-14T07:19:15Z",
+      "timestamp": "2025-12-14T07:39:04Z",
       "reported_at": "2025-12-14T06:40:27Z"
     }
   ]
