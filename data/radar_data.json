@@ -7,28 +7,18 @@
       "street": "Tarlton St",
       "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
+      "timestamp": "2025-12-14T08:47:57Z",
       "reported_at": "2025-12-14T04:52:54Z"
     },
     {
-      "id": "9376d7ad-b2c4-4c81-9a25-c9222bd0e729",
-      "latitude": -35.102014,
-      "longitude": 138.499502,
+      "id": "7efac8f1-0de4-47ea-a33b-909405655d55",
+      "latitude": -35.097069,
+      "longitude": 138.491294,
       "street": "Meyer Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
-      "reported_at": "2025-12-14T04:50:02Z"
-    },
-    {
-      "id": "833f6170-ee5e-4f8c-8edb-b2cf0041a619",
-      "latitude": -35.111459,
-      "longitude": 138.507353,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
-      "reported_at": "2025-12-14T05:21:59Z"
+      "timestamp": "2025-12-14T08:47:57Z",
+      "reported_at": "2025-12-14T04:55:07Z"
     },
     {
       "id": "c75ec7fb-01f1-4f18-9f8b-6ee670f03602",
@@ -37,8 +27,18 @@
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
+      "timestamp": "2025-12-14T08:47:57Z",
       "reported_at": "2025-12-14T05:16:00Z"
+    },
+    {
+      "id": "833f6170-ee5e-4f8c-8edb-b2cf0041a619",
+      "latitude": -35.111459,
+      "longitude": 138.507353,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2025-12-14T08:47:57Z",
+      "reported_at": "2025-12-14T05:21:59Z"
     },
     {
       "id": "7a3b199b-29ab-40eb-b332-9bee73915611",
@@ -47,7 +47,7 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
+      "timestamp": "2025-12-14T08:47:57Z",
       "reported_at": "2025-12-14T05:08:36Z"
     },
     {
@@ -57,7 +57,7 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
+      "timestamp": "2025-12-14T08:47:57Z",
       "reported_at": "2025-12-14T05:26:45Z"
     },
     {
@@ -67,18 +67,28 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
+      "timestamp": "2025-12-14T08:47:57Z",
       "reported_at": "2025-12-14T05:20:58Z"
     },
     {
-      "id": "a788ef0c-7288-42a8-a1ba-1faa56b11f1e",
-      "latitude": -35.134637,
-      "longitude": 138.485875,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "bdce619c-a09a-4c6a-bf50-7176d9070b29",
+      "latitude": -34.992934,
+      "longitude": 138.592843,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
-      "reported_at": "2025-12-14T08:00:10Z"
+      "timestamp": "2025-12-14T08:47:57Z",
+      "reported_at": "2025-12-14T08:22:56Z"
+    },
+    {
+      "id": "f134338c-0e3a-45cf-9a8e-3238e7bc970d",
+      "latitude": -34.98035,
+      "longitude": 138.56156,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-14T08:47:57Z",
+      "reported_at": "2025-12-14T08:16:04Z"
     },
     {
       "id": "9b18b376-7edc-4c72-9fad-7510d6e06d54",
@@ -87,8 +97,28 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:26:42Z",
+      "timestamp": "2025-12-14T08:47:57Z",
       "reported_at": "2025-12-14T08:08:10Z"
+    },
+    {
+      "id": "a788ef0c-7288-42a8-a1ba-1faa56b11f1e",
+      "latitude": -35.134637,
+      "longitude": 138.485875,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-14T08:47:57Z",
+      "reported_at": "2025-12-14T08:00:10Z"
+    },
+    {
+      "id": "4eaa5e74-7b09-4f65-945c-4dff8f07e597",
+      "latitude": -35.110948,
+      "longitude": 138.522395,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-14T08:47:57Z",
+      "reported_at": "2025-12-14T08:25:47Z"
     }
   ]
 }
