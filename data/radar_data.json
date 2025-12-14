@@ -1,43 +1,13 @@
 {
   "radars": [
     {
-      "id": "add91899-968d-4eaf-b652-3cf9a6b8037c",
-      "latitude": -34.99315,
-      "longitude": 138.513426,
-      "street": "Tarlton St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
-      "reported_at": "2025-12-14T04:52:54Z"
-    },
-    {
-      "id": "7efac8f1-0de4-47ea-a33b-909405655d55",
-      "latitude": -35.097069,
-      "longitude": 138.491294,
-      "street": "Meyer Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
-      "reported_at": "2025-12-14T04:55:07Z"
-    },
-    {
-      "id": "c75ec7fb-01f1-4f18-9f8b-6ee670f03602",
-      "latitude": -35.131095,
-      "longitude": 138.472925,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
-      "reported_at": "2025-12-14T05:16:00Z"
-    },
-    {
       "id": "833f6170-ee5e-4f8c-8edb-b2cf0041a619",
       "latitude": -35.111459,
       "longitude": 138.507353,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
+      "timestamp": "2025-12-14T09:20:22Z",
       "reported_at": "2025-12-14T05:21:59Z"
     },
     {
@@ -47,7 +17,7 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
+      "timestamp": "2025-12-14T09:20:22Z",
       "reported_at": "2025-12-14T05:08:36Z"
     },
     {
@@ -57,8 +27,18 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
+      "timestamp": "2025-12-14T09:20:22Z",
       "reported_at": "2025-12-14T05:26:45Z"
+    },
+    {
+      "id": "27484326-d1f9-4bdb-baca-b73ce931c522",
+      "latitude": -34.886292,
+      "longitude": 138.518657,
+      "street": "Clark Tce",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2025-12-14T09:20:22Z",
+      "reported_at": "2025-12-14T09:04:24Z"
     },
     {
       "id": "1c7785b1-8d91-4839-9401-341a6fc5f35c",
@@ -67,8 +47,28 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
+      "timestamp": "2025-12-14T09:20:22Z",
       "reported_at": "2025-12-14T05:20:58Z"
+    },
+    {
+      "id": "14bde05e-dc12-4775-b9ab-188f6f3cee85",
+      "latitude": -34.992571,
+      "longitude": 138.581685,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-14T09:20:22Z",
+      "reported_at": "2025-12-14T08:31:54Z"
+    },
+    {
+      "id": "52c9694e-3703-4582-a56c-e50766b36662",
+      "latitude": -34.920805,
+      "longitude": 138.612125,
+      "street": "Botanic Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-14T09:20:22Z",
+      "reported_at": "2025-12-14T08:35:29Z"
     },
     {
       "id": "bdce619c-a09a-4c6a-bf50-7176d9070b29",
@@ -77,48 +77,38 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
+      "timestamp": "2025-12-14T09:20:22Z",
       "reported_at": "2025-12-14T08:22:56Z"
     },
     {
-      "id": "f134338c-0e3a-45cf-9a8e-3238e7bc970d",
-      "latitude": -34.98035,
-      "longitude": 138.56156,
-      "street": "Raglan Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
-      "reported_at": "2025-12-14T08:16:04Z"
-    },
-    {
-      "id": "9b18b376-7edc-4c72-9fad-7510d6e06d54",
-      "latitude": -34.89109,
-      "longitude": 138.513706,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
-      "reported_at": "2025-12-14T08:08:10Z"
-    },
-    {
-      "id": "a788ef0c-7288-42a8-a1ba-1faa56b11f1e",
-      "latitude": -35.134637,
-      "longitude": 138.485875,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
-      "reported_at": "2025-12-14T08:00:10Z"
-    },
-    {
       "id": "4eaa5e74-7b09-4f65-945c-4dff8f07e597",
-      "latitude": -35.110948,
-      "longitude": 138.522395,
+      "latitude": -35.112977,
+      "longitude": 138.522502,
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-14T08:47:57Z",
+      "timestamp": "2025-12-14T09:20:22Z",
       "reported_at": "2025-12-14T08:25:47Z"
+    },
+    {
+      "id": "1d64078e-0fc6-401d-934b-241805563e14",
+      "latitude": -35.134058,
+      "longitude": 138.485833,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-14T09:20:22Z",
+      "reported_at": "2025-12-14T08:19:08Z"
+    },
+    {
+      "id": "1957de73-4096-423a-85d7-57118a6b65a1",
+      "latitude": -34.8804,
+      "longitude": 138.535058,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
+      "type": "mobile",
+      "timestamp": "2025-12-14T09:20:22Z",
+      "reported_at": "2025-12-14T08:56:55Z"
     }
   ]
 }
