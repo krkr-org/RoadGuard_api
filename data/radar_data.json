@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "e77b811c-3ca7-4095-8818-469db9d4083f",
-      "latitude": -34.850274,
-      "longitude": 138.69426,
-      "street": "Macdonnell St",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
-      "reported_at": "2025-12-13T22:14:25Z"
-    },
-    {
-      "id": "8485f34f-cad7-4a03-af8a-ccace552a588",
-      "latitude": -34.940812,
-      "longitude": 138.500396,
-      "street": "Seaview Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
-      "reported_at": "2025-12-13T23:07:13Z"
-    },
-    {
       "id": "aee1e818-5a80-4c23-b01f-17a6f9b55f23",
       "latitude": -34.900166,
       "longitude": 138.689623,
       "street": "Morialta Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
+      "timestamp": "2025-12-14T01:50:14Z",
       "reported_at": "2025-12-13T23:32:06Z"
     },
     {
-      "id": "f9b1660a-5791-4595-a26f-ce518648812b",
-      "latitude": -34.84788,
-      "longitude": 138.693979,
-      "street": "Awoonga Rd",
+      "id": "e77b811c-3ca7-4095-8818-469db9d4083f",
+      "latitude": -34.850274,
+      "longitude": 138.69426,
+      "street": "Macdonnell St",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2025-12-14T01:50:14Z",
+      "reported_at": "2025-12-13T22:14:25Z"
+    },
+    {
+      "id": "dc7d8619-9911-4e7d-9e3d-cb0ae5041610",
+      "latitude": -34.840182,
+      "longitude": 138.707729,
+      "street": "Tolley Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
-      "reported_at": "2025-12-13T22:22:38Z"
+      "timestamp": "2025-12-14T01:50:14Z",
+      "reported_at": "2025-12-13T23:28:23Z"
     },
     {
       "id": "626127de-80f4-4488-aadb-0fa7e3bd3511",
@@ -47,8 +37,18 @@
       "street": "Montague Rd",
       "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
+      "timestamp": "2025-12-14T01:50:14Z",
       "reported_at": "2025-12-13T22:37:49Z"
+    },
+    {
+      "id": "dad8e663-af65-4c19-a4f6-2d15b32240d7",
+      "latitude": -35.063675,
+      "longitude": 138.651015,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-14T01:50:14Z",
+      "reported_at": "2025-12-14T00:44:06Z"
     },
     {
       "id": "b2684615-ce9a-43ff-883a-e39ca44df011",
@@ -57,18 +57,38 @@
       "street": "Montague Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
+      "timestamp": "2025-12-14T01:50:14Z",
       "reported_at": "2025-12-13T23:23:28Z"
     },
     {
       "id": "77cf4513-c3d9-4636-83c2-189376f38dc8",
-      "latitude": -34.893865,
-      "longitude": 138.635953,
+      "latitude": -34.894436,
+      "longitude": 138.636649,
       "street": "A17 - Lower Portrush Rd",
       "city": "Marden",
       "type": "mobile",
-      "timestamp": "2025-12-13T23:39:17Z",
+      "timestamp": "2025-12-14T01:50:14Z",
       "reported_at": "2025-12-13T20:57:09Z"
+    },
+    {
+      "id": "b6df794d-3af1-4b2e-9643-02cdbf2d446a",
+      "latitude": -34.808251,
+      "longitude": 138.569363,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2025-12-14T01:50:14Z",
+      "reported_at": "2025-12-14T01:12:20Z"
+    },
+    {
+      "id": "1858ffe7-5c13-4f75-ab36-84e5e93f5c80",
+      "latitude": -34.996478,
+      "longitude": 138.701008,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2025-12-14T01:50:14Z",
+      "reported_at": "2025-12-14T01:27:47Z"
     }
   ]
 }
