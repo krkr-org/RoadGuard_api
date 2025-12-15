@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "5a367daa-37ee-42d9-ac37-38e7fa05f733",
-      "latitude": -34.911919,
-      "longitude": 138.542271,
+      "id": "5188058b-211d-4094-b961-b626acab6e22",
+      "latitude": -34.911906,
+      "longitude": 138.542509,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
-      "reported_at": "2025-12-15T05:31:31Z"
+      "timestamp": "2025-12-15T08:33:11Z",
+      "reported_at": "2025-12-15T04:36:58Z"
     },
     {
       "id": "fa0ab11b-1dcd-458a-a149-a7a81d09e148",
@@ -17,18 +17,8 @@
       "street": "Cudmore Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
+      "timestamp": "2025-12-15T08:33:11Z",
       "reported_at": "2025-12-15T06:07:27Z"
-    },
-    {
-      "id": "78b5020c-a363-4190-82f7-c2525c8212ad",
-      "latitude": -34.958332,
-      "longitude": 138.530121,
-      "street": "James Melrose Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
-      "reported_at": "2025-12-15T05:42:07Z"
     },
     {
       "id": "081189d4-0270-490b-a951-4f2cef6eca9f",
@@ -37,28 +27,18 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
+      "timestamp": "2025-12-15T08:33:11Z",
       "reported_at": "2025-12-15T06:20:10Z"
     },
     {
-      "id": "7a3e1879-4f69-4c39-82d2-7f75f7ebdc15",
-      "latitude": -34.923324,
-      "longitude": 138.592648,
-      "street": "Hindley St",
-      "city": "Adelaide",
+      "id": "78b5020c-a363-4190-82f7-c2525c8212ad",
+      "latitude": -34.958332,
+      "longitude": 138.530121,
+      "street": "James Melrose Av",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
-      "reported_at": "2025-12-15T07:16:52Z"
-    },
-    {
-      "id": "80ab47b0-cc3e-479b-bb35-188acf5484b9",
-      "latitude": -34.879214,
-      "longitude": 138.566544,
-      "street": "Days Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
-      "reported_at": "2025-12-15T05:22:05Z"
+      "timestamp": "2025-12-15T08:33:11Z",
+      "reported_at": "2025-12-15T05:42:07Z"
     },
     {
       "id": "5bcdccfc-dd05-43ac-beff-d3158b3cee9c",
@@ -67,28 +47,38 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
+      "timestamp": "2025-12-15T08:33:11Z",
       "reported_at": "2025-12-15T07:31:43Z"
     },
     {
-      "id": "8c49c381-2ff6-4ae8-b930-633aedfd9985",
-      "latitude": -35.078408,
-      "longitude": 138.581979,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
+      "id": "4a405117-e5b0-42e7-bb91-07b5e6b57fce",
+      "latitude": -34.929215,
+      "longitude": 138.589579,
+      "street": "Grote St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
-      "reported_at": "2025-12-15T07:23:05Z"
+      "timestamp": "2025-12-15T08:33:11Z",
+      "reported_at": "2025-12-15T08:28:50Z"
     },
     {
-      "id": "d6eb9da5-3cae-4614-be2d-59c7d25f2c8a",
-      "latitude": -34.85219,
-      "longitude": 138.515975,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Rosewater",
+      "id": "885c4a0c-8ff6-4be3-ac7b-5efa48b21465",
+      "latitude": -34.913818,
+      "longitude": 138.56555,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2025-12-15T07:44:50Z",
-      "reported_at": "2025-12-15T07:22:33Z"
+      "timestamp": "2025-12-15T08:33:11Z",
+      "reported_at": "2025-12-15T08:15:58Z"
+    },
+    {
+      "id": "67967878-07d7-4781-ab4a-77c163dd5570",
+      "latitude": -34.997814,
+      "longitude": 138.745708,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2025-12-15T08:33:11Z",
+      "reported_at": "2025-12-15T08:08:41Z"
     }
   ]
 }
