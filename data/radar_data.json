@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "5188058b-211d-4094-b961-b626acab6e22",
+      "latitude": -34.911906,
+      "longitude": 138.542509,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2025-12-15T05:26:15Z",
+      "reported_at": "2025-12-15T04:36:58Z"
+    },
+    {
+      "id": "39b2da08-4004-4495-a352-597796a6ccc7",
+      "latitude": -34.916795,
+      "longitude": 138.589451,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-15T05:26:15Z",
+      "reported_at": "2025-12-15T05:00:33Z"
+    },
+    {
+      "id": "0fcb953a-5078-4c6b-9578-08b580c63f84",
+      "latitude": -34.932023,
+      "longitude": 138.590184,
+      "street": "Wright St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-15T05:26:15Z",
+      "reported_at": "2025-12-15T05:06:40Z"
+    }
+  ]
 }
