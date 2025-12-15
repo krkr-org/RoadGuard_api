@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "90e7d6b0-6086-48be-b4b7-f223d2d2c573",
-      "latitude": -35.101238,
-      "longitude": 138.513809,
-      "street": "to M2 - Southern Exp to City",
+      "id": "7d7e561a-95e3-485f-81c1-314b5ee96d4b",
+      "latitude": -35.1064,
+      "longitude": 138.506923,
+      "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-15T21:20:37Z",
-      "reported_at": "2025-12-15T21:01:35Z"
+      "timestamp": "2025-12-15T21:41:53Z",
+      "reported_at": "2025-12-15T20:54:14Z"
+    },
+    {
+      "id": "17b4b660-562f-480e-ba40-095435ff86a1",
+      "latitude": -34.8775,
+      "longitude": 138.593372,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:41:53Z",
+      "reported_at": "2025-12-15T21:21:19Z"
     },
     {
       "id": "56c11d30-6c54-4496-9dd1-69406569d116",
@@ -17,8 +27,48 @@
       "street": "Unknown Street",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2025-12-15T21:20:37Z",
+      "timestamp": "2025-12-15T21:41:53Z",
       "reported_at": "2025-12-15T21:11:26Z"
+    },
+    {
+      "id": "5b34fe30-9cd2-49d1-babc-5f92ec8b5c48",
+      "latitude": -35.145775,
+      "longitude": 138.660764,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:41:53Z",
+      "reported_at": "2025-12-15T21:23:23Z"
+    },
+    {
+      "id": "9422d6a7-b28f-4b90-b818-a061c36000d4",
+      "latitude": -35.108535,
+      "longitude": 138.625552,
+      "street": "Grants Gully Rd",
+      "city": "Clarendon",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:41:53Z",
+      "reported_at": "2025-12-15T21:36:21Z"
+    },
+    {
+      "id": "0134c130-aa5d-4354-bfb7-122cc077e192",
+      "latitude": -34.776264,
+      "longitude": 138.594969,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:41:53Z",
+      "reported_at": "2025-12-15T21:30:52Z"
+    },
+    {
+      "id": "0933d5ce-3b7f-45b0-9b47-49eef280010b",
+      "latitude": -34.834141,
+      "longitude": 138.535525,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:41:53Z",
+      "reported_at": "2025-12-15T21:30:12Z"
     }
   ]
 }
