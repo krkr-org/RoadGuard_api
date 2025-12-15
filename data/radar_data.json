@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "7d7e561a-95e3-485f-81c1-314b5ee96d4b",
-      "latitude": -35.1064,
-      "longitude": 138.506923,
+      "id": "05910af3-a461-4289-95a6-2da9b0bc3ca4",
+      "latitude": -35.076015,
+      "longitude": 138.595968,
+      "street": "Outlook Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T21:25:21Z"
+    },
+    {
+      "id": "3ff4514d-4c57-4a8d-ac06-f3e2bac86c61",
+      "latitude": -34.944976,
+      "longitude": 138.511325,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T22:01:14Z"
+    },
+    {
+      "id": "da7c620e-01a4-4a06-92e4-f0956cf2bec5",
+      "latitude": -35.108103,
+      "longitude": 138.507054,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
-      "reported_at": "2025-12-15T20:54:14Z"
-    },
-    {
-      "id": "17b4b660-562f-480e-ba40-095435ff86a1",
-      "latitude": -34.8775,
-      "longitude": 138.593372,
-      "street": "Prospect Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
-      "reported_at": "2025-12-15T21:21:19Z"
-    },
-    {
-      "id": "56c11d30-6c54-4496-9dd1-69406569d116",
-      "latitude": -34.876108,
-      "longitude": 138.528135,
-      "street": "Unknown Street",
-      "city": "Unknown City",
-      "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
-      "reported_at": "2025-12-15T21:11:26Z"
-    },
-    {
-      "id": "5b34fe30-9cd2-49d1-babc-5f92ec8b5c48",
-      "latitude": -35.145775,
-      "longitude": 138.660764,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
-      "reported_at": "2025-12-15T21:23:23Z"
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T20:53:43Z"
     },
     {
       "id": "9422d6a7-b28f-4b90-b818-a061c36000d4",
@@ -47,28 +37,58 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
+      "timestamp": "2025-12-15T22:20:55Z",
       "reported_at": "2025-12-15T21:36:21Z"
     },
     {
-      "id": "0134c130-aa5d-4354-bfb7-122cc077e192",
-      "latitude": -34.776264,
-      "longitude": 138.594969,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Parafield Gardens",
+      "id": "71279a39-8145-42d6-a02c-4b5136d21fe2",
+      "latitude": -34.990449,
+      "longitude": 138.599653,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
-      "reported_at": "2025-12-15T21:30:52Z"
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T22:00:42Z"
     },
     {
-      "id": "0933d5ce-3b7f-45b0-9b47-49eef280010b",
-      "latitude": -34.834141,
-      "longitude": 138.535525,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "b1755c05-1b12-4a31-96e2-c4c4872be1b9",
+      "latitude": -35.065198,
+      "longitude": 138.668854,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-15T21:41:53Z",
-      "reported_at": "2025-12-15T21:30:12Z"
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T22:11:26Z"
+    },
+    {
+      "id": "a702db1c-1a75-4313-98f9-40fbcefef4bb",
+      "latitude": -35.122796,
+      "longitude": 138.536141,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T22:15:24Z"
+    },
+    {
+      "id": "8baa72aa-b4d0-4516-94b1-805bc4423ee9",
+      "latitude": -34.806817,
+      "longitude": 138.624298,
+      "street": "Elder Smith Rd",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T21:47:29Z"
+    },
+    {
+      "id": "2bcc5e89-c4d8-4284-b3bf-961118a53fd8",
+      "latitude": -34.991457,
+      "longitude": 138.556785,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2025-12-15T22:20:55Z",
+      "reported_at": "2025-12-15T22:06:42Z"
     }
   ]
 }
