@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "5188058b-211d-4094-b961-b626acab6e22",
-      "latitude": -34.911906,
-      "longitude": 138.542509,
+      "id": "a084628c-0440-4d22-a9d4-2352e6fb7bc7",
+      "latitude": -34.917234,
+      "longitude": 138.503065,
+      "street": "Badenoch St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T06:25:44Z"
+    },
+    {
+      "id": "5a367daa-37ee-42d9-ac37-38e7fa05f733",
+      "latitude": -34.911919,
+      "longitude": 138.542271,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
-      "reported_at": "2025-12-15T04:36:58Z"
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T05:31:31Z"
+    },
+    {
+      "id": "24342148-ceb3-4f35-944a-d27cc704cb09",
+      "latitude": -34.908865,
+      "longitude": 138.49232,
+      "street": "Military Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T08:47:52Z"
     },
     {
       "id": "fa0ab11b-1dcd-458a-a149-a7a81d09e148",
@@ -17,7 +37,7 @@
       "street": "Cudmore Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
+      "timestamp": "2025-12-15T09:32:39Z",
       "reported_at": "2025-12-15T06:07:27Z"
     },
     {
@@ -27,18 +47,28 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
+      "timestamp": "2025-12-15T09:32:39Z",
       "reported_at": "2025-12-15T06:20:10Z"
     },
     {
-      "id": "78b5020c-a363-4190-82f7-c2525c8212ad",
-      "latitude": -34.958332,
-      "longitude": 138.530121,
+      "id": "6f2efcc7-1e7e-4e42-9afa-cf0f726267f5",
+      "latitude": -34.958145,
+      "longitude": 138.533769,
       "street": "James Melrose Av",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
-      "reported_at": "2025-12-15T05:42:07Z"
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T08:34:26Z"
+    },
+    {
+      "id": "6a630763-fa1c-45fc-821a-bc25c67a3ae3",
+      "latitude": -34.878938,
+      "longitude": 138.566525,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T07:45:27Z"
     },
     {
       "id": "5bcdccfc-dd05-43ac-beff-d3158b3cee9c",
@@ -47,38 +77,38 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
+      "timestamp": "2025-12-15T09:32:39Z",
       "reported_at": "2025-12-15T07:31:43Z"
     },
     {
-      "id": "4a405117-e5b0-42e7-bb91-07b5e6b57fce",
-      "latitude": -34.929215,
-      "longitude": 138.589579,
-      "street": "Grote St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
-      "reported_at": "2025-12-15T08:28:50Z"
-    },
-    {
-      "id": "885c4a0c-8ff6-4be3-ac7b-5efa48b21465",
-      "latitude": -34.913818,
-      "longitude": 138.56555,
+      "id": "505a12df-6be0-4016-96b2-72b5da75b66b",
+      "latitude": -34.909734,
+      "longitude": 138.564835,
       "street": "A2 - South Rd",
-      "city": "Torrensville",
+      "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
-      "reported_at": "2025-12-15T08:15:58Z"
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T09:07:38Z"
     },
     {
-      "id": "67967878-07d7-4781-ab4a-77c163dd5570",
-      "latitude": -34.997814,
-      "longitude": 138.745708,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
+      "id": "fd357518-c5b8-4d81-a778-0bdf22d2cfbc",
+      "latitude": -34.911114,
+      "longitude": 138.54883,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2025-12-15T08:33:11Z",
-      "reported_at": "2025-12-15T08:08:41Z"
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T08:30:56Z"
+    },
+    {
+      "id": "91447622-e8a6-46f1-bed2-ce8e5aa63927",
+      "latitude": -34.789206,
+      "longitude": 138.617506,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-15T09:32:39Z",
+      "reported_at": "2025-12-15T09:14:09Z"
     }
   ]
 }
