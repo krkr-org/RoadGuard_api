@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "90e7d6b0-6086-48be-b4b7-f223d2d2c573",
+      "latitude": -35.101238,
+      "longitude": 138.513809,
+      "street": "to M2 - Southern Exp to City",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:20:37Z",
+      "reported_at": "2025-12-15T21:01:35Z"
+    },
+    {
+      "id": "56c11d30-6c54-4496-9dd1-69406569d116",
+      "latitude": -34.876108,
+      "longitude": 138.528135,
+      "street": "Unknown Street",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2025-12-15T21:20:37Z",
+      "reported_at": "2025-12-15T21:11:26Z"
+    }
+  ]
 }
