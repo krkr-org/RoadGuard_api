@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "f3496f1a-8193-4b07-9e30-0be0b6de0ad8",
-      "latitude": -34.914762,
-      "longitude": 138.586047,
+      "id": "da9c27e5-a2ee-47cb-ae20-97fcc885cc2d",
+      "latitude": -34.914248,
+      "longitude": 138.585243,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
-      "reported_at": "2025-12-16T04:49:34Z"
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:22:12Z"
     },
     {
-      "id": "8a5b93ad-23a9-4802-914f-e642aca05e05",
-      "latitude": -35.016936,
-      "longitude": 138.564572,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
+      "id": "b5820015-3908-4d8a-9c3e-6b3b102c8962",
+      "latitude": -34.932261,
+      "longitude": 138.626282,
+      "street": "Grant Av",
+      "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
-      "reported_at": "2025-12-16T05:10:20Z"
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:24:55Z"
     },
     {
       "id": "e43a4c85-ab81-4d75-b522-80ddba8499a8",
@@ -27,18 +27,28 @@
       "street": "Happy Valley Dr",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
+      "timestamp": "2025-12-16T05:46:17Z",
       "reported_at": "2025-12-16T04:50:17Z"
     },
     {
-      "id": "aaee2e23-4867-4b84-98a8-7f15363beb70",
-      "latitude": -35.13515,
-      "longitude": 138.485913,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "debfe395-1ec8-4838-a25e-4618df4d6e94",
+      "latitude": -35.13273,
+      "longitude": 138.5369,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
-      "reported_at": "2025-12-16T05:07:39Z"
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:20:12Z"
+    },
+    {
+      "id": "1fecd039-35e6-429f-8aff-5d2f58c2a41b",
+      "latitude": -34.925135,
+      "longitude": 138.617254,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:23:10Z"
     },
     {
       "id": "8bdf4b38-8eaa-4393-8fee-6406e8fd918f",
@@ -47,8 +57,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
+      "timestamp": "2025-12-16T05:46:17Z",
       "reported_at": "2025-12-16T04:59:27Z"
+    },
+    {
+      "id": "aaee2e23-4867-4b84-98a8-7f15363beb70",
+      "latitude": -35.13515,
+      "longitude": 138.485913,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:07:39Z"
     },
     {
       "id": "105b48dc-4d7f-4ce8-8995-96f88706ecf3",
@@ -57,8 +77,18 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
+      "timestamp": "2025-12-16T05:46:17Z",
       "reported_at": "2025-12-16T01:11:02Z"
+    },
+    {
+      "id": "411a1e1d-a8e5-41f3-ad2a-3ca211965f38",
+      "latitude": -34.975726,
+      "longitude": 138.530303,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:19:23Z"
     },
     {
       "id": "4e0e433e-0cc9-4f17-a2e3-1ae2ea072e62",
@@ -67,7 +97,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
+      "timestamp": "2025-12-16T05:46:17Z",
       "reported_at": "2025-12-16T04:50:36Z"
     },
     {
@@ -77,18 +107,28 @@
       "street": "A17 - Portrush Rd",
       "city": "Trinity Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
+      "timestamp": "2025-12-16T05:46:17Z",
       "reported_at": "2025-12-16T05:12:40Z"
     },
     {
-      "id": "bc068463-3a4c-42e9-9a6e-55c536321226",
-      "latitude": -34.816033,
-      "longitude": 138.625392,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "8168ddca-ef29-4c7e-ae5d-512fa2267bef",
+      "latitude": -35.135696,
+      "longitude": 138.505585,
+      "street": "M2 - Southern Exp",
+      "city": "Noarlunga Centre",
       "type": "mobile",
-      "timestamp": "2025-12-16T05:23:39Z",
-      "reported_at": "2025-12-16T04:54:13Z"
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:37:17Z"
+    },
+    {
+      "id": "6305788a-1e32-4695-93ff-c73cee7dd9c8",
+      "latitude": -35.132454,
+      "longitude": 138.50499,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-16T05:46:17Z",
+      "reported_at": "2025-12-16T05:40:52Z"
     }
   ]
 }
