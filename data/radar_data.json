@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "edf70190-46cf-4502-8c77-8de3e98a4645",
-      "latitude": -34.933461,
-      "longitude": 138.668697,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
-      "reported_at": "2025-12-16T10:28:29Z"
-    },
-    {
       "id": "4014a3eb-5ffc-4918-a01e-db97a6263c13",
       "latitude": -34.932244,
       "longitude": 138.626607,
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
+      "timestamp": "2025-12-16T13:38:39Z",
       "reported_at": "2025-12-16T09:55:12Z"
+    },
+    {
+      "id": "edf70190-46cf-4502-8c77-8de3e98a4645",
+      "latitude": -34.933461,
+      "longitude": 138.668697,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2025-12-16T13:38:39Z",
+      "reported_at": "2025-12-16T10:28:29Z"
     },
     {
       "id": "c9f62614-10ba-4968-b645-cff94a007692",
@@ -27,7 +27,7 @@
       "street": "MacKinnon Pde",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
+      "timestamp": "2025-12-16T13:38:39Z",
       "reported_at": "2025-12-16T11:15:11Z"
     },
     {
@@ -37,48 +37,8 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
+      "timestamp": "2025-12-16T13:38:39Z",
       "reported_at": "2025-12-16T10:48:19Z"
-    },
-    {
-      "id": "56f94edf-0212-4050-adc8-767a71d51d19",
-      "latitude": -35.005294,
-      "longitude": 138.588478,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
-      "reported_at": "2025-12-16T12:23:34Z"
-    },
-    {
-      "id": "ac280892-3c65-424e-b7e1-1e040ace9b8c",
-      "latitude": -35.011205,
-      "longitude": 138.57779,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
-      "reported_at": "2025-12-16T12:20:27Z"
-    },
-    {
-      "id": "a32662f5-30dd-4676-8376-42c4452f2e17",
-      "latitude": -34.96778,
-      "longitude": 138.563468,
-      "street": "A3 - Cross Rd",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
-      "reported_at": "2025-12-16T12:33:29Z"
-    },
-    {
-      "id": "77f00d50-fd26-4f10-8859-79d37d057113",
-      "latitude": -34.916433,
-      "longitude": 138.614435,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-16T12:46:23Z",
-      "reported_at": "2025-12-16T11:52:45Z"
     }
   ]
 }
