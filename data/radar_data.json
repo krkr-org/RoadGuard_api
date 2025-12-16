@@ -7,7 +7,7 @@
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
+      "timestamp": "2025-12-16T10:26:02Z",
       "reported_at": "2025-12-16T07:53:05Z"
     },
     {
@@ -17,18 +17,18 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
+      "timestamp": "2025-12-16T10:26:02Z",
       "reported_at": "2025-12-16T07:59:14Z"
     },
     {
-      "id": "b5820015-3908-4d8a-9c3e-6b3b102c8962",
-      "latitude": -34.932261,
-      "longitude": 138.626282,
+      "id": "4014a3eb-5ffc-4918-a01e-db97a6263c13",
+      "latitude": -34.932244,
+      "longitude": 138.626607,
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
-      "reported_at": "2025-12-16T05:24:55Z"
+      "timestamp": "2025-12-16T10:26:02Z",
+      "reported_at": "2025-12-16T09:55:12Z"
     },
     {
       "id": "f3496f1a-8193-4b07-9e30-0be0b6de0ad8",
@@ -37,8 +37,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
+      "timestamp": "2025-12-16T10:26:02Z",
       "reported_at": "2025-12-16T04:49:34Z"
+    },
+    {
+      "id": "c391beb4-ef70-4241-b29a-2d1a29ee12f8",
+      "latitude": -34.926245,
+      "longitude": 138.65508,
+      "street": "Kensington Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T10:26:02Z",
+      "reported_at": "2025-12-16T06:57:20Z"
     },
     {
       "id": "f3fce35a-7fc3-4082-abcc-574585dac904",
@@ -47,38 +57,28 @@
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
+      "timestamp": "2025-12-16T10:26:02Z",
       "reported_at": "2025-12-16T07:36:51Z"
     },
     {
-      "id": "5ae4419d-ca1e-4816-9dd6-2a90d618975f",
-      "latitude": -34.925125,
-      "longitude": 138.615579,
+      "id": "d3867931-8e66-49dd-ba54-f6b67ed4cb45",
+      "latitude": -34.927632,
+      "longitude": 138.619538,
+      "street": "Wakefield Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-16T10:26:02Z",
+      "reported_at": "2025-12-16T09:58:14Z"
+    },
+    {
+      "id": "8364118a-4cd1-4370-98f2-fada010e45a3",
+      "latitude": -34.925047,
+      "longitude": 138.615823,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
-      "reported_at": "2025-12-16T08:14:10Z"
-    },
-    {
-      "id": "7eb2c763-c402-4497-8bc6-404393d58939",
-      "latitude": -34.828389,
-      "longitude": 138.68215,
-      "street": "Montague Rd",
-      "city": "Modbury North",
-      "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
-      "reported_at": "2025-12-16T09:21:38Z"
-    },
-    {
-      "id": "3a2f35d3-0ad6-40ce-9a89-f0d0d626d5b8",
-      "latitude": -34.975844,
-      "longitude": 138.530412,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
-      "reported_at": "2025-12-16T08:31:24Z"
+      "timestamp": "2025-12-16T10:26:02Z",
+      "reported_at": "2025-12-16T06:47:54Z"
     },
     {
       "id": "b404ca1f-717d-496a-b015-44ccd329ef7a",
@@ -87,28 +87,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
+      "timestamp": "2025-12-16T10:26:02Z",
       "reported_at": "2025-12-16T06:47:38Z"
     },
     {
-      "id": "4ad187c9-d891-42e9-8733-279ac1a83ddf",
-      "latitude": -34.943056,
-      "longitude": 138.642684,
+      "id": "28436b92-25cb-4177-80cd-4d0a4142d2ed",
+      "latitude": -34.941977,
+      "longitude": 138.642712,
       "street": "A17 - Portrush Rd",
       "city": "Glenside",
       "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
-      "reported_at": "2025-12-16T09:17:47Z"
-    },
-    {
-      "id": "a4ea49b1-1486-4f15-8d8e-9c30442b557c",
-      "latitude": -34.787307,
-      "longitude": 138.639909,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury South",
-      "type": "mobile",
-      "timestamp": "2025-12-16T09:49:27Z",
-      "reported_at": "2025-12-16T09:34:00Z"
+      "timestamp": "2025-12-16T10:26:02Z",
+      "reported_at": "2025-12-16T10:10:54Z"
     }
   ]
 }
