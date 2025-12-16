@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "80d9a451-3707-41a1-8517-664ff876455a",
-      "latitude": -35.108442,
-      "longitude": 138.50708,
+      "id": "c3bcdc6f-67cc-455d-818e-901cad81aa7e",
+      "latitude": -35.139394,
+      "longitude": 138.493201,
+      "street": "Unknown Street",
+      "city": "Noarlunga Centre",
+      "type": "mobile",
+      "timestamp": "2025-12-16T03:25:01Z",
+      "reported_at": "2025-12-16T03:12:02Z"
+    },
+    {
+      "id": "9350afa2-4a2d-4da9-9de6-c281e0c4222f",
+      "latitude": -35.109484,
+      "longitude": 138.507161,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T22:54:59Z"
-    },
-    {
-      "id": "f41a665b-df23-4569-9a6f-e57fd03997b6",
-      "latitude": -34.97445,
-      "longitude": 138.537703,
-      "street": "Morphett Rd",
-      "city": "Novar Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T22:47:07Z"
-    },
-    {
-      "id": "77014579-3a19-4482-bdbf-906b6f026c2a",
-      "latitude": -34.717619,
-      "longitude": 138.686103,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-16T01:24:25Z"
+      "timestamp": "2025-12-16T03:25:01Z",
+      "reported_at": "2025-12-15T22:52:09Z"
     },
     {
       "id": "4a9a65a0-29a5-4cf4-8b02-efd26ee4331b",
@@ -37,68 +27,28 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
+      "timestamp": "2025-12-16T03:25:01Z",
       "reported_at": "2025-12-16T00:01:14Z"
     },
     {
-      "id": "9422d6a7-b28f-4b90-b818-a061c36000d4",
-      "latitude": -35.108535,
-      "longitude": 138.625552,
-      "street": "Grants Gully Rd",
-      "city": "Clarendon",
-      "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T21:36:21Z"
-    },
-    {
-      "id": "a702db1c-1a75-4313-98f9-40fbcefef4bb",
-      "latitude": -35.122796,
-      "longitude": 138.536141,
+      "id": "2b1a7f6c-5918-473d-a4c7-0b0527a4f950",
+      "latitude": -35.122877,
+      "longitude": 138.536147,
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T22:15:24Z"
+      "timestamp": "2025-12-16T03:25:01Z",
+      "reported_at": "2025-12-15T22:29:07Z"
     },
     {
-      "id": "ccfc8940-5d55-44cb-aab6-29d3ca0298a9",
-      "latitude": -34.990444,
-      "longitude": 138.599775,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T22:50:29Z"
-    },
-    {
-      "id": "5b34fe30-9cd2-49d1-babc-5f92ec8b5c48",
-      "latitude": -35.145775,
-      "longitude": 138.660764,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T21:23:23Z"
-    },
-    {
-      "id": "47e02bc1-37a7-4019-9851-a093ffcf3dcf",
-      "latitude": -34.928515,
-      "longitude": 138.603048,
-      "street": "Wakefield St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-16T01:15:39Z"
-    },
-    {
-      "id": "df983e3a-a557-46a0-a85a-3afbe134f6d0",
-      "latitude": -35.13263,
-      "longitude": 138.485888,
+      "id": "4ca6dc50-0456-405f-b733-c27fcab1862c",
+      "latitude": -35.13268,
+      "longitude": 138.485735,
       "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
-      "reported_at": "2025-12-15T23:18:23Z"
+      "timestamp": "2025-12-16T03:25:01Z",
+      "reported_at": "2025-12-15T23:50:34Z"
     },
     {
       "id": "105b48dc-4d7f-4ce8-8995-96f88706ecf3",
@@ -107,8 +57,28 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2025-12-16T01:45:01Z",
+      "timestamp": "2025-12-16T03:25:01Z",
       "reported_at": "2025-12-16T01:11:02Z"
+    },
+    {
+      "id": "ac6fe9b2-28c5-4918-a92b-932555c035e8",
+      "latitude": -34.699052,
+      "longitude": 138.683891,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2025-12-16T03:25:01Z",
+      "reported_at": "2025-12-16T02:52:04Z"
+    },
+    {
+      "id": "e934da66-1cb6-4193-be85-15ac8f9d2d8e",
+      "latitude": -34.82901,
+      "longitude": 138.56263,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2025-12-16T03:25:01Z",
+      "reported_at": "2025-12-16T02:51:41Z"
     }
   ]
 }
