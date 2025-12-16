@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "cb2d257e-33cb-45b5-bf0d-c3a1ee81cc23",
-      "latitude": -35.048953,
-      "longitude": 138.582633,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "db458e17-616b-4e6f-8d5c-f96f7a642928",
+      "latitude": -35.033414,
+      "longitude": 138.784845,
+      "street": "River Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
-      "reported_at": "2025-12-16T21:28:58Z"
+      "timestamp": "2025-12-16T22:20:02Z",
+      "reported_at": "2025-12-16T21:31:52Z"
     },
     {
-      "id": "3b733b70-b14f-4a18-9f87-808684b4d9dd",
-      "latitude": -34.895571,
-      "longitude": 138.488897,
-      "street": "Military Rd",
-      "city": "Tennyson",
+      "id": "4f165527-f6b7-4240-98d8-4296b6375eae",
+      "latitude": -34.945861,
+      "longitude": 138.56254,
+      "street": "Grove Av",
+      "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
-      "reported_at": "2025-12-16T21:00:54Z"
+      "timestamp": "2025-12-16T22:20:02Z",
+      "reported_at": "2025-12-16T21:56:46Z"
+    },
+    {
+      "id": "24a2d58c-1613-4e5b-9afd-4833422b997e",
+      "latitude": -34.990456,
+      "longitude": 138.599474,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-16T22:20:02Z",
+      "reported_at": "2025-12-16T21:57:13Z"
     },
     {
       "id": "29e002cc-089c-4f24-b5bb-ad9eaa94fc4e",
@@ -27,8 +37,28 @@
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
+      "timestamp": "2025-12-16T22:20:02Z",
       "reported_at": "2025-12-16T21:33:01Z"
+    },
+    {
+      "id": "35082c79-6d6e-4755-a571-0f7ed2bf626a",
+      "latitude": -34.870073,
+      "longitude": 138.481532,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2025-12-16T22:20:02Z",
+      "reported_at": "2025-12-16T21:37:46Z"
+    },
+    {
+      "id": "cb2d257e-33cb-45b5-bf0d-c3a1ee81cc23",
+      "latitude": -35.048953,
+      "longitude": 138.582633,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-16T22:20:02Z",
+      "reported_at": "2025-12-16T21:28:58Z"
     },
     {
       "id": "1bd9c904-36d0-4330-99f1-98ff8063eae9",
@@ -37,38 +67,18 @@
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
+      "timestamp": "2025-12-16T22:20:02Z",
       "reported_at": "2025-12-16T21:24:10Z"
     },
     {
-      "id": "02862cab-e70f-40e4-812d-4c0692cca5f6",
-      "latitude": -34.840151,
-      "longitude": 138.675479,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
+      "id": "5669cd01-772c-48cd-b961-44982ae26ce1",
+      "latitude": -34.951249,
+      "longitude": 138.574616,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
-      "reported_at": "2025-12-16T21:32:06Z"
-    },
-    {
-      "id": "c67cf499-8641-4c84-9ea2-e1b53fdb4560",
-      "latitude": -34.980627,
-      "longitude": 138.709029,
-      "street": "B28 - Mount Lofty Summit Rd",
-      "city": "Crafers",
-      "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
-      "reported_at": "2025-12-16T21:11:03Z"
-    },
-    {
-      "id": "85576b8d-17f1-4e7c-ab89-95afd727492c",
-      "latitude": -34.839327,
-      "longitude": 138.676455,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2025-12-16T21:41:48Z",
-      "reported_at": "2025-12-16T21:27:18Z"
+      "timestamp": "2025-12-16T22:20:02Z",
+      "reported_at": "2025-12-16T21:49:43Z"
     }
   ]
 }
