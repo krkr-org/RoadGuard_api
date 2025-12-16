@@ -1,34 +1,64 @@
 {
   "radars": [
     {
-      "id": "055996a4-2c0a-4294-9e4f-1f125a31b278",
-      "latitude": -35.004456,
-      "longitude": 138.521378,
-      "street": "Ilfracombe Av",
-      "city": "North Brighton",
-      "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T03:49:11Z"
-    },
-    {
-      "id": "cb059804-e92a-4e0d-96fd-2f22f3c1edbe",
-      "latitude": -34.908204,
-      "longitude": 138.581508,
+      "id": "f3496f1a-8193-4b07-9e30-0be0b6de0ad8",
+      "latitude": -34.914762,
+      "longitude": 138.586047,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T02:58:20Z"
+      "timestamp": "2025-12-16T04:55:16Z",
+      "reported_at": "2025-12-16T04:49:34Z"
     },
     {
-      "id": "94dfd0c2-4964-4d60-af06-6b47074f9821",
-      "latitude": -34.876579,
-      "longitude": 138.550745,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
+      "id": "f6925528-62f5-4c58-8f73-52ad3ab34220",
+      "latitude": -34.937911,
+      "longitude": 138.606611,
+      "street": "Unley Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T03:47:23Z"
+      "timestamp": "2025-12-16T04:55:16Z",
+      "reported_at": "2025-12-16T04:24:39Z"
+    },
+    {
+      "id": "f560392e-95f0-47bc-b0a5-a412e09a8ebf",
+      "latitude": -34.854968,
+      "longitude": 138.652695,
+      "street": "Sudholz Rd",
+      "city": "Oakden",
+      "type": "mobile",
+      "timestamp": "2025-12-16T04:55:16Z",
+      "reported_at": "2025-12-16T04:46:07Z"
+    },
+    {
+      "id": "f5ba848a-c323-484a-bdae-07dcd85ae14a",
+      "latitude": -34.992487,
+      "longitude": 138.581073,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T04:55:16Z",
+      "reported_at": "2025-12-16T04:46:27Z"
+    },
+    {
+      "id": "d958ed0a-6d47-443d-bf34-94f162d9ce5f",
+      "latitude": -34.714611,
+      "longitude": 138.669384,
+      "street": "Unknown Street",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2025-12-16T04:55:16Z",
+      "reported_at": "2025-12-16T04:40:54Z"
+    },
+    {
+      "id": "1e8950aa-a2a0-40e2-920a-28c3f0299907",
+      "latitude": -34.786174,
+      "longitude": 138.703827,
+      "street": "The Golden Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2025-12-16T04:55:16Z",
+      "reported_at": "2025-12-16T04:42:46Z"
     },
     {
       "id": "105b48dc-4d7f-4ce8-8995-96f88706ecf3",
@@ -37,48 +67,8 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
+      "timestamp": "2025-12-16T04:55:16Z",
       "reported_at": "2025-12-16T01:11:02Z"
-    },
-    {
-      "id": "04ccec9f-752f-4ea6-ab7e-60d2f1aa56f9",
-      "latitude": -34.99804,
-      "longitude": 138.5574,
-      "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T03:50:50Z"
-    },
-    {
-      "id": "b0d1763d-2221-447c-ac3e-a96b451b07a6",
-      "latitude": -34.933252,
-      "longitude": 138.623857,
-      "street": "R1 - Fullarton Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T03:54:33Z"
-    },
-    {
-      "id": "5a65261d-dbb5-4409-b53e-d1efa39bcc5a",
-      "latitude": -34.696508,
-      "longitude": 138.685085,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T03:52:36Z"
-    },
-    {
-      "id": "44e6f78f-5f16-4a6e-a338-779a260c3658",
-      "latitude": -34.971718,
-      "longitude": 138.657052,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2025-12-16T04:09:39Z",
-      "reported_at": "2025-12-16T03:54:19Z"
     }
   ]
 }
