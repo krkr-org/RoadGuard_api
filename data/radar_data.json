@@ -7,7 +7,7 @@
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
+      "timestamp": "2025-12-16T11:41:32Z",
       "reported_at": "2025-12-16T07:53:05Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
+      "timestamp": "2025-12-16T11:41:32Z",
       "reported_at": "2025-12-16T09:55:12Z"
     },
     {
@@ -27,38 +27,28 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
+      "timestamp": "2025-12-16T11:41:32Z",
       "reported_at": "2025-12-16T04:49:34Z"
     },
     {
-      "id": "3fb7f245-66b4-4a27-8f40-d16473cebb99",
-      "latitude": -34.926285,
-      "longitude": 138.654143,
-      "street": "Kensington Rd",
-      "city": "Kensington Park",
-      "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
-      "reported_at": "2025-12-16T07:31:00Z"
-    },
-    {
-      "id": "f3fce35a-7fc3-4082-abcc-574585dac904",
-      "latitude": -34.881125,
-      "longitude": 138.700559,
-      "street": "Maryvale Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
-      "reported_at": "2025-12-16T07:36:51Z"
-    },
-    {
-      "id": "8364118a-4cd1-4370-98f2-fada010e45a3",
-      "latitude": -34.925047,
-      "longitude": 138.615823,
+      "id": "5ae4419d-ca1e-4816-9dd6-2a90d618975f",
+      "latitude": -34.925125,
+      "longitude": 138.615579,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
-      "reported_at": "2025-12-16T06:47:54Z"
+      "timestamp": "2025-12-16T11:41:32Z",
+      "reported_at": "2025-12-16T08:14:10Z"
+    },
+    {
+      "id": "21895c09-6519-4ab1-9b2c-b2a1792c0e34",
+      "latitude": -34.926209,
+      "longitude": 138.655781,
+      "street": "Kensington Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T11:41:32Z",
+      "reported_at": "2025-12-16T07:58:59Z"
     },
     {
       "id": "ed2b7760-fb1a-4b3a-92e5-f7d620e785d5",
@@ -67,18 +57,8 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
+      "timestamp": "2025-12-16T11:41:32Z",
       "reported_at": "2025-12-16T10:48:19Z"
-    },
-    {
-      "id": "c3fb4c76-2bbb-4365-8610-d630fb91aa22",
-      "latitude": -34.870053,
-      "longitude": 138.481395,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
-      "reported_at": "2025-12-16T10:53:11Z"
     },
     {
       "id": "4c36c413-7915-4401-b4ed-6e9da049f4b1",
@@ -87,8 +67,38 @@
       "street": "A1 - Main North Rd",
       "city": "Medindie",
       "type": "mobile",
-      "timestamp": "2025-12-16T11:20:05Z",
+      "timestamp": "2025-12-16T11:41:32Z",
       "reported_at": "2025-12-16T10:53:33Z"
+    },
+    {
+      "id": "59e0cd3a-8ee6-4b29-99b4-6b5f37c124b9",
+      "latitude": -34.913914,
+      "longitude": 138.657926,
+      "street": "B27 - Magill Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T11:41:32Z",
+      "reported_at": "2025-12-16T11:01:20Z"
+    },
+    {
+      "id": "648d4bc5-d36d-4b93-815a-104a078b8cd1",
+      "latitude": -34.770572,
+      "longitude": 138.612221,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2025-12-16T11:41:32Z",
+      "reported_at": "2025-12-16T11:19:23Z"
+    },
+    {
+      "id": "cd2e3f5c-c8b9-4db3-8bca-6723c9b16f30",
+      "latitude": -34.765023,
+      "longitude": 138.639038,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2025-12-16T11:41:32Z",
+      "reported_at": "2025-12-16T11:15:26Z"
     }
   ]
 }
