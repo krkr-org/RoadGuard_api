@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "3a492811-4d1a-462c-990e-df3ce182aab0",
-      "latitude": -34.907763,
-      "longitude": 138.496376,
-      "street": "East Tce",
-      "city": "Henley Beach",
+      "id": "d095267e-fad5-41e2-a9eb-039549281025",
+      "latitude": -34.88559,
+      "longitude": 138.662781,
+      "street": "Clairville Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
-      "reported_at": "2025-12-16T06:00:22Z"
-    },
-    {
-      "id": "b5820015-3908-4d8a-9c3e-6b3b102c8962",
-      "latitude": -34.932261,
-      "longitude": 138.626282,
-      "street": "Grant Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
-      "reported_at": "2025-12-16T05:24:55Z"
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T07:53:05Z"
     },
     {
       "id": "da9c27e5-a2ee-47cb-ae20-97fcc885cc2d",
@@ -27,18 +17,38 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
+      "timestamp": "2025-12-16T09:27:19Z",
       "reported_at": "2025-12-16T05:22:12Z"
     },
     {
-      "id": "f1564e8b-7c60-4732-a40c-f137cc6b1ab5",
-      "latitude": -34.871529,
-      "longitude": 138.482977,
-      "street": "West Lakes Bvd",
-      "city": "West Lakes Shore",
+      "id": "cd126238-ca33-4981-bf8f-f57accdf7db7",
+      "latitude": -34.934195,
+      "longitude": 138.66877,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
-      "reported_at": "2025-12-16T07:08:36Z"
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T07:59:14Z"
+    },
+    {
+      "id": "b5820015-3908-4d8a-9c3e-6b3b102c8962",
+      "latitude": -34.932261,
+      "longitude": 138.626282,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T05:24:55Z"
+    },
+    {
+      "id": "c391beb4-ef70-4241-b29a-2d1a29ee12f8",
+      "latitude": -34.926245,
+      "longitude": 138.65508,
+      "street": "Kensington Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T06:57:20Z"
     },
     {
       "id": "f3fce35a-7fc3-4082-abcc-574585dac904",
@@ -47,7 +57,7 @@
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
+      "timestamp": "2025-12-16T09:27:19Z",
       "reported_at": "2025-12-16T07:36:51Z"
     },
     {
@@ -57,38 +67,58 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
+      "timestamp": "2025-12-16T09:27:19Z",
       "reported_at": "2025-12-16T06:47:54Z"
     },
     {
-      "id": "6e774d74-70e4-4d5f-b352-8876f8d62dd3",
-      "latitude": -34.924259,
-      "longitude": 138.557925,
-      "street": "Henley Beach Rd",
-      "city": "Torrensville",
+      "id": "7eb2c763-c402-4497-8bc6-404393d58939",
+      "latitude": -34.828389,
+      "longitude": 138.68215,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
-      "reported_at": "2025-12-16T08:27:34Z"
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T09:21:38Z"
     },
     {
-      "id": "d79877f0-f0dd-4170-a3d8-f43c22e71ef6",
-      "latitude": -34.786791,
-      "longitude": 138.716292,
-      "street": "Golden Grove Rd",
-      "city": "Golden Grove",
+      "id": "f1564e8b-7c60-4732-a40c-f137cc6b1ab5",
+      "latitude": -34.871529,
+      "longitude": 138.482977,
+      "street": "West Lakes Bvd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
-      "reported_at": "2025-12-16T08:20:03Z"
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T07:08:36Z"
     },
     {
-      "id": "4e0e433e-0cc9-4f17-a2e3-1ae2ea072e62",
-      "latitude": -34.938662,
-      "longitude": 138.670743,
+      "id": "b404ca1f-717d-496a-b015-44ccd329ef7a",
+      "latitude": -34.939095,
+      "longitude": 138.671232,
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2025-12-16T08:31:24Z",
-      "reported_at": "2025-12-16T04:50:36Z"
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T06:47:38Z"
+    },
+    {
+      "id": "0439dd25-e99f-473f-9b86-6222d335564e",
+      "latitude": -34.914508,
+      "longitude": 138.646025,
+      "street": "B27 - Magill Rd",
+      "city": "Beulah Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T09:23:56Z"
+    },
+    {
+      "id": "3a2f35d3-0ad6-40ce-9a89-f0d0d626d5b8",
+      "latitude": -34.975844,
+      "longitude": 138.530412,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2025-12-16T09:27:19Z",
+      "reported_at": "2025-12-16T08:31:24Z"
     }
   ]
 }
