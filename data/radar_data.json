@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "a633d1b4-845a-4e91-bc8d-417b75887e27",
+      "latitude": -34.795642,
+      "longitude": 138.611695,
+      "street": "Taylor St",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T06:50:28Z"
+    },
+    {
       "id": "3a492811-4d1a-462c-990e-df3ce182aab0",
       "latitude": -34.907763,
       "longitude": 138.496376,
       "street": "East Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T06:00:22Z"
-    },
-    {
-      "id": "872759eb-43d1-44b8-aca7-673f2abeff4e",
-      "latitude": -34.914405,
-      "longitude": 138.585479,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:00:30Z"
     },
     {
       "id": "b93108a3-bdc7-4c1c-a2c4-e9c402aea076",
@@ -27,18 +27,28 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T07:00:16Z"
     },
     {
-      "id": "8c10fccd-3707-4747-9874-269ea6be4e74",
-      "latitude": -34.874238,
-      "longitude": 138.62447,
-      "street": "Ways Rd",
-      "city": "Manningham",
+      "id": "b5820015-3908-4d8a-9c3e-6b3b102c8962",
+      "latitude": -34.932261,
+      "longitude": 138.626282,
+      "street": "Grant Av",
+      "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:09:25Z"
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T05:24:55Z"
+    },
+    {
+      "id": "872759eb-43d1-44b8-aca7-673f2abeff4e",
+      "latitude": -34.914405,
+      "longitude": 138.585479,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:00:30Z"
     },
     {
       "id": "f1564e8b-7c60-4732-a40c-f137cc6b1ab5",
@@ -47,8 +57,28 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T07:08:36Z"
+    },
+    {
+      "id": "fe3cda5d-67a5-43cb-9ef8-acf1db8a10c6",
+      "latitude": -35.136926,
+      "longitude": 138.52068,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:30:43Z"
+    },
+    {
+      "id": "57447aa7-8c48-4458-9bab-ea206eff15a4",
+      "latitude": -34.925049,
+      "longitude": 138.615655,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:28:06Z"
     },
     {
       "id": "ead6ddcc-892c-46a6-b0f1-176f0c7a4804",
@@ -57,38 +87,18 @@
       "street": "King William Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T07:07:29Z"
     },
     {
-      "id": "8364118a-4cd1-4370-98f2-fada010e45a3",
-      "latitude": -34.925047,
-      "longitude": 138.615823,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
+      "id": "a8979666-93d0-4272-92d2-92507c3ef631",
+      "latitude": -34.872184,
+      "longitude": 138.667643,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T06:47:54Z"
-    },
-    {
-      "id": "459f5bef-c294-487a-b0da-77674909bf3f",
-      "latitude": -34.958687,
-      "longitude": 138.590118,
-      "street": "Goodwood Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T06:53:52Z"
-    },
-    {
-      "id": "8ba3335c-bad0-479d-b565-a26562827662",
-      "latitude": -34.792297,
-      "longitude": 138.501533,
-      "street": "A16 - Victoria Rd",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:01:37Z"
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:41:34Z"
     },
     {
       "id": "105b48dc-4d7f-4ce8-8995-96f88706ecf3",
@@ -97,7 +107,7 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T01:11:02Z"
     },
     {
@@ -107,7 +117,7 @@
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T07:01:10Z"
     },
     {
@@ -117,68 +127,38 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
+      "timestamp": "2025-12-16T07:43:51Z",
       "reported_at": "2025-12-16T06:41:23Z"
     },
     {
-      "id": "55b73d82-4db3-4f3a-a367-66d38c094bfe",
-      "latitude": -34.851099,
-      "longitude": 138.711942,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T06:51:47Z"
-    },
-    {
-      "id": "f0fd899c-f908-4d3b-95d3-57a52cd1b995",
-      "latitude": -34.749641,
-      "longitude": 138.588187,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T06:38:57Z"
-    },
-    {
-      "id": "315feb31-e2a4-477b-be0f-40f77172141d",
-      "latitude": -34.704208,
-      "longitude": 138.68021,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:14:02Z"
-    },
-    {
-      "id": "3f710570-0546-4024-9c2f-a72c68af2611",
-      "latitude": -34.758446,
-      "longitude": 138.676318,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:01:23Z"
-    },
-    {
-      "id": "09350350-61ee-4cc5-993b-e6553c481b7a",
-      "latitude": -35.088301,
-      "longitude": 138.53349,
+      "id": "eb7e65d2-856f-4d77-9170-486eb2047346",
+      "latitude": -35.103413,
+      "longitude": 138.511537,
       "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:04:04Z"
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:35:24Z"
     },
     {
-      "id": "7b8b054a-9a3a-4cbc-9fff-8817f9e9d59f",
-      "latitude": -35.038621,
-      "longitude": 138.813663,
+      "id": "c661c3bc-788c-4740-96a5-96edf161655c",
+      "latitude": -35.039399,
+      "longitude": 138.813886,
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-16T07:23:30Z",
-      "reported_at": "2025-12-16T07:20:06Z"
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:25:55Z"
+    },
+    {
+      "id": "44a30422-fbe5-4bc1-a0a6-1b0c696a7bf9",
+      "latitude": -35.073075,
+      "longitude": 138.544174,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2025-12-16T07:43:51Z",
+      "reported_at": "2025-12-16T07:42:04Z"
     }
   ]
 }
