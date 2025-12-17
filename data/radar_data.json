@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "f0b09c5b-2128-40ff-8169-34dd039c4e79",
-      "latitude": -35.009429,
-      "longitude": 138.762825,
-      "street": "Mount Barker Rd",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-16T22:27:32Z"
-    },
-    {
-      "id": "db458e17-616b-4e6f-8d5c-f96f7a642928",
-      "latitude": -35.033414,
-      "longitude": 138.784845,
+      "id": "9bee1349-1ec9-4cc1-9525-ba6fe2a9c88e",
+      "latitude": -35.033136,
+      "longitude": 138.783727,
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-16T21:31:52Z"
+      "timestamp": "2025-12-17T03:20:36Z",
+      "reported_at": "2025-12-17T01:15:00Z"
     },
     {
-      "id": "a5a3da60-02fd-4701-9cf8-7d54749f7e10",
-      "latitude": -34.920076,
-      "longitude": 138.65857,
-      "street": "The Parade",
-      "city": "Kensington Park",
+      "id": "031ce587-d2e8-4c6c-9c79-ce32cb1dcd53",
+      "latitude": -35.009458,
+      "longitude": 138.763143,
+      "street": "Mount Barker Rd",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-17T01:22:16Z"
+      "timestamp": "2025-12-17T03:20:36Z",
+      "reported_at": "2025-12-17T02:27:13Z"
     },
     {
       "id": "f5666016-caeb-4de2-abc4-e1d6cc762ad5",
@@ -37,18 +27,28 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
+      "timestamp": "2025-12-17T03:20:36Z",
       "reported_at": "2025-12-17T00:08:30Z"
     },
     {
-      "id": "29e002cc-089c-4f24-b5bb-ad9eaa94fc4e",
-      "latitude": -35.038802,
-      "longitude": 138.688862,
-      "street": "Ironbank Rd",
-      "city": "Ironbank",
+      "id": "1e2acf50-4755-459b-83b3-220fab71555c",
+      "latitude": -34.726835,
+      "longitude": 138.639776,
+      "street": "West Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-16T21:33:01Z"
+      "timestamp": "2025-12-17T03:20:36Z",
+      "reported_at": "2025-12-17T02:43:09Z"
+    },
+    {
+      "id": "85f8e787-29be-42f5-b426-75023cd3305d",
+      "latitude": -35.024341,
+      "longitude": 138.716595,
+      "street": "Longwood Rd",
+      "city": "Heathfield",
+      "type": "mobile",
+      "timestamp": "2025-12-17T03:20:36Z",
+      "reported_at": "2025-12-16T22:56:50Z"
     },
     {
       "id": "a9c646b4-954d-4921-b2a8-f3505cbf433d",
@@ -57,28 +57,8 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
+      "timestamp": "2025-12-17T03:20:36Z",
       "reported_at": "2025-12-17T00:21:55Z"
-    },
-    {
-      "id": "761fd390-3c94-4e3b-ba88-410cbfc7f326",
-      "latitude": -34.990493,
-      "longitude": 138.598763,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-16T23:39:10Z"
-    },
-    {
-      "id": "1bd9c904-36d0-4330-99f1-98ff8063eae9",
-      "latitude": -35.004575,
-      "longitude": 138.699969,
-      "street": "B28 - Waverley Ridge Rd",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-16T21:24:10Z"
     },
     {
       "id": "ea7b3c52-c747-4369-b9b3-721005dd0869",
@@ -87,18 +67,8 @@
       "street": "B28 - Mount Lofty Summit Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
+      "timestamp": "2025-12-17T03:20:36Z",
       "reported_at": "2025-12-16T22:19:12Z"
-    },
-    {
-      "id": "be4676cc-9754-4cd2-8f21-04cc58c9b0f8",
-      "latitude": -34.959606,
-      "longitude": 138.730765,
-      "street": "B26 - Greenhill Rd",
-      "city": "Summertown",
-      "type": "mobile",
-      "timestamp": "2025-12-17T01:40:35Z",
-      "reported_at": "2025-12-16T21:42:00Z"
     }
   ]
 }
