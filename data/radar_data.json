@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "092dddda-bcd4-4d25-a3ac-e7af2c9d4de8",
-      "latitude": -34.852269,
-      "longitude": 138.574143,
-      "street": "Gallipoli Dr",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T04:43:30Z"
-    },
-    {
       "id": "4a15a468-3c04-4134-b3be-c3af33484db0",
       "latitude": -35.018858,
       "longitude": 138.623494,
       "street": "Watahuna Av",
       "city": "Hawthorndene",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T04:29:25Z"
-    },
-    {
-      "id": "9d858e11-045c-4e7f-9d7e-4383abd22cc1",
-      "latitude": -34.859022,
-      "longitude": 138.521758,
-      "street": "Torrens Rd",
-      "city": "Rosewater",
-      "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T05:06:51Z"
     },
     {
       "id": "031ce587-d2e8-4c6c-9c79-ce32cb1dcd53",
@@ -37,7 +17,7 @@
       "street": "Mount Barker Rd",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T02:27:13Z"
     },
     {
@@ -47,18 +27,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T04:20:37Z"
-    },
-    {
-      "id": "fbdd2055-9a92-493b-8856-e847c0b59de5",
-      "latitude": -34.707319,
-      "longitude": 138.651783,
-      "street": "Bellchambers Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T05:09:42Z"
     },
     {
       "id": "7febec80-26ac-46d1-bbc9-7c4edd0a0a33",
@@ -67,18 +37,18 @@
       "street": "Haydown Rd",
       "city": "Elizabeth Vale",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T05:22:10Z"
     },
     {
-      "id": "9d7dd033-d319-4eaa-8058-be8d61181887",
-      "latitude": -34.700147,
-      "longitude": 138.66539,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
+      "id": "4011972b-dd12-43d4-85b8-b972a427cbd0",
+      "latitude": -34.817992,
+      "longitude": 138.682147,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T05:08:10Z"
+      "timestamp": "2025-12-17T05:46:03Z",
+      "reported_at": "2025-12-17T05:17:03Z"
     },
     {
       "id": "c9d46a91-f7fc-4f08-b635-298b44ee18a8",
@@ -87,8 +57,18 @@
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T05:13:12Z"
+    },
+    {
+      "id": "cd66c303-f769-4e7d-add2-5e6873576ec1",
+      "latitude": -34.940352,
+      "longitude": 138.584597,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-17T05:46:03Z",
+      "reported_at": "2025-12-17T05:38:01Z"
     },
     {
       "id": "a8940bba-69fe-432d-a8bd-109365674dfe",
@@ -97,7 +77,7 @@
       "street": "R1 - Fitzroy Tce (City Ring Route)",
       "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T05:20:25Z"
     },
     {
@@ -107,38 +87,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
+      "timestamp": "2025-12-17T05:46:03Z",
       "reported_at": "2025-12-17T02:05:56Z"
     },
     {
-      "id": "c239910b-3d68-4d48-bace-6fae55c2d946",
-      "latitude": -34.749145,
-      "longitude": 138.665769,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T05:02:09Z"
-    },
-    {
-      "id": "6add68f2-64f5-4cd2-b7fe-6cc91afe9b47",
-      "latitude": -34.795559,
-      "longitude": 138.707567,
+      "id": "a4d5dbe9-0522-49fd-8f42-fd2ef09f258c",
+      "latitude": -34.795427,
+      "longitude": 138.708538,
       "street": "A11 - The Grove Way",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T04:56:33Z"
-    },
-    {
-      "id": "c2532c94-6ca8-46c3-ac25-499005e0e3e4",
-      "latitude": -34.67901,
-      "longitude": 138.696404,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
-      "type": "mobile",
-      "timestamp": "2025-12-17T05:23:26Z",
-      "reported_at": "2025-12-17T05:10:54Z"
+      "timestamp": "2025-12-17T05:46:03Z",
+      "reported_at": "2025-12-17T05:27:45Z"
     }
   ]
 }
