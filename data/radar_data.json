@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "7aa2d5f4-43f2-466a-85c6-8f97af144c61",
-      "latitude": -34.742911,
-      "longitude": 138.666899,
-      "street": "Haslam Cr",
-      "city": "Elizabeth Vale",
-      "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
-      "reported_at": "2025-12-17T05:40:06Z"
-    },
-    {
       "id": "dd2c72f2-de08-4575-958c-aaf5ed9ce12e",
       "latitude": -34.95188,
       "longitude": 138.507215,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T07:12:20Z"
+    },
+    {
+      "id": "8c1ce6e0-6045-4ff7-aabb-1f929aa59f97",
+      "latitude": -34.966251,
+      "longitude": 138.512372,
+      "street": "Patawalonga Frontage",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2025-12-17T09:50:14Z",
+      "reported_at": "2025-12-17T09:41:34Z"
     },
     {
       "id": "b6afb271-4e3e-4d25-b1ad-483af41dc281",
@@ -27,18 +27,8 @@
       "street": "South Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T08:31:33Z"
-    },
-    {
-      "id": "ba55e64a-3b83-4200-8eb6-2e25b88dee70",
-      "latitude": -34.760535,
-      "longitude": 138.676904,
-      "street": "Target Hill Rd",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
-      "reported_at": "2025-12-17T05:31:34Z"
     },
     {
       "id": "5df6bf9d-4bea-46a7-8e2d-2886adda6285",
@@ -47,8 +37,18 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T06:29:47Z"
+    },
+    {
+      "id": "98c3e7eb-5d75-4961-b24e-1d33c7fca755",
+      "latitude": -34.917342,
+      "longitude": 138.53495,
+      "street": "Findon Rd",
+      "city": "Kidman Park",
+      "type": "mobile",
+      "timestamp": "2025-12-17T09:50:14Z",
+      "reported_at": "2025-12-17T09:32:46Z"
     },
     {
       "id": "4d57c719-0cd7-429e-be6a-91a8fee68f86",
@@ -57,8 +57,18 @@
       "street": "Haydown Rd",
       "city": "Elizabeth Vale",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T06:17:53Z"
+    },
+    {
+      "id": "ba55e64a-3b83-4200-8eb6-2e25b88dee70",
+      "latitude": -34.760535,
+      "longitude": 138.676904,
+      "street": "Target Hill Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2025-12-17T09:50:14Z",
+      "reported_at": "2025-12-17T05:31:34Z"
     },
     {
       "id": "91482ca9-1f14-4dde-808c-c75dfe093054",
@@ -67,7 +77,7 @@
       "street": "Adelaide Airport Taxi Rank",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T06:04:11Z"
     },
     {
@@ -77,7 +87,7 @@
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T06:35:24Z"
     },
     {
@@ -87,7 +97,7 @@
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T05:45:24Z"
     },
     {
@@ -97,7 +107,7 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T08:02:25Z"
     },
     {
@@ -107,18 +117,8 @@
       "street": "A16 - Victoria Rd",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T09:23:14Z"
-    },
-    {
-      "id": "163ad43f-7028-4739-a8c4-762fedf923ca",
-      "latitude": -34.975888,
-      "longitude": 138.526896,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
-      "reported_at": "2025-12-17T08:54:33Z"
     },
     {
       "id": "5c104ffb-1710-42fa-8596-6cfce573096e",
@@ -127,8 +127,18 @@
       "street": "A11 - Payneham Rd",
       "city": "St. Peters",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T09:14:08Z"
+    },
+    {
+      "id": "74131cc9-4480-4667-a188-a8acb28fcae4",
+      "latitude": -34.915781,
+      "longitude": 138.622511,
+      "street": "A11 - North Tce",
+      "city": "College Park",
+      "type": "mobile",
+      "timestamp": "2025-12-17T09:50:14Z",
+      "reported_at": "2025-12-17T09:32:46Z"
     },
     {
       "id": "50449408-928a-4497-a646-7ba64f27122e",
@@ -137,18 +147,18 @@
       "street": "A11 - The Grove Way",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
+      "timestamp": "2025-12-17T09:50:14Z",
       "reported_at": "2025-12-17T07:00:15Z"
     },
     {
-      "id": "54f3ff4c-92c5-45ef-a1d8-6c2a0aed15dd",
-      "latitude": -35.003023,
-      "longitude": 138.758987,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
+      "id": "972a84a0-f504-401b-abf4-3351f3d08296",
+      "latitude": -34.836962,
+      "longitude": 138.525614,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2025-12-17T09:28:22Z",
-      "reported_at": "2025-12-17T09:12:14Z"
+      "timestamp": "2025-12-17T09:50:14Z",
+      "reported_at": "2025-12-17T09:22:22Z"
     }
   ]
 }
