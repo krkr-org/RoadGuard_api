@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "4a15a468-3c04-4134-b3be-c3af33484db0",
+      "latitude": -35.018858,
+      "longitude": 138.623494,
+      "street": "Watahuna Av",
+      "city": "Hawthorndene",
+      "type": "mobile",
+      "timestamp": "2025-12-17T04:52:52Z",
+      "reported_at": "2025-12-17T04:29:25Z"
+    },
+    {
+      "id": "3763dcfa-5332-4578-8b9c-f392f0f37b04",
+      "latitude": -34.916156,
+      "longitude": 138.588294,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2025-12-17T04:52:52Z",
+      "reported_at": "2025-12-17T04:20:37Z"
+    },
+    {
       "id": "9bee1349-1ec9-4cc1-9525-ba6fe2a9c88e",
       "latitude": -35.033136,
       "longitude": 138.783727,
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2025-12-17T04:05:52Z",
+      "timestamp": "2025-12-17T04:52:52Z",
       "reported_at": "2025-12-17T01:15:00Z"
     },
     {
@@ -17,18 +37,18 @@
       "street": "Mount Barker Rd",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2025-12-17T04:05:52Z",
+      "timestamp": "2025-12-17T04:52:52Z",
       "reported_at": "2025-12-17T02:27:13Z"
     },
     {
-      "id": "f5666016-caeb-4de2-abc4-e1d6cc762ad5",
-      "latitude": -34.736349,
-      "longitude": 138.644487,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "00714585-158a-424c-882d-fd95c2b0b3f9",
+      "latitude": -34.8269,
+      "longitude": 138.600844,
+      "street": "Montague Rd",
+      "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2025-12-17T04:05:52Z",
-      "reported_at": "2025-12-17T00:08:30Z"
+      "timestamp": "2025-12-17T04:52:52Z",
+      "reported_at": "2025-12-17T04:29:01Z"
     },
     {
       "id": "ef86a219-5114-403e-87fa-95f7ac5dab71",
@@ -37,8 +57,18 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2025-12-17T04:05:52Z",
+      "timestamp": "2025-12-17T04:52:52Z",
       "reported_at": "2025-12-17T01:19:41Z"
+    },
+    {
+      "id": "b616f42d-9661-44a7-a8f8-2bf4aa4eb791",
+      "latitude": -34.871845,
+      "longitude": 138.621375,
+      "street": "Muller Rd",
+      "city": "Greenacres",
+      "type": "mobile",
+      "timestamp": "2025-12-17T04:52:52Z",
+      "reported_at": "2025-12-17T04:28:12Z"
     },
     {
       "id": "c6f4d5fb-f6e8-4b37-9977-a1fa218471e1",
@@ -47,18 +77,18 @@
       "street": "Unley Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2025-12-17T04:05:52Z",
+      "timestamp": "2025-12-17T04:52:52Z",
       "reported_at": "2025-12-17T03:22:23Z"
     },
     {
-      "id": "2bd88fd7-503a-45e4-bfa2-a4d2b2b47840",
-      "latitude": -34.816887,
-      "longitude": 138.592467,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
+      "id": "19d23972-0617-4dac-855b-f6da27ea01e0",
+      "latitude": -34.790357,
+      "longitude": 138.579713,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2025-12-17T04:05:52Z",
-      "reported_at": "2025-12-17T03:44:20Z"
+      "timestamp": "2025-12-17T04:52:52Z",
+      "reported_at": "2025-12-17T04:45:11Z"
     }
   ]
 }
