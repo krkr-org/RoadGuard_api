@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "5df6bf9d-4bea-46a7-8e2d-2886adda6285",
-      "latitude": -34.953679,
-      "longitude": 138.614525,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
-      "reported_at": "2025-12-17T06:29:47Z"
-    },
-    {
       "id": "b6afb271-4e3e-4d25-b1ad-483af41dc281",
       "latitude": -34.886644,
       "longitude": 138.570696,
       "street": "South Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
+      "timestamp": "2025-12-17T10:49:18Z",
       "reported_at": "2025-12-17T08:31:33Z"
     },
     {
@@ -27,28 +17,8 @@
       "street": "Target Hill Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
+      "timestamp": "2025-12-17T10:49:18Z",
       "reported_at": "2025-12-17T05:30:24Z"
-    },
-    {
-      "id": "7f799342-cdd7-42d6-b1d7-d0fa969e282e",
-      "latitude": -34.806754,
-      "longitude": 138.696932,
-      "street": "Grenfell Rd",
-      "city": "Modbury Heights",
-      "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
-      "reported_at": "2025-12-17T09:58:58Z"
-    },
-    {
-      "id": "62123c8e-e632-4c3e-838b-8514f1ba7c5c",
-      "latitude": -34.749292,
-      "longitude": 138.68192,
-      "street": "Black Top Rd",
-      "city": "Hillbank",
-      "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
-      "reported_at": "2025-12-17T06:35:24Z"
     },
     {
       "id": "943ba598-8afd-4bfb-89c2-dbeee3f0bbd0",
@@ -57,18 +27,38 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
+      "timestamp": "2025-12-17T10:49:18Z",
       "reported_at": "2025-12-17T08:02:25Z"
     },
     {
-      "id": "baf9852c-1924-4bd5-beb3-1498c3d8d35b",
-      "latitude": -34.913144,
-      "longitude": 138.624813,
-      "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
+      "id": "4011972b-dd12-43d4-85b8-b972a427cbd0",
+      "latitude": -34.817992,
+      "longitude": 138.682147,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
-      "reported_at": "2025-12-17T10:00:50Z"
+      "timestamp": "2025-12-17T10:49:18Z",
+      "reported_at": "2025-12-17T05:17:03Z"
+    },
+    {
+      "id": "7b7642bf-05b6-4595-8e64-bc3ddba66f04",
+      "latitude": -34.825273,
+      "longitude": 138.638853,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2025-12-17T10:49:18Z",
+      "reported_at": "2025-12-17T10:28:14Z"
+    },
+    {
+      "id": "aa77da12-0117-4735-ad87-a64bf636ec17",
+      "latitude": -34.933494,
+      "longitude": 138.532884,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2025-12-17T10:49:18Z",
+      "reported_at": "2025-12-17T10:45:06Z"
     },
     {
       "id": "021971f0-7e8b-4bee-870d-45552f9804c9",
@@ -77,18 +67,28 @@
       "street": "A11 - The Grove Way",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
+      "timestamp": "2025-12-17T10:49:18Z",
       "reported_at": "2025-12-17T09:44:03Z"
     },
     {
-      "id": "cda57f43-9707-4303-b5e4-269b73257052",
-      "latitude": -34.800639,
-      "longitude": 138.607112,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "cb3b1f19-ecdc-47e0-9775-eed31c6ee018",
+      "latitude": -34.780162,
+      "longitude": 138.657177,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2025-12-17T10:25:16Z",
-      "reported_at": "2025-12-17T09:32:36Z"
+      "timestamp": "2025-12-17T10:49:18Z",
+      "reported_at": "2025-12-17T10:18:28Z"
+    },
+    {
+      "id": "370a5a7a-e1f3-430d-93b0-37ff7037ddb6",
+      "latitude": -34.749216,
+      "longitude": 138.665515,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2025-12-17T10:49:18Z",
+      "reported_at": "2025-12-17T05:38:28Z"
     }
   ]
 }
