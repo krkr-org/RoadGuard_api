@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "2f35f93d-cd98-412c-b088-3b524abb0972",
-      "latitude": -34.936266,
-      "longitude": 138.50706,
-      "street": "Burbridge Rd Service Rd",
+      "id": "6a4acb0a-22f7-4f6f-bdaf-6ba044d4878e",
+      "latitude": -34.958057,
+      "longitude": 138.509668,
+      "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T00:51:20Z"
+      "timestamp": "2025-12-18T05:23:13Z",
+      "reported_at": "2025-12-18T04:56:48Z"
+    },
+    {
+      "id": "c5c9cf92-6eb4-4505-9ec7-ac7abacc0955",
+      "latitude": -35.094428,
+      "longitude": 138.530303,
+      "street": "Grant Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-18T05:23:13Z",
+      "reported_at": "2025-12-18T05:05:23Z"
     },
     {
       "id": "47ea88d2-123b-456f-9e46-1a49eab99f43",
@@ -17,48 +27,28 @@
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
+      "timestamp": "2025-12-18T05:23:13Z",
       "reported_at": "2025-12-18T01:44:30Z"
     },
     {
-      "id": "cbd8dec5-086a-492b-844c-e843b158695e",
-      "latitude": -34.898563,
-      "longitude": 138.613012,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
+      "id": "43f400da-18ac-4c5b-bec4-c2427acef864",
+      "latitude": -35.114976,
+      "longitude": 138.568997,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T03:44:51Z"
+      "timestamp": "2025-12-18T05:23:13Z",
+      "reported_at": "2025-12-18T05:10:02Z"
     },
     {
-      "id": "f5c31a93-6070-4269-84c3-60cd44c28385",
-      "latitude": -34.867706,
-      "longitude": 138.692341,
-      "street": "George St",
-      "city": "Paradise",
+      "id": "605d2f17-e044-4097-b7d8-427702661d74",
+      "latitude": -35.097672,
+      "longitude": 138.524322,
+      "street": "The Strand",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T03:46:24Z"
-    },
-    {
-      "id": "e6da4847-041f-4129-9dd7-5d1611bdb6f0",
-      "latitude": -34.835574,
-      "longitude": 138.707288,
-      "street": "Tolley Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T01:05:52Z"
-    },
-    {
-      "id": "a7c2153b-de63-491e-b971-eb5d23a65cdd",
-      "latitude": -34.923149,
-      "longitude": 138.632324,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T02:50:10Z"
+      "timestamp": "2025-12-18T05:23:13Z",
+      "reported_at": "2025-12-18T05:09:20Z"
     },
     {
       "id": "a738066a-f727-4d0f-aaa1-ee48e9af0aac",
@@ -67,8 +57,18 @@
       "street": "Pimpala Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
+      "timestamp": "2025-12-18T05:23:13Z",
       "reported_at": "2025-12-18T04:41:18Z"
+    },
+    {
+      "id": "a7c2153b-de63-491e-b971-eb5d23a65cdd",
+      "latitude": -34.923149,
+      "longitude": 138.632324,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-12-18T05:23:13Z",
+      "reported_at": "2025-12-18T02:50:10Z"
     },
     {
       "id": "d1994091-4114-4112-a45d-fe5ffef3aa77",
@@ -77,38 +77,8 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
+      "timestamp": "2025-12-18T05:23:13Z",
       "reported_at": "2025-12-18T01:46:41Z"
-    },
-    {
-      "id": "528a8133-5926-486c-9cdc-fb750ecd1856",
-      "latitude": -34.942457,
-      "longitude": 138.624703,
-      "street": "A1 - Fullarton Rd",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T04:47:43Z"
-    },
-    {
-      "id": "5493dd0e-60f7-42bc-abf4-f5c034817588",
-      "latitude": -35.14673,
-      "longitude": 138.52527,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T04:27:28Z"
-    },
-    {
-      "id": "61a2b8f0-8d2f-487a-b595-8a08913ea229",
-      "latitude": -34.796129,
-      "longitude": 138.611187,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-18T04:54:04Z",
-      "reported_at": "2025-12-18T04:41:21Z"
     }
   ]
 }
