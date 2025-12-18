@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "f47cad96-25eb-4c32-84ff-34e0ac0d15f3",
-      "latitude": -34.830046,
-      "longitude": 138.642019,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-17T22:59:50Z"
-    },
-    {
-      "id": "dc42b453-852b-4629-8b2f-2e5bde697e8b",
-      "latitude": -34.901181,
-      "longitude": 138.609904,
+      "id": "cbd8dec5-086a-492b-844c-e843b158695e",
+      "latitude": -34.898563,
+      "longitude": 138.613012,
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-17T23:25:49Z"
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T03:44:51Z"
     },
     {
-      "id": "6b8228ed-4200-4a04-b198-4a4b3861cfe2",
-      "latitude": -34.837868,
-      "longitude": 138.623687,
+      "id": "f5c31a93-6070-4269-84c3-60cd44c28385",
+      "latitude": -34.867706,
+      "longitude": 138.692341,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T03:46:24Z"
+    },
+    {
+      "id": "b93267a9-52f3-401e-81e9-bbad010bc158",
+      "latitude": -34.990526,
+      "longitude": 138.598083,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T04:02:50Z"
+    },
+    {
+      "id": "d1994091-4114-4112-a45d-fe5ffef3aa77",
+      "latitude": -34.836329,
+      "longitude": 138.620448,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-18T02:27:48Z"
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T01:46:41Z"
+    },
+    {
+      "id": "a7c2153b-de63-491e-b971-eb5d23a65cdd",
+      "latitude": -34.923149,
+      "longitude": 138.632324,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T02:50:10Z"
     },
     {
       "id": "e6da4847-041f-4129-9dd7-5d1611bdb6f0",
@@ -37,48 +57,28 @@
       "street": "Tolley Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
+      "timestamp": "2025-12-18T04:07:03Z",
       "reported_at": "2025-12-18T01:05:52Z"
     },
     {
-      "id": "0de55e18-fec2-4ac6-b5df-818695475af0",
-      "latitude": -34.857763,
-      "longitude": 138.660044,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "91966e13-26aa-4683-9ef3-4b38352a51c1",
+      "latitude": -34.994282,
+      "longitude": 138.575026,
+      "street": "A2 - South Rd",
+      "city": "Clovelly Park",
       "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-17T21:04:40Z"
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T04:03:31Z"
     },
     {
-      "id": "8f124624-7888-43e8-8a30-7d13116fafb1",
-      "latitude": -34.967081,
-      "longitude": 138.549887,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "3868dc06-4d5a-443f-891f-f4b6e2c991cf",
+      "latitude": -35.025975,
+      "longitude": 138.559234,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-18T01:19:16Z"
-    },
-    {
-      "id": "57679885-2b85-4de2-b8ce-d0a1aba902e4",
-      "latitude": -34.840582,
-      "longitude": 138.710133,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-17T22:44:36Z"
-    },
-    {
-      "id": "c3babcbe-ddb5-430f-856c-352ac53c41b8",
-      "latitude": -34.797067,
-      "longitude": 138.65562,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2025-12-18T03:21:25Z",
-      "reported_at": "2025-12-18T03:03:55Z"
+      "timestamp": "2025-12-18T04:07:03Z",
+      "reported_at": "2025-12-18T03:54:31Z"
     }
   ]
 }
