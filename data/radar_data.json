@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "f1fbc37e-cedc-4068-8621-d0b46d897a3d",
+      "latitude": -34.883243,
+      "longitude": 138.559329,
+      "street": "Rowell Cr",
+      "city": "West Croydon",
+      "type": "mobile",
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T07:10:51Z"
+    },
+    {
+      "id": "83a9b203-f6ce-43c8-8662-1014e690671e",
+      "latitude": -35.132298,
+      "longitude": 138.498533,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T05:03:49Z"
+    },
+    {
       "id": "5727b1bf-df5a-4355-a4ba-d9bbc8458a17",
       "latitude": -35.134227,
       "longitude": 138.513119,
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
+      "timestamp": "2025-12-18T07:22:48Z",
       "reported_at": "2025-12-18T05:07:12Z"
     },
     {
-      "id": "2dafc9c2-aa04-4f84-ab1d-a2ec6d4efb7e",
-      "latitude": -34.881131,
-      "longitude": 138.683256,
+      "id": "5c0b1c37-1d35-4e32-b5f0-611d19c412a2",
+      "latitude": -35.097858,
+      "longitude": 138.524235,
+      "street": "The Strand",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T05:09:23Z"
+    },
+    {
+      "id": "47ea88d2-123b-456f-9e46-1a49eab99f43",
+      "latitude": -34.881192,
+      "longitude": 138.681918,
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T02:15:35Z"
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T01:44:30Z"
+    },
+    {
+      "id": "3f4a80f1-3923-4686-9a02-6f6708b22505",
+      "latitude": -35.114946,
+      "longitude": 138.569198,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
+      "type": "mobile",
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T06:26:09Z"
     },
     {
       "id": "c5c9cf92-6eb4-4505-9ec7-ac7abacc0955",
@@ -27,58 +67,18 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
+      "timestamp": "2025-12-18T07:22:48Z",
       "reported_at": "2025-12-18T05:05:23Z"
     },
     {
-      "id": "9fe08d57-6a5a-4c8e-a4e9-dde8a068394e",
-      "latitude": -34.673821,
-      "longitude": 138.661169,
-      "street": "President Av",
-      "city": "Andrews Farm",
+      "id": "92d00516-0ca0-4b2e-9b72-5a48ac5243ec",
+      "latitude": -34.73373,
+      "longitude": 138.661571,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T06:16:36Z"
-    },
-    {
-      "id": "d1994091-4114-4112-a45d-fe5ffef3aa77",
-      "latitude": -34.836329,
-      "longitude": 138.620448,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T01:46:41Z"
-    },
-    {
-      "id": "c7a34f1b-34b3-458a-94d4-f709f73842f2",
-      "latitude": -35.091508,
-      "longitude": 138.612492,
-      "street": "Grants Gully Rd",
-      "city": "Chandlers Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T05:05:09Z"
-    },
-    {
-      "id": "a738066a-f727-4d0f-aaa1-ee48e9af0aac",
-      "latitude": -35.104852,
-      "longitude": 138.531498,
-      "street": "Pimpala Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T04:41:18Z"
-    },
-    {
-      "id": "a1f4d52a-1ba8-4d37-90ff-e5d2387f3dcf",
-      "latitude": -35.068107,
-      "longitude": 138.64258,
-      "street": "Cherry Gardens Rd",
-      "city": "Cherry Gardens",
-      "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T06:26:20Z"
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T06:55:26Z"
     },
     {
       "id": "6d75636d-12df-4918-990a-9f0cec827c42",
@@ -87,28 +87,28 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
+      "timestamp": "2025-12-18T07:22:48Z",
       "reported_at": "2025-12-18T06:28:15Z"
     },
     {
-      "id": "357c499a-4cb5-490a-986f-625e174219d4",
-      "latitude": -35.109963,
-      "longitude": 138.509606,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
+      "id": "7db70575-7d4a-460b-9611-21c2abe89961",
+      "latitude": -35.091605,
+      "longitude": 138.612498,
+      "street": "Grants Gully Rd",
+      "city": "Chandlers Hill",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T06:06:18Z"
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T05:09:18Z"
     },
     {
-      "id": "b4833a94-fec2-4130-b192-c4f99e2c6368",
-      "latitude": -34.927814,
-      "longitude": 138.61599,
-      "street": "Wakefield Rd",
-      "city": "Adelaide",
+      "id": "170a98be-78c0-4aba-8bbd-0a16381e21ce",
+      "latitude": -34.753838,
+      "longitude": 138.768518,
+      "street": "One Tree Hill Rd",
+      "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T05:57:33Z"
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T06:52:14Z"
     },
     {
       "id": "4e71baf6-78f3-44c6-9bb6-ad9cf4d1cd67",
@@ -117,28 +117,18 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
+      "timestamp": "2025-12-18T07:22:48Z",
       "reported_at": "2025-12-18T06:22:36Z"
     },
     {
-      "id": "f195fc0d-8d86-418c-87eb-b69bfece6e99",
-      "latitude": -34.843298,
-      "longitude": 138.603893,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
+      "id": "b0176566-6101-4f90-9eef-beec97bd1a05",
+      "latitude": -35.104927,
+      "longitude": 138.529988,
+      "street": "Pimpala Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T06:13:14Z"
-    },
-    {
-      "id": "0d3e0fe2-0ddd-4691-8ca6-391313932caa",
-      "latitude": -34.784088,
-      "longitude": 138.582388,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2025-12-18T06:34:43Z",
-      "reported_at": "2025-12-18T06:23:47Z"
+      "timestamp": "2025-12-18T07:22:48Z",
+      "reported_at": "2025-12-18T06:57:33Z"
     }
   ]
 }
