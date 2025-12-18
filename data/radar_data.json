@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "6a4acb0a-22f7-4f6f-bdaf-6ba044d4878e",
-      "latitude": -34.958057,
-      "longitude": 138.509668,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "83a9b203-f6ce-43c8-8662-1014e690671e",
+      "latitude": -35.132298,
+      "longitude": 138.498533,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
-      "reported_at": "2025-12-18T04:56:48Z"
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T05:03:49Z"
     },
     {
       "id": "c5c9cf92-6eb4-4505-9ec7-ac7abacc0955",
@@ -17,38 +17,48 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
+      "timestamp": "2025-12-18T05:46:29Z",
       "reported_at": "2025-12-18T05:05:23Z"
     },
     {
-      "id": "47ea88d2-123b-456f-9e46-1a49eab99f43",
-      "latitude": -34.881192,
-      "longitude": 138.681918,
+      "id": "2dafc9c2-aa04-4f84-ab1d-a2ec6d4efb7e",
+      "latitude": -34.881131,
+      "longitude": 138.683256,
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
-      "reported_at": "2025-12-18T01:44:30Z"
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T02:15:35Z"
     },
     {
-      "id": "43f400da-18ac-4c5b-bec4-c2427acef864",
-      "latitude": -35.114976,
-      "longitude": 138.568997,
+      "id": "4e8da768-c9ff-40f3-b342-bea33c96dbce",
+      "latitude": -35.115078,
+      "longitude": 138.568306,
       "street": "Bains Rd",
       "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
-      "reported_at": "2025-12-18T05:10:02Z"
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T05:10:06Z"
     },
     {
-      "id": "605d2f17-e044-4097-b7d8-427702661d74",
-      "latitude": -35.097672,
-      "longitude": 138.524322,
-      "street": "The Strand",
-      "city": "Reynella",
+      "id": "d1994091-4114-4112-a45d-fe5ffef3aa77",
+      "latitude": -34.836329,
+      "longitude": 138.620448,
+      "street": "South Tce",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
-      "reported_at": "2025-12-18T05:09:20Z"
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T01:46:41Z"
+    },
+    {
+      "id": "7db70575-7d4a-460b-9611-21c2abe89961",
+      "latitude": -35.091605,
+      "longitude": 138.612498,
+      "street": "Grants Gully Rd",
+      "city": "Chandlers Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T05:09:18Z"
     },
     {
       "id": "a738066a-f727-4d0f-aaa1-ee48e9af0aac",
@@ -57,7 +67,7 @@
       "street": "Pimpala Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
+      "timestamp": "2025-12-18T05:46:29Z",
       "reported_at": "2025-12-18T04:41:18Z"
     },
     {
@@ -67,18 +77,38 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
+      "timestamp": "2025-12-18T05:46:29Z",
       "reported_at": "2025-12-18T02:50:10Z"
     },
     {
-      "id": "d1994091-4114-4112-a45d-fe5ffef3aa77",
-      "latitude": -34.836329,
-      "longitude": 138.620448,
-      "street": "South Tce",
-      "city": "Pooraka",
+      "id": "1f50582a-c811-47b0-9b03-9567ab86f147",
+      "latitude": -34.828252,
+      "longitude": 138.685067,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2025-12-18T05:23:13Z",
-      "reported_at": "2025-12-18T01:46:41Z"
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T05:29:13Z"
+    },
+    {
+      "id": "ae35da03-8092-4f8c-a836-813ca700355b",
+      "latitude": -34.982637,
+      "longitude": 138.520293,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T05:34:06Z"
+    },
+    {
+      "id": "3ed59562-b68f-4a3c-a262-a672206cf8ce",
+      "latitude": -34.889311,
+      "longitude": 138.548425,
+      "street": "A7 - Port Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2025-12-18T05:46:29Z",
+      "reported_at": "2025-12-18T05:19:46Z"
     }
   ]
 }
