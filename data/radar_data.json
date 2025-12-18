@@ -1,74 +1,54 @@
 {
   "radars": [
     {
-      "id": "2f141b87-3c38-43ee-8e19-baf0f9dbc673",
-      "latitude": -34.946405,
-      "longitude": 138.565084,
-      "street": "Ritchie Tce",
-      "city": "Marleston",
+      "id": "7de88b8e-2ff9-43b3-b3d9-2c5bcfc9b3b7",
+      "latitude": -34.936193,
+      "longitude": 138.509574,
+      "street": "Davis St",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T20:59:07Z"
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-17T22:47:04Z"
     },
     {
-      "id": "533fa2a9-8fe1-44e8-a902-a3e3d88f23a2",
-      "latitude": -34.829156,
-      "longitude": 138.640241,
-      "street": "Belalie Rd",
+      "id": "215639ed-1538-408a-be91-7cd47ab4eccf",
+      "latitude": -34.977844,
+      "longitude": 138.579317,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:38:17Z"
+    },
+    {
+      "id": "f47cad96-25eb-4c32-84ff-34e0ac0d15f3",
+      "latitude": -34.830046,
+      "longitude": 138.642019,
+      "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T21:16:20Z"
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-17T22:59:50Z"
     },
     {
-      "id": "1e8fccc2-2e93-43e7-b1c2-3add116514bd",
-      "latitude": -34.867895,
-      "longitude": 138.691794,
-      "street": "George St",
-      "city": "Paradise",
+      "id": "dc42b453-852b-4629-8b2f-2e5bde697e8b",
+      "latitude": -34.901181,
+      "longitude": 138.609904,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T21:32:13Z"
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-17T23:25:49Z"
     },
     {
-      "id": "f0cfcf9d-c430-4782-87cb-c3592b3a684c",
-      "latitude": -35.134384,
-      "longitude": 138.517021,
-      "street": "Elizabeth Rd",
-      "city": "Morphett Vale",
+      "id": "a65c12e2-5f27-495d-86e0-117576dae151",
+      "latitude": -34.87185,
+      "longitude": 138.482222,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T21:24:07Z"
-    },
-    {
-      "id": "238e004f-c35b-4ab7-ae26-8493f1c148d8",
-      "latitude": -34.836366,
-      "longitude": 138.620524,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T21:27:40Z"
-    },
-    {
-      "id": "d1167abc-eef7-4e81-933b-c76e553652c1",
-      "latitude": -35.00355,
-      "longitude": 138.589408,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T23:15:42Z"
-    },
-    {
-      "id": "0de55e18-fec2-4ac6-b5df-818695475af0",
-      "latitude": -34.857763,
-      "longitude": 138.660044,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T21:04:40Z"
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-17T23:33:22Z"
     },
     {
       "id": "8b04c041-5227-4ae1-9807-48c7b181cfd0",
@@ -77,8 +57,68 @@
       "street": "Unknown Street",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
+      "timestamp": "2025-12-18T01:41:02Z",
       "reported_at": "2025-12-17T22:45:10Z"
+    },
+    {
+      "id": "e6da4847-041f-4129-9dd7-5d1611bdb6f0",
+      "latitude": -34.835574,
+      "longitude": 138.707288,
+      "street": "Tolley Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:05:52Z"
+    },
+    {
+      "id": "238e004f-c35b-4ab7-ae26-8493f1c148d8",
+      "latitude": -34.836366,
+      "longitude": 138.620524,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-17T21:27:40Z"
+    },
+    {
+      "id": "0118df8f-732e-4de3-bc48-d622f79c23b0",
+      "latitude": -34.942243,
+      "longitude": 138.618456,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:13:37Z"
+    },
+    {
+      "id": "cf37b531-4bc9-4835-b71e-4fcef7996587",
+      "latitude": -34.857721,
+      "longitude": 138.66086,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-17T21:21:05Z"
+    },
+    {
+      "id": "15858719-47ef-4664-bff2-4b41453e2b68",
+      "latitude": -35.139856,
+      "longitude": 138.486378,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:24:06Z"
+    },
+    {
+      "id": "eebb8106-1684-416b-945f-8d4548274b9e",
+      "latitude": -34.965928,
+      "longitude": 138.551646,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:12:25Z"
     },
     {
       "id": "005ebebd-9005-4225-b688-867a9d9b112c",
@@ -87,28 +127,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
+      "timestamp": "2025-12-18T01:41:02Z",
       "reported_at": "2025-12-17T21:23:33Z"
     },
     {
-      "id": "575de16d-c04d-4218-81a7-267521108a8b",
-      "latitude": -34.805572,
-      "longitude": 138.634495,
+      "id": "4cb83f22-c77f-437d-8997-f449c4bc8e6d",
+      "latitude": -34.842546,
+      "longitude": 138.604173,
       "street": "A20 - Main North Rd",
-      "city": "Parafield",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T23:33:15Z"
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:34:53Z"
     },
     {
-      "id": "31f1e9f0-11ba-47ba-9319-dbfe1e3ce74f",
-      "latitude": -34.894851,
-      "longitude": 138.643101,
-      "street": "A11 - Payneham Rd",
-      "city": "Payneham",
+      "id": "13185a17-96d8-433c-89d3-2ef88225ee73",
+      "latitude": -34.832932,
+      "longitude": 138.558851,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2025-12-17T23:41:30Z",
-      "reported_at": "2025-12-17T23:18:43Z"
+      "timestamp": "2025-12-18T01:41:02Z",
+      "reported_at": "2025-12-18T01:27:13Z"
     }
   ]
 }
