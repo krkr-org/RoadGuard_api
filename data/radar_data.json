@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "a7065525-005b-48c7-bbac-1b940e7292ea",
+      "latitude": -35.004555,
+      "longitude": 138.536009,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-01-05T22:30:13Z",
+      "reported_at": "2026-01-05T22:06:53Z"
+    },
+    {
       "id": "d3531568-f55a-42b4-94cc-400dbf82bbfa",
       "latitude": -34.888359,
       "longitude": 138.487,
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-05T22:00:15Z",
+      "timestamp": "2026-01-05T22:30:13Z",
       "reported_at": "2026-01-05T21:35:32Z"
+    },
+    {
+      "id": "3daf4e59-f5f9-4d16-a227-ea6ac5fb7cd0",
+      "latitude": -35.110394,
+      "longitude": 138.509628,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-05T22:30:13Z",
+      "reported_at": "2026-01-05T22:02:59Z"
     },
     {
       "id": "029de49e-377d-4f80-bd84-bfbf0187f174",
@@ -17,7 +37,7 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-05T22:00:15Z",
+      "timestamp": "2026-01-05T22:30:13Z",
       "reported_at": "2026-01-05T21:50:18Z"
     },
     {
@@ -27,37 +47,37 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-01-05T22:00:15Z",
+      "timestamp": "2026-01-05T22:30:13Z",
       "reported_at": "2026-01-05T20:51:43Z"
     },
     {
-      "id": "e585d688-35f5-487a-97aa-6ec42ccd095c",
-      "latitude": -34.888187,
-      "longitude": 138.62806,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
+      "id": "899935d4-884f-4c83-b3c5-6ab3d28ef6bd",
+      "latitude": -34.751741,
+      "longitude": 138.655821,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-05T22:00:15Z",
-      "reported_at": "2026-01-05T21:35:16Z"
+      "timestamp": "2026-01-05T22:30:13Z",
+      "reported_at": "2026-01-05T22:02:20Z"
     },
     {
-      "id": "f55c6b03-6938-4d9c-920e-40ebb5b4cf92",
-      "latitude": -34.833816,
-      "longitude": 138.544576,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "ebc64dbc-7bb5-4e04-a724-3b4a8ed448ba",
+      "latitude": -34.727656,
+      "longitude": 138.674749,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-05T22:00:15Z",
-      "reported_at": "2026-01-05T21:40:55Z"
+      "timestamp": "2026-01-05T22:30:13Z",
+      "reported_at": "2026-01-05T22:15:45Z"
     },
     {
       "id": "a8ba0b9a-2d4c-4578-a1a6-2e0da90d9648",
-      "latitude": -34.83408,
-      "longitude": 138.539393,
+      "latitude": -34.834234,
+      "longitude": 138.5362,
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-05T22:00:15Z",
+      "timestamp": "2026-01-05T22:30:13Z",
       "reported_at": "2026-01-05T20:52:52Z"
     }
   ]
