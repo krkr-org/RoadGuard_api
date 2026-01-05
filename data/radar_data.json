@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "a8062156-c516-471d-9135-fbd9bac09fbe",
-      "latitude": -34.88857,
-      "longitude": 138.487157,
-      "street": "Military Rd",
-      "city": "Tennyson",
+      "id": "3d41a6e1-aba0-44b6-b584-24023d597536",
+      "latitude": -34.82542,
+      "longitude": 138.498799,
+      "street": "Jetty Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-01-05T23:00:16Z",
-      "reported_at": "2026-01-05T22:34:19Z"
+      "timestamp": "2026-01-05T23:37:44Z",
+      "reported_at": "2026-01-05T21:10:42Z"
     },
     {
-      "id": "221f9f77-be1f-471c-ad36-fe8540ff2c28",
-      "latitude": -34.83404,
-      "longitude": 138.540185,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "04d3bc23-9c30-4626-ab46-ef3b48d7d658",
+      "latitude": -34.833424,
+      "longitude": 138.497289,
+      "street": "Hargrave St",
+      "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-05T23:00:16Z",
-      "reported_at": "2026-01-05T22:44:33Z"
+      "timestamp": "2026-01-05T23:37:44Z",
+      "reported_at": "2026-01-05T21:56:06Z"
+    },
+    {
+      "id": "2448b766-d9c2-4743-aefc-cf694b9286b6",
+      "latitude": -34.829433,
+      "longitude": 138.484033,
+      "street": "Unknown Street",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2026-01-05T23:37:44Z",
+      "reported_at": "2026-01-05T22:07:01Z"
+    },
+    {
+      "id": "77a611d3-d28c-4751-9889-c7d8505eccb8",
+      "latitude": -34.974556,
+      "longitude": 138.627199,
+      "street": "B28 - Fullarton Rd",
+      "city": "Netherby",
+      "type": "mobile",
+      "timestamp": "2026-01-05T23:37:44Z",
+      "reported_at": "2026-01-05T23:21:13Z"
     },
     {
       "id": "a8ba0b9a-2d4c-4578-a1a6-2e0da90d9648",
@@ -27,7 +47,7 @@
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-05T23:00:16Z",
+      "timestamp": "2026-01-05T23:37:44Z",
       "reported_at": "2026-01-05T20:52:52Z"
     }
   ]
