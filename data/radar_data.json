@@ -7,7 +7,7 @@
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
+      "timestamp": "2026-01-05T08:17:47Z",
       "reported_at": "2026-01-05T06:42:45Z"
     },
     {
@@ -17,38 +17,8 @@
       "street": "Woodland Way",
       "city": "Teringie",
       "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
+      "timestamp": "2026-01-05T08:17:47Z",
       "reported_at": "2026-01-05T05:39:18Z"
-    },
-    {
-      "id": "5adc96ef-4c88-4496-a679-dda60d098298",
-      "latitude": -34.928733,
-      "longitude": 138.534315,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
-      "reported_at": "2026-01-05T06:17:41Z"
-    },
-    {
-      "id": "514e234b-0128-49ae-8a57-c1f10eb984d6",
-      "latitude": -35.06244,
-      "longitude": 138.518565,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
-      "reported_at": "2026-01-05T07:00:38Z"
-    },
-    {
-      "id": "17356dab-44ed-439c-956d-f3f52c7b319d",
-      "latitude": -34.977762,
-      "longitude": 138.580912,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
-      "reported_at": "2026-01-05T05:25:58Z"
     },
     {
       "id": "9abfae58-0f17-4090-8be4-dce8ddab661e",
@@ -57,8 +27,18 @@
       "street": "Adams Rd",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
+      "timestamp": "2026-01-05T08:17:47Z",
       "reported_at": "2026-01-05T05:36:20Z"
+    },
+    {
+      "id": "17356dab-44ed-439c-956d-f3f52c7b319d",
+      "latitude": -34.977762,
+      "longitude": 138.580912,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-05T08:17:47Z",
+      "reported_at": "2026-01-05T05:25:58Z"
     },
     {
       "id": "429bdffc-1799-4eb6-aaff-fb8d89058a3a",
@@ -67,28 +47,8 @@
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
+      "timestamp": "2026-01-05T08:17:47Z",
       "reported_at": "2026-01-05T06:42:18Z"
-    },
-    {
-      "id": "74561f7f-4b94-41ef-a4e8-5f43ef3daad5",
-      "latitude": -35.072801,
-      "longitude": 138.526713,
-      "street": "Lander Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
-      "reported_at": "2026-01-05T06:54:32Z"
-    },
-    {
-      "id": "677931ef-3e80-4fee-bc38-16a171970028",
-      "latitude": -34.979915,
-      "longitude": 138.566971,
-      "street": "Raglan Av",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
-      "reported_at": "2026-01-05T07:05:27Z"
     },
     {
       "id": "1a357a8c-3779-4ef9-a54d-7f10109ed5a0",
@@ -97,18 +57,48 @@
       "street": "Gawler St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
+      "timestamp": "2026-01-05T08:17:47Z",
       "reported_at": "2026-01-05T05:09:44Z"
     },
     {
-      "id": "2e2270db-e99d-4c84-a645-be3bbbdc8258",
-      "latitude": -35.022833,
-      "longitude": 138.561308,
+      "id": "677931ef-3e80-4fee-bc38-16a171970028",
+      "latitude": -34.979915,
+      "longitude": 138.566971,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-01-05T08:17:47Z",
+      "reported_at": "2026-01-05T07:05:27Z"
+    },
+    {
+      "id": "e6e6480b-5ac1-44af-8c54-f0e95e90c845",
+      "latitude": -35.010852,
+      "longitude": 138.581622,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-01-05T08:17:47Z",
+      "reported_at": "2026-01-05T08:15:09Z"
+    },
+    {
+      "id": "f23b58b9-cd2c-4ddb-a7ef-8fc7f0759571",
+      "latitude": -35.040939,
+      "longitude": 138.529238,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-01-05T08:17:47Z",
+      "reported_at": "2026-01-05T07:45:42Z"
+    },
+    {
+      "id": "464cf5d6-e74c-4379-aee1-9107e4d85cc3",
+      "latitude": -35.035072,
+      "longitude": 138.557084,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-01-05T07:28:16Z",
-      "reported_at": "2026-01-05T07:22:36Z"
+      "timestamp": "2026-01-05T08:17:47Z",
+      "reported_at": "2026-01-05T08:02:36Z"
     }
   ]
 }
