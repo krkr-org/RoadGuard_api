@@ -1,74 +1,124 @@
 {
   "radars": [
     {
-      "id": "0d8d0d78-5521-445b-b9c2-f7e9ef51c3d3",
-      "latitude": -35.134184,
-      "longitude": 138.513978,
-      "street": "Elizabeth Rd",
-      "city": "Morphett Vale",
+      "id": "74457e02-7cc7-4c47-bf55-427d746ea669",
+      "latitude": -34.796327,
+      "longitude": 138.648777,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T07:55:36Z"
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T02:59:11Z"
     },
     {
-      "id": "83a9b203-f6ce-43c8-8662-1014e690671e",
-      "latitude": -35.132298,
-      "longitude": 138.498533,
-      "street": "Morton Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T05:03:49Z"
-    },
-    {
-      "id": "5c0b1c37-1d35-4e32-b5f0-611d19c412a2",
-      "latitude": -35.097858,
-      "longitude": 138.524235,
-      "street": "The Strand",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T05:09:23Z"
-    },
-    {
-      "id": "3f4a80f1-3923-4686-9a02-6f6708b22505",
-      "latitude": -35.114946,
-      "longitude": 138.569198,
-      "street": "Bains Rd",
-      "city": "Onkaparinga Hills",
-      "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T06:26:09Z"
-    },
-    {
-      "id": "c7a34f1b-34b3-458a-94d4-f709f73842f2",
-      "latitude": -35.091508,
-      "longitude": 138.612492,
-      "street": "Grants Gully Rd",
-      "city": "Chandlers Hill",
-      "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T05:05:09Z"
-    },
-    {
-      "id": "05038292-83d5-4cb6-b2e7-c08d449d9c0c",
-      "latitude": -35.028547,
-      "longitude": 138.552297,
-      "street": "Seacombe Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T08:03:46Z"
-    },
-    {
-      "id": "a738066a-f727-4d0f-aaa1-ee48e9af0aac",
-      "latitude": -35.104963,
-      "longitude": 138.529261,
+      "id": "a72546ef-2ded-4937-8150-793b9cda44b9",
+      "latitude": -35.103826,
+      "longitude": 138.550763,
       "street": "Pimpala Rd",
-      "city": "Old Reynella",
+      "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2025-12-18T08:30:32Z",
-      "reported_at": "2025-12-18T04:41:18Z"
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T06:11:48Z"
+    },
+    {
+      "id": "17356dab-44ed-439c-956d-f3f52c7b319d",
+      "latitude": -34.977762,
+      "longitude": 138.580912,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T05:25:58Z"
+    },
+    {
+      "id": "dd142e88-dbe9-47cd-8fc4-1991c5ee9c1b",
+      "latitude": -34.918259,
+      "longitude": 138.562521,
+      "street": "Ashley St",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T05:45:35Z"
+    },
+    {
+      "id": "8af660a3-31ef-42a8-9ce6-20ecaeb5953d",
+      "latitude": -34.885665,
+      "longitude": 138.519241,
+      "street": "Clark Tce",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T06:01:58Z"
+    },
+    {
+      "id": "22e7cff5-916d-4e2c-b0f8-75f00cd3f41b",
+      "latitude": -34.88334,
+      "longitude": 138.485822,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T06:05:31Z"
+    },
+    {
+      "id": "d9bcba37-a289-4c22-a133-cb2dac3a675e",
+      "latitude": -34.979826,
+      "longitude": 138.568823,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T04:54:15Z"
+    },
+    {
+      "id": "3eed4058-c44f-4a26-b5e9-df176f2186d4",
+      "latitude": -34.857145,
+      "longitude": 138.671673,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T05:31:33Z"
+    },
+    {
+      "id": "693fa57e-0f33-4b1c-b03a-5500b252e4ad",
+      "latitude": -34.921879,
+      "longitude": 138.593399,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T06:00:49Z"
+    },
+    {
+      "id": "1a357a8c-3779-4ef9-a54d-7f10109ed5a0",
+      "latitude": -34.758631,
+      "longitude": 138.644371,
+      "street": "Gawler St",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T05:09:44Z"
+    },
+    {
+      "id": "ead62f2f-fc52-45c2-8e3f-22952734b2fe",
+      "latitude": -34.965763,
+      "longitude": 138.554954,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T06:06:46Z"
+    },
+    {
+      "id": "dff3db24-8a2a-4d83-954c-fa91b30da8e6",
+      "latitude": -34.693707,
+      "longitude": 138.584817,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-05T06:18:56Z",
+      "reported_at": "2026-01-05T05:47:53Z"
     }
   ]
 }
