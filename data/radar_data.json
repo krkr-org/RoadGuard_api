@@ -1,3 +1,44 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "93a6ce5a-be31-472c-81f4-ff6a2869da2b",
+      "latitude": -34.718776,
+      "longitude": 138.766117,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-05T21:00:16Z",
+      "reported_at": "2026-01-05T20:51:43Z"
+    },
+    {
+      "id": "fb1b0ecb-ae5a-42b5-9c5b-917bdfac3c7f",
+      "latitude": -34.678644,
+      "longitude": 138.696627,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-01-05T21:00:16Z",
+      "reported_at": "2026-01-05T20:36:14Z"
+    },
+    {
+      "id": "8749f8ad-7ee1-42a0-9cd6-62b8b71779ba",
+      "latitude": -34.887557,
+      "longitude": 138.627387,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-01-05T21:00:16Z",
+      "reported_at": "2026-01-05T20:29:09Z"
+    },
+    {
+      "id": "a8ba0b9a-2d4c-4578-a1a6-2e0da90d9648",
+      "latitude": -34.834234,
+      "longitude": 138.5362,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-05T21:00:16Z",
+      "reported_at": "2026-01-05T20:52:52Z"
+    }
+  ]
 }
