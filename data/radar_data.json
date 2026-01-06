@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "145fd4d1-8692-4db6-8b9d-f1e5a60e5eb2",
+      "latitude": -34.981181,
+      "longitude": 138.511637,
+      "street": "St Johns Row",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T05:48:45Z"
+    },
+    {
       "id": "09d591f0-ed71-4cc4-a228-a45b77b2d028",
       "latitude": -34.72477,
       "longitude": 138.632665,
       "street": "Sturton Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
+      "timestamp": "2026-01-06T09:30:15Z",
       "reported_at": "2026-01-06T06:31:23Z"
-    },
-    {
-      "id": "3ac0f62d-3f21-47bf-9279-6cd827c3ed10",
-      "latitude": -34.696396,
-      "longitude": 138.642199,
-      "street": "Andrews Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
-      "reported_at": "2026-01-06T05:36:54Z"
-    },
-    {
-      "id": "1f075414-3706-4eec-bc7b-5bcc844c9f61",
-      "latitude": -34.736878,
-      "longitude": 138.64571,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
-      "reported_at": "2026-01-06T08:22:06Z"
     },
     {
       "id": "03a6f557-3a8d-4945-ba6f-cb86039f5f63",
@@ -37,8 +27,38 @@
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
+      "timestamp": "2026-01-06T09:30:15Z",
       "reported_at": "2026-01-06T06:33:12Z"
+    },
+    {
+      "id": "1f075414-3706-4eec-bc7b-5bcc844c9f61",
+      "latitude": -34.736878,
+      "longitude": 138.64571,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T08:22:06Z"
+    },
+    {
+      "id": "3ac0f62d-3f21-47bf-9279-6cd827c3ed10",
+      "latitude": -34.696396,
+      "longitude": 138.642199,
+      "street": "Andrews Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T05:36:54Z"
+    },
+    {
+      "id": "f5030a00-f682-4b3d-ad0b-2b537ee1be02",
+      "latitude": -34.807947,
+      "longitude": 138.651243,
+      "street": "Kesters Rd",
+      "city": "Para Hills",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T08:51:59Z"
     },
     {
       "id": "a99f35db-be5e-4ee7-9899-af10eeda6398",
@@ -47,8 +67,28 @@
       "street": "Yorktown Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
+      "timestamp": "2026-01-06T09:30:15Z",
       "reported_at": "2026-01-06T08:08:16Z"
+    },
+    {
+      "id": "95708245-319d-4338-a1fd-44d2b387d86b",
+      "latitude": -34.990399,
+      "longitude": 138.6007,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T09:13:00Z"
+    },
+    {
+      "id": "497b3d1f-722e-4fae-8bc5-e0b742f51c9b",
+      "latitude": -34.745629,
+      "longitude": 138.608826,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T06:59:06Z"
     },
     {
       "id": "2b7671a9-f24b-4fab-97ae-f3a3c642df2d",
@@ -57,28 +97,18 @@
       "street": "Tolmer Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
+      "timestamp": "2026-01-06T09:30:15Z",
       "reported_at": "2026-01-06T05:52:32Z"
     },
     {
-      "id": "12e55afb-f819-4dad-86db-6deece4d406e",
-      "latitude": -35.008083,
-      "longitude": 138.586968,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
-      "reported_at": "2026-01-06T08:22:35Z"
-    },
-    {
-      "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
-      "latitude": -34.769659,
-      "longitude": 138.619058,
+      "id": "cd7518af-f5ab-464d-b0dd-c8d0b9bc8276",
+      "latitude": -34.770137,
+      "longitude": 138.618635,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
-      "reported_at": "2026-01-06T04:53:04Z"
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T09:05:28Z"
     },
     {
       "id": "5411d20b-0c92-4fed-b771-6e9e08a3100a",
@@ -87,8 +117,18 @@
       "street": "Yorktown Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
+      "timestamp": "2026-01-06T09:30:15Z",
       "reported_at": "2026-01-06T08:28:28Z"
+    },
+    {
+      "id": "12e55afb-f819-4dad-86db-6deece4d406e",
+      "latitude": -35.008083,
+      "longitude": 138.586968,
+      "street": "Fiveash Dr",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T08:22:35Z"
     },
     {
       "id": "f2971064-2af1-4cce-8ba5-ce75e62beae7",
@@ -97,8 +137,18 @@
       "street": "Peachey Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-06T09:00:16Z",
+      "timestamp": "2026-01-06T09:30:15Z",
       "reported_at": "2026-01-06T06:43:28Z"
+    },
+    {
+      "id": "58c6ac71-ea74-4511-b77d-1ab82a40b02d",
+      "latitude": -34.880207,
+      "longitude": 138.512896,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-06T09:30:15Z",
+      "reported_at": "2026-01-06T09:01:10Z"
     }
   ]
 }
