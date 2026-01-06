@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "c22e8352-762b-4026-bcc3-fa85666e3419",
-      "latitude": -34.745201,
-      "longitude": 138.646644,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
-      "reported_at": "2026-01-06T00:36:21Z"
-    },
-    {
       "id": "04d3bc23-9c30-4626-ab46-ef3b48d7d658",
       "latitude": -34.833424,
       "longitude": 138.497289,
       "street": "Hargrave St",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
+      "timestamp": "2026-01-06T01:30:18Z",
       "reported_at": "2026-01-05T21:56:06Z"
     },
     {
@@ -27,28 +17,8 @@
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
+      "timestamp": "2026-01-06T01:30:18Z",
       "reported_at": "2026-01-05T23:33:14Z"
-    },
-    {
-      "id": "1eaec3f0-1bab-437c-a816-793253f54a7b",
-      "latitude": -34.990403,
-      "longitude": 138.600624,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
-      "reported_at": "2026-01-06T00:52:18Z"
-    },
-    {
-      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
-      "latitude": -34.836013,
-      "longitude": 138.488383,
-      "street": "Woolnough Rd",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
-      "reported_at": "2026-01-05T22:25:40Z"
     },
     {
       "id": "2448b766-d9c2-4743-aefc-cf694b9286b6",
@@ -57,8 +27,28 @@
       "street": "Unknown Street",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
+      "timestamp": "2026-01-06T01:30:18Z",
       "reported_at": "2026-01-05T22:07:01Z"
+    },
+    {
+      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
+      "latitude": -34.836013,
+      "longitude": 138.488383,
+      "street": "Woolnough Rd",
+      "city": "Semaphore",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:30:18Z",
+      "reported_at": "2026-01-05T22:25:40Z"
+    },
+    {
+      "id": "1eaec3f0-1bab-437c-a816-793253f54a7b",
+      "latitude": -34.990403,
+      "longitude": 138.600624,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:30:18Z",
+      "reported_at": "2026-01-06T00:52:18Z"
     },
     {
       "id": "0e7015c2-4eea-4ee1-8fd4-9303b20e88fd",
@@ -67,8 +57,18 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
+      "timestamp": "2026-01-06T01:30:18Z",
       "reported_at": "2026-01-05T23:06:20Z"
+    },
+    {
+      "id": "67dfd5ba-e453-4209-a048-6c2ec2e03260",
+      "latitude": -34.752283,
+      "longitude": 138.653079,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:30:18Z",
+      "reported_at": "2026-01-06T01:05:06Z"
     },
     {
       "id": "c2d2c279-ab6d-4f4a-8259-a65aedb87f4f",
@@ -77,18 +77,8 @@
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
+      "timestamp": "2026-01-06T01:30:18Z",
       "reported_at": "2026-01-06T00:55:31Z"
-    },
-    {
-      "id": "c8d379a5-92d5-4ded-902b-e4e762dca10f",
-      "latitude": -35.065788,
-      "longitude": 138.545359,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:24Z",
-      "reported_at": "2026-01-06T00:55:37Z"
     }
   ]
 }
