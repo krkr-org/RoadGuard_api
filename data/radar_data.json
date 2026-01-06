@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "ab5f0dc8-9f2d-42ae-9d73-9943fcf61bbf",
-      "latitude": -35.005795,
-      "longitude": 138.581726,
-      "street": "Quinlan Av",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
-      "reported_at": "2026-01-06T20:48:22Z"
-    },
-    {
       "id": "4bfe7c2c-1df6-49de-8851-7342aeef2575",
       "latitude": -34.968323,
       "longitude": 138.544121,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
+      "timestamp": "2026-01-06T23:00:14Z",
       "reported_at": "2026-01-06T21:31:05Z"
+    },
+    {
+      "id": "ab5f0dc8-9f2d-42ae-9d73-9943fcf61bbf",
+      "latitude": -35.005795,
+      "longitude": 138.581726,
+      "street": "Quinlan Av",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-01-06T23:00:14Z",
+      "reported_at": "2026-01-06T20:48:22Z"
     },
     {
       "id": "487faa6b-49d0-4e5e-ba97-d51eec69380d",
@@ -27,28 +27,8 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
+      "timestamp": "2026-01-06T23:00:14Z",
       "reported_at": "2026-01-06T20:48:26Z"
-    },
-    {
-      "id": "fb32bae1-19c1-4711-ab33-24b93f3ddcdd",
-      "latitude": -34.747181,
-      "longitude": 138.607443,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
-      "reported_at": "2026-01-06T21:42:16Z"
-    },
-    {
-      "id": "a0b0e2d4-8d93-47a7-99fb-f0bdb8eac3ba",
-      "latitude": -34.990417,
-      "longitude": 138.600356,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
-      "reported_at": "2026-01-06T22:10:46Z"
     },
     {
       "id": "e01239c7-5c88-4059-9c8b-3d36c5732549",
@@ -57,18 +37,38 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
+      "timestamp": "2026-01-06T23:00:14Z",
       "reported_at": "2026-01-06T21:01:57Z"
     },
     {
-      "id": "525e345b-0aa0-49c3-b07c-fe9a60110409",
-      "latitude": -34.961823,
-      "longitude": 138.644106,
+      "id": "29ee6df3-9f75-4bb1-91ab-a9b7a81c8363",
+      "latitude": -34.990693,
+      "longitude": 138.594823,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-06T23:00:14Z",
+      "reported_at": "2026-01-06T22:10:36Z"
+    },
+    {
+      "id": "fb32bae1-19c1-4711-ab33-24b93f3ddcdd",
+      "latitude": -34.747181,
+      "longitude": 138.607443,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-01-06T23:00:14Z",
+      "reported_at": "2026-01-06T21:42:16Z"
+    },
+    {
+      "id": "8889861a-c9ef-4d06-af63-406ced8e0831",
+      "latitude": -34.962102,
+      "longitude": 138.644134,
       "street": "A17 - Portrush Rd",
       "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-01-06T22:30:13Z",
-      "reported_at": "2026-01-06T20:31:47Z"
+      "timestamp": "2026-01-06T23:00:14Z",
+      "reported_at": "2026-01-06T22:56:03Z"
     }
   ]
 }
