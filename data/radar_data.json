@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "f02f7ede-d580-403a-9ed2-3ed1752bc7c9",
-      "latitude": -34.724556,
-      "longitude": 138.632166,
-      "street": "Sturton Rd",
-      "city": "Edinburgh",
+      "id": "411ab235-8141-4639-8b07-0d115de6ba8f",
+      "latitude": -34.914749,
+      "longitude": 138.586026,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
-      "reported_at": "2026-01-06T05:08:27Z"
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T04:49:45Z"
     },
     {
       "id": "7ea2ba6c-a7bc-4f71-a45e-1d4b7b2e1979",
@@ -17,18 +17,38 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
+      "timestamp": "2026-01-06T06:00:15Z",
       "reported_at": "2026-01-06T01:40:43Z"
     },
     {
-      "id": "7b955229-19c8-4066-a1ac-7be349df7b13",
-      "latitude": -34.743735,
-      "longitude": 138.647582,
-      "street": "Purling Av",
+      "id": "89818bd8-c5db-4755-813f-94f7aec6c397",
+      "latitude": -34.715872,
+      "longitude": 138.647065,
+      "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
-      "reported_at": "2026-01-06T05:05:07Z"
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:34:06Z"
+    },
+    {
+      "id": "3ac0f62d-3f21-47bf-9279-6cd827c3ed10",
+      "latitude": -34.696396,
+      "longitude": 138.642199,
+      "street": "Andrews Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:36:54Z"
+    },
+    {
+      "id": "1c70d49e-1130-4a9a-8137-51c3bfe0c887",
+      "latitude": -34.675022,
+      "longitude": 138.686613,
+      "street": "Curtis Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:50:18Z"
     },
     {
       "id": "ccf5d560-505a-4b75-b72d-170e75c30e6b",
@@ -37,8 +57,38 @@
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
+      "timestamp": "2026-01-06T06:00:15Z",
       "reported_at": "2026-01-06T04:49:00Z"
+    },
+    {
+      "id": "861f65b1-0779-4064-b8b5-8f494427a769",
+      "latitude": -34.708545,
+      "longitude": 138.681642,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:12:19Z"
+    },
+    {
+      "id": "f6951fa6-8f47-4349-8f6b-0004576d4ab0",
+      "latitude": -34.674148,
+      "longitude": 138.677731,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:33:54Z"
+    },
+    {
+      "id": "89e5c15a-70a2-4c5d-a52e-37e2b7f54101",
+      "latitude": -34.700717,
+      "longitude": 138.663473,
+      "street": "Womma Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:39:11Z"
     },
     {
       "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
@@ -47,18 +97,8 @@
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
+      "timestamp": "2026-01-06T06:00:15Z",
       "reported_at": "2026-01-06T04:53:04Z"
-    },
-    {
-      "id": "f1d2918a-e330-4f31-ac25-274cec56b24c",
-      "latitude": -34.693749,
-      "longitude": 138.647404,
-      "street": "Womma Rd",
-      "city": "Eyre",
-      "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
-      "reported_at": "2026-01-06T05:07:28Z"
     },
     {
       "id": "8735aa0e-51a8-4a8e-afd4-87d9d2cd9fe1",
@@ -67,38 +107,18 @@
       "street": "Woolnough Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
+      "timestamp": "2026-01-06T06:00:15Z",
       "reported_at": "2026-01-06T04:15:26Z"
     },
     {
-      "id": "504df171-e514-4b11-9258-826ad1c70a5d",
-      "latitude": -34.932342,
-      "longitude": 138.559252,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Cowandilla",
+      "id": "511775cd-4c9e-44fb-bc4d-e60627de7731",
+      "latitude": -34.927268,
+      "longitude": 138.59378,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
-      "reported_at": "2026-01-06T01:56:39Z"
-    },
-    {
-      "id": "a2700110-e612-4255-814f-234819aba468",
-      "latitude": -34.669966,
-      "longitude": 138.547652,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
-      "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
-      "reported_at": "2026-01-06T04:57:15Z"
-    },
-    {
-      "id": "532cb2cf-4370-4947-9d9d-2bd654d986be",
-      "latitude": -35.029476,
-      "longitude": 138.81003,
-      "street": "B34 - Main St",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-06T05:30:15Z",
-      "reported_at": "2026-01-06T05:19:33Z"
+      "timestamp": "2026-01-06T06:00:15Z",
+      "reported_at": "2026-01-06T05:30:54Z"
     }
   ]
 }
