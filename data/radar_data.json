@@ -1,54 +1,44 @@
 {
   "radars": [
     {
+      "id": "09d591f0-ed71-4cc4-a228-a45b77b2d028",
+      "latitude": -34.72477,
+      "longitude": 138.632665,
+      "street": "Sturton Rd",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T06:31:23Z"
+    },
+    {
       "id": "3ac0f62d-3f21-47bf-9279-6cd827c3ed10",
       "latitude": -34.696396,
       "longitude": 138.642199,
       "street": "Andrews Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
+      "timestamp": "2026-01-06T07:30:14Z",
       "reported_at": "2026-01-06T05:36:54Z"
     },
     {
-      "id": "fd04a293-f8b1-42f4-b245-25b47d562e96",
-      "latitude": -34.701196,
-      "longitude": 138.689931,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
+      "id": "c7d5a966-7420-4fc7-8bde-45928c74bf7d",
+      "latitude": -34.856587,
+      "longitude": 138.639396,
+      "street": "Sir Ross Smith Bvd",
+      "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T05:47:20Z"
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T07:16:27Z"
     },
     {
-      "id": "17ac0a5a-fe83-4ed4-a111-a6d743c50f6c",
-      "latitude": -35.017079,
-      "longitude": 138.558508,
-      "street": "Sturt Rd",
-      "city": "Sturt",
+      "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
+      "latitude": -34.769659,
+      "longitude": 138.619058,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T06:52:33Z"
-    },
-    {
-      "id": "912e6bb2-eed2-4bea-8e89-6b7be85aa6be",
-      "latitude": -34.745833,
-      "longitude": 138.608643,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T05:00:02Z"
-    },
-    {
-      "id": "2b7671a9-f24b-4fab-97ae-f3a3c642df2d",
-      "latitude": -34.708786,
-      "longitude": 138.68221,
-      "street": "Tolmer Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T05:52:32Z"
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T04:53:04Z"
     },
     {
       "id": "f5c0cd2f-43d5-4fab-a95a-b335646931a2",
@@ -57,38 +47,18 @@
       "street": "Peachey Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
+      "timestamp": "2026-01-06T07:30:14Z",
       "reported_at": "2026-01-06T05:34:00Z"
     },
     {
-      "id": "b9d7a7af-37fa-4747-8b20-a85d41178dcc",
-      "latitude": -35.125345,
-      "longitude": 138.542869,
-      "street": "Unknown Street",
-      "city": "Morphett Vale",
+      "id": "8735aa0e-51a8-4a8e-afd4-87d9d2cd9fe1",
+      "latitude": -34.837831,
+      "longitude": 138.488781,
+      "street": "Woolnough Rd",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T06:46:29Z"
-    },
-    {
-      "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
-      "latitude": -34.770417,
-      "longitude": 138.618386,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T04:53:04Z"
-    },
-    {
-      "id": "3d8cdcfb-df77-43a2-a780-068d6d26869e",
-      "latitude": -35.12818,
-      "longitude": 138.536538,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T06:47:45Z"
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T04:15:26Z"
     },
     {
       "id": "ca91d155-9b8e-440e-8f06-301db1627ceb",
@@ -97,38 +67,48 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
+      "timestamp": "2026-01-06T07:30:14Z",
       "reported_at": "2026-01-06T06:47:28Z"
     },
     {
-      "id": "cf4dccda-1b1f-4479-b13f-071730faba63",
-      "latitude": -34.942145,
-      "longitude": 138.582808,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "id": "97ee0a06-e024-4c6c-bc2f-10f2db1eb150",
+      "latitude": -34.889275,
+      "longitude": 138.487257,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T06:39:31Z"
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T07:24:26Z"
     },
     {
-      "id": "38612024-99fb-404d-971c-e1782f01d220",
-      "latitude": -34.852281,
-      "longitude": 138.508685,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Port Adelaide",
+      "id": "2b7671a9-f24b-4fab-97ae-f3a3c642df2d",
+      "latitude": -34.708786,
+      "longitude": 138.68221,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T06:38:32Z"
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T05:52:32Z"
     },
     {
-      "id": "c5f24444-846b-4627-b514-2b4dbe46723d",
-      "latitude": -34.942164,
-      "longitude": 138.584259,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
+      "id": "49a4e297-fe9b-4ca1-a375-69e7123bada4",
+      "latitude": -34.904441,
+      "longitude": 138.551652,
+      "street": "A14 - Grange Rd",
+      "city": "Beverley",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:00:18Z",
-      "reported_at": "2026-01-06T06:34:52Z"
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T06:58:45Z"
+    },
+    {
+      "id": "b1ee4a7d-6f6c-49e7-bf1b-9847e742546f",
+      "latitude": -34.804296,
+      "longitude": 138.6359,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:30:14Z",
+      "reported_at": "2026-01-06T07:25:38Z"
     }
   ]
 }
