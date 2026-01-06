@@ -7,7 +7,7 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-06T00:36:21Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Hargrave St",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-05T21:56:06Z"
     },
     {
@@ -27,18 +27,8 @@
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-05T23:33:14Z"
-    },
-    {
-      "id": "2448b766-d9c2-4743-aefc-cf694b9286b6",
-      "latitude": -34.829433,
-      "longitude": 138.484033,
-      "street": "Unknown Street",
-      "city": "Unknown City",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
-      "reported_at": "2026-01-05T22:07:01Z"
     },
     {
       "id": "1eaec3f0-1bab-437c-a816-793253f54a7b",
@@ -47,7 +37,7 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-06T00:52:18Z"
     },
     {
@@ -57,8 +47,18 @@
       "street": "Woolnough Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-05T22:25:40Z"
+    },
+    {
+      "id": "2448b766-d9c2-4743-aefc-cf694b9286b6",
+      "latitude": -34.829433,
+      "longitude": 138.484033,
+      "street": "Unknown Street",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:24Z",
+      "reported_at": "2026-01-05T22:07:01Z"
     },
     {
       "id": "0e7015c2-4eea-4ee1-8fd4-9303b20e88fd",
@@ -67,28 +67,8 @@
       "street": "A6 - Burbridge Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-05T23:06:20Z"
-    },
-    {
-      "id": "0f851867-f148-4a22-98b1-dbd287d40b43",
-      "latitude": -34.832633,
-      "longitude": 138.572325,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
-      "reported_at": "2026-01-06T00:19:42Z"
-    },
-    {
-      "id": "c8d379a5-92d5-4ded-902b-e4e762dca10f",
-      "latitude": -35.065788,
-      "longitude": 138.545359,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
-      "reported_at": "2026-01-06T00:55:37Z"
     },
     {
       "id": "c2d2c279-ab6d-4f4a-8259-a65aedb87f4f",
@@ -97,8 +77,18 @@
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-06T01:00:06Z",
+      "timestamp": "2026-01-06T01:00:24Z",
       "reported_at": "2026-01-06T00:55:31Z"
+    },
+    {
+      "id": "c8d379a5-92d5-4ded-902b-e4e762dca10f",
+      "latitude": -35.065788,
+      "longitude": 138.545359,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:24Z",
+      "reported_at": "2026-01-06T00:55:37Z"
     }
   ]
 }
