@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "4bfe7c2c-1df6-49de-8851-7342aeef2575",
-      "latitude": -34.968323,
-      "longitude": 138.544121,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
-      "reported_at": "2026-01-06T21:31:05Z"
-    },
-    {
       "id": "ab5f0dc8-9f2d-42ae-9d73-9943fcf61bbf",
       "latitude": -35.005795,
       "longitude": 138.581726,
       "street": "Quinlan Av",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
+      "timestamp": "2026-01-06T23:30:13Z",
       "reported_at": "2026-01-06T20:48:22Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
+      "timestamp": "2026-01-06T23:30:13Z",
       "reported_at": "2026-01-06T20:48:26Z"
+    },
+    {
+      "id": "6ba59d6d-8a37-4c5f-84d4-38063563654b",
+      "latitude": -34.968385,
+      "longitude": 138.542874,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T23:30:13Z",
+      "reported_at": "2026-01-06T21:22:51Z"
     },
     {
       "id": "e01239c7-5c88-4059-9c8b-3d36c5732549",
@@ -37,8 +37,18 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
+      "timestamp": "2026-01-06T23:30:13Z",
       "reported_at": "2026-01-06T21:01:57Z"
+    },
+    {
+      "id": "3432b57b-ee4a-4c06-a4c5-10a1b37f8c57",
+      "latitude": -35.119759,
+      "longitude": 138.535909,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-06T23:30:13Z",
+      "reported_at": "2026-01-06T23:16:23Z"
     },
     {
       "id": "29ee6df3-9f75-4bb1-91ab-a9b7a81c8363",
@@ -47,18 +57,18 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
+      "timestamp": "2026-01-06T23:30:13Z",
       "reported_at": "2026-01-06T22:10:36Z"
     },
     {
-      "id": "fb32bae1-19c1-4711-ab33-24b93f3ddcdd",
-      "latitude": -34.747181,
-      "longitude": 138.607443,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
+      "id": "ac689ad8-5cd5-457d-8eb2-b40954966498",
+      "latitude": -35.11496,
+      "longitude": 138.538682,
+      "street": "Bains Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
-      "reported_at": "2026-01-06T21:42:16Z"
+      "timestamp": "2026-01-06T23:30:13Z",
+      "reported_at": "2026-01-06T22:59:04Z"
     },
     {
       "id": "8889861a-c9ef-4d06-af63-406ced8e0831",
@@ -67,8 +77,18 @@
       "street": "A17 - Portrush Rd",
       "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:00:14Z",
+      "timestamp": "2026-01-06T23:30:13Z",
       "reported_at": "2026-01-06T22:56:03Z"
+    },
+    {
+      "id": "b1e54482-8723-4a06-ba85-387ac73212e7",
+      "latitude": -34.966553,
+      "longitude": 138.585869,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T23:30:13Z",
+      "reported_at": "2026-01-06T23:08:31Z"
     }
   ]
 }
