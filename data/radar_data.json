@@ -1,54 +1,74 @@
 {
   "radars": [
     {
-      "id": "411ab235-8141-4639-8b07-0d115de6ba8f",
-      "latitude": -34.914749,
-      "longitude": 138.586026,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T04:49:45Z"
-    },
-    {
       "id": "3ac0f62d-3f21-47bf-9279-6cd827c3ed10",
       "latitude": -34.696396,
       "longitude": 138.642199,
       "street": "Andrews Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
+      "timestamp": "2026-01-06T07:00:18Z",
       "reported_at": "2026-01-06T05:36:54Z"
     },
     {
-      "id": "066aa483-60e7-4ece-a8b4-9364477d391c",
-      "latitude": -34.956432,
-      "longitude": 138.565642,
-      "street": "Unknown Street",
-      "city": "Kurralta Park",
+      "id": "fd04a293-f8b1-42f4-b245-25b47d562e96",
+      "latitude": -34.701196,
+      "longitude": 138.689931,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T05:58:25Z"
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T05:47:20Z"
     },
     {
-      "id": "861f65b1-0779-4064-b8b5-8f494427a769",
-      "latitude": -34.708545,
-      "longitude": 138.681642,
-      "street": "Tolmer Rd",
-      "city": "Elizabeth Park",
+      "id": "17ac0a5a-fe83-4ed4-a111-a6d743c50f6c",
+      "latitude": -35.017079,
+      "longitude": 138.558508,
+      "street": "Sturt Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T05:12:19Z"
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:52:33Z"
     },
     {
-      "id": "ccf5d560-505a-4b75-b72d-170e75c30e6b",
-      "latitude": -34.745308,
-      "longitude": 138.609112,
+      "id": "912e6bb2-eed2-4bea-8e89-6b7be85aa6be",
+      "latitude": -34.745833,
+      "longitude": 138.608643,
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T04:49:00Z"
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T05:00:02Z"
+    },
+    {
+      "id": "2b7671a9-f24b-4fab-97ae-f3a3c642df2d",
+      "latitude": -34.708786,
+      "longitude": 138.68221,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T05:52:32Z"
+    },
+    {
+      "id": "f5c0cd2f-43d5-4fab-a95a-b335646931a2",
+      "latitude": -34.673193,
+      "longitude": 138.678344,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T05:34:00Z"
+    },
+    {
+      "id": "b9d7a7af-37fa-4747-8b20-a85d41178dcc",
+      "latitude": -35.125345,
+      "longitude": 138.542869,
+      "street": "Unknown Street",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:46:29Z"
     },
     {
       "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
@@ -57,48 +77,58 @@
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
+      "timestamp": "2026-01-06T07:00:18Z",
       "reported_at": "2026-01-06T04:53:04Z"
     },
     {
-      "id": "8735aa0e-51a8-4a8e-afd4-87d9d2cd9fe1",
-      "latitude": -34.837831,
-      "longitude": 138.488781,
-      "street": "Woolnough Rd",
-      "city": "Semaphore",
+      "id": "3d8cdcfb-df77-43a2-a780-068d6d26869e",
+      "latitude": -35.12818,
+      "longitude": 138.536538,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T04:15:26Z"
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:47:45Z"
     },
     {
-      "id": "e0f44fad-8a01-4538-b043-da750081eec6",
-      "latitude": -34.851339,
-      "longitude": 138.529277,
+      "id": "ca91d155-9b8e-440e-8f06-301db1627ceb",
+      "latitude": -34.735395,
+      "longitude": 138.597488,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:47:28Z"
+    },
+    {
+      "id": "cf4dccda-1b1f-4479-b13f-071730faba63",
+      "latitude": -34.942145,
+      "longitude": 138.582808,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:39:31Z"
+    },
+    {
+      "id": "38612024-99fb-404d-971c-e1782f01d220",
+      "latitude": -34.852281,
+      "longitude": 138.508685,
       "street": "A16 - Grand Junction Rd",
-      "city": "Ottoway",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T06:23:03Z"
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:38:32Z"
     },
     {
-      "id": "89917c64-f3dd-4e3c-b081-ed522ef9c22c",
-      "latitude": -34.851885,
-      "longitude": 138.517881,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Rosewater",
+      "id": "c5f24444-846b-4627-b514-2b4dbe46723d",
+      "latitude": -34.942164,
+      "longitude": 138.584259,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T06:21:58Z"
-    },
-    {
-      "id": "3e2c315c-7e69-40e0-82f2-4758aca6463e",
-      "latitude": -34.869148,
-      "longitude": 138.570615,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-01-06T06:30:15Z",
-      "reported_at": "2026-01-06T06:24:05Z"
+      "timestamp": "2026-01-06T07:00:18Z",
+      "reported_at": "2026-01-06T06:34:52Z"
     }
   ]
 }
