@@ -7,7 +7,7 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
+      "timestamp": "2026-01-06T12:00:16Z",
       "reported_at": "2026-01-06T08:22:06Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "to A14 - Marion Rd to Marion / Glenelg",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
+      "timestamp": "2026-01-06T12:00:16Z",
       "reported_at": "2026-01-06T10:32:27Z"
     },
     {
@@ -27,28 +27,8 @@
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
+      "timestamp": "2026-01-06T12:00:16Z",
       "reported_at": "2026-01-06T10:56:54Z"
-    },
-    {
-      "id": "a99f35db-be5e-4ee7-9899-af10eeda6398",
-      "latitude": -34.719699,
-      "longitude": 138.673476,
-      "street": "Yorktown Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
-      "reported_at": "2026-01-06T08:08:16Z"
-    },
-    {
-      "id": "167b4b41-7543-40d9-8934-382898327243",
-      "latitude": -34.926423,
-      "longitude": 138.517442,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
-      "reported_at": "2026-01-06T10:05:20Z"
     },
     {
       "id": "26eddef7-509e-40a7-8d1f-8f38f7dc7263",
@@ -57,18 +37,8 @@
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
+      "timestamp": "2026-01-06T12:00:16Z",
       "reported_at": "2026-01-06T10:32:12Z"
-    },
-    {
-      "id": "1539bd3c-5483-4fa2-932b-fd5b3199e6b0",
-      "latitude": -34.922541,
-      "longitude": 138.586998,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
-      "reported_at": "2026-01-06T11:11:14Z"
     },
     {
       "id": "5411d20b-0c92-4fed-b771-6e9e08a3100a",
@@ -77,18 +47,58 @@
       "street": "Yorktown Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
+      "timestamp": "2026-01-06T12:00:16Z",
       "reported_at": "2026-01-06T08:28:28Z"
     },
     {
-      "id": "dfdbb3cf-2fb2-49cd-b503-cff8e81838cf",
-      "latitude": -34.846766,
-      "longitude": 138.63596,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
+      "id": "a99f35db-be5e-4ee7-9899-af10eeda6398",
+      "latitude": -34.719699,
+      "longitude": 138.673476,
+      "street": "Yorktown Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-06T11:30:14Z",
-      "reported_at": "2026-01-06T11:01:10Z"
+      "timestamp": "2026-01-06T12:00:16Z",
+      "reported_at": "2026-01-06T08:08:16Z"
+    },
+    {
+      "id": "1c721747-b3f4-4635-b32a-05e16be4ec36",
+      "latitude": -34.745165,
+      "longitude": 138.60924,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-01-06T12:00:16Z",
+      "reported_at": "2026-01-06T08:31:17Z"
+    },
+    {
+      "id": "e4c33dcb-6228-48a8-a703-9e84b67ad9d3",
+      "latitude": -34.752505,
+      "longitude": 138.625515,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-06T12:00:16Z",
+      "reported_at": "2026-01-06T11:26:38Z"
+    },
+    {
+      "id": "167b4b41-7543-40d9-8934-382898327243",
+      "latitude": -34.926423,
+      "longitude": 138.517442,
+      "street": "Henley Beach Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-01-06T12:00:16Z",
+      "reported_at": "2026-01-06T10:05:20Z"
+    },
+    {
+      "id": "fdd1a825-c94e-4785-a3fd-19364c49fc74",
+      "latitude": -35.106365,
+      "longitude": 138.525997,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-06T12:00:16Z",
+      "reported_at": "2026-01-06T11:41:42Z"
     }
   ]
 }
