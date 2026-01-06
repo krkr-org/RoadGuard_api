@@ -1,74 +1,44 @@
 {
   "radars": [
     {
-      "id": "09d591f0-ed71-4cc4-a228-a45b77b2d028",
-      "latitude": -34.72477,
-      "longitude": 138.632665,
-      "street": "Sturton Rd",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T06:31:23Z"
-    },
-    {
-      "id": "03a6f557-3a8d-4945-ba6f-cb86039f5f63",
-      "latitude": -34.70046,
-      "longitude": 138.690396,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T06:33:12Z"
-    },
-    {
       "id": "1f075414-3706-4eec-bc7b-5bcc844c9f61",
       "latitude": -34.736878,
       "longitude": 138.64571,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
+      "timestamp": "2026-01-06T11:00:13Z",
       "reported_at": "2026-01-06T08:22:06Z"
     },
     {
-      "id": "f49ed897-e8fd-4dc6-bf7a-0cdc985da2e2",
-      "latitude": -34.926547,
-      "longitude": 138.514591,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
+      "id": "fd04a293-f8b1-42f4-b245-25b47d562e96",
+      "latitude": -34.701196,
+      "longitude": 138.689931,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T09:58:14Z"
+      "timestamp": "2026-01-06T11:00:13Z",
+      "reported_at": "2026-01-06T05:47:20Z"
     },
     {
-      "id": "a99f35db-be5e-4ee7-9899-af10eeda6398",
-      "latitude": -34.719699,
-      "longitude": 138.673476,
-      "street": "Yorktown Rd",
-      "city": "Elizabeth East",
+      "id": "cb4afd49-d904-41b0-bf51-491c58c0d60c",
+      "latitude": -35.025824,
+      "longitude": 138.557322,
+      "street": "to A14 - Marion Rd to Marion / Glenelg",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T08:08:16Z"
+      "timestamp": "2026-01-06T11:00:13Z",
+      "reported_at": "2026-01-06T10:27:11Z"
     },
     {
-      "id": "f2971064-2af1-4cce-8ba5-ce75e62beae7",
-      "latitude": -34.674499,
-      "longitude": 138.677512,
-      "street": "Peachey Rd",
-      "city": "Smithfield Plains",
+      "id": "0493fe03-f2fb-4844-817f-f36216c6e134",
+      "latitude": -34.916879,
+      "longitude": 138.493563,
+      "street": "Seaview Rd",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T06:43:28Z"
-    },
-    {
-      "id": "95708245-319d-4338-a1fd-44d2b387d86b",
-      "latitude": -34.990399,
-      "longitude": 138.6007,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T09:13:00Z"
+      "timestamp": "2026-01-06T11:00:13Z",
+      "reported_at": "2026-01-06T10:31:22Z"
     },
     {
       "id": "5411d20b-0c92-4fed-b771-6e9e08a3100a",
@@ -77,18 +47,38 @@
       "street": "Yorktown Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
+      "timestamp": "2026-01-06T11:00:13Z",
       "reported_at": "2026-01-06T08:28:28Z"
     },
     {
-      "id": "a4770319-b701-4d87-8fac-35fe2456f9f4",
-      "latitude": -34.770447,
-      "longitude": 138.618359,
+      "id": "a99f35db-be5e-4ee7-9899-af10eeda6398",
+      "latitude": -34.719699,
+      "longitude": 138.673476,
+      "street": "Yorktown Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-01-06T11:00:13Z",
+      "reported_at": "2026-01-06T08:08:16Z"
+    },
+    {
+      "id": "95708245-319d-4338-a1fd-44d2b387d86b",
+      "latitude": -34.990399,
+      "longitude": 138.6007,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-06T11:00:13Z",
+      "reported_at": "2026-01-06T09:13:00Z"
+    },
+    {
+      "id": "26eddef7-509e-40a7-8d1f-8f38f7dc7263",
+      "latitude": -34.76977,
+      "longitude": 138.61896,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T07:15:34Z"
+      "timestamp": "2026-01-06T11:00:13Z",
+      "reported_at": "2026-01-06T10:32:12Z"
     },
     {
       "id": "30478be2-b956-4af8-8658-7c429115e2d0",
@@ -97,18 +87,8 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
+      "timestamp": "2026-01-06T11:00:13Z",
       "reported_at": "2026-01-06T10:16:49Z"
-    },
-    {
-      "id": "c7793f57-b049-49c4-8a1d-6c2a236bd8a2",
-      "latitude": -35.032193,
-      "longitude": 138.555079,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-01-06T10:30:14Z",
-      "reported_at": "2026-01-06T10:21:06Z"
     }
   ]
 }
