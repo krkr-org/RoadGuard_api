@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "8686bfd5-ef4d-47dc-8193-1c3fe390d66c",
-      "latitude": -34.919534,
-      "longitude": 138.669427,
-      "street": "The Parade",
-      "city": "Magill",
+      "id": "a17784ee-59b2-43da-906f-7af34dfa1aff",
+      "latitude": -34.833239,
+      "longitude": 138.498583,
+      "street": "Hargrave St",
+      "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-06T02:30:17Z",
-      "reported_at": "2026-01-06T02:07:22Z"
+      "timestamp": "2026-01-06T02:50:19Z",
+      "reported_at": "2026-01-06T01:19:53Z"
     },
     {
-      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
-      "latitude": -34.836013,
-      "longitude": 138.488383,
-      "street": "Woolnough Rd",
-      "city": "Semaphore",
+      "id": "2d0bf93c-39ff-4f08-9ad5-b3ba7cb76b16",
+      "latitude": -34.932801,
+      "longitude": 138.541134,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-06T02:30:17Z",
-      "reported_at": "2026-01-05T22:25:40Z"
+      "timestamp": "2026-01-06T02:50:19Z",
+      "reported_at": "2026-01-06T02:16:05Z"
     },
     {
       "id": "3e0178ce-7489-46c7-9016-c313a20ffc27",
@@ -27,7 +27,7 @@
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-06T02:30:17Z",
+      "timestamp": "2026-01-06T02:50:19Z",
       "reported_at": "2026-01-05T23:33:14Z"
     },
     {
@@ -37,18 +37,38 @@
       "street": "Unknown Street",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-06T02:30:17Z",
+      "timestamp": "2026-01-06T02:50:19Z",
       "reported_at": "2026-01-05T22:07:01Z"
     },
     {
-      "id": "3f90d6ea-c0ef-44eb-a12e-7f61d0c13969",
-      "latitude": -34.831377,
-      "longitude": 138.501431,
-      "street": "A16 - Victoria Rd",
-      "city": "Peterhead",
+      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
+      "latitude": -34.836013,
+      "longitude": 138.488383,
+      "street": "Woolnough Rd",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T02:30:17Z",
-      "reported_at": "2026-01-06T02:09:28Z"
+      "timestamp": "2026-01-06T02:50:19Z",
+      "reported_at": "2026-01-05T22:25:40Z"
+    },
+    {
+      "id": "914af7ea-f4a1-474f-9863-c055a9c642d8",
+      "latitude": -34.767409,
+      "longitude": 138.637017,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-06T02:50:19Z",
+      "reported_at": "2026-01-06T02:30:25Z"
+    },
+    {
+      "id": "c2d2c279-ab6d-4f4a-8259-a65aedb87f4f",
+      "latitude": -34.834517,
+      "longitude": 138.532677,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-06T02:50:19Z",
+      "reported_at": "2026-01-06T00:55:31Z"
     },
     {
       "id": "bfb3a006-15ad-4e52-92ca-38ab9e0fca48",
@@ -57,7 +77,7 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-06T02:30:17Z",
+      "timestamp": "2026-01-06T02:50:19Z",
       "reported_at": "2026-01-06T01:40:31Z"
     }
   ]
