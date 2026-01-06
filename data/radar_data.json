@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "83b782b2-ba85-4a66-b064-5c7eb9ded051",
-      "latitude": -35.023615,
-      "longitude": 138.55911,
-      "street": "to A14 - Marion Rd to Marion / Glenelg",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
-      "reported_at": "2026-01-06T10:32:27Z"
-    },
-    {
       "id": "270245d2-c422-4741-a3a2-d4bffe144f89",
       "latitude": -34.712314,
       "longitude": 138.689414,
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
+      "timestamp": "2026-01-06T13:00:13Z",
       "reported_at": "2026-01-06T10:56:54Z"
+    },
+    {
+      "id": "83b782b2-ba85-4a66-b064-5c7eb9ded051",
+      "latitude": -35.023615,
+      "longitude": 138.55911,
+      "street": "to A14 - Marion Rd to Marion / Glenelg",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-06T13:00:13Z",
+      "reported_at": "2026-01-06T10:32:27Z"
     },
     {
       "id": "6abf15e3-ff37-455c-b574-750eda1e52b8",
@@ -27,28 +27,8 @@
       "street": "King William Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
+      "timestamp": "2026-01-06T13:00:13Z",
       "reported_at": "2026-01-06T09:01:23Z"
-    },
-    {
-      "id": "26eddef7-509e-40a7-8d1f-8f38f7dc7263",
-      "latitude": -34.76977,
-      "longitude": 138.61896,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
-      "reported_at": "2026-01-06T10:32:12Z"
-    },
-    {
-      "id": "1c721747-b3f4-4635-b32a-05e16be4ec36",
-      "latitude": -34.745165,
-      "longitude": 138.60924,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
-      "reported_at": "2026-01-06T08:31:17Z"
     },
     {
       "id": "167b4b41-7543-40d9-8934-382898327243",
@@ -57,18 +37,18 @@
       "street": "Henley Beach Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
+      "timestamp": "2026-01-06T13:00:13Z",
       "reported_at": "2026-01-06T10:05:20Z"
     },
     {
-      "id": "5411d20b-0c92-4fed-b771-6e9e08a3100a",
-      "latitude": -34.710639,
-      "longitude": 138.683672,
-      "street": "Yorktown Rd",
-      "city": "Elizabeth Park",
+      "id": "26eddef7-509e-40a7-8d1f-8f38f7dc7263",
+      "latitude": -34.76977,
+      "longitude": 138.61896,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-06T12:30:13Z",
-      "reported_at": "2026-01-06T08:28:28Z"
+      "timestamp": "2026-01-06T13:00:13Z",
+      "reported_at": "2026-01-06T10:32:12Z"
     }
   ]
 }
