@@ -7,7 +7,7 @@
       "street": "Sturton Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
+      "timestamp": "2026-01-06T08:00:17Z",
       "reported_at": "2026-01-06T06:31:23Z"
     },
     {
@@ -17,28 +17,8 @@
       "street": "Andrews Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
+      "timestamp": "2026-01-06T08:00:17Z",
       "reported_at": "2026-01-06T05:36:54Z"
-    },
-    {
-      "id": "c7d5a966-7420-4fc7-8bde-45928c74bf7d",
-      "latitude": -34.856587,
-      "longitude": 138.639396,
-      "street": "Sir Ross Smith Bvd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
-      "reported_at": "2026-01-06T07:16:27Z"
-    },
-    {
-      "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
-      "latitude": -34.769659,
-      "longitude": 138.619058,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
-      "reported_at": "2026-01-06T04:53:04Z"
     },
     {
       "id": "f5c0cd2f-43d5-4fab-a95a-b335646931a2",
@@ -47,8 +27,18 @@
       "street": "Peachey Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
+      "timestamp": "2026-01-06T08:00:17Z",
       "reported_at": "2026-01-06T05:34:00Z"
+    },
+    {
+      "id": "a4770319-b701-4d87-8fac-35fe2456f9f4",
+      "latitude": -34.770447,
+      "longitude": 138.618359,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-06T08:00:17Z",
+      "reported_at": "2026-01-06T07:15:34Z"
     },
     {
       "id": "8735aa0e-51a8-4a8e-afd4-87d9d2cd9fe1",
@@ -57,28 +47,18 @@
       "street": "Woolnough Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
+      "timestamp": "2026-01-06T08:00:17Z",
       "reported_at": "2026-01-06T04:15:26Z"
     },
     {
-      "id": "ca91d155-9b8e-440e-8f06-301db1627ceb",
-      "latitude": -34.735395,
-      "longitude": 138.597488,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
+      "id": "41d1c1fd-a5b4-408b-b8d5-18af13271cda",
+      "latitude": -34.924053,
+      "longitude": 138.604898,
+      "street": "Grenfell St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
-      "reported_at": "2026-01-06T06:47:28Z"
-    },
-    {
-      "id": "97ee0a06-e024-4c6c-bc2f-10f2db1eb150",
-      "latitude": -34.889275,
-      "longitude": 138.487257,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
-      "reported_at": "2026-01-06T07:24:26Z"
+      "timestamp": "2026-01-06T08:00:17Z",
+      "reported_at": "2026-01-06T07:37:29Z"
     },
     {
       "id": "2b7671a9-f24b-4fab-97ae-f3a3c642df2d",
@@ -87,8 +67,38 @@
       "street": "Tolmer Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
+      "timestamp": "2026-01-06T08:00:17Z",
       "reported_at": "2026-01-06T05:52:32Z"
+    },
+    {
+      "id": "ca91d155-9b8e-440e-8f06-301db1627ceb",
+      "latitude": -34.735395,
+      "longitude": 138.597488,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-01-06T08:00:17Z",
+      "reported_at": "2026-01-06T06:47:28Z"
+    },
+    {
+      "id": "ad1d8a08-2a07-4668-a03a-b9c1ff8b369e",
+      "latitude": -34.979553,
+      "longitude": 138.520237,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-01-06T08:00:17Z",
+      "reported_at": "2026-01-06T07:37:46Z"
+    },
+    {
+      "id": "abe8abc8-f2d6-4fb2-ab51-8abf70c0bf64",
+      "latitude": -35.070795,
+      "longitude": 138.526916,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Sheidow Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T08:00:17Z",
+      "reported_at": "2026-01-06T07:36:40Z"
     },
     {
       "id": "49a4e297-fe9b-4ca1-a375-69e7123bada4",
@@ -97,18 +107,8 @@
       "street": "A14 - Grange Rd",
       "city": "Beverley",
       "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
+      "timestamp": "2026-01-06T08:00:17Z",
       "reported_at": "2026-01-06T06:58:45Z"
-    },
-    {
-      "id": "b1ee4a7d-6f6c-49e7-bf1b-9847e742546f",
-      "latitude": -34.804296,
-      "longitude": 138.6359,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-01-06T07:30:14Z",
-      "reported_at": "2026-01-06T07:25:38Z"
     }
   ]
 }
