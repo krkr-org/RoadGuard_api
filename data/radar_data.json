@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "3d41a6e1-aba0-44b6-b584-24023d597536",
-      "latitude": -34.82542,
-      "longitude": 138.498799,
-      "street": "Jetty Rd",
-      "city": "Largs Bay",
+      "id": "c22e8352-762b-4026-bcc3-fa85666e3419",
+      "latitude": -34.745201,
+      "longitude": 138.646644,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T00:00:19Z",
-      "reported_at": "2026-01-05T21:10:42Z"
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-06T00:36:21Z"
     },
     {
       "id": "04d3bc23-9c30-4626-ab46-ef3b48d7d658",
@@ -17,28 +17,18 @@
       "street": "Hargrave St",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-06T00:00:19Z",
+      "timestamp": "2026-01-06T01:00:06Z",
       "reported_at": "2026-01-05T21:56:06Z"
     },
     {
-      "id": "667bec5e-812b-406d-9e6d-28227b2a5571",
-      "latitude": -34.888624,
-      "longitude": 138.487039,
+      "id": "3e0178ce-7489-46c7-9016-c313a20ffc27",
+      "latitude": -34.88653,
+      "longitude": 138.486708,
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-06T00:00:19Z",
-      "reported_at": "2026-01-05T23:34:41Z"
-    },
-    {
-      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
-      "latitude": -34.836013,
-      "longitude": 138.488383,
-      "street": "Woolnough Rd",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-01-06T00:00:19Z",
-      "reported_at": "2026-01-05T22:25:40Z"
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-05T23:33:14Z"
     },
     {
       "id": "2448b766-d9c2-4743-aefc-cf694b9286b6",
@@ -47,18 +37,68 @@
       "street": "Unknown Street",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-06T00:00:19Z",
+      "timestamp": "2026-01-06T01:00:06Z",
       "reported_at": "2026-01-05T22:07:01Z"
     },
     {
-      "id": "1af23d9f-33c3-425c-aa4f-09f611be48ff",
-      "latitude": -34.834154,
-      "longitude": 138.535284,
-      "street": "A9 - Port River Exp",
+      "id": "1eaec3f0-1bab-437c-a816-793253f54a7b",
+      "latitude": -34.990403,
+      "longitude": 138.600624,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-06T00:52:18Z"
+    },
+    {
+      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
+      "latitude": -34.836013,
+      "longitude": 138.488383,
+      "street": "Woolnough Rd",
+      "city": "Semaphore",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-05T22:25:40Z"
+    },
+    {
+      "id": "0e7015c2-4eea-4ee1-8fd4-9303b20e88fd",
+      "latitude": -34.93538,
+      "longitude": 138.510418,
+      "street": "A6 - Burbridge Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-05T23:06:20Z"
+    },
+    {
+      "id": "0f851867-f148-4a22-98b1-dbd287d40b43",
+      "latitude": -34.832633,
+      "longitude": 138.572325,
+      "street": "A9 - Salisbury Hwy",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-06T00:00:19Z",
-      "reported_at": "2026-01-05T23:47:25Z"
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-06T00:19:42Z"
+    },
+    {
+      "id": "c8d379a5-92d5-4ded-902b-e4e762dca10f",
+      "latitude": -35.065788,
+      "longitude": 138.545359,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-06T00:55:37Z"
+    },
+    {
+      "id": "c2d2c279-ab6d-4f4a-8259-a65aedb87f4f",
+      "latitude": -34.834517,
+      "longitude": 138.532677,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-06T01:00:06Z",
+      "reported_at": "2026-01-06T00:55:31Z"
     }
   ]
 }
