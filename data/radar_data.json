@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "afbc5402-1b83-471d-ab32-88e251ad2334",
-      "latitude": -35.134197,
-      "longitude": 138.497163,
-      "street": "Elizabeth Rd",
-      "city": "Christie Downs",
+      "id": "f02f7ede-d580-403a-9ed2-3ed1752bc7c9",
+      "latitude": -34.724556,
+      "longitude": 138.632166,
+      "street": "Sturton Rd",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T04:34:05Z"
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T05:08:27Z"
     },
     {
       "id": "7ea2ba6c-a7bc-4f71-a45e-1d4b7b2e1979",
@@ -17,18 +17,48 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
+      "timestamp": "2026-01-06T05:30:15Z",
       "reported_at": "2026-01-06T01:40:43Z"
     },
     {
-      "id": "a17784ee-59b2-43da-906f-7af34dfa1aff",
-      "latitude": -34.833239,
-      "longitude": 138.498583,
-      "street": "Hargrave St",
-      "city": "Peterhead",
+      "id": "7b955229-19c8-4066-a1ac-7be349df7b13",
+      "latitude": -34.743735,
+      "longitude": 138.647582,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T01:19:53Z"
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T05:05:07Z"
+    },
+    {
+      "id": "ccf5d560-505a-4b75-b72d-170e75c30e6b",
+      "latitude": -34.745308,
+      "longitude": 138.609112,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T04:49:00Z"
+    },
+    {
+      "id": "5a1baedc-bd86-41e9-a2fa-56ea4f7d2c11",
+      "latitude": -34.770417,
+      "longitude": 138.618386,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T04:53:04Z"
+    },
+    {
+      "id": "f1d2918a-e330-4f31-ac25-274cec56b24c",
+      "latitude": -34.693749,
+      "longitude": 138.647404,
+      "street": "Womma Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T05:07:28Z"
     },
     {
       "id": "8735aa0e-51a8-4a8e-afd4-87d9d2cd9fe1",
@@ -37,7 +67,7 @@
       "street": "Woolnough Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
+      "timestamp": "2026-01-06T05:30:15Z",
       "reported_at": "2026-01-06T04:15:26Z"
     },
     {
@@ -47,58 +77,28 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
+      "timestamp": "2026-01-06T05:30:15Z",
       "reported_at": "2026-01-06T01:56:39Z"
     },
     {
-      "id": "2ae4a910-9ef7-42d6-9918-3244c9ffbd07",
-      "latitude": -34.838815,
-      "longitude": 138.676834,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "a2700110-e612-4255-814f-234819aba468",
+      "latitude": -34.669966,
+      "longitude": 138.547652,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T04:30:05Z"
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T04:57:15Z"
     },
     {
-      "id": "bb035b8c-f727-4c3c-bd9b-d2bc026f4a5a",
-      "latitude": -34.831339,
-      "longitude": 138.501262,
-      "street": "A16 - Victoria Rd",
-      "city": "Peterhead",
+      "id": "532cb2cf-4370-4947-9d9d-2bd654d986be",
+      "latitude": -35.029476,
+      "longitude": 138.81003,
+      "street": "B34 - Main St",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T04:44:34Z"
-    },
-    {
-      "id": "6c4d987a-5306-4b21-9b10-d8377a85e53a",
-      "latitude": -34.998691,
-      "longitude": 138.747572,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T04:30:52Z"
-    },
-    {
-      "id": "32fa6346-cee8-4659-a131-6be77aee37f4",
-      "latitude": -34.810355,
-      "longitude": 138.598469,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T04:51:51Z"
-    },
-    {
-      "id": "55b0a55e-c9b0-43a3-b3a9-1e4c37def268",
-      "latitude": -35.002077,
-      "longitude": 138.753413,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-01-06T05:00:16Z",
-      "reported_at": "2026-01-06T04:47:14Z"
+      "timestamp": "2026-01-06T05:30:15Z",
+      "reported_at": "2026-01-06T05:19:33Z"
     }
   ]
 }
