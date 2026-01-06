@@ -1,64 +1,44 @@
 {
   "radars": [
     {
+      "id": "afbc5402-1b83-471d-ab32-88e251ad2334",
+      "latitude": -35.134197,
+      "longitude": 138.497163,
+      "street": "Elizabeth Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:34:05Z"
+    },
+    {
+      "id": "7ea2ba6c-a7bc-4f71-a45e-1d4b7b2e1979",
+      "latitude": -34.935713,
+      "longitude": 138.561785,
+      "street": "Brooker Tce",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T01:40:43Z"
+    },
+    {
       "id": "a17784ee-59b2-43da-906f-7af34dfa1aff",
       "latitude": -34.833239,
       "longitude": 138.498583,
       "street": "Hargrave St",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
+      "timestamp": "2026-01-06T05:00:16Z",
       "reported_at": "2026-01-06T01:19:53Z"
     },
     {
-      "id": "db9948c8-89de-4975-8a58-c346bc0d580f",
-      "latitude": -34.720663,
-      "longitude": 138.669583,
-      "street": "Unknown Street",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
-      "reported_at": "2026-01-06T04:04:50Z"
-    },
-    {
-      "id": "ec81f9e2-074a-4b25-a72c-08e9fd3bd9e4",
-      "latitude": -34.836013,
-      "longitude": 138.488383,
+      "id": "8735aa0e-51a8-4a8e-afd4-87d9d2cd9fe1",
+      "latitude": -34.837831,
+      "longitude": 138.488781,
       "street": "Woolnough Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
-      "reported_at": "2026-01-05T22:25:40Z"
-    },
-    {
-      "id": "a89ac18b-be77-4a1d-a335-760308f62da8",
-      "latitude": -34.893302,
-      "longitude": 138.55356,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
-      "reported_at": "2026-01-06T03:57:51Z"
-    },
-    {
-      "id": "a48810be-b71f-4b36-9dee-a8c956774a92",
-      "latitude": -34.964891,
-      "longitude": 138.626303,
-      "street": "B28 - Fullarton Rd",
-      "city": "Highgate",
-      "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
-      "reported_at": "2026-01-06T04:03:48Z"
-    },
-    {
-      "id": "aaa5b44d-94d8-4e4c-b7c4-ad8c787e12d1",
-      "latitude": -34.840006,
-      "longitude": 138.510514,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
-      "reported_at": "2026-01-06T03:59:09Z"
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:15:26Z"
     },
     {
       "id": "504df171-e514-4b11-9258-826ad1c70a5d",
@@ -67,18 +47,58 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
+      "timestamp": "2026-01-06T05:00:16Z",
       "reported_at": "2026-01-06T01:56:39Z"
     },
     {
-      "id": "e4aa6584-d964-4407-a128-d8b7d26e1a6e",
-      "latitude": -34.833614,
-      "longitude": 138.545861,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "2ae4a910-9ef7-42d6-9918-3244c9ffbd07",
+      "latitude": -34.838815,
+      "longitude": 138.676834,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-06T04:16:32Z",
-      "reported_at": "2026-01-06T04:05:20Z"
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:30:05Z"
+    },
+    {
+      "id": "bb035b8c-f727-4c3c-bd9b-d2bc026f4a5a",
+      "latitude": -34.831339,
+      "longitude": 138.501262,
+      "street": "A16 - Victoria Rd",
+      "city": "Peterhead",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:44:34Z"
+    },
+    {
+      "id": "6c4d987a-5306-4b21-9b10-d8377a85e53a",
+      "latitude": -34.998691,
+      "longitude": 138.747572,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:30:52Z"
+    },
+    {
+      "id": "32fa6346-cee8-4659-a131-6be77aee37f4",
+      "latitude": -34.810355,
+      "longitude": 138.598469,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:51:51Z"
+    },
+    {
+      "id": "55b0a55e-c9b0-43a3-b3a9-1e4c37def268",
+      "latitude": -35.002077,
+      "longitude": 138.753413,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-01-06T05:00:16Z",
+      "reported_at": "2026-01-06T04:47:14Z"
     }
   ]
 }
