@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "61dbc906-89e4-43d8-8bb6-d165f6592e82",
-      "latitude": -35.005868,
-      "longitude": 138.580455,
-      "street": "Quinlan Av",
-      "city": "St. Marys",
+      "id": "bf1274c3-c207-4bdc-b628-b714a1b31dbc",
+      "latitude": -34.848914,
+      "longitude": 138.702082,
+      "street": "Valley Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
-      "reported_at": "2026-01-07T01:19:36Z"
+      "timestamp": "2026-01-07T05:30:14Z",
+      "reported_at": "2026-01-07T05:15:33Z"
     },
     {
       "id": "d72e678c-f559-4c08-8823-6e3c3432fd15",
@@ -17,18 +17,18 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
+      "timestamp": "2026-01-07T05:30:14Z",
       "reported_at": "2026-01-07T01:38:44Z"
     },
     {
-      "id": "b0ae840d-849c-4b48-8f3a-1b25e7ec0e65",
-      "latitude": -34.801659,
-      "longitude": 138.606902,
-      "street": "Unknown Street",
-      "city": "Mawson Lakes",
+      "id": "24137ce4-77a9-495b-bbbe-1a2065a78c19",
+      "latitude": -34.837397,
+      "longitude": 138.688381,
+      "street": "Reservoir Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
-      "reported_at": "2026-01-07T04:15:58Z"
+      "timestamp": "2026-01-07T05:30:14Z",
+      "reported_at": "2026-01-07T05:19:25Z"
     },
     {
       "id": "586d8d49-8196-4a94-8c66-08198eb2e2c0",
@@ -37,8 +37,28 @@
       "street": "Montague Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
+      "timestamp": "2026-01-07T05:30:14Z",
       "reported_at": "2026-01-07T04:52:02Z"
+    },
+    {
+      "id": "acfcc51c-8ca9-4f92-ae5c-1b1ed2ecd463",
+      "latitude": -34.876269,
+      "longitude": 138.550219,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2026-01-07T05:30:14Z",
+      "reported_at": "2026-01-07T05:10:59Z"
+    },
+    {
+      "id": "12f6d921-b0ec-4029-8100-060202551e06",
+      "latitude": -34.836684,
+      "longitude": 138.621178,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-07T05:30:14Z",
+      "reported_at": "2026-01-07T05:08:58Z"
     },
     {
       "id": "94887837-3f5a-42a5-bb3f-1d78ce415e6f",
@@ -47,8 +67,18 @@
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
+      "timestamp": "2026-01-07T05:30:14Z",
       "reported_at": "2026-01-07T04:54:21Z"
+    },
+    {
+      "id": "6f0223e5-fc37-4822-9931-0577915e3f3e",
+      "latitude": -34.96669,
+      "longitude": 138.583333,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-01-07T05:30:14Z",
+      "reported_at": "2026-01-07T01:06:12Z"
     },
     {
       "id": "95bec92b-f4a5-4fd0-8eeb-146a74b46ff9",
@@ -57,28 +87,18 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
+      "timestamp": "2026-01-07T05:30:14Z",
       "reported_at": "2026-01-07T04:48:49Z"
     },
     {
-      "id": "51a84189-e875-4664-8219-44417b6c6a88",
-      "latitude": -35.13724,
-      "longitude": 138.486219,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "b4c480b1-d12d-46a8-b1f8-d700c91e5b62",
+      "latitude": -34.840137,
+      "longitude": 138.714962,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
-      "reported_at": "2026-01-07T04:35:10Z"
-    },
-    {
-      "id": "e70c095d-1a75-474d-8c9e-4460b5c5f1b3",
-      "latitude": -34.857581,
-      "longitude": 138.565546,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-07T05:00:14Z",
-      "reported_at": "2026-01-07T04:49:48Z"
+      "timestamp": "2026-01-07T05:30:14Z",
+      "reported_at": "2026-01-07T05:12:12Z"
     }
   ]
 }
