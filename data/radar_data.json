@@ -7,7 +7,7 @@
       "street": "to M1 - South Eastern Fwy to Bridgewater",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
+      "timestamp": "2026-01-07T03:00:15Z",
       "reported_at": "2026-01-07T00:33:49Z"
     },
     {
@@ -17,8 +17,28 @@
       "street": "Quinlan Av",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
+      "timestamp": "2026-01-07T03:00:15Z",
       "reported_at": "2026-01-07T01:19:36Z"
+    },
+    {
+      "id": "d72e678c-f559-4c08-8823-6e3c3432fd15",
+      "latitude": -34.96842,
+      "longitude": 138.542185,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-07T03:00:15Z",
+      "reported_at": "2026-01-07T01:38:44Z"
+    },
+    {
+      "id": "d315b023-18a3-48f0-8c13-7ee504847df6",
+      "latitude": -34.931657,
+      "longitude": 138.541884,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-01-07T03:00:15Z",
+      "reported_at": "2026-01-07T02:11:36Z"
     },
     {
       "id": "c860cc5f-718c-4dd7-90db-6e31b031b472",
@@ -27,18 +47,18 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
+      "timestamp": "2026-01-07T03:00:15Z",
       "reported_at": "2026-01-07T00:04:22Z"
     },
     {
-      "id": "0c76c64a-4ef8-442d-99da-06f39a661ee3",
-      "latitude": -34.99989,
-      "longitude": 138.712336,
-      "street": "to B33 to Stirling / Aldgate",
-      "city": "Crafers",
+      "id": "e01239c7-5c88-4059-9c8b-3d36c5732549",
+      "latitude": -34.992512,
+      "longitude": 138.580495,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
-      "reported_at": "2026-01-07T02:20:38Z"
+      "timestamp": "2026-01-07T03:00:15Z",
+      "reported_at": "2026-01-06T21:01:57Z"
     },
     {
       "id": "68c353a3-5e78-40d2-868b-e0a8e4ebccc9",
@@ -47,28 +67,8 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
+      "timestamp": "2026-01-07T03:00:15Z",
       "reported_at": "2026-01-07T01:53:29Z"
-    },
-    {
-      "id": "e01239c7-5c88-4059-9c8b-3d36c5732549",
-      "latitude": -34.992486,
-      "longitude": 138.581093,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
-      "reported_at": "2026-01-06T21:01:57Z"
-    },
-    {
-      "id": "1b2a9a70-797d-4265-acd0-de655b85065a",
-      "latitude": -34.963007,
-      "longitude": 138.644129,
-      "street": "A17 - Portrush Rd",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
-      "reported_at": "2026-01-07T02:27:08Z"
     },
     {
       "id": "b1e54482-8723-4a06-ba85-387ac73212e7",
@@ -77,8 +77,28 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T02:30:13Z",
+      "timestamp": "2026-01-07T03:00:15Z",
       "reported_at": "2026-01-06T23:08:31Z"
+    },
+    {
+      "id": "3928d911-963e-4444-943f-97c757c40230",
+      "latitude": -34.86804,
+      "longitude": 138.641205,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2026-01-07T03:00:15Z",
+      "reported_at": "2026-01-07T02:40:34Z"
+    },
+    {
+      "id": "1b2a9a70-797d-4265-acd0-de655b85065a",
+      "latitude": -34.963007,
+      "longitude": 138.644129,
+      "street": "A17 - Portrush Rd",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-07T03:00:15Z",
+      "reported_at": "2026-01-07T02:27:08Z"
     }
   ]
 }
