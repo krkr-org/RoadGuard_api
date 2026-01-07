@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "81d52ef0-bea7-46c9-b03e-0d016950a48b",
-      "latitude": -34.848773,
-      "longitude": 138.70207,
-      "street": "Valley Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
-      "reported_at": "2026-01-07T05:27:31Z"
-    },
-    {
       "id": "e1b04fe2-6712-42d4-9103-23df2f3943bf",
       "latitude": -34.817392,
       "longitude": 138.636869,
       "street": "Research Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
+      "timestamp": "2026-01-07T08:00:15Z",
       "reported_at": "2026-01-07T05:11:26Z"
     },
     {
-      "id": "80d21d18-73b2-4235-a3d2-87dd5c8b261b",
-      "latitude": -34.760616,
-      "longitude": 138.604515,
-      "street": "Byron Bay Dr",
-      "city": "Paralowie",
+      "id": "dc692f49-a275-4469-aee8-2779f4a02587",
+      "latitude": -34.862137,
+      "longitude": 138.679899,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
-      "reported_at": "2026-01-07T07:00:00Z"
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T05:22:53Z"
     },
     {
-      "id": "e31b5490-50d0-4b7d-aaba-d37c7b3fb09e",
-      "latitude": -34.919249,
-      "longitude": 138.579701,
-      "street": "Port Rd",
-      "city": "Adelaide",
+      "id": "bf1274c3-c207-4bdc-b628-b714a1b31dbc",
+      "latitude": -34.848914,
+      "longitude": 138.702082,
+      "street": "Valley Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
-      "reported_at": "2026-01-07T07:19:14Z"
-    },
-    {
-      "id": "24137ce4-77a9-495b-bbbe-1a2065a78c19",
-      "latitude": -34.837397,
-      "longitude": 138.688381,
-      "street": "Reservoir Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
-      "reported_at": "2026-01-07T05:19:25Z"
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T05:15:33Z"
     },
     {
       "id": "94887837-3f5a-42a5-bb3f-1d78ce415e6f",
@@ -57,8 +37,58 @@
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
+      "timestamp": "2026-01-07T08:00:15Z",
       "reported_at": "2026-01-07T04:54:21Z"
+    },
+    {
+      "id": "b1333414-0cab-4c95-9c55-281ac151c2c0",
+      "latitude": -35.023764,
+      "longitude": 138.586,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T07:54:00Z"
+    },
+    {
+      "id": "4e413572-75dd-43b3-915a-409701c1e722",
+      "latitude": -34.83563,
+      "longitude": 138.688223,
+      "street": "Reservoir Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T06:12:57Z"
+    },
+    {
+      "id": "9d55acdc-ba72-4c93-adcf-753a4a49ba11",
+      "latitude": -34.825533,
+      "longitude": 138.609768,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T07:41:45Z"
+    },
+    {
+      "id": "67325194-62ec-4257-9119-1b7d20f75de8",
+      "latitude": -34.865019,
+      "longitude": 138.529298,
+      "street": "Cheltenham Pde",
+      "city": "Cheltenham",
+      "type": "mobile",
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T07:45:14Z"
+    },
+    {
+      "id": "7618814e-e7cf-48fc-a842-f930b551c031",
+      "latitude": -34.83867,
+      "longitude": 138.688527,
+      "street": "Reservoir Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T07:38:32Z"
     },
     {
       "id": "d2f411b6-b92f-40da-b0a9-0de028a2c257",
@@ -67,28 +97,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
+      "timestamp": "2026-01-07T08:00:15Z",
       "reported_at": "2026-01-07T05:31:43Z"
     },
     {
-      "id": "3321812a-b696-4363-8b02-d9474156f342",
-      "latitude": -34.858733,
-      "longitude": 138.686955,
+      "id": "95bec92b-f4a5-4fd0-8eeb-146a74b46ff9",
+      "latitude": -34.859278,
+      "longitude": 138.686159,
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
-      "reported_at": "2026-01-07T06:58:02Z"
-    },
-    {
-      "id": "3f20eb1c-03d0-40df-be83-be0b1617a15b",
-      "latitude": -34.765614,
-      "longitude": 138.638508,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-07T07:30:13Z",
-      "reported_at": "2026-01-07T06:51:24Z"
+      "timestamp": "2026-01-07T08:00:15Z",
+      "reported_at": "2026-01-07T04:48:49Z"
     }
   ]
 }
