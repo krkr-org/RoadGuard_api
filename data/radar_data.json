@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "ab5f0dc8-9f2d-42ae-9d73-9943fcf61bbf",
-      "latitude": -35.005795,
-      "longitude": 138.581726,
-      "street": "Quinlan Av",
-      "city": "St. Marys",
+      "id": "6ba59d6d-8a37-4c5f-84d4-38063563654b",
+      "latitude": -34.968385,
+      "longitude": 138.542874,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
-      "reported_at": "2026-01-06T20:48:22Z"
+      "timestamp": "2026-01-07T00:00:16Z",
+      "reported_at": "2026-01-06T21:22:51Z"
     },
     {
       "id": "487faa6b-49d0-4e5e-ba97-d51eec69380d",
@@ -17,18 +17,28 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
+      "timestamp": "2026-01-07T00:00:16Z",
       "reported_at": "2026-01-06T20:48:26Z"
     },
     {
-      "id": "6ba59d6d-8a37-4c5f-84d4-38063563654b",
-      "latitude": -34.968385,
-      "longitude": 138.542874,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "ab5f0dc8-9f2d-42ae-9d73-9943fcf61bbf",
+      "latitude": -35.005795,
+      "longitude": 138.581726,
+      "street": "Quinlan Av",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
-      "reported_at": "2026-01-06T21:22:51Z"
+      "timestamp": "2026-01-07T00:00:16Z",
+      "reported_at": "2026-01-06T20:48:22Z"
+    },
+    {
+      "id": "4b87500b-7a4d-4805-9fa4-195ee869bd6e",
+      "latitude": -34.762727,
+      "longitude": 138.60942,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-01-07T00:00:16Z",
+      "reported_at": "2026-01-06T22:49:06Z"
     },
     {
       "id": "e01239c7-5c88-4059-9c8b-3d36c5732549",
@@ -37,48 +47,18 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
+      "timestamp": "2026-01-07T00:00:16Z",
       "reported_at": "2026-01-06T21:01:57Z"
     },
     {
-      "id": "3432b57b-ee4a-4c06-a4c5-10a1b37f8c57",
-      "latitude": -35.119759,
-      "longitude": 138.535909,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "4362af7a-5c50-4b95-9838-1a6787704194",
+      "latitude": -34.855772,
+      "longitude": 138.502439,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
-      "reported_at": "2026-01-06T23:16:23Z"
-    },
-    {
-      "id": "29ee6df3-9f75-4bb1-91ab-a9b7a81c8363",
-      "latitude": -34.990693,
-      "longitude": 138.594823,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
-      "reported_at": "2026-01-06T22:10:36Z"
-    },
-    {
-      "id": "ac689ad8-5cd5-457d-8eb2-b40954966498",
-      "latitude": -35.11496,
-      "longitude": 138.538682,
-      "street": "Bains Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
-      "reported_at": "2026-01-06T22:59:04Z"
-    },
-    {
-      "id": "8889861a-c9ef-4d06-af63-406ced8e0831",
-      "latitude": -34.962102,
-      "longitude": 138.644134,
-      "street": "A17 - Portrush Rd",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
-      "reported_at": "2026-01-06T22:56:03Z"
+      "timestamp": "2026-01-07T00:00:16Z",
+      "reported_at": "2026-01-06T23:30:59Z"
     },
     {
       "id": "b1e54482-8723-4a06-ba85-387ac73212e7",
@@ -87,8 +67,18 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-01-06T23:30:13Z",
+      "timestamp": "2026-01-07T00:00:16Z",
       "reported_at": "2026-01-06T23:08:31Z"
+    },
+    {
+      "id": "7b947c4e-6322-4bdc-80a2-b294f853dc4c",
+      "latitude": -34.971889,
+      "longitude": 138.627004,
+      "street": "B28 - Fullarton Rd",
+      "city": "Netherby",
+      "type": "mobile",
+      "timestamp": "2026-01-07T00:00:16Z",
+      "reported_at": "2026-01-06T23:39:29Z"
     }
   ]
 }
