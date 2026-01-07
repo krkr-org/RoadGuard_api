@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "5b56f19c-5dae-4966-81a4-313af60c1c4d",
-      "latitude": -35.04731,
-      "longitude": 138.612954,
-      "street": "Murrays Hill Rd",
-      "city": "Coromandel Valley",
+      "id": "dc692f49-a275-4469-aee8-2779f4a02587",
+      "latitude": -34.862137,
+      "longitude": 138.679899,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T05:32:09Z"
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T05:22:53Z"
     },
     {
       "id": "bf1274c3-c207-4bdc-b628-b714a1b31dbc",
@@ -17,38 +17,18 @@
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
+      "timestamp": "2026-01-07T06:30:13Z",
       "reported_at": "2026-01-07T05:15:33Z"
     },
     {
-      "id": "dc692f49-a275-4469-aee8-2779f4a02587",
-      "latitude": -34.862137,
-      "longitude": 138.679899,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
+      "id": "1fb1481f-4f6b-4c5e-9d88-65ab1b5b67fa",
+      "latitude": -35.052708,
+      "longitude": 138.682436,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T05:22:53Z"
-    },
-    {
-      "id": "e1b04fe2-6712-42d4-9103-23df2f3943bf",
-      "latitude": -34.817392,
-      "longitude": 138.636869,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T05:11:26Z"
-    },
-    {
-      "id": "21a299a6-5266-48e6-b9de-a4bb9e36a8c3",
-      "latitude": -34.817253,
-      "longitude": 138.641161,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T05:18:32Z"
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T06:00:58Z"
     },
     {
       "id": "24137ce4-77a9-495b-bbbe-1a2065a78c19",
@@ -57,28 +37,8 @@
       "street": "Reservoir Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
+      "timestamp": "2026-01-07T06:30:13Z",
       "reported_at": "2026-01-07T05:19:25Z"
-    },
-    {
-      "id": "0e199777-8740-4c96-a892-f0f13ee0a953",
-      "latitude": -34.841729,
-      "longitude": 138.688732,
-      "street": "Reservoir Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T05:45:22Z"
-    },
-    {
-      "id": "db46dd9e-9c37-47b6-a2e0-9ebe6acb6427",
-      "latitude": -34.926754,
-      "longitude": 138.659272,
-      "street": "Glynburn Rd",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T05:45:43Z"
     },
     {
       "id": "a3cf1b22-b924-4f07-815d-8a2ec6fabe37",
@@ -87,8 +47,18 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
+      "timestamp": "2026-01-07T06:30:13Z",
       "reported_at": "2026-01-07T04:50:31Z"
+    },
+    {
+      "id": "94887837-3f5a-42a5-bb3f-1d78ce415e6f",
+      "latitude": -34.817037,
+      "longitude": 138.64121,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T04:54:21Z"
     },
     {
       "id": "12f6d921-b0ec-4029-8100-060202551e06",
@@ -97,8 +67,18 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
+      "timestamp": "2026-01-07T06:30:13Z",
       "reported_at": "2026-01-07T05:08:58Z"
+    },
+    {
+      "id": "734d58da-cbee-4eb5-8cbc-9474bbd26d75",
+      "latitude": -34.842767,
+      "longitude": 138.688818,
+      "street": "Reservoir Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T05:45:28Z"
     },
     {
       "id": "d2f411b6-b92f-40da-b0a9-0de028a2c257",
@@ -107,18 +87,48 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
+      "timestamp": "2026-01-07T06:30:13Z",
       "reported_at": "2026-01-07T05:31:43Z"
     },
     {
-      "id": "95bec92b-f4a5-4fd0-8eeb-146a74b46ff9",
-      "latitude": -34.859278,
-      "longitude": 138.686159,
+      "id": "dd9eb44d-73fa-4746-800c-8ab216feaa26",
+      "latitude": -34.8603,
+      "longitude": 138.684724,
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T06:00:14Z",
-      "reported_at": "2026-01-07T04:48:49Z"
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T06:00:31Z"
+    },
+    {
+      "id": "4ca7d074-2ffa-45a6-8ea8-e46beecec905",
+      "latitude": -34.851334,
+      "longitude": 138.66727,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T06:21:56Z"
+    },
+    {
+      "id": "ece9b479-5a98-4264-9b1e-8f10c4146d91",
+      "latitude": -34.833995,
+      "longitude": 138.540954,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T06:25:50Z"
+    },
+    {
+      "id": "016912be-0c86-4099-ba7b-32a6ee7fc97e",
+      "latitude": -34.786784,
+      "longitude": 138.58099,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:30:13Z",
+      "reported_at": "2026-01-07T06:21:38Z"
     }
   ]
 }
