@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "1a6cc4a2-c670-4b4f-b0a7-b3ce4ff1f61c",
-      "latitude": -34.922245,
-      "longitude": 138.599376,
-      "street": "King William St",
-      "city": "Adelaide",
+      "id": "3a440018-bcff-4238-80fc-b50adfa466e9",
+      "latitude": -34.822622,
+      "longitude": 138.694589,
+      "street": "Golden Grove Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-01-07T13:00:15Z",
-      "reported_at": "2026-01-07T12:37:40Z"
+      "timestamp": "2026-01-07T13:30:15Z",
+      "reported_at": "2026-01-07T12:55:20Z"
     },
     {
       "id": "1a1bb0ed-a03e-48fa-b619-911867fdd3c9",
@@ -17,7 +17,7 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-07T13:00:15Z",
+      "timestamp": "2026-01-07T13:30:15Z",
       "reported_at": "2026-01-07T10:30:26Z"
     },
     {
@@ -27,8 +27,18 @@
       "street": "Reservoir Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T13:00:15Z",
+      "timestamp": "2026-01-07T13:30:15Z",
       "reported_at": "2026-01-07T10:32:51Z"
+    },
+    {
+      "id": "799d10df-281e-4930-9344-a242a35062ef",
+      "latitude": -34.818613,
+      "longitude": 138.561884,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-07T13:30:15Z",
+      "reported_at": "2026-01-07T12:56:40Z"
     }
   ]
 }
