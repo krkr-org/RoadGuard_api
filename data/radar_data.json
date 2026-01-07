@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "d3c8c9f8-f3d5-42b2-b1eb-d19c1a0f492c",
-      "latitude": -34.978227,
-      "longitude": 138.517598,
-      "street": "Gordon St",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T09:31:19Z"
-    },
-    {
-      "id": "dc692f49-a275-4469-aee8-2779f4a02587",
-      "latitude": -34.862137,
-      "longitude": 138.679899,
+      "id": "90eabdb8-1117-417e-9a54-f0ce35cdbb0f",
+      "latitude": -34.860743,
+      "longitude": 138.679778,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T05:22:53Z"
-    },
-    {
-      "id": "7cb7ea6a-8d47-41f9-b7ea-f2e13bb3303e",
-      "latitude": -34.818124,
-      "longitude": 138.638036,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T06:16:08Z"
-    },
-    {
-      "id": "c8b8838a-1e89-447b-96fb-2a266e314e89",
-      "latitude": -35.024397,
-      "longitude": 138.586507,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
-      "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T10:36:06Z"
-    },
-    {
-      "id": "b0da5ae1-447b-4e54-8cc0-c048a61cca79",
-      "latitude": -34.818213,
-      "longitude": 138.641078,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T08:52:25Z"
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T06:50:24Z"
     },
     {
       "id": "7618814e-e7cf-48fc-a842-f930b551c031",
@@ -57,38 +17,18 @@
       "street": "Reservoir Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
+      "timestamp": "2026-01-07T11:30:14Z",
       "reported_at": "2026-01-07T07:38:32Z"
     },
     {
-      "id": "11ece9a7-81ba-4e3d-a56a-50b9b1c55814",
-      "latitude": -35.13026,
-      "longitude": 138.487026,
-      "street": "Flaxmill Rd",
-      "city": "Christie Downs",
+      "id": "1a1bb0ed-a03e-48fa-b619-911867fdd3c9",
+      "latitude": -34.668887,
+      "longitude": 138.56123,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T10:46:23Z"
-    },
-    {
-      "id": "b53098f5-a359-4118-a340-9bf26bc56967",
-      "latitude": -34.848025,
-      "longitude": 138.480359,
-      "street": "Military Rd",
-      "city": "Semaphore South",
-      "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T10:41:35Z"
-    },
-    {
-      "id": "61d52447-f7ac-472a-a852-67b2148a1eca",
-      "latitude": -34.891966,
-      "longitude": 138.576004,
-      "street": "Torrens Rd",
-      "city": "Renown Park",
-      "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T09:33:33Z"
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T10:30:26Z"
     },
     {
       "id": "4e413572-75dd-43b3-915a-409701c1e722",
@@ -97,28 +37,58 @@
       "street": "Reservoir Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
+      "timestamp": "2026-01-07T11:30:14Z",
       "reported_at": "2026-01-07T06:12:57Z"
     },
     {
-      "id": "95bec92b-f4a5-4fd0-8eeb-146a74b46ff9",
-      "latitude": -34.859278,
-      "longitude": 138.686159,
+      "id": "94887837-3f5a-42a5-bb3f-1d78ce415e6f",
+      "latitude": -34.817037,
+      "longitude": 138.64121,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T04:54:21Z"
+    },
+    {
+      "id": "0406f108-d64f-4231-a050-c318d6e2193d",
+      "latitude": -34.786716,
+      "longitude": 138.619591,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T11:06:43Z"
+    },
+    {
+      "id": "223b1072-e182-40a7-8f3b-9f04b0147576",
+      "latitude": -34.859935,
+      "longitude": 138.685424,
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T04:48:49Z"
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T08:52:03Z"
     },
     {
-      "id": "4f877cac-962e-46e8-899e-be98c57e687e",
-      "latitude": -35.023089,
-      "longitude": 138.559306,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "129f245c-bcb5-4b08-aeef-786612c97768",
+      "latitude": -34.993891,
+      "longitude": 138.708117,
+      "street": "B28 - Mount Lofty Summit Rd",
+      "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-07T11:00:17Z",
-      "reported_at": "2026-01-07T10:32:03Z"
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T11:18:28Z"
+    },
+    {
+      "id": "9a91daf1-69e8-4834-badb-4c8d0a3b2591",
+      "latitude": -34.838874,
+      "longitude": 138.502429,
+      "street": "A16 - Nelson St",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2026-01-07T11:30:14Z",
+      "reported_at": "2026-01-07T11:00:45Z"
     }
   ]
 }
