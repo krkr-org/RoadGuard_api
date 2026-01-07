@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "5b56f19c-5dae-4966-81a4-313af60c1c4d",
+      "latitude": -35.04731,
+      "longitude": 138.612954,
+      "street": "Murrays Hill Rd",
+      "city": "Coromandel Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:32:09Z"
+    },
+    {
       "id": "bf1274c3-c207-4bdc-b628-b714a1b31dbc",
       "latitude": -34.848914,
       "longitude": 138.702082,
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
+      "timestamp": "2026-01-07T06:00:14Z",
       "reported_at": "2026-01-07T05:15:33Z"
     },
     {
-      "id": "d72e678c-f559-4c08-8823-6e3c3432fd15",
-      "latitude": -34.96842,
-      "longitude": 138.542185,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "dc692f49-a275-4469-aee8-2779f4a02587",
+      "latitude": -34.862137,
+      "longitude": 138.679899,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
-      "reported_at": "2026-01-07T01:38:44Z"
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:22:53Z"
+    },
+    {
+      "id": "e1b04fe2-6712-42d4-9103-23df2f3943bf",
+      "latitude": -34.817392,
+      "longitude": 138.636869,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:11:26Z"
+    },
+    {
+      "id": "21a299a6-5266-48e6-b9de-a4bb9e36a8c3",
+      "latitude": -34.817253,
+      "longitude": 138.641161,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:18:32Z"
     },
     {
       "id": "24137ce4-77a9-495b-bbbe-1a2065a78c19",
@@ -27,28 +57,38 @@
       "street": "Reservoir Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
+      "timestamp": "2026-01-07T06:00:14Z",
       "reported_at": "2026-01-07T05:19:25Z"
     },
     {
-      "id": "586d8d49-8196-4a94-8c66-08198eb2e2c0",
-      "latitude": -34.826949,
-      "longitude": 138.644657,
-      "street": "Montague Rd",
-      "city": "Ingle Farm",
+      "id": "0e199777-8740-4c96-a892-f0f13ee0a953",
+      "latitude": -34.841729,
+      "longitude": 138.688732,
+      "street": "Reservoir Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
-      "reported_at": "2026-01-07T04:52:02Z"
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:45:22Z"
     },
     {
-      "id": "acfcc51c-8ca9-4f92-ae5c-1b1ed2ecd463",
-      "latitude": -34.876269,
-      "longitude": 138.550219,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
+      "id": "db46dd9e-9c37-47b6-a2e0-9ebe6acb6427",
+      "latitude": -34.926754,
+      "longitude": 138.659272,
+      "street": "Glynburn Rd",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
-      "reported_at": "2026-01-07T05:10:59Z"
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:45:43Z"
+    },
+    {
+      "id": "a3cf1b22-b924-4f07-815d-8a2ec6fabe37",
+      "latitude": -35.126517,
+      "longitude": 138.51947,
+      "street": "Flaxmill Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T04:50:31Z"
     },
     {
       "id": "12f6d921-b0ec-4029-8100-060202551e06",
@@ -57,28 +97,18 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
+      "timestamp": "2026-01-07T06:00:14Z",
       "reported_at": "2026-01-07T05:08:58Z"
     },
     {
-      "id": "94887837-3f5a-42a5-bb3f-1d78ce415e6f",
-      "latitude": -34.817037,
-      "longitude": 138.64121,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
+      "id": "d2f411b6-b92f-40da-b0a9-0de028a2c257",
+      "latitude": -34.840156,
+      "longitude": 138.714754,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
-      "reported_at": "2026-01-07T04:54:21Z"
-    },
-    {
-      "id": "6f0223e5-fc37-4822-9931-0577915e3f3e",
-      "latitude": -34.96669,
-      "longitude": 138.583333,
-      "street": "A3 - Cross Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
-      "reported_at": "2026-01-07T01:06:12Z"
+      "timestamp": "2026-01-07T06:00:14Z",
+      "reported_at": "2026-01-07T05:31:43Z"
     },
     {
       "id": "95bec92b-f4a5-4fd0-8eeb-146a74b46ff9",
@@ -87,18 +117,8 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
+      "timestamp": "2026-01-07T06:00:14Z",
       "reported_at": "2026-01-07T04:48:49Z"
-    },
-    {
-      "id": "b4c480b1-d12d-46a8-b1f8-d700c91e5b62",
-      "latitude": -34.840137,
-      "longitude": 138.714962,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-07T05:30:14Z",
-      "reported_at": "2026-01-07T05:12:12Z"
     }
   ]
 }
