@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "6dc45d9c-6a0d-4faa-a502-739e322fc151",
+      "latitude": -34.925687,
+      "longitude": 138.543754,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-01-07T22:36:55Z",
+      "reported_at": "2026-01-07T22:21:59Z"
+    },
+    {
+      "id": "861473d3-7e84-4393-89b3-74416209aad5",
+      "latitude": -34.691766,
+      "longitude": 138.64278,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-01-07T22:36:55Z",
+      "reported_at": "2026-01-07T21:48:53Z"
+    },
+    {
+      "id": "eeb5c121-3a18-47b9-94a7-e0a3d926c62f",
+      "latitude": -34.752352,
+      "longitude": 138.652075,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-07T22:36:55Z",
+      "reported_at": "2026-01-07T21:20:01Z"
+    },
+    {
+      "id": "d22e89c0-0054-4793-ac29-9fe99882c400",
+      "latitude": -34.840228,
+      "longitude": 138.510926,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-07T22:36:55Z",
+      "reported_at": "2026-01-07T22:23:24Z"
+    },
+    {
+      "id": "438df50a-9256-4a02-aef3-ee123f470c08",
+      "latitude": -34.886953,
+      "longitude": 138.544912,
+      "street": "A7 - Port Rd",
+      "city": "Woodville Park",
+      "type": "mobile",
+      "timestamp": "2026-01-07T22:36:55Z",
+      "reported_at": "2026-01-07T22:22:32Z"
+    }
+  ]
 }
