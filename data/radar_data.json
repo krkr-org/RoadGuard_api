@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d00921bf-8704-4b64-8b26-522ce6b4ce57",
+      "latitude": -35.086834,
+      "longitude": 138.564852,
+      "street": "Regency Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-07T12:30:13Z",
+      "reported_at": "2026-01-07T12:02:44Z"
+    },
+    {
       "id": "06b491ec-d408-46fc-9452-de7453cdd8c2",
       "latitude": -34.83632,
       "longitude": 138.6883,
       "street": "Reservoir Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T12:00:15Z",
+      "timestamp": "2026-01-07T12:30:13Z",
       "reported_at": "2026-01-07T10:32:51Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-07T12:00:15Z",
+      "timestamp": "2026-01-07T12:30:13Z",
       "reported_at": "2026-01-07T10:30:26Z"
     },
     {
-      "id": "129f245c-bcb5-4b08-aeef-786612c97768",
-      "latitude": -34.993891,
-      "longitude": 138.708117,
-      "street": "B28 - Mount Lofty Summit Rd",
-      "city": "Crafers",
+      "id": "37f14ec7-94a7-4920-94b6-93f08273063d",
+      "latitude": -34.96837,
+      "longitude": 138.547888,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-07T12:00:15Z",
-      "reported_at": "2026-01-07T11:18:28Z"
+      "timestamp": "2026-01-07T12:30:13Z",
+      "reported_at": "2026-01-07T12:05:46Z"
     },
     {
       "id": "00f95209-59e5-4915-8fce-03e918248411",
@@ -37,7 +47,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T12:00:15Z",
+      "timestamp": "2026-01-07T12:30:13Z",
       "reported_at": "2026-01-07T11:38:54Z"
     }
   ]
