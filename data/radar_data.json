@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "e1b04fe2-6712-42d4-9103-23df2f3943bf",
-      "latitude": -34.817392,
-      "longitude": 138.636869,
+      "id": "7ea6775a-84a3-4151-b969-a7d001bf98ec",
+      "latitude": -35.119765,
+      "longitude": 138.522904,
+      "street": "Conington Cr",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T08:56:00Z"
+    },
+    {
+      "id": "d9f2db79-e140-4bbe-a874-01b738ea611a",
+      "latitude": -34.817453,
+      "longitude": 138.636965,
       "street": "Research Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T05:11:26Z"
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T06:33:04Z"
+    },
+    {
+      "id": "08aeddf7-0cca-4cf8-ae94-e189d71070aa",
+      "latitude": -34.83655,
+      "longitude": 138.620902,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T06:14:24Z"
     },
     {
       "id": "11cbf02a-6a6e-483c-9b61-5a4cae0135d9",
@@ -17,7 +37,7 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
+      "timestamp": "2026-01-07T09:30:14Z",
       "reported_at": "2026-01-07T08:37:17Z"
     },
     {
@@ -27,8 +47,18 @@
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
+      "timestamp": "2026-01-07T09:30:14Z",
       "reported_at": "2026-01-07T08:52:25Z"
+    },
+    {
+      "id": "4e413572-75dd-43b3-915a-409701c1e722",
+      "latitude": -34.83563,
+      "longitude": 138.688223,
+      "street": "Reservoir Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T06:12:57Z"
     },
     {
       "id": "7618814e-e7cf-48fc-a842-f930b551c031",
@@ -37,38 +67,28 @@
       "street": "Reservoir Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
+      "timestamp": "2026-01-07T09:30:14Z",
       "reported_at": "2026-01-07T07:38:32Z"
     },
     {
-      "id": "24137ce4-77a9-495b-bbbe-1a2065a78c19",
-      "latitude": -34.837397,
-      "longitude": 138.688381,
-      "street": "Reservoir Rd",
-      "city": "Modbury",
+      "id": "d2f411b6-b92f-40da-b0a9-0de028a2c257",
+      "latitude": -34.840383,
+      "longitude": 138.712266,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T05:19:25Z"
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T05:31:43Z"
     },
     {
-      "id": "400efe54-fbb2-43e8-b801-b8bed1592473",
-      "latitude": -34.811581,
-      "longitude": 138.644884,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
+      "id": "95bec92b-f4a5-4fd0-8eeb-146a74b46ff9",
+      "latitude": -34.859278,
+      "longitude": 138.686159,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T08:33:51Z"
-    },
-    {
-      "id": "e4980c0d-684c-4d2c-99af-f08dbcd5726f",
-      "latitude": -34.767098,
-      "longitude": 138.606511,
-      "street": "A18 - Kings Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T08:42:45Z"
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T04:48:49Z"
     },
     {
       "id": "fc11e87d-b5eb-4ca9-8c9d-5a009d5427a1",
@@ -77,58 +97,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
+      "timestamp": "2026-01-07T09:30:14Z",
       "reported_at": "2026-01-07T08:47:35Z"
     },
     {
-      "id": "b4c480b1-d12d-46a8-b1f8-d700c91e5b62",
-      "latitude": -34.840137,
-      "longitude": 138.714962,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
+      "id": "7e3309ba-ec1b-4a1e-94a6-f707f5818473",
+      "latitude": -34.741137,
+      "longitude": 138.676292,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T05:12:12Z"
-    },
-    {
-      "id": "3321812a-b696-4363-8b02-d9474156f342",
-      "latitude": -34.858733,
-      "longitude": 138.686955,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T06:58:02Z"
-    },
-    {
-      "id": "9fc15af5-ed86-48d9-94b0-232b85f25062",
-      "latitude": -34.879728,
-      "longitude": 138.512862,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T08:28:55Z"
-    },
-    {
-      "id": "0446d62b-6f03-4f2b-8525-7e626932c280",
-      "latitude": -34.848751,
-      "longitude": 138.582578,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T08:35:28Z"
-    },
-    {
-      "id": "55cdc593-a169-4037-94a6-88936435b3cb",
-      "latitude": -35.098271,
-      "longitude": 138.517087,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-01-07T09:00:14Z",
-      "reported_at": "2026-01-07T08:38:55Z"
+      "timestamp": "2026-01-07T09:30:14Z",
+      "reported_at": "2026-01-07T09:05:43Z"
     }
   ]
 }
