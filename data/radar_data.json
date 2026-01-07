@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "60b175d0-d964-4557-b92a-e59287bd8e73",
-      "latitude": -35.000883,
-      "longitude": 138.715097,
-      "street": "to M1 - South Eastern Fwy to Bridgewater",
-      "city": "Crafers",
-      "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
-      "reported_at": "2026-01-07T00:33:49Z"
-    },
-    {
       "id": "61dbc906-89e4-43d8-8bb6-d165f6592e82",
       "latitude": -35.005868,
       "longitude": 138.580455,
       "street": "Quinlan Av",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
+      "timestamp": "2026-01-07T04:00:14Z",
       "reported_at": "2026-01-07T01:19:36Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
+      "timestamp": "2026-01-07T04:00:14Z",
       "reported_at": "2026-01-07T00:04:22Z"
+    },
+    {
+      "id": "60b175d0-d964-4557-b92a-e59287bd8e73",
+      "latitude": -35.000883,
+      "longitude": 138.715097,
+      "street": "to M1 - South Eastern Fwy to Bridgewater",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-01-07T04:00:14Z",
+      "reported_at": "2026-01-07T00:33:49Z"
     },
     {
       "id": "d72e678c-f559-4c08-8823-6e3c3432fd15",
@@ -37,28 +37,18 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
+      "timestamp": "2026-01-07T04:00:14Z",
       "reported_at": "2026-01-07T01:38:44Z"
     },
     {
-      "id": "af5f990a-bda3-4339-bbc3-f8a7d72bb52e",
-      "latitude": -35.04217,
-      "longitude": 138.709333,
-      "street": "Scott Creek Rd",
-      "city": "Ironbank",
+      "id": "68f2f37b-6b0f-42e0-aad2-4a3c0d414eac",
+      "latitude": -35.058534,
+      "longitude": 138.612773,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
-      "reported_at": "2026-01-07T02:57:53Z"
-    },
-    {
-      "id": "8eb1d257-439c-4b82-91a6-f7960557df1e",
-      "latitude": -34.992616,
-      "longitude": 138.577694,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
-      "reported_at": "2026-01-07T02:30:07Z"
+      "timestamp": "2026-01-07T04:00:14Z",
+      "reported_at": "2026-01-07T03:48:19Z"
     },
     {
       "id": "80464273-3b94-4992-9b76-7ade729eb323",
@@ -67,28 +57,18 @@
       "street": "Henley Beach Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
+      "timestamp": "2026-01-07T04:00:14Z",
       "reported_at": "2026-01-07T03:14:47Z"
     },
     {
-      "id": "68c353a3-5e78-40d2-868b-e0a8e4ebccc9",
-      "latitude": -34.924338,
-      "longitude": 138.584357,
-      "street": "Glover Av",
-      "city": "Adelaide",
+      "id": "391c9535-e6f3-4af2-9edc-d29094ff0344",
+      "latitude": -34.992545,
+      "longitude": 138.579754,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
-      "reported_at": "2026-01-07T01:53:29Z"
-    },
-    {
-      "id": "174a41a0-55c3-4673-8664-003f53652e18",
-      "latitude": -34.68461,
-      "longitude": 138.626281,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
-      "reported_at": "2026-01-07T03:11:38Z"
+      "timestamp": "2026-01-07T04:00:14Z",
+      "reported_at": "2026-01-07T02:32:33Z"
     },
     {
       "id": "6f0223e5-fc37-4822-9931-0577915e3f3e",
@@ -97,18 +77,8 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
+      "timestamp": "2026-01-07T04:00:14Z",
       "reported_at": "2026-01-07T01:06:12Z"
-    },
-    {
-      "id": "646bfae5-4b8a-4316-8d7d-2947e6f8d160",
-      "latitude": -34.970659,
-      "longitude": 138.650172,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-01-07T03:30:14Z",
-      "reported_at": "2026-01-07T03:01:50Z"
     }
   ]
 }
