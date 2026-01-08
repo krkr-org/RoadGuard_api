@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "71152576-a44c-4b56-9553-c6aaab2090e7",
-      "latitude": -34.968244,
-      "longitude": 138.545665,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "90f5c1fa-a0d6-449d-868a-7179fac6293f",
+      "latitude": -34.845401,
+      "longitude": 138.50766,
+      "street": "Lipson St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T02:30:14Z",
-      "reported_at": "2026-01-08T01:55:43Z"
-    },
-    {
-      "id": "16471a73-520b-45db-a00b-b39766032c0c",
-      "latitude": -34.744615,
-      "longitude": 138.648109,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-01-08T02:30:14Z",
-      "reported_at": "2026-01-08T02:11:16Z"
+      "timestamp": "2026-01-08T03:00:15Z",
+      "reported_at": "2026-01-08T02:26:24Z"
     },
     {
       "id": "3975ad19-154e-40ca-ab04-68e04242fe22",
@@ -27,8 +17,28 @@
       "street": "Pirie St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T02:30:14Z",
+      "timestamp": "2026-01-08T03:00:15Z",
       "reported_at": "2026-01-08T01:16:37Z"
+    },
+    {
+      "id": "71152576-a44c-4b56-9553-c6aaab2090e7",
+      "latitude": -34.968244,
+      "longitude": 138.545665,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T03:00:15Z",
+      "reported_at": "2026-01-08T01:55:43Z"
+    },
+    {
+      "id": "bd60a6c1-1936-497e-90ec-e6b7856cf8a3",
+      "latitude": -35.015104,
+      "longitude": 138.546436,
+      "street": "Diagonal Rd",
+      "city": "Oaklands Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T03:00:15Z",
+      "reported_at": "2026-01-08T02:25:40Z"
     },
     {
       "id": "96a7ccd4-0a29-4244-b044-721b8704765b",
@@ -37,28 +47,38 @@
       "street": "Regency Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-08T02:30:14Z",
+      "timestamp": "2026-01-08T03:00:15Z",
       "reported_at": "2026-01-08T02:21:30Z"
     },
     {
-      "id": "b83e976e-0146-48e1-965c-0b456257d57f",
-      "latitude": -34.850881,
-      "longitude": 138.5094,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
+      "id": "b1b4419b-03fb-42cf-b569-ceb88c53e010",
+      "latitude": -34.920802,
+      "longitude": 138.584066,
+      "street": "Port Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T02:30:14Z",
-      "reported_at": "2026-01-08T02:20:54Z"
+      "timestamp": "2026-01-08T03:00:15Z",
+      "reported_at": "2026-01-08T02:57:41Z"
     },
     {
-      "id": "01efcf63-1b24-4dd5-9007-6b208148eecf",
-      "latitude": -34.933523,
-      "longitude": 138.531944,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
+      "id": "758bdd23-9447-4384-9efd-f1b027287297",
+      "latitude": -34.931435,
+      "longitude": 138.517615,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-08T02:30:14Z",
-      "reported_at": "2026-01-08T01:51:45Z"
+      "timestamp": "2026-01-08T03:00:15Z",
+      "reported_at": "2026-01-08T02:51:55Z"
+    },
+    {
+      "id": "25ed0e28-3d07-4eb6-92c9-8bca923fa3c2",
+      "latitude": -34.775297,
+      "longitude": 138.661275,
+      "street": "A20 - Main North Rd",
+      "city": "Brahma Lodge",
+      "type": "mobile",
+      "timestamp": "2026-01-08T03:00:15Z",
+      "reported_at": "2026-01-08T02:39:38Z"
     }
   ]
 }
