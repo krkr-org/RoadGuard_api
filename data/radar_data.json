@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "93b9d642-380b-4d1f-937b-62f7d90257a2",
+      "latitude": -35.136529,
+      "longitude": 138.524458,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-08T01:00:17Z",
+      "reported_at": "2026-01-08T00:28:58Z"
+    },
+    {
+      "id": "7723ef57-a36f-4e16-ae9f-96a1813b3c82",
+      "latitude": -34.913886,
+      "longitude": 138.65852,
+      "street": "B27 - Magill Rd",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-01-08T01:00:17Z",
+      "reported_at": "2026-01-08T00:34:38Z"
+    }
+  ]
 }
