@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "3d3edcfc-94b9-4482-8034-95857d3da4a8",
-      "latitude": -34.856961,
-      "longitude": 138.505425,
+      "id": "46f3401f-d784-4f45-b60a-cf8e4ec12d13",
+      "latitude": -34.857767,
+      "longitude": 138.504513,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T05:56:02Z"
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T05:40:16Z"
     },
     {
       "id": "62a66f13-d61f-4369-9d74-4e619d730c57",
@@ -17,7 +17,7 @@
       "street": "Exeter Tce",
       "city": "Devon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T05:23:06Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "South Tce",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T05:39:59Z"
     },
     {
@@ -37,18 +37,8 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T05:05:45Z"
-    },
-    {
-      "id": "c5435726-1a38-4218-8e53-ab715530c028",
-      "latitude": -34.862402,
-      "longitude": 138.527314,
-      "street": "Torrens Rd",
-      "city": "Pennington",
-      "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T07:02:16Z"
     },
     {
       "id": "a5f0387b-02cc-4266-b86d-4f1dc2d6094a",
@@ -57,8 +47,28 @@
       "street": "Lionel Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T05:17:35Z"
+    },
+    {
+      "id": "c5435726-1a38-4218-8e53-ab715530c028",
+      "latitude": -34.862402,
+      "longitude": 138.527314,
+      "street": "Torrens Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T07:02:16Z"
+    },
+    {
+      "id": "d6b3edc9-c0d9-4642-a66a-6c71a78cf7b5",
+      "latitude": -34.879786,
+      "longitude": 138.571416,
+      "street": "to South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T05:53:32Z"
     },
     {
       "id": "cc34cb78-636a-4606-8e04-094a3f555ddc",
@@ -67,38 +77,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T06:48:53Z"
     },
     {
-      "id": "ab7909f4-5195-48b3-a998-0f05f039a7bb",
-      "latitude": -34.880165,
-      "longitude": 138.571359,
-      "street": "South Rd",
-      "city": "Croydon Park",
+      "id": "fbc3662a-6c87-4853-b22c-34df134d1758",
+      "latitude": -34.748366,
+      "longitude": 138.640144,
+      "street": "Commercial Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T05:55:03Z"
-    },
-    {
-      "id": "0aa37216-f03f-44e5-bbdb-01aa48568674",
-      "latitude": -34.8972,
-      "longitude": 138.580323,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T05:58:38Z"
-    },
-    {
-      "id": "4dd4aa87-b3a2-4675-83b9-c8254b255851",
-      "latitude": -34.922313,
-      "longitude": 138.612687,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T07:57:03Z"
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T08:41:46Z"
     },
     {
       "id": "9f663fd3-676b-4a87-8d1d-1a47413d073f",
@@ -107,18 +97,8 @@
       "street": "Hart St",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T05:52:34Z"
-    },
-    {
-      "id": "6ab2a9f9-bb00-4654-8b7b-6e9d7f7a7825",
-      "latitude": -34.75231,
-      "longitude": 138.62519,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T08:22:30Z"
     },
     {
       "id": "1c7d47ca-54ff-405e-a603-e4e331fe7578",
@@ -127,28 +107,38 @@
       "street": "Frederick Rd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
+      "timestamp": "2026-01-08T09:00:16Z",
       "reported_at": "2026-01-08T06:04:03Z"
     },
     {
-      "id": "81dbfa74-5687-4ddb-bbc3-df09af78fb45",
-      "latitude": -34.857146,
-      "longitude": 138.600763,
+      "id": "09747152-c53c-47bf-bf72-0ee044145771",
+      "latitude": -34.857698,
+      "longitude": 138.600912,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T05:57:32Z"
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T08:03:14Z"
     },
     {
-      "id": "0defde18-20fd-4eb9-859e-97a32d694320",
-      "latitude": -35.146821,
-      "longitude": 138.525278,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham",
+      "id": "771a7dbe-2a7b-4681-91b0-a6b665b1161d",
+      "latitude": -34.964725,
+      "longitude": 138.646624,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-08T08:30:14Z",
-      "reported_at": "2026-01-08T08:06:44Z"
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T08:52:31Z"
+    },
+    {
+      "id": "b59ed405-5339-468f-83cf-9569f72b13db",
+      "latitude": -35.088449,
+      "longitude": 138.532821,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-01-08T09:00:16Z",
+      "reported_at": "2026-01-08T08:35:00Z"
     }
   ]
 }
