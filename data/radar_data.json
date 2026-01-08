@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "3e283fa7-ac82-4318-a4a7-2f6ac0111735",
-      "latitude": -34.964247,
-      "longitude": 138.631929,
+      "id": "85d53f0c-acd3-448d-ad94-af6954c03dbe",
+      "latitude": -34.862244,
+      "longitude": 138.574287,
+      "street": "Naweena Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T21:30:13Z",
+      "reported_at": "2026-01-08T21:01:06Z"
+    },
+    {
+      "id": "c2b65613-cb7d-47f2-af02-8d190873336f",
+      "latitude": -34.931515,
+      "longitude": 138.668515,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-01-08T21:30:13Z",
+      "reported_at": "2026-01-08T21:07:00Z"
+    },
+    {
+      "id": "668acef0-b593-4d67-8d6b-9885b5099eb9",
+      "latitude": -34.964387,
+      "longitude": 138.628975,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-08T21:00:14Z",
-      "reported_at": "2026-01-08T20:50:18Z"
+      "timestamp": "2026-01-08T21:30:13Z",
+      "reported_at": "2026-01-08T20:49:07Z"
+    },
+    {
+      "id": "25e88336-93d3-4769-aae3-fc1874e50db6",
+      "latitude": -34.923872,
+      "longitude": 138.617652,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-08T21:30:13Z",
+      "reported_at": "2026-01-08T20:51:48Z"
+    },
+    {
+      "id": "2b66dd3a-568f-4325-bfef-eb3da05733b7",
+      "latitude": -34.790278,
+      "longitude": 138.64458,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-01-08T21:30:13Z",
+      "reported_at": "2026-01-08T21:12:42Z"
     }
   ]
 }
