@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "7d3c5427-8404-434a-b309-8c26e10d6a03",
-      "latitude": -34.764471,
-      "longitude": 138.622402,
-      "street": "Burton Rd",
-      "city": "Salisbury Downs",
+      "id": "3d3edcfc-94b9-4482-8034-95857d3da4a8",
+      "latitude": -34.85721,
+      "longitude": 138.505143,
+      "street": "Webb St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T05:28:06Z"
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:56:02Z"
     },
     {
-      "id": "42aacea3-7001-499c-a78b-905552cac414",
-      "latitude": -34.855402,
-      "longitude": 138.52907,
-      "street": "Addison Rd",
-      "city": "Rosewater",
+      "id": "d6b3edc9-c0d9-4642-a66a-6c71a78cf7b5",
+      "latitude": -34.879786,
+      "longitude": 138.571416,
+      "street": "to South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T05:18:49Z"
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:53:32Z"
+    },
+    {
+      "id": "0aa37216-f03f-44e5-bbdb-01aa48568674",
+      "latitude": -34.8972,
+      "longitude": 138.580323,
+      "street": "Chief St",
+      "city": "Brompton",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:58:38Z"
     },
     {
       "id": "084b84c5-c055-4814-9d70-05c20c9df07d",
@@ -27,28 +37,18 @@
       "street": "Churchill Rd North",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
+      "timestamp": "2026-01-08T06:30:14Z",
       "reported_at": "2026-01-08T05:07:42Z"
     },
     {
-      "id": "80cc4c57-2ff0-46c2-8d9f-ad16eaa07ef7",
-      "latitude": -34.808238,
-      "longitude": 138.698271,
-      "street": "Golden Grove Rd",
-      "city": "Redwood Park",
+      "id": "a5f0387b-02cc-4266-b86d-4f1dc2d6094a",
+      "latitude": -34.858723,
+      "longitude": 138.5967,
+      "street": "Lionel Av",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T05:55:23Z"
-    },
-    {
-      "id": "fb3595b8-93e2-40ff-81cf-269d2b7b2ddc",
-      "latitude": -34.839147,
-      "longitude": 138.485575,
-      "street": "Semaphore Rd",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T05:10:40Z"
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:17:35Z"
     },
     {
       "id": "c43703e7-e243-44f9-bb1a-fdf6516452f8",
@@ -57,8 +57,28 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
+      "timestamp": "2026-01-08T06:30:14Z",
       "reported_at": "2026-01-08T03:25:16Z"
+    },
+    {
+      "id": "9f663fd3-676b-4a87-8d1d-1a47413d073f",
+      "latitude": -34.845975,
+      "longitude": 138.49094,
+      "street": "Hart St",
+      "city": "Glanville",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:52:34Z"
+    },
+    {
+      "id": "80cc4c57-2ff0-46c2-8d9f-ad16eaa07ef7",
+      "latitude": -34.808238,
+      "longitude": 138.698271,
+      "street": "Golden Grove Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:55:23Z"
     },
     {
       "id": "cdbd0554-592d-4e97-8e34-7b84f6397ec3",
@@ -67,8 +87,38 @@
       "street": "A16 - Bower Rd",
       "city": "New Port",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
+      "timestamp": "2026-01-08T06:30:14Z",
       "reported_at": "2026-01-08T05:52:54Z"
+    },
+    {
+      "id": "81dbfa74-5687-4ddb-bbc3-df09af78fb45",
+      "latitude": -34.857146,
+      "longitude": 138.600763,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:57:32Z"
+    },
+    {
+      "id": "7abf92e7-1790-4a6e-b28e-991c2781c16b",
+      "latitude": -35.025247,
+      "longitude": 138.56042,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T05:59:04Z"
+    },
+    {
+      "id": "fa9038a7-c92c-4406-85d6-de59c3e3cb01",
+      "latitude": -34.855971,
+      "longitude": 138.65766,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T06:12:32Z"
     },
     {
       "id": "ab7015f1-156d-487f-8d59-45afce85b295",
@@ -77,38 +127,28 @@
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
+      "timestamp": "2026-01-08T06:30:14Z",
       "reported_at": "2026-01-08T04:38:04Z"
     },
     {
-      "id": "aeb3f077-1f04-470d-85ff-ff7bc6b3886e",
-      "latitude": -34.744459,
-      "longitude": 138.676211,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T05:51:15Z"
-    },
-    {
-      "id": "f54f6e03-49d8-4d00-ab1e-2c4aa8e29661",
-      "latitude": -35.08791,
-      "longitude": 138.535389,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T05:53:34Z"
-    },
-    {
-      "id": "1ce258a7-80ab-41eb-a6fc-8bc38e66903c",
-      "latitude": -34.878833,
-      "longitude": 138.571554,
+      "id": "0305fc4d-f46d-44fd-8bdd-1b09bf584747",
+      "latitude": -34.881413,
+      "longitude": 138.571737,
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:00:14Z",
-      "reported_at": "2026-01-08T04:58:59Z"
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T06:24:45Z"
+    },
+    {
+      "id": "c209727c-6fa3-40a4-8dc0-2705f313d701",
+      "latitude": -34.976425,
+      "longitude": 138.679582,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-08T06:30:14Z",
+      "reported_at": "2026-01-08T06:20:44Z"
     }
   ]
 }
