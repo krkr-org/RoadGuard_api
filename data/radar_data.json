@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "3d3edcfc-94b9-4482-8034-95857d3da4a8",
-      "latitude": -34.85721,
-      "longitude": 138.505143,
+      "id": "62a66f13-d61f-4369-9d74-4e619d730c57",
+      "latitude": -34.887802,
+      "longitude": 138.583287,
+      "street": "Exeter Tce",
+      "city": "Devon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T05:23:06Z"
+    },
+    {
+      "id": "74e8ff18-043e-4fe8-a7ec-8a3d3e0810c2",
+      "latitude": -34.839038,
+      "longitude": 138.55879,
+      "street": "South Tce",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T05:39:59Z"
+    },
+    {
+      "id": "46f3401f-d784-4f45-b60a-cf8e4ec12d13",
+      "latitude": -34.857767,
+      "longitude": 138.504513,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T05:56:02Z"
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T05:40:16Z"
     },
     {
       "id": "d6b3edc9-c0d9-4642-a66a-6c71a78cf7b5",
@@ -17,8 +37,18 @@
       "street": "to South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
+      "timestamp": "2026-01-08T07:00:18Z",
       "reported_at": "2026-01-08T05:53:32Z"
+    },
+    {
+      "id": "511b6756-ca1c-4465-a768-26d4856d426d",
+      "latitude": -34.763106,
+      "longitude": 138.621165,
+      "street": "Burton Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:42:36Z"
     },
     {
       "id": "0aa37216-f03f-44e5-bbdb-01aa48568674",
@@ -27,18 +57,28 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
+      "timestamp": "2026-01-08T07:00:18Z",
       "reported_at": "2026-01-08T05:58:38Z"
     },
     {
-      "id": "084b84c5-c055-4814-9d70-05c20c9df07d",
-      "latitude": -34.845744,
-      "longitude": 138.582185,
-      "street": "Churchill Rd North",
-      "city": "Dry Creek",
+      "id": "327eb029-42d0-4a0a-a297-830c81c8dec5",
+      "latitude": -34.861763,
+      "longitude": 138.526265,
+      "street": "Torrens Rd",
+      "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T05:07:42Z"
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:41:57Z"
+    },
+    {
+      "id": "cc34cb78-636a-4606-8e04-094a3f555ddc",
+      "latitude": -34.916399,
+      "longitude": 138.588732,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:48:53Z"
     },
     {
       "id": "a5f0387b-02cc-4266-b86d-4f1dc2d6094a",
@@ -47,18 +87,8 @@
       "street": "Lionel Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
+      "timestamp": "2026-01-08T07:00:18Z",
       "reported_at": "2026-01-08T05:17:35Z"
-    },
-    {
-      "id": "c43703e7-e243-44f9-bb1a-fdf6516452f8",
-      "latitude": -35.115486,
-      "longitude": 138.535603,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T03:25:16Z"
     },
     {
       "id": "9f663fd3-676b-4a87-8d1d-1a47413d073f",
@@ -67,38 +97,68 @@
       "street": "Hart St",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
+      "timestamp": "2026-01-08T07:00:18Z",
       "reported_at": "2026-01-08T05:52:34Z"
     },
     {
-      "id": "80cc4c57-2ff0-46c2-8d9f-ad16eaa07ef7",
-      "latitude": -34.808238,
-      "longitude": 138.698271,
-      "street": "Golden Grove Rd",
-      "city": "Redwood Park",
+      "id": "544e23a5-f707-4c8f-8d84-2b9a346ef46c",
+      "latitude": -35.137451,
+      "longitude": 138.509915,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T05:55:23Z"
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:31:27Z"
     },
     {
-      "id": "cdbd0554-592d-4e97-8e34-7b84f6397ec3",
-      "latitude": -34.852146,
-      "longitude": 138.496754,
-      "street": "A16 - Bower Rd",
-      "city": "New Port",
+      "id": "1fcaf937-81bd-4172-b3b3-5bf0f45e2556",
+      "latitude": -35.126515,
+      "longitude": 138.517138,
+      "street": "Flaxmill Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T05:52:54Z"
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:38:16Z"
     },
     {
-      "id": "81dbfa74-5687-4ddb-bbc3-df09af78fb45",
-      "latitude": -34.857146,
-      "longitude": 138.600763,
+      "id": "c43703e7-e243-44f9-bb1a-fdf6516452f8",
+      "latitude": -35.115486,
+      "longitude": 138.535603,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T03:25:16Z"
+    },
+    {
+      "id": "1c7d47ca-54ff-405e-a603-e4e331fe7578",
+      "latitude": -34.873974,
+      "longitude": 138.503607,
+      "street": "Frederick Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:04:03Z"
+    },
+    {
+      "id": "8d8f3124-d6ac-484d-b5c4-cc27a0c74e9c",
+      "latitude": -35.146437,
+      "longitude": 138.525244,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:43:37Z"
+    },
+    {
+      "id": "b51553ba-7109-4414-8947-7cb231f5d19e",
+      "latitude": -34.858514,
+      "longitude": 138.60086,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T05:57:32Z"
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T05:57:36Z"
     },
     {
       "id": "7abf92e7-1790-4a6e-b28e-991c2781c16b",
@@ -107,48 +167,18 @@
       "street": "A13 - Main South Rd",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
+      "timestamp": "2026-01-08T07:00:18Z",
       "reported_at": "2026-01-08T05:59:04Z"
     },
     {
-      "id": "fa9038a7-c92c-4406-85d6-de59c3e3cb01",
-      "latitude": -34.855971,
-      "longitude": 138.65766,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T06:12:32Z"
-    },
-    {
-      "id": "ab7015f1-156d-487f-8d59-45afce85b295",
-      "latitude": -34.87889,
-      "longitude": 138.584414,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T04:38:04Z"
-    },
-    {
-      "id": "0305fc4d-f46d-44fd-8bdd-1b09bf584747",
-      "latitude": -34.881413,
-      "longitude": 138.571737,
+      "id": "45cc2a0f-d87d-45ab-ba61-8cfb9f6a70a4",
+      "latitude": -34.878878,
+      "longitude": 138.571554,
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T06:24:45Z"
-    },
-    {
-      "id": "c209727c-6fa3-40a4-8dc0-2705f313d701",
-      "latitude": -34.976425,
-      "longitude": 138.679582,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-08T06:30:14Z",
-      "reported_at": "2026-01-08T06:20:44Z"
+      "timestamp": "2026-01-08T07:00:18Z",
+      "reported_at": "2026-01-08T06:54:00Z"
     }
   ]
 }
