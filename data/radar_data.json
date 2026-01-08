@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "06499eb6-8b35-43fc-965c-983618f83eeb",
+      "latitude": -34.902424,
+      "longitude": 138.680886,
+      "street": "Moules Rd",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-01-08T23:00:13Z",
+      "reported_at": "2026-01-08T21:48:28Z"
+    },
+    {
       "id": "c2b65613-cb7d-47f2-af02-8d190873336f",
       "latitude": -34.931515,
       "longitude": 138.668515,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-01-08T22:30:12Z",
+      "timestamp": "2026-01-08T23:00:13Z",
       "reported_at": "2026-01-08T21:07:00Z"
-    },
-    {
-      "id": "23f1cb91-4f90-4162-98c0-665c0dfd63a2",
-      "latitude": -34.955725,
-      "longitude": 138.508699,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-08T22:30:12Z",
-      "reported_at": "2026-01-08T22:20:40Z"
     },
     {
       "id": "45bbd1f2-5817-4bd6-8577-e373488e786b",
@@ -27,8 +27,18 @@
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T22:30:12Z",
+      "timestamp": "2026-01-08T23:00:13Z",
       "reported_at": "2026-01-08T21:33:36Z"
+    },
+    {
+      "id": "3e283fa7-ac82-4318-a4a7-2f6ac0111735",
+      "latitude": -34.964247,
+      "longitude": 138.631929,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-08T23:00:13Z",
+      "reported_at": "2026-01-08T20:50:18Z"
     },
     {
       "id": "905fa8ae-0b46-48f1-be71-2121c9ccb904",
@@ -37,18 +47,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Globe Derby Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T22:30:12Z",
+      "timestamp": "2026-01-08T23:00:13Z",
       "reported_at": "2026-01-08T22:02:16Z"
     },
     {
-      "id": "3c9881f8-6772-4cb3-a7e1-0a45c5301ee0",
-      "latitude": -34.78196,
-      "longitude": 138.595748,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Parafield Gardens",
+      "id": "25e88336-93d3-4769-aae3-fc1874e50db6",
+      "latitude": -34.923817,
+      "longitude": 138.617575,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T22:30:12Z",
-      "reported_at": "2026-01-08T22:07:24Z"
+      "timestamp": "2026-01-08T23:00:13Z",
+      "reported_at": "2026-01-08T20:51:48Z"
+    },
+    {
+      "id": "c1eb7723-ede0-4976-88c7-60d6332769e4",
+      "latitude": -34.998339,
+      "longitude": 138.706887,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-01-08T23:00:13Z",
+      "reported_at": "2026-01-08T22:41:01Z"
     }
   ]
 }
