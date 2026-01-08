@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "86dcbff9-36d5-49dc-b19e-7e565477ae5c",
+      "latitude": -34.85752,
+      "longitude": 138.504792,
+      "street": "Webb St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-08T11:30:14Z",
+      "reported_at": "2026-01-08T10:08:38Z"
+    },
+    {
       "id": "63ef3b7f-d02e-4d44-bc8f-08f2fbaa3c3e",
       "latitude": -34.852156,
       "longitude": 138.552188,
       "street": "Clara St",
       "city": "Mansfield Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
+      "timestamp": "2026-01-08T11:30:14Z",
       "reported_at": "2026-01-08T07:22:32Z"
+    },
+    {
+      "id": "b20efc04-e163-4b60-b8b0-3595589d663d",
+      "latitude": -34.859149,
+      "longitude": 138.559933,
+      "street": "Cowan St",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T11:30:14Z",
+      "reported_at": "2026-01-08T11:16:31Z"
     },
     {
       "id": "dd7d505b-a7bb-4cb3-9dd1-209236aace19",
@@ -17,8 +37,18 @@
       "street": "South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
+      "timestamp": "2026-01-08T11:30:14Z",
       "reported_at": "2026-01-08T09:38:21Z"
+    },
+    {
+      "id": "c5435726-1a38-4218-8e53-ab715530c028",
+      "latitude": -34.862402,
+      "longitude": 138.527314,
+      "street": "Torrens Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-01-08T11:30:14Z",
+      "reported_at": "2026-01-08T07:02:16Z"
     },
     {
       "id": "a4d4a44c-c5e2-466b-acbd-aa21b59814c1",
@@ -27,28 +57,8 @@
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
+      "timestamp": "2026-01-08T11:30:14Z",
       "reported_at": "2026-01-08T10:42:35Z"
-    },
-    {
-      "id": "4718b1cb-0936-4155-bac7-8821f780a66e",
-      "latitude": -35.011978,
-      "longitude": 138.54046,
-      "street": "Morphett Rd",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
-      "reported_at": "2026-01-08T10:31:04Z"
-    },
-    {
-      "id": "c67056df-37e2-41c2-ae1e-0014fd81f345",
-      "latitude": -35.11614,
-      "longitude": 138.51531,
-      "street": "O'Sullivan Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
-      "reported_at": "2026-01-08T09:02:18Z"
     },
     {
       "id": "33adaae5-1b95-4d85-b7fc-7bc512d39e1c",
@@ -57,38 +67,38 @@
       "street": "Old Port Rd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
+      "timestamp": "2026-01-08T11:30:14Z",
       "reported_at": "2026-01-08T10:43:29Z"
     },
     {
-      "id": "573caa91-4807-4f72-bc84-6c23fc97be31",
-      "latitude": -34.839304,
-      "longitude": 138.500199,
-      "street": "A16 - Semaphore Rd",
-      "city": "New Port",
+      "id": "c67056df-37e2-41c2-ae1e-0014fd81f345",
+      "latitude": -35.11614,
+      "longitude": 138.51531,
+      "street": "O'Sullivan Beach Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
-      "reported_at": "2026-01-08T10:40:48Z"
+      "timestamp": "2026-01-08T11:30:14Z",
+      "reported_at": "2026-01-08T09:02:18Z"
     },
     {
-      "id": "b9bc9bc8-2812-4446-918f-cc639230a91b",
-      "latitude": -34.833917,
-      "longitude": 138.598963,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Cavan",
+      "id": "81dbfa74-5687-4ddb-bbc3-df09af78fb45",
+      "latitude": -34.857146,
+      "longitude": 138.600763,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
-      "reported_at": "2026-01-08T10:41:40Z"
+      "timestamp": "2026-01-08T11:30:14Z",
+      "reported_at": "2026-01-08T05:57:32Z"
     },
     {
-      "id": "55d8ce9d-6475-4b64-ba06-c55575641283",
-      "latitude": -34.878331,
-      "longitude": 138.571706,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
+      "id": "27b06de0-346c-44ef-8ca1-6ab9b689a568",
+      "latitude": -35.111739,
+      "longitude": 138.508985,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-08T11:00:16Z",
-      "reported_at": "2026-01-08T09:58:41Z"
+      "timestamp": "2026-01-08T11:30:14Z",
+      "reported_at": "2026-01-08T11:25:03Z"
     }
   ]
 }
