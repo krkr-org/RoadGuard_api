@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "71152576-a44c-4b56-9553-c6aaab2090e7",
-      "latitude": -34.968244,
-      "longitude": 138.545665,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "7d3c5427-8404-434a-b309-8c26e10d6a03",
+      "latitude": -34.764471,
+      "longitude": 138.622402,
+      "street": "Burton Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
-      "reported_at": "2026-01-08T01:55:43Z"
+      "timestamp": "2026-01-08T05:30:15Z",
+      "reported_at": "2026-01-08T05:28:06Z"
     },
     {
-      "id": "3975ad19-154e-40ca-ab04-68e04242fe22",
-      "latitude": -34.925708,
-      "longitude": 138.600704,
-      "street": "Pirie St",
-      "city": "Adelaide",
+      "id": "793976ba-1af1-40cf-aa7c-f1ddbe0e0a08",
+      "latitude": -34.683444,
+      "longitude": 138.679028,
+      "street": "Coventry Rd",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
-      "reported_at": "2026-01-08T01:16:37Z"
+      "timestamp": "2026-01-08T05:30:15Z",
+      "reported_at": "2026-01-08T04:51:45Z"
+    },
+    {
+      "id": "42aacea3-7001-499c-a78b-905552cac414",
+      "latitude": -34.855402,
+      "longitude": 138.52907,
+      "street": "Addison Rd",
+      "city": "Rosewater",
+      "type": "mobile",
+      "timestamp": "2026-01-08T05:30:15Z",
+      "reported_at": "2026-01-08T05:18:49Z"
     },
     {
       "id": "c43703e7-e243-44f9-bb1a-fdf6516452f8",
@@ -27,38 +37,18 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
+      "timestamp": "2026-01-08T05:30:15Z",
       "reported_at": "2026-01-08T03:25:16Z"
     },
     {
-      "id": "67adc5ec-7c97-4529-9f65-fa52306e8a15",
-      "latitude": -34.775921,
-      "longitude": 138.64527,
-      "street": "Cross Keys Rd",
-      "city": "Salisbury",
+      "id": "fb3595b8-93e2-40ff-81cf-269d2b7b2ddc",
+      "latitude": -34.839147,
+      "longitude": 138.485575,
+      "street": "Semaphore Rd",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
-      "reported_at": "2026-01-08T04:41:08Z"
-    },
-    {
-      "id": "69093981-38c4-4827-98f9-53a5a6b920a5",
-      "latitude": -34.923265,
-      "longitude": 138.59945,
-      "street": "King William St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
-      "reported_at": "2026-01-08T04:41:01Z"
-    },
-    {
-      "id": "4cbebdb6-f790-4d49-8d68-5892d533a89e",
-      "latitude": -34.929402,
-      "longitude": 138.584954,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
-      "reported_at": "2026-01-08T02:49:12Z"
+      "timestamp": "2026-01-08T05:30:15Z",
+      "reported_at": "2026-01-08T05:10:40Z"
     },
     {
       "id": "ab7015f1-156d-487f-8d59-45afce85b295",
@@ -67,18 +57,28 @@
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
+      "timestamp": "2026-01-08T05:30:15Z",
       "reported_at": "2026-01-08T04:38:04Z"
     },
     {
-      "id": "836b17a0-dd28-40a7-8f2b-f5b0cae07399",
-      "latitude": -34.887504,
-      "longitude": 138.61566,
-      "street": "A10 - North East Rd",
-      "city": "Walkerville",
+      "id": "76b729a2-3e62-43bd-8fc7-ceac7c5929b1",
+      "latitude": -34.87843,
+      "longitude": 138.571549,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-08T05:00:17Z",
-      "reported_at": "2026-01-08T04:34:30Z"
+      "timestamp": "2026-01-08T05:30:15Z",
+      "reported_at": "2026-01-08T05:03:14Z"
+    },
+    {
+      "id": "d942df7a-88c2-4104-9d55-2e67e682853a",
+      "latitude": -34.883461,
+      "longitude": 138.571733,
+      "street": "M2 - North-South Mwy",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-01-08T05:30:15Z",
+      "reported_at": "2026-01-08T05:20:14Z"
     }
   ]
 }
