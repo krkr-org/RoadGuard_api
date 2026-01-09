@@ -7,18 +7,8 @@
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T00:00:13Z",
+      "timestamp": "2026-01-09T00:30:14Z",
       "reported_at": "2026-01-08T21:33:36Z"
-    },
-    {
-      "id": "6d565c1b-a5b0-4225-b0f8-0843be94ac15",
-      "latitude": -34.977298,
-      "longitude": 138.590231,
-      "street": "Edward St",
-      "city": "Cumberland Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T00:00:13Z",
-      "reported_at": "2026-01-08T22:41:26Z"
     },
     {
       "id": "77ca1571-7f46-4c1f-b116-12c7ef279042",
@@ -27,7 +17,7 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-01-09T00:00:13Z",
+      "timestamp": "2026-01-09T00:30:14Z",
       "reported_at": "2026-01-08T21:17:54Z"
     },
     {
@@ -37,8 +27,48 @@
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-01-09T00:00:13Z",
+      "timestamp": "2026-01-09T00:30:14Z",
       "reported_at": "2026-01-08T21:48:28Z"
+    },
+    {
+      "id": "6d565c1b-a5b0-4225-b0f8-0843be94ac15",
+      "latitude": -34.977298,
+      "longitude": 138.590231,
+      "street": "Edward St",
+      "city": "Cumberland Park",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-08T22:41:26Z"
+    },
+    {
+      "id": "ad7bd597-e2fe-418f-871b-60c8946f21ba",
+      "latitude": -34.951676,
+      "longitude": 138.507131,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-08T23:45:58Z"
+    },
+    {
+      "id": "be633d18-90ba-4f0c-a1f5-6c872c6e02a8",
+      "latitude": -34.99031,
+      "longitude": 138.602423,
+      "street": "Springbank Rd",
+      "city": "Clapham",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-09T00:15:52Z"
+    },
+    {
+      "id": "dde7d4ae-2005-4a22-a1aa-10b770a5b619",
+      "latitude": -34.812168,
+      "longitude": 138.496194,
+      "street": "Strathfield Tce",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-08T23:58:02Z"
     },
     {
       "id": "76df58ca-ebd7-484a-9636-69c8d8cbc185",
@@ -47,18 +77,78 @@
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-09T00:00:13Z",
+      "timestamp": "2026-01-09T00:30:14Z",
       "reported_at": "2026-01-08T22:57:08Z"
     },
     {
-      "id": "95ac2a47-3ca6-40d8-88ad-04afe525c47a",
-      "latitude": -34.964333,
-      "longitude": 138.630106,
+      "id": "96af6455-be59-407c-95ab-d64ca7183680",
+      "latitude": -34.849234,
+      "longitude": 138.546619,
+      "street": "Hanson Rd North",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-09T00:01:18Z"
+    },
+    {
+      "id": "896724ca-552f-4728-b351-35aa5fded4e2",
+      "latitude": -34.902039,
+      "longitude": 138.514456,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-09T00:18:49Z"
+    },
+    {
+      "id": "3e283fa7-ac82-4318-a4a7-2f6ac0111735",
+      "latitude": -34.964247,
+      "longitude": 138.631929,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-09T00:00:13Z",
-      "reported_at": "2026-01-08T23:40:41Z"
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-08T20:50:18Z"
+    },
+    {
+      "id": "b89223b8-c536-4664-9397-5161d6104bc2",
+      "latitude": -34.922875,
+      "longitude": 138.616309,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-08T22:57:03Z"
+    },
+    {
+      "id": "c3c5734c-980f-4681-8734-065f2c5a09ec",
+      "latitude": -34.940883,
+      "longitude": 138.609219,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-09T00:25:49Z"
+    },
+    {
+      "id": "395dda1f-ff9a-4a9e-86c8-25335a017915",
+      "latitude": -34.898557,
+      "longitude": 138.561508,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-09T00:19:41Z"
+    },
+    {
+      "id": "c38d4c59-2fda-4037-b867-bee428195c58",
+      "latitude": -34.939232,
+      "longitude": 138.624273,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-09T00:30:14Z",
+      "reported_at": "2026-01-08T23:54:32Z"
     }
   ]
 }
