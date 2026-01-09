@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "9966fdee-084a-4f96-8728-afffe79fa512",
-      "latitude": -34.991116,
-      "longitude": 138.5651,
-      "street": "West St",
-      "city": "Ascot Park",
+      "id": "1b28a7b2-2b63-411f-ab54-75009e9b09c6",
+      "latitude": -35.009243,
+      "longitude": 138.536465,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T05:36:47Z"
-    },
-    {
-      "id": "cfc5038b-71ad-4f8a-9b5c-b1c2a1a520cb",
-      "latitude": -35.011924,
-      "longitude": 138.575518,
-      "street": "to M2 - Southern Exp to Noarlunga Centre",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T07:18:41Z"
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:38:11Z"
     },
     {
       "id": "08b33371-a781-4a5d-8552-4c40bc6ba4a6",
@@ -27,18 +17,8 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
+      "timestamp": "2026-01-09T10:00:13Z",
       "reported_at": "2026-01-09T06:26:44Z"
-    },
-    {
-      "id": "d5d8e979-b10a-4ae6-bea5-937b708596a0",
-      "latitude": -34.97778,
-      "longitude": 138.580556,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T07:07:45Z"
     },
     {
       "id": "0a17d2dd-56db-4ebd-a86e-390914c60abb",
@@ -47,18 +27,38 @@
       "street": "East Pwy",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
+      "timestamp": "2026-01-09T10:00:13Z",
       "reported_at": "2026-01-09T06:17:08Z"
     },
     {
-      "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
-      "latitude": -34.986271,
-      "longitude": 138.530637,
-      "street": "Cliff St",
-      "city": "Glenelg East",
+      "id": "d5d8e979-b10a-4ae6-bea5-937b708596a0",
+      "latitude": -34.97778,
+      "longitude": 138.580556,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T04:40:43Z"
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T07:07:45Z"
+    },
+    {
+      "id": "a0cbb647-7a9a-482e-b26a-f68e074964e5",
+      "latitude": -34.960138,
+      "longitude": 138.545974,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T07:04:00Z"
+    },
+    {
+      "id": "7afc3365-f064-416f-86b5-7d003c12e261",
+      "latitude": -35.006201,
+      "longitude": 138.565762,
+      "street": "Bradley Gr",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:33:23Z"
     },
     {
       "id": "ad86d065-2861-4a81-b125-e9039f775bca",
@@ -67,28 +67,28 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
+      "timestamp": "2026-01-09T10:00:13Z",
       "reported_at": "2026-01-09T06:09:14Z"
     },
     {
-      "id": "321cd4b6-205c-4604-bff5-b6539ab9df76",
-      "latitude": -35.024103,
-      "longitude": 138.552295,
+      "id": "3ee39026-baf6-4aa1-a837-f7bb0689e28a",
+      "latitude": -34.837169,
+      "longitude": 138.4808,
+      "street": "Unknown Street",
+      "city": "Semaphore",
+      "type": "mobile",
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:35:17Z"
+    },
+    {
+      "id": "5e4da268-a4ca-45ae-a282-c678be3964a3",
+      "latitude": -35.025331,
+      "longitude": 138.553229,
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T05:45:32Z"
-    },
-    {
-      "id": "44691614-5b83-46f3-aeb8-c62b36e886e1",
-      "latitude": -34.895403,
-      "longitude": 138.532171,
-      "street": "Crittenden Rd",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T08:18:20Z"
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T07:21:29Z"
     },
     {
       "id": "5c381b37-267e-4ee0-a760-d2c1e08cf873",
@@ -97,28 +97,18 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
+      "timestamp": "2026-01-09T10:00:13Z",
       "reported_at": "2026-01-09T06:13:24Z"
     },
     {
-      "id": "03fab760-f0ea-49bb-b602-779ee63d61b9",
-      "latitude": -34.928596,
-      "longitude": 138.606024,
-      "street": "Pulteney St",
-      "city": "Adelaide",
+      "id": "44691614-5b83-46f3-aeb8-c62b36e886e1",
+      "latitude": -34.895403,
+      "longitude": 138.532171,
+      "street": "Crittenden Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T08:55:52Z"
-    },
-    {
-      "id": "58442564-f5a0-4304-9472-b343267682c8",
-      "latitude": -35.017253,
-      "longitude": 138.557003,
-      "street": "Sturt Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T09:15:46Z"
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T08:18:20Z"
     },
     {
       "id": "29a259e0-1cb7-4adf-90a1-6888594a4a98",
@@ -127,18 +117,28 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
+      "timestamp": "2026-01-09T10:00:13Z",
       "reported_at": "2026-01-09T06:27:10Z"
     },
     {
-      "id": "8b60e4c5-108e-4fa7-bb24-5aa19906c448",
-      "latitude": -34.762069,
-      "longitude": 138.641421,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "fc99accf-0b2a-4087-bcb6-b65d6f48e14f",
+      "latitude": -34.678213,
+      "longitude": 138.675413,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T09:05:39Z"
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:26:54Z"
+    },
+    {
+      "id": "bbaf6f74-77b2-4a5c-83c1-d9e59fb838dd",
+      "latitude": -34.921529,
+      "longitude": 138.601549,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:50:50Z"
     },
     {
       "id": "1fc4b09e-a261-4563-9746-16da4fddfd60",
@@ -147,18 +147,38 @@
       "street": "A10 - North East Rd",
       "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
+      "timestamp": "2026-01-09T10:00:13Z",
       "reported_at": "2026-01-09T06:17:41Z"
     },
     {
-      "id": "0b9d56d1-18c7-493e-8921-57ec003169d1",
-      "latitude": -34.833521,
-      "longitude": 138.5478,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "7c07e4c1-4f88-4b90-b7f3-94d127241da4",
+      "latitude": -34.848905,
+      "longitude": 138.508393,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:30:14Z",
-      "reported_at": "2026-01-09T09:11:17Z"
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:29:10Z"
+    },
+    {
+      "id": "e76ce573-256b-45fd-a6a9-8241eee24b59",
+      "latitude": -34.801202,
+      "longitude": 138.606869,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:52:55Z"
+    },
+    {
+      "id": "33ab5284-2148-4202-9779-de08c0944a8e",
+      "latitude": -34.964657,
+      "longitude": 138.554755,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-09T10:00:13Z",
+      "reported_at": "2026-01-09T09:29:20Z"
     }
   ]
 }
