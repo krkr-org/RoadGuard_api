@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "69c180b3-2bc1-45ab-be22-ed1015d98bde",
-      "latitude": -34.888726,
-      "longitude": 138.603419,
-      "street": "Harvey St",
-      "city": "Nailsworth",
+      "id": "06499eb6-8b35-43fc-965c-983618f83eeb",
+      "latitude": -34.902424,
+      "longitude": 138.680886,
+      "street": "Moules Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-08T22:10:17Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-08T21:48:28Z"
+    },
+    {
+      "id": "93fdccbd-47a5-4487-9e7e-8d99db5d588d",
+      "latitude": -34.933291,
+      "longitude": 138.49849,
+      "street": "Seaview Rd",
+      "city": "Henley Beach South",
+      "type": "mobile",
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T01:58:33Z"
     },
     {
       "id": "c2b65613-cb7d-47f2-af02-8d190873336f",
@@ -17,48 +27,68 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
+      "timestamp": "2026-01-09T02:30:14Z",
       "reported_at": "2026-01-08T21:07:00Z"
     },
     {
-      "id": "06499eb6-8b35-43fc-965c-983618f83eeb",
-      "latitude": -34.902424,
-      "longitude": 138.680886,
-      "street": "Moules Rd",
-      "city": "Rostrevor",
+      "id": "55c3b584-c362-43fe-a1bd-19beca7be408",
+      "latitude": -34.876459,
+      "longitude": 138.55035,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-08T21:48:28Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:13:23Z"
     },
     {
-      "id": "b0673628-e212-4fca-b3a9-b353d0bf802a",
-      "latitude": -34.957185,
-      "longitude": 138.618717,
-      "street": "Fisher St",
-      "city": "Fullarton",
+      "id": "17e7c2fa-54dc-479f-9640-a36d49c69535",
+      "latitude": -34.924679,
+      "longitude": 138.585852,
+      "street": "Glover Av",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:29:00Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:20:30Z"
     },
     {
-      "id": "1aa90560-e2d7-43df-937f-c3fcee5c95b9",
-      "latitude": -34.874255,
-      "longitude": 138.589761,
-      "street": "Regency Rd",
-      "city": "Prospect",
+      "id": "fb479456-76b0-4f17-8d57-86797a1d34eb",
+      "latitude": -34.924415,
+      "longitude": 138.597908,
+      "street": "Currie St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:41:55Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:03:00Z"
     },
     {
-      "id": "04c3257d-175f-45fe-9c36-97bce154ab5c",
-      "latitude": -35.137437,
-      "longitude": 138.510385,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
+      "id": "ac3d8463-2b42-410d-9787-7ec4a965b15e",
+      "latitude": -34.938381,
+      "longitude": 138.612834,
+      "street": "Hutt Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:44:07Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T01:24:58Z"
+    },
+    {
+      "id": "632b4802-47fc-4401-a489-a3794985ef79",
+      "latitude": -34.684974,
+      "longitude": 138.670613,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:04:22Z"
+    },
+    {
+      "id": "c5b9e135-99ea-47c9-a199-e07803cd49d4",
+      "latitude": -34.674894,
+      "longitude": 138.677268,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:05:56Z"
     },
     {
       "id": "a63be05d-1202-4858-aac7-19d0af9642d9",
@@ -67,58 +97,28 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
+      "timestamp": "2026-01-09T02:30:14Z",
       "reported_at": "2026-01-09T01:05:46Z"
     },
     {
-      "id": "85a48149-e257-454d-808b-8f3f00d97a68",
-      "latitude": -34.912761,
-      "longitude": 138.577629,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Thebarton",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:44:11Z"
-    },
-    {
-      "id": "134162aa-6390-4cc9-9df8-4d04de9d6b5a",
-      "latitude": -34.964375,
-      "longitude": 138.629162,
+      "id": "1b538be8-06ab-4088-9af4-2254020966f2",
+      "latitude": -34.964395,
+      "longitude": 138.628841,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:09:35Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:04:55Z"
     },
     {
-      "id": "54735cfc-f11f-42b1-97a9-0be9192a452e",
-      "latitude": -34.792042,
-      "longitude": 138.647465,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "61dc82c9-8ef9-4954-ae94-5be5a36af716",
+      "latitude": -34.805778,
+      "longitude": 138.634575,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:45:26Z"
-    },
-    {
-      "id": "32a86b65-4637-405c-a9b4-4159b1a48fad",
-      "latitude": -35.088096,
-      "longitude": 138.535232,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:22:50Z"
-    },
-    {
-      "id": "e5e96a96-eb80-43a5-bcae-f99944282562",
-      "latitude": -34.97671,
-      "longitude": 138.680018,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:00:14Z",
-      "reported_at": "2026-01-09T01:24:36Z"
+      "timestamp": "2026-01-09T02:30:14Z",
+      "reported_at": "2026-01-09T02:18:51Z"
     }
   ]
 }
