@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "06499eb6-8b35-43fc-965c-983618f83eeb",
-      "latitude": -34.902424,
-      "longitude": 138.680886,
-      "street": "Moules Rd",
-      "city": "Rostrevor",
+      "id": "534aa945-2c77-40e8-a1d1-89dee9cb44be",
+      "latitude": -34.960112,
+      "longitude": 138.546493,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-08T21:48:28Z"
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T01:36:34Z"
     },
     {
-      "id": "93fdccbd-47a5-4487-9e7e-8d99db5d588d",
-      "latitude": -34.933291,
-      "longitude": 138.49849,
-      "street": "Seaview Rd",
-      "city": "Henley Beach South",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T01:58:33Z"
-    },
-    {
-      "id": "c2b65613-cb7d-47f2-af02-8d190873336f",
-      "latitude": -34.931515,
-      "longitude": 138.668515,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-08T21:07:00Z"
-    },
-    {
-      "id": "55c3b584-c362-43fe-a1bd-19beca7be408",
-      "latitude": -34.876459,
-      "longitude": 138.55035,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:13:23Z"
-    },
-    {
-      "id": "17e7c2fa-54dc-479f-9640-a36d49c69535",
-      "latitude": -34.924679,
-      "longitude": 138.585852,
-      "street": "Glover Av",
+      "id": "5a5b4d0b-1acb-4dec-9425-a198e175e57b",
+      "latitude": -34.918036,
+      "longitude": 138.578838,
+      "street": "Unknown Street",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:20:30Z"
-    },
-    {
-      "id": "fb479456-76b0-4f17-8d57-86797a1d34eb",
-      "latitude": -34.924415,
-      "longitude": 138.597908,
-      "street": "Currie St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:03:00Z"
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T02:37:42Z"
     },
     {
       "id": "ac3d8463-2b42-410d-9787-7ec4a965b15e",
@@ -67,28 +27,48 @@
       "street": "Hutt Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
+      "timestamp": "2026-01-09T03:00:14Z",
       "reported_at": "2026-01-09T01:24:58Z"
     },
     {
-      "id": "632b4802-47fc-4401-a489-a3794985ef79",
-      "latitude": -34.684974,
-      "longitude": 138.670613,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:04:22Z"
-    },
-    {
-      "id": "c5b9e135-99ea-47c9-a199-e07803cd49d4",
-      "latitude": -34.674894,
-      "longitude": 138.677268,
+      "id": "f0fe92c1-4bfb-4178-9ed6-bf35ffaec46e",
+      "latitude": -34.675195,
+      "longitude": 138.67734,
       "street": "Peachey Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:05:56Z"
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T02:42:31Z"
+    },
+    {
+      "id": "e88cb04c-f371-4a2c-b5f8-767263ad478c",
+      "latitude": -35.127435,
+      "longitude": 138.523593,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T02:42:12Z"
+    },
+    {
+      "id": "3e283fa7-ac82-4318-a4a7-2f6ac0111735",
+      "latitude": -34.964271,
+      "longitude": 138.631519,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-08T20:50:18Z"
+    },
+    {
+      "id": "eb527928-56f8-4d31-90cf-e8b908be7f8b",
+      "latitude": -34.913458,
+      "longitude": 138.666993,
+      "street": "B27 - Magill Rd",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T02:34:53Z"
     },
     {
       "id": "a63be05d-1202-4858-aac7-19d0af9642d9",
@@ -97,28 +77,28 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
+      "timestamp": "2026-01-09T03:00:14Z",
       "reported_at": "2026-01-09T01:05:46Z"
     },
     {
-      "id": "1b538be8-06ab-4088-9af4-2254020966f2",
-      "latitude": -34.964395,
-      "longitude": 138.628841,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "ac6901c0-25d9-4f4e-a79f-5491ff52cde2",
+      "latitude": -34.759807,
+      "longitude": 138.675136,
+      "street": "Unknown Street",
+      "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:04:55Z"
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T02:33:40Z"
     },
     {
-      "id": "61dc82c9-8ef9-4954-ae94-5be5a36af716",
-      "latitude": -34.805778,
-      "longitude": 138.634575,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
+      "id": "293c51c7-3f52-4ed9-8bcf-d9512fb79d77",
+      "latitude": -34.838922,
+      "longitude": 138.563532,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-09T02:30:14Z",
-      "reported_at": "2026-01-09T02:18:51Z"
+      "timestamp": "2026-01-09T03:00:14Z",
+      "reported_at": "2026-01-09T02:53:58Z"
     }
   ]
 }
