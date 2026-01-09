@@ -1,44 +1,44 @@
 {
   "radars": [
     {
-      "id": "fe2df063-5356-470d-93ed-06f16fe4ef24",
-      "latitude": -34.960274,
-      "longitude": 138.545053,
-      "street": "Whelan Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
-      "reported_at": "2026-01-09T00:54:28Z"
-    },
-    {
-      "id": "521f725f-c667-420d-a96b-b43a17863d98",
-      "latitude": -34.891273,
-      "longitude": 138.662297,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
-      "reported_at": "2026-01-09T03:57:46Z"
-    },
-    {
-      "id": "534aa945-2c77-40e8-a1d1-89dee9cb44be",
-      "latitude": -34.960112,
-      "longitude": 138.546493,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
-      "reported_at": "2026-01-09T01:36:34Z"
-    },
-    {
-      "id": "717872c2-61c0-42d6-be1a-2b673bdc2cb0",
-      "latitude": -34.920431,
-      "longitude": 138.651956,
+      "id": "1e0fbc88-2d40-4aaa-8db2-3baf4f4595f0",
+      "latitude": -34.920231,
+      "longitude": 138.65556,
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
-      "reported_at": "2026-01-09T02:11:27Z"
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T02:12:07Z"
+    },
+    {
+      "id": "8543af44-e58d-48c3-9b03-314bb90070a8",
+      "latitude": -35.093849,
+      "longitude": 138.541961,
+      "street": "Reynell Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T04:44:57Z"
+    },
+    {
+      "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
+      "latitude": -34.986271,
+      "longitude": 138.530637,
+      "street": "Cliff St",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T04:40:43Z"
+    },
+    {
+      "id": "20dd6e1e-ec12-41bc-bb80-55f5156cd339",
+      "latitude": -34.960213,
+      "longitude": 138.544399,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T02:48:43Z"
     },
     {
       "id": "d68a04c9-1073-49c5-9dad-9514b6913966",
@@ -47,28 +47,48 @@
       "street": "Unknown Street",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
+      "timestamp": "2026-01-09T05:00:15Z",
       "reported_at": "2026-01-09T02:03:06Z"
     },
     {
-      "id": "64115344-22fe-42e2-90a9-c2b18392e81d",
-      "latitude": -34.848989,
-      "longitude": 138.5083,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
+      "id": "74060f6b-766f-4590-a282-803d7accaca8",
+      "latitude": -35.011068,
+      "longitude": 138.579566,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
-      "reported_at": "2026-01-09T04:00:02Z"
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T04:51:31Z"
     },
     {
-      "id": "eb527928-56f8-4d31-90cf-e8b908be7f8b",
-      "latitude": -34.913458,
-      "longitude": 138.666993,
-      "street": "B27 - Magill Rd",
-      "city": "Tranmere",
+      "id": "199d17f4-a196-4905-b384-e8319101d32e",
+      "latitude": -35.023937,
+      "longitude": 138.552151,
+      "street": "Diagonal Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-09T04:30:13Z",
-      "reported_at": "2026-01-09T02:34:53Z"
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T04:53:04Z"
+    },
+    {
+      "id": "e81857f1-9bb5-4ec1-8c01-1d3e1d19a07d",
+      "latitude": -34.89517,
+      "longitude": 138.642078,
+      "street": "A11 - Payneham Rd",
+      "city": "Marden",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T04:43:29Z"
+    },
+    {
+      "id": "c309d92e-9973-4ec8-a51c-37783f5352db",
+      "latitude": -35.015547,
+      "longitude": 138.571165,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:00:15Z",
+      "reported_at": "2026-01-09T04:56:05Z"
     }
   ]
 }
