@@ -1,74 +1,14 @@
 {
   "radars": [
     {
-      "id": "72d2625c-6006-4265-ab7e-58e1d146477e",
-      "latitude": -35.009254,
-      "longitude": 138.536298,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T05:00:19Z"
-    },
-    {
       "id": "9966fdee-084a-4f96-8728-afffe79fa512",
       "latitude": -34.991116,
       "longitude": 138.5651,
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
+      "timestamp": "2026-01-09T09:30:14Z",
       "reported_at": "2026-01-09T05:36:47Z"
-    },
-    {
-      "id": "fc9dc760-94ca-4383-8b7b-e72162472fa5",
-      "latitude": -34.968401,
-      "longitude": 138.542571,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T05:44:50Z"
-    },
-    {
-      "id": "0a17d2dd-56db-4ebd-a86e-390914c60abb",
-      "latitude": -34.980975,
-      "longitude": 138.598768,
-      "street": "East Pwy",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T06:17:08Z"
-    },
-    {
-      "id": "ad86d065-2861-4a81-b125-e9039f775bca",
-      "latitude": -34.910131,
-      "longitude": 138.581542,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T06:09:14Z"
-    },
-    {
-      "id": "0051e946-954f-4921-a7a3-bfbbfcb8016e",
-      "latitude": -34.765448,
-      "longitude": 138.624662,
-      "street": "Burton Rd",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T08:43:41Z"
-    },
-    {
-      "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
-      "latitude": -34.986271,
-      "longitude": 138.530637,
-      "street": "Cliff St",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T04:40:43Z"
     },
     {
       "id": "cfc5038b-71ad-4f8a-9b5c-b1c2a1a520cb",
@@ -77,18 +17,18 @@
       "street": "to M2 - Southern Exp to Noarlunga Centre",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
+      "timestamp": "2026-01-09T09:30:14Z",
       "reported_at": "2026-01-09T07:18:41Z"
     },
     {
-      "id": "52bf2c25-9d55-468c-aee7-ff997d95cf8e",
-      "latitude": -34.965541,
-      "longitude": 138.635618,
-      "street": "Waite Rd",
-      "city": "Urrbrae",
+      "id": "08b33371-a781-4a5d-8552-4c40bc6ba4a6",
+      "latitude": -34.968332,
+      "longitude": 138.543951,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T05:11:27Z"
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T06:26:44Z"
     },
     {
       "id": "d5d8e979-b10a-4ae6-bea5-937b708596a0",
@@ -97,28 +37,48 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
+      "timestamp": "2026-01-09T09:30:14Z",
       "reported_at": "2026-01-09T07:07:45Z"
     },
     {
-      "id": "9c696e91-c177-43ad-a20f-1f8eb7c7c812",
-      "latitude": -34.875366,
-      "longitude": 138.565786,
-      "street": "Regency Rd",
-      "city": "Ferryden Park",
+      "id": "0a17d2dd-56db-4ebd-a86e-390914c60abb",
+      "latitude": -34.980975,
+      "longitude": 138.598768,
+      "street": "East Pwy",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T08:34:39Z"
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T06:17:08Z"
     },
     {
-      "id": "13c6de7c-0944-4920-9ea5-ba81637cb510",
-      "latitude": -34.979919,
-      "longitude": 138.566877,
-      "street": "Raglan Av",
-      "city": "Edwardstown",
+      "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
+      "latitude": -34.986271,
+      "longitude": 138.530637,
+      "street": "Cliff St",
+      "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T05:33:08Z"
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T04:40:43Z"
+    },
+    {
+      "id": "ad86d065-2861-4a81-b125-e9039f775bca",
+      "latitude": -34.910131,
+      "longitude": 138.581542,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T06:09:14Z"
+    },
+    {
+      "id": "321cd4b6-205c-4604-bff5-b6539ab9df76",
+      "latitude": -35.024103,
+      "longitude": 138.552295,
+      "street": "Diagonal Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T05:45:32Z"
     },
     {
       "id": "44691614-5b83-46f3-aeb8-c62b36e886e1",
@@ -127,18 +87,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
+      "timestamp": "2026-01-09T09:30:14Z",
       "reported_at": "2026-01-09T08:18:20Z"
     },
     {
-      "id": "29a259e0-1cb7-4adf-90a1-6888594a4a98",
-      "latitude": -35.108384,
-      "longitude": 138.626726,
-      "street": "Grants Gully Rd",
-      "city": "Clarendon",
+      "id": "5c381b37-267e-4ee0-a760-d2c1e08cf873",
+      "latitude": -34.979895,
+      "longitude": 138.56738,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T06:27:10Z"
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T06:13:24Z"
     },
     {
       "id": "03fab760-f0ea-49bb-b602-779ee63d61b9",
@@ -147,18 +107,38 @@
       "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
+      "timestamp": "2026-01-09T09:30:14Z",
       "reported_at": "2026-01-09T08:55:52Z"
     },
     {
-      "id": "2b575d4c-f388-4bd8-87f4-bd2c76718404",
-      "latitude": -35.022353,
-      "longitude": 138.5508,
-      "street": "Diagonal Rd",
-      "city": "Seacombe Gardens",
+      "id": "58442564-f5a0-4304-9472-b343267682c8",
+      "latitude": -35.017253,
+      "longitude": 138.557003,
+      "street": "Sturt Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T08:31:32Z"
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T09:15:46Z"
+    },
+    {
+      "id": "29a259e0-1cb7-4adf-90a1-6888594a4a98",
+      "latitude": -35.108384,
+      "longitude": 138.626726,
+      "street": "Grants Gully Rd",
+      "city": "Clarendon",
+      "type": "mobile",
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T06:27:10Z"
+    },
+    {
+      "id": "8b60e4c5-108e-4fa7-bb24-5aa19906c448",
+      "latitude": -34.762069,
+      "longitude": 138.641421,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T09:05:39Z"
     },
     {
       "id": "1fc4b09e-a261-4563-9746-16da4fddfd60",
@@ -167,28 +147,18 @@
       "street": "A10 - North East Rd",
       "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
+      "timestamp": "2026-01-09T09:30:14Z",
       "reported_at": "2026-01-09T06:17:41Z"
     },
     {
-      "id": "b9b65763-114f-493d-8ff0-68da97662d99",
-      "latitude": -34.878364,
-      "longitude": 138.619605,
-      "street": "A17 - Hampstead Rd",
-      "city": "Broadview",
+      "id": "0b9d56d1-18c7-493e-8921-57ec003169d1",
+      "latitude": -34.833521,
+      "longitude": 138.5478,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T08:13:47Z"
-    },
-    {
-      "id": "7d893f7b-5748-48e9-83fd-b33f331aedaa",
-      "latitude": -34.88048,
-      "longitude": 138.53518,
-      "street": "A7 - Port Rd",
-      "city": "Woodville",
-      "type": "mobile",
-      "timestamp": "2026-01-09T09:00:18Z",
-      "reported_at": "2026-01-09T08:49:16Z"
+      "timestamp": "2026-01-09T09:30:14Z",
+      "reported_at": "2026-01-09T09:11:17Z"
     }
   ]
 }
