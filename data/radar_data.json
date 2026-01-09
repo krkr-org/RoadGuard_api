@@ -1,34 +1,64 @@
 {
   "radars": [
     {
+      "id": "82a9fae9-90b7-40a1-920f-7ad02ada6ad5",
+      "latitude": -34.854412,
+      "longitude": 138.502363,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-09T22:00:13Z",
+      "reported_at": "2026-01-09T21:33:50Z"
+    },
+    {
+      "id": "48caf282-3c22-4a9f-8f5d-c1837226e3a5",
+      "latitude": -34.863331,
+      "longitude": 138.601206,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-09T22:00:13Z",
+      "reported_at": "2026-01-09T21:35:32Z"
+    },
+    {
       "id": "1eb3e7f8-6407-46b0-a836-2b8db2f01ac0",
       "latitude": -34.861583,
       "longitude": 138.513674,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-09T21:30:14Z",
+      "timestamp": "2026-01-09T22:00:13Z",
       "reported_at": "2026-01-09T21:20:20Z"
     },
     {
-      "id": "e14c058f-4e3a-42e5-8f34-14add6a366a6",
-      "latitude": -34.678512,
-      "longitude": 138.696712,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
+      "id": "a42c7d71-3865-4cc4-8a7b-af49c37492fd",
+      "latitude": -34.836857,
+      "longitude": 138.679153,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-09T21:30:14Z",
-      "reported_at": "2026-01-09T21:22:18Z"
+      "timestamp": "2026-01-09T22:00:13Z",
+      "reported_at": "2026-01-09T21:31:10Z"
     },
     {
-      "id": "4dff459f-33e5-43ce-8878-49124872f985",
-      "latitude": -34.831398,
-      "longitude": 138.501435,
-      "street": "A16 - Victoria Rd",
-      "city": "Peterhead",
+      "id": "201b2f41-fa15-4277-8e9a-545df1255816",
+      "latitude": -34.941971,
+      "longitude": 138.583229,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T21:30:14Z",
-      "reported_at": "2026-01-09T21:19:35Z"
+      "timestamp": "2026-01-09T22:00:13Z",
+      "reported_at": "2026-01-09T21:14:29Z"
+    },
+    {
+      "id": "9e8bdf67-9876-4d15-a132-ac842b6aef3c",
+      "latitude": -34.753617,
+      "longitude": 138.649621,
+      "street": "A9 - John Rice Av",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-09T22:00:13Z",
+      "reported_at": "2026-01-09T21:29:32Z"
     }
   ]
 }
