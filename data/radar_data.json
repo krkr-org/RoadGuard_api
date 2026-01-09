@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "37f20b5d-246a-4bd9-b1aa-d6583f274ea8",
-      "latitude": -35.001948,
-      "longitude": 138.525434,
-      "street": "Bowker St",
-      "city": "Somerton Park",
+      "id": "fe2df063-5356-470d-93ed-06f16fe4ef24",
+      "latitude": -34.960274,
+      "longitude": 138.545053,
+      "street": "Whelan Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
-      "reported_at": "2026-01-09T03:07:07Z"
+      "timestamp": "2026-01-09T04:00:15Z",
+      "reported_at": "2026-01-09T00:54:28Z"
     },
     {
       "id": "9c0c6040-5a07-4768-a510-91f9d37139ec",
@@ -17,18 +17,8 @@
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
+      "timestamp": "2026-01-09T04:00:15Z",
       "reported_at": "2026-01-09T01:58:10Z"
-    },
-    {
-      "id": "6b28f153-10c6-461a-8ccd-54cbaf45569d",
-      "latitude": -34.870175,
-      "longitude": 138.570537,
-      "street": "Unknown Street",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
-      "reported_at": "2026-01-09T03:05:20Z"
     },
     {
       "id": "e6c0accf-1d6d-4c8d-8bc4-7433c70b6f5a",
@@ -37,18 +27,28 @@
       "street": "James Schofield Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
+      "timestamp": "2026-01-09T04:00:15Z",
       "reported_at": "2026-01-09T02:56:02Z"
     },
     {
-      "id": "534aa945-2c77-40e8-a1d1-89dee9cb44be",
-      "latitude": -34.960112,
-      "longitude": 138.546493,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
+      "id": "521f725f-c667-420d-a96b-b43a17863d98",
+      "latitude": -34.891273,
+      "longitude": 138.662297,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
-      "reported_at": "2026-01-09T01:36:34Z"
+      "timestamp": "2026-01-09T04:00:15Z",
+      "reported_at": "2026-01-09T03:57:46Z"
+    },
+    {
+      "id": "6b28f153-10c6-461a-8ccd-54cbaf45569d",
+      "latitude": -34.870175,
+      "longitude": 138.570537,
+      "street": "Unknown Street",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-09T04:00:15Z",
+      "reported_at": "2026-01-09T03:05:20Z"
     },
     {
       "id": "12a3a1a6-7f09-4492-93b1-1916ca2b8915",
@@ -57,18 +57,8 @@
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
+      "timestamp": "2026-01-09T04:00:15Z",
       "reported_at": "2026-01-09T03:03:16Z"
-    },
-    {
-      "id": "28e75337-dc3a-4a9f-b6e2-d1e90eec5c3c",
-      "latitude": -34.801933,
-      "longitude": 138.641312,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
-      "reported_at": "2026-01-09T03:13:44Z"
     },
     {
       "id": "ac3d8463-2b42-410d-9787-7ec4a965b15e",
@@ -77,8 +67,18 @@
       "street": "Hutt Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
+      "timestamp": "2026-01-09T04:00:15Z",
       "reported_at": "2026-01-09T01:24:58Z"
+    },
+    {
+      "id": "bad1927d-39ac-4ead-b572-c1e7bf805f3f",
+      "latitude": -34.884844,
+      "longitude": 138.513123,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-09T04:00:15Z",
+      "reported_at": "2026-01-09T03:50:15Z"
     },
     {
       "id": "eb527928-56f8-4d31-90cf-e8b908be7f8b",
@@ -87,18 +87,18 @@
       "street": "B27 - Magill Rd",
       "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
+      "timestamp": "2026-01-09T04:00:15Z",
       "reported_at": "2026-01-09T02:34:53Z"
     },
     {
-      "id": "1b538be8-06ab-4088-9af4-2254020966f2",
-      "latitude": -34.964395,
-      "longitude": 138.628841,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "7bc32cc9-5c9d-4030-bc02-2ed0cce7a53e",
+      "latitude": -34.762434,
+      "longitude": 138.588967,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-09T03:30:15Z",
-      "reported_at": "2026-01-09T02:04:55Z"
+      "timestamp": "2026-01-09T04:00:15Z",
+      "reported_at": "2026-01-09T03:45:30Z"
     }
   ]
 }
