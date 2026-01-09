@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "becd7040-f4fb-4bee-bc33-3ebd3563c463",
+      "latitude": -34.913594,
+      "longitude": 138.519938,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-09T23:00:16Z",
+      "reported_at": "2026-01-09T21:18:04Z"
+    },
+    {
+      "id": "4d864124-8af4-45fc-8752-a1b8db9ea66d",
+      "latitude": -34.891485,
+      "longitude": 138.521489,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-09T23:00:16Z",
+      "reported_at": "2026-01-09T22:25:12Z"
+    },
+    {
       "id": "87dfc47f-97c3-487b-bc26-de6c93ef3cbf",
       "latitude": -35.022967,
       "longitude": 138.58502,
       "street": "Shepherds Hill Rd",
       "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2026-01-09T22:30:13Z",
+      "timestamp": "2026-01-09T23:00:16Z",
       "reported_at": "2026-01-09T22:09:26Z"
-    },
-    {
-      "id": "201b2f41-fa15-4277-8e9a-545df1255816",
-      "latitude": -34.941971,
-      "longitude": 138.583229,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-09T22:30:13Z",
-      "reported_at": "2026-01-09T21:14:29Z"
     },
     {
       "id": "1eb3e7f8-6407-46b0-a836-2b8db2f01ac0",
@@ -27,18 +37,8 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-09T22:30:13Z",
+      "timestamp": "2026-01-09T23:00:16Z",
       "reported_at": "2026-01-09T21:20:20Z"
-    },
-    {
-      "id": "48caf282-3c22-4a9f-8f5d-c1837226e3a5",
-      "latitude": -34.863331,
-      "longitude": 138.601206,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-01-09T22:30:13Z",
-      "reported_at": "2026-01-09T21:35:32Z"
     }
   ]
 }
