@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "69c180b3-2bc1-45ab-be22-ed1015d98bde",
+      "latitude": -34.888726,
+      "longitude": 138.603419,
+      "street": "Harvey St",
+      "city": "Nailsworth",
+      "type": "mobile",
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-08T22:10:17Z"
+    },
+    {
+      "id": "c2b65613-cb7d-47f2-af02-8d190873336f",
+      "latitude": -34.931515,
+      "longitude": 138.668515,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-08T21:07:00Z"
+    },
+    {
       "id": "06499eb6-8b35-43fc-965c-983618f83eeb",
       "latitude": -34.902424,
       "longitude": 138.680886,
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
+      "timestamp": "2026-01-09T01:30:17Z",
       "reported_at": "2026-01-08T21:48:28Z"
     },
     {
@@ -17,98 +37,68 @@
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
+      "timestamp": "2026-01-09T01:30:17Z",
       "reported_at": "2026-01-08T21:33:36Z"
     },
     {
-      "id": "77ca1571-7f46-4c1f-b116-12c7ef279042",
-      "latitude": -34.930862,
-      "longitude": 138.668438,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
+      "id": "4d8d7aec-9df8-4164-92bb-22db12c8244a",
+      "latitude": -34.791654,
+      "longitude": 138.64551,
+      "street": "Unknown Street",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-08T21:17:54Z"
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-09T01:23:27Z"
     },
     {
-      "id": "6d565c1b-a5b0-4225-b0f8-0843be94ac15",
-      "latitude": -34.977298,
-      "longitude": 138.590231,
-      "street": "Edward St",
-      "city": "Cumberland Park",
+      "id": "ac3d8463-2b42-410d-9787-7ec4a965b15e",
+      "latitude": -34.938381,
+      "longitude": 138.612834,
+      "street": "Hutt Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-08T22:41:26Z"
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-09T01:24:58Z"
     },
     {
-      "id": "76df58ca-ebd7-484a-9636-69c8d8cbc185",
-      "latitude": -35.126659,
-      "longitude": 138.516323,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
+      "id": "4110f763-8dc2-45d2-8afe-3536cae2f6f6",
+      "latitude": -35.044668,
+      "longitude": 138.621837,
+      "street": "B29 - Main Rd",
+      "city": "Coromandel Valley",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-08T22:57:08Z"
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-09T00:55:53Z"
     },
     {
-      "id": "adcff122-3548-4298-8532-dae4774e9a68",
-      "latitude": -34.809434,
-      "longitude": 138.631893,
-      "street": "Maxwell Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-09T00:34:36Z"
-    },
-    {
-      "id": "649e461d-7b5d-4406-a512-f30dd510bbe8",
-      "latitude": -35.020508,
-      "longitude": 138.651872,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Belair",
-      "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-09T00:38:19Z"
-    },
-    {
-      "id": "c3c5734c-980f-4681-8734-065f2c5a09ec",
-      "latitude": -34.940883,
-      "longitude": 138.609219,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
-      "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-09T00:25:49Z"
-    },
-    {
-      "id": "192a9db3-52b2-43af-8b8b-20484bbf57e1",
-      "latitude": -34.964415,
-      "longitude": 138.629623,
+      "id": "b5842610-b1f2-4099-bc4e-8fd85ed50fd4",
+      "latitude": -34.964423,
+      "longitude": 138.629453,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-08T23:34:01Z"
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-08T21:49:47Z"
     },
     {
-      "id": "b89223b8-c536-4664-9397-5161d6104bc2",
-      "latitude": -34.922875,
-      "longitude": 138.616309,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "e7b649f1-715f-4b0f-90a4-579369afda43",
+      "latitude": -34.79794,
+      "longitude": 138.65696,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-08T22:57:03Z"
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-09T01:13:50Z"
     },
     {
-      "id": "51fdcf8a-86c3-45cf-93b3-e3a573c828e1",
-      "latitude": -35.089248,
-      "longitude": 138.5303,
+      "id": "ed05dfde-9d8e-4697-aae5-984bb3200831",
+      "latitude": -35.088469,
+      "longitude": 138.532756,
       "street": "M2 - Southern Exp",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-09T01:00:14Z",
-      "reported_at": "2026-01-09T00:26:07Z"
+      "timestamp": "2026-01-09T01:30:17Z",
+      "reported_at": "2026-01-09T01:09:52Z"
     }
   ]
 }
