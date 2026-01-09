@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "34518b2d-9a94-4991-8f13-8b338a7f614c",
+      "latitude": -34.80237,
+      "longitude": 138.500851,
+      "street": "Margueretta St",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2026-01-09T11:30:15Z",
+      "reported_at": "2026-01-09T11:11:51Z"
+    },
+    {
       "id": "1b28a7b2-2b63-411f-ab54-75009e9b09c6",
       "latitude": -35.009243,
       "longitude": 138.536465,
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T09:38:11Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Dunrobin Rd",
       "city": "Hove",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T07:25:35Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T07:14:17Z"
     },
     {
@@ -37,28 +47,8 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T05:44:50Z"
-    },
-    {
-      "id": "d5d8e979-b10a-4ae6-bea5-937b708596a0",
-      "latitude": -34.97778,
-      "longitude": 138.580556,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
-      "reported_at": "2026-01-09T07:07:45Z"
-    },
-    {
-      "id": "a0cbb647-7a9a-482e-b26a-f68e074964e5",
-      "latitude": -34.960138,
-      "longitude": 138.545974,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
-      "reported_at": "2026-01-09T07:04:00Z"
     },
     {
       "id": "44691614-5b83-46f3-aeb8-c62b36e886e1",
@@ -67,28 +57,8 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T08:18:20Z"
-    },
-    {
-      "id": "f665a2b6-9756-4950-b9b6-a2b395a948b9",
-      "latitude": -34.761011,
-      "longitude": 138.637668,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
-      "reported_at": "2026-01-09T10:03:51Z"
-    },
-    {
-      "id": "5e4da268-a4ca-45ae-a282-c678be3964a3",
-      "latitude": -35.025331,
-      "longitude": 138.553229,
-      "street": "Diagonal Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
-      "reported_at": "2026-01-09T07:21:29Z"
     },
     {
       "id": "13c6de7c-0944-4920-9ea5-ba81637cb510",
@@ -97,8 +67,18 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T05:33:08Z"
+    },
+    {
+      "id": "64b0ec71-a696-4302-b0b7-00de4b500719",
+      "latitude": -34.912106,
+      "longitude": 138.593269,
+      "street": "Jeffcott St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-09T11:30:15Z",
+      "reported_at": "2026-01-09T11:06:08Z"
     },
     {
       "id": "33ab5284-2148-4202-9779-de08c0944a8e",
@@ -107,18 +87,8 @@
       "street": "A14 - Marion Rd",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
+      "timestamp": "2026-01-09T11:30:15Z",
       "reported_at": "2026-01-09T09:29:20Z"
-    },
-    {
-      "id": "c0784d1a-bff5-47e0-920b-c8e3ff70a30f",
-      "latitude": -34.765911,
-      "longitude": 138.638241,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-09T11:00:15Z",
-      "reported_at": "2026-01-09T10:31:12Z"
     }
   ]
 }
