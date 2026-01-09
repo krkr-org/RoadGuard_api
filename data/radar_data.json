@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "e0c4abbf-f8a8-41ca-85da-c74eca244f1d",
+      "latitude": -34.795422,
+      "longitude": 138.64729,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T03:50:44Z"
+    },
+    {
+      "id": "1c45878e-e5c6-4aef-9373-96e406bf17e6",
+      "latitude": -34.900335,
+      "longitude": 138.686336,
+      "street": "Morialta Rd",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T03:47:51Z"
+    },
+    {
       "id": "1e0fbc88-2d40-4aaa-8db2-3baf4f4595f0",
       "latitude": -34.920231,
       "longitude": 138.65556,
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
+      "timestamp": "2026-01-09T05:30:14Z",
       "reported_at": "2026-01-09T02:12:07Z"
     },
     {
@@ -17,18 +37,8 @@
       "street": "Reynell Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
+      "timestamp": "2026-01-09T05:30:14Z",
       "reported_at": "2026-01-09T04:44:57Z"
-    },
-    {
-      "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
-      "latitude": -34.986271,
-      "longitude": 138.530637,
-      "street": "Cliff St",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
-      "reported_at": "2026-01-09T04:40:43Z"
     },
     {
       "id": "20dd6e1e-ec12-41bc-bb80-55f5156cd339",
@@ -37,8 +47,18 @@
       "street": "Mooringe Av",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
+      "timestamp": "2026-01-09T05:30:14Z",
       "reported_at": "2026-01-09T02:48:43Z"
+    },
+    {
+      "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
+      "latitude": -34.986271,
+      "longitude": 138.530637,
+      "street": "Cliff St",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T04:40:43Z"
     },
     {
       "id": "d68a04c9-1073-49c5-9dad-9514b6913966",
@@ -47,48 +67,48 @@
       "street": "Unknown Street",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
+      "timestamp": "2026-01-09T05:30:14Z",
       "reported_at": "2026-01-09T02:03:06Z"
     },
     {
-      "id": "74060f6b-766f-4590-a282-803d7accaca8",
-      "latitude": -35.011068,
-      "longitude": 138.579566,
+      "id": "d76e37ae-4ef0-47d9-8aba-1a9d30f6feeb",
+      "latitude": -35.026257,
+      "longitude": 138.559433,
+      "street": "Flagstaff Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T05:01:57Z"
+    },
+    {
+      "id": "26599b53-03de-4197-abe1-d47ec0f5d47c",
+      "latitude": -35.011191,
+      "longitude": 138.577968,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
-      "reported_at": "2026-01-09T04:51:31Z"
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T05:16:19Z"
     },
     {
-      "id": "199d17f4-a196-4905-b384-e8319101d32e",
-      "latitude": -35.023937,
-      "longitude": 138.552151,
-      "street": "Diagonal Rd",
-      "city": "Sturt",
+      "id": "137508bf-a8b2-43c2-b8f3-aaf72fedc234",
+      "latitude": -35.004427,
+      "longitude": 138.55789,
+      "street": "A14 - Marion Rd",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
-      "reported_at": "2026-01-09T04:53:04Z"
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T05:15:24Z"
     },
     {
-      "id": "e81857f1-9bb5-4ec1-8c01-1d3e1d19a07d",
-      "latitude": -34.89517,
-      "longitude": 138.642078,
-      "street": "A11 - Payneham Rd",
-      "city": "Marden",
+      "id": "168147b6-5d29-4039-b342-27c76378409d",
+      "latitude": -34.870718,
+      "longitude": 138.619087,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
-      "reported_at": "2026-01-09T04:43:29Z"
-    },
-    {
-      "id": "c309d92e-9973-4ec8-a51c-37783f5352db",
-      "latitude": -35.015547,
-      "longitude": 138.571165,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-01-09T05:00:15Z",
-      "reported_at": "2026-01-09T04:56:05Z"
+      "timestamp": "2026-01-09T05:30:14Z",
+      "reported_at": "2026-01-09T05:17:35Z"
     }
   ]
 }
