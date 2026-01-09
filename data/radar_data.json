@@ -1,64 +1,64 @@
 {
   "radars": [
     {
+      "id": "72d2625c-6006-4265-ab7e-58e1d146477e",
+      "latitude": -35.009254,
+      "longitude": 138.536298,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T05:00:19Z"
+    },
+    {
       "id": "e0c4abbf-f8a8-41ca-85da-c74eca244f1d",
       "latitude": -34.795422,
       "longitude": 138.64729,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
+      "timestamp": "2026-01-09T06:30:13Z",
       "reported_at": "2026-01-09T03:50:44Z"
     },
     {
-      "id": "20dd6e1e-ec12-41bc-bb80-55f5156cd339",
-      "latitude": -34.960213,
-      "longitude": 138.544399,
+      "id": "534aa945-2c77-40e8-a1d1-89dee9cb44be",
+      "latitude": -34.960112,
+      "longitude": 138.546493,
       "street": "Mooringe Av",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T02:48:43Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T01:36:34Z"
     },
     {
-      "id": "771d830c-7e0c-4c7d-8add-920f601f7dcc",
-      "latitude": -34.981355,
-      "longitude": 138.598797,
-      "street": "East Pwy",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T05:51:31Z"
-    },
-    {
-      "id": "a4eb6374-a9cf-495c-a40b-f2b1221bf56e",
-      "latitude": -34.794627,
-      "longitude": 138.59653,
-      "street": "Unknown Street",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T05:28:56Z"
-    },
-    {
-      "id": "1c45878e-e5c6-4aef-9373-96e406bf17e6",
-      "latitude": -34.900335,
-      "longitude": 138.686336,
-      "street": "Morialta Rd",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T03:47:51Z"
-    },
-    {
-      "id": "6064db41-8bb8-42ef-9490-c2e185385ffc",
-      "latitude": -34.920336,
-      "longitude": 138.653716,
+      "id": "1e0fbc88-2d40-4aaa-8db2-3baf4f4595f0",
+      "latitude": -34.920231,
+      "longitude": 138.65556,
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T02:11:31Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T02:12:07Z"
+    },
+    {
+      "id": "52bf2c25-9d55-468c-aee7-ff997d95cf8e",
+      "latitude": -34.965541,
+      "longitude": 138.635618,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T05:11:27Z"
+    },
+    {
+      "id": "fcb19599-04d9-40e0-aced-5c58b7736aba",
+      "latitude": -34.977895,
+      "longitude": 138.578472,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T05:38:26Z"
     },
     {
       "id": "c8d2f89d-1c52-4acb-b8b4-f3a98e847941",
@@ -67,8 +67,18 @@
       "street": "Cliff St",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
+      "timestamp": "2026-01-09T06:30:13Z",
       "reported_at": "2026-01-09T04:40:43Z"
+    },
+    {
+      "id": "0a17d2dd-56db-4ebd-a86e-390914c60abb",
+      "latitude": -34.980975,
+      "longitude": 138.598768,
+      "street": "East Pwy",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T06:17:08Z"
     },
     {
       "id": "8543af44-e58d-48c3-9b03-314bb90070a8",
@@ -77,58 +87,68 @@
       "street": "Reynell Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
+      "timestamp": "2026-01-09T06:30:13Z",
       "reported_at": "2026-01-09T04:44:57Z"
     },
     {
-      "id": "d68a04c9-1073-49c5-9dad-9514b6913966",
-      "latitude": -34.855799,
-      "longitude": 138.563468,
-      "street": "Unknown Street",
-      "city": "Angle Park",
+      "id": "1c45878e-e5c6-4aef-9373-96e406bf17e6",
+      "latitude": -34.900335,
+      "longitude": 138.686336,
+      "street": "Morialta Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T02:03:06Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T03:47:51Z"
     },
     {
-      "id": "13c6de7c-0944-4920-9ea5-ba81637cb510",
-      "latitude": -34.979919,
-      "longitude": 138.566877,
-      "street": "Raglan Av",
-      "city": "Edwardstown",
+      "id": "321cd4b6-205c-4604-bff5-b6539ab9df76",
+      "latitude": -35.024103,
+      "longitude": 138.552295,
+      "street": "Diagonal Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T05:33:08Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T05:45:32Z"
     },
     {
-      "id": "bf6dcb8b-1784-4bf1-9d5a-d882fc7a2f9a",
-      "latitude": -34.842613,
-      "longitude": 138.482505,
-      "street": "Military Rd",
-      "city": "Semaphore",
+      "id": "3cd9f74e-59ed-4556-a0ee-3c6be93f1b62",
+      "latitude": -34.839279,
+      "longitude": 138.502184,
+      "street": "Nelson St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T05:45:24Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T05:59:18Z"
     },
     {
-      "id": "c05d9b4b-32dd-4a29-b71b-785b7c1979a3",
-      "latitude": -34.714166,
-      "longitude": 138.783296,
-      "street": "Gawler-One Tree Hill Rd",
-      "city": "Yattalunga",
+      "id": "1fc4b09e-a261-4563-9746-16da4fddfd60",
+      "latitude": -34.822063,
+      "longitude": 138.733189,
+      "street": "A10 - North East Rd",
+      "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T05:33:14Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T06:17:41Z"
     },
     {
-      "id": "2a5d9e88-e7e1-4154-9c1b-7715ca1f2c4f",
-      "latitude": -34.909987,
-      "longitude": 138.577142,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Thebarton",
+      "id": "14608408-b6b9-42b1-8ef4-22bac289fb57",
+      "latitude": -34.76951,
+      "longitude": 138.66673,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-09T06:00:14Z",
-      "reported_at": "2026-01-09T05:46:31Z"
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T06:16:10Z"
+    },
+    {
+      "id": "c7dbec2b-f653-4464-9290-e92855c22061",
+      "latitude": -34.732373,
+      "longitude": 138.582803,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-01-09T06:30:13Z",
+      "reported_at": "2026-01-09T06:00:06Z"
     }
   ]
 }
