@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "e2dcb7c1-33a4-460a-a7b2-658a69746fea",
-      "latitude": -35.062316,
-      "longitude": 138.521057,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-09T22:48:31Z"
-    },
-    {
-      "id": "99fb5ea4-5b90-4cc0-9f8f-9e2868e6943c",
-      "latitude": -34.912306,
-      "longitude": 138.53394,
-      "street": "Findon Rd",
-      "city": "Kidman Park",
-      "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-10T00:42:47Z"
-    },
-    {
       "id": "c41289d4-481f-463f-87f2-f0d676c4d824",
       "latitude": -34.970992,
       "longitude": 138.528427,
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
+      "timestamp": "2026-01-10T01:30:13Z",
       "reported_at": "2026-01-09T22:25:43Z"
-    },
-    {
-      "id": "0718d3af-4982-4adf-b223-a680cafe9e59",
-      "latitude": -34.733183,
-      "longitude": 138.603923,
-      "street": "Helps Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-10T00:43:23Z"
     },
     {
       "id": "becd7040-f4fb-4bee-bc33-3ebd3563c463",
@@ -47,28 +17,38 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
+      "timestamp": "2026-01-10T01:30:13Z",
       "reported_at": "2026-01-09T21:18:04Z"
     },
     {
-      "id": "e06906d6-ff2a-410b-8a48-a2d8bbe5f69e",
-      "latitude": -34.924875,
-      "longitude": 138.545588,
-      "street": "Henley Beach Rd",
-      "city": "Underdale",
+      "id": "e2dcb7c1-33a4-460a-a7b2-658a69746fea",
+      "latitude": -35.062316,
+      "longitude": 138.521057,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-10T00:57:50Z"
+      "timestamp": "2026-01-10T01:30:13Z",
+      "reported_at": "2026-01-09T22:48:31Z"
     },
     {
-      "id": "9dacb20e-3c87-4935-bd22-e77ee3566968",
-      "latitude": -34.891669,
-      "longitude": 138.5176,
+      "id": "7616579b-3e3f-487a-a194-4e798aca0b8a",
+      "latitude": -34.891562,
+      "longitude": 138.519895,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-09T22:48:07Z"
+      "timestamp": "2026-01-10T01:30:13Z",
+      "reported_at": "2026-01-09T22:33:25Z"
+    },
+    {
+      "id": "38408643-ace9-4571-bf11-d86f26ee1f4f",
+      "latitude": -34.677422,
+      "longitude": 138.675899,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-01-10T01:30:13Z",
+      "reported_at": "2026-01-10T00:33:58Z"
     },
     {
       "id": "af38a9d6-ab03-4292-a280-e860948c21ce",
@@ -77,28 +57,28 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
+      "timestamp": "2026-01-10T01:30:13Z",
       "reported_at": "2026-01-09T22:44:08Z"
     },
     {
-      "id": "89ebb6f5-6160-47d5-aa86-4209ed03b0d7",
-      "latitude": -34.767982,
-      "longitude": 138.636373,
+      "id": "4d01e39b-4537-48cc-9a81-37967a0d9455",
+      "latitude": -35.141293,
+      "longitude": 138.524699,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
+      "type": "mobile",
+      "timestamp": "2026-01-10T01:30:13Z",
+      "reported_at": "2026-01-10T00:58:21Z"
+    },
+    {
+      "id": "a2b3b4dc-0da5-4077-a3de-303793280497",
+      "latitude": -34.770408,
+      "longitude": 138.634193,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-10T00:25:34Z"
-    },
-    {
-      "id": "cde5a450-ddd7-43b1-8de9-311f8d780cd0",
-      "latitude": -34.796152,
-      "longitude": 138.611306,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-01-10T01:00:13Z",
-      "reported_at": "2026-01-10T00:44:58Z"
+      "timestamp": "2026-01-10T01:30:13Z",
+      "reported_at": "2026-01-10T00:59:36Z"
     }
   ]
 }
