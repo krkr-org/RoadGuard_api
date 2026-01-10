@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "6419a301-6665-4ca9-8fe1-d4d1d8b9b2b1",
+      "latitude": -34.923317,
+      "longitude": 138.535587,
+      "street": "Rowells Rd",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-01-10T16:00:17Z",
+      "reported_at": "2026-01-10T15:06:48Z"
+    },
+    {
       "id": "cd4d8e82-b022-4bb9-8461-4d7907f8b245",
       "latitude": -34.985099,
       "longitude": 138.520725,
       "street": "Diagonal Rd",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-01-10T15:30:14Z",
+      "timestamp": "2026-01-10T16:00:17Z",
       "reported_at": "2026-01-10T12:14:55Z"
     }
   ]
