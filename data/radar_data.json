@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "d0067461-96c6-439d-bde7-5a115c84d880",
-      "latitude": -34.944713,
-      "longitude": 138.519488,
-      "street": "Sir Reginald Ansett Dr",
-      "city": "Adelaide Airport",
+      "id": "d686323f-0c6f-415c-9494-43545a436b8c",
+      "latitude": -34.831628,
+      "longitude": 138.496207,
+      "street": "Matilda St",
+      "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T08:59:15Z"
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T07:24:42Z"
     },
     {
       "id": "63908408-e71b-42c2-a4f4-a1bc1142ce51",
@@ -17,7 +17,7 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
+      "timestamp": "2026-01-10T10:00:14Z",
       "reported_at": "2026-01-10T08:35:56Z"
     },
     {
@@ -27,8 +27,18 @@
       "street": "Coventry Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
+      "timestamp": "2026-01-10T10:00:14Z",
       "reported_at": "2026-01-10T05:41:28Z"
+    },
+    {
+      "id": "0cd420e2-f7c9-4593-9a92-49996a983b32",
+      "latitude": -34.785871,
+      "longitude": 138.489311,
+      "street": "Unknown Street",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:54:17Z"
     },
     {
       "id": "082370ab-3277-48f0-9701-1eeffd887f27",
@@ -37,18 +47,8 @@
       "street": "Shepherds Hill Rd",
       "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
+      "timestamp": "2026-01-10T10:00:14Z",
       "reported_at": "2026-01-10T08:48:09Z"
-    },
-    {
-      "id": "e211116b-947a-4db3-813d-17f5be627473",
-      "latitude": -34.675077,
-      "longitude": 138.677154,
-      "street": "Peachey Rd",
-      "city": "Smithfield Plains",
-      "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T05:46:43Z"
     },
     {
       "id": "3007d20a-7c72-4be5-97d1-2fa9c1907408",
@@ -57,38 +57,98 @@
       "street": "South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
+      "timestamp": "2026-01-10T10:00:14Z",
       "reported_at": "2026-01-10T09:26:12Z"
     },
     {
-      "id": "3836d7f6-9fd0-4743-b3de-294cea2e667d",
-      "latitude": -34.91892,
-      "longitude": 138.632025,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "e211116b-947a-4db3-813d-17f5be627473",
+      "latitude": -34.675077,
+      "longitude": 138.677154,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T09:08:47Z"
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T05:46:43Z"
     },
     {
-      "id": "14cfc498-d614-494a-9630-9fac253022f7",
-      "latitude": -34.758596,
-      "longitude": 138.5912,
-      "street": "A1 - Port Wakefield Rd",
+      "id": "39a9740c-8ef2-4d78-9953-36d8bbca4296",
+      "latitude": -34.873019,
+      "longitude": 138.613636,
+      "street": "Regency Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:31:58Z"
+    },
+    {
+      "id": "3548a837-256a-4444-bf6b-e760a6f45349",
+      "latitude": -34.866512,
+      "longitude": 138.479969,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:45:21Z"
+    },
+    {
+      "id": "641abf90-b5f6-4948-9feb-fcc1ae8e751e",
+      "latitude": -34.863623,
+      "longitude": 138.479452,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:45:10Z"
+    },
+    {
+      "id": "6a323f31-51f2-4ec4-9da8-231df272703f",
+      "latitude": -35.137933,
+      "longitude": 138.500962,
+      "street": "Beach Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:31:58Z"
+    },
+    {
+      "id": "cb0f6129-a73a-466a-9a23-84fb9017bd6f",
+      "latitude": -34.921685,
+      "longitude": 138.598033,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:56:33Z"
+    },
+    {
+      "id": "a6f07782-2a70-4519-bee5-d271c80eaa03",
+      "latitude": -34.978626,
+      "longitude": 138.520019,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:46:18Z"
+    },
+    {
+      "id": "0bd95688-211e-4be4-8a86-8eb8e57cbe9d",
+      "latitude": -34.963177,
+      "longitude": 138.516568,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:53:20Z"
+    },
+    {
+      "id": "5c4de201-0050-4688-ba35-f421dab46ab0",
+      "latitude": -34.766202,
+      "longitude": 138.589136,
+      "street": "Unknown Street",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T08:57:40Z"
-    },
-    {
-      "id": "8ac96757-c11c-457b-9eed-65bf453c344f",
-      "latitude": -34.802488,
-      "longitude": 138.501325,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T09:14:20Z"
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:25:52Z"
     },
     {
       "id": "a1b76870-4956-4072-9ce2-c13bd68e188d",
@@ -97,28 +157,18 @@
       "street": "A20 - Main North Rd",
       "city": "Evanston South",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
+      "timestamp": "2026-01-10T10:00:14Z",
       "reported_at": "2026-01-10T04:59:39Z"
     },
     {
-      "id": "d76429b5-d5c6-4c45-8e6e-f058b850fd8d",
-      "latitude": -34.975824,
-      "longitude": 138.53084,
+      "id": "13c511d8-ca37-48ed-8565-22f76a9f1c2f",
+      "latitude": -34.976258,
+      "longitude": 138.521937,
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T09:16:38Z"
-    },
-    {
-      "id": "e90e8812-37cc-49b6-ae48-935f64c61676",
-      "latitude": -34.761135,
-      "longitude": 138.588517,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-01-10T09:30:14Z",
-      "reported_at": "2026-01-10T06:36:43Z"
+      "timestamp": "2026-01-10T10:00:14Z",
+      "reported_at": "2026-01-10T09:43:06Z"
     }
   ]
 }
