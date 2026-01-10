@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "c41ed111-5e33-4378-821d-c0b4c9283fc2",
+      "latitude": -34.906432,
+      "longitude": 138.514075,
+      "street": "Grange Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-10T21:30:15Z",
+      "reported_at": "2026-01-10T21:16:30Z"
+    },
+    {
+      "id": "7eff930c-8a28-48fc-bd89-3c8432a2fd36",
+      "latitude": -34.807091,
+      "longitude": 138.596948,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-01-10T21:30:15Z",
+      "reported_at": "2026-01-10T20:49:05Z"
+    }
+  ]
 }
