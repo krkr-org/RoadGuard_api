@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "ab609d81-67af-496d-9391-7cd5c4e61eab",
+      "latitude": -34.949305,
+      "longitude": 138.518639,
+      "street": "Sir Reginald Ansett Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T07:44:50Z"
+    },
+    {
       "id": "32449f6e-4d87-4215-8764-62e3f852839b",
       "latitude": -34.693824,
       "longitude": 138.683412,
       "street": "Konanda Rd",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T05:08:25Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Conyngham St",
       "city": "Frewville",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T03:55:40Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Coventry Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T05:41:28Z"
     },
     {
@@ -37,18 +47,38 @@
       "street": "Unknown Street",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T05:00:31Z"
     },
     {
-      "id": "5b3ada77-c55e-4f4f-b074-a63601bd2c6c",
-      "latitude": -34.673337,
-      "longitude": 138.678246,
-      "street": "Peachey Rd",
-      "city": "Smithfield Plains",
+      "id": "88067101-af63-4ff5-b7a9-105ed9ca4ce8",
+      "latitude": -34.94738,
+      "longitude": 138.519006,
+      "street": "Unknown Street",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
-      "reported_at": "2026-01-10T05:23:05Z"
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T07:40:28Z"
+    },
+    {
+      "id": "9d4e6c08-8981-41cf-935b-0b85bafd9b7e",
+      "latitude": -34.856277,
+      "longitude": 138.654205,
+      "street": "Sudholz Rd",
+      "city": "Oakden",
+      "type": "mobile",
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T07:45:51Z"
+    },
+    {
+      "id": "9be0b0b7-b2d8-4390-8a78-8dd5b1ea3073",
+      "latitude": -34.877343,
+      "longitude": 138.484754,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T04:33:15Z"
     },
     {
       "id": "65e99c2f-1921-484c-be7f-05958fd9d086",
@@ -57,18 +87,18 @@
       "street": "Kelly Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T04:01:01Z"
     },
     {
-      "id": "8a9b00b6-d536-4bbb-b8c7-093c7e7a80ec",
-      "latitude": -34.916975,
-      "longitude": 138.513323,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
+      "id": "5b3ada77-c55e-4f4f-b074-a63601bd2c6c",
+      "latitude": -34.673337,
+      "longitude": 138.678246,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
-      "reported_at": "2026-01-10T06:59:10Z"
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T05:23:05Z"
     },
     {
       "id": "c4a27244-19dd-482e-a386-03d942aed4e9",
@@ -77,38 +107,38 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T07:25:14Z"
     },
     {
-      "id": "a1b76870-4956-4072-9ce2-c13bd68e188d",
-      "latitude": -34.671626,
-      "longitude": 138.700563,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
+      "id": "3e889c19-eeb0-42d1-91a1-3df39e4c8937",
+      "latitude": -34.908243,
+      "longitude": 138.549913,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
-      "reported_at": "2026-01-10T04:59:39Z"
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T07:40:46Z"
     },
     {
-      "id": "63fb12ec-56ed-4846-b7fe-1cde9a3270fc",
-      "latitude": -34.892978,
-      "longitude": 138.55307,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
+      "id": "11761a47-ee32-42e5-9c59-6795db42ed7b",
+      "latitude": -34.852393,
+      "longitude": 138.505017,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
-      "reported_at": "2026-01-10T06:59:53Z"
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T07:28:50Z"
     },
     {
-      "id": "4155541f-3287-41a9-bd1c-448e49a374bb",
-      "latitude": -35.079238,
-      "longitude": 138.544294,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "0e0f0a97-1ccb-45e1-b5ec-4044744c5962",
+      "latitude": -34.914767,
+      "longitude": 138.640809,
+      "street": "B27 - Magill Rd",
+      "city": "Beulah Park",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
-      "reported_at": "2026-01-10T07:10:31Z"
+      "timestamp": "2026-01-10T08:00:14Z",
+      "reported_at": "2026-01-10T07:45:06Z"
     },
     {
       "id": "e90e8812-37cc-49b6-ae48-935f64c61676",
@@ -117,7 +147,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-10T07:30:15Z",
+      "timestamp": "2026-01-10T08:00:14Z",
       "reported_at": "2026-01-10T06:36:43Z"
     }
   ]
