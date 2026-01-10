@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "f0d30d86-d912-46d5-82c6-0caba4c1f7bb",
-      "latitude": -34.963117,
-      "longitude": 138.512024,
-      "street": "Military Rd",
+      "id": "5a8888ca-26fb-4511-ad38-88d5ff61af00",
+      "latitude": -34.945091,
+      "longitude": 138.510644,
+      "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-10T13:00:15Z",
-      "reported_at": "2026-01-10T12:34:20Z"
+      "timestamp": "2026-01-10T13:30:13Z",
+      "reported_at": "2026-01-10T10:47:19Z"
     },
     {
-      "id": "6e226084-ac7e-4b4a-99f5-9e744909a7cc",
-      "latitude": -34.782553,
-      "longitude": 138.684689,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury East",
+      "id": "c7a6aa2a-2cbc-4a38-9535-6274e111bd81",
+      "latitude": -35.062686,
+      "longitude": 138.584642,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-10T13:00:15Z",
-      "reported_at": "2026-01-10T12:45:15Z"
+      "timestamp": "2026-01-10T13:30:13Z",
+      "reported_at": "2026-01-10T13:16:02Z"
+    },
+    {
+      "id": "d7635210-1f4d-4056-b275-ba4a7b928972",
+      "latitude": -34.770781,
+      "longitude": 138.633986,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-10T13:30:13Z",
+      "reported_at": "2026-01-10T12:52:38Z"
+    },
+    {
+      "id": "4012d785-feef-4570-b91e-6ccaaef058b6",
+      "latitude": -34.908204,
+      "longitude": 138.5768,
+      "street": "Unknown Street",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-01-10T13:30:13Z",
+      "reported_at": "2026-01-10T13:09:54Z"
     },
     {
       "id": "0bb4aaeb-5dd7-483c-83ff-df6d9183e4dc",
@@ -27,18 +47,8 @@
       "street": "A18 - McIntyre Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-10T13:00:15Z",
+      "timestamp": "2026-01-10T13:30:13Z",
       "reported_at": "2026-01-10T12:52:26Z"
-    },
-    {
-      "id": "87240912-5941-4a0e-bec0-d81ec0b6a8bc",
-      "latitude": -34.923929,
-      "longitude": 138.569733,
-      "street": "A2 - South Rd",
-      "city": "Mile End",
-      "type": "mobile",
-      "timestamp": "2026-01-10T13:00:15Z",
-      "reported_at": "2026-01-10T12:22:14Z"
     }
   ]
 }
