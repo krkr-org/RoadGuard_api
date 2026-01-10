@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "8bb07f9f-29ca-4e1d-ac3b-e270e7878976",
-      "latitude": -34.945252,
-      "longitude": 138.50743,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-10T14:30:16Z",
-      "reported_at": "2026-01-10T10:47:38Z"
-    },
-    {
       "id": "cd4d8e82-b022-4bb9-8461-4d7907f8b245",
       "latitude": -34.985099,
       "longitude": 138.520725,
       "street": "Diagonal Rd",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-01-10T14:30:16Z",
+      "timestamp": "2026-01-10T15:00:15Z",
       "reported_at": "2026-01-10T12:14:55Z"
+    },
+    {
+      "id": "fd8ae62b-c6b1-4e49-ac83-354b4410f33c",
+      "latitude": -34.852556,
+      "longitude": 138.509229,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-01-10T15:00:15Z",
+      "reported_at": "2026-01-10T14:32:26Z"
     }
   ]
 }
