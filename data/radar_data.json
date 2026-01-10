@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "d82abb15-ac0d-4d13-88a6-e592bf18c919",
-      "latitude": -34.980489,
-      "longitude": 138.591622,
-      "street": "Aver Av",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
-      "reported_at": "2026-01-10T02:32:14Z"
-    },
-    {
       "id": "32449f6e-4d87-4215-8764-62e3f852839b",
       "latitude": -34.693824,
       "longitude": 138.683412,
       "street": "Konanda Rd",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
+      "timestamp": "2026-01-10T07:00:13Z",
       "reported_at": "2026-01-10T05:08:25Z"
+    },
+    {
+      "id": "95056ff5-8650-4d64-95ce-e4eae4a79d2e",
+      "latitude": -34.947586,
+      "longitude": 138.6342,
+      "street": "Conyngham St",
+      "city": "Frewville",
+      "type": "mobile",
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T03:55:40Z"
     },
     {
       "id": "34e2deee-0a1d-4e32-8343-fd7b1a512889",
@@ -27,28 +27,38 @@
       "street": "Coventry Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
+      "timestamp": "2026-01-10T07:00:13Z",
       "reported_at": "2026-01-10T05:41:28Z"
     },
     {
-      "id": "21f428ac-7123-4112-b4a3-09b51519daad",
-      "latitude": -34.922236,
-      "longitude": 138.61426,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
+      "id": "ad749715-ecf4-415b-855e-1b3d9324c408",
+      "latitude": -34.865496,
+      "longitude": 138.627914,
+      "street": "Redward Av",
+      "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
-      "reported_at": "2026-01-10T05:54:06Z"
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T06:34:00Z"
     },
     {
-      "id": "64229950-0a7b-460a-8d19-e21c5344e3bf",
-      "latitude": -34.997122,
-      "longitude": 138.593047,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "3da9d439-62d8-4b6d-a183-d3bfed59cf1b",
+      "latitude": -34.668073,
+      "longitude": 138.56085,
+      "street": "Unknown Street",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
-      "reported_at": "2026-01-10T05:55:39Z"
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T05:00:31Z"
+    },
+    {
+      "id": "ed0583dc-bad3-46b7-a952-98573b61cd55",
+      "latitude": -34.880413,
+      "longitude": 138.485322,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T06:54:48Z"
     },
     {
       "id": "65e99c2f-1921-484c-be7f-05958fd9d086",
@@ -57,7 +67,7 @@
       "street": "Kelly Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
+      "timestamp": "2026-01-10T07:00:13Z",
       "reported_at": "2026-01-10T04:01:01Z"
     },
     {
@@ -67,28 +77,28 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
+      "timestamp": "2026-01-10T07:00:13Z",
       "reported_at": "2026-01-10T04:33:15Z"
     },
     {
-      "id": "5b3ada77-c55e-4f4f-b074-a63601bd2c6c",
-      "latitude": -34.673337,
-      "longitude": 138.678246,
+      "id": "e211116b-947a-4db3-813d-17f5be627473",
+      "latitude": -34.675077,
+      "longitude": 138.677154,
       "street": "Peachey Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
-      "reported_at": "2026-01-10T05:23:05Z"
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T05:46:43Z"
     },
     {
-      "id": "c6ebf81e-db01-487a-859b-9aa302239649",
-      "latitude": -34.994554,
-      "longitude": 138.521197,
-      "street": "A15 - Brighton Rd",
-      "city": "Somerton Park",
+      "id": "09f11c07-c0c9-4816-b613-79559b3cf9f0",
+      "latitude": -34.918179,
+      "longitude": 138.622886,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
-      "reported_at": "2026-01-10T06:02:49Z"
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T06:49:15Z"
     },
     {
       "id": "15224e8d-9100-49ff-9d07-1194e72914d2",
@@ -97,18 +107,38 @@
       "street": "A20 - Main North Rd",
       "city": "Evanston South",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
+      "timestamp": "2026-01-10T07:00:13Z",
       "reported_at": "2026-01-10T06:15:36Z"
     },
     {
-      "id": "7ed6e158-1a68-48d8-b413-c82c490019d9",
-      "latitude": -34.781158,
-      "longitude": 138.584392,
+      "id": "ac3b65e7-69ad-4bc5-8f89-ce0d05612829",
+      "latitude": -34.899307,
+      "longitude": 138.58877,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T06:45:35Z"
+    },
+    {
+      "id": "133ed0c1-348f-4643-860b-ede5955a0fee",
+      "latitude": -34.993507,
+      "longitude": 138.521239,
+      "street": "A15 - Brighton Rd",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T05:13:07Z"
+    },
+    {
+      "id": "e90e8812-37cc-49b6-ae48-935f64c61676",
+      "latitude": -34.761135,
+      "longitude": 138.588517,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-10T06:30:13Z",
-      "reported_at": "2026-01-10T06:16:48Z"
+      "timestamp": "2026-01-10T07:00:13Z",
+      "reported_at": "2026-01-10T06:36:43Z"
     }
   ]
 }
