@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "9a9db239-b4cb-404e-937d-939b1a2626ba",
-      "latitude": -34.795094,
-      "longitude": 138.642062,
-      "street": "Lawrence Hargrave Way",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
-      "reported_at": "2026-01-11T02:03:08Z"
-    },
-    {
       "id": "0ca38acf-a33c-4752-96fe-85860a4433aa",
       "latitude": -34.964913,
       "longitude": 138.58161,
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
+      "timestamp": "2026-01-11T03:01:18Z",
       "reported_at": "2026-01-10T23:20:36Z"
     },
     {
@@ -27,18 +17,8 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
+      "timestamp": "2026-01-11T03:01:18Z",
       "reported_at": "2026-01-10T22:33:03Z"
-    },
-    {
-      "id": "5f23b8f5-727d-44ce-a163-c8a781c1ad73",
-      "latitude": -35.122554,
-      "longitude": 138.536123,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
-      "reported_at": "2026-01-10T23:48:37Z"
     },
     {
       "id": "c6feadb1-6bb1-45c5-bc15-8d17c262b2fa",
@@ -47,18 +27,28 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
+      "timestamp": "2026-01-11T03:01:18Z",
       "reported_at": "2026-01-10T21:37:43Z"
     },
     {
-      "id": "2010784d-955a-40ca-8bd9-dc4f40c80e03",
-      "latitude": -34.82242,
-      "longitude": 138.734913,
-      "street": "A10 - North East Rd",
-      "city": "Tea Tree Gully",
+      "id": "ba792081-d324-424a-8f7c-160b965fde6f",
+      "latitude": -34.700189,
+      "longitude": 138.775868,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Yattalunga",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
-      "reported_at": "2026-01-11T02:01:56Z"
+      "timestamp": "2026-01-11T03:01:18Z",
+      "reported_at": "2026-01-11T02:52:08Z"
+    },
+    {
+      "id": "c09be010-bf04-47f2-ab08-8b7b5070fd49",
+      "latitude": -35.05226,
+      "longitude": 138.571867,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-11T03:01:18Z",
+      "reported_at": "2026-01-11T02:29:57Z"
     },
     {
       "id": "5c7de8f3-0d34-48f3-b96b-6b27d798f694",
@@ -67,28 +57,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
+      "timestamp": "2026-01-11T03:01:18Z",
       "reported_at": "2026-01-11T00:57:08Z"
     },
     {
       "id": "23231010-7761-4706-abd4-68acb75cc17d",
-      "latitude": -34.985167,
-      "longitude": 138.807657,
+      "latitude": -34.985328,
+      "longitude": 138.80893,
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
+      "timestamp": "2026-01-11T03:01:18Z",
       "reported_at": "2026-01-11T01:26:43Z"
-    },
-    {
-      "id": "d7c4587f-e23f-4d5b-bc38-998a33d6074c",
-      "latitude": -34.913912,
-      "longitude": 138.657975,
-      "street": "B27 - Magill Rd",
-      "city": "Kensington Park",
-      "type": "mobile",
-      "timestamp": "2026-01-11T02:30:14Z",
-      "reported_at": "2026-01-11T02:09:19Z"
     }
   ]
 }
