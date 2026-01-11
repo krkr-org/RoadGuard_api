@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "40b88240-14ac-4760-bc0b-72252edb7ce9",
-      "latitude": -35.063934,
-      "longitude": 138.544487,
-      "street": "Adams Rd",
-      "city": "Trott Park",
+      "id": "9a9db239-b4cb-404e-937d-939b1a2626ba",
+      "latitude": -34.795094,
+      "longitude": 138.642062,
+      "street": "Lawrence Hargrave Way",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
-      "reported_at": "2026-01-10T22:33:03Z"
-    },
-    {
-      "id": "0e5f90d0-a68a-442e-8d9a-555d20be8107",
-      "latitude": -35.108234,
-      "longitude": 138.507064,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
-      "reported_at": "2026-01-11T01:16:48Z"
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-11T02:03:08Z"
     },
     {
       "id": "0ca38acf-a33c-4752-96fe-85860a4433aa",
@@ -27,48 +17,58 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
+      "timestamp": "2026-01-11T02:30:14Z",
       "reported_at": "2026-01-10T23:20:36Z"
     },
     {
-      "id": "dade2b6d-6287-4660-9353-80896eeda838",
-      "latitude": -35.062769,
-      "longitude": 138.656687,
+      "id": "40b88240-14ac-4760-bc0b-72252edb7ce9",
+      "latitude": -35.063934,
+      "longitude": 138.544487,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-10T22:33:03Z"
+    },
+    {
+      "id": "5f23b8f5-727d-44ce-a163-c8a781c1ad73",
+      "latitude": -35.122554,
+      "longitude": 138.536123,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-10T23:48:37Z"
+    },
+    {
+      "id": "c6feadb1-6bb1-45c5-bc15-8d17c262b2fa",
+      "latitude": -35.063285,
+      "longitude": 138.654021,
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
-      "reported_at": "2026-01-10T22:03:10Z"
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-10T21:37:43Z"
     },
     {
-      "id": "29508c90-b435-4ad4-b78d-b3a68a141ab3",
-      "latitude": -34.717338,
-      "longitude": 138.782377,
-      "street": "One Tree Hill Rd",
-      "city": "One Tree Hill",
+      "id": "2010784d-955a-40ca-8bd9-dc4f40c80e03",
+      "latitude": -34.82242,
+      "longitude": 138.734913,
+      "street": "A10 - North East Rd",
+      "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
-      "reported_at": "2026-01-11T01:30:43Z"
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-11T02:01:56Z"
     },
     {
-      "id": "0a6eae9f-afa4-4dbf-85d7-d2830434b85c",
-      "latitude": -34.888669,
-      "longitude": 138.673598,
-      "street": "Montacute Rd",
-      "city": "Campbelltown",
-      "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
-      "reported_at": "2026-01-11T01:33:16Z"
-    },
-    {
-      "id": "51153f1b-c83d-455f-9e73-70e5da66aa25",
-      "latitude": -35.135297,
-      "longitude": 138.485924,
+      "id": "5c7de8f3-0d34-48f3-b96b-6b27d798f694",
+      "latitude": -35.135952,
+      "longitude": 138.486134,
       "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
-      "reported_at": "2026-01-10T22:07:42Z"
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-11T00:57:08Z"
     },
     {
       "id": "23231010-7761-4706-abd4-68acb75cc17d",
@@ -77,8 +77,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-01-11T02:00:15Z",
+      "timestamp": "2026-01-11T02:30:14Z",
       "reported_at": "2026-01-11T01:26:43Z"
+    },
+    {
+      "id": "d7c4587f-e23f-4d5b-bc38-998a33d6074c",
+      "latitude": -34.913912,
+      "longitude": 138.657975,
+      "street": "B27 - Magill Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2026-01-11T02:30:14Z",
+      "reported_at": "2026-01-11T02:09:19Z"
     }
   ]
 }
