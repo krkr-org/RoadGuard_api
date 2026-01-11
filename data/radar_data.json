@@ -1,14 +1,44 @@
 {
   "radars": [
     {
+      "id": "30e567c5-3b0e-419b-b01a-3fef800cda10",
+      "latitude": -34.903544,
+      "longitude": 138.599732,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T04:53:25Z"
+    },
+    {
       "id": "6e608cb2-c005-4e0b-a455-bd7c1b8572d8",
       "latitude": -34.922283,
       "longitude": 138.614455,
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
+      "timestamp": "2026-01-11T06:30:14Z",
       "reported_at": "2026-01-11T05:39:55Z"
+    },
+    {
+      "id": "e9b0439b-3716-44f5-a845-39ae92c9e798",
+      "latitude": -34.835754,
+      "longitude": 138.639531,
+      "street": "Coondoo Av",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T06:06:02Z"
+    },
+    {
+      "id": "50269606-d02f-46f2-9858-9afd2a308eee",
+      "latitude": -34.680195,
+      "longitude": 138.684772,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T06:01:47Z"
     },
     {
       "id": "816dac56-57a7-4b3b-b02d-2513e207ba44",
@@ -17,18 +47,48 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
+      "timestamp": "2026-01-11T06:30:14Z",
       "reported_at": "2026-01-11T04:53:24Z"
     },
     {
-      "id": "64a76dec-e40a-4c1f-8fe5-28a84302d554",
-      "latitude": -35.071275,
-      "longitude": 138.530887,
-      "street": "Adams Rd",
-      "city": "Sheidow Park",
+      "id": "72345149-9910-46ab-bc67-118e2e326694",
+      "latitude": -34.930477,
+      "longitude": 138.6061,
+      "street": "Unknown Street",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
-      "reported_at": "2026-01-11T02:53:29Z"
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T05:55:39Z"
+    },
+    {
+      "id": "f5cb55b3-4947-4473-9add-eb8ac9615e78",
+      "latitude": -35.063379,
+      "longitude": 138.652404,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T03:05:17Z"
+    },
+    {
+      "id": "4dfa9f69-eb5b-4d8e-a98b-8fe88407062d",
+      "latitude": -34.875175,
+      "longitude": 138.570266,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T06:07:04Z"
+    },
+    {
+      "id": "237da9ee-3d2f-47b2-b227-0517e41bd55b",
+      "latitude": -34.688598,
+      "longitude": 138.768555,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Uleybury",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T06:20:33Z"
     },
     {
       "id": "098f8607-91a3-45ad-924d-af5f7b7cdf3b",
@@ -37,38 +97,28 @@
       "street": "East Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
+      "timestamp": "2026-01-11T06:30:14Z",
       "reported_at": "2026-01-11T05:41:46Z"
     },
     {
-      "id": "566a7e0c-1a1a-42ee-8b38-572fac6d7be3",
-      "latitude": -35.056237,
-      "longitude": 138.598303,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
-      "reported_at": "2026-01-11T05:41:40Z"
-    },
-    {
-      "id": "23231010-7761-4706-abd4-68acb75cc17d",
-      "latitude": -34.985328,
-      "longitude": 138.80893,
+      "id": "961169fd-7685-4dbd-8381-03b4176bbcb1",
+      "latitude": -34.985119,
+      "longitude": 138.806691,
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
-      "reported_at": "2026-01-11T01:26:43Z"
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T03:26:19Z"
     },
     {
-      "id": "c0d98f2f-2332-49d4-8b2a-e7df691c95b5",
-      "latitude": -34.964379,
-      "longitude": 138.630539,
+      "id": "e385c490-779e-4b00-9cd8-2214c0797c24",
+      "latitude": -34.964374,
+      "longitude": 138.630676,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
-      "reported_at": "2026-01-11T05:06:05Z"
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T05:36:35Z"
     },
     {
       "id": "8e112f8d-ada7-4553-99d3-5262f1dbbb64",
@@ -77,18 +127,28 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
+      "timestamp": "2026-01-11T06:30:14Z",
       "reported_at": "2026-01-11T05:12:43Z"
     },
     {
-      "id": "276afb7a-cc90-4714-a4c4-69e0a494bd89",
-      "latitude": -34.967974,
-      "longitude": 138.557791,
-      "street": "A3 - Cross Rd",
-      "city": "South Plympton",
+      "id": "94f7e414-a86f-4da6-9d68-6eec36c38498",
+      "latitude": -34.946509,
+      "longitude": 138.625023,
+      "street": "B28 - Fullarton Rd",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-11T06:00:14Z",
-      "reported_at": "2026-01-11T05:35:32Z"
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T06:00:53Z"
+    },
+    {
+      "id": "7367c79e-a016-4b72-94e7-b7f6b1df7b65",
+      "latitude": -34.806159,
+      "longitude": 138.572308,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-01-11T06:30:14Z",
+      "reported_at": "2026-01-11T06:17:00Z"
     }
   ]
 }
