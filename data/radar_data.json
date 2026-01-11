@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "8e559654-2c47-4cc9-a70e-42eff7c102bd",
-      "latitude": -34.903364,
-      "longitude": 138.599668,
-      "street": "LeFevre Tce",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-11T13:00:17Z",
-      "reported_at": "2026-01-11T09:11:19Z"
-    },
-    {
       "id": "dfa4237b-ed50-485b-9231-32c303935415",
       "latitude": -34.942535,
       "longitude": 138.651665,
       "street": "Devereux Rd",
       "city": "Linden Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T13:00:17Z",
+      "timestamp": "2026-01-11T13:30:15Z",
       "reported_at": "2026-01-11T10:22:45Z"
     },
     {
-      "id": "f92a82f4-f5cb-4ebe-861b-33decb7f0f21",
-      "latitude": -34.940699,
-      "longitude": 138.612979,
+      "id": "13a4cd69-c2e7-421f-b58a-90c76e0bc315",
+      "latitude": -34.831467,
+      "longitude": 138.483056,
+      "street": "Esplanade",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2026-01-11T13:30:15Z",
+      "reported_at": "2026-01-11T12:09:46Z"
+    },
+    {
+      "id": "b65ba74b-50e2-44d5-ab04-26aa4da655c5",
+      "latitude": -34.940443,
+      "longitude": 138.614348,
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-11T13:00:17Z",
-      "reported_at": "2026-01-11T09:08:41Z"
-    },
-    {
-      "id": "dcfa2dd8-4e16-40e0-8f64-c26ca47ec59e",
-      "latitude": -34.940185,
-      "longitude": 138.624774,
-      "street": "B26 - Greenhill Rd",
-      "city": "Dulwich",
-      "type": "mobile",
-      "timestamp": "2026-01-11T13:00:17Z",
-      "reported_at": "2026-01-11T09:06:48Z"
-    },
-    {
-      "id": "bc1eb864-795f-4c69-af54-1c472b3dbd36",
-      "latitude": -34.939129,
-      "longitude": 138.585477,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-11T13:00:17Z",
-      "reported_at": "2026-01-11T10:20:07Z"
+      "timestamp": "2026-01-11T13:30:15Z",
+      "reported_at": "2026-01-11T09:31:17Z"
     },
     {
       "id": "4b3ab2a0-06f6-4fe3-8a9b-b748a509f301",
@@ -57,7 +37,7 @@
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-11T13:00:17Z",
+      "timestamp": "2026-01-11T13:30:15Z",
       "reported_at": "2026-01-11T12:31:29Z"
     }
   ]
