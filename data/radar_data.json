@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "0ca38acf-a33c-4752-96fe-85860a4433aa",
+      "latitude": -34.964913,
+      "longitude": 138.58161,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-01-11T00:30:15Z",
+      "reported_at": "2026-01-10T23:20:36Z"
+    },
+    {
       "id": "40b88240-14ac-4760-bc0b-72252edb7ce9",
       "latitude": -35.063934,
       "longitude": 138.544487,
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T00:00:17Z",
+      "timestamp": "2026-01-11T00:30:15Z",
       "reported_at": "2026-01-10T22:33:03Z"
     },
     {
-      "id": "dade2b6d-6287-4660-9353-80896eeda838",
-      "latitude": -35.062769,
-      "longitude": 138.656687,
+      "id": "b4b474fe-5ce2-4fa8-a1d6-b440688b6fad",
+      "latitude": -35.111455,
+      "longitude": 138.507315,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-01-11T00:30:15Z",
+      "reported_at": "2026-01-10T23:59:45Z"
+    },
+    {
+      "id": "c6feadb1-6bb1-45c5-bc15-8d17c262b2fa",
+      "latitude": -35.063303,
+      "longitude": 138.653289,
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-11T00:00:17Z",
-      "reported_at": "2026-01-10T22:03:10Z"
+      "timestamp": "2026-01-11T00:30:15Z",
+      "reported_at": "2026-01-10T21:37:43Z"
+    },
+    {
+      "id": "cd85a803-2747-4ea7-9920-70a2366d065a",
+      "latitude": -34.849841,
+      "longitude": 138.668823,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-11T00:30:15Z",
+      "reported_at": "2026-01-11T00:10:22Z"
+    },
+    {
+      "id": "9ce17f9e-e158-4fa9-b5f6-040f19bbdbe6",
+      "latitude": -34.932224,
+      "longitude": 138.623978,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T00:30:15Z",
+      "reported_at": "2026-01-11T00:25:22Z"
     }
   ]
 }
