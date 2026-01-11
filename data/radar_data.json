@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "347ed9ff-02eb-4018-af1d-52716e4c1dad",
-      "latitude": -34.858295,
-      "longitude": 138.624094,
-      "street": "Folland Av Service Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-01-10T23:30:14Z",
-      "reported_at": "2026-01-10T23:18:19Z"
-    },
-    {
       "id": "40b88240-14ac-4760-bc0b-72252edb7ce9",
       "latitude": -35.063934,
       "longitude": 138.544487,
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-01-10T23:30:14Z",
+      "timestamp": "2026-01-11T00:00:17Z",
       "reported_at": "2026-01-10T22:33:03Z"
-    },
-    {
-      "id": "f15135df-1b79-4a36-8784-39721ba7dc3c",
-      "latitude": -35.122122,
-      "longitude": 138.536094,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-10T23:30:14Z",
-      "reported_at": "2026-01-10T22:25:13Z"
     },
     {
       "id": "dade2b6d-6287-4660-9353-80896eeda838",
@@ -37,28 +17,8 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-10T23:30:14Z",
+      "timestamp": "2026-01-11T00:00:17Z",
       "reported_at": "2026-01-10T22:03:10Z"
-    },
-    {
-      "id": "a833294f-6d87-4a9a-aa81-3e01bc95b071",
-      "latitude": -34.694154,
-      "longitude": 138.648344,
-      "street": "Womma Rd",
-      "city": "Eyre",
-      "type": "mobile",
-      "timestamp": "2026-01-10T23:30:14Z",
-      "reported_at": "2026-01-10T23:03:14Z"
-    },
-    {
-      "id": "51153f1b-c83d-455f-9e73-70e5da66aa25",
-      "latitude": -35.135297,
-      "longitude": 138.485924,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-10T23:30:14Z",
-      "reported_at": "2026-01-10T22:07:42Z"
     }
   ]
 }
