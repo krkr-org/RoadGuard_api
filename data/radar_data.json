@@ -1,64 +1,84 @@
 {
   "radars": [
     {
+      "id": "bb1a9e8f-d7f8-4197-a2bb-20c5aa02cbe3",
+      "latitude": -34.914624,
+      "longitude": 138.585827,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T05:05:32Z"
+    },
+    {
+      "id": "3e647982-69ec-42ce-bf00-355daa322fc9",
+      "latitude": -34.687858,
+      "longitude": 138.647569,
+      "street": "Andrews Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T05:11:19Z"
+    },
+    {
       "id": "64a76dec-e40a-4c1f-8fe5-28a84302d554",
       "latitude": -35.071275,
       "longitude": 138.530887,
       "street": "Adams Rd",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
+      "timestamp": "2026-01-11T05:30:14Z",
       "reported_at": "2026-01-11T02:53:29Z"
     },
     {
-      "id": "816dac56-57a7-4b3b-b02d-2513e207ba44",
-      "latitude": -34.914906,
-      "longitude": 138.586275,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "c6feadb1-6bb1-45c5-bc15-8d17c262b2fa",
+      "latitude": -35.063285,
+      "longitude": 138.654021,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
-      "reported_at": "2026-01-11T04:53:24Z"
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-10T21:37:43Z"
     },
     {
-      "id": "e1fd406a-2589-4da6-9ec0-50463400d13e",
-      "latitude": -35.119206,
-      "longitude": 138.535867,
+      "id": "1c2e86fa-20f5-4dce-8c2e-5198bd879c99",
+      "latitude": -35.128887,
+      "longitude": 138.536595,
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
-      "reported_at": "2026-01-11T02:33:09Z"
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T05:21:31Z"
     },
     {
-      "id": "86da7b30-d405-4360-a620-597a945f54c7",
-      "latitude": -34.928143,
-      "longitude": 138.58765,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "a52f969c-7807-4ae5-9e40-831934ea442c",
+      "latitude": -34.943578,
+      "longitude": 138.599444,
+      "street": "King William Rd",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
-      "reported_at": "2026-01-11T04:44:58Z"
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T04:45:05Z"
     },
     {
-      "id": "6623bb50-c60c-4202-b663-9228b130495f",
-      "latitude": -34.939973,
-      "longitude": 138.584729,
+      "id": "1706ce98-3ceb-4c78-a9a5-39355370e170",
+      "latitude": -34.839176,
+      "longitude": 138.501879,
+      "street": "A16 - Semaphore Rd",
+      "city": "New Port",
+      "type": "mobile",
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T04:55:41Z"
+    },
+    {
+      "id": "4b5193a2-049b-4dc7-b966-8814339282e4",
+      "latitude": -34.940263,
+      "longitude": 138.584673,
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
-      "reported_at": "2026-01-11T04:30:21Z"
-    },
-    {
-      "id": "cdab03ea-f0a2-4459-8de1-aff6ea2492c2",
-      "latitude": -34.964291,
-      "longitude": 138.631154,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
-      "reported_at": "2026-01-11T04:54:14Z"
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T04:56:49Z"
     },
     {
       "id": "961169fd-7685-4dbd-8381-03b4176bbcb1",
@@ -67,18 +87,28 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
+      "timestamp": "2026-01-11T05:30:14Z",
       "reported_at": "2026-01-11T03:26:19Z"
     },
     {
-      "id": "3c628515-242b-426a-b931-1f235e27a25d",
-      "latitude": -34.9706,
-      "longitude": 138.658911,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "cdab03ea-f0a2-4459-8de1-aff6ea2492c2",
+      "latitude": -34.964291,
+      "longitude": 138.631154,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-11T05:00:16Z",
-      "reported_at": "2026-01-11T04:50:17Z"
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T04:54:14Z"
+    },
+    {
+      "id": "8e112f8d-ada7-4553-99d3-5262f1dbbb64",
+      "latitude": -34.913097,
+      "longitude": 138.613653,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T05:30:14Z",
+      "reported_at": "2026-01-11T05:12:43Z"
     }
   ]
 }
