@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "48549326-521a-46d2-b853-b99f749955b4",
-      "latitude": -34.939636,
-      "longitude": 138.651442,
-      "street": "Devereux Rd",
-      "city": "Linden Park",
+      "id": "8e559654-2c47-4cc9-a70e-42eff7c102bd",
+      "latitude": -34.903364,
+      "longitude": 138.599668,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
-      "reported_at": "2026-01-11T07:58:11Z"
+      "timestamp": "2026-01-11T12:00:17Z",
+      "reported_at": "2026-01-11T09:11:19Z"
     },
     {
       "id": "d8b5574f-a048-48e9-9777-73782e2adc25",
@@ -17,58 +17,8 @@
       "street": "Unknown Street",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
+      "timestamp": "2026-01-11T12:00:17Z",
       "reported_at": "2026-01-11T10:18:22Z"
-    },
-    {
-      "id": "8e559654-2c47-4cc9-a70e-42eff7c102bd",
-      "latitude": -34.903364,
-      "longitude": 138.599668,
-      "street": "LeFevre Tce",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
-      "reported_at": "2026-01-11T09:11:19Z"
-    },
-    {
-      "id": "6e324bab-1f2b-44ca-8c9a-f2b2b996ea2b",
-      "latitude": -34.940103,
-      "longitude": 138.58462,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
-      "reported_at": "2026-01-11T10:55:24Z"
-    },
-    {
-      "id": "10d102af-ee34-4461-a968-92ad98728d9a",
-      "latitude": -34.941372,
-      "longitude": 138.599754,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
-      "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
-      "reported_at": "2026-01-11T11:03:49Z"
-    },
-    {
-      "id": "dcfa2dd8-4e16-40e0-8f64-c26ca47ec59e",
-      "latitude": -34.940185,
-      "longitude": 138.624774,
-      "street": "B26 - Greenhill Rd",
-      "city": "Dulwich",
-      "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
-      "reported_at": "2026-01-11T09:06:48Z"
-    },
-    {
-      "id": "e8f74519-cbee-4e0a-94d7-5a30f8044d17",
-      "latitude": -34.94052,
-      "longitude": 138.616254,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
-      "reported_at": "2026-01-11T09:31:14Z"
     },
     {
       "id": "06a8d2c9-8330-4811-a6d2-63f36d43a1b3",
@@ -77,8 +27,38 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
+      "timestamp": "2026-01-11T12:00:17Z",
       "reported_at": "2026-01-11T10:36:42Z"
+    },
+    {
+      "id": "b65ba74b-50e2-44d5-ab04-26aa4da655c5",
+      "latitude": -34.940443,
+      "longitude": 138.614348,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:00:17Z",
+      "reported_at": "2026-01-11T09:31:17Z"
+    },
+    {
+      "id": "e8f74519-cbee-4e0a-94d7-5a30f8044d17",
+      "latitude": -34.94052,
+      "longitude": 138.616254,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:00:17Z",
+      "reported_at": "2026-01-11T09:31:14Z"
+    },
+    {
+      "id": "bc1eb864-795f-4c69-af54-1c472b3dbd36",
+      "latitude": -34.939129,
+      "longitude": 138.585477,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:00:17Z",
+      "reported_at": "2026-01-11T10:20:07Z"
     },
     {
       "id": "8fac96ed-5f7d-4971-ae70-728f302ade7e",
@@ -87,8 +67,18 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T11:30:15Z",
+      "timestamp": "2026-01-11T12:00:17Z",
       "reported_at": "2026-01-11T10:07:24Z"
+    },
+    {
+      "id": "dcfa2dd8-4e16-40e0-8f64-c26ca47ec59e",
+      "latitude": -34.940185,
+      "longitude": 138.624774,
+      "street": "B26 - Greenhill Rd",
+      "city": "Dulwich",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:00:17Z",
+      "reported_at": "2026-01-11T09:06:48Z"
     }
   ]
 }
