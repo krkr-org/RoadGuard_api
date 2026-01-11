@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "8e559654-2c47-4cc9-a70e-42eff7c102bd",
-      "latitude": -34.903364,
-      "longitude": 138.599668,
-      "street": "LeFevre Tce",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T09:11:19Z"
-    },
-    {
       "id": "6d21e470-544d-4012-9209-13f9cd60b22a",
       "latitude": -34.914299,
       "longitude": 138.58532,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
+      "timestamp": "2026-01-11T10:00:17Z",
       "reported_at": "2026-01-11T06:27:56Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Devereux Rd",
       "city": "Linden Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
+      "timestamp": "2026-01-11T10:00:17Z",
       "reported_at": "2026-01-11T06:34:03Z"
+    },
+    {
+      "id": "8e559654-2c47-4cc9-a70e-42eff7c102bd",
+      "latitude": -34.903364,
+      "longitude": 138.599668,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:11:19Z"
     },
     {
       "id": "42bd631d-c08d-4817-abaf-a899c1cf2399",
@@ -37,58 +37,38 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
+      "timestamp": "2026-01-11T10:00:17Z",
       "reported_at": "2026-01-11T06:25:06Z"
     },
     {
-      "id": "e9e74241-9120-42a6-b926-777e08e2c396",
-      "latitude": -34.931354,
-      "longitude": 138.600242,
-      "street": "King William St",
-      "city": "Adelaide",
+      "id": "faa101bb-24fe-48cb-9ded-61c4e3ab7515",
+      "latitude": -34.853264,
+      "longitude": 138.665459,
+      "street": "Tarton Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T08:31:42Z"
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:35:35Z"
     },
     {
-      "id": "cb1d884f-d270-46b6-be44-27dbc01fbd96",
-      "latitude": -34.930092,
-      "longitude": 138.606129,
+      "id": "007804c0-b8cd-4ecc-a3b1-0f01f66fa810",
+      "latitude": -34.930925,
+      "longitude": 138.606213,
       "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T05:51:53Z"
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T07:24:42Z"
     },
     {
-      "id": "a8e560e2-ce64-4739-b531-2deb57b12f63",
-      "latitude": -34.941656,
-      "longitude": 138.594282,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
+      "id": "1c891aac-6180-4f71-bc81-519b7a5493f1",
+      "latitude": -34.792636,
+      "longitude": 138.648693,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T08:56:28Z"
-    },
-    {
-      "id": "970a80c9-4ea3-4adb-bffe-5fc77147e22e",
-      "latitude": -34.964383,
-      "longitude": 138.63043,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T07:23:06Z"
-    },
-    {
-      "id": "bdb4dccc-188b-4d69-a145-5a857adcdebc",
-      "latitude": -34.955595,
-      "longitude": 138.567651,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T09:12:16Z"
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:31:01Z"
     },
     {
       "id": "ba94252e-f398-4703-9a20-f6db06111d69",
@@ -97,38 +77,88 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
+      "timestamp": "2026-01-11T10:00:17Z",
       "reported_at": "2026-01-11T09:20:40Z"
     },
     {
-      "id": "d4171b8f-a3a3-4507-a132-2eab4fe46587",
-      "latitude": -34.939356,
-      "longitude": 138.585277,
+      "id": "e8f74519-cbee-4e0a-94d7-5a30f8044d17",
+      "latitude": -34.94052,
+      "longitude": 138.616254,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:31:14Z"
+    },
+    {
+      "id": "e2b9821b-334e-4358-ac93-ac85ef256162",
+      "latitude": -34.940789,
+      "longitude": 138.583999,
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T05:46:32Z"
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T05:46:12Z"
     },
     {
-      "id": "f92a82f4-f5cb-4ebe-861b-33decb7f0f21",
-      "latitude": -34.940699,
-      "longitude": 138.612979,
+      "id": "4e9520f4-f559-4e5e-a52c-ab15019560dd",
+      "latitude": -34.963827,
+      "longitude": 138.644808,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:43:55Z"
+    },
+    {
+      "id": "3c8bbec1-7cbd-4708-b118-4a4f6ce79350",
+      "latitude": -34.964355,
+      "longitude": 138.629534,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T06:43:07Z"
+    },
+    {
+      "id": "a8e560e2-ce64-4739-b531-2deb57b12f63",
+      "latitude": -34.941656,
+      "longitude": 138.594282,
       "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T09:08:41Z"
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T08:56:28Z"
     },
     {
-      "id": "82cac48c-6341-4405-a011-96d9886f8893",
-      "latitude": -35.011982,
-      "longitude": 138.575149,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
+      "id": "dc259c85-f3ec-4255-b510-49175f03ceff",
+      "latitude": -34.852038,
+      "longitude": 138.666417,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-11T09:30:14Z",
-      "reported_at": "2026-01-11T09:02:28Z"
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:27:52Z"
+    },
+    {
+      "id": "c02756c5-42f2-466d-98cc-68cf73b551b3",
+      "latitude": -34.968845,
+      "longitude": 138.66219,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:45:29Z"
+    },
+    {
+      "id": "c52c0fe4-19ad-45ea-a959-b2983ec31ed0",
+      "latitude": -34.967067,
+      "longitude": 138.668143,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-11T10:00:17Z",
+      "reported_at": "2026-01-11T09:47:32Z"
     }
   ]
 }
