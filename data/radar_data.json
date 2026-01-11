@@ -1,64 +1,74 @@
 {
   "radars": [
     {
-      "id": "0ca38acf-a33c-4752-96fe-85860a4433aa",
-      "latitude": -34.964913,
-      "longitude": 138.58161,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
-      "reported_at": "2026-01-10T23:20:36Z"
-    },
-    {
-      "id": "40b88240-14ac-4760-bc0b-72252edb7ce9",
-      "latitude": -35.063934,
-      "longitude": 138.544487,
+      "id": "64a76dec-e40a-4c1f-8fe5-28a84302d554",
+      "latitude": -35.071275,
+      "longitude": 138.530887,
       "street": "Adams Rd",
-      "city": "Trott Park",
+      "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
-      "reported_at": "2026-01-10T22:33:03Z"
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-11T02:53:29Z"
     },
     {
-      "id": "c6feadb1-6bb1-45c5-bc15-8d17c262b2fa",
-      "latitude": -35.063285,
-      "longitude": 138.654021,
+      "id": "44e48c8a-00a9-4e8c-b8d5-55ba906b9e5a",
+      "latitude": -35.122027,
+      "longitude": 138.536088,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-10T23:40:31Z"
+    },
+    {
+      "id": "dade2b6d-6287-4660-9353-80896eeda838",
+      "latitude": -35.062769,
+      "longitude": 138.656687,
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
-      "reported_at": "2026-01-10T21:37:43Z"
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-10T22:03:10Z"
     },
     {
-      "id": "ba792081-d324-424a-8f7c-160b965fde6f",
-      "latitude": -34.700189,
-      "longitude": 138.775868,
+      "id": "0a8a4fe0-431c-4c88-8ba7-4862947a9619",
+      "latitude": -34.703191,
+      "longitude": 138.777077,
       "street": "Gawler-One Tree Hill Rd",
       "city": "Yattalunga",
       "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
-      "reported_at": "2026-01-11T02:52:08Z"
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-11T03:01:51Z"
     },
     {
-      "id": "c09be010-bf04-47f2-ab08-8b7b5070fd49",
-      "latitude": -35.05226,
-      "longitude": 138.571867,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "6c09f3b3-eda7-49d3-a59a-615a1e17b7e7",
+      "latitude": -34.72131,
+      "longitude": 138.668577,
+      "street": "Elizabeth Way",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
-      "reported_at": "2026-01-11T02:29:57Z"
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-11T03:22:45Z"
     },
     {
-      "id": "5c7de8f3-0d34-48f3-b96b-6b27d798f694",
-      "latitude": -35.135952,
-      "longitude": 138.486134,
+      "id": "44854d40-e572-40f9-acb8-0d886e871349",
+      "latitude": -35.135686,
+      "longitude": 138.485954,
       "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
-      "reported_at": "2026-01-11T00:57:08Z"
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-10T23:44:53Z"
+    },
+    {
+      "id": "cbbde10d-71d1-43f7-a091-6caefb7a215b",
+      "latitude": -34.850508,
+      "longitude": 138.668155,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-11T03:20:21Z"
     },
     {
       "id": "23231010-7761-4706-abd4-68acb75cc17d",
@@ -67,8 +77,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-01-11T03:01:18Z",
+      "timestamp": "2026-01-11T03:30:13Z",
       "reported_at": "2026-01-11T01:26:43Z"
+    },
+    {
+      "id": "e0e6e038-cb3f-46cf-bfe1-fc58a5ff2b07",
+      "latitude": -34.986172,
+      "longitude": 138.692689,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-01-11T03:30:13Z",
+      "reported_at": "2026-01-11T03:10:30Z"
     }
   ]
 }
