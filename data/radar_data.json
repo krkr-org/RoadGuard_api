@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "75d23cc6-5f71-4b3d-8b28-da3e667d3106",
+      "latitude": -35.083257,
+      "longitude": 138.509988,
+      "street": "The Cove Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-01-11T21:00:16Z",
+      "reported_at": "2026-01-11T20:57:36Z"
+    },
+    {
+      "id": "8cb405c5-a0fe-4536-b622-5af67c8864b8",
+      "latitude": -34.864253,
+      "longitude": 138.510046,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-01-11T21:00:16Z",
+      "reported_at": "2026-01-11T20:52:01Z"
+    },
+    {
+      "id": "3998eda9-f7bc-4110-8869-6645c88138e9",
+      "latitude": -34.975169,
+      "longitude": 138.609296,
+      "street": "B29 - Belair Rd",
+      "city": "Hawthorn",
+      "type": "mobile",
+      "timestamp": "2026-01-11T21:00:16Z",
+      "reported_at": "2026-01-11T20:46:46Z"
+    }
+  ]
 }
