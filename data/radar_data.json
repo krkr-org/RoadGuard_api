@@ -7,48 +7,8 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
+      "timestamp": "2026-01-11T12:30:14Z",
       "reported_at": "2026-01-11T09:11:19Z"
-    },
-    {
-      "id": "d8b5574f-a048-48e9-9777-73782e2adc25",
-      "latitude": -34.8696,
-      "longitude": 138.570544,
-      "street": "Unknown Street",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
-      "reported_at": "2026-01-11T10:18:22Z"
-    },
-    {
-      "id": "06a8d2c9-8330-4811-a6d2-63f36d43a1b3",
-      "latitude": -34.964478,
-      "longitude": 138.628812,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
-      "reported_at": "2026-01-11T10:36:42Z"
-    },
-    {
-      "id": "b65ba74b-50e2-44d5-ab04-26aa4da655c5",
-      "latitude": -34.940443,
-      "longitude": 138.614348,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
-      "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
-      "reported_at": "2026-01-11T09:31:17Z"
-    },
-    {
-      "id": "e8f74519-cbee-4e0a-94d7-5a30f8044d17",
-      "latitude": -34.94052,
-      "longitude": 138.616254,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
-      "reported_at": "2026-01-11T09:31:14Z"
     },
     {
       "id": "bc1eb864-795f-4c69-af54-1c472b3dbd36",
@@ -57,18 +17,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
+      "timestamp": "2026-01-11T12:30:14Z",
       "reported_at": "2026-01-11T10:20:07Z"
     },
     {
-      "id": "8fac96ed-5f7d-4971-ae70-728f302ade7e",
-      "latitude": -34.914424,
-      "longitude": 138.613966,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "c19aea07-14f8-4b37-907a-1585e8ce0fd1",
+      "latitude": -34.941224,
+      "longitude": 138.598989,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
-      "reported_at": "2026-01-11T10:07:24Z"
+      "timestamp": "2026-01-11T12:30:14Z",
+      "reported_at": "2026-01-11T11:45:48Z"
+    },
+    {
+      "id": "c52b4333-05fe-4582-afd8-241d66fc370f",
+      "latitude": -34.940604,
+      "longitude": 138.614552,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:30:14Z",
+      "reported_at": "2026-01-11T10:08:55Z"
     },
     {
       "id": "dcfa2dd8-4e16-40e0-8f64-c26ca47ec59e",
@@ -77,8 +47,48 @@
       "street": "B26 - Greenhill Rd",
       "city": "Dulwich",
       "type": "mobile",
-      "timestamp": "2026-01-11T12:00:17Z",
+      "timestamp": "2026-01-11T12:30:14Z",
       "reported_at": "2026-01-11T09:06:48Z"
+    },
+    {
+      "id": "e8f74519-cbee-4e0a-94d7-5a30f8044d17",
+      "latitude": -34.94052,
+      "longitude": 138.616254,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:30:14Z",
+      "reported_at": "2026-01-11T09:31:14Z"
+    },
+    {
+      "id": "3c8bbec1-7cbd-4708-b118-4a4f6ce79350",
+      "latitude": -34.964355,
+      "longitude": 138.629534,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:30:14Z",
+      "reported_at": "2026-01-11T06:43:07Z"
+    },
+    {
+      "id": "8fac96ed-5f7d-4971-ae70-728f302ade7e",
+      "latitude": -34.914424,
+      "longitude": 138.613966,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:30:14Z",
+      "reported_at": "2026-01-11T10:07:24Z"
+    },
+    {
+      "id": "685d2340-d206-482c-a486-c167eb3f53e0",
+      "latitude": -34.869902,
+      "longitude": 138.570649,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-11T12:30:14Z",
+      "reported_at": "2026-01-11T11:22:22Z"
     }
   ]
 }
