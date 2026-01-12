@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "77aa0994-6087-4767-afb3-7518f6dc85c8",
-      "latitude": -34.923225,
-      "longitude": 138.594655,
-      "street": "Hindley St",
-      "city": "Adelaide",
+      "id": "323a1529-0651-42ff-9179-8f75cac5a1d0",
+      "latitude": -34.826695,
+      "longitude": 138.602299,
+      "street": "Montague Rd",
+      "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-01-11T23:30:14Z",
-      "reported_at": "2026-01-11T22:43:35Z"
+      "timestamp": "2026-01-12T00:00:17Z",
+      "reported_at": "2026-01-11T23:45:52Z"
     },
     {
-      "id": "5dec5adb-66e5-4f64-86ec-f0343eeb66e7",
-      "latitude": -35.012324,
-      "longitude": 138.575453,
-      "street": "Main South Rd",
-      "city": "Bedford Park",
+      "id": "beea2c49-13cd-43ed-9380-0b2f657ee424",
+      "latitude": -34.811353,
+      "longitude": 138.675191,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-01-11T23:30:14Z",
-      "reported_at": "2026-01-11T22:53:41Z"
+      "timestamp": "2026-01-12T00:00:17Z",
+      "reported_at": "2026-01-11T23:43:47Z"
     },
     {
       "id": "67c5e8d0-7ddb-45de-a88c-884673500d3b",
@@ -27,8 +27,18 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-11T23:30:14Z",
+      "timestamp": "2026-01-12T00:00:17Z",
       "reported_at": "2026-01-11T22:16:38Z"
+    },
+    {
+      "id": "a961e830-5960-4353-b728-466e8e6fe8a5",
+      "latitude": -34.968746,
+      "longitude": 138.516905,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-01-12T00:00:17Z",
+      "reported_at": "2026-01-11T23:40:23Z"
     },
     {
       "id": "6dae58f7-989a-456d-8cdd-33a7e716ea17",
@@ -37,8 +47,18 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-11T23:30:14Z",
+      "timestamp": "2026-01-12T00:00:17Z",
       "reported_at": "2026-01-11T22:40:42Z"
+    },
+    {
+      "id": "c112990b-52ae-4b00-83ea-c12c3f247429",
+      "latitude": -35.017726,
+      "longitude": 138.568222,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-01-12T00:00:17Z",
+      "reported_at": "2026-01-11T23:35:21Z"
     }
   ]
 }
