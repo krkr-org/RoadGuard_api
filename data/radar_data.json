@@ -1,43 +1,13 @@
 {
   "radars": [
     {
-      "id": "52c70569-1f87-4903-a02c-e1e573f4f15c",
-      "latitude": -34.917866,
-      "longitude": 138.553761,
-      "street": "Hardys Rd",
-      "city": "Underdale",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T05:26:17Z"
-    },
-    {
-      "id": "aeb7b3d6-b5ee-40dc-8ca3-33ed9f53ef01",
-      "latitude": -34.943002,
-      "longitude": 138.503617,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T05:22:51Z"
-    },
-    {
-      "id": "ec89d289-bcd1-4623-8462-e088bab6bcfd",
-      "latitude": -34.895357,
-      "longitude": 138.52843,
-      "street": "Balcombe Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T04:56:22Z"
-    },
-    {
       "id": "3bc58a7c-61a9-4e92-81de-d563cfcb55d5",
       "latitude": -34.945214,
       "longitude": 138.506665,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
+      "timestamp": "2026-01-12T09:30:13Z",
       "reported_at": "2026-01-12T05:36:41Z"
     },
     {
@@ -47,87 +17,77 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
+      "timestamp": "2026-01-12T09:30:13Z",
       "reported_at": "2026-01-12T07:30:22Z"
     },
     {
-      "id": "6a4b0a3e-433a-406f-8130-23abb80a16fd",
-      "latitude": -34.912904,
-      "longitude": 138.509293,
-      "street": "Marlborough St",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T05:07:16Z"
-    },
-    {
-      "id": "03f12848-f9fd-4193-bfde-dba3791edf37",
-      "latitude": -34.872818,
-      "longitude": 138.503472,
-      "street": "Frederick Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T07:15:03Z"
-    },
-    {
-      "id": "a3016530-b502-44fa-a744-acc6ec4da1f8",
-      "latitude": -34.867385,
-      "longitude": 138.502845,
-      "street": "Frederick Rd",
-      "city": "Royal Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T08:36:11Z"
-    },
-    {
-      "id": "7385e549-9fac-4475-8263-b64e0f345aeb",
-      "latitude": -34.863714,
-      "longitude": 138.547656,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T08:14:01Z"
-    },
-    {
-      "id": "9234060e-ff3a-4488-889d-756cf479a046",
-      "latitude": -34.873901,
-      "longitude": 138.483287,
+      "id": "08ed8131-a3d4-4cbd-86b3-c98dd098fea6",
+      "latitude": -34.941506,
+      "longitude": 138.503086,
       "street": "Military Rd",
-      "city": "West Lakes Shore",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T06:13:54Z"
+      "timestamp": "2026-01-12T09:30:13Z",
+      "reported_at": "2026-01-12T06:05:06Z"
     },
     {
-      "id": "7dbf0907-a6c3-4329-a61b-4b0c02202b40",
-      "latitude": -34.892148,
-      "longitude": 138.501502,
+      "id": "7ce7b096-659d-4823-ae33-9a1e6486c08a",
+      "latitude": -34.89537,
+      "longitude": 138.528039,
+      "street": "Balcombe Av",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:30:13Z",
+      "reported_at": "2026-01-12T05:34:19Z"
+    },
+    {
+      "id": "2223bfe2-0713-4e20-a861-42810a4c04e5",
+      "latitude": -34.915809,
+      "longitude": 138.55362,
+      "street": "Hardys Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:30:13Z",
+      "reported_at": "2026-01-12T05:03:07Z"
+    },
+    {
+      "id": "db7c8119-c7b1-4841-bcee-b98e67715bcd",
+      "latitude": -34.892183,
+      "longitude": 138.500741,
       "street": "Trimmer Pde",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T07:53:26Z"
+      "timestamp": "2026-01-12T09:30:13Z",
+      "reported_at": "2026-01-12T05:19:51Z"
     },
     {
-      "id": "69e422ff-cc57-4970-b581-07c93349862f",
-      "latitude": -35.108309,
-      "longitude": 138.510188,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
+      "id": "921839e9-a9c4-41b3-9e10-9c60989ea6e0",
+      "latitude": -34.874364,
+      "longitude": 138.483656,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T08:36:25Z"
+      "timestamp": "2026-01-12T09:30:13Z",
+      "reported_at": "2026-01-12T05:04:13Z"
+    },
+    {
+      "id": "59f70069-0f4f-45d6-97be-39f5d730e271",
+      "latitude": -34.676757,
+      "longitude": 138.550235,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:30:13Z",
+      "reported_at": "2026-01-12T09:06:05Z"
     },
     {
       "id": "7d6040d9-d48d-4233-9059-5f519ed81424",
-      "latitude": -34.933969,
-      "longitude": 138.523195,
+      "latitude": -34.933984,
+      "longitude": 138.522892,
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
+      "timestamp": "2026-01-12T09:30:13Z",
       "reported_at": "2026-01-12T06:28:48Z"
     },
     {
@@ -137,18 +97,8 @@
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
+      "timestamp": "2026-01-12T09:30:13Z",
       "reported_at": "2026-01-12T05:50:50Z"
-    },
-    {
-      "id": "527d1902-8feb-4082-80f4-8239e299b676",
-      "latitude": -34.73206,
-      "longitude": 138.582462,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:00:17Z",
-      "reported_at": "2026-01-12T06:55:18Z"
     }
   ]
 }
