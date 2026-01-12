@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "04e6bc37-c69c-435a-9a76-b514a85c9c64",
-      "latitude": -34.761357,
-      "longitude": 138.64843,
-      "street": "Unknown Street",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T08:16:48Z"
-    },
-    {
-      "id": "3bc58a7c-61a9-4e92-81de-d563cfcb55d5",
-      "latitude": -34.945214,
-      "longitude": 138.506665,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T05:36:41Z"
-    },
-    {
       "id": "52c70569-1f87-4903-a02c-e1e573f4f15c",
       "latitude": -34.917866,
       "longitude": 138.553761,
       "street": "Hardys Rd",
       "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
+      "timestamp": "2026-01-12T09:00:17Z",
       "reported_at": "2026-01-12T05:26:17Z"
-    },
-    {
-      "id": "ec89d289-bcd1-4623-8462-e088bab6bcfd",
-      "latitude": -34.895357,
-      "longitude": 138.52843,
-      "street": "Balcombe Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T04:56:22Z"
-    },
-    {
-      "id": "0cddcb1e-1cec-478f-8131-fd70c4c1d598",
-      "latitude": -34.972104,
-      "longitude": 138.528504,
-      "street": "Pine Av",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T04:43:42Z"
     },
     {
       "id": "aeb7b3d6-b5ee-40dc-8ca3-33ed9f53ef01",
@@ -57,8 +17,38 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
+      "timestamp": "2026-01-12T09:00:17Z",
       "reported_at": "2026-01-12T05:22:51Z"
+    },
+    {
+      "id": "ec89d289-bcd1-4623-8462-e088bab6bcfd",
+      "latitude": -34.895357,
+      "longitude": 138.52843,
+      "street": "Balcombe Av",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T04:56:22Z"
+    },
+    {
+      "id": "3bc58a7c-61a9-4e92-81de-d563cfcb55d5",
+      "latitude": -34.945214,
+      "longitude": 138.506665,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T05:36:41Z"
+    },
+    {
+      "id": "76abcd52-8f10-46f7-9895-2d695e829a70",
+      "latitude": -34.972043,
+      "longitude": 138.5285,
+      "street": "Pine Av",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T07:30:22Z"
     },
     {
       "id": "6a4b0a3e-433a-406f-8130-23abb80a16fd",
@@ -67,7 +57,7 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
+      "timestamp": "2026-01-12T09:00:17Z",
       "reported_at": "2026-01-12T05:07:16Z"
     },
     {
@@ -77,58 +67,78 @@
       "street": "Frederick Rd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
+      "timestamp": "2026-01-12T09:00:17Z",
       "reported_at": "2026-01-12T07:15:03Z"
     },
     {
-      "id": "921839e9-a9c4-41b3-9e10-9c60989ea6e0",
-      "latitude": -34.874364,
-      "longitude": 138.483656,
+      "id": "a3016530-b502-44fa-a744-acc6ec4da1f8",
+      "latitude": -34.867385,
+      "longitude": 138.502845,
+      "street": "Frederick Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T08:36:11Z"
+    },
+    {
+      "id": "7385e549-9fac-4475-8263-b64e0f345aeb",
+      "latitude": -34.863714,
+      "longitude": 138.547656,
+      "street": "Hanson Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T08:14:01Z"
+    },
+    {
+      "id": "9234060e-ff3a-4488-889d-756cf479a046",
+      "latitude": -34.873901,
+      "longitude": 138.483287,
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T05:04:13Z"
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T06:13:54Z"
     },
     {
-      "id": "db7c8119-c7b1-4841-bcee-b98e67715bcd",
-      "latitude": -34.892183,
-      "longitude": 138.500741,
+      "id": "7dbf0907-a6c3-4329-a61b-4b0c02202b40",
+      "latitude": -34.892148,
+      "longitude": 138.501502,
       "street": "Trimmer Pde",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T05:19:51Z"
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T07:53:26Z"
     },
     {
-      "id": "52998e90-1e48-45f4-b3d4-36f4b4207e8d",
-      "latitude": -34.927229,
-      "longitude": 138.63601,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "69e422ff-cc57-4970-b581-07c93349862f",
+      "latitude": -35.108309,
+      "longitude": 138.510188,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T07:53:58Z"
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T08:36:25Z"
     },
     {
-      "id": "eebcb983-6aa8-451f-8622-e1cddd7cc569",
-      "latitude": -34.992467,
-      "longitude": 138.58151,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "7d6040d9-d48d-4233-9059-5f519ed81424",
+      "latitude": -34.933969,
+      "longitude": 138.523195,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T07:57:16Z"
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T06:28:48Z"
     },
     {
-      "id": "6a463fff-8236-43e0-8311-e212048db6a3",
-      "latitude": -34.828238,
-      "longitude": 138.685327,
-      "street": "Montague Rd",
-      "city": "Modbury North",
+      "id": "3129c26b-02f2-4bfc-8b36-b4118a67b1b3",
+      "latitude": -34.975992,
+      "longitude": 138.524623,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T04:46:10Z"
+      "timestamp": "2026-01-12T09:00:17Z",
+      "reported_at": "2026-01-12T05:50:50Z"
     },
     {
       "id": "527d1902-8feb-4082-80f4-8239e299b676",
@@ -137,38 +147,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
+      "timestamp": "2026-01-12T09:00:17Z",
       "reported_at": "2026-01-12T06:55:18Z"
-    },
-    {
-      "id": "7d6040d9-d48d-4233-9059-5f519ed81424",
-      "latitude": -34.934029,
-      "longitude": 138.521972,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T06:28:48Z"
-    },
-    {
-      "id": "10ee6e0b-0e22-4de2-b4fb-fe78050e697e",
-      "latitude": -34.979673,
-      "longitude": 138.556023,
-      "street": "A14 - Marion Rd",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T08:22:10Z"
-    },
-    {
-      "id": "39cbfea6-2de5-43fe-a73d-9f9081f163b8",
-      "latitude": -34.833695,
-      "longitude": 138.544168,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-12T08:30:14Z",
-      "reported_at": "2026-01-12T08:24:21Z"
     }
   ]
 }
