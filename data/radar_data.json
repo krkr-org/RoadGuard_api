@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "8cde8ee1-443a-4e39-8a6e-770d1e4277e1",
-      "latitude": -34.921159,
-      "longitude": 138.494743,
-      "street": "Seaview Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
-      "reported_at": "2026-01-12T02:03:17Z"
-    },
-    {
-      "id": "126837b4-4b7b-47b5-a000-7792d366f853",
-      "latitude": -34.86976,
-      "longitude": 138.57054,
-      "street": "Unknown Street",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
-      "reported_at": "2026-01-12T02:42:01Z"
-    },
-    {
       "id": "8f8781ef-b320-4e80-abfc-05fe1072ab53",
       "latitude": -34.91879,
       "longitude": 138.493831,
       "street": "Unknown Street",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
+      "timestamp": "2026-01-12T03:30:14Z",
       "reported_at": "2026-01-12T00:32:22Z"
-    },
-    {
-      "id": "a80e792a-5c39-4302-b5d6-032624abc69f",
-      "latitude": -34.691493,
-      "longitude": 138.66828,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
-      "reported_at": "2026-01-12T02:37:37Z"
-    },
-    {
-      "id": "9b3c9fe1-0fd5-4245-96f7-00139fff34ef",
-      "latitude": -34.880845,
-      "longitude": 138.523509,
-      "street": "West Lakes Bvd",
-      "city": "Albert Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
-      "reported_at": "2026-01-12T02:31:54Z"
     },
     {
       "id": "d5add65c-b821-43f4-b2a9-19c7c1ef1e44",
@@ -57,8 +17,28 @@
       "street": "Wakefield Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
+      "timestamp": "2026-01-12T03:30:14Z",
       "reported_at": "2026-01-12T02:11:20Z"
+    },
+    {
+      "id": "21019091-d83d-4320-80e3-9a333a46b9db",
+      "latitude": -34.881825,
+      "longitude": 138.522601,
+      "street": "West Lakes Bvd",
+      "city": "Albert Park",
+      "type": "mobile",
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T03:00:45Z"
+    },
+    {
+      "id": "f638727f-0a72-48d5-866a-fe0082b20273",
+      "latitude": -35.104026,
+      "longitude": 138.547571,
+      "street": "Panalatinga Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T02:16:10Z"
     },
     {
       "id": "f522e74c-31e5-487f-8f78-dad597d3c2f6",
@@ -67,28 +47,68 @@
       "street": "Hanson Rd",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
+      "timestamp": "2026-01-12T03:30:14Z",
       "reported_at": "2026-01-12T01:58:11Z"
     },
     {
-      "id": "5f88b0c0-b587-4ae4-b749-dd23ea6faa4d",
-      "latitude": -35.042479,
-      "longitude": 138.530389,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
+      "id": "f5d44d45-96b5-4556-b584-f2aed3bff4c8",
+      "latitude": -34.686195,
+      "longitude": 138.670267,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
-      "reported_at": "2026-01-12T01:55:26Z"
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T03:05:49Z"
     },
     {
-      "id": "f6580a86-116b-4817-87ed-d02d5cdfc713",
-      "latitude": -34.953438,
-      "longitude": 138.607694,
-      "street": "B29 - Unley Rd",
-      "city": "Unley",
+      "id": "6eebb819-039a-475a-afbd-c72d12e69128",
+      "latitude": -34.847909,
+      "longitude": 138.602186,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:00:16Z",
-      "reported_at": "2026-01-12T00:42:27Z"
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T03:23:42Z"
+    },
+    {
+      "id": "4c3b6a80-5563-479c-b0cb-aad60ec04103",
+      "latitude": -35.00834,
+      "longitude": 138.799702,
+      "street": "B34 - Onkaparinga Valley Rd",
+      "city": "Verdun",
+      "type": "mobile",
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T02:55:35Z"
+    },
+    {
+      "id": "4a5cfe3c-bb4a-487a-8dd1-a022dd4c93ee",
+      "latitude": -34.932659,
+      "longitude": 138.539247,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T03:04:15Z"
+    },
+    {
+      "id": "a77b5a22-cba2-42f2-bb81-345e779cf610",
+      "latitude": -35.131336,
+      "longitude": 138.50502,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T03:20:10Z"
+    },
+    {
+      "id": "a833cf6d-e73d-42ce-a1c4-3b200f8f475b",
+      "latitude": -35.066085,
+      "longitude": 138.54519,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-01-12T03:30:14Z",
+      "reported_at": "2026-01-12T03:26:15Z"
     }
   ]
 }
