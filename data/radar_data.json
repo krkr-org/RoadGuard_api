@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "3bc58a7c-61a9-4e92-81de-d563cfcb55d5",
-      "latitude": -34.945214,
-      "longitude": 138.506665,
-      "street": "West Beach Rd",
+      "id": "08ed8131-a3d4-4cbd-86b3-c98dd098fea6",
+      "latitude": -34.941506,
+      "longitude": 138.503086,
+      "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
-      "reported_at": "2026-01-12T05:36:41Z"
+      "timestamp": "2026-01-12T10:00:22Z",
+      "reported_at": "2026-01-12T06:05:06Z"
     },
     {
       "id": "76abcd52-8f10-46f7-9895-2d695e829a70",
@@ -17,28 +17,8 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
+      "timestamp": "2026-01-12T10:00:22Z",
       "reported_at": "2026-01-12T07:30:22Z"
-    },
-    {
-      "id": "08ed8131-a3d4-4cbd-86b3-c98dd098fea6",
-      "latitude": -34.941506,
-      "longitude": 138.503086,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
-      "reported_at": "2026-01-12T06:05:06Z"
-    },
-    {
-      "id": "7ce7b096-659d-4823-ae33-9a1e6486c08a",
-      "latitude": -34.89537,
-      "longitude": 138.528039,
-      "street": "Balcombe Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
-      "reported_at": "2026-01-12T05:34:19Z"
     },
     {
       "id": "2223bfe2-0713-4e20-a861-42810a4c04e5",
@@ -47,18 +27,38 @@
       "street": "Hardys Rd",
       "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
+      "timestamp": "2026-01-12T10:00:22Z",
       "reported_at": "2026-01-12T05:03:07Z"
     },
     {
-      "id": "db7c8119-c7b1-4841-bcee-b98e67715bcd",
-      "latitude": -34.892183,
-      "longitude": 138.500741,
+      "id": "c6c87be0-e4d5-4a78-8ac6-48b2eee825c3",
+      "latitude": -34.945336,
+      "longitude": 138.505998,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-12T10:00:22Z",
+      "reported_at": "2026-01-12T05:20:52Z"
+    },
+    {
+      "id": "19e392b7-609e-491f-9d48-78241047f99e",
+      "latitude": -34.91296,
+      "longitude": 138.508301,
+      "street": "Marlborough St",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-12T10:00:22Z",
+      "reported_at": "2026-01-12T09:50:51Z"
+    },
+    {
+      "id": "fa6245c2-bde5-4812-87f8-2affc167d37a",
+      "latitude": -34.892067,
+      "longitude": 138.500955,
       "street": "Trimmer Pde",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
-      "reported_at": "2026-01-12T05:19:51Z"
+      "timestamp": "2026-01-12T10:00:22Z",
+      "reported_at": "2026-01-12T06:29:10Z"
     },
     {
       "id": "921839e9-a9c4-41b3-9e10-9c60989ea6e0",
@@ -67,18 +67,18 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
+      "timestamp": "2026-01-12T10:00:22Z",
       "reported_at": "2026-01-12T05:04:13Z"
     },
     {
-      "id": "59f70069-0f4f-45d6-97be-39f5d730e271",
-      "latitude": -34.676757,
-      "longitude": 138.550235,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "520f2df6-d2da-432e-92cc-6dad42d62ded",
+      "latitude": -34.704303,
+      "longitude": 138.680574,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
-      "reported_at": "2026-01-12T09:06:05Z"
+      "timestamp": "2026-01-12T10:00:22Z",
+      "reported_at": "2026-01-12T09:34:35Z"
     },
     {
       "id": "7d6040d9-d48d-4233-9059-5f519ed81424",
@@ -87,18 +87,8 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
+      "timestamp": "2026-01-12T10:00:22Z",
       "reported_at": "2026-01-12T06:28:48Z"
-    },
-    {
-      "id": "3129c26b-02f2-4bfc-8b36-b4118a67b1b3",
-      "latitude": -34.975992,
-      "longitude": 138.524623,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-01-12T09:30:13Z",
-      "reported_at": "2026-01-12T05:50:50Z"
     }
   ]
 }
