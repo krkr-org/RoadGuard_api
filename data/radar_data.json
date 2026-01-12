@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "4ea4e7e6-7ab0-416d-8b47-053edefd8d5e",
-      "latitude": -34.971266,
-      "longitude": 138.528445,
-      "street": "Pine Av",
-      "city": "Glenelg North",
+      "id": "6e192673-666f-40e5-9d3f-80afaef00035",
+      "latitude": -34.918206,
+      "longitude": 138.500615,
+      "street": "Park Lane",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T12:30:13Z",
-      "reported_at": "2026-01-12T10:28:47Z"
+      "timestamp": "2026-01-12T13:00:16Z",
+      "reported_at": "2026-01-12T08:48:14Z"
     },
     {
       "id": "21850e87-4597-4cea-95f1-16ee83fc4bf0",
@@ -17,7 +17,7 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-12T12:30:13Z",
+      "timestamp": "2026-01-12T13:00:16Z",
       "reported_at": "2026-01-12T10:12:27Z"
     },
     {
@@ -27,8 +27,58 @@
       "street": "Hardys Rd",
       "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-01-12T12:30:13Z",
+      "timestamp": "2026-01-12T13:00:16Z",
       "reported_at": "2026-01-12T10:39:02Z"
+    },
+    {
+      "id": "4ea4e7e6-7ab0-416d-8b47-053edefd8d5e",
+      "latitude": -34.971266,
+      "longitude": 138.528445,
+      "street": "Pine Av",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-01-12T13:00:16Z",
+      "reported_at": "2026-01-12T10:28:47Z"
+    },
+    {
+      "id": "11e0d0c9-837c-4fe5-8793-35413a263ea2",
+      "latitude": -34.941786,
+      "longitude": 138.503178,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-12T13:00:16Z",
+      "reported_at": "2026-01-12T10:14:42Z"
+    },
+    {
+      "id": "1dd1588d-19c5-422b-9b24-68f792073407",
+      "latitude": -34.912941,
+      "longitude": 138.508718,
+      "street": "Marlborough St",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-12T13:00:16Z",
+      "reported_at": "2026-01-12T11:12:06Z"
+    },
+    {
+      "id": "bcb7c26d-b466-4426-899b-e323d5347642",
+      "latitude": -35.069285,
+      "longitude": 138.584231,
+      "street": "Manning Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-12T13:00:16Z",
+      "reported_at": "2026-01-12T12:46:15Z"
+    },
+    {
+      "id": "ff56fd23-bc55-4b8c-9641-2a1e8e32c936",
+      "latitude": -34.893051,
+      "longitude": 138.55318,
+      "street": "A7 - Port Rd",
+      "city": "Allenby Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-12T13:00:16Z",
+      "reported_at": "2026-01-12T12:06:36Z"
     }
   ]
 }
