@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "c6c87be0-e4d5-4a78-8ac6-48b2eee825c3",
-      "latitude": -34.945336,
-      "longitude": 138.505998,
-      "street": "West Beach Rd",
-      "city": "West Beach",
+      "id": "19e392b7-609e-491f-9d48-78241047f99e",
+      "latitude": -34.91296,
+      "longitude": 138.508301,
+      "street": "Marlborough St",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
-      "reported_at": "2026-01-12T05:20:52Z"
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T09:50:51Z"
     },
     {
-      "id": "4b35336f-9dc9-4047-bac4-9b84aea06030",
-      "latitude": -34.917547,
-      "longitude": 138.553731,
+      "id": "aeb7b3d6-b5ee-40dc-8ca3-33ed9f53ef01",
+      "latitude": -34.943002,
+      "longitude": 138.503617,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T05:22:51Z"
+    },
+    {
+      "id": "ee03223b-edbc-4f9a-a514-34ca9f726a1c",
+      "latitude": -34.91738,
+      "longitude": 138.553718,
       "street": "Hardys Rd",
       "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
-      "reported_at": "2026-01-12T06:57:52Z"
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T10:39:02Z"
     },
     {
       "id": "76abcd52-8f10-46f7-9895-2d695e829a70",
@@ -27,8 +37,38 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
+      "timestamp": "2026-01-12T11:30:14Z",
       "reported_at": "2026-01-12T07:30:22Z"
+    },
+    {
+      "id": "21850e87-4597-4cea-95f1-16ee83fc4bf0",
+      "latitude": -34.789952,
+      "longitude": 138.600027,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T10:12:27Z"
+    },
+    {
+      "id": "c6c87be0-e4d5-4a78-8ac6-48b2eee825c3",
+      "latitude": -34.945336,
+      "longitude": 138.505998,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T05:20:52Z"
+    },
+    {
+      "id": "bf8c3c56-dd08-4f49-b30c-4104ebda4aec",
+      "latitude": -34.927901,
+      "longitude": 138.613494,
+      "street": "Wakefield St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T11:15:11Z"
     },
     {
       "id": "921839e9-a9c4-41b3-9e10-9c60989ea6e0",
@@ -37,8 +77,18 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
+      "timestamp": "2026-01-12T11:30:14Z",
       "reported_at": "2026-01-12T05:04:13Z"
+    },
+    {
+      "id": "7dbf0907-a6c3-4329-a61b-4b0c02202b40",
+      "latitude": -34.892148,
+      "longitude": 138.501502,
+      "street": "Trimmer Pde",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T07:53:26Z"
     },
     {
       "id": "59797e97-0788-49af-a40a-491a41e27ebd",
@@ -47,28 +97,18 @@
       "street": "Whitmore Sq",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
+      "timestamp": "2026-01-12T11:30:14Z",
       "reported_at": "2026-01-12T10:37:33Z"
     },
     {
-      "id": "db7c8119-c7b1-4841-bcee-b98e67715bcd",
-      "latitude": -34.892175,
-      "longitude": 138.500916,
-      "street": "Trimmer Pde",
-      "city": "Grange",
+      "id": "c56c98c0-568f-4923-bec2-4123638a161b",
+      "latitude": -34.852536,
+      "longitude": 138.702867,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
-      "reported_at": "2026-01-12T05:19:51Z"
-    },
-    {
-      "id": "24fb2d14-a660-4c82-96ce-26111eb8b202",
-      "latitude": -34.975909,
-      "longitude": 138.526419,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
-      "reported_at": "2026-01-12T05:12:58Z"
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T11:00:37Z"
     },
     {
       "id": "36cfa004-325b-4e23-ba44-03187f171a7f",
@@ -77,8 +117,18 @@
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-01-12T11:00:17Z",
+      "timestamp": "2026-01-12T11:30:14Z",
       "reported_at": "2026-01-12T09:53:17Z"
+    },
+    {
+      "id": "e0721a23-4394-4a64-8e3c-dee20095c675",
+      "latitude": -34.93394,
+      "longitude": 138.523802,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-12T11:30:14Z",
+      "reported_at": "2026-01-12T10:03:08Z"
     }
   ]
 }
