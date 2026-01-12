@@ -1,64 +1,14 @@
 {
   "radars": [
     {
-      "id": "6b7277d1-9e35-40a9-af2c-72335582706a",
-      "latitude": -34.93837,
-      "longitude": 138.535713,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T03:32:57Z"
-    },
-    {
       "id": "8f8781ef-b320-4e80-abfc-05fe1072ab53",
       "latitude": -34.91879,
       "longitude": 138.493831,
       "street": "Unknown Street",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
+      "timestamp": "2026-01-12T04:30:15Z",
       "reported_at": "2026-01-12T00:32:22Z"
-    },
-    {
-      "id": "21019091-d83d-4320-80e3-9a333a46b9db",
-      "latitude": -34.881825,
-      "longitude": 138.522601,
-      "street": "West Lakes Bvd",
-      "city": "Albert Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T03:00:45Z"
-    },
-    {
-      "id": "d5add65c-b821-43f4-b2a9-19c7c1ef1e44",
-      "latitude": -34.927817,
-      "longitude": 138.615938,
-      "street": "Wakefield Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T02:11:20Z"
-    },
-    {
-      "id": "cfb6ccab-7262-494e-a192-49290f4de584",
-      "latitude": -34.923906,
-      "longitude": 138.609527,
-      "street": "Grenfell St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T03:51:29Z"
-    },
-    {
-      "id": "f5d44d45-96b5-4556-b584-f2aed3bff4c8",
-      "latitude": -34.686195,
-      "longitude": 138.670267,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T03:05:49Z"
     },
     {
       "id": "f638727f-0a72-48d5-866a-fe0082b20273",
@@ -67,18 +17,38 @@
       "street": "Panalatinga Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
+      "timestamp": "2026-01-12T04:30:15Z",
       "reported_at": "2026-01-12T02:16:10Z"
     },
     {
-      "id": "47971ba9-5714-4aec-a67d-505bcbb6fbd1",
-      "latitude": -34.847813,
-      "longitude": 138.604134,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "21019091-d83d-4320-80e3-9a333a46b9db",
+      "latitude": -34.881825,
+      "longitude": 138.522601,
+      "street": "West Lakes Bvd",
+      "city": "Albert Park",
       "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T03:25:18Z"
+      "timestamp": "2026-01-12T04:30:15Z",
+      "reported_at": "2026-01-12T03:00:45Z"
+    },
+    {
+      "id": "7b3f938d-fadb-4755-9489-cd48448b9ea5",
+      "latitude": -34.833787,
+      "longitude": 138.683159,
+      "street": "Smart Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-12T04:30:15Z",
+      "reported_at": "2026-01-12T03:30:23Z"
+    },
+    {
+      "id": "d5add65c-b821-43f4-b2a9-19c7c1ef1e44",
+      "latitude": -34.927817,
+      "longitude": 138.615938,
+      "street": "Wakefield Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-12T04:30:15Z",
+      "reported_at": "2026-01-12T02:11:20Z"
     },
     {
       "id": "4c3b6a80-5563-479c-b0cb-aad60ec04103",
@@ -87,18 +57,28 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
+      "timestamp": "2026-01-12T04:30:15Z",
       "reported_at": "2026-01-12T02:55:35Z"
     },
     {
-      "id": "4a5cfe3c-bb4a-487a-8dd1-a022dd4c93ee",
-      "latitude": -34.932659,
-      "longitude": 138.539247,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
+      "id": "bf1b8275-1d13-412d-b2c0-144990e79a67",
+      "latitude": -34.940815,
+      "longitude": 138.607029,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-12T04:00:16Z",
-      "reported_at": "2026-01-12T03:04:15Z"
+      "timestamp": "2026-01-12T04:30:15Z",
+      "reported_at": "2026-01-12T04:13:37Z"
+    },
+    {
+      "id": "20d53d74-ef14-47fb-99eb-b58c0fc5754d",
+      "latitude": -34.791863,
+      "longitude": 138.646784,
+      "street": "A20 - Main North Rd",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-01-12T04:30:15Z",
+      "reported_at": "2026-01-12T04:03:24Z"
     }
   ]
 }
