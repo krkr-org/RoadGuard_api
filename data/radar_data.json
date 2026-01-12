@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "323a1529-0651-42ff-9179-8f75cac5a1d0",
-      "latitude": -34.826695,
-      "longitude": 138.602299,
+      "id": "08bb4b00-116a-4989-9ac0-53e9aa892a9f",
+      "latitude": -34.921592,
+      "longitude": 138.626081,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-12T00:30:13Z",
+      "reported_at": "2026-01-12T00:09:31Z"
+    },
+    {
+      "id": "56a31fbd-0b07-428d-95d0-27923d1734bc",
+      "latitude": -34.678796,
+      "longitude": 138.620092,
+      "street": "to Heaslip Rd to Edinburgh",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-12T00:30:13Z",
+      "reported_at": "2026-01-12T00:25:47Z"
+    },
+    {
+      "id": "a8d5028a-72ed-4dc7-a18d-db8d38af4ed3",
+      "latitude": -34.82748,
+      "longitude": 138.59889,
       "street": "Montague Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-01-12T00:00:17Z",
-      "reported_at": "2026-01-11T23:45:52Z"
+      "timestamp": "2026-01-12T00:30:13Z",
+      "reported_at": "2026-01-11T23:59:59Z"
     },
     {
-      "id": "beea2c49-13cd-43ed-9380-0b2f657ee424",
-      "latitude": -34.811353,
-      "longitude": 138.675191,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
+      "id": "0962e554-94c2-4150-a32a-366986cd5618",
+      "latitude": -35.023753,
+      "longitude": 138.585988,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2026-01-12T00:00:17Z",
-      "reported_at": "2026-01-11T23:43:47Z"
+      "timestamp": "2026-01-12T00:30:13Z",
+      "reported_at": "2026-01-12T00:15:43Z"
     },
     {
       "id": "67c5e8d0-7ddb-45de-a88c-884673500d3b",
@@ -27,38 +47,18 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-12T00:00:17Z",
+      "timestamp": "2026-01-12T00:30:13Z",
       "reported_at": "2026-01-11T22:16:38Z"
     },
     {
-      "id": "a961e830-5960-4353-b728-466e8e6fe8a5",
-      "latitude": -34.968746,
-      "longitude": 138.516905,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-01-12T00:00:17Z",
-      "reported_at": "2026-01-11T23:40:23Z"
-    },
-    {
-      "id": "6dae58f7-989a-456d-8cdd-33a7e716ea17",
-      "latitude": -34.869544,
-      "longitude": 138.570632,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T00:00:17Z",
-      "reported_at": "2026-01-11T22:40:42Z"
-    },
-    {
-      "id": "c112990b-52ae-4b00-83ea-c12c3f247429",
-      "latitude": -35.017726,
-      "longitude": 138.568222,
+      "id": "8dd3bfa8-d70f-4807-8891-1849319edff7",
+      "latitude": -35.054117,
+      "longitude": 138.546323,
       "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-12T00:00:17Z",
-      "reported_at": "2026-01-11T23:35:21Z"
+      "timestamp": "2026-01-12T00:30:13Z",
+      "reported_at": "2026-01-12T00:22:46Z"
     }
   ]
 }
