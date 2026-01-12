@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "178075f7-07ed-43df-b458-e32be282e4fb",
-      "latitude": -34.779007,
-      "longitude": 138.501509,
-      "street": "Pelican Point Rd",
-      "city": "Outer Harbor",
+      "id": "6a4b0a3e-433a-406f-8130-23abb80a16fd",
+      "latitude": -34.912904,
+      "longitude": 138.509293,
+      "street": "Marlborough St",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:45:36Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T05:07:16Z"
     },
     {
-      "id": "d4941273-366b-4898-b34b-042f4f000676",
-      "latitude": -34.842545,
-      "longitude": 138.487901,
-      "street": "Swan Tce",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:26:06Z"
-    },
-    {
-      "id": "52c70569-1f87-4903-a02c-e1e573f4f15c",
-      "latitude": -34.917866,
-      "longitude": 138.553761,
+      "id": "2223bfe2-0713-4e20-a861-42810a4c04e5",
+      "latitude": -34.915809,
+      "longitude": 138.55362,
       "street": "Hardys Rd",
       "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:26:17Z"
-    },
-    {
-      "id": "3bc58a7c-61a9-4e92-81de-d563cfcb55d5",
-      "latitude": -34.945214,
-      "longitude": 138.506665,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:36:41Z"
-    },
-    {
-      "id": "aeb7b3d6-b5ee-40dc-8ca3-33ed9f53ef01",
-      "latitude": -34.943002,
-      "longitude": 138.503617,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:22:51Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T05:03:07Z"
     },
     {
       "id": "0cddcb1e-1cec-478f-8131-fd70c4c1d598",
@@ -57,28 +27,38 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
+      "timestamp": "2026-01-12T06:30:15Z",
       "reported_at": "2026-01-12T04:43:42Z"
     },
     {
-      "id": "635cdefa-5d5a-4cbc-9a24-5c0f946caada",
-      "latitude": -35.011765,
-      "longitude": 138.622784,
-      "street": "Unknown Street",
-      "city": "Blackwood",
+      "id": "ad087dc8-393e-4ac0-b5dd-c85780d92941",
+      "latitude": -34.917596,
+      "longitude": 138.500995,
+      "street": "Cudmore Tce",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T04:54:50Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:16:24Z"
     },
     {
-      "id": "1c372baa-74ea-4604-b24d-75ff4f1837bd",
-      "latitude": -34.867157,
-      "longitude": 138.535062,
-      "street": "Torrens Rd",
-      "city": "Woodville North",
+      "id": "3bc58a7c-61a9-4e92-81de-d563cfcb55d5",
+      "latitude": -34.945214,
+      "longitude": 138.506665,
+      "street": "West Beach Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:53:23Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T05:36:41Z"
+    },
+    {
+      "id": "2409b88c-5183-499c-9094-39152078639d",
+      "latitude": -34.750557,
+      "longitude": 138.600754,
+      "street": "Burton Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:18:26Z"
     },
     {
       "id": "db7c8119-c7b1-4841-bcee-b98e67715bcd",
@@ -87,68 +67,98 @@
       "street": "Trimmer Pde",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
+      "timestamp": "2026-01-12T06:30:15Z",
       "reported_at": "2026-01-12T05:19:51Z"
     },
     {
-      "id": "0dfa47b7-dbd4-4c4c-bffa-9dc28936202e",
-      "latitude": -34.828245,
-      "longitude": 138.685197,
+      "id": "dccdbdab-7664-431e-8d9b-e80ab15ea13a",
+      "latitude": -34.867789,
+      "longitude": 138.536272,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:05:43Z"
+    },
+    {
+      "id": "6a463fff-8236-43e0-8311-e212048db6a3",
+      "latitude": -34.828238,
+      "longitude": 138.685327,
       "street": "Montague Rd",
       "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:26:12Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T04:46:10Z"
     },
     {
-      "id": "f638727f-0a72-48d5-866a-fe0082b20273",
-      "latitude": -35.104026,
-      "longitude": 138.547571,
-      "street": "Panalatinga Rd",
-      "city": "Old Reynella",
+      "id": "f32cd076-09a2-43e0-8ad7-411e927ab7ae",
+      "latitude": -34.976263,
+      "longitude": 138.519067,
+      "street": "Anzac Hwy",
+      "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T02:16:10Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:23:44Z"
     },
     {
-      "id": "23627814-7b0c-4d38-951b-e01892db54b7",
-      "latitude": -35.137384,
-      "longitude": 138.511842,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
+      "id": "492a4661-a4d8-4c94-8440-caac932b03ae",
+      "latitude": -35.127519,
+      "longitude": 138.485706,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:30:59Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:09:54Z"
     },
     {
-      "id": "4c3b6a80-5563-479c-b0cb-aad60ec04103",
-      "latitude": -35.00834,
-      "longitude": 138.799702,
-      "street": "B34 - Onkaparinga Valley Rd",
-      "city": "Verdun",
+      "id": "f6ef6272-1eb5-47c1-baa9-f832eb263c13",
+      "latitude": -34.993486,
+      "longitude": 138.557058,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T02:55:35Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:19:16Z"
     },
     {
-      "id": "1e892a12-1020-449a-a268-59985c7df4c5",
-      "latitude": -34.934009,
-      "longitude": 138.522379,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
+      "id": "7d1605f3-1e84-4606-bf6e-461e39e1d262",
+      "latitude": -34.929012,
+      "longitude": 138.570055,
+      "street": "A2 - South Rd",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T04:51:02Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:00:53Z"
     },
     {
-      "id": "19839228-46ce-45e3-aa58-37e38a6df16c",
-      "latitude": -34.814522,
-      "longitude": 138.562306,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
+      "id": "bbc422e7-15a2-4f3f-bc2e-134437a51dbd",
+      "latitude": -34.964964,
+      "longitude": 138.61719,
+      "street": "A3 - Cross Rd",
+      "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-12T06:00:17Z",
-      "reported_at": "2026-01-12T05:54:12Z"
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:07:40Z"
+    },
+    {
+      "id": "e0c08719-4452-4dfc-a582-c291caf6fb0e",
+      "latitude": -34.764274,
+      "longitude": 138.639686,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T06:20:58Z"
+    },
+    {
+      "id": "ad1e486e-6910-403f-a27c-82b40d041614",
+      "latitude": -34.985311,
+      "longitude": 138.68869,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-01-12T06:30:15Z",
+      "reported_at": "2026-01-12T05:58:43Z"
     }
   ]
 }
