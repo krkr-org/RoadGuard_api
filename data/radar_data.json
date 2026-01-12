@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "6b7277d1-9e35-40a9-af2c-72335582706a",
+      "latitude": -34.93837,
+      "longitude": 138.535713,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-12T04:00:16Z",
+      "reported_at": "2026-01-12T03:32:57Z"
+    },
+    {
       "id": "8f8781ef-b320-4e80-abfc-05fe1072ab53",
       "latitude": -34.91879,
       "longitude": 138.493831,
       "street": "Unknown Street",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
+      "timestamp": "2026-01-12T04:00:16Z",
       "reported_at": "2026-01-12T00:32:22Z"
-    },
-    {
-      "id": "d5add65c-b821-43f4-b2a9-19c7c1ef1e44",
-      "latitude": -34.927817,
-      "longitude": 138.615938,
-      "street": "Wakefield Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
-      "reported_at": "2026-01-12T02:11:20Z"
     },
     {
       "id": "21019091-d83d-4320-80e3-9a333a46b9db",
@@ -27,28 +27,28 @@
       "street": "West Lakes Bvd",
       "city": "Albert Park",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
+      "timestamp": "2026-01-12T04:00:16Z",
       "reported_at": "2026-01-12T03:00:45Z"
     },
     {
-      "id": "f638727f-0a72-48d5-866a-fe0082b20273",
-      "latitude": -35.104026,
-      "longitude": 138.547571,
-      "street": "Panalatinga Rd",
-      "city": "Old Reynella",
+      "id": "d5add65c-b821-43f4-b2a9-19c7c1ef1e44",
+      "latitude": -34.927817,
+      "longitude": 138.615938,
+      "street": "Wakefield Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
-      "reported_at": "2026-01-12T02:16:10Z"
+      "timestamp": "2026-01-12T04:00:16Z",
+      "reported_at": "2026-01-12T02:11:20Z"
     },
     {
-      "id": "f522e74c-31e5-487f-8f78-dad597d3c2f6",
-      "latitude": -34.871826,
-      "longitude": 138.548116,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
+      "id": "cfb6ccab-7262-494e-a192-49290f4de584",
+      "latitude": -34.923906,
+      "longitude": 138.609527,
+      "street": "Grenfell St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
-      "reported_at": "2026-01-12T01:58:11Z"
+      "timestamp": "2026-01-12T04:00:16Z",
+      "reported_at": "2026-01-12T03:51:29Z"
     },
     {
       "id": "f5d44d45-96b5-4556-b584-f2aed3bff4c8",
@@ -57,18 +57,28 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
+      "timestamp": "2026-01-12T04:00:16Z",
       "reported_at": "2026-01-12T03:05:49Z"
     },
     {
-      "id": "6eebb819-039a-475a-afbd-c72d12e69128",
-      "latitude": -34.847909,
-      "longitude": 138.602186,
+      "id": "f638727f-0a72-48d5-866a-fe0082b20273",
+      "latitude": -35.104026,
+      "longitude": 138.547571,
+      "street": "Panalatinga Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-01-12T04:00:16Z",
+      "reported_at": "2026-01-12T02:16:10Z"
+    },
+    {
+      "id": "47971ba9-5714-4aec-a67d-505bcbb6fbd1",
+      "latitude": -34.847813,
+      "longitude": 138.604134,
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
-      "reported_at": "2026-01-12T03:23:42Z"
+      "timestamp": "2026-01-12T04:00:16Z",
+      "reported_at": "2026-01-12T03:25:18Z"
     },
     {
       "id": "4c3b6a80-5563-479c-b0cb-aad60ec04103",
@@ -77,7 +87,7 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
+      "timestamp": "2026-01-12T04:00:16Z",
       "reported_at": "2026-01-12T02:55:35Z"
     },
     {
@@ -87,28 +97,8 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
+      "timestamp": "2026-01-12T04:00:16Z",
       "reported_at": "2026-01-12T03:04:15Z"
-    },
-    {
-      "id": "a77b5a22-cba2-42f2-bb81-345e779cf610",
-      "latitude": -35.131336,
-      "longitude": 138.50502,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
-      "reported_at": "2026-01-12T03:20:10Z"
-    },
-    {
-      "id": "a833cf6d-e73d-42ce-a1c4-3b200f8f475b",
-      "latitude": -35.066085,
-      "longitude": 138.54519,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-01-12T03:30:14Z",
-      "reported_at": "2026-01-12T03:26:15Z"
     }
   ]
 }
