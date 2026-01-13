@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "cfd1f6b6-408a-42f6-92e5-344a60d65086",
-      "latitude": -34.85931,
-      "longitude": 138.601028,
+      "id": "3072ac47-717c-487f-ad07-4ea57e100e5a",
+      "latitude": -34.848494,
+      "longitude": 138.490409,
+      "street": "Carlisle St",
+      "city": "Ethelton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T21:30:15Z",
+      "reported_at": "2026-01-13T21:03:25Z"
+    },
+    {
+      "id": "73ce73b4-dfac-4d78-b11f-6658a47283d9",
+      "latitude": -34.876739,
+      "longitude": 138.566365,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T21:30:15Z",
+      "reported_at": "2026-01-13T21:18:39Z"
+    },
+    {
+      "id": "b07b2458-fe1b-41f4-b8b6-035812e13c0c",
+      "latitude": -34.798606,
+      "longitude": 138.608926,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-01-13T21:30:15Z",
+      "reported_at": "2026-01-13T21:14:54Z"
+    },
+    {
+      "id": "d029719a-a197-4331-a80e-7de983c3eff7",
+      "latitude": -34.858074,
+      "longitude": 138.600939,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-13T21:00:15Z",
-      "reported_at": "2026-01-13T20:46:23Z"
+      "timestamp": "2026-01-13T21:30:15Z",
+      "reported_at": "2026-01-13T21:01:29Z"
+    },
+    {
+      "id": "6c0c577b-56e1-48c8-bb5f-a2ede5247226",
+      "latitude": -34.867597,
+      "longitude": 138.517899,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-01-13T21:30:15Z",
+      "reported_at": "2026-01-13T21:15:05Z"
     }
   ]
 }
