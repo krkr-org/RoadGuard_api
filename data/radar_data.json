@@ -7,7 +7,7 @@
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T07:59:27Z"
     },
     {
@@ -17,37 +17,17 @@
       "street": "Kilsby St",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T07:42:28Z"
     },
     {
-      "id": "00f6abd6-099c-459a-a730-c77acfb0e43b",
-      "latitude": -34.958838,
-      "longitude": 138.563257,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
-      "reported_at": "2026-01-13T07:22:38Z"
-    },
-    {
-      "id": "9f993f43-0340-41d2-bf1f-68ed08fe2194",
-      "latitude": -34.964352,
-      "longitude": 138.563669,
-      "street": "Winifred Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
-      "reported_at": "2026-01-13T09:55:13Z"
-    },
-    {
       "id": "7b3e2cbc-bf8f-49d6-a6c1-d6950cfd55e2",
-      "latitude": -34.967086,
-      "longitude": 138.635725,
+      "latitude": -34.968295,
+      "longitude": 138.63582,
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T08:25:42Z"
     },
     {
@@ -57,18 +37,18 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T05:16:52Z"
     },
     {
-      "id": "e6d261ac-fa24-4b9e-9086-fa09d4dc55b4",
-      "latitude": -34.995367,
-      "longitude": 138.548391,
-      "street": "Oaklands Rd",
-      "city": "Park Holme",
+      "id": "9f993f43-0340-41d2-bf1f-68ed08fe2194",
+      "latitude": -34.964352,
+      "longitude": 138.563669,
+      "street": "Winifred Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
-      "reported_at": "2026-01-13T10:39:31Z"
+      "timestamp": "2026-01-13T11:30:14Z",
+      "reported_at": "2026-01-13T09:55:13Z"
     },
     {
       "id": "72ede811-e548-47fb-a0df-d0a7ea392533",
@@ -77,8 +57,18 @@
       "street": "Oaklands Rd",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T10:36:46Z"
+    },
+    {
+      "id": "32e04fc9-cc9a-4829-903a-d64184e174b8",
+      "latitude": -35.010917,
+      "longitude": 138.58216,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-01-13T11:30:14Z",
+      "reported_at": "2026-01-13T04:50:41Z"
     },
     {
       "id": "6fa0c703-b072-43a8-8675-a5d387cf9150",
@@ -87,18 +77,28 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T08:30:38Z"
     },
     {
-      "id": "5bffd90b-5891-4c23-9022-14ccd9bc50b6",
-      "latitude": -35.040572,
-      "longitude": 138.528462,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
+      "id": "137821a2-6b70-4432-b72c-3695079da9f1",
+      "latitude": -34.943827,
+      "longitude": 138.517581,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
-      "reported_at": "2026-01-13T09:48:47Z"
+      "timestamp": "2026-01-13T11:30:14Z",
+      "reported_at": "2026-01-13T11:11:03Z"
+    },
+    {
+      "id": "87e00d8e-5482-4b1e-8495-a7b5dc548e2f",
+      "latitude": -34.949647,
+      "longitude": 138.576422,
+      "street": "A5 - Anzac Hwy",
+      "city": "Ashford",
+      "type": "mobile",
+      "timestamp": "2026-01-13T11:30:14Z",
+      "reported_at": "2026-01-13T08:02:02Z"
     },
     {
       "id": "3854c478-86cc-429d-8f2d-576cca33ef15",
@@ -107,7 +107,7 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T09:36:54Z"
     },
     {
@@ -117,7 +117,7 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-13T11:00:15Z",
+      "timestamp": "2026-01-13T11:30:14Z",
       "reported_at": "2026-01-13T09:27:50Z"
     }
   ]
