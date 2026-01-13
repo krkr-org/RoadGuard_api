@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "fb5d78ce-8f3c-4444-98c7-14b358e3c61f",
+      "latitude": -34.897252,
+      "longitude": 138.661929,
+      "street": "Reid Av",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-12T20:54:06Z"
+    },
+    {
       "id": "a093e329-9a57-4d06-a119-7d12ef5ade86",
       "latitude": -34.915547,
       "longitude": 138.587294,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
+      "timestamp": "2026-01-13T00:30:14Z",
       "reported_at": "2026-01-12T22:36:11Z"
-    },
-    {
-      "id": "a2e1205d-892d-4532-bca0-f585dbd4465d",
-      "latitude": -34.935923,
-      "longitude": 138.59536,
-      "street": "South Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T21:50:06Z"
-    },
-    {
-      "id": "5343023c-0d04-408c-a828-b116b8c1ea98",
-      "latitude": -34.956457,
-      "longitude": 138.633841,
-      "street": "Fisher St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T22:00:13Z"
     },
     {
       "id": "60a62b14-6152-4373-a32f-3da61ce96108",
@@ -37,8 +27,68 @@
       "street": "Hallett Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
+      "timestamp": "2026-01-13T00:30:14Z",
       "reported_at": "2026-01-12T23:45:13Z"
+    },
+    {
+      "id": "a2e1205d-892d-4532-bca0-f585dbd4465d",
+      "latitude": -34.935923,
+      "longitude": 138.59536,
+      "street": "South Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-12T21:50:06Z"
+    },
+    {
+      "id": "74903360-4155-44e6-84fe-04d1b54385bd",
+      "latitude": -34.956518,
+      "longitude": 138.632663,
+      "street": "Fisher St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-12T21:14:09Z"
+    },
+    {
+      "id": "54bf4c77-1b11-4e4d-bc9b-d2647ee1e590",
+      "latitude": -34.892992,
+      "longitude": 138.660079,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-13T00:20:25Z"
+    },
+    {
+      "id": "8f9f6a74-ddf1-4c1f-aa66-8076e293fac5",
+      "latitude": -34.880603,
+      "longitude": 138.691502,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-13T00:08:04Z"
+    },
+    {
+      "id": "a33e7954-4081-43e6-8e23-bad0c32464c8",
+      "latitude": -34.925135,
+      "longitude": 138.617307,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-12T20:42:35Z"
+    },
+    {
+      "id": "d373c9b3-dfa8-49b1-8831-4c5404876917",
+      "latitude": -34.836086,
+      "longitude": 138.619948,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-12T22:46:53Z"
     },
     {
       "id": "6815f838-ba57-4eda-b6ac-2d02ba9f3ebb",
@@ -47,7 +97,7 @@
       "street": "Wright Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
+      "timestamp": "2026-01-13T00:30:14Z",
       "reported_at": "2026-01-12T22:35:21Z"
     },
     {
@@ -57,68 +107,18 @@
       "street": "Wright Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
+      "timestamp": "2026-01-13T00:30:14Z",
       "reported_at": "2026-01-12T22:46:36Z"
     },
     {
-      "id": "d373c9b3-dfa8-49b1-8831-4c5404876917",
-      "latitude": -34.836086,
-      "longitude": 138.619948,
-      "street": "South Tce",
-      "city": "Pooraka",
+      "id": "ac89ab43-2b36-4371-b0ef-67bb613b51d1",
+      "latitude": -35.132775,
+      "longitude": 138.777354,
+      "street": "B34 - Battunga Rd",
+      "city": "Jupiter Creek",
       "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T22:46:53Z"
-    },
-    {
-      "id": "1eb940c4-949f-45b1-a3f9-04f00b9aef31",
-      "latitude": -34.919674,
-      "longitude": 138.632073,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T23:39:24Z"
-    },
-    {
-      "id": "de30bd08-d5f3-4069-bdd1-540644f2cc0c",
-      "latitude": -34.827144,
-      "longitude": 138.633149,
-      "street": "Bridge Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T23:32:36Z"
-    },
-    {
-      "id": "a33e7954-4081-43e6-8e23-bad0c32464c8",
-      "latitude": -34.925135,
-      "longitude": 138.617307,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T20:42:35Z"
-    },
-    {
-      "id": "7cccccbc-70bf-4a6e-b2a6-1e7a19b10796",
-      "latitude": -34.823761,
-      "longitude": 138.499643,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T23:23:07Z"
-    },
-    {
-      "id": "9080ecf1-51f8-4388-9564-f3daf77fbae8",
-      "latitude": -34.991694,
-      "longitude": 138.625113,
-      "street": "B28 - Old Belair Rd",
-      "city": "Belair",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T23:35:52Z"
+      "timestamp": "2026-01-13T00:30:14Z",
+      "reported_at": "2026-01-12T22:07:58Z"
     },
     {
       "id": "762d34b3-972f-4b30-8675-4c7dd333bc95",
@@ -127,18 +127,8 @@
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
+      "timestamp": "2026-01-13T00:30:14Z",
       "reported_at": "2026-01-12T21:09:46Z"
-    },
-    {
-      "id": "47f2cbb1-1093-485c-8b9e-68e1b4f16c59",
-      "latitude": -34.984143,
-      "longitude": 138.619037,
-      "street": "B28 - Old Belair Rd",
-      "city": "Torrens Park",
-      "type": "mobile",
-      "timestamp": "2026-01-13T00:00:16Z",
-      "reported_at": "2026-01-12T23:37:02Z"
     }
   ]
 }
