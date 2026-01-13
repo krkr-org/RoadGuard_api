@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "625fb2e9-0df8-4821-97a5-555c05782afb",
-      "latitude": -35.009282,
-      "longitude": 138.535851,
+      "id": "7326e255-f094-4bbc-a2e9-2eeb676ca645",
+      "latitude": -35.009281,
+      "longitude": 138.535863,
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T04:56:48Z"
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T07:59:27Z"
     },
     {
       "id": "ed12b085-2fb4-4fa7-97d3-992ab65fd0f9",
@@ -17,28 +17,8 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
+      "timestamp": "2026-01-13T08:30:15Z",
       "reported_at": "2026-01-13T06:48:03Z"
-    },
-    {
-      "id": "00f6abd6-099c-459a-a730-c77acfb0e43b",
-      "latitude": -34.958838,
-      "longitude": 138.563257,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T07:22:38Z"
-    },
-    {
-      "id": "e5ad49cf-3e2f-4b5e-afaa-6cc3eff634ac",
-      "latitude": -34.986009,
-      "longitude": 138.535793,
-      "street": "Cliff St",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T05:40:56Z"
     },
     {
       "id": "f913e012-ae90-4370-bea2-2d55a4ebd6c4",
@@ -47,18 +27,18 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
+      "timestamp": "2026-01-13T08:30:15Z",
       "reported_at": "2026-01-13T05:16:52Z"
     },
     {
-      "id": "8cb36208-457d-49c8-80bc-d9b87f0ee0ed",
-      "latitude": -34.735363,
-      "longitude": 138.642208,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "15cd5c2a-807a-4324-a5e8-84af65c97286",
+      "latitude": -34.986033,
+      "longitude": 138.535303,
+      "street": "Cliff St",
+      "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T05:32:06Z"
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T05:19:52Z"
     },
     {
       "id": "0ec70695-224a-4af1-915e-5493c469582a",
@@ -67,7 +47,7 @@
       "street": "Unknown Street",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
+      "timestamp": "2026-01-13T08:30:15Z",
       "reported_at": "2026-01-13T05:04:47Z"
     },
     {
@@ -77,18 +57,18 @@
       "street": "Unknown Street",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
+      "timestamp": "2026-01-13T08:30:15Z",
       "reported_at": "2026-01-13T06:03:56Z"
     },
     {
-      "id": "875c9ce4-4039-436f-b7ea-c692da9aa8d4",
-      "latitude": -34.990476,
-      "longitude": 138.599077,
+      "id": "881cec16-97ee-463c-b3c1-beb02c7932ab",
+      "latitude": -34.990559,
+      "longitude": 138.597407,
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T07:48:43Z"
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T07:46:30Z"
     },
     {
       "id": "e4a0e8eb-a023-4c53-94a9-a0eb895a6058",
@@ -97,58 +77,38 @@
       "street": "Reservoir Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
+      "timestamp": "2026-01-13T08:30:15Z",
       "reported_at": "2026-01-13T07:53:39Z"
     },
     {
-      "id": "e1df00ed-ec0f-4fa0-be97-508421e5de15",
-      "latitude": -35.126499,
-      "longitude": 138.517502,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T07:27:28Z"
-    },
-    {
-      "id": "bf87a531-b790-4d28-aa56-41fea75cc3d0",
-      "latitude": -34.844511,
-      "longitude": 138.505418,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T07:44:04Z"
-    },
-    {
-      "id": "2c0fed75-acd5-42a1-a360-cb20bb10e75e",
-      "latitude": -34.795578,
-      "longitude": 138.50136,
-      "street": "A16 - Victoria Rd",
-      "city": "Osborne",
-      "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T07:40:54Z"
-    },
-    {
-      "id": "1f4ebe1b-0a69-4072-84cf-58bf96a6db6c",
-      "latitude": -35.040558,
-      "longitude": 138.528407,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
-      "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T04:59:37Z"
-    },
-    {
-      "id": "4f333546-0706-4aab-a1e8-2c6017e62f6a",
-      "latitude": -34.844588,
-      "longitude": 138.67706,
+      "id": "e8db4ca8-b2be-4ba0-8d80-dc79d4581e08",
+      "latitude": -34.845571,
+      "longitude": 138.657952,
       "street": "A16 - Grand Junction Rd",
-      "city": "Modbury",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
-      "reported_at": "2026-01-13T07:47:04Z"
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T08:01:09Z"
+    },
+    {
+      "id": "10e2c00a-3da2-4289-b9a8-e2e8e31a3301",
+      "latitude": -34.848285,
+      "longitude": 138.600126,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T07:55:06Z"
+    },
+    {
+      "id": "cec17cea-4ae4-412f-aabf-846e314401e6",
+      "latitude": -34.9508,
+      "longitude": 138.575315,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T07:55:26Z"
     },
     {
       "id": "18ac4303-92ff-48eb-aab1-4a1cfa6ed693",
@@ -157,8 +117,38 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-13T08:00:16Z",
+      "timestamp": "2026-01-13T08:30:15Z",
       "reported_at": "2026-01-13T06:48:59Z"
+    },
+    {
+      "id": "b7e71b49-5d8b-44b8-ae1d-b6d6ff0cb521",
+      "latitude": -34.89327,
+      "longitude": 138.603415,
+      "street": "A1 - Main North Rd",
+      "city": "Medindie Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T08:20:13Z"
+    },
+    {
+      "id": "1f4ebe1b-0a69-4072-84cf-58bf96a6db6c",
+      "latitude": -35.040558,
+      "longitude": 138.528407,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T04:59:37Z"
+    },
+    {
+      "id": "d37b05a5-07d3-44e2-8f7d-4bad7445a65f",
+      "latitude": -34.783169,
+      "longitude": 138.622764,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-13T08:30:15Z",
+      "reported_at": "2026-01-13T07:56:54Z"
     }
   ]
 }
