@@ -1,64 +1,34 @@
 {
   "radars": [
     {
-      "id": "31f729f6-4ce0-4d06-9af5-371e888175b8",
-      "latitude": -35.026896,
-      "longitude": 138.713508,
-      "street": "Heathfield Resource Recovery Centre",
-      "city": "Heathfield",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T03:32:30Z"
-    },
-    {
       "id": "625fb2e9-0df8-4821-97a5-555c05782afb",
       "latitude": -35.009282,
       "longitude": 138.535851,
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
+      "timestamp": "2026-01-13T06:30:15Z",
       "reported_at": "2026-01-13T04:56:48Z"
     },
     {
-      "id": "edf7b792-5a0a-488a-ae13-839e7bf71e05",
-      "latitude": -34.759496,
-      "longitude": 138.644801,
-      "street": "Unknown Street",
-      "city": "Salisbury",
+      "id": "31f729f6-4ce0-4d06-9af5-371e888175b8",
+      "latitude": -35.026896,
+      "longitude": 138.713508,
+      "street": "Heathfield Resource Recovery Centre",
+      "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T02:24:34Z"
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T03:32:30Z"
     },
     {
-      "id": "f913e012-ae90-4370-bea2-2d55a4ebd6c4",
-      "latitude": -34.968395,
-      "longitude": 138.542693,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "75f79d15-2ad6-4219-8338-8b799c526d80",
+      "latitude": -34.950066,
+      "longitude": 138.506465,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T05:16:52Z"
-    },
-    {
-      "id": "4595e83a-56e3-4119-9b89-b5c9b494c693",
-      "latitude": -34.960912,
-      "longitude": 138.563408,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T05:42:46Z"
-    },
-    {
-      "id": "e5ad49cf-3e2f-4b5e-afaa-6cc3eff634ac",
-      "latitude": -34.986009,
-      "longitude": 138.535793,
-      "street": "Cliff St",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T05:40:56Z"
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T06:03:55Z"
     },
     {
       "id": "9d3350d9-dc6e-4386-b941-fa141819b374",
@@ -67,8 +37,38 @@
       "street": "Angas St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
+      "timestamp": "2026-01-13T06:30:15Z",
       "reported_at": "2026-01-13T01:48:03Z"
+    },
+    {
+      "id": "15cd5c2a-807a-4324-a5e8-84af65c97286",
+      "latitude": -34.986033,
+      "longitude": 138.535303,
+      "street": "Cliff St",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T05:19:52Z"
+    },
+    {
+      "id": "34d6f122-0594-4385-b28b-a1193f971bb4",
+      "latitude": -34.962,
+      "longitude": 138.563493,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T04:28:00Z"
+    },
+    {
+      "id": "f913e012-ae90-4370-bea2-2d55a4ebd6c4",
+      "latitude": -34.968395,
+      "longitude": 138.542693,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T05:16:52Z"
     },
     {
       "id": "8cb36208-457d-49c8-80bc-d9b87f0ee0ed",
@@ -77,7 +77,7 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
+      "timestamp": "2026-01-13T06:30:15Z",
       "reported_at": "2026-01-13T05:32:06Z"
     },
     {
@@ -87,48 +87,88 @@
       "street": "Unknown Street",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
+      "timestamp": "2026-01-13T06:30:15Z",
       "reported_at": "2026-01-13T05:04:47Z"
     },
     {
-      "id": "32e04fc9-cc9a-4829-903a-d64184e174b8",
-      "latitude": -35.010934,
-      "longitude": 138.581779,
-      "street": "Ayliffes Rd",
+      "id": "2cb853b4-44eb-4a39-8e3f-b66f9eeb9b1e",
+      "latitude": -35.010865,
+      "longitude": 138.582796,
+      "street": "Unknown Street",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T04:50:41Z"
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T06:03:56Z"
     },
     {
-      "id": "98af1e27-bcd8-45f8-979f-b7a1b79e402b",
-      "latitude": -34.927588,
-      "longitude": 138.62906,
-      "street": "Kensington Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T04:19:57Z"
-    },
-    {
-      "id": "2eaef012-ea62-42e6-8b35-728fe423c9d6",
-      "latitude": -34.805134,
-      "longitude": 138.615934,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T05:21:44Z"
-    },
-    {
-      "id": "52f141ec-79a1-4efa-9523-356b235515d4",
-      "latitude": -34.990657,
-      "longitude": 138.595481,
+      "id": "3846d4b7-7e0e-4fcb-b071-b8d02e53f228",
+      "latitude": -34.990517,
+      "longitude": 138.598266,
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T05:25:55Z"
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T05:13:40Z"
+    },
+    {
+      "id": "fec68136-c2fa-4ce3-a7ca-30dd5f6384f0",
+      "latitude": -35.051896,
+      "longitude": 138.572255,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T06:13:11Z"
+    },
+    {
+      "id": "927ecff4-c3fe-405e-9740-e01ce0c90375",
+      "latitude": -35.040426,
+      "longitude": 138.527526,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T06:18:47Z"
+    },
+    {
+      "id": "8779b66d-3b8c-4cf0-86f4-fc69e368a0dd",
+      "latitude": -34.99676,
+      "longitude": 138.521484,
+      "street": "A15 - Brighton Rd",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T06:13:18Z"
+    },
+    {
+      "id": "f219ad8e-52ea-4690-84f9-64088cb36995",
+      "latitude": -34.923106,
+      "longitude": 138.54891,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T05:55:14Z"
+    },
+    {
+      "id": "5363d9e4-ddd9-4755-8f84-9ffe770fb9d6",
+      "latitude": -34.948995,
+      "longitude": 138.576972,
+      "street": "A5 - Anzac Hwy",
+      "city": "Ashford",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T04:52:37Z"
+    },
+    {
+      "id": "31a3de44-4baa-487f-84b5-c3e48b3bde1f",
+      "latitude": -34.724808,
+      "longitude": 138.580032,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-01-13T06:30:15Z",
+      "reported_at": "2026-01-13T06:19:02Z"
     },
     {
       "id": "8d60afd2-dbac-467f-8572-92083130b850",
@@ -137,28 +177,8 @@
       "street": "A5 - Anzac Hwy",
       "city": "Everard Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
+      "timestamp": "2026-01-13T06:30:15Z",
       "reported_at": "2026-01-13T05:51:11Z"
-    },
-    {
-      "id": "a0c90317-d943-41d5-af10-dbdc6d571e0b",
-      "latitude": -34.912159,
-      "longitude": 138.564656,
-      "street": "A2 - South Rd",
-      "city": "Torrensville",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T05:49:23Z"
-    },
-    {
-      "id": "1f4ebe1b-0a69-4072-84cf-58bf96a6db6c",
-      "latitude": -35.040558,
-      "longitude": 138.528407,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
-      "type": "mobile",
-      "timestamp": "2026-01-13T06:00:16Z",
-      "reported_at": "2026-01-13T04:59:37Z"
     }
   ]
 }
