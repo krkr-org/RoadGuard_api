@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "ee4169dc-a81e-475a-9ea6-c208e9b775d7",
-      "latitude": -34.897294,
-      "longitude": 138.66104,
-      "street": "Reid Av",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-12T23:40:35Z"
-    },
-    {
-      "id": "9c5786f0-aa1d-4234-bc9b-cd5949e31e62",
-      "latitude": -34.881313,
-      "longitude": 138.691557,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-13T00:47:17Z"
-    },
-    {
-      "id": "eb313a2c-e6b7-4d45-9114-e1d2535fa223",
-      "latitude": -34.93602,
-      "longitude": 138.66893,
-      "street": "Hallett Rd",
-      "city": "Burnside",
-      "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-12T21:37:09Z"
-    },
-    {
-      "id": "4eb71163-46d1-4237-8625-a0c524f934ce",
-      "latitude": -34.891787,
-      "longitude": 138.661635,
+      "id": "3d7fdfca-87b8-4413-8a1b-ccef35ff2b59",
+      "latitude": -34.892389,
+      "longitude": 138.660859,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-13T01:24:54Z"
+      "timestamp": "2026-01-13T03:00:15Z",
+      "reported_at": "2026-01-13T00:57:03Z"
+    },
+    {
+      "id": "60a62b14-6152-4373-a32f-3da61ce96108",
+      "latitude": -34.935428,
+      "longitude": 138.668881,
+      "street": "Hallett Rd",
+      "city": "Burnside",
+      "type": "mobile",
+      "timestamp": "2026-01-13T03:00:15Z",
+      "reported_at": "2026-01-12T23:45:13Z"
     },
     {
       "id": "5343023c-0d04-408c-a828-b116b8c1ea98",
@@ -47,7 +27,7 @@
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
+      "timestamp": "2026-01-13T03:00:15Z",
       "reported_at": "2026-01-12T22:00:13Z"
     },
     {
@@ -57,8 +37,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
+      "timestamp": "2026-01-13T03:00:15Z",
       "reported_at": "2026-01-12T21:01:34Z"
+    },
+    {
+      "id": "8ff3764d-2291-4e1b-90dc-da93290eb887",
+      "latitude": -34.841801,
+      "longitude": 138.514769,
+      "street": "Perkins Dr",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-13T03:00:15Z",
+      "reported_at": "2026-01-13T02:00:00Z"
     },
     {
       "id": "8a961cee-a225-4e8b-a3b7-44413afba68c",
@@ -67,28 +57,8 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
+      "timestamp": "2026-01-13T03:00:15Z",
       "reported_at": "2026-01-12T21:47:35Z"
-    },
-    {
-      "id": "d373c9b3-dfa8-49b1-8831-4c5404876917",
-      "latitude": -34.836086,
-      "longitude": 138.619948,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-12T22:46:53Z"
-    },
-    {
-      "id": "364f63d7-3f27-49d2-b680-595a3cb70850",
-      "latitude": -34.995682,
-      "longitude": 138.543722,
-      "street": "Oaklands Rd",
-      "city": "Morphettville",
-      "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-13T02:05:13Z"
     },
     {
       "id": "6815f838-ba57-4eda-b6ac-2d02ba9f3ebb",
@@ -97,7 +67,7 @@
       "street": "Wright Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
+      "timestamp": "2026-01-13T03:00:15Z",
       "reported_at": "2026-01-12T22:35:21Z"
     },
     {
@@ -107,18 +77,28 @@
       "street": "Wright Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
+      "timestamp": "2026-01-13T03:00:15Z",
       "reported_at": "2026-01-12T22:46:36Z"
     },
     {
-      "id": "eec4d4b2-e2e0-4db3-a2aa-161da3b7d3ca",
-      "latitude": -35.014258,
-      "longitude": 138.576547,
-      "street": "Shepherds Hill Rd",
-      "city": "St. Marys",
+      "id": "4e743ac9-70bb-463d-990a-0eaa4e7e31fd",
+      "latitude": -34.865558,
+      "longitude": 138.636721,
+      "street": "Fosters Rd",
+      "city": "Greenacres",
       "type": "mobile",
-      "timestamp": "2026-01-13T02:30:14Z",
-      "reported_at": "2026-01-13T02:20:59Z"
+      "timestamp": "2026-01-13T03:00:15Z",
+      "reported_at": "2026-01-13T02:34:26Z"
+    },
+    {
+      "id": "7b3a3244-41d4-49ff-a1c2-bfdb69b461ad",
+      "latitude": -34.945831,
+      "longitude": 138.625096,
+      "street": "A1 - Fullarton Rd",
+      "city": "Glenside",
+      "type": "mobile",
+      "timestamp": "2026-01-13T03:00:15Z",
+      "reported_at": "2026-01-13T02:35:54Z"
     }
   ]
 }
