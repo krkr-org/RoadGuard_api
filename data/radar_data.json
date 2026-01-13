@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "625fb2e9-0df8-4821-97a5-555c05782afb",
-      "latitude": -35.009282,
-      "longitude": 138.535851,
+      "id": "7326e255-f094-4bbc-a2e9-2eeb676ca645",
+      "latitude": -35.009281,
+      "longitude": 138.535863,
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T04:56:48Z"
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T07:59:27Z"
     },
     {
       "id": "3b3239f2-c0b3-4f59-8893-975f7b3b26a6",
@@ -17,18 +17,8 @@
       "street": "Kilsby St",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
+      "timestamp": "2026-01-13T11:00:15Z",
       "reported_at": "2026-01-13T07:42:28Z"
-    },
-    {
-      "id": "7b3e2cbc-bf8f-49d6-a6c1-d6950cfd55e2",
-      "latitude": -34.967086,
-      "longitude": 138.635725,
-      "street": "Waite Rd",
-      "city": "Urrbrae",
-      "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T08:25:42Z"
     },
     {
       "id": "00f6abd6-099c-459a-a730-c77acfb0e43b",
@@ -37,18 +27,8 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
+      "timestamp": "2026-01-13T11:00:15Z",
       "reported_at": "2026-01-13T07:22:38Z"
-    },
-    {
-      "id": "f913e012-ae90-4370-bea2-2d55a4ebd6c4",
-      "latitude": -34.968395,
-      "longitude": 138.542693,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T05:16:52Z"
     },
     {
       "id": "9f993f43-0340-41d2-bf1f-68ed08fe2194",
@@ -57,58 +37,68 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
+      "timestamp": "2026-01-13T11:00:15Z",
       "reported_at": "2026-01-13T09:55:13Z"
     },
     {
-      "id": "8c687236-5a81-436d-8030-67b67ef1338d",
-      "latitude": -35.010873,
-      "longitude": 138.58306,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "7b3e2cbc-bf8f-49d6-a6c1-d6950cfd55e2",
+      "latitude": -34.967086,
+      "longitude": 138.635725,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T06:07:20Z"
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T08:25:42Z"
     },
     {
-      "id": "875c9ce4-4039-436f-b7ea-c692da9aa8d4",
-      "latitude": -34.990476,
-      "longitude": 138.599077,
+      "id": "f913e012-ae90-4370-bea2-2d55a4ebd6c4",
+      "latitude": -34.968395,
+      "longitude": 138.542693,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T05:16:52Z"
+    },
+    {
+      "id": "e6d261ac-fa24-4b9e-9086-fa09d4dc55b4",
+      "latitude": -34.995367,
+      "longitude": 138.548391,
+      "street": "Oaklands Rd",
+      "city": "Park Holme",
+      "type": "mobile",
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T10:39:31Z"
+    },
+    {
+      "id": "72ede811-e548-47fb-a0df-d0a7ea392533",
+      "latitude": -34.995426,
+      "longitude": 138.547177,
+      "street": "Oaklands Rd",
+      "city": "Morphettville",
+      "type": "mobile",
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T10:36:46Z"
+    },
+    {
+      "id": "6fa0c703-b072-43a8-8675-a5d387cf9150",
+      "latitude": -34.990536,
+      "longitude": 138.597882,
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T07:48:43Z"
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T08:30:38Z"
     },
     {
-      "id": "a0bc7e11-028e-4cdf-a9bb-e152fd5033a9",
-      "latitude": -35.105887,
-      "longitude": 138.509127,
-      "street": "Sherriffs Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T10:00:19Z"
-    },
-    {
-      "id": "1f4ebe1b-0a69-4072-84cf-58bf96a6db6c",
-      "latitude": -35.040558,
-      "longitude": 138.528407,
+      "id": "5bffd90b-5891-4c23-9022-14ccd9bc50b6",
+      "latitude": -35.040572,
+      "longitude": 138.528462,
       "street": "A15 - Ocean Bvd",
       "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T04:59:37Z"
-    },
-    {
-      "id": "667e6b0d-f324-4bdb-8c12-5f171fe3960f",
-      "latitude": -34.847731,
-      "longitude": 138.608718,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
-      "reported_at": "2026-01-13T09:26:46Z"
+      "timestamp": "2026-01-13T11:00:15Z",
+      "reported_at": "2026-01-13T09:48:47Z"
     },
     {
       "id": "3854c478-86cc-429d-8f2d-576cca33ef15",
@@ -117,17 +107,17 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
+      "timestamp": "2026-01-13T11:00:15Z",
       "reported_at": "2026-01-13T09:36:54Z"
     },
     {
       "id": "c683845d-5f97-4bd8-9d87-87b4b20d9f98",
-      "latitude": -34.736341,
-      "longitude": 138.675712,
+      "latitude": -34.735505,
+      "longitude": 138.675665,
       "street": "A20 - Main North Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-13T10:30:15Z",
+      "timestamp": "2026-01-13T11:00:15Z",
       "reported_at": "2026-01-13T09:27:50Z"
     }
   ]
