@@ -1,44 +1,74 @@
 {
   "radars": [
     {
+      "id": "2a3fe1b5-6687-4db7-8dd6-269cc230072e",
+      "latitude": -34.912254,
+      "longitude": 138.535589,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T20:56:45Z"
+    },
+    {
       "id": "3072ac47-717c-487f-ad07-4ea57e100e5a",
       "latitude": -34.848494,
       "longitude": 138.490409,
       "street": "Carlisle St",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-01-13T21:30:15Z",
+      "timestamp": "2026-01-13T22:00:17Z",
       "reported_at": "2026-01-13T21:03:25Z"
     },
     {
-      "id": "73ce73b4-dfac-4d78-b11f-6658a47283d9",
-      "latitude": -34.876739,
-      "longitude": 138.566365,
-      "street": "Days Rd",
-      "city": "Croydon Park",
+      "id": "c22ed533-d75a-40b6-90c9-c729a74d87c8",
+      "latitude": -34.804736,
+      "longitude": 138.6149,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-13T21:30:15Z",
-      "reported_at": "2026-01-13T21:18:39Z"
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:37:51Z"
     },
     {
-      "id": "b07b2458-fe1b-41f4-b8b6-035812e13c0c",
-      "latitude": -34.798606,
-      "longitude": 138.608926,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
+      "id": "88b8f0f0-a694-44e0-a851-b68f2cd456f9",
+      "latitude": -34.99682,
+      "longitude": 138.530619,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-13T21:30:15Z",
-      "reported_at": "2026-01-13T21:14:54Z"
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:40:14Z"
     },
     {
-      "id": "d029719a-a197-4331-a80e-7de983c3eff7",
-      "latitude": -34.858074,
-      "longitude": 138.600939,
+      "id": "47a9897e-3645-4ead-8366-ff9cda58cc54",
+      "latitude": -34.905978,
+      "longitude": 138.514716,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:45:39Z"
+    },
+    {
+      "id": "c54922f0-103f-4748-8a6d-0ea4ccd6e8fc",
+      "latitude": -34.992084,
+      "longitude": 138.574876,
+      "street": "A2 - South Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:56:36Z"
+    },
+    {
+      "id": "2fc7e20a-82ab-4910-966c-209a4b3239e9",
+      "latitude": -34.858583,
+      "longitude": 138.600865,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-13T21:30:15Z",
-      "reported_at": "2026-01-13T21:01:29Z"
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:42:43Z"
     },
     {
       "id": "6c0c577b-56e1-48c8-bb5f-a2ede5247226",
@@ -47,8 +77,28 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-13T21:30:15Z",
+      "timestamp": "2026-01-13T22:00:17Z",
       "reported_at": "2026-01-13T21:15:05Z"
+    },
+    {
+      "id": "4b7afbf1-6b3d-4659-85df-9af5d02e7aeb",
+      "latitude": -34.967425,
+      "longitude": 138.51694,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:55:22Z"
+    },
+    {
+      "id": "c999fa52-809d-4159-b377-aee2ccc283dd",
+      "latitude": -34.784112,
+      "longitude": 138.693034,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-13T22:00:17Z",
+      "reported_at": "2026-01-13T21:36:07Z"
     }
   ]
 }
