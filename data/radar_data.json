@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "7326e255-f094-4bbc-a2e9-2eeb676ca645",
-      "latitude": -35.009281,
-      "longitude": 138.535863,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
-      "reported_at": "2026-01-13T07:59:27Z"
-    },
-    {
-      "id": "f34d8075-ef46-4644-827a-d574e6dc953d",
-      "latitude": -34.961119,
-      "longitude": 138.563425,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
-      "reported_at": "2026-01-13T06:56:54Z"
-    },
-    {
       "id": "9f993f43-0340-41d2-bf1f-68ed08fe2194",
       "latitude": -34.964352,
       "longitude": 138.563669,
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
+      "timestamp": "2026-01-13T12:30:13Z",
       "reported_at": "2026-01-13T09:55:13Z"
+    },
+    {
+      "id": "32d9f70d-437c-456d-8352-667a2d10495c",
+      "latitude": -34.961441,
+      "longitude": 138.56345,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T12:30:13Z",
+      "reported_at": "2026-01-13T10:57:25Z"
     },
     {
       "id": "7b3e2cbc-bf8f-49d6-a6c1-d6950cfd55e2",
@@ -37,28 +27,28 @@
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
+      "timestamp": "2026-01-13T12:30:13Z",
       "reported_at": "2026-01-13T08:25:42Z"
     },
     {
-      "id": "1f79efd0-ff7e-410b-9d05-7ffa3d2d3616",
-      "latitude": -34.861408,
-      "longitude": 138.660982,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
+      "id": "2ac896ee-9795-4aae-9287-91541a5b6b35",
+      "latitude": -35.106566,
+      "longitude": 138.498926,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
-      "reported_at": "2026-01-13T11:41:39Z"
+      "timestamp": "2026-01-13T12:30:13Z",
+      "reported_at": "2026-01-13T12:03:26Z"
     },
     {
-      "id": "c683845d-5f97-4bd8-9d87-87b4b20d9f98",
-      "latitude": -34.735505,
-      "longitude": 138.675665,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Grove",
+      "id": "49d6f49c-5c56-4e65-bb25-b0ba6feaca60",
+      "latitude": -34.940358,
+      "longitude": 138.624469,
+      "street": "A1 - Fullarton Rd",
+      "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
-      "reported_at": "2026-01-13T09:27:50Z"
+      "timestamp": "2026-01-13T12:30:13Z",
+      "reported_at": "2026-01-13T11:53:54Z"
     },
     {
       "id": "3854c478-86cc-429d-8f2d-576cca33ef15",
@@ -67,7 +57,7 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-13T12:00:14Z",
+      "timestamp": "2026-01-13T12:30:13Z",
       "reported_at": "2026-01-13T09:36:54Z"
     }
   ]
