@@ -1,74 +1,54 @@
 {
   "radars": [
     {
+      "id": "ee06f525-b030-4772-ba8e-c7f222b52d1b",
+      "latitude": -34.897095,
+      "longitude": 138.665129,
+      "street": "Reid Av",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-12T22:26:57Z"
+    },
+    {
       "id": "a093e329-9a57-4d06-a119-7d12ef5ade86",
       "latitude": -34.915547,
       "longitude": 138.587294,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
+      "timestamp": "2026-01-13T02:00:16Z",
       "reported_at": "2026-01-12T22:36:11Z"
     },
     {
-      "id": "74903360-4155-44e6-84fe-04d1b54385bd",
-      "latitude": -34.956518,
-      "longitude": 138.632663,
-      "street": "Fisher St",
-      "city": "Fullarton",
+      "id": "9c5786f0-aa1d-4234-bc9b-cd5949e31e62",
+      "latitude": -34.881313,
+      "longitude": 138.691557,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-12T21:14:09Z"
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-13T00:47:17Z"
     },
     {
-      "id": "eb313a2c-e6b7-4d45-9114-e1d2535fa223",
-      "latitude": -34.93602,
-      "longitude": 138.66893,
-      "street": "Hallett Rd",
-      "city": "Burnside",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-12T21:37:09Z"
-    },
-    {
-      "id": "f74eb6e0-c38c-4de4-96f2-2dbe5b93161c",
-      "latitude": -34.935902,
-      "longitude": 138.595772,
-      "street": "South Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-12T21:41:18Z"
-    },
-    {
-      "id": "54bf4c77-1b11-4e4d-bc9b-d2647ee1e590",
-      "latitude": -34.892992,
-      "longitude": 138.660079,
+      "id": "3d7fdfca-87b8-4413-8a1b-ccef35ff2b59",
+      "latitude": -34.892389,
+      "longitude": 138.660859,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-13T00:20:25Z"
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-13T00:57:03Z"
     },
     {
-      "id": "af51fcf0-217c-42ba-b6da-ee8e2f7ef843",
-      "latitude": -34.992813,
-      "longitude": 138.573516,
-      "street": "Daws Rd",
-      "city": "Edwardstown",
+      "id": "5343023c-0d04-408c-a828-b116b8c1ea98",
+      "latitude": -34.956457,
+      "longitude": 138.633841,
+      "street": "Fisher St",
+      "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-13T01:13:35Z"
-    },
-    {
-      "id": "d9c4a3d2-d796-4289-895a-7ad82a8f4330",
-      "latitude": -34.831255,
-      "longitude": 138.687968,
-      "street": "Reservoir Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-13T01:25:47Z"
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-12T22:00:13Z"
     },
     {
       "id": "a33e7954-4081-43e6-8e23-bad0c32464c8",
@@ -77,28 +57,28 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
+      "timestamp": "2026-01-13T02:00:16Z",
       "reported_at": "2026-01-12T20:42:35Z"
     },
     {
-      "id": "3914b6a6-8713-4f5e-97a6-308f77ad2534",
-      "latitude": -34.836032,
-      "longitude": 138.619837,
+      "id": "d373c9b3-dfa8-49b1-8831-4c5404876917",
+      "latitude": -34.836086,
+      "longitude": 138.619948,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-12T22:36:52Z"
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-12T22:46:53Z"
     },
     {
-      "id": "6815f838-ba57-4eda-b6ac-2d02ba9f3ebb",
-      "latitude": -34.83514,
-      "longitude": 138.6589,
-      "street": "Wright Rd",
-      "city": "Para Vista",
+      "id": "af51fcf0-217c-42ba-b6da-ee8e2f7ef843",
+      "latitude": -34.992813,
+      "longitude": 138.573516,
+      "street": "Daws Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-12T22:35:21Z"
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-13T01:13:35Z"
     },
     {
       "id": "6bb02829-e9b5-466b-9e44-916fbe72436d",
@@ -107,18 +87,28 @@
       "street": "Wright Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
+      "timestamp": "2026-01-13T02:00:16Z",
       "reported_at": "2026-01-12T22:46:36Z"
     },
     {
-      "id": "bc872adb-ecb1-4154-b4b5-9dfddb713b82",
-      "latitude": -34.922695,
-      "longitude": 138.632291,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "6815f838-ba57-4eda-b6ac-2d02ba9f3ebb",
+      "latitude": -34.83514,
+      "longitude": 138.6589,
+      "street": "Wright Rd",
+      "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
-      "reported_at": "2026-01-13T01:25:24Z"
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-12T22:35:21Z"
+    },
+    {
+      "id": "d9c4a3d2-d796-4289-895a-7ad82a8f4330",
+      "latitude": -34.831255,
+      "longitude": 138.687968,
+      "street": "Reservoir Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-13T01:25:47Z"
     },
     {
       "id": "0fa52a14-a837-4968-bd30-2573d8b2e769",
@@ -127,8 +117,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:30:14Z",
+      "timestamp": "2026-01-13T02:00:16Z",
       "reported_at": "2026-01-13T01:17:11Z"
+    },
+    {
+      "id": "7ea2d86a-3d25-4919-bb84-ec5a88d79996",
+      "latitude": -34.766118,
+      "longitude": 138.669749,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-13T01:53:13Z"
+    },
+    {
+      "id": "4894300a-4dd9-48f3-b827-884537401853",
+      "latitude": -34.89383,
+      "longitude": 138.63591,
+      "street": "A17 - Lower Portrush Rd",
+      "city": "Marden",
+      "type": "mobile",
+      "timestamp": "2026-01-13T02:00:16Z",
+      "reported_at": "2026-01-13T01:32:22Z"
     }
   ]
 }
