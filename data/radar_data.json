@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "ee06f525-b030-4772-ba8e-c7f222b52d1b",
-      "latitude": -34.897095,
-      "longitude": 138.665129,
-      "street": "Reid Av",
-      "city": "Hectorville",
+      "id": "a093e329-9a57-4d06-a119-7d12ef5ade86",
+      "latitude": -34.915547,
+      "longitude": 138.587294,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T22:26:57Z"
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-12T22:36:11Z"
+    },
+    {
+      "id": "74903360-4155-44e6-84fe-04d1b54385bd",
+      "latitude": -34.956518,
+      "longitude": 138.632663,
+      "street": "Fisher St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-12T21:14:09Z"
+    },
+    {
+      "id": "eb313a2c-e6b7-4d45-9114-e1d2535fa223",
+      "latitude": -34.93602,
+      "longitude": 138.66893,
+      "street": "Hallett Rd",
+      "city": "Burnside",
+      "type": "mobile",
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-12T21:37:09Z"
+    },
+    {
+      "id": "f74eb6e0-c38c-4de4-96f2-2dbe5b93161c",
+      "latitude": -34.935902,
+      "longitude": 138.595772,
+      "street": "South Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-12T21:41:18Z"
     },
     {
       "id": "54bf4c77-1b11-4e4d-bc9b-d2647ee1e590",
@@ -17,88 +47,48 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
+      "timestamp": "2026-01-13T01:30:14Z",
       "reported_at": "2026-01-13T00:20:25Z"
     },
     {
-      "id": "8f9f6a74-ddf1-4c1f-aa66-8076e293fac5",
-      "latitude": -34.880603,
-      "longitude": 138.691502,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
+      "id": "af51fcf0-217c-42ba-b6da-ee8e2f7ef843",
+      "latitude": -34.992813,
+      "longitude": 138.573516,
+      "street": "Daws Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-13T00:08:04Z"
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-13T01:13:35Z"
     },
     {
-      "id": "60a62b14-6152-4373-a32f-3da61ce96108",
-      "latitude": -34.935428,
-      "longitude": 138.668881,
-      "street": "Hallett Rd",
-      "city": "Burnside",
+      "id": "d9c4a3d2-d796-4289-895a-7ad82a8f4330",
+      "latitude": -34.831255,
+      "longitude": 138.687968,
+      "street": "Reservoir Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T23:45:13Z"
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-13T01:25:47Z"
     },
     {
-      "id": "5343023c-0d04-408c-a828-b116b8c1ea98",
-      "latitude": -34.956457,
-      "longitude": 138.633841,
-      "street": "Fisher St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T22:00:13Z"
-    },
-    {
-      "id": "d3c2c250-f8ec-44b2-903b-99f382eabea2",
-      "latitude": -34.915266,
-      "longitude": 138.586847,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T21:01:34Z"
-    },
-    {
-      "id": "a2e1205d-892d-4532-bca0-f585dbd4465d",
-      "latitude": -34.935926,
-      "longitude": 138.595311,
-      "street": "South Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T21:50:06Z"
-    },
-    {
-      "id": "41d56218-5ee2-4f09-a5b4-10ae0de46d92",
-      "latitude": -34.915889,
-      "longitude": 138.493295,
-      "street": "Seaview Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-13T00:35:00Z"
-    },
-    {
-      "id": "d373c9b3-dfa8-49b1-8831-4c5404876917",
-      "latitude": -34.836086,
-      "longitude": 138.619948,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T22:46:53Z"
-    },
-    {
-      "id": "8a961cee-a225-4e8b-a3b7-44413afba68c",
-      "latitude": -34.925045,
-      "longitude": 138.61618,
+      "id": "a33e7954-4081-43e6-8e23-bad0c32464c8",
+      "latitude": -34.925133,
+      "longitude": 138.61706,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T21:47:35Z"
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-12T20:42:35Z"
+    },
+    {
+      "id": "3914b6a6-8713-4f5e-97a6-308f77ad2534",
+      "latitude": -34.836032,
+      "longitude": 138.619837,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-12T22:36:52Z"
     },
     {
       "id": "6815f838-ba57-4eda-b6ac-2d02ba9f3ebb",
@@ -107,7 +97,7 @@
       "street": "Wright Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
+      "timestamp": "2026-01-13T01:30:14Z",
       "reported_at": "2026-01-12T22:35:21Z"
     },
     {
@@ -117,18 +107,28 @@
       "street": "Wright Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
+      "timestamp": "2026-01-13T01:30:14Z",
       "reported_at": "2026-01-12T22:46:36Z"
     },
     {
-      "id": "762d34b3-972f-4b30-8675-4c7dd333bc95",
-      "latitude": -34.864245,
-      "longitude": 138.713041,
-      "street": "B31 - Gorge Rd",
-      "city": "Athelstone",
+      "id": "bc872adb-ecb1-4154-b4b5-9dfddb713b82",
+      "latitude": -34.922695,
+      "longitude": 138.632291,
+      "street": "Osmond Tce",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-13T01:00:15Z",
-      "reported_at": "2026-01-12T21:09:46Z"
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-13T01:25:24Z"
+    },
+    {
+      "id": "0fa52a14-a837-4968-bd30-2573d8b2e769",
+      "latitude": -34.972398,
+      "longitude": 138.541951,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T01:30:14Z",
+      "reported_at": "2026-01-13T01:17:11Z"
     }
   ]
 }
