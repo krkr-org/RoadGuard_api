@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "3d7fdfca-87b8-4413-8a1b-ccef35ff2b59",
-      "latitude": -34.892389,
-      "longitude": 138.660859,
+      "id": "32e7135e-b44f-43d8-893c-c05d8c37952e",
+      "latitude": -35.0371,
+      "longitude": 138.619655,
+      "street": "Coromandel Pde",
+      "city": "Craigburn Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T03:00:56Z"
+    },
+    {
+      "id": "54bf4c77-1b11-4e4d-bc9b-d2647ee1e590",
+      "latitude": -34.892992,
+      "longitude": 138.660079,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-13T00:57:03Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T00:20:25Z"
     },
     {
-      "id": "60a62b14-6152-4373-a32f-3da61ce96108",
-      "latitude": -34.935428,
-      "longitude": 138.668881,
+      "id": "559b0e7f-97df-4dc7-b3ba-f387a2d7daaa",
+      "latitude": -34.935922,
+      "longitude": 138.668922,
       "street": "Hallett Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-12T23:45:13Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T02:19:44Z"
     },
     {
-      "id": "5343023c-0d04-408c-a828-b116b8c1ea98",
-      "latitude": -34.956457,
-      "longitude": 138.633841,
-      "street": "Fisher St",
-      "city": "Fullarton",
+      "id": "9c5786f0-aa1d-4234-bc9b-cd5949e31e62",
+      "latitude": -34.881313,
+      "longitude": 138.691557,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-12T22:00:13Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T00:47:17Z"
     },
     {
       "id": "d3c2c250-f8ec-44b2-903b-99f382eabea2",
@@ -37,18 +47,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
+      "timestamp": "2026-01-13T03:30:14Z",
       "reported_at": "2026-01-12T21:01:34Z"
-    },
-    {
-      "id": "8ff3764d-2291-4e1b-90dc-da93290eb887",
-      "latitude": -34.841801,
-      "longitude": 138.514769,
-      "street": "Perkins Dr",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-13T02:00:00Z"
     },
     {
       "id": "8a961cee-a225-4e8b-a3b7-44413afba68c",
@@ -57,48 +57,58 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
+      "timestamp": "2026-01-13T03:30:14Z",
       "reported_at": "2026-01-12T21:47:35Z"
     },
     {
-      "id": "6815f838-ba57-4eda-b6ac-2d02ba9f3ebb",
-      "latitude": -34.83514,
-      "longitude": 138.6589,
-      "street": "Wright Rd",
-      "city": "Para Vista",
+      "id": "b418ec0e-8432-40ee-be8f-1fd6354e6783",
+      "latitude": -34.944322,
+      "longitude": 138.621845,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-12T22:35:21Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T02:56:42Z"
     },
     {
-      "id": "6bb02829-e9b5-466b-9e44-916fbe72436d",
-      "latitude": -34.83538,
-      "longitude": 138.654278,
-      "street": "Wright Rd",
-      "city": "Ingle Farm",
+      "id": "8ff3764d-2291-4e1b-90dc-da93290eb887",
+      "latitude": -34.841801,
+      "longitude": 138.514769,
+      "street": "Perkins Dr",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-12T22:46:36Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T02:00:00Z"
     },
     {
-      "id": "4e743ac9-70bb-463d-990a-0eaa4e7e31fd",
-      "latitude": -34.865558,
-      "longitude": 138.636721,
-      "street": "Fosters Rd",
-      "city": "Greenacres",
+      "id": "4a3a50b7-587e-4d6b-bb28-01d888140797",
+      "latitude": -34.715659,
+      "longitude": 138.667659,
+      "street": "Elizabeth Way",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-13T02:34:26Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T02:55:59Z"
     },
     {
-      "id": "7b3a3244-41d4-49ff-a1c2-bfdb69b461ad",
-      "latitude": -34.945831,
-      "longitude": 138.625096,
-      "street": "A1 - Fullarton Rd",
-      "city": "Glenside",
+      "id": "32daaec7-fc14-42fe-8015-492d44146e3b",
+      "latitude": -34.847902,
+      "longitude": 138.602331,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:00:15Z",
-      "reported_at": "2026-01-13T02:35:54Z"
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T03:11:13Z"
+    },
+    {
+      "id": "1bf2d812-1b7b-4fe1-a938-d470ee152e23",
+      "latitude": -34.914261,
+      "longitude": 138.565787,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2026-01-13T03:30:14Z",
+      "reported_at": "2026-01-13T03:13:02Z"
     }
   ]
 }
