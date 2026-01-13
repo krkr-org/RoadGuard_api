@@ -1,44 +1,54 @@
 {
   "radars": [
     {
-      "id": "32e7135e-b44f-43d8-893c-c05d8c37952e",
-      "latitude": -35.0371,
-      "longitude": 138.619655,
-      "street": "Coromandel Pde",
-      "city": "Craigburn Farm",
+      "id": "31f729f6-4ce0-4d06-9af5-371e888175b8",
+      "latitude": -35.026896,
+      "longitude": 138.713508,
+      "street": "Heathfield Resource Recovery Centre",
+      "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T03:00:56Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:32:30Z"
     },
     {
-      "id": "54bf4c77-1b11-4e4d-bc9b-d2647ee1e590",
-      "latitude": -34.892992,
-      "longitude": 138.660079,
+      "id": "edf7b792-5a0a-488a-ae13-839e7bf71e05",
+      "latitude": -34.759496,
+      "longitude": 138.644801,
+      "street": "Unknown Street",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T02:24:34Z"
+    },
+    {
+      "id": "2e61d451-7b60-4093-99d2-a7890c15c536",
+      "latitude": -34.803962,
+      "longitude": 138.644551,
+      "street": "Codd St",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:48:56Z"
+    },
+    {
+      "id": "3d7fdfca-87b8-4413-8a1b-ccef35ff2b59",
+      "latitude": -34.892389,
+      "longitude": 138.660859,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T00:20:25Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T00:57:03Z"
     },
     {
-      "id": "559b0e7f-97df-4dc7-b3ba-f387a2d7daaa",
-      "latitude": -34.935922,
-      "longitude": 138.668922,
-      "street": "Hallett Rd",
-      "city": "Burnside",
+      "id": "9d3350d9-dc6e-4386-b941-fa141819b374",
+      "latitude": -34.929681,
+      "longitude": 138.608637,
+      "street": "Angas St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T02:19:44Z"
-    },
-    {
-      "id": "9c5786f0-aa1d-4234-bc9b-cd5949e31e62",
-      "latitude": -34.881313,
-      "longitude": 138.691557,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T00:47:17Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T01:48:03Z"
     },
     {
       "id": "d3c2c250-f8ec-44b2-903b-99f382eabea2",
@@ -47,8 +57,38 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
+      "timestamp": "2026-01-13T04:00:19Z",
       "reported_at": "2026-01-12T21:01:34Z"
+    },
+    {
+      "id": "5a9c95dc-6b76-45ad-9ca6-f8ee3d3c5c6f",
+      "latitude": -34.937362,
+      "longitude": 138.66904,
+      "street": "Hallett Rd",
+      "city": "Burnside",
+      "type": "mobile",
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T01:02:58Z"
+    },
+    {
+      "id": "33fcf742-824c-45ab-bfc3-01a90cb34fc0",
+      "latitude": -34.983564,
+      "longitude": 138.615298,
+      "street": "Blythewood Rd",
+      "city": "Torrens Park",
+      "type": "mobile",
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:41:40Z"
+    },
+    {
+      "id": "9c5786f0-aa1d-4234-bc9b-cd5949e31e62",
+      "latitude": -34.881313,
+      "longitude": 138.691557,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T00:47:17Z"
     },
     {
       "id": "8a961cee-a225-4e8b-a3b7-44413afba68c",
@@ -57,58 +97,58 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
+      "timestamp": "2026-01-13T04:00:19Z",
       "reported_at": "2026-01-12T21:47:35Z"
     },
     {
-      "id": "b418ec0e-8432-40ee-be8f-1fd6354e6783",
-      "latitude": -34.944322,
-      "longitude": 138.621845,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
+      "id": "2f1f2675-dc4c-47f9-91f5-ce088e5502aa",
+      "latitude": -35.125954,
+      "longitude": 138.53637,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T02:56:42Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:31:40Z"
     },
     {
-      "id": "8ff3764d-2291-4e1b-90dc-da93290eb887",
-      "latitude": -34.841801,
-      "longitude": 138.514769,
-      "street": "Perkins Dr",
-      "city": "Port Adelaide",
+      "id": "8a509367-825c-44e4-93b4-27e19d073c4e",
+      "latitude": -34.745692,
+      "longitude": 138.608769,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T02:00:00Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:34:10Z"
     },
     {
-      "id": "4a3a50b7-587e-4d6b-bb28-01d888140797",
-      "latitude": -34.715659,
-      "longitude": 138.667659,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
+      "id": "35c5ec57-d605-4668-8e4b-baab493f9566",
+      "latitude": -35.056103,
+      "longitude": 138.597888,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T02:55:59Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:35:43Z"
     },
     {
-      "id": "32daaec7-fc14-42fe-8015-492d44146e3b",
-      "latitude": -34.847902,
-      "longitude": 138.602331,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "4b239f33-4953-4ba0-ae02-88c145af4781",
+      "latitude": -34.710366,
+      "longitude": 138.780254,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Yattalunga",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T03:11:13Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:53:21Z"
     },
     {
-      "id": "1bf2d812-1b7b-4fe1-a938-d470ee152e23",
-      "latitude": -34.914261,
-      "longitude": 138.565787,
-      "street": "A2 - South Rd",
-      "city": "Torrensville",
+      "id": "fa80164b-0846-431f-b189-d166d016b268",
+      "latitude": -34.96474,
+      "longitude": 138.623572,
+      "street": "A3 - Cross Rd",
+      "city": "Highgate",
       "type": "mobile",
-      "timestamp": "2026-01-13T03:30:14Z",
-      "reported_at": "2026-01-13T03:13:02Z"
+      "timestamp": "2026-01-13T04:00:19Z",
+      "reported_at": "2026-01-13T03:53:08Z"
     }
   ]
 }
