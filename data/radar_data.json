@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "9f993f43-0340-41d2-bf1f-68ed08fe2194",
-      "latitude": -34.964352,
-      "longitude": 138.563669,
-      "street": "Winifred Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-13T13:00:17Z",
-      "reported_at": "2026-01-13T09:55:13Z"
-    },
-    {
       "id": "32d9f70d-437c-456d-8352-667a2d10495c",
       "latitude": -34.961441,
       "longitude": 138.56345,
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-13T13:00:17Z",
+      "timestamp": "2026-01-13T13:30:14Z",
       "reported_at": "2026-01-13T10:57:25Z"
     },
     {
-      "id": "57be42b5-67c7-47b8-826a-74df4cb28574",
-      "latitude": -34.81658,
-      "longitude": 138.597682,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
+      "id": "9f993f43-0340-41d2-bf1f-68ed08fe2194",
+      "latitude": -34.964352,
+      "longitude": 138.563669,
+      "street": "Winifred Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-13T13:00:17Z",
-      "reported_at": "2026-01-13T12:48:57Z"
+      "timestamp": "2026-01-13T13:30:14Z",
+      "reported_at": "2026-01-13T09:55:13Z"
+    },
+    {
+      "id": "34ea9281-10c1-45cf-bfa6-36536197f44d",
+      "latitude": -34.781796,
+      "longitude": 138.623983,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-13T13:30:14Z",
+      "reported_at": "2026-01-13T12:56:59Z"
+    },
+    {
+      "id": "9d90fef6-89c9-4c31-8466-48f4cc8faa98",
+      "latitude": -35.024882,
+      "longitude": 138.558382,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-13T13:30:14Z",
+      "reported_at": "2026-01-13T12:52:02Z"
     }
   ]
 }
