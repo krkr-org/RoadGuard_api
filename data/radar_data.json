@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "b820835c-7366-40f0-b089-251bc4403fca",
+      "latitude": -34.897109,
+      "longitude": 138.590262,
+      "street": "Braund Rd",
+      "city": "Fitzroy",
+      "type": "mobile",
+      "timestamp": "2026-01-14T12:00:17Z",
+      "reported_at": "2026-01-14T11:27:33Z"
+    },
+    {
       "id": "faf4053e-d317-48d4-9f0b-1f5c83324dad",
       "latitude": -34.894434,
       "longitude": 138.658208,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-14T11:30:14Z",
+      "timestamp": "2026-01-14T12:00:17Z",
       "reported_at": "2026-01-14T07:54:11Z"
+    },
+    {
+      "id": "53104e8c-805a-4bd4-b0bf-497e1ee30a8c",
+      "latitude": -34.824295,
+      "longitude": 138.617998,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-14T12:00:17Z",
+      "reported_at": "2026-01-14T11:27:09Z"
     },
     {
       "id": "aa1125fd-c2d0-48d8-9811-42795f92deeb",
@@ -17,18 +37,18 @@
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-14T11:30:14Z",
+      "timestamp": "2026-01-14T12:00:17Z",
       "reported_at": "2026-01-14T05:03:20Z"
     },
     {
-      "id": "2a827094-e054-4f16-bfee-672f570d4f05",
-      "latitude": -34.779421,
-      "longitude": 138.626066,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "fae85400-b13a-4fcc-8cc7-1628629f9d78",
+      "latitude": -34.913691,
+      "longitude": 138.662357,
+      "street": "B27 - Magill Rd",
+      "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-01-14T11:30:14Z",
-      "reported_at": "2026-01-14T11:04:27Z"
+      "timestamp": "2026-01-14T12:00:17Z",
+      "reported_at": "2026-01-14T10:45:26Z"
     }
   ]
 }
