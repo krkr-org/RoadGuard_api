@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "ab57ab24-5678-46f2-ac5b-0196af140e68",
-      "latitude": -34.895487,
-      "longitude": 138.525132,
-      "street": "Balcombe Av",
-      "city": "Findon",
+      "id": "0082f389-c8f4-4046-963b-8e0081c7e660",
+      "latitude": -34.885704,
+      "longitude": 138.575943,
+      "street": "Harrison Rd",
+      "city": "Devon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
-      "reported_at": "2026-01-14T02:21:18Z"
+      "timestamp": "2026-01-14T05:00:15Z",
+      "reported_at": "2026-01-14T01:41:56Z"
+    },
+    {
+      "id": "9f275c06-4783-4fa5-aa6b-c162a3fef19f",
+      "latitude": -34.858553,
+      "longitude": 138.600333,
+      "street": "Lionel Av",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-14T05:00:15Z",
+      "reported_at": "2026-01-14T02:36:01Z"
     },
     {
       "id": "1ba82982-f655-4dd8-b70e-a36142b9cc0f",
@@ -17,8 +27,18 @@
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
+      "timestamp": "2026-01-14T05:00:15Z",
       "reported_at": "2026-01-13T23:49:21Z"
+    },
+    {
+      "id": "ab57ab24-5678-46f2-ac5b-0196af140e68",
+      "latitude": -34.895487,
+      "longitude": 138.525132,
+      "street": "Balcombe Av",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-01-14T05:00:15Z",
+      "reported_at": "2026-01-14T02:21:18Z"
     },
     {
       "id": "7cfd97e7-89a5-4775-9870-5ac1f5096ed9",
@@ -27,28 +47,38 @@
       "street": "May Tce",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
+      "timestamp": "2026-01-14T05:00:15Z",
       "reported_at": "2026-01-14T02:13:14Z"
     },
     {
-      "id": "d4cf35c6-7b2a-4cb7-8953-567374a7b61e",
-      "latitude": -34.94154,
-      "longitude": 138.588967,
-      "street": "Goodwood Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
-      "reported_at": "2026-01-14T04:15:04Z"
-    },
-    {
-      "id": "432c648e-7700-4770-928c-62585afdddde",
-      "latitude": -34.88768,
-      "longitude": 138.688857,
+      "id": "80087ed4-12a2-4dcd-a4c7-527d16bb2791",
+      "latitude": -34.888034,
+      "longitude": 138.684656,
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
-      "reported_at": "2026-01-14T02:16:03Z"
+      "timestamp": "2026-01-14T05:00:15Z",
+      "reported_at": "2026-01-14T04:45:13Z"
+    },
+    {
+      "id": "66a5abb0-15c6-4627-b093-6a4cc30609dd",
+      "latitude": -35.0109,
+      "longitude": 138.582542,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-01-14T05:00:15Z",
+      "reported_at": "2026-01-14T04:56:53Z"
+    },
+    {
+      "id": "eac68ad3-4db1-4425-9c44-4b9dcbd0d790",
+      "latitude": -35.143556,
+      "longitude": 138.486637,
+      "street": "A15 - Dyson Rd",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-01-14T05:00:15Z",
+      "reported_at": "2026-01-14T04:34:53Z"
     },
     {
       "id": "224a1732-07bb-4c45-9830-21ba586c9da9",
@@ -57,18 +87,8 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
+      "timestamp": "2026-01-14T05:00:15Z",
       "reported_at": "2026-01-14T03:19:59Z"
-    },
-    {
-      "id": "50c2f571-095d-4cc0-ba7d-a449df063c0a",
-      "latitude": -34.798899,
-      "longitude": 138.608664,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-01-14T04:30:14Z",
-      "reported_at": "2026-01-14T04:12:26Z"
     }
   ]
 }
