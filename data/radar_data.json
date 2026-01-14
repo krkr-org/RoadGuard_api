@@ -1,34 +1,64 @@
 {
   "radars": [
     {
+      "id": "bd2f6957-d25c-4544-95ff-d9ead21b036a",
+      "latitude": -34.988777,
+      "longitude": 138.583425,
+      "street": "Winston Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:00:16Z",
+      "reported_at": "2026-01-14T21:22:48Z"
+    },
+    {
+      "id": "e019e106-df38-4716-b33b-a379d1d6043c",
+      "latitude": -34.750302,
+      "longitude": 138.621897,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:00:16Z",
+      "reported_at": "2026-01-14T21:34:51Z"
+    },
+    {
+      "id": "9c513568-31cd-4574-b42f-a3b59da56ffb",
+      "latitude": -35.126648,
+      "longitude": 138.516536,
+      "street": "Flaxmill Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:00:16Z",
+      "reported_at": "2026-01-14T21:42:23Z"
+    },
+    {
+      "id": "005d5199-34f9-42c4-9d4e-4e8bb65fe1a4",
+      "latitude": -34.770383,
+      "longitude": 138.634215,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:00:16Z",
+      "reported_at": "2026-01-14T21:40:28Z"
+    },
+    {
+      "id": "4cbcfb49-a9e6-4547-9da7-fd1b99151428",
+      "latitude": -34.771605,
+      "longitude": 138.633237,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:00:16Z",
+      "reported_at": "2026-01-14T21:46:52Z"
+    },
+    {
       "id": "c16aace1-a076-42e3-a267-0d3f2691e08d",
       "latitude": -35.143649,
       "longitude": 138.524887,
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-14T21:30:15Z",
+      "timestamp": "2026-01-14T22:00:16Z",
       "reported_at": "2026-01-14T21:15:20Z"
-    },
-    {
-      "id": "d07a3016-d4ca-4835-8d54-12e3136b0364",
-      "latitude": -34.827271,
-      "longitude": 138.703878,
-      "street": "A10 - North East Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2026-01-14T21:30:15Z",
-      "reported_at": "2026-01-14T21:23:18Z"
-    },
-    {
-      "id": "e6fe9782-4358-4e6a-9a44-dd0809966587",
-      "latitude": -34.821859,
-      "longitude": 138.712513,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
-      "type": "mobile",
-      "timestamp": "2026-01-14T21:30:15Z",
-      "reported_at": "2026-01-14T21:18:40Z"
     },
     {
       "id": "04d7e6df-3e9f-407a-b2da-1111d8f21b1c",
@@ -37,7 +67,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T21:30:15Z",
+      "timestamp": "2026-01-14T22:00:16Z",
       "reported_at": "2026-01-14T21:18:41Z"
     }
   ]
