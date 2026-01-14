@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "5f469ff3-6411-4369-892e-8996f202822a",
-      "latitude": -34.886514,
-      "longitude": 138.575984,
-      "street": "Harrison Rd",
-      "city": "Renown Park",
+      "id": "f098159a-45e7-479b-9095-b5d87d9a4d7f",
+      "latitude": -34.913215,
+      "longitude": 138.505222,
+      "street": "Marlborough St",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T02:26:19Z"
-    },
-    {
-      "id": "9dd41140-052d-415c-afb6-484b05cf38bb",
-      "latitude": -34.977989,
-      "longitude": 138.576751,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T05:02:48Z"
-    },
-    {
-      "id": "1ba82982-f655-4dd8-b70e-a36142b9cc0f",
-      "latitude": -34.877899,
-      "longitude": 138.566452,
-      "street": "Days Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-13T23:49:21Z"
-    },
-    {
-      "id": "ab57ab24-5678-46f2-ac5b-0196af140e68",
-      "latitude": -34.895487,
-      "longitude": 138.525132,
-      "street": "Balcombe Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T02:21:18Z"
-    },
-    {
-      "id": "7cfd97e7-89a5-4775-9870-5ac1f5096ed9",
-      "latitude": -34.842822,
-      "longitude": 138.539135,
-      "street": "May Tce",
-      "city": "Ottoway",
-      "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T02:13:14Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T05:59:06Z"
     },
     {
       "id": "9f275c06-4783-4fa5-aa6b-c162a3fef19f",
@@ -57,28 +17,38 @@
       "street": "Lionel Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
+      "timestamp": "2026-01-14T06:30:14Z",
       "reported_at": "2026-01-14T02:36:01Z"
     },
     {
-      "id": "432c648e-7700-4770-928c-62585afdddde",
-      "latitude": -34.88768,
-      "longitude": 138.688857,
-      "street": "Montacute Rd",
-      "city": "Newton",
+      "id": "9dd41140-052d-415c-afb6-484b05cf38bb",
+      "latitude": -34.977989,
+      "longitude": 138.576751,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T02:16:03Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T05:02:48Z"
     },
     {
-      "id": "55a18959-c809-4b29-a9b9-fec1e597c75b",
-      "latitude": -34.886159,
-      "longitude": 138.566521,
-      "street": "Torrens Rd",
-      "city": "Croydon Park",
+      "id": "3f03c0d1-b2f1-45b6-ba75-19b45b1f8ddf",
+      "latitude": -34.893844,
+      "longitude": 138.488668,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T05:48:36Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T05:57:04Z"
+    },
+    {
+      "id": "6bdd348d-dd9a-41e8-ae7d-d8b49d075b03",
+      "latitude": -34.904388,
+      "longitude": 138.590504,
+      "street": "Jeffcott St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T05:56:02Z"
     },
     {
       "id": "215c557c-0cfb-47f6-99f7-cbab52186eb1",
@@ -87,48 +57,68 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
+      "timestamp": "2026-01-14T06:30:14Z",
       "reported_at": "2026-01-14T05:52:17Z"
     },
     {
-      "id": "5a88e5c8-54ec-4f8e-b1df-c037cc902403",
-      "latitude": -34.742111,
-      "longitude": 138.611986,
-      "street": "Bolivar Rd",
-      "city": "Burton",
+      "id": "2710fd71-1a06-4e13-bd6d-6616d3b78c08",
+      "latitude": -35.024341,
+      "longitude": 138.716599,
+      "street": "Longwood Rd",
+      "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T05:22:56Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T05:26:35Z"
     },
     {
-      "id": "33ab7080-9824-4436-b669-73d69fbd588c",
-      "latitude": -34.905848,
-      "longitude": 138.514707,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
+      "id": "ebe08590-26f4-4fe8-b2f5-ea7e937a7382",
+      "latitude": -35.039637,
+      "longitude": 138.688566,
+      "street": "Ironbank Rd",
+      "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T05:36:20Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T05:56:34Z"
     },
     {
-      "id": "aa1125fd-c2d0-48d8-9811-42795f92deeb",
-      "latitude": -35.004243,
-      "longitude": 138.700246,
+      "id": "0abe0ef1-0dc2-4cf4-a427-7bd720941305",
+      "latitude": -34.875201,
+      "longitude": 138.569715,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T06:28:37Z"
+    },
+    {
+      "id": "38500d1e-783f-4bfc-b5c0-d84f6795a309",
+      "latitude": -34.755727,
+      "longitude": 138.630816,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T06:16:29Z"
+    },
+    {
+      "id": "3dde60f8-4c0e-464c-baa3-ae200e4f6055",
+      "latitude": -35.004906,
+      "longitude": 138.699695,
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T05:03:20Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T06:09:47Z"
     },
     {
-      "id": "224a1732-07bb-4c45-9830-21ba586c9da9",
-      "latitude": -34.855794,
-      "longitude": 138.600669,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "8d2e445c-ea4f-44a6-ae00-6739911604f1",
+      "latitude": -34.809547,
+      "longitude": 138.630934,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-14T06:00:14Z",
-      "reported_at": "2026-01-14T03:19:59Z"
+      "timestamp": "2026-01-14T06:30:14Z",
+      "reported_at": "2026-01-14T06:03:59Z"
     }
   ]
 }
