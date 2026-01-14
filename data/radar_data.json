@@ -1,54 +1,44 @@
 {
   "radars": [
     {
+      "id": "661393a3-2def-4f59-b4b8-024082f56bc2",
+      "latitude": -35.096904,
+      "longitude": 138.534218,
+      "street": "Young St",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:30:14Z",
+      "reported_at": "2026-01-14T21:21:19Z"
+    },
+    {
       "id": "bd2f6957-d25c-4544-95ff-d9ead21b036a",
       "latitude": -34.988777,
       "longitude": 138.583425,
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
+      "timestamp": "2026-01-14T22:30:14Z",
       "reported_at": "2026-01-14T21:22:48Z"
     },
     {
-      "id": "e019e106-df38-4716-b33b-a379d1d6043c",
-      "latitude": -34.750302,
-      "longitude": 138.621897,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "fb32aa7c-e611-4fec-be51-cec803017063",
+      "latitude": -35.069115,
+      "longitude": 138.629362,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
-      "reported_at": "2026-01-14T21:34:51Z"
+      "timestamp": "2026-01-14T22:30:14Z",
+      "reported_at": "2026-01-14T22:23:07Z"
     },
     {
       "id": "9c513568-31cd-4574-b42f-a3b59da56ffb",
-      "latitude": -35.126648,
-      "longitude": 138.516536,
+      "latitude": -35.126713,
+      "longitude": 138.515296,
       "street": "Flaxmill Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
+      "timestamp": "2026-01-14T22:30:14Z",
       "reported_at": "2026-01-14T21:42:23Z"
-    },
-    {
-      "id": "005d5199-34f9-42c4-9d4e-4e8bb65fe1a4",
-      "latitude": -34.770383,
-      "longitude": 138.634215,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
-      "reported_at": "2026-01-14T21:40:28Z"
-    },
-    {
-      "id": "4cbcfb49-a9e6-4547-9da7-fd1b99151428",
-      "latitude": -34.771605,
-      "longitude": 138.633237,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
-      "reported_at": "2026-01-14T21:46:52Z"
     },
     {
       "id": "c16aace1-a076-42e3-a267-0d3f2691e08d",
@@ -57,8 +47,18 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
+      "timestamp": "2026-01-14T22:30:14Z",
       "reported_at": "2026-01-14T21:15:20Z"
+    },
+    {
+      "id": "005d5199-34f9-42c4-9d4e-4e8bb65fe1a4",
+      "latitude": -34.770383,
+      "longitude": 138.634215,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-14T22:30:14Z",
+      "reported_at": "2026-01-14T21:40:28Z"
     },
     {
       "id": "04d7e6df-3e9f-407a-b2da-1111d8f21b1c",
@@ -67,7 +67,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T22:00:16Z",
+      "timestamp": "2026-01-14T22:30:14Z",
       "reported_at": "2026-01-14T21:18:41Z"
     }
   ]
