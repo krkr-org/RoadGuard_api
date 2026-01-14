@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "0082f389-c8f4-4046-963b-8e0081c7e660",
-      "latitude": -34.885704,
-      "longitude": 138.575943,
+      "id": "5f469ff3-6411-4369-892e-8996f202822a",
+      "latitude": -34.886514,
+      "longitude": 138.575984,
       "street": "Harrison Rd",
-      "city": "Devon Park",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T01:41:56Z"
-    },
-    {
-      "id": "9f275c06-4783-4fa5-aa6b-c162a3fef19f",
-      "latitude": -34.858553,
-      "longitude": 138.600333,
-      "street": "Lionel Av",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T02:36:01Z"
+      "timestamp": "2026-01-14T06:00:14Z",
+      "reported_at": "2026-01-14T02:26:19Z"
     },
     {
       "id": "9dd41140-052d-415c-afb6-484b05cf38bb",
@@ -27,7 +17,7 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-14T05:02:48Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-13T23:49:21Z"
     },
     {
@@ -47,7 +37,7 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-14T02:21:18Z"
     },
     {
@@ -57,8 +47,18 @@
       "street": "May Tce",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-14T02:13:14Z"
+    },
+    {
+      "id": "9f275c06-4783-4fa5-aa6b-c162a3fef19f",
+      "latitude": -34.858553,
+      "longitude": 138.600333,
+      "street": "Lionel Av",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-14T06:00:14Z",
+      "reported_at": "2026-01-14T02:36:01Z"
     },
     {
       "id": "432c648e-7700-4770-928c-62585afdddde",
@@ -67,38 +67,28 @@
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-14T02:16:03Z"
     },
     {
-      "id": "3c764179-f3b6-415c-ade3-ab578c6fdd1b",
-      "latitude": -35.082434,
-      "longitude": 138.561155,
-      "street": "Kenihans Rd",
-      "city": "Happy Valley",
+      "id": "55a18959-c809-4b29-a9b9-fec1e597c75b",
+      "latitude": -34.886159,
+      "longitude": 138.566521,
+      "street": "Torrens Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T05:14:22Z"
+      "timestamp": "2026-01-14T06:00:14Z",
+      "reported_at": "2026-01-14T05:48:36Z"
     },
     {
-      "id": "1b421dbb-11b5-4495-9e83-e0ea3c38a850",
-      "latitude": -34.803985,
-      "longitude": 138.644669,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
+      "id": "215c557c-0cfb-47f6-99f7-cbab52186eb1",
+      "latitude": -34.857304,
+      "longitude": 138.66873,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T04:59:25Z"
-    },
-    {
-      "id": "9977638a-c240-4604-8b34-d2321c874584",
-      "latitude": -34.6657,
-      "longitude": 138.664838,
-      "street": "Curtis Rd",
-      "city": "Munno Para West",
-      "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T05:14:03Z"
+      "timestamp": "2026-01-14T06:00:14Z",
+      "reported_at": "2026-01-14T05:52:17Z"
     },
     {
       "id": "5a88e5c8-54ec-4f8e-b1df-c037cc902403",
@@ -107,38 +97,28 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-14T05:22:56Z"
     },
     {
-      "id": "c81dd810-dde2-4882-97c9-1a9782e62d3b",
-      "latitude": -35.117502,
-      "longitude": 138.490391,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
+      "id": "33ab7080-9824-4436-b669-73d69fbd588c",
+      "latitude": -34.905848,
+      "longitude": 138.514707,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T05:14:51Z"
+      "timestamp": "2026-01-14T06:00:14Z",
+      "reported_at": "2026-01-14T05:36:20Z"
     },
     {
-      "id": "136255c9-2e8f-4c52-8a10-f53a66aab193",
-      "latitude": -35.005236,
-      "longitude": 138.699422,
+      "id": "aa1125fd-c2d0-48d8-9811-42795f92deeb",
+      "latitude": -35.004243,
+      "longitude": 138.700246,
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T05:08:26Z"
-    },
-    {
-      "id": "9099d7bc-5c2c-4a4a-9127-84a6522fc997",
-      "latitude": -35.028581,
-      "longitude": 138.557305,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
-      "reported_at": "2026-01-14T05:00:51Z"
+      "timestamp": "2026-01-14T06:00:14Z",
+      "reported_at": "2026-01-14T05:03:20Z"
     },
     {
       "id": "224a1732-07bb-4c45-9830-21ba586c9da9",
@@ -147,7 +127,7 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-14T05:30:15Z",
+      "timestamp": "2026-01-14T06:00:14Z",
       "reported_at": "2026-01-14T03:19:59Z"
     }
   ]
