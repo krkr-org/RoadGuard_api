@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "477b4a8f-0b7e-4d22-82f8-702b8f30d1b3",
+      "latitude": -35.038445,
+      "longitude": 138.619403,
+      "street": "Coromandel Pde",
+      "city": "Craigburn Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:09:26Z"
+    },
+    {
+      "id": "718d94c3-c2f8-4fd7-93f6-73b415d07374",
+      "latitude": -34.876491,
+      "longitude": 138.600616,
+      "street": "Grassmere Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T06:39:41Z"
+    },
+    {
+      "id": "2c611d05-c504-4738-96ed-f7abdb66906d",
+      "latitude": -34.702465,
+      "longitude": 138.67916,
+      "street": "Laverstock Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T06:47:19Z"
+    },
+    {
       "id": "eb36e66b-1059-4f11-9b36-8c32aaadaa0d",
       "latitude": -35.024786,
       "longitude": 138.793431,
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
+      "timestamp": "2026-01-14T07:30:15Z",
       "reported_at": "2026-01-14T06:24:24Z"
-    },
-    {
-      "id": "0abe0ef1-0dc2-4cf4-a427-7bd720941305",
-      "latitude": -34.875201,
-      "longitude": 138.569715,
-      "street": "Regency Rd",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
-      "reported_at": "2026-01-14T06:28:37Z"
     },
     {
       "id": "2710fd71-1a06-4e13-bd6d-6616d3b78c08",
@@ -27,8 +47,18 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
+      "timestamp": "2026-01-14T07:30:15Z",
       "reported_at": "2026-01-14T05:26:35Z"
+    },
+    {
+      "id": "46f719ce-5376-4db8-b6a0-4e09ce0284cf",
+      "latitude": -35.029033,
+      "longitude": 138.541803,
+      "street": "Morphett Rd",
+      "city": "Dover Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:08:19Z"
     },
     {
       "id": "ebe08590-26f4-4fe8-b2f5-ea7e937a7382",
@@ -37,18 +67,58 @@
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
+      "timestamp": "2026-01-14T07:30:15Z",
       "reported_at": "2026-01-14T05:56:34Z"
     },
     {
-      "id": "fd5e0539-ac6a-4fbb-9eb4-fa808ff6bd10",
-      "latitude": -34.715297,
-      "longitude": 138.673112,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
+      "id": "f8ceac21-ba3c-40a9-a9d2-1cb469ffba2a",
+      "latitude": -34.891861,
+      "longitude": 138.575827,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
-      "reported_at": "2026-01-14T06:36:54Z"
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:23:53Z"
+    },
+    {
+      "id": "4ccb242c-1f8e-46d9-84a4-e0b6e42bbb4f",
+      "latitude": -34.677593,
+      "longitude": 138.675573,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:07:29Z"
+    },
+    {
+      "id": "2ed23ed9-07d7-49d0-b88e-f7ff4e9af0b6",
+      "latitude": -34.766311,
+      "longitude": 138.64941,
+      "street": "Commercial Rd",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:20:03Z"
+    },
+    {
+      "id": "155e0496-d68e-4607-b483-9bc6981eb8ff",
+      "latitude": -34.973849,
+      "longitude": 138.539722,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:13:31Z"
+    },
+    {
+      "id": "5a404e5e-6f37-4a06-a4d0-3888ad281a1c",
+      "latitude": -34.925863,
+      "longitude": 138.569822,
+      "street": "A2 - South Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:24:47Z"
     },
     {
       "id": "aa1125fd-c2d0-48d8-9811-42795f92deeb",
@@ -57,18 +127,18 @@
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
+      "timestamp": "2026-01-14T07:30:15Z",
       "reported_at": "2026-01-14T05:03:20Z"
     },
     {
-      "id": "c2844d17-96d4-4cf5-930e-90fe2bd29513",
-      "latitude": -34.971418,
-      "longitude": 138.555252,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton Park",
+      "id": "11d9069c-ea33-435a-a533-d19e9633944b",
+      "latitude": -34.821551,
+      "longitude": 138.562054,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:00:17Z",
-      "reported_at": "2026-01-14T06:36:29Z"
+      "timestamp": "2026-01-14T07:30:15Z",
+      "reported_at": "2026-01-14T07:29:10Z"
     }
   ]
 }
