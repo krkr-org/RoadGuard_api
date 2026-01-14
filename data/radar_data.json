@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "0082f389-c8f4-4046-963b-8e0081c7e660",
-      "latitude": -34.885704,
-      "longitude": 138.575943,
-      "street": "Harrison Rd",
-      "city": "Devon Park",
+      "id": "af5a3286-d362-47e0-94b5-1adaa76ccbff",
+      "latitude": -34.911771,
+      "longitude": 138.545243,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
-      "reported_at": "2026-01-14T01:41:56Z"
-    },
-    {
-      "id": "848bfffd-77a0-4df7-8780-40e0fedc9374",
-      "latitude": -34.848968,
-      "longitude": 138.490224,
-      "street": "Carlisle St",
-      "city": "Ethelton",
-      "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
-      "reported_at": "2026-01-13T22:12:46Z"
+      "timestamp": "2026-01-14T03:00:17Z",
+      "reported_at": "2026-01-14T00:41:00Z"
     },
     {
       "id": "1ba82982-f655-4dd8-b70e-a36142b9cc0f",
@@ -27,28 +17,8 @@
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
+      "timestamp": "2026-01-14T03:00:17Z",
       "reported_at": "2026-01-13T23:49:21Z"
-    },
-    {
-      "id": "39c7e6b9-bcdf-4998-aa96-b7b1e29a033d",
-      "latitude": -34.845741,
-      "longitude": 138.489687,
-      "street": "Hart St",
-      "city": "Glanville",
-      "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
-      "reported_at": "2026-01-14T01:49:28Z"
-    },
-    {
-      "id": "eaece2ed-6e0f-4c78-9c44-81d0ced392b6",
-      "latitude": -34.877573,
-      "longitude": 138.484922,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
-      "reported_at": "2026-01-14T02:10:10Z"
     },
     {
       "id": "432c648e-7700-4770-928c-62585afdddde",
@@ -57,18 +27,18 @@
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
+      "timestamp": "2026-01-14T03:00:17Z",
       "reported_at": "2026-01-14T02:16:03Z"
     },
     {
-      "id": "0e45b99e-3288-42ce-96cc-b902674ba9a2",
-      "latitude": -34.691833,
-      "longitude": 138.697869,
-      "street": "Uley Rd",
-      "city": "Blakeview",
+      "id": "9e1db80d-ca87-4b07-83bc-046d24a3d109",
+      "latitude": -35.019814,
+      "longitude": 138.616326,
+      "street": "B29 - Main Rd",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
-      "reported_at": "2026-01-14T02:08:59Z"
+      "timestamp": "2026-01-14T03:00:17Z",
+      "reported_at": "2026-01-14T02:41:49Z"
     },
     {
       "id": "32cad342-581d-4e66-bf98-13d9aefa87b3",
@@ -77,8 +47,18 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-14T02:30:15Z",
+      "timestamp": "2026-01-14T03:00:17Z",
       "reported_at": "2026-01-14T01:05:37Z"
+    },
+    {
+      "id": "a0d43266-428b-4aa8-a771-5306b7eb675f",
+      "latitude": -34.941735,
+      "longitude": 138.588912,
+      "street": "Unknown Street",
+      "city": "Wayville",
+      "type": "mobile",
+      "timestamp": "2026-01-14T03:00:17Z",
+      "reported_at": "2026-01-14T02:42:31Z"
     }
   ]
 }
