@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "1238419f-41b3-4056-add4-e56653e0b273",
-      "latitude": -34.867267,
-      "longitude": 138.556195,
-      "street": "Liberty Gr",
-      "city": "Woodville Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
-      "reported_at": "2026-01-13T23:54:10Z"
-    },
-    {
       "id": "555141d5-bd75-4d08-9db6-03da1273758e",
       "latitude": -34.886197,
       "longitude": 138.575963,
       "street": "Harrison Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
+      "timestamp": "2026-01-14T01:30:15Z",
       "reported_at": "2026-01-13T21:20:51Z"
     },
     {
@@ -27,58 +17,78 @@
       "street": "Carlisle St",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
+      "timestamp": "2026-01-14T01:30:15Z",
       "reported_at": "2026-01-13T22:12:46Z"
     },
     {
-      "id": "a3cf0713-2d2f-4f27-b8c0-e2e9a7d8516e",
-      "latitude": -34.843269,
-      "longitude": 138.538383,
-      "street": "May Tce",
-      "city": "Ottoway",
+      "id": "b351e2a4-9c6d-49db-ae36-56c5c7618e98",
+      "latitude": -34.895446,
+      "longitude": 138.526106,
+      "street": "Balcombe Av",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
-      "reported_at": "2026-01-13T21:23:04Z"
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-13T21:48:28Z"
     },
     {
-      "id": "08a68779-b339-49a0-83b2-17d537e49f14",
-      "latitude": -34.845837,
-      "longitude": 138.490191,
-      "street": "Hart St",
-      "city": "Glanville",
+      "id": "1ba82982-f655-4dd8-b70e-a36142b9cc0f",
+      "latitude": -34.877899,
+      "longitude": 138.566452,
+      "street": "Days Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
-      "reported_at": "2026-01-14T00:25:49Z"
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-13T23:49:21Z"
     },
     {
-      "id": "81a29e51-0291-4ba7-8ae2-a64f22435ead",
-      "latitude": -34.809649,
-      "longitude": 138.6735,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
+      "id": "7e1661c4-4408-4b83-a7fd-327b01dd3a2b",
+      "latitude": -34.887129,
+      "longitude": 138.517876,
+      "street": "Clark Tce",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
-      "reported_at": "2026-01-14T00:51:10Z"
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-14T00:44:04Z"
     },
     {
-      "id": "1f461b21-ad82-4353-89fd-18f271962360",
-      "latitude": -34.902387,
-      "longitude": 138.568037,
+      "id": "7b181d20-ac72-4bc6-bb72-9476ed1cab59",
+      "latitude": -34.707197,
+      "longitude": 138.662965,
+      "street": "Peachey Rd",
+      "city": "Edinburgh North",
+      "type": "mobile",
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-14T00:57:22Z"
+    },
+    {
+      "id": "32cad342-581d-4e66-bf98-13d9aefa87b3",
+      "latitude": -34.866745,
+      "longitude": 138.517358,
       "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
-      "reported_at": "2026-01-14T00:45:31Z"
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-14T01:05:37Z"
     },
     {
-      "id": "8444ebbc-abb8-4424-bb89-349f036b8236",
-      "latitude": -34.743501,
-      "longitude": 138.676407,
-      "street": "A20 - Main North Rd",
-      "city": "Hillbank",
+      "id": "b6cec70a-6268-49ba-a956-cab6d4182dc8",
+      "latitude": -34.858093,
+      "longitude": 138.60094,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-14T01:00:16Z",
-      "reported_at": "2026-01-14T00:38:35Z"
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-14T00:55:38Z"
+    },
+    {
+      "id": "563291d8-c9f1-4cb3-a150-427df48f31a1",
+      "latitude": -34.781853,
+      "longitude": 138.655658,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-14T01:30:15Z",
+      "reported_at": "2026-01-14T01:12:52Z"
     }
   ]
 }
