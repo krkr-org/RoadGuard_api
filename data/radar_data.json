@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "718d94c3-c2f8-4fd7-93f6-73b415d07374",
-      "latitude": -34.876491,
-      "longitude": 138.600616,
-      "street": "Grassmere Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
-      "reported_at": "2026-01-14T06:39:41Z"
-    },
-    {
       "id": "4d3cced6-51ab-4fef-aa7b-28ff14cb45e3",
       "latitude": -34.713454,
       "longitude": 138.685055,
       "street": "Turner Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
+      "timestamp": "2026-01-14T11:00:13Z",
       "reported_at": "2026-01-14T10:26:34Z"
-    },
-    {
-      "id": "eb36e66b-1059-4f11-9b36-8c32aaadaa0d",
-      "latitude": -35.024786,
-      "longitude": 138.793431,
-      "street": "River Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
-      "reported_at": "2026-01-14T06:24:24Z"
     },
     {
       "id": "faf4053e-d317-48d4-9f0b-1f5c83324dad",
@@ -37,28 +17,18 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
+      "timestamp": "2026-01-14T11:00:13Z",
       "reported_at": "2026-01-14T07:54:11Z"
     },
     {
-      "id": "ebe08590-26f4-4fe8-b2f5-ea7e937a7382",
-      "latitude": -35.039637,
-      "longitude": 138.688566,
-      "street": "Ironbank Rd",
-      "city": "Ironbank",
+      "id": "55f9061d-365d-4d90-8e0b-6f8d6ce3bbc3",
+      "latitude": -34.909139,
+      "longitude": 138.581383,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
-      "reported_at": "2026-01-14T05:56:34Z"
-    },
-    {
-      "id": "ac4306d8-540a-4ab7-9502-9a6a9f66c606",
-      "latitude": -34.964876,
-      "longitude": 138.646443,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
-      "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
-      "reported_at": "2026-01-14T10:17:08Z"
+      "timestamp": "2026-01-14T11:00:13Z",
+      "reported_at": "2026-01-14T10:44:53Z"
     },
     {
       "id": "aa1125fd-c2d0-48d8-9811-42795f92deeb",
@@ -67,18 +37,28 @@
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
+      "timestamp": "2026-01-14T11:00:13Z",
       "reported_at": "2026-01-14T05:03:20Z"
     },
     {
-      "id": "e938ea21-f1e6-46ee-a78f-e49aa0386dea",
-      "latitude": -35.138146,
-      "longitude": 138.524608,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
+      "id": "56b0987b-5074-4c19-8ee0-fcbff5ff7acf",
+      "latitude": -34.964575,
+      "longitude": 138.646303,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-14T10:30:15Z",
-      "reported_at": "2026-01-14T10:09:46Z"
+      "timestamp": "2026-01-14T11:00:13Z",
+      "reported_at": "2026-01-14T10:27:31Z"
+    },
+    {
+      "id": "205cbcd2-1dbb-462e-ba29-a51914de7f3a",
+      "latitude": -34.966069,
+      "longitude": 138.64804,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-14T11:00:13Z",
+      "reported_at": "2026-01-14T10:25:39Z"
     }
   ]
 }
