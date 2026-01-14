@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "a893930c-b753-45ec-987b-b840b19e09d5",
-      "latitude": -34.892587,
-      "longitude": 138.603392,
-      "street": "A1 - Main North Rd",
-      "city": "Prospect",
+      "id": "c16aace1-a076-42e3-a267-0d3f2691e08d",
+      "latitude": -35.143649,
+      "longitude": 138.524887,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-14T21:00:15Z",
-      "reported_at": "2026-01-14T20:50:23Z"
+      "timestamp": "2026-01-14T21:30:15Z",
+      "reported_at": "2026-01-14T21:15:20Z"
     },
     {
-      "id": "c8db9bad-33ec-4e1e-b116-35211627e589",
-      "latitude": -34.89387,
-      "longitude": 138.60305,
-      "street": "A1 - Main North Rd",
-      "city": "Medindie",
+      "id": "d07a3016-d4ca-4835-8d54-12e3136b0364",
+      "latitude": -34.827271,
+      "longitude": 138.703878,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-14T21:00:15Z",
-      "reported_at": "2026-01-14T20:50:43Z"
+      "timestamp": "2026-01-14T21:30:15Z",
+      "reported_at": "2026-01-14T21:23:18Z"
+    },
+    {
+      "id": "e6fe9782-4358-4e6a-9a44-dd0809966587",
+      "latitude": -34.821859,
+      "longitude": 138.712513,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2026-01-14T21:30:15Z",
+      "reported_at": "2026-01-14T21:18:40Z"
+    },
+    {
+      "id": "04d7e6df-3e9f-407a-b2da-1111d8f21b1c",
+      "latitude": -34.869738,
+      "longitude": 138.570641,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-14T21:30:15Z",
+      "reported_at": "2026-01-14T21:18:41Z"
     }
   ]
 }
