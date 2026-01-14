@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "477b4a8f-0b7e-4d22-82f8-702b8f30d1b3",
-      "latitude": -35.038445,
-      "longitude": 138.619403,
-      "street": "Coromandel Pde",
-      "city": "Craigburn Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T07:09:26Z"
-    },
-    {
       "id": "718d94c3-c2f8-4fd7-93f6-73b415d07374",
       "latitude": -34.876491,
       "longitude": 138.600616,
       "street": "Grassmere Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
+      "timestamp": "2026-01-14T08:00:18Z",
       "reported_at": "2026-01-14T06:39:41Z"
-    },
-    {
-      "id": "2c611d05-c504-4738-96ed-f7abdb66906d",
-      "latitude": -34.702465,
-      "longitude": 138.67916,
-      "street": "Laverstock Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T06:47:19Z"
     },
     {
       "id": "eb36e66b-1059-4f11-9b36-8c32aaadaa0d",
@@ -37,8 +17,28 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
+      "timestamp": "2026-01-14T08:00:18Z",
       "reported_at": "2026-01-14T06:24:24Z"
+    },
+    {
+      "id": "489efaac-0abf-4200-83bb-6c54476e0608",
+      "latitude": -34.899758,
+      "longitude": 138.611589,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T07:39:18Z"
+    },
+    {
+      "id": "47acce04-5c2d-4e02-95e7-02fa7e847108",
+      "latitude": -34.767168,
+      "longitude": 138.678282,
+      "street": "Stanford Rd",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T07:30:33Z"
     },
     {
       "id": "2710fd71-1a06-4e13-bd6d-6616d3b78c08",
@@ -47,28 +47,8 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
+      "timestamp": "2026-01-14T08:00:18Z",
       "reported_at": "2026-01-14T05:26:35Z"
-    },
-    {
-      "id": "46f719ce-5376-4db8-b6a0-4e09ce0284cf",
-      "latitude": -35.029033,
-      "longitude": 138.541803,
-      "street": "Morphett Rd",
-      "city": "Dover Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T07:08:19Z"
-    },
-    {
-      "id": "ebe08590-26f4-4fe8-b2f5-ea7e937a7382",
-      "latitude": -35.039637,
-      "longitude": 138.688566,
-      "street": "Ironbank Rd",
-      "city": "Ironbank",
-      "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T05:56:34Z"
     },
     {
       "id": "f8ceac21-ba3c-40a9-a9d2-1cb469ffba2a",
@@ -77,28 +57,38 @@
       "street": "Torrens Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
+      "timestamp": "2026-01-14T08:00:18Z",
       "reported_at": "2026-01-14T07:23:53Z"
     },
     {
-      "id": "4ccb242c-1f8e-46d9-84a4-e0b6e42bbb4f",
-      "latitude": -34.677593,
-      "longitude": 138.675573,
-      "street": "Peachey Rd",
-      "city": "Smithfield Plains",
+      "id": "63bc67e2-53a7-4a5b-ab4f-a876ff80952e",
+      "latitude": -35.106187,
+      "longitude": 138.534885,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T07:07:29Z"
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T07:20:30Z"
     },
     {
-      "id": "2ed23ed9-07d7-49d0-b88e-f7ff4e9af0b6",
-      "latitude": -34.766311,
-      "longitude": 138.64941,
-      "street": "Commercial Rd",
-      "city": "Salisbury",
+      "id": "ebe08590-26f4-4fe8-b2f5-ea7e937a7382",
+      "latitude": -35.039637,
+      "longitude": 138.688566,
+      "street": "Ironbank Rd",
+      "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T07:20:03Z"
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T05:56:34Z"
+    },
+    {
+      "id": "26f7dfd2-78bb-47a7-a761-46a1d8788c89",
+      "latitude": -34.939734,
+      "longitude": 138.606678,
+      "street": "Unley Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T07:15:50Z"
     },
     {
       "id": "155e0496-d68e-4607-b483-9bc6981eb8ff",
@@ -107,38 +97,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
+      "timestamp": "2026-01-14T08:00:18Z",
       "reported_at": "2026-01-14T07:13:31Z"
     },
     {
-      "id": "5a404e5e-6f37-4a06-a4d0-3888ad281a1c",
-      "latitude": -34.925863,
-      "longitude": 138.569822,
-      "street": "A2 - South Rd",
-      "city": "Mile End",
-      "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T07:24:47Z"
-    },
-    {
-      "id": "aa1125fd-c2d0-48d8-9811-42795f92deeb",
-      "latitude": -35.004484,
-      "longitude": 138.700045,
+      "id": "a9aa3ddf-02f9-46d1-8630-a36d5f6953b9",
+      "latitude": -35.004881,
+      "longitude": 138.699716,
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T05:03:20Z"
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T07:22:16Z"
     },
     {
-      "id": "11d9069c-ea33-435a-a533-d19e9633944b",
-      "latitude": -34.821551,
-      "longitude": 138.562054,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
+      "id": "dbfbabf2-1b07-4a1f-bd51-4a4020df6d01",
+      "latitude": -35.137881,
+      "longitude": 138.77242,
+      "street": "B34 - Battunga Rd",
+      "city": "Jupiter Creek",
       "type": "mobile",
-      "timestamp": "2026-01-14T07:30:15Z",
-      "reported_at": "2026-01-14T07:29:10Z"
+      "timestamp": "2026-01-14T08:00:18Z",
+      "reported_at": "2026-01-14T07:39:13Z"
     }
   ]
 }
