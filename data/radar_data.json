@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "2c5431bc-ba61-49a0-b353-180be6f099da",
+      "latitude": -34.931186,
+      "longitude": 138.596728,
+      "street": "Compton St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-15T13:00:17Z",
+      "reported_at": "2026-01-15T12:17:04Z"
+    },
+    {
       "id": "76a3b6d7-6797-48b8-a3b3-e31f2f99117f",
       "latitude": -34.930328,
       "longitude": 138.668384,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:30:14Z",
+      "timestamp": "2026-01-15T13:00:17Z",
       "reported_at": "2026-01-15T10:13:55Z"
     },
     {
-      "id": "67955e34-2335-4476-ab09-1c3d6c0e7006",
-      "latitude": -34.960475,
-      "longitude": 138.515501,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "7bb9b656-24f0-42c0-8ce1-918c867b1527",
+      "latitude": -34.920633,
+      "longitude": 138.648497,
+      "street": "The Parade",
+      "city": "Beulah Park",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:30:14Z",
-      "reported_at": "2026-01-15T12:00:34Z"
+      "timestamp": "2026-01-15T13:00:17Z",
+      "reported_at": "2026-01-15T10:36:48Z"
     },
     {
       "id": "7d52a644-5cf6-443b-b727-3617e08e75de",
@@ -27,8 +37,18 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:30:14Z",
+      "timestamp": "2026-01-15T13:00:17Z",
       "reported_at": "2026-01-15T09:52:30Z"
+    },
+    {
+      "id": "02577d39-2831-4afe-9a60-81e654e52ac2",
+      "latitude": -34.895878,
+      "longitude": 138.585432,
+      "street": "A22 - Churchill Rd",
+      "city": "Ovingham",
+      "type": "mobile",
+      "timestamp": "2026-01-15T13:00:17Z",
+      "reported_at": "2026-01-15T12:39:01Z"
     },
     {
       "id": "8749ef2b-5c05-49de-b235-2855ab77830e",
@@ -37,18 +57,18 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:30:14Z",
+      "timestamp": "2026-01-15T13:00:17Z",
       "reported_at": "2026-01-15T10:20:05Z"
     },
     {
-      "id": "b525e792-0f56-49f6-8daf-3964c0d5c805",
-      "latitude": -34.933917,
-      "longitude": 138.526789,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
+      "id": "3f2f3a92-d05f-4341-8c1a-d0f60ef874de",
+      "latitude": -34.847304,
+      "longitude": 138.623007,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:30:14Z",
-      "reported_at": "2026-01-15T11:56:32Z"
+      "timestamp": "2026-01-15T13:00:17Z",
+      "reported_at": "2026-01-15T12:29:53Z"
     }
   ]
 }
