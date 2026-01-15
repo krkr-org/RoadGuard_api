@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "3a0950fd-baa3-48b5-9ca4-507b6e300b93",
+      "latitude": -34.891556,
+      "longitude": 138.487519,
+      "street": "Hallam Tce",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-01-15T04:30:15Z",
+      "reported_at": "2026-01-15T04:13:03Z"
+    },
+    {
       "id": "eec4df37-ef2c-439c-87ec-7e76f74b7611",
       "latitude": -35.096729,
       "longitude": 138.534204,
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
+      "timestamp": "2026-01-15T04:30:15Z",
       "reported_at": "2026-01-15T02:03:26Z"
-    },
-    {
-      "id": "c030c228-8545-4667-8e7c-791c4d8e2550",
-      "latitude": -34.923123,
-      "longitude": 138.565971,
-      "street": "Wainhouse St",
-      "city": "Torrensville",
-      "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
-      "reported_at": "2026-01-15T01:03:28Z"
     },
     {
       "id": "57bd16d6-ab4e-4b00-b4ae-384c6b25ef78",
@@ -27,7 +27,7 @@
       "street": "Gordon St",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
+      "timestamp": "2026-01-15T04:30:15Z",
       "reported_at": "2026-01-15T02:58:44Z"
     },
     {
@@ -37,38 +37,18 @@
       "street": "Sherriffs Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
+      "timestamp": "2026-01-15T04:30:15Z",
       "reported_at": "2026-01-15T03:53:14Z"
     },
     {
-      "id": "157efdfe-55c0-4b6a-9822-6d5751e2bf12",
-      "latitude": -35.01688,
-      "longitude": 138.563263,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
+      "id": "ff1c7582-eb2e-49b8-8204-4a5c669272cc",
+      "latitude": -34.921712,
+      "longitude": 138.61559,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
-      "reported_at": "2026-01-15T03:48:09Z"
-    },
-    {
-      "id": "4f1cb1b4-c7e0-4a8f-8b67-f5144ba3fa06",
-      "latitude": -35.026713,
-      "longitude": 138.523746,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
-      "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
-      "reported_at": "2026-01-15T03:47:55Z"
-    },
-    {
-      "id": "96b44f77-8fde-4591-87a4-ae00f328bdf1",
-      "latitude": -34.847364,
-      "longitude": 138.61755,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-01-15T04:12:29Z",
-      "reported_at": "2026-01-15T03:18:12Z"
+      "timestamp": "2026-01-15T04:30:15Z",
+      "reported_at": "2026-01-15T04:16:19Z"
     }
   ]
 }
