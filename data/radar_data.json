@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "abab4483-8cda-4e20-982b-6854f550f45b",
-      "latitude": -34.715616,
-      "longitude": 138.67368,
-      "street": "Ifould Rd",
-      "city": "Elizabeth Park",
+      "id": "2ddd9840-fafa-4db9-8959-4ed395af9432",
+      "latitude": -35.131056,
+      "longitude": 138.473655,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
-      "reported_at": "2026-01-14T22:26:22Z"
-    },
-    {
-      "id": "661393a3-2def-4f59-b4b8-024082f56bc2",
-      "latitude": -35.096904,
-      "longitude": 138.534218,
-      "street": "Young St",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
-      "reported_at": "2026-01-14T21:21:19Z"
+      "timestamp": "2026-01-15T00:00:21Z",
+      "reported_at": "2026-01-14T21:16:43Z"
     },
     {
       "id": "bd2f6957-d25c-4544-95ff-d9ead21b036a",
@@ -27,48 +17,28 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
+      "timestamp": "2026-01-15T00:00:21Z",
       "reported_at": "2026-01-14T21:22:48Z"
     },
     {
-      "id": "2ddd9840-fafa-4db9-8959-4ed395af9432",
-      "latitude": -35.131056,
-      "longitude": 138.473655,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
+      "id": "661393a3-2def-4f59-b4b8-024082f56bc2",
+      "latitude": -35.096904,
+      "longitude": 138.534218,
+      "street": "Young St",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
-      "reported_at": "2026-01-14T21:16:43Z"
+      "timestamp": "2026-01-15T00:00:21Z",
+      "reported_at": "2026-01-14T21:21:19Z"
     },
     {
-      "id": "561d83ce-b7f0-4e4b-bc26-b941f71fabda",
-      "latitude": -34.855048,
-      "longitude": 138.591828,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
+      "id": "ac0eeff4-c191-44c5-9fff-9052e8cea1d0",
+      "latitude": -34.871676,
+      "longitude": 138.626653,
+      "street": "Muller Rd",
+      "city": "Greenacres",
       "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
-      "reported_at": "2026-01-14T22:42:54Z"
-    },
-    {
-      "id": "9c513568-31cd-4574-b42f-a3b59da56ffb",
-      "latitude": -35.126713,
-      "longitude": 138.515296,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
-      "reported_at": "2026-01-14T21:42:23Z"
-    },
-    {
-      "id": "def19362-f852-4c5b-9437-51fe59056330",
-      "latitude": -35.070013,
-      "longitude": 138.632073,
-      "street": "Cherry Gardens Rd",
-      "city": "Cherry Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
-      "reported_at": "2026-01-14T22:32:38Z"
+      "timestamp": "2026-01-15T00:00:21Z",
+      "reported_at": "2026-01-14T23:41:12Z"
     },
     {
       "id": "c16aace1-a076-42e3-a267-0d3f2691e08d",
@@ -77,8 +47,28 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-14T23:00:14Z",
+      "timestamp": "2026-01-15T00:00:21Z",
       "reported_at": "2026-01-14T21:15:20Z"
+    },
+    {
+      "id": "50da1222-fba9-41d6-8704-24e52685c34d",
+      "latitude": -34.959713,
+      "longitude": 138.640999,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-15T00:00:21Z",
+      "reported_at": "2026-01-14T23:54:20Z"
+    },
+    {
+      "id": "094d4ada-684c-4833-9ccd-e66cc497d37e",
+      "latitude": -34.670465,
+      "longitude": 138.70122,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-01-15T00:00:21Z",
+      "reported_at": "2026-01-14T23:57:57Z"
     }
   ]
 }
