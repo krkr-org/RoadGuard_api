@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "532286d6-5ac9-4faf-8f20-3453dce7bbc0",
-      "latitude": -34.79672,
-      "longitude": 138.649422,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-01-15T12:00:19Z",
-      "reported_at": "2026-01-15T08:16:29Z"
-    },
-    {
       "id": "76a3b6d7-6797-48b8-a3b3-e31f2f99117f",
       "latitude": -34.930328,
       "longitude": 138.668384,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:00:19Z",
+      "timestamp": "2026-01-15T12:30:14Z",
       "reported_at": "2026-01-15T10:13:55Z"
     },
     {
-      "id": "d32a67a6-ed56-4619-bbf3-6addf4fe1d2c",
-      "latitude": -34.925057,
-      "longitude": 138.614501,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
+      "id": "67955e34-2335-4476-ab09-1c3d6c0e7006",
+      "latitude": -34.960475,
+      "longitude": 138.515501,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:00:19Z",
-      "reported_at": "2026-01-15T07:19:31Z"
-    },
-    {
-      "id": "9ff1270f-207c-4468-888e-9e39ac4a2714",
-      "latitude": -35.114717,
-      "longitude": 138.543973,
-      "street": "Bains Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-15T12:00:19Z",
-      "reported_at": "2026-01-15T08:01:21Z"
+      "timestamp": "2026-01-15T12:30:14Z",
+      "reported_at": "2026-01-15T12:00:34Z"
     },
     {
       "id": "7d52a644-5cf6-443b-b727-3617e08e75de",
@@ -47,8 +27,28 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-15T12:00:19Z",
+      "timestamp": "2026-01-15T12:30:14Z",
       "reported_at": "2026-01-15T09:52:30Z"
+    },
+    {
+      "id": "8749ef2b-5c05-49de-b235-2855ab77830e",
+      "latitude": -34.900728,
+      "longitude": 138.604912,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-15T12:30:14Z",
+      "reported_at": "2026-01-15T10:20:05Z"
+    },
+    {
+      "id": "b525e792-0f56-49f6-8daf-3964c0d5c805",
+      "latitude": -34.933917,
+      "longitude": 138.526789,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-15T12:30:14Z",
+      "reported_at": "2026-01-15T11:56:32Z"
     }
   ]
 }
