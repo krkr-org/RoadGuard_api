@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "d171eb9c-7a9a-4c2c-8931-894199196d68",
-      "latitude": -34.953575,
-      "longitude": 138.630723,
+      "id": "a5ef24cf-fd12-4f2c-8dfe-7a0d77722571",
+      "latitude": -34.953522,
+      "longitude": 138.631727,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T04:46:23Z"
-    },
-    {
-      "id": "a418e8ca-63fa-49ab-ab52-71c681d71663",
-      "latitude": -34.742942,
-      "longitude": 138.648098,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T08:05:55Z"
-    },
-    {
-      "id": "1fbba025-4ff6-456a-ae33-0c1bdea2cf66",
-      "latitude": -34.898643,
-      "longitude": 138.612916,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T06:52:18Z"
-    },
-    {
-      "id": "284a7295-13f3-423c-b8f5-412e5e3eb4a5",
-      "latitude": -34.920355,
-      "longitude": 138.653347,
-      "street": "The Parade",
-      "city": "Kensington Park",
-      "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T05:44:54Z"
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T05:47:24Z"
     },
     {
       "id": "38811d90-f9b7-432d-a778-7150f2c0e08f",
@@ -47,18 +17,28 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
+      "timestamp": "2026-01-15T09:00:19Z",
       "reported_at": "2026-01-15T06:15:10Z"
     },
     {
-      "id": "d26df0e4-d5b4-4e45-8af1-4b51770e19f6",
-      "latitude": -34.931078,
-      "longitude": 138.668464,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
+      "id": "1fbba025-4ff6-456a-ae33-0c1bdea2cf66",
+      "latitude": -34.898643,
+      "longitude": 138.612916,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T05:04:02Z"
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T06:52:18Z"
+    },
+    {
+      "id": "a6e2178b-d489-45c6-a5f1-5fe6386b442e",
+      "latitude": -34.908719,
+      "longitude": 138.611702,
+      "street": "Bundeys Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T08:48:24Z"
     },
     {
       "id": "55ff56ae-cf07-4af1-8e2e-588fab35eee2",
@@ -67,8 +47,18 @@
       "street": "Wright St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
+      "timestamp": "2026-01-15T09:00:19Z",
       "reported_at": "2026-01-15T05:37:06Z"
+    },
+    {
+      "id": "284a7295-13f3-423c-b8f5-412e5e3eb4a5",
+      "latitude": -34.920355,
+      "longitude": 138.653347,
+      "street": "The Parade",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T05:44:54Z"
     },
     {
       "id": "6091278c-ddf0-4b77-9d75-9a805d3a9c6f",
@@ -77,48 +67,38 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
+      "timestamp": "2026-01-15T09:00:19Z",
       "reported_at": "2026-01-15T05:11:54Z"
     },
     {
-      "id": "d32a67a6-ed56-4619-bbf3-6addf4fe1d2c",
-      "latitude": -34.925057,
-      "longitude": 138.614501,
+      "id": "5e869553-64cd-43ff-945c-6c0881d231b1",
+      "latitude": -34.925121,
+      "longitude": 138.615011,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T07:19:31Z"
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T07:10:55Z"
     },
     {
-      "id": "d7c9e223-1a64-45ef-b9f8-0d517bceab8d",
-      "latitude": -34.809196,
-      "longitude": 138.501406,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T08:00:00Z"
-    },
-    {
-      "id": "6ccb4939-d0e6-4e74-a5e6-1ff99d373296",
-      "latitude": -34.964149,
-      "longitude": 138.633869,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T06:45:23Z"
-    },
-    {
-      "id": "d77d1068-1c2c-4912-b50e-ef87f9f0e077",
-      "latitude": -34.901172,
-      "longitude": 138.606152,
+      "id": "f462d86f-267d-4cc1-b035-462941d3b045",
+      "latitude": -34.900426,
+      "longitude": 138.603472,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T08:30:16Z",
-      "reported_at": "2026-01-15T07:20:37Z"
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T07:46:54Z"
+    },
+    {
+      "id": "6739e9d4-6260-484b-8d76-87fcb053d67c",
+      "latitude": -34.764619,
+      "longitude": 138.590003,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-01-15T09:00:19Z",
+      "reported_at": "2026-01-15T08:52:26Z"
     }
   ]
 }
