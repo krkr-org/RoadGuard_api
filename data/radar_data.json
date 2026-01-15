@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "a5ef24cf-fd12-4f2c-8dfe-7a0d77722571",
-      "latitude": -34.953522,
-      "longitude": 138.631727,
-      "street": "Wattle St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
-      "reported_at": "2026-01-15T05:47:24Z"
-    },
-    {
       "id": "66cb2a5a-5aa2-4758-88a8-41d16fdabd9d",
       "latitude": -34.903634,
       "longitude": 138.599764,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
+      "timestamp": "2026-01-15T10:30:15Z",
       "reported_at": "2026-01-15T07:14:38Z"
+    },
+    {
+      "id": "284a7295-13f3-423c-b8f5-412e5e3eb4a5",
+      "latitude": -34.920355,
+      "longitude": 138.653347,
+      "street": "The Parade",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T05:44:54Z"
     },
     {
       "id": "1fbba025-4ff6-456a-ae33-0c1bdea2cf66",
@@ -27,18 +27,28 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
+      "timestamp": "2026-01-15T10:30:15Z",
       "reported_at": "2026-01-15T06:52:18Z"
     },
     {
-      "id": "6091278c-ddf0-4b77-9d75-9a805d3a9c6f",
-      "latitude": -34.926145,
-      "longitude": 138.632359,
+      "id": "d00eeac8-4ee8-4c57-8108-70ccc0c69332",
+      "latitude": -34.93036,
+      "longitude": 138.668387,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T09:37:33Z"
+    },
+    {
+      "id": "d109ae31-b3c1-4ed1-a6c8-4e9831d399ce",
+      "latitude": -34.924944,
+      "longitude": 138.632269,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
-      "reported_at": "2026-01-15T05:11:54Z"
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T05:50:26Z"
     },
     {
       "id": "9ff1270f-207c-4468-888e-9e39ac4a2714",
@@ -47,18 +57,8 @@
       "street": "Bains Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
+      "timestamp": "2026-01-15T10:30:15Z",
       "reported_at": "2026-01-15T08:01:21Z"
-    },
-    {
-      "id": "2a4f750e-ecc5-42b1-8b26-1d83052de95d",
-      "latitude": -34.925038,
-      "longitude": 138.587653,
-      "street": "West Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
-      "reported_at": "2026-01-15T09:38:36Z"
     },
     {
       "id": "d32a67a6-ed56-4619-bbf3-6addf4fe1d2c",
@@ -67,28 +67,68 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
+      "timestamp": "2026-01-15T10:30:15Z",
       "reported_at": "2026-01-15T07:19:31Z"
     },
     {
-      "id": "dde7380b-6e92-4b55-9826-f1fe938f37a6",
-      "latitude": -34.836818,
-      "longitude": 138.501977,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
+      "id": "2d639325-04c0-4ef1-bb04-49d477b4b3c3",
+      "latitude": -34.809502,
+      "longitude": 138.673145,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
-      "reported_at": "2026-01-15T09:40:06Z"
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T10:11:37Z"
     },
     {
-      "id": "bca9b69b-b2d3-4aef-aa1f-7b55ec3b0854",
-      "latitude": -34.900603,
-      "longitude": 138.604114,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "906eb906-c1bd-43b7-8d4d-67d30ce2f0ce",
+      "latitude": -34.964154,
+      "longitude": 138.635281,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-15T10:00:18Z",
-      "reported_at": "2026-01-15T08:33:43Z"
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T09:24:07Z"
+    },
+    {
+      "id": "916e73e6-570a-436c-a15c-f52b1ab699a4",
+      "latitude": -34.900871,
+      "longitude": 138.565035,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T10:17:19Z"
+    },
+    {
+      "id": "a7138bac-8b8b-4ee6-8c03-de1b8a5bc38e",
+      "latitude": -34.939198,
+      "longitude": 138.643435,
+      "street": "B26 - Greenhill Rd",
+      "city": "Tusmore",
+      "type": "mobile",
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T10:18:10Z"
+    },
+    {
+      "id": "577a8cf7-fa1c-4242-a230-fb4a06fc6ebb",
+      "latitude": -34.805089,
+      "longitude": 138.665461,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T10:10:45Z"
+    },
+    {
+      "id": "7a29380a-7d9a-423d-ae26-c81d365261d4",
+      "latitude": -34.905632,
+      "longitude": 138.572145,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-01-15T10:30:15Z",
+      "reported_at": "2026-01-15T10:15:49Z"
     }
   ]
 }
