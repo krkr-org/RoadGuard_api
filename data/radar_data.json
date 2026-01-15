@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "532286d6-5ac9-4faf-8f20-3453dce7bbc0",
+      "latitude": -34.79672,
+      "longitude": 138.649422,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-15T11:30:15Z",
+      "reported_at": "2026-01-15T08:16:29Z"
+    },
+    {
       "id": "66cb2a5a-5aa2-4758-88a8-41d16fdabd9d",
       "latitude": -34.903634,
       "longitude": 138.599764,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
+      "timestamp": "2026-01-15T11:30:15Z",
       "reported_at": "2026-01-15T07:14:38Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
+      "timestamp": "2026-01-15T11:30:15Z",
       "reported_at": "2026-01-15T09:37:33Z"
     },
     {
@@ -27,8 +37,18 @@
       "street": "Days Rd",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
+      "timestamp": "2026-01-15T11:30:15Z",
       "reported_at": "2026-01-15T10:42:10Z"
+    },
+    {
+      "id": "5e869553-64cd-43ff-945c-6c0881d231b1",
+      "latitude": -34.925121,
+      "longitude": 138.615011,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-15T11:30:15Z",
+      "reported_at": "2026-01-15T07:10:55Z"
     },
     {
       "id": "9ff1270f-207c-4468-888e-9e39ac4a2714",
@@ -37,28 +57,8 @@
       "street": "Bains Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
+      "timestamp": "2026-01-15T11:30:15Z",
       "reported_at": "2026-01-15T08:01:21Z"
-    },
-    {
-      "id": "d32a67a6-ed56-4619-bbf3-6addf4fe1d2c",
-      "latitude": -34.925057,
-      "longitude": 138.614501,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
-      "reported_at": "2026-01-15T07:19:31Z"
-    },
-    {
-      "id": "4b3ac657-bed0-4160-876d-a1ebbc30d425",
-      "latitude": -34.899332,
-      "longitude": 138.588621,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
-      "reported_at": "2026-01-15T10:49:41Z"
     },
     {
       "id": "20ce5c77-ebb5-4826-a3da-e3e0d08336fa",
@@ -67,7 +67,7 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
+      "timestamp": "2026-01-15T11:30:15Z",
       "reported_at": "2026-01-15T10:35:43Z"
     },
     {
@@ -77,38 +77,28 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
+      "timestamp": "2026-01-15T11:30:15Z",
       "reported_at": "2026-01-15T08:12:37Z"
     },
     {
-      "id": "f9a3f6c4-fab6-4307-9c1e-c979fb3b0242",
-      "latitude": -34.940294,
-      "longitude": 138.624618,
-      "street": "A1 - Fullarton Rd",
-      "city": "Glenside",
+      "id": "50f9b050-6f30-4b96-afdb-fb360d0a2c60",
+      "latitude": -34.739728,
+      "longitude": 138.676232,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
-      "reported_at": "2026-01-15T10:44:36Z"
+      "timestamp": "2026-01-15T11:30:15Z",
+      "reported_at": "2026-01-15T11:13:39Z"
     },
     {
-      "id": "a7138bac-8b8b-4ee6-8c03-de1b8a5bc38e",
-      "latitude": -34.939198,
-      "longitude": 138.643435,
-      "street": "B26 - Greenhill Rd",
-      "city": "Tusmore",
+      "id": "4a6d49f7-a1ab-4987-bb54-1675a72a5bb4",
+      "latitude": -35.12296,
+      "longitude": 138.507131,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
-      "reported_at": "2026-01-15T10:18:10Z"
-    },
-    {
-      "id": "ea2eadae-2421-4fe4-832a-b81190f55c34",
-      "latitude": -34.971728,
-      "longitude": 138.650908,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-01-15T11:00:18Z",
-      "reported_at": "2026-01-15T10:09:06Z"
+      "timestamp": "2026-01-15T11:30:15Z",
+      "reported_at": "2026-01-15T11:14:55Z"
     }
   ]
 }
