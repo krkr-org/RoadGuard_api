@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "21fbc206-f738-4bd1-aab6-10e9d1733c23",
-      "latitude": -34.736465,
-      "longitude": 138.644755,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "ff99ba32-22d6-4b1e-a978-a5562e7d7bd6",
+      "latitude": -35.004442,
+      "longitude": 138.565629,
+      "street": "Bradley Gr",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-15T21:24:55Z"
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-16T01:05:47Z"
     },
     {
       "id": "6a8ccd62-9c82-4ac8-96db-b1b1a44fff2d",
@@ -17,8 +17,18 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
+      "timestamp": "2026-01-16T02:30:14Z",
       "reported_at": "2026-01-15T22:45:25Z"
+    },
+    {
+      "id": "21fbc206-f738-4bd1-aab6-10e9d1733c23",
+      "latitude": -34.736465,
+      "longitude": 138.644755,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-15T21:24:55Z"
     },
     {
       "id": "2ad57360-4688-4768-9fa1-1e5ce6770a8a",
@@ -27,68 +37,38 @@
       "street": "Fairfield Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
+      "timestamp": "2026-01-16T02:30:14Z",
       "reported_at": "2026-01-16T01:09:42Z"
     },
     {
-      "id": "ff99ba32-22d6-4b1e-a978-a5562e7d7bd6",
-      "latitude": -35.004442,
-      "longitude": 138.565629,
-      "street": "Bradley Gr",
-      "city": "Mitchell Park",
+      "id": "81e2196b-f4bc-4d18-bc57-44ecbf268846",
+      "latitude": -34.949073,
+      "longitude": 138.579443,
+      "street": "Leader St",
+      "city": "Forestville",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-16T01:05:47Z"
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-16T02:17:56Z"
     },
     {
-      "id": "f5507541-eaa4-40b8-aa8b-351d606e861f",
-      "latitude": -35.023718,
-      "longitude": 138.562604,
-      "street": "Unknown Street",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-16T01:34:22Z"
-    },
-    {
-      "id": "740b21ef-6e53-42fc-9c2c-121ba1d3c4f9",
-      "latitude": -34.741615,
-      "longitude": 138.672434,
+      "id": "4a9aaf8c-31b7-4b6e-bcb8-a221f0eb6e4f",
+      "latitude": -34.741687,
+      "longitude": 138.670654,
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-16T00:57:02Z"
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-16T00:56:23Z"
     },
     {
-      "id": "65464838-c750-4e5a-a9f7-eaa8898785f2",
-      "latitude": -34.747309,
-      "longitude": 138.68303,
+      "id": "9e222185-95a1-461c-afbb-bd34048509c9",
+      "latitude": -34.748976,
+      "longitude": 138.68219,
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-16T00:49:59Z"
-    },
-    {
-      "id": "6906387e-6b27-44bf-a70d-6e447e529872",
-      "latitude": -35.035061,
-      "longitude": 138.813996,
-      "street": "Main St",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-16T01:42:12Z"
-    },
-    {
-      "id": "55d061f6-ec0d-4d71-bca1-d8b15f3293b4",
-      "latitude": -34.709098,
-      "longitude": 138.682946,
-      "street": "Tolmer Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-15T22:19:57Z"
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-16T01:23:40Z"
     },
     {
       "id": "372be486-574e-4fb3-ad3c-a33ed12750ba",
@@ -97,18 +77,28 @@
       "street": "Yorktown Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
+      "timestamp": "2026-01-16T02:30:14Z",
       "reported_at": "2026-01-16T00:20:56Z"
     },
     {
-      "id": "deb05f71-3a6a-4a92-a62a-3a82e728d571",
-      "latitude": -34.809609,
-      "longitude": 138.63088,
-      "street": "A20 - Main North Rd",
-      "city": "Mawson Lakes",
+      "id": "55d061f6-ec0d-4d71-bca1-d8b15f3293b4",
+      "latitude": -34.709098,
+      "longitude": 138.682946,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-16T02:00:17Z",
-      "reported_at": "2026-01-16T01:35:30Z"
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-15T22:19:57Z"
+    },
+    {
+      "id": "4f21910d-f771-4370-99bc-3a0aa65699d3",
+      "latitude": -34.689606,
+      "longitude": 138.689461,
+      "street": "A20 - Main North Rd",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-16T02:30:14Z",
+      "reported_at": "2026-01-16T02:05:30Z"
     }
   ]
 }
