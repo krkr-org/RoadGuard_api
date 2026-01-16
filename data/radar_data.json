@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "21fbc206-f738-4bd1-aab6-10e9d1733c23",
-      "latitude": -34.736465,
-      "longitude": 138.644755,
+      "id": "dc32dcfc-a3de-4f66-8d26-906c10274c4f",
+      "latitude": -34.736559,
+      "longitude": 138.644972,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-16T00:00:18Z",
-      "reported_at": "2026-01-15T21:24:55Z"
+      "timestamp": "2026-01-16T00:30:14Z",
+      "reported_at": "2026-01-15T21:02:28Z"
     },
     {
       "id": "6a8ccd62-9c82-4ac8-96db-b1b1a44fff2d",
@@ -17,18 +17,8 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-01-16T00:00:18Z",
+      "timestamp": "2026-01-16T00:30:14Z",
       "reported_at": "2026-01-15T22:45:25Z"
-    },
-    {
-      "id": "55d061f6-ec0d-4d71-bca1-d8b15f3293b4",
-      "latitude": -34.709098,
-      "longitude": 138.682946,
-      "street": "Tolmer Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-01-16T00:00:18Z",
-      "reported_at": "2026-01-15T22:19:57Z"
     },
     {
       "id": "df55dbfb-f51f-426a-848f-c7aca0a75bf7",
@@ -37,18 +27,58 @@
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-01-16T00:00:18Z",
+      "timestamp": "2026-01-16T00:30:14Z",
       "reported_at": "2026-01-15T21:07:42Z"
     },
     {
-      "id": "a2088b7d-62ed-4c1a-a243-d8f33df62d1d",
-      "latitude": -34.969537,
-      "longitude": 138.516963,
+      "id": "55d061f6-ec0d-4d71-bca1-d8b15f3293b4",
+      "latitude": -34.709098,
+      "longitude": 138.682946,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-16T00:30:14Z",
+      "reported_at": "2026-01-15T22:19:57Z"
+    },
+    {
+      "id": "7b82c4bf-7a7b-47c0-a5de-a822545f8f29",
+      "latitude": -35.130741,
+      "longitude": 138.523983,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-16T00:30:14Z",
+      "reported_at": "2026-01-15T23:47:22Z"
+    },
+    {
+      "id": "d47b56d2-3b19-4660-9255-fa334769a41a",
+      "latitude": -34.972122,
+      "longitude": 138.517238,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-16T00:00:18Z",
-      "reported_at": "2026-01-15T23:21:46Z"
+      "timestamp": "2026-01-16T00:30:14Z",
+      "reported_at": "2026-01-15T23:21:25Z"
+    },
+    {
+      "id": "99d8b835-2860-4486-b09a-0747ed086b1f",
+      "latitude": -34.909092,
+      "longitude": 138.549601,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-01-16T00:30:14Z",
+      "reported_at": "2026-01-15T23:57:44Z"
+    },
+    {
+      "id": "3122388c-071e-4aec-bdea-615fadf04b93",
+      "latitude": -34.779455,
+      "longitude": 138.626204,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-16T00:30:14Z",
+      "reported_at": "2026-01-16T00:02:28Z"
     }
   ]
 }
