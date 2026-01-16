@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "21fbc206-f738-4bd1-aab6-10e9d1733c23",
+      "latitude": -34.736465,
+      "longitude": 138.644755,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-16T00:00:18Z",
+      "reported_at": "2026-01-15T21:24:55Z"
+    },
+    {
       "id": "6a8ccd62-9c82-4ac8-96db-b1b1a44fff2d",
       "latitude": -34.698708,
       "longitude": 138.713891,
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-01-15T23:30:15Z",
+      "timestamp": "2026-01-16T00:00:18Z",
       "reported_at": "2026-01-15T22:45:25Z"
-    },
-    {
-      "id": "dc32dcfc-a3de-4f66-8d26-906c10274c4f",
-      "latitude": -34.736559,
-      "longitude": 138.644972,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-15T23:30:15Z",
-      "reported_at": "2026-01-15T21:02:28Z"
-    },
-    {
-      "id": "df55dbfb-f51f-426a-848f-c7aca0a75bf7",
-      "latitude": -34.749199,
-      "longitude": 138.682001,
-      "street": "Black Top Rd",
-      "city": "Hillbank",
-      "type": "mobile",
-      "timestamp": "2026-01-15T23:30:15Z",
-      "reported_at": "2026-01-15T21:07:42Z"
-    },
-    {
-      "id": "0f18baf0-864d-4dd5-b0c6-9812858f381f",
-      "latitude": -34.856272,
-      "longitude": 138.478419,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
-      "type": "mobile",
-      "timestamp": "2026-01-15T23:30:15Z",
-      "reported_at": "2026-01-15T22:47:02Z"
     },
     {
       "id": "55d061f6-ec0d-4d71-bca1-d8b15f3293b4",
@@ -47,18 +27,28 @@
       "street": "Tolmer Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-15T23:30:15Z",
+      "timestamp": "2026-01-16T00:00:18Z",
       "reported_at": "2026-01-15T22:19:57Z"
     },
     {
-      "id": "d47b56d2-3b19-4660-9255-fa334769a41a",
-      "latitude": -34.972122,
-      "longitude": 138.517238,
+      "id": "df55dbfb-f51f-426a-848f-c7aca0a75bf7",
+      "latitude": -34.749199,
+      "longitude": 138.682001,
+      "street": "Black Top Rd",
+      "city": "Hillbank",
+      "type": "mobile",
+      "timestamp": "2026-01-16T00:00:18Z",
+      "reported_at": "2026-01-15T21:07:42Z"
+    },
+    {
+      "id": "a2088b7d-62ed-4c1a-a243-d8f33df62d1d",
+      "latitude": -34.969537,
+      "longitude": 138.516963,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-15T23:30:15Z",
-      "reported_at": "2026-01-15T23:21:25Z"
+      "timestamp": "2026-01-16T00:00:18Z",
+      "reported_at": "2026-01-15T23:21:46Z"
     }
   ]
 }
