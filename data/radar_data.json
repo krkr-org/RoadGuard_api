@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "37cc4b29-4fce-4186-bb0c-f809739b54b7",
+      "latitude": -34.933987,
+      "longitude": 138.672992,
+      "street": "Wurinya Av",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-01-16T05:00:16Z",
+      "reported_at": "2026-01-16T03:20:45Z"
+    },
+    {
       "id": "ff99ba32-22d6-4b1e-a978-a5562e7d7bd6",
       "latitude": -35.004442,
       "longitude": 138.565629,
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
+      "timestamp": "2026-01-16T05:00:16Z",
       "reported_at": "2026-01-16T01:05:47Z"
     },
     {
@@ -17,28 +27,8 @@
       "street": "Fairfield Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
+      "timestamp": "2026-01-16T05:00:16Z",
       "reported_at": "2026-01-16T01:09:42Z"
-    },
-    {
-      "id": "c48713ad-843a-4971-bd0b-24f143a6e011",
-      "latitude": -34.797475,
-      "longitude": 138.60153,
-      "street": "George St",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
-      "reported_at": "2026-01-16T04:13:54Z"
-    },
-    {
-      "id": "65464838-c750-4e5a-a9f7-eaa8898785f2",
-      "latitude": -34.747309,
-      "longitude": 138.68303,
-      "street": "Black Top Rd",
-      "city": "Hillbank",
-      "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
-      "reported_at": "2026-01-16T00:49:59Z"
     },
     {
       "id": "740b21ef-6e53-42fc-9c2c-121ba1d3c4f9",
@@ -47,18 +37,8 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
+      "timestamp": "2026-01-16T05:00:16Z",
       "reported_at": "2026-01-16T00:57:02Z"
-    },
-    {
-      "id": "37737272-54e5-4ada-9055-e88f98031494",
-      "latitude": -34.822799,
-      "longitude": 138.499782,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
-      "reported_at": "2026-01-16T04:27:00Z"
     },
     {
       "id": "ab1a2b9d-c48a-4c07-b6c5-8ffc66bfd086",
@@ -67,8 +47,18 @@
       "street": "A1 - Main North Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-16T04:30:16Z",
+      "timestamp": "2026-01-16T05:00:16Z",
       "reported_at": "2026-01-16T04:09:06Z"
+    },
+    {
+      "id": "011e4eb0-47d0-40e9-a087-5d0da5ce913b",
+      "latitude": -34.930644,
+      "longitude": 138.517634,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-16T05:00:16Z",
+      "reported_at": "2026-01-16T04:50:28Z"
     }
   ]
 }
