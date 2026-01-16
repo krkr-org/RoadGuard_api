@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "2ad57360-4688-4768-9fa1-1e5ce6770a8a",
-      "latitude": -34.734867,
-      "longitude": 138.666838,
-      "street": "Fairfield Rd",
-      "city": "Elizabeth Grove",
-      "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-16T01:09:42Z"
-    },
-    {
       "id": "ff99ba32-22d6-4b1e-a978-a5562e7d7bd6",
       "latitude": -35.004442,
       "longitude": 138.565629,
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
+      "timestamp": "2026-01-16T03:30:15Z",
       "reported_at": "2026-01-16T01:05:47Z"
+    },
+    {
+      "id": "2ad57360-4688-4768-9fa1-1e5ce6770a8a",
+      "latitude": -34.734867,
+      "longitude": 138.666838,
+      "street": "Fairfield Rd",
+      "city": "Elizabeth Grove",
+      "type": "mobile",
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T01:09:42Z"
     },
     {
       "id": "b5bdb8de-c4f3-42b1-9473-d97024aa5e8f",
@@ -27,48 +27,48 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
+      "timestamp": "2026-01-16T03:30:15Z",
       "reported_at": "2026-01-16T02:45:38Z"
     },
     {
-      "id": "21fbc206-f738-4bd1-aab6-10e9d1733c23",
-      "latitude": -34.736465,
-      "longitude": 138.644755,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "be4a6aef-f04f-4f5a-b2e6-3c251196d354",
+      "latitude": -35.08118,
+      "longitude": 138.583481,
+      "street": "Windebanks Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-15T21:24:55Z"
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T03:00:12Z"
     },
     {
-      "id": "6e40053c-6aa9-468b-bd5e-44fb4f42af1e",
-      "latitude": -34.920278,
-      "longitude": 138.582643,
-      "street": "Port Rd",
+      "id": "8853b975-5eb1-4267-b731-d3585f4ead09",
+      "latitude": -34.879803,
+      "longitude": 138.635502,
+      "street": "O.G Rd",
+      "city": "Klemzig",
+      "type": "mobile",
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T02:56:09Z"
+    },
+    {
+      "id": "72d45558-37d7-4071-aac9-43314dc12c14",
+      "latitude": -34.924037,
+      "longitude": 138.605174,
+      "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-16T02:39:51Z"
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T02:51:05Z"
     },
     {
-      "id": "65464838-c750-4e5a-a9f7-eaa8898785f2",
-      "latitude": -34.747309,
-      "longitude": 138.68303,
-      "street": "Black Top Rd",
-      "city": "Hillbank",
+      "id": "6b32460d-16a2-47ec-a42c-89a376579802",
+      "latitude": -34.92796,
+      "longitude": 138.612262,
+      "street": "Wakefield St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-16T00:49:59Z"
-    },
-    {
-      "id": "fca8f0ba-ebd7-4ac0-aabf-e8acf41770b3",
-      "latitude": -34.92604,
-      "longitude": 138.658975,
-      "street": "Kensington Rd",
-      "city": "Kensington Park",
-      "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-16T02:45:37Z"
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T03:14:57Z"
     },
     {
       "id": "4a9aaf8c-31b7-4b6e-bcb8-a221f0eb6e4f",
@@ -77,8 +77,18 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
+      "timestamp": "2026-01-16T03:30:15Z",
       "reported_at": "2026-01-16T00:56:23Z"
+    },
+    {
+      "id": "9e222185-95a1-461c-afbb-bd34048509c9",
+      "latitude": -34.748976,
+      "longitude": 138.68219,
+      "street": "Black Top Rd",
+      "city": "Hillbank",
+      "type": "mobile",
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T01:23:40Z"
     },
     {
       "id": "372be486-574e-4fb3-ad3c-a33ed12750ba",
@@ -87,28 +97,38 @@
       "street": "Yorktown Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
+      "timestamp": "2026-01-16T03:30:15Z",
       "reported_at": "2026-01-16T00:20:56Z"
     },
     {
-      "id": "f526ca04-3a1c-42ca-b022-d0f2892506ce",
-      "latitude": -34.692071,
-      "longitude": 138.568248,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "1671088d-2bb7-4067-a46c-48d980d20ccb",
+      "latitude": -34.843822,
+      "longitude": 138.588254,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-16T02:30:25Z"
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T03:13:10Z"
     },
     {
-      "id": "38858c76-a4f8-421a-bf10-712e92e68ba9",
-      "latitude": -34.929822,
-      "longitude": 138.623826,
-      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "id": "e7512385-2175-4ba2-9063-d4f4e838e36d",
+      "latitude": -34.92711,
+      "longitude": 138.621903,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-16T03:00:16Z",
-      "reported_at": "2026-01-16T02:32:33Z"
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T03:16:37Z"
+    },
+    {
+      "id": "4e811537-f6f6-4c71-970a-50e722b05468",
+      "latitude": -34.956519,
+      "longitude": 138.566215,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-01-16T03:30:15Z",
+      "reported_at": "2026-01-16T03:01:22Z"
     }
   ]
 }
