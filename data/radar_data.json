@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "37cc4b29-4fce-4186-bb0c-f809739b54b7",
-      "latitude": -34.933987,
-      "longitude": 138.672992,
-      "street": "Wurinya Av",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T03:20:45Z"
-    },
-    {
       "id": "b3d85296-4097-4d3b-909e-934f1988e2be",
       "latitude": -34.876909,
       "longitude": 138.673403,
       "street": "Jan St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
+      "timestamp": "2026-01-16T07:30:15Z",
       "reported_at": "2026-01-16T03:46:51Z"
-    },
-    {
-      "id": "da757167-c26c-45f9-ab6c-9d1256a5bce8",
-      "latitude": -34.855923,
-      "longitude": 138.506619,
-      "street": "Webb St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:17:43Z"
     },
     {
       "id": "15ab82a2-40d5-49e2-af10-3e427d2771fd",
@@ -37,38 +17,48 @@
       "street": "Coral Sea Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
+      "timestamp": "2026-01-16T07:30:15Z",
       "reported_at": "2026-01-16T05:29:00Z"
     },
     {
-      "id": "58c8b080-7a42-4f6c-bacb-e53cb9707fa4",
-      "latitude": -34.92822,
-      "longitude": 138.543021,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
+      "id": "da757167-c26c-45f9-ab6c-9d1256a5bce8",
+      "latitude": -34.855923,
+      "longitude": 138.506619,
+      "street": "Webb St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T04:46:51Z"
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T06:17:43Z"
     },
     {
-      "id": "03d37670-a233-44c2-b225-8d59615d0dd0",
-      "latitude": -34.85984,
-      "longitude": 138.529239,
+      "id": "0c55878e-0820-424c-8337-ac263f33642d",
+      "latitude": -34.859067,
+      "longitude": 138.529209,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T05:05:31Z"
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T05:29:47Z"
     },
     {
-      "id": "0aaf08b4-4739-403f-9ed5-3a0cd47d2c01",
-      "latitude": -34.970912,
-      "longitude": 138.582094,
-      "street": "Winston Av",
-      "city": "Clarence Gardens",
+      "id": "43984ec4-16d0-458e-8810-5ce85d8cdc3b",
+      "latitude": -34.695902,
+      "longitude": 138.71283,
+      "street": "Somerset Gr",
+      "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:56:46Z"
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T07:17:30Z"
+    },
+    {
+      "id": "17813b4b-ef35-462f-a539-1792856e45f5",
+      "latitude": -34.92506,
+      "longitude": 138.614064,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T07:14:20Z"
     },
     {
       "id": "f4268b21-5939-40f5-b256-fc11b77e1f6f",
@@ -77,48 +67,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
+      "timestamp": "2026-01-16T07:30:15Z",
       "reported_at": "2026-01-16T06:31:37Z"
     },
     {
-      "id": "8c579b07-3d53-45b3-81e1-0d888f8a8557",
-      "latitude": -34.742656,
-      "longitude": 138.657579,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "dca97cb6-b8a0-4d18-aaad-738a2ceec988",
+      "latitude": -35.024694,
+      "longitude": 138.541459,
+      "street": "Morphett Rd",
+      "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:30:14Z"
-    },
-    {
-      "id": "9b04a290-900d-4c1e-8e17-569999e04ffd",
-      "latitude": -34.824342,
-      "longitude": 138.63006,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:44:06Z"
-    },
-    {
-      "id": "0ac45ff3-ee66-4e07-b765-65e70bf9db0f",
-      "latitude": -34.997504,
-      "longitude": 138.557356,
-      "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:50:48Z"
-    },
-    {
-      "id": "1d8e51fe-527e-4606-8f99-a8e2c5fb9860",
-      "latitude": -34.994252,
-      "longitude": 138.556962,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:54:10Z"
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T07:24:40Z"
     },
     {
       "id": "cfc5e736-c3e7-41df-94eb-c62fd3ff4615",
@@ -127,38 +87,38 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
+      "timestamp": "2026-01-16T07:30:15Z",
       "reported_at": "2026-01-16T06:43:13Z"
     },
     {
-      "id": "4dac4054-5ffc-4a6c-ae1d-19f09f5c9864",
-      "latitude": -34.841608,
-      "longitude": 138.599524,
+      "id": "f0d1c53e-e18c-4b0b-b038-d0700150c459",
+      "latitude": -34.966392,
+      "longitude": 138.589038,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T06:58:57Z"
+    },
+    {
+      "id": "3c8ef673-d859-4788-b8af-8804ff8ad3f5",
+      "latitude": -34.839903,
+      "longitude": 138.599395,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T05:52:46Z"
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T05:16:22Z"
     },
     {
-      "id": "ea0a8ec7-dcf0-4343-bbbf-f8859a1d3ddd",
-      "latitude": -34.860897,
-      "longitude": 138.601027,
+      "id": "adcd56fb-ab35-4113-bba5-412399a863d2",
+      "latitude": -34.86077,
+      "longitude": 138.601132,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:28:32Z"
-    },
-    {
-      "id": "2f096b61-8eb8-496b-8af6-79fd27976460",
-      "latitude": -34.995833,
-      "longitude": 138.740292,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-01-16T07:00:17Z",
-      "reported_at": "2026-01-16T06:58:11Z"
+      "timestamp": "2026-01-16T07:30:15Z",
+      "reported_at": "2026-01-16T07:06:17Z"
     }
   ]
 }
