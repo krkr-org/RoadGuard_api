@@ -1,134 +1,94 @@
 {
   "radars": [
     {
-      "id": "abde08b3-ade6-414a-b0d5-cd57e072387e",
-      "latitude": -34.951387,
-      "longitude": 138.550989,
-      "street": "Harvey Av",
-      "city": "Netley",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T00:38:32Z"
-    },
-    {
-      "id": "098af35a-4bbd-4ba8-82a7-b6695695f4ae",
-      "latitude": -34.95994,
-      "longitude": 138.550119,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-18T22:24:33Z"
-    },
-    {
       "id": "49a12d02-4618-44b1-9d85-1f73306c79c8",
       "latitude": -34.96835,
       "longitude": 138.543579,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
+      "timestamp": "2026-01-19T05:00:16Z",
       "reported_at": "2026-01-19T02:55:59Z"
     },
     {
-      "id": "3edce6e8-6672-437e-bded-6000ca530a87",
-      "latitude": -34.98549,
-      "longitude": 138.566016,
-      "street": "Adelaide Tce",
-      "city": "Edwardstown",
+      "id": "12585950-8995-49b5-8dde-5a4f86faf471",
+      "latitude": -34.959886,
+      "longitude": 138.551212,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T02:03:42Z"
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-18T23:13:06Z"
     },
     {
-      "id": "91b7f22c-7e3f-4e52-b91a-77fee5fbb8bc",
-      "latitude": -34.921404,
-      "longitude": 138.565842,
-      "street": "Wainhouse St",
-      "city": "Torrensville",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:07:46Z"
-    },
-    {
-      "id": "fe79eadf-0742-4834-89aa-aab50d4ba197",
-      "latitude": -34.979899,
-      "longitude": 138.567297,
-      "street": "Raglan Av",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-18T21:45:27Z"
-    },
-    {
-      "id": "7c4c8685-ea78-4b5f-bcb3-cc975466df91",
-      "latitude": -34.689577,
-      "longitude": 138.637673,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:00:59Z"
-    },
-    {
-      "id": "8616e078-0c29-48a5-bdb4-228c51a46707",
-      "latitude": -35.124337,
-      "longitude": 138.523511,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:05:44Z"
-    },
-    {
-      "id": "1b72d013-3160-47d7-a331-fd8b28d218fe",
-      "latitude": -34.976331,
-      "longitude": 138.520227,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:17:29Z"
-    },
-    {
-      "id": "7312f767-a8a6-421e-ad38-b005b162074e",
-      "latitude": -34.927677,
-      "longitude": 138.623082,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "id": "a690135a-330c-4b4e-95f4-2270acf7a15f",
+      "latitude": -34.927006,
+      "longitude": 138.623569,
+      "street": "Fullarton Rd",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:25:08Z"
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:46:11Z"
     },
     {
-      "id": "d9f4405e-1994-4809-b04e-96305e7bd317",
-      "latitude": -34.844901,
-      "longitude": 138.672267,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Holden Hill",
+      "id": "729a2200-63e9-44ff-af38-dcc0631b2221",
+      "latitude": -34.865469,
+      "longitude": 138.547773,
+      "street": "Hanson Rd",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T03:01:55Z"
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:45:49Z"
     },
     {
-      "id": "870e03bd-bcb3-406f-a994-726bf6823320",
-      "latitude": -34.859723,
-      "longitude": 138.652137,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "8d780a71-d6d5-4de9-b3b7-a4b747364e1b",
+      "latitude": -34.92764,
+      "longitude": 138.536808,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:05:42Z"
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:57:31Z"
     },
     {
-      "id": "ca8bc725-3c86-4b93-b741-3a60cc2877f3",
-      "latitude": -35.044337,
-      "longitude": 138.817349,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "e09e7dfd-798c-4faa-9e7a-e38f020f9073",
+      "latitude": -34.966024,
+      "longitude": 138.5515,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-19T04:30:13Z",
-      "reported_at": "2026-01-19T04:22:03Z"
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:18:21Z"
+    },
+    {
+      "id": "490e45dd-401f-430f-88ff-dafbf116a775",
+      "latitude": -34.964866,
+      "longitude": 138.554771,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:30:08Z"
+    },
+    {
+      "id": "914deac2-3663-45d6-a86f-385b2421c986",
+      "latitude": -34.928614,
+      "longitude": 138.623623,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:25:51Z"
+    },
+    {
+      "id": "6513f5d3-9ff0-4077-b135-90a6d7b6f93b",
+      "latitude": -34.766996,
+      "longitude": 138.668707,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Plain",
+      "type": "mobile",
+      "timestamp": "2026-01-19T05:00:16Z",
+      "reported_at": "2026-01-19T04:49:39Z"
     }
   ]
 }
