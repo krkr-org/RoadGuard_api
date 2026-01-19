@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "8ad6d4ad-1d2d-4394-b22d-b0e053a1e00d",
-      "latitude": -34.712132,
-      "longitude": 138.675656,
+      "id": "097ce71e-3618-4c90-8431-2ad4b5974c35",
+      "latitude": -34.913423,
+      "longitude": 138.577629,
+      "street": "Phillips St",
+      "city": "Thebarton",
+      "type": "mobile",
+      "timestamp": "2026-01-19T21:00:15Z",
+      "reported_at": "2026-01-19T20:02:15Z"
+    },
+    {
+      "id": "733fd000-993a-4cd2-8556-f8befb8c67f0",
+      "latitude": -34.710858,
+      "longitude": 138.676452,
       "street": "A20 - Main North Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-19T20:30:14Z",
-      "reported_at": "2026-01-19T20:00:08Z"
+      "timestamp": "2026-01-19T21:00:15Z",
+      "reported_at": "2026-01-19T20:45:41Z"
     }
   ]
 }
