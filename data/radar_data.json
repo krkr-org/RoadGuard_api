@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "7e40c980-ef73-4ce3-8b1a-fd4f3a6cf4e2",
-      "latitude": -34.796347,
-      "longitude": 138.64881,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "605919c9-f9dd-4ff5-89f7-224032facb3d",
+      "latitude": -35.121583,
+      "longitude": 138.522765,
+      "street": "Ayleen Av",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
-      "reported_at": "2026-01-19T05:25:59Z"
+      "timestamp": "2026-01-19T09:00:16Z",
+      "reported_at": "2026-01-19T08:50:10Z"
     },
     {
       "id": "768cc7f7-ac1d-45a1-9f6f-e68e3fddfc14",
@@ -17,8 +17,18 @@
       "street": "Whites Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
+      "timestamp": "2026-01-19T09:00:16Z",
       "reported_at": "2026-01-19T05:51:10Z"
+    },
+    {
+      "id": "7e40c980-ef73-4ce3-8b1a-fd4f3a6cf4e2",
+      "latitude": -34.796347,
+      "longitude": 138.64881,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-19T09:00:16Z",
+      "reported_at": "2026-01-19T05:25:59Z"
     },
     {
       "id": "88a46e33-2e6b-4e31-ad7a-c0511b75b8a5",
@@ -27,7 +37,7 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
+      "timestamp": "2026-01-19T09:00:16Z",
       "reported_at": "2026-01-19T05:13:14Z"
     },
     {
@@ -37,28 +47,8 @@
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
+      "timestamp": "2026-01-19T09:00:16Z",
       "reported_at": "2026-01-19T06:43:51Z"
-    },
-    {
-      "id": "a11241d3-5977-46d8-83d1-a3aea14f61a5",
-      "latitude": -34.736976,
-      "longitude": 138.645937,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
-      "reported_at": "2026-01-19T05:06:30Z"
-    },
-    {
-      "id": "93677705-7bb9-424e-acd1-e6da64fdead2",
-      "latitude": -34.824397,
-      "longitude": 138.619927,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
-      "reported_at": "2026-01-19T08:20:16Z"
     },
     {
       "id": "1e2866bf-ad4b-4b9f-9d19-ae971decfbd6",
@@ -67,17 +57,27 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
+      "timestamp": "2026-01-19T09:00:16Z",
       "reported_at": "2026-01-19T06:21:15Z"
     },
     {
+      "id": "565b05ab-d750-4187-a2c5-a4326681b7dc",
+      "latitude": -34.805749,
+      "longitude": 138.602558,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-19T09:00:16Z",
+      "reported_at": "2026-01-19T08:24:02Z"
+    },
+    {
       "id": "3a4a2294-c71f-4468-adfe-09ce7a06b170",
-      "latitude": -34.728977,
-      "longitude": 138.58136,
+      "latitude": -34.728924,
+      "longitude": 138.58134,
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-01-19T08:30:14Z",
+      "timestamp": "2026-01-19T09:00:16Z",
       "reported_at": "2026-01-19T05:53:31Z"
     }
   ]
