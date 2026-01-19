@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "097ce71e-3618-4c90-8431-2ad4b5974c35",
-      "latitude": -34.913423,
-      "longitude": 138.577629,
-      "street": "Phillips St",
-      "city": "Thebarton",
+      "id": "754ebeae-f884-4bc2-9e75-55283058ef4f",
+      "latitude": -34.84913,
+      "longitude": 138.7021,
+      "street": "Valley Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-19T21:30:15Z",
-      "reported_at": "2026-01-19T20:02:15Z"
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T21:14:42Z"
+    },
+    {
+      "id": "35ce13a6-f373-4766-9dcd-de05aea9386d",
+      "latitude": -34.86269,
+      "longitude": 138.679945,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T21:41:19Z"
     },
     {
       "id": "07435ead-1650-4861-941f-d26682d727b6",
@@ -17,38 +27,58 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-01-19T21:30:15Z",
+      "timestamp": "2026-01-19T22:00:17Z",
       "reported_at": "2026-01-19T21:01:35Z"
     },
     {
-      "id": "2a0e7ca9-07f0-4bb3-9305-131dc28f4cc8",
-      "latitude": -34.859673,
-      "longitude": 138.679702,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
+      "id": "097ce71e-3618-4c90-8431-2ad4b5974c35",
+      "latitude": -34.913423,
+      "longitude": 138.577629,
+      "street": "Phillips St",
+      "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-01-19T21:30:15Z",
-      "reported_at": "2026-01-19T20:48:00Z"
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T20:02:15Z"
     },
     {
-      "id": "a542edf2-ea4e-4577-8c93-f7c1f6baf448",
-      "latitude": -34.7582,
-      "longitude": 138.761478,
-      "street": "One Tree Hill Rd",
-      "city": "Gould Creek",
+      "id": "323a19dc-067e-4504-b95e-fa214866c5f1",
+      "latitude": -34.882331,
+      "longitude": 138.700643,
+      "street": "Maryvale Rd",
+      "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-01-19T21:30:15Z",
-      "reported_at": "2026-01-19T21:09:05Z"
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T21:34:07Z"
     },
     {
-      "id": "0fe942b3-d259-444f-89e0-868a77872f32",
-      "latitude": -34.861277,
-      "longitude": 138.683174,
+      "id": "22dd2043-6328-4c0d-bc52-9bc2f7f295ab",
+      "latitude": -34.8321,
+      "longitude": 138.712528,
+      "street": "Smart Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T21:31:37Z"
+    },
+    {
+      "id": "7462f537-92c1-46e4-b8f9-3da61b8ff204",
+      "latitude": -34.953688,
+      "longitude": 138.517722,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T21:41:58Z"
+    },
+    {
+      "id": "118fb647-595f-43a8-b449-d644f222e539",
+      "latitude": -34.861037,
+      "longitude": 138.683753,
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-19T21:30:15Z",
-      "reported_at": "2026-01-19T21:04:03Z"
+      "timestamp": "2026-01-19T22:00:17Z",
+      "reported_at": "2026-01-19T21:05:08Z"
     },
     {
       "id": "568dcde2-6c59-49b2-86c3-b40fd7d41c55",
@@ -57,7 +87,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-19T21:30:15Z",
+      "timestamp": "2026-01-19T22:00:17Z",
       "reported_at": "2026-01-19T21:17:20Z"
     }
   ]
