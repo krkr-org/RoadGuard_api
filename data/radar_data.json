@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "7e40c980-ef73-4ce3-8b1a-fd4f3a6cf4e2",
-      "latitude": -34.796347,
-      "longitude": 138.64881,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "c3ae908f-e86a-4034-bfd7-cfabe92220fb",
+      "latitude": -34.759601,
+      "longitude": 138.66633,
+      "street": "Goddard Dr",
+      "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
-      "reported_at": "2026-01-19T05:25:59Z"
-    },
-    {
-      "id": "605919c9-f9dd-4ff5-89f7-224032facb3d",
-      "latitude": -35.121583,
-      "longitude": 138.522765,
-      "street": "Ayleen Av",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
-      "reported_at": "2026-01-19T08:50:10Z"
-    },
-    {
-      "id": "768cc7f7-ac1d-45a1-9f6f-e68e3fddfc14",
-      "latitude": -34.740969,
-      "longitude": 138.628748,
-      "street": "Whites Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
-      "reported_at": "2026-01-19T05:51:10Z"
-    },
-    {
-      "id": "b1186916-5114-41c2-8059-b2e3acf85d5b",
-      "latitude": -34.819453,
-      "longitude": 138.611423,
-      "street": "Mawson Lakes Bvd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
-      "reported_at": "2026-01-19T06:48:40Z"
+      "timestamp": "2026-01-19T10:00:16Z",
+      "reported_at": "2026-01-19T09:08:44Z"
     },
     {
       "id": "db8d75d3-7a6d-46c2-be3d-62370943603d",
@@ -47,18 +17,38 @@
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
+      "timestamp": "2026-01-19T10:00:16Z",
       "reported_at": "2026-01-19T06:43:51Z"
     },
     {
-      "id": "86c829ce-9db6-43b4-b112-c46ccc9bc2bf",
-      "latitude": -34.887888,
-      "longitude": 138.569368,
-      "street": "Torrens Rd",
-      "city": "Renown Park",
+      "id": "0374dc7f-b88a-46d5-8d20-c36272f5abec",
+      "latitude": -34.763074,
+      "longitude": 138.639712,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
-      "reported_at": "2026-01-19T08:49:02Z"
+      "timestamp": "2026-01-19T10:00:16Z",
+      "reported_at": "2026-01-19T09:25:38Z"
+    },
+    {
+      "id": "a23a15e8-8003-438f-b174-22820b408add",
+      "latitude": -34.924763,
+      "longitude": 138.549477,
+      "street": "A14 - Henley Beach Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-01-19T10:00:16Z",
+      "reported_at": "2026-01-19T09:40:58Z"
+    },
+    {
+      "id": "ea547282-9d80-4f26-806b-c4a1e7005f15",
+      "latitude": -34.941432,
+      "longitude": 138.595133,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
+      "type": "mobile",
+      "timestamp": "2026-01-19T10:00:16Z",
+      "reported_at": "2026-01-19T09:52:58Z"
     },
     {
       "id": "d6d4b4db-e674-44a6-a0ab-194e62d8a176",
@@ -67,18 +57,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
+      "timestamp": "2026-01-19T10:00:16Z",
       "reported_at": "2026-01-19T05:07:06Z"
     },
     {
-      "id": "887ce065-a773-40f2-80ca-a6fa8deaf100",
-      "latitude": -34.842521,
-      "longitude": 138.589857,
+      "id": "1e2866bf-ad4b-4b9f-9d19-ae971decfbd6",
+      "latitude": -34.84139,
+      "longitude": 138.59125,
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
-      "reported_at": "2026-01-19T06:18:21Z"
+      "timestamp": "2026-01-19T10:00:16Z",
+      "reported_at": "2026-01-19T06:21:15Z"
     },
     {
       "id": "3a4a2294-c71f-4468-adfe-09ce7a06b170",
@@ -87,8 +77,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-01-19T09:30:14Z",
+      "timestamp": "2026-01-19T10:00:16Z",
       "reported_at": "2026-01-19T05:53:31Z"
+    },
+    {
+      "id": "6de481ac-65a0-4fd9-8980-f83a9a4afe4a",
+      "latitude": -34.750908,
+      "longitude": 138.582231,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-01-19T10:00:16Z",
+      "reported_at": "2026-01-19T09:55:40Z"
     }
   ]
 }
