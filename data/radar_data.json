@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "7057060b-b5a9-4cfb-9d7f-578d561754e9",
-      "latitude": -35.009538,
-      "longitude": 138.764051,
+      "id": "370c0c6a-b27c-4b8f-aaba-e712806d615f",
+      "latitude": -35.009755,
+      "longitude": 138.76044,
       "street": "Mount Barker Rd",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:30:15Z",
-      "reported_at": "2026-01-20T06:05:03Z"
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T05:51:16Z"
+    },
+    {
+      "id": "4c4eaa50-b9a3-4ada-8887-60fbf29de504",
+      "latitude": -34.889482,
+      "longitude": 138.664645,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:15:53Z"
     },
     {
       "id": "2397d805-bbe7-4208-b9d0-08169f5e1f91",
@@ -17,28 +27,68 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:30:15Z",
+      "timestamp": "2026-01-20T07:00:15Z",
       "reported_at": "2026-01-20T06:05:57Z"
     },
     {
-      "id": "09d1b5e7-08e6-4e22-8a46-54d9bf34958d",
-      "latitude": -34.68617,
-      "longitude": 138.670272,
+      "id": "f7b9dcfa-60f2-4674-8bc4-5e9a2f458291",
+      "latitude": -34.738015,
+      "longitude": 138.652242,
+      "street": "Kettering Rd",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:31:02Z"
+    },
+    {
+      "id": "f5656e78-9755-49cb-865c-15a7333abddc",
+      "latitude": -35.024347,
+      "longitude": 138.716128,
+      "street": "Longwood Rd",
+      "city": "Heathfield",
+      "type": "mobile",
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:51:23Z"
+    },
+    {
+      "id": "4f5dd370-2404-45e3-b124-efaa05e911f8",
+      "latitude": -34.826512,
+      "longitude": 138.603598,
+      "street": "Montague Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:29:27Z"
+    },
+    {
+      "id": "14d933ee-335b-4f8e-aeba-6b899c7d5b3f",
+      "latitude": -34.689238,
+      "longitude": 138.669609,
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:30:15Z",
-      "reported_at": "2026-01-20T06:06:49Z"
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:17:37Z"
     },
     {
-      "id": "50701a3b-3571-4dce-9550-00be0bdb2406",
-      "latitude": -34.86635,
-      "longitude": 138.601525,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "0f6d11ff-8ce9-475a-b651-a8edd450a464",
+      "latitude": -35.074089,
+      "longitude": 138.797422,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:30:15Z",
-      "reported_at": "2026-01-20T06:10:04Z"
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:18:13Z"
+    },
+    {
+      "id": "97f2f692-10b2-4da7-9411-2fc409ad20da",
+      "latitude": -34.964518,
+      "longitude": 138.554744,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-20T07:00:15Z",
+      "reported_at": "2026-01-20T06:51:44Z"
     }
   ]
 }
