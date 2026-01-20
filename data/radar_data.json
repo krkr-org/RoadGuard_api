@@ -1,14 +1,74 @@
 {
   "radars": [
     {
-      "id": "871c0f42-e3fe-4d4a-b556-9c68c8fe7f50",
-      "latitude": -34.914782,
-      "longitude": 138.586078,
+      "id": "2517cee5-b8d6-416d-9403-73df0c2361ec",
+      "latitude": -34.954149,
+      "longitude": 138.619432,
+      "street": "Wattle St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:21:04Z"
+    },
+    {
+      "id": "66e66713-7490-43a7-8692-7a10868c6630",
+      "latitude": -34.928454,
+      "longitude": 138.668238,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T20:56:33Z"
+    },
+    {
+      "id": "c068156e-33bf-4277-9931-950cac836eca",
+      "latitude": -34.915759,
+      "longitude": 138.587632,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-20T21:00:18Z",
-      "reported_at": "2026-01-20T20:45:00Z"
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T20:33:46Z"
+    },
+    {
+      "id": "78c80c0a-1582-4947-a6cc-78d6c7186c66",
+      "latitude": -34.940724,
+      "longitude": 138.588838,
+      "street": "Goodwood Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:17:44Z"
+    },
+    {
+      "id": "5a42a493-4d49-4771-baff-a4d419c6e5cd",
+      "latitude": -34.836875,
+      "longitude": 138.621571,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:12:43Z"
+    },
+    {
+      "id": "ff76ac99-cf68-451b-9bc2-cfae536efed8",
+      "latitude": -34.867721,
+      "longitude": 138.592709,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:06:13Z"
+    },
+    {
+      "id": "8da676e9-10c3-4912-920c-e4bfff9740f7",
+      "latitude": -34.936639,
+      "longitude": 138.58846,
+      "street": "Unknown Street",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:14:29Z"
     },
     {
       "id": "111d3c0e-4b6c-412e-9783-3781eddf9b53",
@@ -17,38 +77,58 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-20T21:00:18Z",
+      "timestamp": "2026-01-20T21:30:15Z",
       "reported_at": "2026-01-20T20:55:35Z"
     },
     {
-      "id": "dd85e857-0b58-4aad-80e6-28d25bc4a6bb",
-      "latitude": -34.901142,
-      "longitude": 138.606045,
+      "id": "d7a74427-0953-4769-a34b-09180744214a",
+      "latitude": -34.942428,
+      "longitude": 138.624822,
+      "street": "A1 - Fullarton Rd",
+      "city": "Glenside",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:23:55Z"
+    },
+    {
+      "id": "71e14ddf-66d9-47fe-85dd-068659b73246",
+      "latitude": -34.900819,
+      "longitude": 138.605234,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-20T21:00:18Z",
-      "reported_at": "2026-01-20T20:43:06Z"
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T20:41:48Z"
     },
     {
-      "id": "e1dbdb5e-3279-4ab0-b364-96c5f30c638d",
-      "latitude": -34.93595,
-      "longitude": 138.624108,
+      "id": "f3192b17-b90c-42a4-9d2a-5f1a217af437",
+      "latitude": -34.934076,
+      "longitude": 138.623868,
       "street": "R1 - Fullarton Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-20T21:00:18Z",
-      "reported_at": "2026-01-20T20:53:59Z"
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:10:46Z"
     },
     {
       "id": "0ee096e7-0bb0-41ac-8a81-00e02204ddbf",
-      "latitude": -34.911602,
-      "longitude": 138.61331,
+      "latitude": -34.912236,
+      "longitude": 138.613455,
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-20T21:00:18Z",
+      "timestamp": "2026-01-20T21:30:15Z",
       "reported_at": "2026-01-20T20:43:42Z"
+    },
+    {
+      "id": "7fdfcf4d-142c-4d64-bf34-ca48146169fa",
+      "latitude": -34.857323,
+      "longitude": 138.565443,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:30:15Z",
+      "reported_at": "2026-01-20T21:29:29Z"
     }
   ]
 }
