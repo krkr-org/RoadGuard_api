@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "67ed6ff2-53b6-4a42-a9f3-d64b7700dbc7",
-      "latitude": -34.93576,
-      "longitude": 138.56179,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T23:58:27Z"
-    },
-    {
-      "id": "35ce13a6-f373-4766-9dcd-de05aea9386d",
-      "latitude": -34.86269,
-      "longitude": 138.679945,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T21:41:19Z"
-    },
-    {
-      "id": "ddfaf674-345c-42b0-b2c6-9ed0930c93cf",
-      "latitude": -34.826563,
-      "longitude": 138.658566,
-      "street": "Baldock Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T22:11:34Z"
-    },
-    {
-      "id": "097ce71e-3618-4c90-8431-2ad4b5974c35",
-      "latitude": -34.913423,
-      "longitude": 138.577629,
-      "street": "Phillips St",
-      "city": "Thebarton",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T20:02:15Z"
-    },
-    {
       "id": "07435ead-1650-4861-941f-d26682d727b6",
       "latitude": -34.85143,
       "longitude": 138.653669,
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T21:01:35Z"
+    },
+    {
+      "id": "6d1b280f-d902-48ad-bd8e-ff7f3505d5b7",
+      "latitude": -34.861177,
+      "longitude": 138.679746,
+      "street": "Vingara Dr",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T23:15:56Z"
     },
     {
       "id": "49f6499f-2a91-4b81-b4f0-85c7d9ac236d",
@@ -57,18 +27,68 @@
       "street": "Unknown Street",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T23:41:04Z"
     },
     {
-      "id": "7358c181-a987-4f15-9e25-a948d95f6232",
-      "latitude": -34.848787,
-      "longitude": 138.694009,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
+      "id": "67ed6ff2-53b6-4a42-a9f3-d64b7700dbc7",
+      "latitude": -34.93576,
+      "longitude": 138.56179,
+      "street": "Brooker Tce",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T23:38:20Z"
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T23:58:27Z"
+    },
+    {
+      "id": "754ebeae-f884-4bc2-9e75-55283058ef4f",
+      "latitude": -34.84913,
+      "longitude": 138.7021,
+      "street": "Valley Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T21:14:42Z"
+    },
+    {
+      "id": "ddfaf674-345c-42b0-b2c6-9ed0930c93cf",
+      "latitude": -34.826563,
+      "longitude": 138.658566,
+      "street": "Baldock Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T22:11:34Z"
+    },
+    {
+      "id": "5d4a519d-0a82-483a-ac8b-dcb0abb4436b",
+      "latitude": -34.820934,
+      "longitude": 138.66114,
+      "street": "Nelson Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T23:59:04Z"
+    },
+    {
+      "id": "323a19dc-067e-4504-b95e-fa214866c5f1",
+      "latitude": -34.881323,
+      "longitude": 138.700573,
+      "street": "Maryvale Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T21:34:07Z"
+    },
+    {
+      "id": "81d6a014-7689-4870-9bac-6a023d35e69d",
+      "latitude": -34.857257,
+      "longitude": 138.669601,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-20T00:33:08Z"
     },
     {
       "id": "519b7d10-2480-404c-827c-8497da0d76e7",
@@ -77,28 +97,8 @@
       "street": "Windebanks Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T22:00:36Z"
-    },
-    {
-      "id": "a22103b4-9c14-4754-a66e-9e140cfdef6d",
-      "latitude": -34.819799,
-      "longitude": 138.66107,
-      "street": "Nelson Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T23:09:49Z"
-    },
-    {
-      "id": "94886655-e306-4b88-b9af-619493119d4e",
-      "latitude": -34.904236,
-      "longitude": 138.565452,
-      "street": "South Rd",
-      "city": "West Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-20T00:26:16Z"
     },
     {
       "id": "22dd2043-6328-4c0d-bc52-9bc2f7f295ab",
@@ -107,28 +107,18 @@
       "street": "Smart Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T21:31:37Z"
     },
     {
-      "id": "323a19dc-067e-4504-b95e-fa214866c5f1",
-      "latitude": -34.882331,
-      "longitude": 138.700643,
-      "street": "Maryvale Rd",
-      "city": "Athelstone",
+      "id": "28c4b700-aa23-4424-9d94-d8dbd75888f5",
+      "latitude": -34.946934,
+      "longitude": 138.626236,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T21:34:07Z"
-    },
-    {
-      "id": "56f4a58e-c8d6-4fc7-8486-b841cb5028f8",
-      "latitude": -34.857315,
-      "longitude": 138.668532,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-20T00:00:10Z"
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-20T00:54:39Z"
     },
     {
       "id": "0fe942b3-d259-444f-89e0-868a77872f32",
@@ -137,7 +127,7 @@
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T21:04:03Z"
     },
     {
@@ -147,18 +137,8 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T23:45:54Z"
-    },
-    {
-      "id": "24f2d5af-a7da-4589-8891-cdb64e0506fc",
-      "latitude": -34.825203,
-      "longitude": 138.708392,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
-      "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T22:18:46Z"
     },
     {
       "id": "c1028921-14db-428e-bd83-84e24c034ac6",
@@ -167,18 +147,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
+      "timestamp": "2026-01-20T01:00:16Z",
       "reported_at": "2026-01-19T22:07:02Z"
     },
     {
-      "id": "97991f17-8758-4bbb-9a49-99d54edac638",
-      "latitude": -34.710343,
-      "longitude": 138.676774,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
+      "id": "c8746990-6dc8-45da-9388-fb5054ecc64e",
+      "latitude": -34.824966,
+      "longitude": 138.708828,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-01-20T00:30:14Z",
-      "reported_at": "2026-01-19T23:09:21Z"
+      "timestamp": "2026-01-20T01:00:16Z",
+      "reported_at": "2026-01-19T22:17:32Z"
     }
   ]
 }
