@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "49f6499f-2a91-4b81-b4f0-85c7d9ac236d",
+      "latitude": -35.09294,
+      "longitude": 138.559533,
+      "street": "Unknown Street",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-19T23:41:04Z"
+    },
+    {
       "id": "23d3b206-d0be-4500-8e51-d7d9f6aa7f22",
       "latitude": -34.849786,
       "longitude": 138.702154,
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-20T00:24:40Z"
     },
     {
@@ -17,18 +27,8 @@
       "street": "Vingara Dr",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-19T23:15:56Z"
-    },
-    {
-      "id": "49f6499f-2a91-4b81-b4f0-85c7d9ac236d",
-      "latitude": -35.09294,
-      "longitude": 138.559533,
-      "street": "Unknown Street",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-19T23:41:04Z"
     },
     {
       "id": "67ed6ff2-53b6-4a42-a9f3-d64b7700dbc7",
@@ -37,18 +37,8 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-19T23:58:27Z"
-    },
-    {
-      "id": "af6cd067-b4c7-420e-875b-6b08fcb246e5",
-      "latitude": -34.788301,
-      "longitude": 138.66265,
-      "street": "Clayson Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:31:20Z"
     },
     {
       "id": "ddfaf674-345c-42b0-b2c6-9ed0930c93cf",
@@ -57,38 +47,18 @@
       "street": "Baldock Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-19T22:11:34Z"
     },
     {
-      "id": "88e26ddf-9a2f-482e-bdd1-8a42243622df",
-      "latitude": -34.790608,
-      "longitude": 138.654243,
+      "id": "26fdf997-d9f9-498b-bf13-6855e1b1d5b7",
+      "latitude": -34.843628,
+      "longitude": 138.564084,
       "street": "Unknown Street",
-      "city": "Salisbury East",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:40:00Z"
-    },
-    {
-      "id": "3aff4ffc-f4e3-4f75-bf6c-0292b233a133",
-      "latitude": -34.898127,
-      "longitude": 138.567311,
-      "street": "South Rd",
-      "city": "Ridleyton",
-      "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:44:01Z"
-    },
-    {
-      "id": "9d3997b2-8589-4468-9375-8cba3b353ca8",
-      "latitude": -34.832074,
-      "longitude": 138.713044,
-      "street": "Smart Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-19T22:03:38Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-20T02:14:52Z"
     },
     {
       "id": "56f4a58e-c8d6-4fc7-8486-b841cb5028f8",
@@ -97,68 +67,58 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-20T00:00:10Z"
     },
     {
-      "id": "323a19dc-067e-4504-b95e-fa214866c5f1",
-      "latitude": -34.881323,
-      "longitude": 138.700573,
+      "id": "cd0646d6-972e-49d6-8faf-7f807a89d702",
+      "latitude": -34.88289,
+      "longitude": 138.700685,
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-19T21:34:07Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-20T01:30:41Z"
     },
     {
-      "id": "d4b052c4-5766-4006-bb02-2038f845ae5f",
-      "latitude": -35.13743,
-      "longitude": 138.510606,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:35:05Z"
-    },
-    {
-      "id": "a22103b4-9c14-4754-a66e-9e140cfdef6d",
-      "latitude": -34.819799,
-      "longitude": 138.66107,
+      "id": "5d4a519d-0a82-483a-ac8b-dcb0abb4436b",
+      "latitude": -34.820934,
+      "longitude": 138.66114,
       "street": "Nelson Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-19T23:09:49Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-19T23:59:04Z"
     },
     {
-      "id": "00ed44ea-27b5-495f-beb0-1f9ef4a29bb3",
-      "latitude": -35.020657,
-      "longitude": 138.796339,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
+      "id": "7dea14fc-95e1-47f5-9176-32edce541079",
+      "latitude": -35.137223,
+      "longitude": 138.51485,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:36:36Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-20T01:41:28Z"
     },
     {
-      "id": "f700d4b2-3e08-49f5-bf9e-f2ce2a20561f",
-      "latitude": -34.946829,
-      "longitude": 138.626054,
-      "street": "A1 - Glen Osmond Rd",
-      "city": "Fullarton",
+      "id": "3aff4ffc-f4e3-4f75-bf6c-0292b233a133",
+      "latitude": -34.898127,
+      "longitude": 138.567311,
+      "street": "South Rd",
+      "city": "Ridleyton",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:13:28Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-20T01:44:01Z"
     },
     {
-      "id": "d44606b2-7845-4422-bd1d-f2b20ace34a9",
-      "latitude": -34.861638,
-      "longitude": 138.682585,
+      "id": "0fe942b3-d259-444f-89e0-868a77872f32",
+      "latitude": -34.861054,
+      "longitude": 138.683535,
       "street": "A11 - Lower North East Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-19T22:56:05Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-19T21:04:03Z"
     },
     {
       "id": "9677c1f1-e1f7-4224-8a32-1a5e9d6f8717",
@@ -167,18 +127,18 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-19T23:45:54Z"
     },
     {
-      "id": "c8746990-6dc8-45da-9388-fb5054ecc64e",
-      "latitude": -34.824966,
-      "longitude": 138.708828,
+      "id": "24f2d5af-a7da-4589-8891-cdb64e0506fc",
+      "latitude": -34.825203,
+      "longitude": 138.708392,
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-19T22:17:32Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-19T22:18:46Z"
     },
     {
       "id": "c1028921-14db-428e-bd83-84e24c034ac6",
@@ -187,18 +147,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-19T22:07:02Z"
     },
     {
-      "id": "3de78b95-5332-479a-a5a3-a01c2cc2cd85",
-      "latitude": -34.711182,
-      "longitude": 138.675977,
+      "id": "a5c7e1bb-4755-4399-ad8f-6db7901b2ff6",
+      "latitude": -34.71264,
+      "longitude": 138.675057,
       "street": "A20 - Main North Rd",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
-      "reported_at": "2026-01-20T01:44:14Z"
+      "timestamp": "2026-01-20T02:30:16Z",
+      "reported_at": "2026-01-20T02:03:19Z"
     },
     {
       "id": "393b1c19-5b0b-4335-b0ee-38f9a5bcd3c8",
@@ -207,7 +167,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-01-20T02:00:16Z",
+      "timestamp": "2026-01-20T02:30:16Z",
       "reported_at": "2026-01-20T01:33:58Z"
     }
   ]
