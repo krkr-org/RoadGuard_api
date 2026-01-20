@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "07435ead-1650-4861-941f-d26682d727b6",
-      "latitude": -34.85143,
-      "longitude": 138.653669,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T21:01:35Z"
-    },
-    {
       "id": "35ce13a6-f373-4766-9dcd-de05aea9386d",
       "latitude": -34.86269,
       "longitude": 138.679945,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
+      "timestamp": "2026-01-20T00:00:16Z",
       "reported_at": "2026-01-19T21:41:19Z"
-    },
-    {
-      "id": "097ce71e-3618-4c90-8431-2ad4b5974c35",
-      "latitude": -34.913423,
-      "longitude": 138.577629,
-      "street": "Phillips St",
-      "city": "Thebarton",
-      "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T20:02:15Z"
     },
     {
       "id": "754ebeae-f884-4bc2-9e75-55283058ef4f",
@@ -37,28 +17,38 @@
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
+      "timestamp": "2026-01-20T00:00:16Z",
       "reported_at": "2026-01-19T21:14:42Z"
     },
     {
-      "id": "519b7d10-2480-404c-827c-8497da0d76e7",
-      "latitude": -35.081141,
-      "longitude": 138.584249,
-      "street": "Windebanks Rd",
-      "city": "Happy Valley",
+      "id": "097ce71e-3618-4c90-8431-2ad4b5974c35",
+      "latitude": -34.913423,
+      "longitude": 138.577629,
+      "street": "Phillips St",
+      "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T22:00:36Z"
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T20:02:15Z"
     },
     {
-      "id": "323a19dc-067e-4504-b95e-fa214866c5f1",
-      "latitude": -34.882331,
-      "longitude": 138.700643,
-      "street": "Maryvale Rd",
-      "city": "Athelstone",
+      "id": "07435ead-1650-4861-941f-d26682d727b6",
+      "latitude": -34.85143,
+      "longitude": 138.653669,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T21:34:07Z"
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T21:01:35Z"
+    },
+    {
+      "id": "7358c181-a987-4f15-9e25-a948d95f6232",
+      "latitude": -34.848787,
+      "longitude": 138.694009,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T23:38:20Z"
     },
     {
       "id": "22dd2043-6328-4c0d-bc52-9bc2f7f295ab",
@@ -67,28 +57,58 @@
       "street": "Smart Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
+      "timestamp": "2026-01-20T00:00:16Z",
       "reported_at": "2026-01-19T21:31:37Z"
     },
     {
-      "id": "7f65e2df-7798-429b-8387-4b6c52910685",
-      "latitude": -35.046814,
-      "longitude": 138.560303,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
+      "id": "519b7d10-2480-404c-827c-8497da0d76e7",
+      "latitude": -35.081141,
+      "longitude": 138.584249,
+      "street": "Windebanks Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T22:57:14Z"
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T22:00:36Z"
     },
     {
-      "id": "568dcde2-6c59-49b2-86c3-b40fd7d41c55",
-      "latitude": -34.840081,
-      "longitude": 138.715579,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
+      "id": "a22103b4-9c14-4754-a66e-9e140cfdef6d",
+      "latitude": -34.819799,
+      "longitude": 138.66107,
+      "street": "Nelson Rd",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T21:17:20Z"
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T23:09:49Z"
+    },
+    {
+      "id": "323a19dc-067e-4504-b95e-fa214866c5f1",
+      "latitude": -34.882331,
+      "longitude": 138.700643,
+      "street": "Maryvale Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T21:34:07Z"
+    },
+    {
+      "id": "9677c1f1-e1f7-4224-8a32-1a5e9d6f8717",
+      "latitude": -34.860041,
+      "longitude": 138.685278,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T23:45:54Z"
+    },
+    {
+      "id": "118fb647-595f-43a8-b449-d644f222e539",
+      "latitude": -34.861037,
+      "longitude": 138.683753,
+      "street": "A11 - Lower North East Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T21:05:08Z"
     },
     {
       "id": "24f2d5af-a7da-4589-8891-cdb64e0506fc",
@@ -97,28 +117,18 @@
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
+      "timestamp": "2026-01-20T00:00:16Z",
       "reported_at": "2026-01-19T22:18:46Z"
     },
     {
-      "id": "d44606b2-7845-4422-bd1d-f2b20ace34a9",
-      "latitude": -34.861638,
-      "longitude": 138.682585,
-      "street": "A11 - Lower North East Rd",
-      "city": "Dernancourt",
+      "id": "c1028921-14db-428e-bd83-84e24c034ac6",
+      "latitude": -34.840312,
+      "longitude": 138.71304,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T22:56:05Z"
-    },
-    {
-      "id": "76236085-127d-49cf-8aa7-37a2b11fbf0f",
-      "latitude": -34.874881,
-      "longitude": 138.696199,
-      "street": "B31 - Gorge Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
-      "reported_at": "2026-01-19T23:15:21Z"
+      "timestamp": "2026-01-20T00:00:16Z",
+      "reported_at": "2026-01-19T22:07:02Z"
     },
     {
       "id": "97991f17-8758-4bbb-9a49-99d54edac638",
@@ -127,7 +137,7 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
+      "timestamp": "2026-01-20T00:00:16Z",
       "reported_at": "2026-01-19T23:09:21Z"
     },
     {
@@ -137,7 +147,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-19T23:30:16Z",
+      "timestamp": "2026-01-20T00:00:16Z",
       "reported_at": "2026-01-19T22:59:51Z"
     }
   ]
