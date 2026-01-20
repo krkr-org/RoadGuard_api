@@ -1,43 +1,13 @@
 {
   "radars": [
     {
-      "id": "52bfd8cf-cfe1-4246-b5fd-39325cc4e7e2",
-      "latitude": -34.860318,
-      "longitude": 138.679748,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-19T23:36:23Z"
-    },
-    {
-      "id": "478ffd3b-8ed7-4540-8d6e-93b0900c7a3b",
-      "latitude": -34.927284,
-      "longitude": 138.597397,
-      "street": "Franklin St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-20T02:49:21Z"
-    },
-    {
-      "id": "49f6499f-2a91-4b81-b4f0-85c7d9ac236d",
-      "latitude": -35.09294,
-      "longitude": 138.559533,
-      "street": "Unknown Street",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-19T23:41:04Z"
-    },
-    {
       "id": "7f047730-6d86-469d-bcf3-de3f587a4d73",
       "latitude": -34.848904,
       "longitude": 138.702081,
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
+      "timestamp": "2026-01-20T04:00:14Z",
       "reported_at": "2026-01-20T01:41:36Z"
     },
     {
@@ -47,8 +17,38 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
+      "timestamp": "2026-01-20T04:00:14Z",
       "reported_at": "2026-01-19T23:58:27Z"
+    },
+    {
+      "id": "b57dfb40-d3f3-4408-9d23-61997576c9c9",
+      "latitude": -34.92896,
+      "longitude": 138.542868,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-01-20T04:00:14Z",
+      "reported_at": "2026-01-20T03:04:50Z"
+    },
+    {
+      "id": "0d821afd-2db8-4748-9d89-6cee12b929a3",
+      "latitude": -34.860849,
+      "longitude": 138.679785,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-01-20T04:00:14Z",
+      "reported_at": "2026-01-20T02:13:24Z"
+    },
+    {
+      "id": "044393c5-5716-465b-8d3a-cee3b4b09362",
+      "latitude": -34.828058,
+      "longitude": 138.688486,
+      "street": "Montague Rd",
+      "city": "Modbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-20T04:00:14Z",
+      "reported_at": "2026-01-20T02:22:38Z"
     },
     {
       "id": "cd0646d6-972e-49d6-8faf-7f807a89d702",
@@ -57,7 +57,7 @@
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
+      "timestamp": "2026-01-20T04:00:14Z",
       "reported_at": "2026-01-20T01:30:41Z"
     },
     {
@@ -67,48 +67,38 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
+      "timestamp": "2026-01-20T04:00:14Z",
       "reported_at": "2026-01-20T00:33:19Z"
     },
     {
-      "id": "5d4a519d-0a82-483a-ac8b-dcb0abb4436b",
-      "latitude": -34.820934,
-      "longitude": 138.66114,
-      "street": "Nelson Rd",
-      "city": "Ingle Farm",
+      "id": "7304800e-815a-47c6-9e7d-284bf35895b8",
+      "latitude": -35.070766,
+      "longitude": 138.554201,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-19T23:59:04Z"
+      "timestamp": "2026-01-20T04:00:14Z",
+      "reported_at": "2026-01-20T03:55:36Z"
     },
     {
-      "id": "044393c5-5716-465b-8d3a-cee3b4b09362",
-      "latitude": -34.828058,
-      "longitude": 138.688486,
-      "street": "Montague Rd",
-      "city": "Modbury North",
-      "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-20T02:22:38Z"
-    },
-    {
-      "id": "c8746990-6dc8-45da-9388-fb5054ecc64e",
-      "latitude": -34.824966,
-      "longitude": 138.708828,
+      "id": "24f2d5af-a7da-4589-8891-cdb64e0506fc",
+      "latitude": -34.825203,
+      "longitude": 138.708392,
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-19T22:17:32Z"
+      "timestamp": "2026-01-20T04:00:14Z",
+      "reported_at": "2026-01-19T22:18:46Z"
     },
     {
-      "id": "014c487d-bc22-4b65-934e-590fb4aa928a",
-      "latitude": -34.712062,
-      "longitude": 138.6757,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
+      "id": "2515ac6c-59d9-44a0-97cb-f34586cbb577",
+      "latitude": -35.042209,
+      "longitude": 138.55428,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-01-20T03:30:15Z",
-      "reported_at": "2026-01-20T03:19:05Z"
+      "timestamp": "2026-01-20T04:00:14Z",
+      "reported_at": "2026-01-20T03:45:07Z"
     }
   ]
 }
