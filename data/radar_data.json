@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "871c0f42-e3fe-4d4a-b556-9c68c8fe7f50",
+      "latitude": -34.914782,
+      "longitude": 138.586078,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:00:18Z",
+      "reported_at": "2026-01-20T20:45:00Z"
+    },
+    {
+      "id": "111d3c0e-4b6c-412e-9783-3781eddf9b53",
+      "latitude": -34.92618,
+      "longitude": 138.620661,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:00:18Z",
+      "reported_at": "2026-01-20T20:55:35Z"
+    },
+    {
+      "id": "dd85e857-0b58-4aad-80e6-28d25bc4a6bb",
+      "latitude": -34.901142,
+      "longitude": 138.606045,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:00:18Z",
+      "reported_at": "2026-01-20T20:43:06Z"
+    },
+    {
+      "id": "e1dbdb5e-3279-4ab0-b364-96c5f30c638d",
+      "latitude": -34.93595,
+      "longitude": 138.624108,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:00:18Z",
+      "reported_at": "2026-01-20T20:53:59Z"
+    },
+    {
+      "id": "0ee096e7-0bb0-41ac-8a81-00e02204ddbf",
+      "latitude": -34.911602,
+      "longitude": 138.61331,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-20T21:00:18Z",
+      "reported_at": "2026-01-20T20:43:42Z"
+    }
+  ]
 }
