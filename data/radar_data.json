@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "6d5926c5-1faf-44fb-a1bc-57b1a1b8736d",
-      "latitude": -34.930284,
-      "longitude": 138.542165,
+      "id": "623f6f38-8362-44f5-ac4e-084367049414",
+      "latitude": -34.929684,
+      "longitude": 138.542618,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T02:58:40Z"
-    },
-    {
-      "id": "46fca457-d819-4cff-b4b3-f023146e62cb",
-      "latitude": -34.862413,
-      "longitude": 138.6799,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T00:48:30Z"
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T03:04:20Z"
     },
     {
       "id": "7f047730-6d86-469d-bcf3-de3f587a4d73",
@@ -27,18 +17,28 @@
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
+      "timestamp": "2026-01-20T05:00:16Z",
       "reported_at": "2026-01-20T01:41:36Z"
     },
     {
-      "id": "df1cfc06-a645-4e32-8344-f660c3b58b99",
-      "latitude": -34.924374,
-      "longitude": 138.587379,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "0d821afd-2db8-4748-9d89-6cee12b929a3",
+      "latitude": -34.860849,
+      "longitude": 138.679785,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T04:01:45Z"
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T02:13:24Z"
+    },
+    {
+      "id": "c4ef0183-41ef-4077-b568-0b06035c009d",
+      "latitude": -34.901014,
+      "longitude": 138.656007,
+      "street": "Marian Rd",
+      "city": "Glynde",
+      "type": "mobile",
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T04:52:29Z"
     },
     {
       "id": "cd0646d6-972e-49d6-8faf-7f807a89d702",
@@ -47,58 +47,38 @@
       "street": "Maryvale Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
+      "timestamp": "2026-01-20T05:00:16Z",
       "reported_at": "2026-01-20T01:30:41Z"
     },
     {
-      "id": "b5d12deb-a110-44dd-9311-fe444c0c4417",
-      "latitude": -34.857277,
-      "longitude": 138.669225,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "4eac00b0-892e-4da1-87de-cca1cadb9def",
+      "latitude": -34.836927,
+      "longitude": 138.62168,
+      "street": "South Tce",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T00:33:19Z"
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T04:08:09Z"
     },
     {
-      "id": "044393c5-5716-465b-8d3a-cee3b4b09362",
-      "latitude": -34.828058,
-      "longitude": 138.688486,
-      "street": "Montague Rd",
-      "city": "Modbury North",
+      "id": "c1168d1e-08b5-451f-9e04-57abbcea045b",
+      "latitude": -34.927541,
+      "longitude": 138.53649,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T02:22:38Z"
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T04:38:15Z"
     },
     {
-      "id": "34133ec5-0b3a-47eb-a43b-a8792be1debb",
-      "latitude": -34.974472,
-      "longitude": 138.59139,
-      "street": "Goodwood Rd",
-      "city": "Cumberland Park",
+      "id": "91456e50-3b4f-423e-a09f-39f94924b068",
+      "latitude": -34.927563,
+      "longitude": 138.629514,
+      "street": "Kensington Rd",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T04:18:31Z"
-    },
-    {
-      "id": "8410e7b6-2826-428b-8851-b7615d1ee5e4",
-      "latitude": -35.063368,
-      "longitude": 138.534147,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T04:07:20Z"
-    },
-    {
-      "id": "7304800e-815a-47c6-9e7d-284bf35895b8",
-      "latitude": -35.070766,
-      "longitude": 138.554201,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
-      "reported_at": "2026-01-20T03:55:36Z"
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T04:43:16Z"
     },
     {
       "id": "23710924-d390-414e-8994-a32cd9bca567",
@@ -107,8 +87,18 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
+      "timestamp": "2026-01-20T05:00:16Z",
       "reported_at": "2026-01-20T04:21:18Z"
+    },
+    {
+      "id": "d144ba64-3b0b-4ecc-9125-aa05fcba9250",
+      "latitude": -34.850599,
+      "longitude": 138.545271,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-01-20T05:00:16Z",
+      "reported_at": "2026-01-20T04:44:32Z"
     },
     {
       "id": "40d24009-f437-4a50-a1fd-24839a83fd24",
@@ -117,7 +107,7 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-20T04:30:16Z",
+      "timestamp": "2026-01-20T05:00:16Z",
       "reported_at": "2026-01-20T04:09:38Z"
     }
   ]
