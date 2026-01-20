@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "370c0c6a-b27c-4b8f-aaba-e712806d615f",
-      "latitude": -35.009755,
-      "longitude": 138.76044,
+      "id": "cd7067e1-4985-4370-9e3a-c9c91bcf8be7",
+      "latitude": -34.795878,
+      "longitude": 138.64804,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-20T08:00:18Z",
+      "reported_at": "2026-01-20T07:22:42Z"
+    },
+    {
+      "id": "93755095-4376-4b06-b887-9c8d6b47b8c6",
+      "latitude": -35.009478,
+      "longitude": 138.763379,
       "street": "Mount Barker Rd",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
-      "reported_at": "2026-01-20T05:51:16Z"
+      "timestamp": "2026-01-20T08:00:18Z",
+      "reported_at": "2026-01-20T07:01:55Z"
     },
     {
       "id": "4c4eaa50-b9a3-4ada-8887-60fbf29de504",
@@ -17,7 +27,7 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
+      "timestamp": "2026-01-20T08:00:18Z",
       "reported_at": "2026-01-20T06:15:53Z"
     },
     {
@@ -27,18 +37,8 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
+      "timestamp": "2026-01-20T08:00:18Z",
       "reported_at": "2026-01-20T06:05:57Z"
-    },
-    {
-      "id": "78131c29-6866-455d-82b5-c47f8a7f531f",
-      "latitude": -34.71925,
-      "longitude": 138.644585,
-      "street": "West Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
-      "reported_at": "2026-01-20T07:13:46Z"
     },
     {
       "id": "f5656e78-9755-49cb-865c-15a7333abddc",
@@ -47,28 +47,28 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
+      "timestamp": "2026-01-20T08:00:18Z",
       "reported_at": "2026-01-20T06:51:23Z"
     },
     {
-      "id": "70293720-9d16-4cd1-b489-44e1c1c69fcb",
-      "latitude": -35.071443,
-      "longitude": 138.797403,
+      "id": "d1d6ea10-a91e-4ae0-aec4-2a5d5aeabbcf",
+      "latitude": -34.739456,
+      "longitude": 138.604132,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-01-20T08:00:18Z",
+      "reported_at": "2026-01-20T07:32:45Z"
+    },
+    {
+      "id": "0f6d11ff-8ce9-475a-b651-a8edd450a464",
+      "latitude": -35.074089,
+      "longitude": 138.797422,
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
-      "reported_at": "2026-01-20T06:50:21Z"
-    },
-    {
-      "id": "97f2f692-10b2-4da7-9411-2fc409ad20da",
-      "latitude": -34.964518,
-      "longitude": 138.554744,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-20T07:30:14Z",
-      "reported_at": "2026-01-20T06:51:44Z"
+      "timestamp": "2026-01-20T08:00:18Z",
+      "reported_at": "2026-01-20T06:18:13Z"
     }
   ]
 }
