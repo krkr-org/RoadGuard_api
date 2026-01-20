@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "03ff8760-9406-4737-bf96-9a9ead235e1d",
-      "latitude": -34.863652,
-      "longitude": 138.569952,
-      "street": "South Rd",
-      "city": "Regency Park",
+      "id": "7057060b-b5a9-4cfb-9d7f-578d561754e9",
+      "latitude": -35.009538,
+      "longitude": 138.764051,
+      "street": "Mount Barker Rd",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:00:15Z",
-      "reported_at": "2026-01-20T05:17:24Z"
+      "timestamp": "2026-01-20T06:30:15Z",
+      "reported_at": "2026-01-20T06:05:03Z"
     },
     {
-      "id": "a11694e6-619a-4d65-9d35-cf75e37df8a1",
-      "latitude": -34.804092,
-      "longitude": 138.663979,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
+      "id": "2397d805-bbe7-4208-b9d0-08169f5e1f91",
+      "latitude": -35.033109,
+      "longitude": 138.78362,
+      "street": "River Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:00:15Z",
-      "reported_at": "2026-01-20T05:45:06Z"
+      "timestamp": "2026-01-20T06:30:15Z",
+      "reported_at": "2026-01-20T06:05:57Z"
     },
     {
-      "id": "08bdfc34-8b7a-48d2-9b4a-b18bcdea0e9b",
-      "latitude": -34.86471,
-      "longitude": 138.570088,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "09d1b5e7-08e6-4e22-8a46-54d9bf34958d",
+      "latitude": -34.68617,
+      "longitude": 138.670272,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-20T06:00:15Z",
-      "reported_at": "2026-01-20T05:16:07Z"
+      "timestamp": "2026-01-20T06:30:15Z",
+      "reported_at": "2026-01-20T06:06:49Z"
+    },
+    {
+      "id": "50701a3b-3571-4dce-9550-00be0bdb2406",
+      "latitude": -34.86635,
+      "longitude": 138.601525,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-20T06:30:15Z",
+      "reported_at": "2026-01-20T06:10:04Z"
     }
   ]
 }
