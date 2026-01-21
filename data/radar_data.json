@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "8ed3f753-bc3f-4254-8388-cc2c600d9758",
-      "latitude": -34.842542,
-      "longitude": 138.57,
-      "street": "Johansson Rd",
-      "city": "Wingfield",
+      "id": "4ce8e001-13f3-4022-a6bd-0e7487433a15",
+      "latitude": -35.034506,
+      "longitude": 138.620087,
+      "street": "Coromandel Pde",
+      "city": "Craigburn Farm",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
-      "reported_at": "2026-01-21T02:27:14Z"
+      "timestamp": "2026-01-21T07:00:16Z",
+      "reported_at": "2026-01-21T06:52:40Z"
     },
     {
       "id": "7bec793e-317b-43db-aa9d-6acf5fefddba",
@@ -17,7 +17,7 @@
       "street": "Wattle St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
+      "timestamp": "2026-01-21T07:00:16Z",
       "reported_at": "2026-01-21T04:33:53Z"
     },
     {
@@ -27,8 +27,18 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
+      "timestamp": "2026-01-21T07:00:16Z",
       "reported_at": "2026-01-21T05:57:39Z"
+    },
+    {
+      "id": "26ff643e-2215-4399-8997-71a0e3825cc8",
+      "latitude": -34.994758,
+      "longitude": 138.597431,
+      "street": "Eliza Pl",
+      "city": "Panorama",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:00:16Z",
+      "reported_at": "2026-01-21T06:26:01Z"
     },
     {
       "id": "1ffc84d9-1389-41d2-a00f-41882bdd791e",
@@ -37,28 +47,8 @@
       "street": "Castle St",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
+      "timestamp": "2026-01-21T07:00:16Z",
       "reported_at": "2026-01-21T06:26:21Z"
-    },
-    {
-      "id": "be8b3c95-718e-41d8-98b2-9ac89fa26bae",
-      "latitude": -34.916284,
-      "longitude": 138.588525,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
-      "reported_at": "2026-01-21T01:58:20Z"
-    },
-    {
-      "id": "7dd8c02c-e862-4d8f-a4ba-6305c79f9e41",
-      "latitude": -34.891967,
-      "longitude": 138.506963,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
-      "reported_at": "2026-01-21T06:10:53Z"
     },
     {
       "id": "a4355cfb-375e-4c37-b63f-aa9963a9e84b",
@@ -67,18 +57,18 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
+      "timestamp": "2026-01-21T07:00:16Z",
       "reported_at": "2026-01-21T05:50:18Z"
     },
     {
-      "id": "c8e7a37b-629c-47e4-b28f-c44965abf1df",
-      "latitude": -34.818215,
-      "longitude": 138.676961,
-      "street": "Milne Rd",
-      "city": "Modbury Heights",
+      "id": "9e7398a8-1f18-4520-bab8-c30e3108bda1",
+      "latitude": -34.699931,
+      "longitude": 138.665488,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
-      "reported_at": "2026-01-21T06:09:20Z"
+      "timestamp": "2026-01-21T07:00:16Z",
+      "reported_at": "2026-01-21T06:52:30Z"
     },
     {
       "id": "ceec1f09-109a-4121-8f60-0ddbdb89e790",
@@ -87,8 +77,18 @@
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
+      "timestamp": "2026-01-21T07:00:16Z",
       "reported_at": "2026-01-21T05:29:01Z"
+    },
+    {
+      "id": "db8ace8f-6c76-4ab0-aa54-5dc6c2bfcc43",
+      "latitude": -34.940846,
+      "longitude": 138.610042,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:00:16Z",
+      "reported_at": "2026-01-21T06:55:24Z"
     },
     {
       "id": "08df71ce-8ecd-4359-b74d-c4edc3b78845",
@@ -97,18 +97,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
+      "timestamp": "2026-01-21T07:00:16Z",
       "reported_at": "2026-01-21T06:03:32Z"
     },
     {
-      "id": "239a52fe-6301-40a9-b2d1-decab28cb43f",
-      "latitude": -34.97692,
-      "longitude": 138.6805,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
+      "id": "e8c5b186-bf8b-41a1-a893-49b294f1613e",
+      "latitude": -34.715277,
+      "longitude": 138.673691,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T06:30:16Z",
-      "reported_at": "2026-01-21T06:18:50Z"
+      "timestamp": "2026-01-21T07:00:16Z",
+      "reported_at": "2026-01-21T06:51:30Z"
     }
   ]
 }
