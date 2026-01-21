@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "1bb51ce4-fa9a-4c61-b4f9-f53320f575cd",
-      "latitude": -35.008056,
-      "longitude": 138.562068,
+      "id": "c81108b9-8697-4623-b181-70a06de0484e",
+      "latitude": -35.025498,
+      "longitude": 138.535187,
+      "street": "Folkestone Rd",
+      "city": "Dover Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T06:14:21Z"
+    },
+    {
+      "id": "f87a1b45-3a3a-49c4-a6ce-0bc65664c46d",
+      "latitude": -35.007601,
+      "longitude": 138.559505,
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
-      "reported_at": "2026-01-21T05:23:07Z"
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T06:39:31Z"
     },
     {
       "id": "fce30e8f-837d-4a16-b3be-389cef7f85d9",
@@ -17,7 +27,7 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T05:57:39Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T06:14:02Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Eliza Pl",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T06:26:01Z"
     },
     {
@@ -47,18 +57,8 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T05:40:59Z"
-    },
-    {
-      "id": "1ffc84d9-1389-41d2-a00f-41882bdd791e",
-      "latitude": -34.970461,
-      "longitude": 138.564137,
-      "street": "Castle St",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
-      "reported_at": "2026-01-21T06:26:21Z"
     },
     {
       "id": "5ade735f-ce9a-4141-9865-bb80eb980f08",
@@ -67,38 +67,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T06:53:49Z"
     },
     {
-      "id": "64938a8a-4555-4855-983f-7a49d1cc44d7",
-      "latitude": -34.89038,
-      "longitude": 138.643691,
-      "street": "Briar Rd",
-      "city": "Felixstow",
+      "id": "c93a3a91-6548-49de-aab6-e66164f5f08e",
+      "latitude": -34.768595,
+      "longitude": 138.651592,
+      "street": "Unknown Street",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
-      "reported_at": "2026-01-21T08:30:56Z"
-    },
-    {
-      "id": "e36f8654-b1df-4d1c-856d-0fee729bf126",
-      "latitude": -35.05282,
-      "longitude": 138.592944,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
-      "reported_at": "2026-01-21T08:44:26Z"
-    },
-    {
-      "id": "a4355cfb-375e-4c37-b63f-aa9963a9e84b",
-      "latitude": -34.979961,
-      "longitude": 138.566018,
-      "street": "Raglan Av",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
-      "reported_at": "2026-01-21T05:50:18Z"
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T09:15:26Z"
     },
     {
       "id": "6389370c-7f80-4391-83f9-84fea2da09da",
@@ -107,18 +87,38 @@
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T08:37:00Z"
     },
     {
-      "id": "d0eeb2fd-722a-4d8b-859d-120004125e4f",
-      "latitude": -34.956665,
-      "longitude": 138.565989,
+      "id": "a4355cfb-375e-4c37-b63f-aa9963a9e84b",
+      "latitude": -34.979961,
+      "longitude": 138.566018,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T05:50:18Z"
+    },
+    {
+      "id": "e36f8654-b1df-4d1c-856d-0fee729bf126",
+      "latitude": -35.05282,
+      "longitude": 138.592944,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T08:44:26Z"
+    },
+    {
+      "id": "b9b202f9-badc-4163-951d-abb56f9c5089",
+      "latitude": -34.955631,
+      "longitude": 138.567595,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
-      "reported_at": "2026-01-21T06:32:49Z"
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T04:47:52Z"
     },
     {
       "id": "e2efbb2b-a807-48fb-b383-afaec9a77ee2",
@@ -127,8 +127,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:00:18Z",
+      "timestamp": "2026-01-21T09:30:14Z",
       "reported_at": "2026-01-21T05:41:48Z"
+    },
+    {
+      "id": "f050c9db-192c-4be7-90f8-77d48abc52c5",
+      "latitude": -34.810736,
+      "longitude": 138.674462,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T09:08:20Z"
+    },
+    {
+      "id": "6bd52f15-9231-4aef-9d0d-569402d97214",
+      "latitude": -34.865661,
+      "longitude": 138.583443,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-01-21T09:30:14Z",
+      "reported_at": "2026-01-21T09:01:14Z"
     }
   ]
 }
