@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "4ce8e001-13f3-4022-a6bd-0e7487433a15",
-      "latitude": -35.034506,
-      "longitude": 138.620087,
-      "street": "Coromandel Pde",
-      "city": "Craigburn Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T06:52:40Z"
-    },
-    {
       "id": "7bec793e-317b-43db-aa9d-6acf5fefddba",
       "latitude": -34.95459,
       "longitude": 138.610739,
       "street": "Wattle St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
+      "timestamp": "2026-01-21T07:30:15Z",
       "reported_at": "2026-01-21T04:33:53Z"
     },
     {
-      "id": "fce30e8f-837d-4a16-b3be-389cef7f85d9",
-      "latitude": -34.989429,
-      "longitude": 138.583476,
-      "street": "Winston Av",
-      "city": "Melrose Park",
+      "id": "c81108b9-8697-4623-b181-70a06de0484e",
+      "latitude": -35.025498,
+      "longitude": 138.535187,
+      "street": "Folkestone Rd",
+      "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T05:57:39Z"
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T06:14:21Z"
     },
     {
       "id": "26ff643e-2215-4399-8997-71a0e3825cc8",
@@ -37,18 +27,68 @@
       "street": "Eliza Pl",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
+      "timestamp": "2026-01-21T07:30:15Z",
       "reported_at": "2026-01-21T06:26:01Z"
     },
     {
-      "id": "1ffc84d9-1389-41d2-a00f-41882bdd791e",
-      "latitude": -34.970461,
-      "longitude": 138.564137,
-      "street": "Castle St",
-      "city": "South Plympton",
+      "id": "4157ea2b-3699-4915-9beb-b8a5ccd4ea5f",
+      "latitude": -35.013016,
+      "longitude": 138.566077,
+      "street": "Bradley Gr",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T06:26:21Z"
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T06:14:02Z"
+    },
+    {
+      "id": "81700ef3-7273-4f12-ac80-da41f55cf83c",
+      "latitude": -34.990223,
+      "longitude": 138.583532,
+      "street": "Winston Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T05:10:30Z"
+    },
+    {
+      "id": "1bb51ce4-fa9a-4c61-b4f9-f53320f575cd",
+      "latitude": -35.008056,
+      "longitude": 138.562068,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T05:23:07Z"
+    },
+    {
+      "id": "0b4a2e61-e603-4461-9b9b-7c90807f7f7f",
+      "latitude": -34.886922,
+      "longitude": 138.571401,
+      "street": "South Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T07:15:43Z"
+    },
+    {
+      "id": "5ade735f-ce9a-4141-9865-bb80eb980f08",
+      "latitude": -34.910664,
+      "longitude": 138.581714,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T06:53:49Z"
+    },
+    {
+      "id": "0f70a557-e054-4102-ba2a-0b34b5e43d6e",
+      "latitude": -34.949405,
+      "longitude": 138.568185,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T05:40:59Z"
     },
     {
       "id": "a4355cfb-375e-4c37-b63f-aa9963a9e84b",
@@ -57,8 +97,18 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
+      "timestamp": "2026-01-21T07:30:15Z",
       "reported_at": "2026-01-21T05:50:18Z"
+    },
+    {
+      "id": "9d171fde-650c-4006-bcd2-bdc403625eb4",
+      "latitude": -34.718523,
+      "longitude": 138.677107,
+      "street": "Yorktown Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T07:14:40Z"
     },
     {
       "id": "9e7398a8-1f18-4520-bab8-c30e3108bda1",
@@ -67,48 +117,48 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
+      "timestamp": "2026-01-21T07:30:15Z",
       "reported_at": "2026-01-21T06:52:30Z"
     },
     {
-      "id": "ceec1f09-109a-4121-8f60-0ddbdb89e790",
-      "latitude": -34.955778,
-      "longitude": 138.567383,
+      "id": "b9b202f9-badc-4163-951d-abb56f9c5089",
+      "latitude": -34.955668,
+      "longitude": 138.567538,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T05:29:01Z"
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T04:47:52Z"
     },
     {
-      "id": "db8ace8f-6c76-4ab0-aa54-5dc6c2bfcc43",
-      "latitude": -34.940846,
-      "longitude": 138.610042,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "id": "3c680009-f44c-45f4-b157-950566c9add9",
+      "latitude": -34.90785,
+      "longitude": 138.57811,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T06:55:24Z"
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T07:06:05Z"
     },
     {
-      "id": "08df71ce-8ecd-4359-b74d-c4edc3b78845",
-      "latitude": -34.758389,
-      "longitude": 138.644389,
+      "id": "e2efbb2b-a807-48fb-b383-afaec9a77ee2",
+      "latitude": -34.849805,
+      "longitude": 138.565061,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T05:41:48Z"
+    },
+    {
+      "id": "37203c28-7a26-4c44-a365-f02df78741ed",
+      "latitude": -34.779382,
+      "longitude": 138.626099,
       "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T06:03:32Z"
-    },
-    {
-      "id": "e8c5b186-bf8b-41a1-a893-49b294f1613e",
-      "latitude": -34.715277,
-      "longitude": 138.673691,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T07:00:16Z",
-      "reported_at": "2026-01-21T06:51:30Z"
+      "timestamp": "2026-01-21T07:30:15Z",
+      "reported_at": "2026-01-21T07:17:02Z"
     }
   ]
 }
