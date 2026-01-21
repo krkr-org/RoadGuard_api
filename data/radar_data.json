@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "66e66713-7490-43a7-8692-7a10868c6630",
-      "latitude": -34.928454,
-      "longitude": 138.668238,
-      "street": "Hallett Rd",
-      "city": "Erindale",
+      "id": "b4afee96-0c08-49eb-beb9-a06d0aa372b9",
+      "latitude": -34.90086,
+      "longitude": 138.605745,
+      "street": "Robe Tce Service Rd",
+      "city": "Medindie",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T20:56:33Z"
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-20T21:43:57Z"
+    },
+    {
+      "id": "068ba2f1-294e-4cd2-834b-21b3e1f88617",
+      "latitude": -34.954146,
+      "longitude": 138.619488,
+      "street": "Wattle St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-21T00:49:22Z"
+    },
+    {
+      "id": "ff226c4d-1223-4e3a-912e-b89fceaeb643",
+      "latitude": -34.956573,
+      "longitude": 138.631527,
+      "street": "Fisher St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-20T21:48:39Z"
     },
     {
       "id": "c068156e-33bf-4277-9931-950cac836eca",
@@ -17,8 +37,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
+      "timestamp": "2026-01-21T01:30:14Z",
       "reported_at": "2026-01-20T20:33:46Z"
+    },
+    {
+      "id": "66e66713-7490-43a7-8692-7a10868c6630",
+      "latitude": -34.928454,
+      "longitude": 138.668238,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-20T20:56:33Z"
     },
     {
       "id": "2a8a0cec-9ce2-4af7-8e8e-c639ea5c581d",
@@ -27,28 +57,8 @@
       "street": "Tynte St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
+      "timestamp": "2026-01-21T01:30:14Z",
       "reported_at": "2026-01-20T22:55:41Z"
-    },
-    {
-      "id": "dee190d7-006d-48fa-be76-ce17d52aabfd",
-      "latitude": -34.956586,
-      "longitude": 138.631266,
-      "street": "Fisher St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T22:25:23Z"
-    },
-    {
-      "id": "9d64c2a4-2bd3-4094-9bf0-c062f231e080",
-      "latitude": -35.007581,
-      "longitude": 138.55833,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-21T00:54:29Z"
     },
     {
       "id": "36a30a66-6bd7-4a5f-b3a4-c4967ab7d3b2",
@@ -57,28 +67,8 @@
       "street": "Duthy St",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
+      "timestamp": "2026-01-21T01:30:14Z",
       "reported_at": "2026-01-20T21:31:00Z"
-    },
-    {
-      "id": "8da676e9-10c3-4912-920c-e4bfff9740f7",
-      "latitude": -34.936639,
-      "longitude": 138.58846,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T21:14:29Z"
-    },
-    {
-      "id": "c971827c-a56c-42da-829a-7157f5b0cee9",
-      "latitude": -34.869162,
-      "longitude": 138.518218,
-      "street": "Old Port Rd",
-      "city": "Unknown City",
-      "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T23:53:03Z"
     },
     {
       "id": "3e113a2e-2d04-4666-956e-21b472dcb254",
@@ -87,48 +77,68 @@
       "street": "Goodwood Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
+      "timestamp": "2026-01-21T01:30:14Z",
       "reported_at": "2026-01-20T21:39:43Z"
     },
     {
-      "id": "29c29863-7422-4cf4-b17d-11cef0f8f47f",
-      "latitude": -34.940842,
-      "longitude": 138.610127,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "id": "c971827c-a56c-42da-829a-7157f5b0cee9",
+      "latitude": -34.869162,
+      "longitude": 138.518218,
+      "street": "Old Port Rd",
+      "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-21T00:17:07Z"
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-20T23:53:03Z"
     },
     {
-      "id": "c65453db-5eab-4450-ad70-fcb6dbc918ff",
-      "latitude": -34.925951,
-      "longitude": 138.620565,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "a79c4b80-957a-4648-aa68-23c3dd82da87",
+      "latitude": -34.917408,
+      "longitude": 138.593127,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T21:47:25Z"
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-21T00:48:58Z"
     },
     {
-      "id": "6c28fcfa-4c42-4056-86c2-03610ce1df6f",
-      "latitude": -34.912289,
-      "longitude": 138.613467,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "1a7fa383-de1b-425f-a183-79ec0dd0522c",
+      "latitude": -34.972951,
+      "longitude": 138.541095,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T23:42:51Z"
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-21T01:25:17Z"
     },
     {
-      "id": "e4cdbbd3-d41d-43e2-84d0-d31edc8b026f",
-      "latitude": -34.935269,
-      "longitude": 138.62394,
+      "id": "2d95d811-c3e0-41f8-ab09-79d20c798390",
+      "latitude": -34.931971,
+      "longitude": 138.623857,
       "street": "R1 - Fullarton Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
-      "reported_at": "2026-01-20T22:02:08Z"
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-21T01:18:43Z"
+    },
+    {
+      "id": "7331d669-01fe-4a5a-a79e-5b0935c9770e",
+      "latitude": -34.925362,
+      "longitude": 138.619481,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-20T21:54:17Z"
+    },
+    {
+      "id": "3f49e2f8-4085-4b0c-aab5-d43ba05d5e88",
+      "latitude": -34.848019,
+      "longitude": 138.599886,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-21T01:19:01Z"
     },
     {
       "id": "d4c367bc-629f-4dba-80c6-35a089a7e50e",
@@ -137,8 +147,18 @@
       "street": "A11 - The Grove Way",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-21T01:00:15Z",
+      "timestamp": "2026-01-21T01:30:14Z",
       "reported_at": "2026-01-21T00:19:10Z"
+    },
+    {
+      "id": "c8f42ed4-ee8a-4c8a-acc2-6b410ef064da",
+      "latitude": -34.838467,
+      "longitude": 138.522175,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-21T01:30:14Z",
+      "reported_at": "2026-01-21T01:02:01Z"
     }
   ]
 }
