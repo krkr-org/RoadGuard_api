@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "7efa6d41-0e36-4999-a06e-495ce14ecb37",
-      "latitude": -34.954127,
-      "longitude": 138.619897,
-      "street": "Wattle St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T02:03:26Z"
-    },
-    {
       "id": "8ed3f753-bc3f-4254-8388-cc2c600d9758",
       "latitude": -34.842542,
       "longitude": 138.57,
       "street": "Johansson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
+      "timestamp": "2026-01-21T06:00:17Z",
       "reported_at": "2026-01-21T02:27:14Z"
     },
     {
-      "id": "90c3e949-5a5c-4ffa-bcea-90df0d2e0fa0",
-      "latitude": -35.007929,
-      "longitude": 138.561354,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
+      "id": "7bec793e-317b-43db-aa9d-6acf5fefddba",
+      "latitude": -34.95459,
+      "longitude": 138.610739,
+      "street": "Wattle St",
+      "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T05:07:24Z"
-    },
-    {
-      "id": "81700ef3-7273-4f12-ac80-da41f55cf83c",
-      "latitude": -34.990223,
-      "longitude": 138.583532,
-      "street": "Winston Av",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T05:10:30Z"
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T04:33:53Z"
     },
     {
       "id": "be8b3c95-718e-41d8-98b2-9ac89fa26bae",
@@ -47,48 +27,58 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
+      "timestamp": "2026-01-21T06:00:17Z",
       "reported_at": "2026-01-21T01:58:20Z"
     },
     {
-      "id": "b497ef1e-f025-4f8c-a341-44f6ba05e181",
-      "latitude": -35.137121,
-      "longitude": 138.516927,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T05:13:15Z"
-    },
-    {
-      "id": "58cb777b-4c3b-4eaf-aec3-6956a491c975",
-      "latitude": -34.840676,
-      "longitude": 138.646322,
+      "id": "afa076e9-f245-42f4-b844-f36ffa21e7b9",
+      "latitude": -34.839288,
+      "longitude": 138.646288,
       "street": "Walkleys Rd",
-      "city": "Walkley Heights",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T05:06:55Z"
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T05:30:34Z"
     },
     {
-      "id": "9f9d2a07-e5a6-44c6-96ce-381a63ebbec3",
-      "latitude": -34.95573,
-      "longitude": 138.567698,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
+      "id": "b8f119cf-7a1d-401f-a6df-400ed239f940",
+      "latitude": -34.888142,
+      "longitude": 138.594104,
+      "street": "Prospect Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T04:48:16Z"
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T05:47:13Z"
     },
     {
-      "id": "64bcbe1e-3824-48b6-9fc6-219584c8a8b4",
-      "latitude": -34.91881,
-      "longitude": 138.578814,
-      "street": "R1 - James Congdon Dr (City Ring Route)",
-      "city": "Adelaide",
+      "id": "9734ac59-38e6-4c06-abab-a9ca4aeba761",
+      "latitude": -34.968082,
+      "longitude": 138.57307,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
-      "reported_at": "2026-01-21T05:02:40Z"
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T05:33:00Z"
+    },
+    {
+      "id": "280b1b63-479e-4300-82d6-1338405ce118",
+      "latitude": -34.909656,
+      "longitude": 138.577081,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Thebarton",
+      "type": "mobile",
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T05:50:51Z"
+    },
+    {
+      "id": "7025d4ce-8de1-4685-a39c-540dd4703b39",
+      "latitude": -34.899621,
+      "longitude": 138.587503,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Ovingham",
+      "type": "mobile",
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T05:47:49Z"
     },
     {
       "id": "fa40ee73-6c29-4511-84bd-e68ee8a8c148",
@@ -97,8 +87,18 @@
       "street": "A11 - North Tce",
       "city": "Hackney",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:30:16Z",
+      "timestamp": "2026-01-21T06:00:17Z",
       "reported_at": "2026-01-21T05:22:25Z"
+    },
+    {
+      "id": "e0934554-8cc1-4b45-84e4-3709154b94cf",
+      "latitude": -34.889418,
+      "longitude": 138.585132,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-01-21T06:00:17Z",
+      "reported_at": "2026-01-21T05:37:06Z"
     }
   ]
 }
