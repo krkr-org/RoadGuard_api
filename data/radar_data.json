@@ -7,18 +7,8 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
+      "timestamp": "2026-01-21T23:30:15Z",
       "reported_at": "2026-01-21T21:29:26Z"
-    },
-    {
-      "id": "93a74c53-6bea-4184-9b59-51039b57c420",
-      "latitude": -34.837048,
-      "longitude": 138.497715,
-      "street": "Fletcher Rd",
-      "city": "Birkenhead",
-      "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
-      "reported_at": "2026-01-21T21:16:04Z"
     },
     {
       "id": "82c3e74a-f118-4d6c-8ae0-035bc3c13ac1",
@@ -27,8 +17,18 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
+      "timestamp": "2026-01-21T23:30:15Z",
       "reported_at": "2026-01-21T20:56:12Z"
+    },
+    {
+      "id": "c923a1c3-276a-4096-8c7c-657b382f9e8d",
+      "latitude": -34.90163,
+      "longitude": 138.594832,
+      "street": "Main North Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T23:12:49Z"
     },
     {
       "id": "30b5203d-baa8-4067-b5b3-2931e88f60ae",
@@ -37,28 +37,8 @@
       "street": "Hanson Rd North",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
+      "timestamp": "2026-01-21T23:30:15Z",
       "reported_at": "2026-01-21T21:03:52Z"
-    },
-    {
-      "id": "903ae697-3ab3-41fc-b730-92fdfdd7afad",
-      "latitude": -34.839825,
-      "longitude": 138.525987,
-      "street": "Eastern Pde",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
-      "reported_at": "2026-01-21T21:12:15Z"
-    },
-    {
-      "id": "d0729bbd-8658-4171-97c5-0e54b18513b7",
-      "latitude": -34.99743,
-      "longitude": 138.593071,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
-      "reported_at": "2026-01-21T22:18:15Z"
     },
     {
       "id": "c7e8208d-e9fb-4f74-a259-417007265171",
@@ -67,38 +47,68 @@
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
+      "timestamp": "2026-01-21T23:30:15Z",
       "reported_at": "2026-01-21T20:57:35Z"
     },
     {
-      "id": "8567c78d-fbe9-4bf7-89d7-b11bf01411a7",
-      "latitude": -34.917675,
-      "longitude": 138.622878,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
+      "id": "93a74c53-6bea-4184-9b59-51039b57c420",
+      "latitude": -34.837048,
+      "longitude": 138.497715,
+      "street": "Fletcher Rd",
+      "city": "Birkenhead",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
-      "reported_at": "2026-01-21T22:41:02Z"
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T21:16:04Z"
     },
     {
-      "id": "71bd0090-50ed-4adb-8bfb-c78b3eff44bb",
-      "latitude": -34.859602,
-      "longitude": 138.513065,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
+      "id": "ae694324-1c5e-41d2-a2fd-d3180d60a05c",
+      "latitude": -34.804341,
+      "longitude": 138.614061,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
-      "reported_at": "2026-01-21T22:51:02Z"
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T23:00:41Z"
     },
     {
-      "id": "acceaaf9-b322-4cfd-b09e-b3ef7c776525",
-      "latitude": -34.83416,
-      "longitude": 138.535181,
+      "id": "8991425d-1cb2-472e-a37b-b8da37aa9f2f",
+      "latitude": -34.942526,
+      "longitude": 138.618921,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T23:14:00Z"
+    },
+    {
+      "id": "903ae697-3ab3-41fc-b730-92fdfdd7afad",
+      "latitude": -34.839825,
+      "longitude": 138.525987,
+      "street": "Eastern Pde",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T21:12:15Z"
+    },
+    {
+      "id": "12c62146-9b41-42e9-88e8-f2d9895f9171",
+      "latitude": -34.85105,
+      "longitude": 138.712031,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T23:02:02Z"
+    },
+    {
+      "id": "95e17a1f-502d-40eb-85ac-f146e8e68d1b",
+      "latitude": -34.83417,
+      "longitude": 138.535011,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
-      "reported_at": "2026-01-21T20:53:06Z"
+      "timestamp": "2026-01-21T23:30:15Z",
+      "reported_at": "2026-01-21T23:01:09Z"
     },
     {
       "id": "b8d0e48e-46e2-4ae1-9edf-6db85a22b9c6",
@@ -107,7 +117,7 @@
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-21T23:00:16Z",
+      "timestamp": "2026-01-21T23:30:15Z",
       "reported_at": "2026-01-21T22:09:25Z"
     }
   ]
