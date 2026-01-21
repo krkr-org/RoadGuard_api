@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "636f9435-dc8c-4d74-847f-04335b95d112",
-      "latitude": -34.881552,
-      "longitude": 138.544501,
-      "street": "Belmore Tce",
-      "city": "Woodville Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T09:26:27Z"
-    },
-    {
       "id": "db40e460-f0af-4576-bae8-434713ea96f8",
       "latitude": -34.796605,
       "longitude": 138.649233,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T07:56:04Z"
-    },
-    {
-      "id": "4157ea2b-3699-4915-9beb-b8a5ccd4ea5f",
-      "latitude": -35.013016,
-      "longitude": 138.566077,
-      "street": "Bradley Gr",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T06:14:02Z"
     },
     {
       "id": "7491e0f4-18d5-45c1-915e-27c64df88a4d",
@@ -37,7 +17,7 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T07:31:19Z"
     },
     {
@@ -47,7 +27,7 @@
       "street": "Eliza Pl",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T06:26:01Z"
     },
     {
@@ -57,7 +37,7 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T06:39:31Z"
     },
     {
@@ -67,18 +47,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T06:53:49Z"
     },
     {
-      "id": "bd014749-e397-46c7-882a-8cee71a9259c",
-      "latitude": -34.808934,
-      "longitude": 138.59963,
-      "street": "to A9- Salisbury Hwy to Mawson Lakes / Salisbury",
-      "city": "Mawson Lakes",
+      "id": "6a990afe-8ffd-4703-bcd2-dd055d26375e",
+      "latitude": -34.681383,
+      "longitude": 138.666,
+      "street": "Stebonheath Rd",
+      "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T09:54:32Z"
+      "timestamp": "2026-01-21T10:30:15Z",
+      "reported_at": "2026-01-21T10:19:44Z"
     },
     {
       "id": "a4355cfb-375e-4c37-b63f-aa9963a9e84b",
@@ -87,8 +67,18 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T05:50:18Z"
+    },
+    {
+      "id": "18707bc6-2099-4fc8-9f59-937a1ce550a8",
+      "latitude": -34.905994,
+      "longitude": 138.522935,
+      "street": "Grange Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-21T10:30:15Z",
+      "reported_at": "2026-01-21T10:15:48Z"
     },
     {
       "id": "6389370c-7f80-4391-83f9-84fea2da09da",
@@ -97,48 +87,38 @@
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
+      "timestamp": "2026-01-21T10:30:15Z",
       "reported_at": "2026-01-21T08:37:00Z"
     },
     {
-      "id": "3f39ce95-8a4a-4229-9b36-a97b24a894db",
-      "latitude": -34.996726,
-      "longitude": 138.593151,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T09:22:41Z"
-    },
-    {
-      "id": "fb92dc54-eccb-4491-bce5-72f36481042d",
-      "latitude": -34.956096,
-      "longitude": 138.567139,
+      "id": "b4f47987-80e5-4d03-8ce2-70679d9f214e",
+      "latitude": -34.955596,
+      "longitude": 138.567913,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T09:31:36Z"
+      "timestamp": "2026-01-21T10:30:15Z",
+      "reported_at": "2026-01-21T09:38:18Z"
     },
     {
-      "id": "6bd52f15-9231-4aef-9d0d-569402d97214",
-      "latitude": -34.865661,
-      "longitude": 138.583443,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T09:01:14Z"
-    },
-    {
-      "id": "f9977b89-c90a-4e79-82ca-199641bc6f67",
-      "latitude": -34.806191,
-      "longitude": 138.60216,
+      "id": "a773612e-bacb-4ca2-adde-74127cd8868c",
+      "latitude": -34.807298,
+      "longitude": 138.60117,
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-21T10:00:15Z",
-      "reported_at": "2026-01-21T09:26:52Z"
+      "timestamp": "2026-01-21T10:30:15Z",
+      "reported_at": "2026-01-21T09:54:59Z"
+    },
+    {
+      "id": "ddb4c625-d871-4d18-b3c9-805b8c7e43f0",
+      "latitude": -34.812158,
+      "longitude": 138.597022,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-01-21T10:30:15Z",
+      "reported_at": "2026-01-21T10:00:47Z"
     }
   ]
 }
