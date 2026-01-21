@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "63c3e5b7-a943-4744-80a6-b514ede2fb64",
-      "latitude": -34.93798,
-      "longitude": 138.594565,
-      "street": "Sir Lewis Cohen Av",
-      "city": "Adelaide",
+      "id": "903ae697-3ab3-41fc-b730-92fdfdd7afad",
+      "latitude": -34.839825,
+      "longitude": 138.525987,
+      "street": "Eastern Pde",
+      "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-21T21:00:17Z",
-      "reported_at": "2026-01-21T20:06:10Z"
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T21:12:15Z"
+    },
+    {
+      "id": "82c3e74a-f118-4d6c-8ae0-035bc3c13ac1",
+      "latitude": -34.864983,
+      "longitude": 138.511144,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T20:56:12Z"
+    },
+    {
+      "id": "93c0b30c-036c-46dd-8d45-f3f914f541cb",
+      "latitude": -34.848833,
+      "longitude": 138.546597,
+      "street": "Hanson Rd North",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T21:03:42Z"
+    },
+    {
+      "id": "c57564aa-2293-4ed8-97b9-63313aac4c06",
+      "latitude": -34.886011,
+      "longitude": 138.658723,
+      "street": "A11 - Lower North East Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T21:05:28Z"
     },
     {
       "id": "82dd5f25-9316-48bf-bf91-adb30245b057",
@@ -17,18 +47,48 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T21:00:17Z",
+      "timestamp": "2026-01-21T21:30:16Z",
       "reported_at": "2026-01-21T20:51:07Z"
     },
     {
-      "id": "484a0c01-1c16-47ef-beaa-20ae1a512f9d",
-      "latitude": -35.072875,
-      "longitude": 138.544008,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
+      "id": "0b5e0a4f-01ae-46fd-8ce1-f86ca099c2c8",
+      "latitude": -34.889921,
+      "longitude": 138.569513,
+      "street": "M2 - North-South Mwy",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T21:00:17Z",
-      "reported_at": "2026-01-21T20:58:11Z"
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T20:52:44Z"
+    },
+    {
+      "id": "3b6b00fe-1285-4213-b5f6-7b1b22331004",
+      "latitude": -34.834387,
+      "longitude": 138.533608,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T21:18:46Z"
+    },
+    {
+      "id": "acceaaf9-b322-4cfd-b09e-b3ef7c776525",
+      "latitude": -34.834102,
+      "longitude": 138.536219,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T20:53:06Z"
+    },
+    {
+      "id": "3528c94b-f3e8-4a5f-b5c2-ade2eaf4cc41",
+      "latitude": -34.855466,
+      "longitude": 138.565122,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T21:30:16Z",
+      "reported_at": "2026-01-21T21:20:51Z"
     }
   ]
 }
