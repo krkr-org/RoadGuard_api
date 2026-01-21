@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "c81108b9-8697-4623-b181-70a06de0484e",
-      "latitude": -35.025498,
-      "longitude": 138.535187,
-      "street": "Folkestone Rd",
-      "city": "Dover Gardens",
+      "id": "636f9435-dc8c-4d74-847f-04335b95d112",
+      "latitude": -34.881552,
+      "longitude": 138.544501,
+      "street": "Belmore Tce",
+      "city": "Woodville Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T06:14:21Z"
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T09:26:27Z"
     },
     {
-      "id": "f87a1b45-3a3a-49c4-a6ce-0bc65664c46d",
-      "latitude": -35.007601,
-      "longitude": 138.559505,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
+      "id": "db40e460-f0af-4576-bae8-434713ea96f8",
+      "latitude": -34.796605,
+      "longitude": 138.649233,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T06:39:31Z"
-    },
-    {
-      "id": "fce30e8f-837d-4a16-b3be-389cef7f85d9",
-      "latitude": -34.989429,
-      "longitude": 138.583476,
-      "street": "Winston Av",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T05:57:39Z"
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T07:56:04Z"
     },
     {
       "id": "4157ea2b-3699-4915-9beb-b8a5ccd4ea5f",
@@ -37,8 +27,18 @@
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
+      "timestamp": "2026-01-21T10:00:15Z",
       "reported_at": "2026-01-21T06:14:02Z"
+    },
+    {
+      "id": "7491e0f4-18d5-45c1-915e-27c64df88a4d",
+      "latitude": -34.989903,
+      "longitude": 138.583511,
+      "street": "Winston Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T07:31:19Z"
     },
     {
       "id": "26ff643e-2215-4399-8997-71a0e3825cc8",
@@ -47,18 +47,18 @@
       "street": "Eliza Pl",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
+      "timestamp": "2026-01-21T10:00:15Z",
       "reported_at": "2026-01-21T06:26:01Z"
     },
     {
-      "id": "0f70a557-e054-4102-ba2a-0b34b5e43d6e",
-      "latitude": -34.949405,
-      "longitude": 138.568185,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
+      "id": "f87a1b45-3a3a-49c4-a6ce-0bc65664c46d",
+      "latitude": -35.007601,
+      "longitude": 138.559505,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T05:40:59Z"
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T06:39:31Z"
     },
     {
       "id": "5ade735f-ce9a-4141-9865-bb80eb980f08",
@@ -67,28 +67,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
+      "timestamp": "2026-01-21T10:00:15Z",
       "reported_at": "2026-01-21T06:53:49Z"
     },
     {
-      "id": "c93a3a91-6548-49de-aab6-e66164f5f08e",
-      "latitude": -34.768595,
-      "longitude": 138.651592,
-      "street": "Unknown Street",
-      "city": "Salisbury",
+      "id": "bd014749-e397-46c7-882a-8cee71a9259c",
+      "latitude": -34.808934,
+      "longitude": 138.59963,
+      "street": "to A9- Salisbury Hwy to Mawson Lakes / Salisbury",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T09:15:26Z"
-    },
-    {
-      "id": "6389370c-7f80-4391-83f9-84fea2da09da",
-      "latitude": -34.992245,
-      "longitude": 138.585766,
-      "street": "Daws Rd",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T08:37:00Z"
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T09:54:32Z"
     },
     {
       "id": "a4355cfb-375e-4c37-b63f-aa9963a9e84b",
@@ -97,48 +87,38 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
+      "timestamp": "2026-01-21T10:00:15Z",
       "reported_at": "2026-01-21T05:50:18Z"
     },
     {
-      "id": "e36f8654-b1df-4d1c-856d-0fee729bf126",
-      "latitude": -35.05282,
-      "longitude": 138.592944,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "6389370c-7f80-4391-83f9-84fea2da09da",
+      "latitude": -34.992245,
+      "longitude": 138.585766,
+      "street": "Daws Rd",
+      "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T08:44:26Z"
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T08:37:00Z"
     },
     {
-      "id": "b9b202f9-badc-4163-951d-abb56f9c5089",
-      "latitude": -34.955631,
-      "longitude": 138.567595,
+      "id": "3f39ce95-8a4a-4229-9b36-a97b24a894db",
+      "latitude": -34.996726,
+      "longitude": 138.593151,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T09:22:41Z"
+    },
+    {
+      "id": "fb92dc54-eccb-4491-bce5-72f36481042d",
+      "latitude": -34.956096,
+      "longitude": 138.567139,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T04:47:52Z"
-    },
-    {
-      "id": "e2efbb2b-a807-48fb-b383-afaec9a77ee2",
-      "latitude": -34.849805,
-      "longitude": 138.565061,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T05:41:48Z"
-    },
-    {
-      "id": "f050c9db-192c-4be7-90f8-77d48abc52c5",
-      "latitude": -34.810736,
-      "longitude": 138.674462,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
-      "reported_at": "2026-01-21T09:08:20Z"
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T09:31:36Z"
     },
     {
       "id": "6bd52f15-9231-4aef-9d0d-569402d97214",
@@ -147,8 +127,18 @@
       "street": "A22 - Churchill Rd",
       "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-21T09:30:14Z",
+      "timestamp": "2026-01-21T10:00:15Z",
       "reported_at": "2026-01-21T09:01:14Z"
+    },
+    {
+      "id": "f9977b89-c90a-4e79-82ca-199641bc6f67",
+      "latitude": -34.806191,
+      "longitude": 138.60216,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-21T10:00:15Z",
+      "reported_at": "2026-01-21T09:26:52Z"
     }
   ]
 }
