@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "903ae697-3ab3-41fc-b730-92fdfdd7afad",
-      "latitude": -34.839825,
-      "longitude": 138.525987,
-      "street": "Eastern Pde",
-      "city": "Gillman",
+      "id": "3c65b155-43ae-4642-86d9-b2991ab6afa8",
+      "latitude": -34.841479,
+      "longitude": 138.543914,
+      "street": "Cormack Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T22:00:17Z",
-      "reported_at": "2026-01-21T21:12:15Z"
+      "timestamp": "2026-01-21T22:30:15Z",
+      "reported_at": "2026-01-21T21:29:26Z"
     },
     {
       "id": "82c3e74a-f118-4d6c-8ae0-035bc3c13ac1",
@@ -17,38 +17,58 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T22:00:17Z",
+      "timestamp": "2026-01-21T22:30:15Z",
       "reported_at": "2026-01-21T20:56:12Z"
     },
     {
-      "id": "160cf397-bda8-4caf-93a6-17f7fd1c88f0",
-      "latitude": -34.84678,
-      "longitude": 138.546476,
+      "id": "30b5203d-baa8-4067-b5b3-2931e88f60ae",
+      "latitude": -34.847559,
+      "longitude": 138.546525,
+      "street": "Hanson Rd North",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-21T22:30:15Z",
+      "reported_at": "2026-01-21T21:03:52Z"
+    },
+    {
+      "id": "903ae697-3ab3-41fc-b730-92fdfdd7afad",
+      "latitude": -34.839825,
+      "longitude": 138.525987,
+      "street": "Eastern Pde",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-21T22:30:15Z",
+      "reported_at": "2026-01-21T21:12:15Z"
+    },
+    {
+      "id": "93a74c53-6bea-4184-9b59-51039b57c420",
+      "latitude": -34.837048,
+      "longitude": 138.497715,
+      "street": "Fletcher Rd",
+      "city": "Birkenhead",
+      "type": "mobile",
+      "timestamp": "2026-01-21T22:30:15Z",
+      "reported_at": "2026-01-21T21:16:04Z"
+    },
+    {
+      "id": "c7e8208d-e9fb-4f74-a259-417007265171",
+      "latitude": -34.846202,
+      "longitude": 138.546438,
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T22:00:17Z",
-      "reported_at": "2026-01-21T21:04:48Z"
+      "timestamp": "2026-01-21T22:30:15Z",
+      "reported_at": "2026-01-21T20:57:35Z"
     },
     {
-      "id": "82dd5f25-9316-48bf-bf91-adb30245b057",
-      "latitude": -34.849725,
-      "longitude": 138.566648,
+      "id": "1f610ab6-cc17-4b2c-a920-64ead211374e",
+      "latitude": -34.849794,
+      "longitude": 138.565275,
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T22:00:17Z",
-      "reported_at": "2026-01-21T20:51:07Z"
-    },
-    {
-      "id": "1083d79c-bf85-4da1-a9c8-11e01c8b5dc7",
-      "latitude": -34.847851,
-      "longitude": 138.606274,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-01-21T22:00:17Z",
-      "reported_at": "2026-01-21T21:41:19Z"
+      "timestamp": "2026-01-21T22:30:15Z",
+      "reported_at": "2026-01-21T22:21:33Z"
     }
   ]
 }
