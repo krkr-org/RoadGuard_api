@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "068ba2f1-294e-4cd2-834b-21b3e1f88617",
-      "latitude": -34.954146,
-      "longitude": 138.619488,
-      "street": "Wattle St",
-      "city": "Fullarton",
+      "id": "609cdab7-0450-4681-9beb-18ce0dc18a14",
+      "latitude": -34.849335,
+      "longitude": 138.508268,
+      "street": "Baynes Pl",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
-      "reported_at": "2026-01-21T00:49:22Z"
+      "timestamp": "2026-01-21T05:00:16Z",
+      "reported_at": "2026-01-21T04:45:10Z"
     },
     {
       "id": "8ed3f753-bc3f-4254-8388-cc2c600d9758",
@@ -17,8 +17,28 @@
       "street": "Johansson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
+      "timestamp": "2026-01-21T05:00:16Z",
       "reported_at": "2026-01-21T02:27:14Z"
+    },
+    {
+      "id": "7efa6d41-0e36-4999-a06e-495ce14ecb37",
+      "latitude": -34.954127,
+      "longitude": 138.619897,
+      "street": "Wattle St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-01-21T05:00:16Z",
+      "reported_at": "2026-01-21T02:03:26Z"
+    },
+    {
+      "id": "aed6f234-10af-4443-9a03-babdcda9dc7b",
+      "latitude": -34.746387,
+      "longitude": 138.66533,
+      "street": "Oldham Rd",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-21T05:00:16Z",
+      "reported_at": "2026-01-21T04:47:10Z"
     },
     {
       "id": "be8b3c95-718e-41d8-98b2-9ac89fa26bae",
@@ -27,48 +47,38 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
+      "timestamp": "2026-01-21T05:00:16Z",
       "reported_at": "2026-01-21T01:58:20Z"
     },
     {
-      "id": "dc6401ef-a58a-4e62-a466-eb1ee8ecfc1d",
-      "latitude": -34.834954,
-      "longitude": 138.617547,
-      "street": "South Tce",
-      "city": "Pooraka",
+      "id": "42166116-18e4-4610-ae28-d62f2cb45f0c",
+      "latitude": -34.919825,
+      "longitude": 138.615032,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
-      "reported_at": "2026-01-21T03:20:00Z"
+      "timestamp": "2026-01-21T05:00:16Z",
+      "reported_at": "2026-01-21T04:39:08Z"
     },
     {
-      "id": "6023ee7a-34ec-47c6-85cb-b43d6121edec",
-      "latitude": -34.940691,
-      "longitude": 138.613085,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "id": "0335ba58-21a3-4b2e-93cb-f3feb1321998",
+      "latitude": -34.914525,
+      "longitude": 138.613989,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
-      "reported_at": "2026-01-21T04:09:40Z"
+      "timestamp": "2026-01-21T05:00:16Z",
+      "reported_at": "2026-01-21T04:29:18Z"
     },
     {
-      "id": "4dd10c5d-e17d-47a4-b765-4f85fac64a84",
-      "latitude": -34.997766,
-      "longitude": 138.701921,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers",
+      "id": "9f9d2a07-e5a6-44c6-96ce-381a63ebbec3",
+      "latitude": -34.95573,
+      "longitude": 138.567698,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
-      "reported_at": "2026-01-21T03:43:21Z"
-    },
-    {
-      "id": "67989e3d-e382-4100-888c-9e92e75f24a7",
-      "latitude": -34.679267,
-      "longitude": 138.623403,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-21T04:30:14Z",
-      "reported_at": "2026-01-21T04:20:47Z"
+      "timestamp": "2026-01-21T05:00:16Z",
+      "reported_at": "2026-01-21T04:48:16Z"
     }
   ]
 }
