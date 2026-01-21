@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "609cdab7-0450-4681-9beb-18ce0dc18a14",
-      "latitude": -34.849335,
-      "longitude": 138.508268,
-      "street": "Baynes Pl",
-      "city": "Port Adelaide",
+      "id": "7efa6d41-0e36-4999-a06e-495ce14ecb37",
+      "latitude": -34.954127,
+      "longitude": 138.619897,
+      "street": "Wattle St",
+      "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
-      "reported_at": "2026-01-21T04:45:10Z"
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T02:03:26Z"
     },
     {
       "id": "8ed3f753-bc3f-4254-8388-cc2c600d9758",
@@ -17,28 +17,28 @@
       "street": "Johansson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
+      "timestamp": "2026-01-21T05:30:16Z",
       "reported_at": "2026-01-21T02:27:14Z"
     },
     {
-      "id": "7efa6d41-0e36-4999-a06e-495ce14ecb37",
-      "latitude": -34.954127,
-      "longitude": 138.619897,
-      "street": "Wattle St",
-      "city": "Fullarton",
+      "id": "90c3e949-5a5c-4ffa-bcea-90df0d2e0fa0",
+      "latitude": -35.007929,
+      "longitude": 138.561354,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
-      "reported_at": "2026-01-21T02:03:26Z"
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T05:07:24Z"
     },
     {
-      "id": "aed6f234-10af-4443-9a03-babdcda9dc7b",
-      "latitude": -34.746387,
-      "longitude": 138.66533,
-      "street": "Oldham Rd",
-      "city": "Elizabeth Vale",
+      "id": "81700ef3-7273-4f12-ac80-da41f55cf83c",
+      "latitude": -34.990223,
+      "longitude": 138.583532,
+      "street": "Winston Av",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
-      "reported_at": "2026-01-21T04:47:10Z"
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T05:10:30Z"
     },
     {
       "id": "be8b3c95-718e-41d8-98b2-9ac89fa26bae",
@@ -47,28 +47,28 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
+      "timestamp": "2026-01-21T05:30:16Z",
       "reported_at": "2026-01-21T01:58:20Z"
     },
     {
-      "id": "42166116-18e4-4610-ae28-d62f2cb45f0c",
-      "latitude": -34.919825,
-      "longitude": 138.615032,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "b497ef1e-f025-4f8c-a341-44f6ba05e181",
+      "latitude": -35.137121,
+      "longitude": 138.516927,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
-      "reported_at": "2026-01-21T04:39:08Z"
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T05:13:15Z"
     },
     {
-      "id": "0335ba58-21a3-4b2e-93cb-f3feb1321998",
-      "latitude": -34.914525,
-      "longitude": 138.613989,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "58cb777b-4c3b-4eaf-aec3-6956a491c975",
+      "latitude": -34.840676,
+      "longitude": 138.646322,
+      "street": "Walkleys Rd",
+      "city": "Walkley Heights",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
-      "reported_at": "2026-01-21T04:29:18Z"
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T05:06:55Z"
     },
     {
       "id": "9f9d2a07-e5a6-44c6-96ce-381a63ebbec3",
@@ -77,8 +77,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-21T05:00:16Z",
+      "timestamp": "2026-01-21T05:30:16Z",
       "reported_at": "2026-01-21T04:48:16Z"
+    },
+    {
+      "id": "64bcbe1e-3824-48b6-9fc6-219584c8a8b4",
+      "latitude": -34.91881,
+      "longitude": 138.578814,
+      "street": "R1 - James Congdon Dr (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T05:02:40Z"
+    },
+    {
+      "id": "fa40ee73-6c29-4511-84bd-e68ee8a8c148",
+      "latitude": -34.918341,
+      "longitude": 138.617503,
+      "street": "A11 - North Tce",
+      "city": "Hackney",
+      "type": "mobile",
+      "timestamp": "2026-01-21T05:30:16Z",
+      "reported_at": "2026-01-21T05:22:25Z"
     }
   ]
 }
