@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "7fe7dc95-52d6-4e5b-a598-9d456b110141",
-      "latitude": -34.958706,
-      "longitude": 138.563266,
-      "street": "Beckman St",
-      "city": "Plympton",
+      "id": "80f76b26-4706-473b-82cc-4c9d2b8f1da1",
+      "latitude": -34.833943,
+      "longitude": 138.49366,
+      "street": "Hargrave St",
+      "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
-      "reported_at": "2026-01-22T04:29:48Z"
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T02:17:46Z"
+    },
+    {
+      "id": "7b846bb6-5a9a-4f48-9c36-a73c2c9d9d70",
+      "latitude": -34.732581,
+      "longitude": 138.60445,
+      "street": "Helps Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T01:00:57Z"
     },
     {
       "id": "52dfaf49-8c8a-40cf-864b-eeb7a6e6b9ca",
@@ -17,7 +27,7 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
+      "timestamp": "2026-01-22T05:30:15Z",
       "reported_at": "2026-01-22T01:36:28Z"
     },
     {
@@ -27,28 +37,38 @@
       "street": "Curtis Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
+      "timestamp": "2026-01-22T05:30:15Z",
       "reported_at": "2026-01-22T04:56:15Z"
     },
     {
-      "id": "5e2fd5c5-c5fc-4519-970a-48fff3b0189e",
-      "latitude": -34.88611,
-      "longitude": 138.566275,
-      "street": "Torrens Rd",
-      "city": "Croydon Park",
+      "id": "3c6fb341-c90d-4498-9992-21715f1d6c0b",
+      "latitude": -35.005403,
+      "longitude": 138.539981,
+      "street": "Morphett Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
-      "reported_at": "2026-01-22T04:33:39Z"
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T05:06:29Z"
     },
     {
-      "id": "c65875bf-68f0-4d75-921f-6396e5905d21",
-      "latitude": -34.818552,
-      "longitude": 138.670459,
-      "street": "Milne Rd",
-      "city": "Modbury Heights",
+      "id": "f0f49c08-6a00-4a32-abf7-f796ffd86ea1",
+      "latitude": -34.705385,
+      "longitude": 138.607765,
+      "street": "Heaslip Rd",
+      "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
-      "reported_at": "2026-01-22T01:06:23Z"
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T05:05:46Z"
+    },
+    {
+      "id": "53aaceb0-d2ad-4149-9b0f-0c804e310c45",
+      "latitude": -34.895992,
+      "longitude": 138.531893,
+      "street": "Findon Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T05:06:39Z"
     },
     {
       "id": "84e3759a-9089-46ba-b816-dbadcbdbd145",
@@ -57,18 +77,28 @@
       "street": "A3 - Cross Rd",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
+      "timestamp": "2026-01-22T05:30:15Z",
       "reported_at": "2026-01-22T04:55:52Z"
     },
     {
-      "id": "c959a754-b9b5-4e3f-8c24-84e8d4729e15",
-      "latitude": -34.869235,
-      "longitude": 138.675917,
-      "street": "A11 - Lower North East Rd",
-      "city": "Paradise",
+      "id": "89554118-c659-4a72-b774-56f125bd849b",
+      "latitude": -34.924332,
+      "longitude": 138.549007,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-01-22T05:00:15Z",
-      "reported_at": "2026-01-22T04:27:53Z"
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T05:12:09Z"
+    },
+    {
+      "id": "9f61c9dd-43e5-4386-96c6-10e03308d72c",
+      "latitude": -34.820775,
+      "longitude": 138.727178,
+      "street": "A10 - North East Rd",
+      "city": "Tea Tree Gully",
+      "type": "mobile",
+      "timestamp": "2026-01-22T05:30:15Z",
+      "reported_at": "2026-01-22T05:10:19Z"
     }
   ]
 }
