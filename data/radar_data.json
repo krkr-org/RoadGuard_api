@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "570173ef-c059-4b93-a785-1b613790c9a8",
-      "latitude": -34.756047,
-      "longitude": 138.631356,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "fa7f7687-db12-47a0-aa26-ec4ca4ee2f3a",
+      "latitude": -34.708182,
+      "longitude": 138.680784,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T09:00:18Z",
-      "reported_at": "2026-01-22T08:42:21Z"
+      "timestamp": "2026-01-22T09:30:13Z",
+      "reported_at": "2026-01-22T09:10:05Z"
     },
     {
       "id": "c43e046a-0c53-4181-8d1f-c2320243ccbe",
@@ -17,7 +17,7 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-22T09:00:18Z",
+      "timestamp": "2026-01-22T09:30:13Z",
       "reported_at": "2026-01-22T07:21:07Z"
     },
     {
@@ -27,18 +27,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T09:00:18Z",
+      "timestamp": "2026-01-22T09:30:13Z",
       "reported_at": "2026-01-22T08:57:28Z"
     },
     {
-      "id": "acfbd337-988a-4bd0-9057-f5bc3680c126",
-      "latitude": -34.681885,
-      "longitude": 138.605581,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
+      "id": "53d2c188-acc5-4532-9b6d-60f8b52c0031",
+      "latitude": -34.839439,
+      "longitude": 138.676097,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-01-22T09:00:18Z",
-      "reported_at": "2026-01-22T08:50:28Z"
+      "timestamp": "2026-01-22T09:30:13Z",
+      "reported_at": "2026-01-22T09:08:39Z"
+    },
+    {
+      "id": "7fbfac68-83c3-4340-8408-65fd021f15be",
+      "latitude": -34.906117,
+      "longitude": 138.514725,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-22T09:30:13Z",
+      "reported_at": "2026-01-22T09:15:26Z"
     }
   ]
 }
