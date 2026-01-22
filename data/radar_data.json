@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "939f1471-2437-4669-a5b6-717a9db1bcf4",
-      "latitude": -34.873768,
-      "longitude": 138.541995,
-      "street": "Woodville Rd",
-      "city": "St. Clair",
+      "id": "570173ef-c059-4b93-a785-1b613790c9a8",
+      "latitude": -34.756047,
+      "longitude": 138.631356,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-22T08:30:14Z",
-      "reported_at": "2026-01-22T07:45:52Z"
-    },
-    {
-      "id": "d96a7322-8ac0-462a-90e6-3e79921ab121",
-      "latitude": -35.038787,
-      "longitude": 138.820714,
-      "street": "Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-22T08:30:14Z",
-      "reported_at": "2026-01-22T08:13:29Z"
-    },
-    {
-      "id": "19ed9e9d-45b8-4ada-8f8e-d07a20b3e67c",
-      "latitude": -34.867372,
-      "longitude": 138.592686,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-01-22T08:30:14Z",
-      "reported_at": "2026-01-22T06:01:40Z"
-    },
-    {
-      "id": "f0991f5b-f7f7-4d6c-a80d-72e46ab972e6",
-      "latitude": -34.93156,
-      "longitude": 138.575332,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Mile End",
-      "type": "mobile",
-      "timestamp": "2026-01-22T08:30:14Z",
-      "reported_at": "2026-01-22T07:43:14Z"
+      "timestamp": "2026-01-22T09:00:18Z",
+      "reported_at": "2026-01-22T08:42:21Z"
     },
     {
       "id": "c43e046a-0c53-4181-8d1f-c2320243ccbe",
@@ -47,8 +17,28 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-22T08:30:14Z",
+      "timestamp": "2026-01-22T09:00:18Z",
       "reported_at": "2026-01-22T07:21:07Z"
+    },
+    {
+      "id": "dacbf560-b65c-4476-b725-4283eab0d3b9",
+      "latitude": -34.850583,
+      "longitude": 138.547501,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-22T09:00:18Z",
+      "reported_at": "2026-01-22T08:57:28Z"
+    },
+    {
+      "id": "acfbd337-988a-4bd0-9057-f5bc3680c126",
+      "latitude": -34.681885,
+      "longitude": 138.605581,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-22T09:00:18Z",
+      "reported_at": "2026-01-22T08:50:28Z"
     }
   ]
 }
