@@ -1,64 +1,14 @@
 {
   "radars": [
     {
-      "id": "80f76b26-4706-473b-82cc-4c9d2b8f1da1",
-      "latitude": -34.833943,
-      "longitude": 138.49366,
-      "street": "Hargrave St",
-      "city": "Peterhead",
+      "id": "fdd79ef5-0b57-4e17-9721-5612937f7746",
+      "latitude": -34.795339,
+      "longitude": 138.491551,
+      "street": "Lady Gowrie Dr",
+      "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T02:17:46Z"
-    },
-    {
-      "id": "0b7052ad-03f7-4b9d-9d38-d61ff31865fa",
-      "latitude": -34.978625,
-      "longitude": 138.517618,
-      "street": "Gordon St",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T05:59:47Z"
-    },
-    {
-      "id": "16e9bbc7-1401-485d-b43b-6a52f52d1861",
-      "latitude": -34.845511,
-      "longitude": 138.556298,
-      "street": "Francis Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T02:37:57Z"
-    },
-    {
-      "id": "2064b7ae-4320-4c43-8fda-04abb4e59462",
-      "latitude": -34.917481,
-      "longitude": 138.622862,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T06:14:41Z"
-    },
-    {
-      "id": "19ed9e9d-45b8-4ada-8f8e-d07a20b3e67c",
-      "latitude": -34.867372,
-      "longitude": 138.592686,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T06:01:40Z"
-    },
-    {
-      "id": "3f996721-243e-4c71-a33a-70f99a85ad0a",
-      "latitude": -34.939354,
-      "longitude": 138.594659,
-      "street": "Sir Lewis Cohen Av",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T05:20:56Z"
+      "timestamp": "2026-01-22T07:30:15Z",
+      "reported_at": "2026-01-22T06:50:26Z"
     },
     {
       "id": "50de914b-b43c-4374-93fc-5c084f6a259e",
@@ -67,18 +17,28 @@
       "street": "King William Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
+      "timestamp": "2026-01-22T07:30:15Z",
       "reported_at": "2026-01-22T06:34:07Z"
     },
     {
-      "id": "b49cfa0d-9970-4c10-96ad-541f7e15ad07",
-      "latitude": -35.130262,
-      "longitude": 138.485748,
-      "street": "Unknown Street",
-      "city": "Christie Downs",
+      "id": "19ed9e9d-45b8-4ada-8f8e-d07a20b3e67c",
+      "latitude": -34.867372,
+      "longitude": 138.592686,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T06:54:42Z"
+      "timestamp": "2026-01-22T07:30:15Z",
+      "reported_at": "2026-01-22T06:01:40Z"
+    },
+    {
+      "id": "c43e046a-0c53-4181-8d1f-c2320243ccbe",
+      "latitude": -34.929446,
+      "longitude": 138.585721,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-22T07:30:15Z",
+      "reported_at": "2026-01-22T07:21:07Z"
     },
     {
       "id": "a4198e80-1d30-452f-915f-bd9555f5da97",
@@ -87,28 +47,8 @@
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
+      "timestamp": "2026-01-22T07:30:15Z",
       "reported_at": "2026-01-22T06:46:47Z"
-    },
-    {
-      "id": "9f61c9dd-43e5-4386-96c6-10e03308d72c",
-      "latitude": -34.820775,
-      "longitude": 138.727178,
-      "street": "A10 - North East Rd",
-      "city": "Tea Tree Gully",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T05:10:19Z"
-    },
-    {
-      "id": "483da59a-4ca8-4f53-bffd-ff217771aeff",
-      "latitude": -34.764053,
-      "longitude": 138.639878,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-22T07:00:16Z",
-      "reported_at": "2026-01-22T06:37:01Z"
     }
   ]
 }
