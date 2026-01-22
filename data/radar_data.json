@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "18bc1e0b-fc0f-42b9-b8ce-18914d0b121f",
-      "latitude": -34.693853,
-      "longitude": 138.683393,
-      "street": "Konanda Rd",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-22T02:33:54Z"
-    },
-    {
-      "id": "52dfaf49-8c8a-40cf-864b-eeb7a6e6b9ca",
-      "latitude": -34.8368,
-      "longitude": 138.621416,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-22T01:36:28Z"
-    },
-    {
-      "id": "0497ea87-5977-4063-8541-f5d9994b97b6",
-      "latitude": -34.864242,
-      "longitude": 138.510029,
-      "street": "Old Port Rd",
-      "city": "Royal Park",
-      "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-22T02:04:43Z"
-    },
-    {
       "id": "c65875bf-68f0-4d75-921f-6396e5905d21",
       "latitude": -34.818552,
       "longitude": 138.670459,
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
+      "timestamp": "2026-01-22T03:30:16Z",
       "reported_at": "2026-01-22T01:06:23Z"
-    },
-    {
-      "id": "15c887e0-0927-4409-87d6-5a7fa97f4110",
-      "latitude": -34.839178,
-      "longitude": 138.524293,
-      "street": "Eastern Pde",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-21T23:45:44Z"
     },
     {
       "id": "f1e11f82-a7bf-496d-aa79-7abd96433ede",
@@ -57,8 +17,28 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
+      "timestamp": "2026-01-22T03:30:16Z",
       "reported_at": "2026-01-22T01:22:58Z"
+    },
+    {
+      "id": "0497ea87-5977-4063-8541-f5d9994b97b6",
+      "latitude": -34.864242,
+      "longitude": 138.510029,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-22T02:04:43Z"
+    },
+    {
+      "id": "15c887e0-0927-4409-87d6-5a7fa97f4110",
+      "latitude": -34.839178,
+      "longitude": 138.524293,
+      "street": "Eastern Pde",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-21T23:45:44Z"
     },
     {
       "id": "e847a445-aba3-41c2-a42b-ba2defb8b641",
@@ -67,48 +47,58 @@
       "street": "Hanson Rd North",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
+      "timestamp": "2026-01-22T03:30:16Z",
       "reported_at": "2026-01-22T01:12:09Z"
     },
     {
-      "id": "a9ac4ebe-2355-400b-843e-d205ba38fbba",
-      "latitude": -34.849732,
-      "longitude": 138.567963,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
+      "id": "52dfaf49-8c8a-40cf-864b-eeb7a6e6b9ca",
+      "latitude": -34.8368,
+      "longitude": 138.621416,
+      "street": "South Tce",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-22T02:18:52Z"
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-22T01:36:28Z"
     },
     {
-      "id": "391a3197-07bb-4c44-8b8b-d3b151cd2f8a",
-      "latitude": -35.046227,
-      "longitude": 138.550207,
+      "id": "82935a16-ecae-402d-925d-fd4860580654",
+      "latitude": -34.968148,
+      "longitude": 138.548229,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-22T03:21:04Z"
+    },
+    {
+      "id": "fe7e41a6-af42-4704-ad0b-e22c2eecf95b",
+      "latitude": -34.97175,
+      "longitude": 138.542971,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-22T03:09:27Z"
+    },
+    {
+      "id": "f870228b-778f-4352-9b48-e3e9083217b0",
+      "latitude": -35.090607,
+      "longitude": 138.527197,
       "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-22T02:51:13Z"
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-22T03:29:04Z"
     },
     {
-      "id": "95e17a1f-502d-40eb-85ac-f146e8e68d1b",
-      "latitude": -34.83417,
-      "longitude": 138.535011,
+      "id": "acceaaf9-b322-4cfd-b09e-b3ef7c776525",
+      "latitude": -34.83416,
+      "longitude": 138.535181,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-21T23:01:09Z"
-    },
-    {
-      "id": "d62b948e-97f9-4eb2-bb81-cbeb7fde43dd",
-      "latitude": -35.025805,
-      "longitude": 138.557482,
-      "street": "M2 - Southern Exp",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-01-22T03:00:17Z",
-      "reported_at": "2026-01-22T02:56:40Z"
+      "timestamp": "2026-01-22T03:30:16Z",
+      "reported_at": "2026-01-21T20:53:06Z"
     }
   ]
 }
