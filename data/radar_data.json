@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "c33d3fb0-93da-449e-80d8-72b12196ce9b",
+      "latitude": -34.921656,
+      "longitude": 138.62482,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-22T04:30:14Z",
+      "reported_at": "2026-01-22T04:10:04Z"
+    },
+    {
       "id": "52dfaf49-8c8a-40cf-864b-eeb7a6e6b9ca",
       "latitude": -34.8368,
       "longitude": 138.621416,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:00:16Z",
+      "timestamp": "2026-01-22T04:30:14Z",
       "reported_at": "2026-01-22T01:36:28Z"
-    },
-    {
-      "id": "c65875bf-68f0-4d75-921f-6396e5905d21",
-      "latitude": -34.818552,
-      "longitude": 138.670459,
-      "street": "Milne Rd",
-      "city": "Modbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-01-22T04:00:16Z",
-      "reported_at": "2026-01-22T01:06:23Z"
-    },
-    {
-      "id": "f1e11f82-a7bf-496d-aa79-7abd96433ede",
-      "latitude": -34.718325,
-      "longitude": 138.76118,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-22T04:00:16Z",
-      "reported_at": "2026-01-22T01:22:58Z"
     },
     {
       "id": "0497ea87-5977-4063-8541-f5d9994b97b6",
@@ -37,28 +27,48 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:00:16Z",
+      "timestamp": "2026-01-22T04:30:14Z",
       "reported_at": "2026-01-22T02:04:43Z"
     },
     {
-      "id": "2f102d0b-0313-485a-90d7-c63d59fa907c",
-      "latitude": -34.952173,
-      "longitude": 138.573183,
-      "street": "A5 - Anzac Hwy",
-      "city": "Everard Park",
+      "id": "f1e11f82-a7bf-496d-aa79-7abd96433ede",
+      "latitude": -34.718325,
+      "longitude": 138.76118,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:00:16Z",
-      "reported_at": "2026-01-22T03:55:49Z"
+      "timestamp": "2026-01-22T04:30:14Z",
+      "reported_at": "2026-01-22T01:22:58Z"
     },
     {
-      "id": "dc837d36-4367-40d8-9b78-4164d677cdcd",
-      "latitude": -35.079534,
-      "longitude": 138.544315,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "3587c24c-1df1-4b27-ae73-6e1f573be375",
+      "latitude": -35.01686,
+      "longitude": 138.566498,
+      "street": "Sturt Rd",
+      "city": "Tonsley",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:00:16Z",
-      "reported_at": "2026-01-22T03:30:23Z"
+      "timestamp": "2026-01-22T04:30:14Z",
+      "reported_at": "2026-01-22T04:10:58Z"
+    },
+    {
+      "id": "c65875bf-68f0-4d75-921f-6396e5905d21",
+      "latitude": -34.818552,
+      "longitude": 138.670459,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-22T04:30:14Z",
+      "reported_at": "2026-01-22T01:06:23Z"
+    },
+    {
+      "id": "c397a139-9cb1-4471-a735-86ec7ccabcbd",
+      "latitude": -34.860492,
+      "longitude": 138.567281,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-22T04:30:14Z",
+      "reported_at": "2026-01-22T04:09:11Z"
     }
   ]
 }
