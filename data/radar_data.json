@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "c33d3fb0-93da-449e-80d8-72b12196ce9b",
-      "latitude": -34.921656,
-      "longitude": 138.62482,
-      "street": "The Parade",
-      "city": "Norwood",
+      "id": "7fe7dc95-52d6-4e5b-a598-9d456b110141",
+      "latitude": -34.958706,
+      "longitude": 138.563266,
+      "street": "Beckman St",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
-      "reported_at": "2026-01-22T04:10:04Z"
+      "timestamp": "2026-01-22T05:00:15Z",
+      "reported_at": "2026-01-22T04:29:48Z"
     },
     {
       "id": "52dfaf49-8c8a-40cf-864b-eeb7a6e6b9ca",
@@ -17,38 +17,28 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
+      "timestamp": "2026-01-22T05:00:15Z",
       "reported_at": "2026-01-22T01:36:28Z"
     },
     {
-      "id": "0497ea87-5977-4063-8541-f5d9994b97b6",
-      "latitude": -34.864242,
-      "longitude": 138.510029,
-      "street": "Old Port Rd",
-      "city": "Royal Park",
+      "id": "f13282d5-884b-4831-aae4-15a540d6242b",
+      "latitude": -34.676424,
+      "longitude": 138.691027,
+      "street": "Curtis Rd",
+      "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
-      "reported_at": "2026-01-22T02:04:43Z"
+      "timestamp": "2026-01-22T05:00:15Z",
+      "reported_at": "2026-01-22T04:56:15Z"
     },
     {
-      "id": "f1e11f82-a7bf-496d-aa79-7abd96433ede",
-      "latitude": -34.718325,
-      "longitude": 138.76118,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
+      "id": "5e2fd5c5-c5fc-4519-970a-48fff3b0189e",
+      "latitude": -34.88611,
+      "longitude": 138.566275,
+      "street": "Torrens Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
-      "reported_at": "2026-01-22T01:22:58Z"
-    },
-    {
-      "id": "3587c24c-1df1-4b27-ae73-6e1f573be375",
-      "latitude": -35.01686,
-      "longitude": 138.566498,
-      "street": "Sturt Rd",
-      "city": "Tonsley",
-      "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
-      "reported_at": "2026-01-22T04:10:58Z"
+      "timestamp": "2026-01-22T05:00:15Z",
+      "reported_at": "2026-01-22T04:33:39Z"
     },
     {
       "id": "c65875bf-68f0-4d75-921f-6396e5905d21",
@@ -57,18 +47,28 @@
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
+      "timestamp": "2026-01-22T05:00:15Z",
       "reported_at": "2026-01-22T01:06:23Z"
     },
     {
-      "id": "c397a139-9cb1-4471-a735-86ec7ccabcbd",
-      "latitude": -34.860492,
-      "longitude": 138.567281,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "84e3759a-9089-46ba-b816-dbadcbdbd145",
+      "latitude": -34.968088,
+      "longitude": 138.555666,
+      "street": "A3 - Cross Rd",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-22T04:30:14Z",
-      "reported_at": "2026-01-22T04:09:11Z"
+      "timestamp": "2026-01-22T05:00:15Z",
+      "reported_at": "2026-01-22T04:55:52Z"
+    },
+    {
+      "id": "c959a754-b9b5-4e3f-8c24-84e8d4729e15",
+      "latitude": -34.869235,
+      "longitude": 138.675917,
+      "street": "A11 - Lower North East Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-01-22T05:00:15Z",
+      "reported_at": "2026-01-22T04:27:53Z"
     }
   ]
 }
