@@ -1,44 +1,64 @@
 {
   "radars": [
     {
-      "id": "2caf1c2a-27a5-45e1-ab9e-ad18de4cd3dd",
-      "latitude": -34.906313,
-      "longitude": 138.514494,
-      "street": "Grange Rd",
-      "city": "Seaton",
+      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
+      "latitude": -34.968454,
+      "longitude": 138.541524,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T21:00:15Z",
-      "reported_at": "2026-01-22T20:46:46Z"
+      "timestamp": "2026-01-22T21:30:13Z",
+      "reported_at": "2026-01-22T20:38:26Z"
     },
     {
-      "id": "3919e398-2a8d-41da-8056-05229c0bbc68",
-      "latitude": -34.82437,
-      "longitude": 138.62804,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-22T21:00:15Z",
-      "reported_at": "2026-01-22T20:38:11Z"
-    },
-    {
-      "id": "8e77b859-0cdc-4f67-a2e4-50e05a0b3852",
-      "latitude": -35.007825,
-      "longitude": 138.587112,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-22T21:00:15Z",
-      "reported_at": "2026-01-22T20:53:13Z"
-    },
-    {
-      "id": "67801929-ea5d-4212-b950-055172e0d408",
-      "latitude": -35.010912,
-      "longitude": 138.582264,
+      "id": "37823bef-ab77-4789-9802-13d978aa685f",
+      "latitude": -35.010817,
+      "longitude": 138.583991,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-22T21:00:15Z",
-      "reported_at": "2026-01-22T20:49:24Z"
+      "timestamp": "2026-01-22T21:30:13Z",
+      "reported_at": "2026-01-22T21:27:43Z"
+    },
+    {
+      "id": "95b99680-76bb-4a0e-8616-f143039c3242",
+      "latitude": -35.109819,
+      "longitude": 138.630034,
+      "street": "Grants Gully Rd",
+      "city": "Clarendon",
+      "type": "mobile",
+      "timestamp": "2026-01-22T21:30:13Z",
+      "reported_at": "2026-01-22T20:50:38Z"
+    },
+    {
+      "id": "76626abd-e328-408a-9c98-36f8341893ab",
+      "latitude": -35.009036,
+      "longitude": 138.586292,
+      "street": "Fiveash Dr",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-01-22T21:30:13Z",
+      "reported_at": "2026-01-22T21:19:44Z"
+    },
+    {
+      "id": "42c7ec81-e94c-44bc-a2f9-ae9c934a4203",
+      "latitude": -34.759304,
+      "longitude": 138.813819,
+      "street": "Kersbrook Rd",
+      "city": "Sampson Flat",
+      "type": "mobile",
+      "timestamp": "2026-01-22T21:30:13Z",
+      "reported_at": "2026-01-22T21:17:49Z"
+    },
+    {
+      "id": "6d9b90dc-bcbe-4faa-8976-d2861280744d",
+      "latitude": -34.731645,
+      "longitude": 138.66291,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-22T21:30:13Z",
+      "reported_at": "2026-01-22T21:01:34Z"
     }
   ]
 }
