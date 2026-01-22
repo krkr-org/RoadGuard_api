@@ -1,44 +1,94 @@
 {
   "radars": [
     {
-      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
-      "latitude": -34.968454,
-      "longitude": 138.541524,
+      "id": "bfcc593d-f559-47d8-bee1-db4a62e1aa28",
+      "latitude": -34.968456,
+      "longitude": 138.541486,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T22:00:16Z",
-      "reported_at": "2026-01-22T20:38:26Z"
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T21:44:06Z"
     },
     {
-      "id": "236f19c0-36d8-491d-a4e6-da4fb2f1f56b",
-      "latitude": -35.010794,
-      "longitude": 138.582912,
+      "id": "f8bbd219-1450-4877-ae6a-7d5b144111d5",
+      "latitude": -34.966574,
+      "longitude": 138.635685,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T21:50:24Z"
+    },
+    {
+      "id": "1e633d04-89b1-4549-8c79-476daeda5134",
+      "latitude": -34.979582,
+      "longitude": 138.601335,
+      "street": "Wattlebury Rd",
+      "city": "Lower Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T22:20:08Z"
+    },
+    {
+      "id": "5fc51c68-7e01-4c2b-8735-8ad33046723c",
+      "latitude": -34.727549,
+      "longitude": 138.678067,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T21:53:43Z"
+    },
+    {
+      "id": "25254a6b-26e1-4031-ba8c-1ed2d1c0e2ad",
+      "latitude": -34.825316,
+      "longitude": 138.612075,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T22:28:12Z"
+    },
+    {
+      "id": "4506ec5b-baf2-4edc-ac89-49a9a65330bf",
+      "latitude": -35.01087,
+      "longitude": 138.581269,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-22T22:00:16Z",
-      "reported_at": "2026-01-22T21:19:20Z"
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T21:33:52Z"
     },
     {
-      "id": "e8934ff8-2f3c-4876-ae41-a61f77cd8024",
-      "latitude": -35.017431,
-      "longitude": 138.558847,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "d2da17df-9478-4b01-8015-f211967f718b",
+      "latitude": -35.065172,
+      "longitude": 138.668756,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-22T22:00:16Z",
-      "reported_at": "2026-01-22T21:28:13Z"
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T22:19:46Z"
     },
     {
-      "id": "b24bd6f1-3d18-4968-a0eb-6d518669409d",
-      "latitude": -34.857232,
-      "longitude": 138.565407,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "0bf81d16-14ac-4ef5-89a1-afe4817b4d0e",
+      "latitude": -34.718711,
+      "longitude": 138.764603,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-01-22T22:00:16Z",
-      "reported_at": "2026-01-22T21:28:21Z"
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T22:15:22Z"
+    },
+    {
+      "id": "1570ddb2-7894-4446-a3de-a8cab9154596",
+      "latitude": -34.933992,
+      "longitude": 138.522736,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-22T22:30:13Z",
+      "reported_at": "2026-01-22T22:16:36Z"
     }
   ]
 }
