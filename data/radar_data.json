@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "996d5c25-e585-4a44-aa98-110388a4236c",
+      "latitude": -34.833783,
+      "longitude": 138.494903,
+      "street": "Hargrave St",
+      "city": "Peterhead",
+      "type": "mobile",
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-21T22:55:45Z"
+    },
+    {
+      "id": "1d685930-6cce-4d35-b1b3-d3ccd3553ec5",
+      "latitude": -34.930249,
+      "longitude": 138.542177,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-22T00:38:57Z"
+    },
+    {
       "id": "3c65b155-43ae-4642-86d9-b2991ab6afa8",
       "latitude": -34.841479,
       "longitude": 138.543914,
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
+      "timestamp": "2026-01-22T01:00:16Z",
       "reported_at": "2026-01-21T21:29:26Z"
-    },
-    {
-      "id": "396c2268-292e-4d3f-b966-8e393976d38b",
-      "latitude": -34.884737,
-      "longitude": 138.520106,
-      "street": "Clark Tce",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T23:59:15Z"
-    },
-    {
-      "id": "8991425d-1cb2-472e-a37b-b8da37aa9f2f",
-      "latitude": -34.942526,
-      "longitude": 138.618921,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T23:14:00Z"
-    },
-    {
-      "id": "93c0b30c-036c-46dd-8d45-f3f914f541cb",
-      "latitude": -34.848833,
-      "longitude": 138.546597,
-      "street": "Hanson Rd North",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T21:03:42Z"
     },
     {
       "id": "82c3e74a-f118-4d6c-8ae0-035bc3c13ac1",
@@ -47,8 +37,38 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
+      "timestamp": "2026-01-22T01:00:16Z",
       "reported_at": "2026-01-21T20:56:12Z"
+    },
+    {
+      "id": "8991425d-1cb2-472e-a37b-b8da37aa9f2f",
+      "latitude": -34.942526,
+      "longitude": 138.618921,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-21T23:14:00Z"
+    },
+    {
+      "id": "eeea7733-fe34-4172-aed3-4d8a46ba6779",
+      "latitude": -34.913659,
+      "longitude": 138.658286,
+      "street": "Glynburn Rd",
+      "city": "St. Morris",
+      "type": "mobile",
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-22T00:31:07Z"
+    },
+    {
+      "id": "c7e8208d-e9fb-4f74-a259-417007265171",
+      "latitude": -34.846202,
+      "longitude": 138.546438,
+      "street": "Hanson Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-21T20:57:35Z"
     },
     {
       "id": "15c887e0-0927-4409-87d6-5a7fa97f4110",
@@ -57,7 +77,7 @@
       "street": "Eastern Pde",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
+      "timestamp": "2026-01-22T01:00:16Z",
       "reported_at": "2026-01-21T23:45:44Z"
     },
     {
@@ -67,48 +87,38 @@
       "street": "Fletcher Rd",
       "city": "Birkenhead",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
+      "timestamp": "2026-01-22T01:00:16Z",
       "reported_at": "2026-01-21T21:16:04Z"
     },
     {
-      "id": "160cf397-bda8-4caf-93a6-17f7fd1c88f0",
-      "latitude": -34.84678,
-      "longitude": 138.546476,
-      "street": "Hanson Rd",
+      "id": "30b5203d-baa8-4067-b5b3-2931e88f60ae",
+      "latitude": -34.84774,
+      "longitude": 138.546536,
+      "street": "Hanson Rd North",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T21:04:48Z"
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-21T21:03:52Z"
     },
     {
-      "id": "04bef729-1d87-4935-8803-6ba105dbce1f",
-      "latitude": -34.816381,
-      "longitude": 138.660788,
-      "street": "Nelson Rd",
-      "city": "Para Hills",
+      "id": "752e86e3-99dd-4d9d-8efe-1c5f00f5d2d8",
+      "latitude": -34.959537,
+      "longitude": 138.561505,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T23:47:44Z"
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-22T00:33:10Z"
     },
     {
-      "id": "a10d29ab-067d-4c65-8a76-5892a10cff60",
-      "latitude": -34.748893,
-      "longitude": 138.588162,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T23:02:23Z"
-    },
-    {
-      "id": "95e17a1f-502d-40eb-85ac-f146e8e68d1b",
-      "latitude": -34.834043,
-      "longitude": 138.53729,
+      "id": "acceaaf9-b322-4cfd-b09e-b3ef7c776525",
+      "latitude": -34.83416,
+      "longitude": 138.535181,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-22T00:30:15Z",
-      "reported_at": "2026-01-21T23:01:09Z"
+      "timestamp": "2026-01-22T01:00:16Z",
+      "reported_at": "2026-01-21T20:53:06Z"
     }
   ]
 }
