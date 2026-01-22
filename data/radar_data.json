@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "10e5a867-5f75-4625-a4ff-28c1d15c2fda",
-      "latitude": -34.914618,
-      "longitude": 138.566239,
-      "street": "West Thebarton Rd",
-      "city": "Thebarton",
+      "id": "b1d9bc9a-ffe6-4191-88c3-d89d6679908e",
+      "latitude": -34.786449,
+      "longitude": 138.703305,
+      "street": "Unknown Street",
+      "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-22T12:30:13Z",
-      "reported_at": "2026-01-22T12:16:52Z"
+      "timestamp": "2026-01-22T13:00:17Z",
+      "reported_at": "2026-01-22T12:41:24Z"
+    },
+    {
+      "id": "4f3b20b8-930d-4218-aea5-9f47ac4573b9",
+      "latitude": -34.896315,
+      "longitude": 138.599939,
+      "street": "A1 - Main North Rd",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-01-22T13:00:17Z",
+      "reported_at": "2026-01-22T12:48:31Z"
     },
     {
       "id": "6e996c58-92e6-4139-ade4-88664545d4f2",
@@ -17,8 +27,18 @@
       "street": "Unknown Street",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-22T12:30:13Z",
+      "timestamp": "2026-01-22T13:00:17Z",
       "reported_at": "2026-01-22T12:22:46Z"
+    },
+    {
+      "id": "80dd78a1-7eda-4d6c-b509-48fce4024502",
+      "latitude": -34.768579,
+      "longitude": 138.590687,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-01-22T13:00:17Z",
+      "reported_at": "2026-01-22T12:20:58Z"
     }
   ]
 }
