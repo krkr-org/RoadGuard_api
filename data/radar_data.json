@@ -1,54 +1,44 @@
 {
   "radars": [
     {
-      "id": "4e06df35-8eb9-485a-b49b-dae3f12f6e69",
-      "latitude": -34.897448,
-      "longitude": 138.657913,
-      "street": "Reid Av",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-01-23T13:30:14Z",
-      "reported_at": "2026-01-23T09:36:11Z"
-    },
-    {
       "id": "ea45cef0-1e81-40aa-9c7a-61fc893bb604",
       "latitude": -34.925682,
       "longitude": 138.664699,
       "street": "Korra Av",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:30:14Z",
+      "timestamp": "2026-01-23T14:00:14Z",
       "reported_at": "2026-01-23T10:33:35Z"
     },
     {
-      "id": "de6d5aba-d1c1-414b-9fc4-4c1f03b206eb",
-      "latitude": -34.921541,
-      "longitude": 138.597943,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "adf9f4e5-d817-4417-9818-0ac2babb183f",
+      "latitude": -34.808268,
+      "longitude": 138.629125,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:30:14Z",
-      "reported_at": "2026-01-23T12:48:45Z"
+      "timestamp": "2026-01-23T14:00:14Z",
+      "reported_at": "2026-01-23T13:44:27Z"
     },
     {
-      "id": "647a43d2-bba8-4a69-9c4f-574d45d7d75d",
-      "latitude": -34.981721,
-      "longitude": 138.573969,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-01-23T13:30:14Z",
-      "reported_at": "2026-01-23T13:06:21Z"
-    },
-    {
-      "id": "6c7236c3-6bcf-4155-920c-fa3177441e5f",
-      "latitude": -34.868279,
-      "longitude": 138.618916,
+      "id": "6e5ce037-1ea9-4764-a2fa-be2688226b01",
+      "latitude": -34.869806,
+      "longitude": 138.618929,
       "street": "A17 - Hampstead Rd",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:30:14Z",
-      "reported_at": "2026-01-23T13:06:33Z"
+      "timestamp": "2026-01-23T14:00:14Z",
+      "reported_at": "2026-01-23T13:28:37Z"
+    },
+    {
+      "id": "43456d38-6e47-46e4-95bf-172463fb5970",
+      "latitude": -34.788491,
+      "longitude": 138.649676,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-01-23T14:00:14Z",
+      "reported_at": "2026-01-23T13:50:17Z"
     }
   ]
 }
