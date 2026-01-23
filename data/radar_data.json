@@ -1,24 +1,64 @@
 {
   "radars": [
     {
-      "id": "9701ab50-a0bd-4f67-911a-ba5cd3ffda5f",
-      "latitude": -34.898793,
-      "longitude": 138.612738,
+      "id": "33292b6b-23e4-47bb-baba-6d10359c9ec5",
+      "latitude": -34.80813,
+      "longitude": 138.67751,
+      "street": "Unknown Street",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T07:06:21Z"
+    },
+    {
+      "id": "6e0eeba2-29c6-4744-b273-452f9c4893d3",
+      "latitude": -34.861379,
+      "longitude": 138.48843,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T06:57:45Z"
+    },
+    {
+      "id": "c63cd0fc-b826-4031-87d3-7d6be6742516",
+      "latitude": -34.899703,
+      "longitude": 138.611654,
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T05:41:10Z"
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T05:59:42Z"
     },
     {
-      "id": "9973da0d-99b4-4e9a-bb76-a20ede2cf834",
-      "latitude": -34.892557,
-      "longitude": 138.660643,
+      "id": "23c1d181-29a9-4587-880b-1650df5a29ea",
+      "latitude": -34.893644,
+      "longitude": 138.659228,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T04:56:46Z"
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T05:19:45Z"
+    },
+    {
+      "id": "5a72e495-f88d-4fe2-801c-c6a2a7d5de59",
+      "latitude": -34.881029,
+      "longitude": 138.685282,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T06:09:41Z"
+    },
+    {
+      "id": "cf26b4b9-bb40-47fe-9800-9db0fb1c4184",
+      "latitude": -34.927926,
+      "longitude": 138.6682,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T05:00:54Z"
     },
     {
       "id": "e4fd7b8a-6b2f-4f3e-b075-9dd935d0081c",
@@ -27,28 +67,18 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
+      "timestamp": "2026-01-23T07:30:15Z",
       "reported_at": "2026-01-23T05:07:26Z"
     },
     {
-      "id": "59d8592d-1386-441f-a1cd-999ab056c30f",
-      "latitude": -34.694858,
-      "longitude": 138.657483,
-      "street": "Stebonheath Rd",
-      "city": "Eyre",
+      "id": "30bca034-db1b-4cac-91b2-8bf87275b5f2",
+      "latitude": -34.760876,
+      "longitude": 138.617726,
+      "street": "Burton Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T06:35:14Z"
-    },
-    {
-      "id": "f7f118f6-c045-417f-b0db-a030f7fd3010",
-      "latitude": -34.905214,
-      "longitude": 138.491472,
-      "street": "Military Rd",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T06:38:42Z"
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T07:03:08Z"
     },
     {
       "id": "b2c59bb1-d80a-4340-9e7a-64135b7aefc1",
@@ -57,28 +87,8 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
+      "timestamp": "2026-01-23T07:30:15Z",
       "reported_at": "2026-01-23T05:18:47Z"
-    },
-    {
-      "id": "f71ce6c4-61df-40d4-95c0-89574a843a4d",
-      "latitude": -34.878812,
-      "longitude": 138.554422,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T06:52:13Z"
-    },
-    {
-      "id": "90045287-aa09-446a-a0f2-e774f59a7937",
-      "latitude": -34.881108,
-      "longitude": 138.558202,
-      "street": "Torrens Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T06:52:40Z"
     },
     {
       "id": "cdf22a39-b167-467a-8877-8200f1f03e53",
@@ -87,18 +97,28 @@
       "street": "Penfold Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
+      "timestamp": "2026-01-23T07:30:15Z",
       "reported_at": "2026-01-23T05:01:32Z"
     },
     {
-      "id": "7a3831be-0ae8-4043-8c5d-4509a08f6f47",
-      "latitude": -34.678388,
-      "longitude": 138.696791,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
+      "id": "da46bdf0-b923-4539-95d5-47b82c84f6c4",
+      "latitude": -34.775635,
+      "longitude": 138.629479,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-23T07:00:15Z",
-      "reported_at": "2026-01-23T06:38:37Z"
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T07:12:15Z"
+    },
+    {
+      "id": "ae463511-2ee4-40fb-8c00-48e12642efb5",
+      "latitude": -34.769383,
+      "longitude": 138.610264,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-23T07:30:15Z",
+      "reported_at": "2026-01-23T06:59:11Z"
     }
   ]
 }
