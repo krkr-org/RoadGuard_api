@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
-      "latitude": -34.968454,
-      "longitude": 138.541524,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
-      "reported_at": "2026-01-22T20:38:26Z"
-    },
-    {
       "id": "56390197-010e-41bf-b455-322112efd80e",
       "latitude": -34.981348,
       "longitude": 138.598796,
       "street": "East Pwy",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
+      "timestamp": "2026-01-23T03:00:15Z",
       "reported_at": "2026-01-22T22:20:36Z"
     },
     {
@@ -27,28 +17,38 @@
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
+      "timestamp": "2026-01-23T03:00:15Z",
       "reported_at": "2026-01-23T00:23:10Z"
     },
     {
-      "id": "520aee59-f19e-4b48-b12b-9751cb489223",
-      "latitude": -34.727102,
-      "longitude": 138.639594,
-      "street": "West Av",
-      "city": "Edinburgh",
+      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
+      "latitude": -34.968454,
+      "longitude": 138.541524,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
-      "reported_at": "2026-01-23T02:15:00Z"
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-22T20:38:26Z"
     },
     {
-      "id": "6514e2de-cb66-4f18-b4dc-29c9a9f35528",
-      "latitude": -35.01084,
-      "longitude": 138.581886,
+      "id": "82f792b9-de63-475b-913d-e21b842cc1d8",
+      "latitude": -34.686868,
+      "longitude": 138.676863,
+      "street": "Coventry Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-23T02:42:03Z"
+    },
+    {
+      "id": "85a20fda-0867-4216-a5a2-1572bd8d36ac",
+      "latitude": -35.010921,
+      "longitude": 138.582066,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
-      "reported_at": "2026-01-23T02:13:25Z"
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-22T21:48:20Z"
     },
     {
       "id": "c7a8a002-e928-4190-a495-63f9a231fa2c",
@@ -57,18 +57,48 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
+      "timestamp": "2026-01-23T03:00:15Z",
       "reported_at": "2026-01-22T23:44:32Z"
     },
     {
-      "id": "e47ff7cd-cdc0-4ae2-8bbe-c99fcd9d172c",
-      "latitude": -34.81895,
-      "longitude": 138.501278,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
+      "id": "5b97d470-6264-418d-a337-3366fe78a1cd",
+      "latitude": -34.97076,
+      "longitude": 138.544242,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:30:12Z",
-      "reported_at": "2026-01-23T02:17:18Z"
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-23T02:45:57Z"
+    },
+    {
+      "id": "43fb2912-04a2-4a09-998a-ee8ea73dd0cf",
+      "latitude": -34.969144,
+      "longitude": 138.546702,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-23T02:36:29Z"
+    },
+    {
+      "id": "1c0c66da-18f8-41f4-8d66-34088d69e98e",
+      "latitude": -34.68497,
+      "longitude": 138.692384,
+      "street": "A20 - Main North Rd",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-23T02:27:03Z"
+    },
+    {
+      "id": "f47c4eb1-5669-4d23-8ce4-05040f53f6c8",
+      "latitude": -35.128124,
+      "longitude": 138.505396,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-23T03:00:15Z",
+      "reported_at": "2026-01-23T02:52:08Z"
     }
   ]
 }
