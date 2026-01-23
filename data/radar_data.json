@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "bfcc593d-f559-47d8-bee1-db4a62e1aa28",
-      "latitude": -34.968456,
-      "longitude": 138.541486,
+      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
+      "latitude": -34.968454,
+      "longitude": 138.541524,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
-      "reported_at": "2026-01-22T21:44:06Z"
-    },
-    {
-      "id": "f8bbd219-1450-4877-ae6a-7d5b144111d5",
-      "latitude": -34.966574,
-      "longitude": 138.635685,
-      "street": "Waite Rd",
-      "city": "Urrbrae",
-      "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
-      "reported_at": "2026-01-22T21:50:24Z"
+      "timestamp": "2026-01-23T00:00:14Z",
+      "reported_at": "2026-01-22T20:38:26Z"
     },
     {
       "id": "56390197-010e-41bf-b455-322112efd80e",
@@ -27,18 +17,18 @@
       "street": "East Pwy",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
+      "timestamp": "2026-01-23T00:00:14Z",
       "reported_at": "2026-01-22T22:20:36Z"
     },
     {
-      "id": "b08d51e7-a46e-411e-b83d-02b2aae00d2a",
-      "latitude": -35.003923,
-      "longitude": 138.589075,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
+      "id": "f8bbd219-1450-4877-ae6a-7d5b144111d5",
+      "latitude": -34.966574,
+      "longitude": 138.635685,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
-      "reported_at": "2026-01-22T23:09:34Z"
+      "timestamp": "2026-01-23T00:00:14Z",
+      "reported_at": "2026-01-22T21:50:24Z"
     },
     {
       "id": "3529eda9-0c24-41fc-be77-937ac13b8702",
@@ -47,28 +37,48 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
+      "timestamp": "2026-01-23T00:00:14Z",
       "reported_at": "2026-01-22T20:46:09Z"
     },
     {
-      "id": "a0cffad3-9646-4a65-83a6-7093a6ad966c",
-      "latitude": -35.110782,
-      "longitude": 138.63183,
-      "street": "Grants Gully Rd",
-      "city": "Clarendon",
+      "id": "cd5a1455-b149-495f-a9ec-ac142cc2bf5e",
+      "latitude": -34.958722,
+      "longitude": 138.600277,
+      "street": "King William Rd",
+      "city": "Hyde Park",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
-      "reported_at": "2026-01-22T23:05:42Z"
+      "timestamp": "2026-01-23T00:00:14Z",
+      "reported_at": "2026-01-22T23:30:55Z"
     },
     {
-      "id": "c1f01ea1-c854-4fb1-bd4f-b25d87ce3a12",
-      "latitude": -34.934144,
-      "longitude": 138.52204,
+      "id": "d1631a81-8e22-4e65-a7c6-4cb27a8c9858",
+      "latitude": -34.933938,
+      "longitude": 138.523839,
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
-      "reported_at": "2026-01-22T22:48:16Z"
+      "timestamp": "2026-01-23T00:00:14Z",
+      "reported_at": "2026-01-22T23:53:49Z"
+    },
+    {
+      "id": "95bfb9b9-289b-43b7-bf9c-1f3705970432",
+      "latitude": -34.962756,
+      "longitude": 138.556847,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T00:00:14Z",
+      "reported_at": "2026-01-22T23:47:27Z"
+    },
+    {
+      "id": "5e114f16-0f54-4cce-9129-0db1997a4a39",
+      "latitude": -34.970575,
+      "longitude": 138.544524,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-23T00:00:14Z",
+      "reported_at": "2026-01-22T23:32:10Z"
     },
     {
       "id": "1a3fa5fc-40af-40d7-a02d-af8f8ce3783c",
@@ -77,7 +87,7 @@
       "street": "A20 - Main North Rd",
       "city": "Evanston South",
       "type": "mobile",
-      "timestamp": "2026-01-22T23:30:16Z",
+      "timestamp": "2026-01-23T00:00:14Z",
       "reported_at": "2026-01-22T23:02:26Z"
     }
   ]
