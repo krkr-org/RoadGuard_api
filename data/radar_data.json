@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "a828bad2-8edb-4755-b743-a6f62e4150a1",
-      "latitude": -34.868847,
-      "longitude": 138.618901,
-      "street": "Watson Av",
-      "city": "Broadview",
-      "type": "mobile",
-      "timestamp": "2026-01-23T13:00:13Z",
-      "reported_at": "2026-01-23T11:57:46Z"
-    },
-    {
-      "id": "432aca5d-67c1-482d-b6ac-bde5343f4569",
-      "latitude": -34.897378,
-      "longitude": 138.659312,
+      "id": "4e06df35-8eb9-485a-b49b-dae3f12f6e69",
+      "latitude": -34.897448,
+      "longitude": 138.657913,
       "street": "Reid Av",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:00:13Z",
-      "reported_at": "2026-01-23T09:36:04Z"
+      "timestamp": "2026-01-23T13:30:14Z",
+      "reported_at": "2026-01-23T09:36:11Z"
     },
     {
       "id": "ea45cef0-1e81-40aa-9c7a-61fc893bb604",
@@ -27,18 +17,8 @@
       "street": "Korra Av",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:00:13Z",
+      "timestamp": "2026-01-23T13:30:14Z",
       "reported_at": "2026-01-23T10:33:35Z"
-    },
-    {
-      "id": "355197eb-5caa-4c1e-904b-fac5cd24429e",
-      "latitude": -34.998161,
-      "longitude": 138.593127,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-23T13:00:13Z",
-      "reported_at": "2026-01-23T09:11:05Z"
     },
     {
       "id": "de6d5aba-d1c1-414b-9fc4-4c1f03b206eb",
@@ -47,18 +27,28 @@
       "street": "North Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:00:13Z",
+      "timestamp": "2026-01-23T13:30:14Z",
       "reported_at": "2026-01-23T12:48:45Z"
     },
     {
-      "id": "aabe208c-5307-4a23-a311-44024fc97281",
-      "latitude": -34.874518,
-      "longitude": 138.632709,
-      "street": "A10 - North East Rd",
-      "city": "Klemzig",
+      "id": "647a43d2-bba8-4a69-9c4f-574d45d7d75d",
+      "latitude": -34.981721,
+      "longitude": 138.573969,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T13:00:13Z",
-      "reported_at": "2026-01-23T12:38:44Z"
+      "timestamp": "2026-01-23T13:30:14Z",
+      "reported_at": "2026-01-23T13:06:21Z"
+    },
+    {
+      "id": "6c7236c3-6bcf-4155-920c-fa3177441e5f",
+      "latitude": -34.868279,
+      "longitude": 138.618916,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-01-23T13:30:14Z",
+      "reported_at": "2026-01-23T13:06:33Z"
     }
   ]
 }
