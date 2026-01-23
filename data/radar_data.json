@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "4e06df35-8eb9-485a-b49b-dae3f12f6e69",
-      "latitude": -34.897448,
-      "longitude": 138.657913,
+      "id": "a828bad2-8edb-4755-b743-a6f62e4150a1",
+      "latitude": -34.868847,
+      "longitude": 138.618901,
+      "street": "Watson Av",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-01-23T13:00:13Z",
+      "reported_at": "2026-01-23T11:57:46Z"
+    },
+    {
+      "id": "432aca5d-67c1-482d-b6ac-bde5343f4569",
+      "latitude": -34.897378,
+      "longitude": 138.659312,
       "street": "Reid Av",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-23T12:30:14Z",
-      "reported_at": "2026-01-23T09:36:11Z"
+      "timestamp": "2026-01-23T13:00:13Z",
+      "reported_at": "2026-01-23T09:36:04Z"
     },
     {
       "id": "ea45cef0-1e81-40aa-9c7a-61fc893bb604",
@@ -17,18 +27,8 @@
       "street": "Korra Av",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T12:30:14Z",
+      "timestamp": "2026-01-23T13:00:13Z",
       "reported_at": "2026-01-23T10:33:35Z"
-    },
-    {
-      "id": "c63cd0fc-b826-4031-87d3-7d6be6742516",
-      "latitude": -34.899703,
-      "longitude": 138.611654,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-01-23T12:30:14Z",
-      "reported_at": "2026-01-23T05:59:42Z"
     },
     {
       "id": "355197eb-5caa-4c1e-904b-fac5cd24429e",
@@ -37,28 +37,28 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-01-23T12:30:14Z",
+      "timestamp": "2026-01-23T13:00:13Z",
       "reported_at": "2026-01-23T09:11:05Z"
     },
     {
-      "id": "29a2b14a-f5a4-4722-bdd1-5611e0b292a3",
-      "latitude": -34.926304,
-      "longitude": 138.518504,
-      "street": "Henley Beach Rd",
-      "city": "Lockleys",
+      "id": "de6d5aba-d1c1-414b-9fc4-4c1f03b206eb",
+      "latitude": -34.921541,
+      "longitude": 138.597943,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-23T12:30:14Z",
-      "reported_at": "2026-01-23T12:07:57Z"
+      "timestamp": "2026-01-23T13:00:13Z",
+      "reported_at": "2026-01-23T12:48:45Z"
     },
     {
-      "id": "dc99553f-ee3b-4c07-b974-d8dd2057d6b8",
-      "latitude": -34.932552,
-      "longitude": 138.541348,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Brooklyn Park",
+      "id": "aabe208c-5307-4a23-a311-44024fc97281",
+      "latitude": -34.874518,
+      "longitude": 138.632709,
+      "street": "A10 - North East Rd",
+      "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2026-01-23T12:30:14Z",
-      "reported_at": "2026-01-23T12:02:55Z"
+      "timestamp": "2026-01-23T13:00:13Z",
+      "reported_at": "2026-01-23T12:38:44Z"
     }
   ]
 }
