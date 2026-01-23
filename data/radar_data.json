@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
+      "latitude": -34.968454,
+      "longitude": 138.541524,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-23T02:30:12Z",
+      "reported_at": "2026-01-22T20:38:26Z"
+    },
+    {
       "id": "56390197-010e-41bf-b455-322112efd80e",
       "latitude": -34.981348,
       "longitude": 138.598796,
       "street": "East Pwy",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
+      "timestamp": "2026-01-23T02:30:12Z",
       "reported_at": "2026-01-22T22:20:36Z"
     },
     {
@@ -17,128 +27,48 @@
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
+      "timestamp": "2026-01-23T02:30:12Z",
       "reported_at": "2026-01-23T00:23:10Z"
     },
     {
-      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
-      "latitude": -34.968454,
-      "longitude": 138.541524,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-22T20:38:26Z"
-    },
-    {
-      "id": "5a9cd481-e803-46e5-b043-1a42de7b5d2f",
-      "latitude": -34.725913,
-      "longitude": 138.640375,
+      "id": "520aee59-f19e-4b48-b12b-9751cb489223",
+      "latitude": -34.727102,
+      "longitude": 138.639594,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:46:41Z"
+      "timestamp": "2026-01-23T02:30:12Z",
+      "reported_at": "2026-01-23T02:15:00Z"
     },
     {
-      "id": "87762f86-23af-4138-b85a-ccbd955c80ea",
-      "latitude": -34.993093,
-      "longitude": 138.56975,
-      "street": "Daws Rd",
-      "city": "Edwardstown",
+      "id": "6514e2de-cb66-4f18-b4dc-29c9a9f35528",
+      "latitude": -35.01084,
+      "longitude": 138.581886,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:48:15Z"
+      "timestamp": "2026-01-23T02:30:12Z",
+      "reported_at": "2026-01-23T02:13:25Z"
     },
     {
-      "id": "cabfe579-e84e-4777-a911-6545c65a3522",
-      "latitude": -35.081821,
-      "longitude": 138.571616,
-      "street": "Chandlers Hill Rd",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-22T23:16:02Z"
-    },
-    {
-      "id": "3529eda9-0c24-41fc-be77-937ac13b8702",
-      "latitude": -34.979888,
-      "longitude": 138.567511,
+      "id": "c7a8a002-e928-4190-a495-63f9a231fa2c",
+      "latitude": -34.98002,
+      "longitude": 138.565091,
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-22T20:46:09Z"
+      "timestamp": "2026-01-23T02:30:12Z",
+      "reported_at": "2026-01-22T23:44:32Z"
     },
     {
-      "id": "12b25808-6cba-48d5-8262-f016450a4756",
-      "latitude": -34.903312,
-      "longitude": 138.590119,
-      "street": "Jeffcott St",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:50:07Z"
-    },
-    {
-      "id": "67b76ed5-a86f-4830-b8ea-98241cc77ca2",
-      "latitude": -34.703662,
-      "longitude": 138.66383,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:38:14Z"
-    },
-    {
-      "id": "5ec168c9-922e-40f6-a08d-91a0ac1a2286",
-      "latitude": -34.819196,
-      "longitude": 138.501274,
+      "id": "e47ff7cd-cdc0-4ae2-8bbe-c99fcd9d172c",
+      "latitude": -34.81895,
+      "longitude": 138.501278,
       "street": "A16 - Victoria Rd",
       "city": "Largs North",
       "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:21:36Z"
-    },
-    {
-      "id": "a3502a7c-b468-42da-ac89-d77a0d8fd1b7",
-      "latitude": -34.833337,
-      "longitude": 138.501851,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:05:08Z"
-    },
-    {
-      "id": "bcf072a4-296d-4559-87af-162727e537b4",
-      "latitude": -35.013836,
-      "longitude": 138.522762,
-      "street": "A15 - Brighton Rd",
-      "city": "Brighton",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:29:13Z"
-    },
-    {
-      "id": "8d7fcd8f-316b-4cf3-a72d-016ef80ae49c",
-      "latitude": -34.985132,
-      "longitude": 138.574242,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:16:26Z"
-    },
-    {
-      "id": "7a0a1903-f8e7-490c-9e33-68255e328e96",
-      "latitude": -34.966635,
-      "longitude": 138.58435,
-      "street": "A3 - Cross Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-01-23T02:00:14Z",
-      "reported_at": "2026-01-23T01:44:50Z"
+      "timestamp": "2026-01-23T02:30:12Z",
+      "reported_at": "2026-01-23T02:17:18Z"
     }
   ]
 }
