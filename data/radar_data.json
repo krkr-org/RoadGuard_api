@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "bb90e3a1-a5e8-4b48-af57-06e02706875a",
-      "latitude": -35.00135,
-      "longitude": 138.721182,
-      "street": "Pomona Rd",
-      "city": "Stirling",
+      "id": "ca50df25-98f5-4a4f-976c-d840e25a1a86",
+      "latitude": -35.138427,
+      "longitude": 138.511753,
+      "street": "Majorca Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-23T04:00:13Z",
-      "reported_at": "2026-01-23T03:41:29Z"
-    },
-    {
-      "id": "3e822c23-687d-4ccb-a5cd-2d32446e2833",
-      "latitude": -34.967113,
-      "longitude": 138.635727,
-      "street": "Waite Rd",
-      "city": "Urrbrae",
-      "type": "mobile",
-      "timestamp": "2026-01-23T04:00:13Z",
-      "reported_at": "2026-01-23T00:23:10Z"
+      "timestamp": "2026-01-23T04:30:13Z",
+      "reported_at": "2026-01-23T03:48:39Z"
     },
     {
       "id": "8451adeb-aec6-4946-aaba-2221a5e914f5",
@@ -27,8 +17,18 @@
       "street": "East Pwy",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T04:00:13Z",
+      "timestamp": "2026-01-23T04:30:13Z",
       "reported_at": "2026-01-23T01:52:40Z"
+    },
+    {
+      "id": "ea9db51b-09f1-48a9-a442-a9a9c6545376",
+      "latitude": -35.138167,
+      "longitude": 138.495133,
+      "street": "Beach Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-23T04:30:13Z",
+      "reported_at": "2026-01-23T04:06:49Z"
     },
     {
       "id": "c7a8a002-e928-4190-a495-63f9a231fa2c",
@@ -37,8 +37,38 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T04:00:13Z",
+      "timestamp": "2026-01-23T04:30:13Z",
       "reported_at": "2026-01-22T23:44:32Z"
+    },
+    {
+      "id": "34cce905-3345-4973-8f08-7505de0b16f2",
+      "latitude": -34.779357,
+      "longitude": 138.626568,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-23T04:30:13Z",
+      "reported_at": "2026-01-23T04:13:53Z"
+    },
+    {
+      "id": "f6d02ee1-1f0f-46e2-9653-2cda9e67506c",
+      "latitude": -34.746845,
+      "longitude": 138.67648,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-23T04:30:13Z",
+      "reported_at": "2026-01-23T03:30:52Z"
+    },
+    {
+      "id": "c3fb0906-7493-4899-9378-13f149f07fd8",
+      "latitude": -35.00001,
+      "longitude": 138.750695,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-23T04:30:13Z",
+      "reported_at": "2026-01-23T04:14:40Z"
     }
   ]
 }
