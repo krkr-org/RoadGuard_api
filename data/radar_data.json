@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "83d930f6-51ab-43ba-a6b0-5f599ced4490",
-      "latitude": -34.885392,
-      "longitude": 138.66287,
-      "street": "Spencer St",
-      "city": "Campbelltown",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T06:35:28Z"
-    },
-    {
       "id": "4e06df35-8eb9-485a-b49b-dae3f12f6e69",
       "latitude": -34.897448,
       "longitude": 138.657913,
       "street": "Reid Av",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T09:36:11Z"
     },
     {
@@ -27,38 +17,8 @@
       "street": "Gwynne St",
       "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T07:32:37Z"
-    },
-    {
-      "id": "8b1a5119-c476-4559-8e01-4f7b5e91219c",
-      "latitude": -34.890595,
-      "longitude": 138.663168,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T07:30:52Z"
-    },
-    {
-      "id": "03f4b3dc-0462-4df3-9cf2-950a98055921",
-      "latitude": -34.928504,
-      "longitude": 138.668242,
-      "street": "Hallett Rd",
-      "city": "Erindale",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T05:23:22Z"
-    },
-    {
-      "id": "c63cd0fc-b826-4031-87d3-7d6be6742516",
-      "latitude": -34.899703,
-      "longitude": 138.611654,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T05:59:42Z"
     },
     {
       "id": "a5ddc31f-6aac-4049-9e9d-fed0a79164a0",
@@ -67,18 +27,48 @@
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T07:06:00Z"
     },
     {
-      "id": "afbd14c2-d5ec-4c4b-82d8-66fa1ed8acd3",
-      "latitude": -34.730756,
-      "longitude": 138.631769,
-      "street": "Edinburgh Rd",
-      "city": "Edinburgh",
+      "id": "9701ab50-a0bd-4f67-911a-ba5cd3ffda5f",
+      "latitude": -34.898793,
+      "longitude": 138.612738,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T10:21:29Z"
+      "timestamp": "2026-01-23T11:00:15Z",
+      "reported_at": "2026-01-23T05:41:10Z"
+    },
+    {
+      "id": "8b1a5119-c476-4559-8e01-4f7b5e91219c",
+      "latitude": -34.890595,
+      "longitude": 138.663168,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-01-23T11:00:15Z",
+      "reported_at": "2026-01-23T07:30:52Z"
+    },
+    {
+      "id": "eda87ed2-3766-4be3-8fc9-4d0a3bd09027",
+      "latitude": -35.01779,
+      "longitude": 138.5446,
+      "street": "Sturt Rd",
+      "city": "Oaklands Park",
+      "type": "mobile",
+      "timestamp": "2026-01-23T11:00:15Z",
+      "reported_at": "2026-01-23T10:34:58Z"
+    },
+    {
+      "id": "0053989b-cc12-4569-bf83-4bd2ab19fe07",
+      "latitude": -34.923748,
+      "longitude": 138.632181,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-23T11:00:15Z",
+      "reported_at": "2026-01-23T10:42:01Z"
     },
     {
       "id": "b02b40d7-c753-4eea-b605-8d0f1fedd57a",
@@ -87,18 +77,8 @@
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T05:34:00Z"
-    },
-    {
-      "id": "88717670-785d-418f-b625-53ad98ea92eb",
-      "latitude": -35.136639,
-      "longitude": 138.525918,
-      "street": "Doctors Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T08:12:47Z"
     },
     {
       "id": "355197eb-5caa-4c1e-904b-fac5cd24429e",
@@ -107,38 +87,18 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T09:11:05Z"
     },
     {
-      "id": "3afb5ce4-af1d-4c44-a140-714aa034044e",
-      "latitude": -34.875503,
-      "longitude": 138.561586,
-      "street": "Regency Rd",
-      "city": "Ferryden Park",
+      "id": "88717670-785d-418f-b625-53ad98ea92eb",
+      "latitude": -35.136639,
+      "longitude": 138.525918,
+      "street": "Doctors Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T09:55:04Z"
-    },
-    {
-      "id": "48378ebe-96bb-4745-8323-e39767a6f18a",
-      "latitude": -34.975863,
-      "longitude": 138.537819,
-      "street": "Morphett Rd",
-      "city": "Morphettville",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T10:14:04Z"
-    },
-    {
-      "id": "e25ae357-aa72-4ed7-a976-bbac0654c04e",
-      "latitude": -34.962681,
-      "longitude": 138.556966,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T09:41:36Z"
+      "timestamp": "2026-01-23T11:00:15Z",
+      "reported_at": "2026-01-23T08:12:47Z"
     },
     {
       "id": "33dd802f-a627-4a85-82e6-f36d40cff78a",
@@ -147,18 +107,18 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T08:22:37Z"
     },
     {
-      "id": "6f57e766-c539-491b-9640-edeb156c40c4",
-      "latitude": -34.934145,
-      "longitude": 138.522034,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
+      "id": "3d2b2896-21ea-4c82-ac4a-8e8f0b5e0eb5",
+      "latitude": -34.963112,
+      "longitude": 138.556009,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
-      "reported_at": "2026-01-23T10:10:37Z"
+      "timestamp": "2026-01-23T11:00:15Z",
+      "reported_at": "2026-01-23T10:18:44Z"
     },
     {
       "id": "314f1ca3-b3c7-4279-b55e-a22799f15682",
@@ -167,7 +127,7 @@
       "street": "A14 - Marion Rd",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-23T10:30:12Z",
+      "timestamp": "2026-01-23T11:00:15Z",
       "reported_at": "2026-01-23T10:20:09Z"
     }
   ]
