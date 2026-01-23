@@ -1,74 +1,54 @@
 {
   "radars": [
     {
-      "id": "bfcc593d-f559-47d8-bee1-db4a62e1aa28",
-      "latitude": -34.968456,
-      "longitude": 138.541486,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-22T21:44:06Z"
-    },
-    {
       "id": "56390197-010e-41bf-b455-322112efd80e",
       "latitude": -34.981348,
       "longitude": 138.598796,
       "street": "East Pwy",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
+      "timestamp": "2026-01-23T02:00:14Z",
       "reported_at": "2026-01-22T22:20:36Z"
     },
     {
-      "id": "2316cf44-eeb9-4246-a3e4-ef671daafdb0",
-      "latitude": -34.721128,
-      "longitude": 138.643382,
+      "id": "3e822c23-687d-4ccb-a5cd-2d32446e2833",
+      "latitude": -34.967113,
+      "longitude": 138.635727,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T00:23:10Z"
+    },
+    {
+      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
+      "latitude": -34.968454,
+      "longitude": 138.541524,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-22T20:38:26Z"
+    },
+    {
+      "id": "5a9cd481-e803-46e5-b043-1a42de7b5d2f",
+      "latitude": -34.725913,
+      "longitude": 138.640375,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T01:26:02Z"
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:46:41Z"
     },
     {
-      "id": "48586a5a-9318-44ef-9af3-1b816adc22bc",
-      "latitude": -34.964012,
-      "longitude": 138.55451,
-      "street": "Unknown Street",
-      "city": "Plympton",
+      "id": "87762f86-23af-4138-b85a-ccbd955c80ea",
+      "latitude": -34.993093,
+      "longitude": 138.56975,
+      "street": "Daws Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T00:18:59Z"
-    },
-    {
-      "id": "098bcf42-fcef-41b0-9f3b-484e27ed5d12",
-      "latitude": -35.033296,
-      "longitude": 138.563268,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T01:05:49Z"
-    },
-    {
-      "id": "7bfeca60-b56a-4ac8-807c-16c81225704c",
-      "latitude": -35.048658,
-      "longitude": 138.584494,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T01:06:34Z"
-    },
-    {
-      "id": "695e0f4c-aac3-431d-a3fe-429007ec8c05",
-      "latitude": -34.997519,
-      "longitude": 138.593077,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T00:31:53Z"
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:48:15Z"
     },
     {
       "id": "cabfe579-e84e-4777-a911-6545c65a3522",
@@ -77,7 +57,7 @@
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
+      "timestamp": "2026-01-23T02:00:14Z",
       "reported_at": "2026-01-22T23:16:02Z"
     },
     {
@@ -87,18 +67,38 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
+      "timestamp": "2026-01-23T02:00:14Z",
       "reported_at": "2026-01-22T20:46:09Z"
     },
     {
-      "id": "4f860654-357a-4773-9b96-38ae27bac2a5",
-      "latitude": -34.913307,
-      "longitude": 138.593727,
-      "street": "Montefiore Rd",
+      "id": "12b25808-6cba-48d5-8262-f016450a4756",
+      "latitude": -34.903312,
+      "longitude": 138.590119,
+      "street": "Jeffcott St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T01:02:47Z"
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:50:07Z"
+    },
+    {
+      "id": "67b76ed5-a86f-4830-b8ea-98241cc77ca2",
+      "latitude": -34.703662,
+      "longitude": 138.66383,
+      "street": "Peachey Rd",
+      "city": "Edinburgh North",
+      "type": "mobile",
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:38:14Z"
+    },
+    {
+      "id": "5ec168c9-922e-40f6-a08d-91a0ac1a2286",
+      "latitude": -34.819196,
+      "longitude": 138.501274,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:21:36Z"
     },
     {
       "id": "a3502a7c-b468-42da-ac89-d77a0d8fd1b7",
@@ -107,8 +107,18 @@
       "street": "A16 - Victoria Rd",
       "city": "Birkenhead",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
+      "timestamp": "2026-01-23T02:00:14Z",
       "reported_at": "2026-01-23T01:05:08Z"
+    },
+    {
+      "id": "bcf072a4-296d-4559-87af-162727e537b4",
+      "latitude": -35.013836,
+      "longitude": 138.522762,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:29:13Z"
     },
     {
       "id": "8d7fcd8f-316b-4cf3-a72d-016ef80ae49c",
@@ -117,28 +127,18 @@
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
+      "timestamp": "2026-01-23T02:00:14Z",
       "reported_at": "2026-01-23T01:16:26Z"
     },
     {
-      "id": "f320d15b-c579-4e37-9f25-daff8835ef33",
-      "latitude": -34.962694,
-      "longitude": 138.556945,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "7a0a1903-f8e7-490c-9e33-68255e328e96",
+      "latitude": -34.966635,
+      "longitude": 138.58435,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T00:49:56Z"
-    },
-    {
-      "id": "d7db1220-ba81-456d-b29c-8b669e9f7a8b",
-      "latitude": -34.93416,
-      "longitude": 138.521707,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-01-23T01:30:15Z",
-      "reported_at": "2026-01-23T00:57:09Z"
+      "timestamp": "2026-01-23T02:00:14Z",
+      "reported_at": "2026-01-23T01:44:50Z"
     }
   ]
 }
