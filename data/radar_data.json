@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "cea2872b-1836-4530-8b4e-9c285eb88613",
-      "latitude": -35.009518,
-      "longitude": 138.761587,
+      "id": "ba1aedd3-d076-48da-8edc-4258fb6be835",
+      "latitude": -35.009409,
+      "longitude": 138.762596,
       "street": "Mount Barker Rd",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-01-23T22:00:17Z",
-      "reported_at": "2026-01-23T21:41:42Z"
+      "timestamp": "2026-01-23T22:30:14Z",
+      "reported_at": "2026-01-23T22:14:06Z"
     },
     {
-      "id": "8e7bf9a8-4f1b-4191-be07-ab7de57b9cdc",
-      "latitude": -34.90176,
-      "longitude": 138.608072,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "4cff3a3a-d67f-41ec-bfda-d3dfe5fc4490",
+      "latitude": -34.990606,
+      "longitude": 138.723015,
+      "street": "Piccadilly Rd",
+      "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-23T22:00:17Z",
-      "reported_at": "2026-01-23T21:43:04Z"
+      "timestamp": "2026-01-23T22:30:14Z",
+      "reported_at": "2026-01-23T22:01:40Z"
+    },
+    {
+      "id": "8502036b-c97e-4d7a-af8d-9215a60231a1",
+      "latitude": -34.976703,
+      "longitude": 138.627355,
+      "street": "B28 - Fullarton Rd",
+      "city": "Springfield",
+      "type": "mobile",
+      "timestamp": "2026-01-23T22:30:14Z",
+      "reported_at": "2026-01-23T22:25:32Z"
+    },
+    {
+      "id": "d61fb6f2-08c4-4d39-a7d5-f992f02e5478",
+      "latitude": -35.123012,
+      "longitude": 138.507112,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-23T22:30:14Z",
+      "reported_at": "2026-01-23T22:22:17Z"
     }
   ]
 }
