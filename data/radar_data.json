@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "cea2872b-1836-4530-8b4e-9c285eb88613",
+      "latitude": -35.009518,
+      "longitude": 138.761587,
+      "street": "Mount Barker Rd",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-01-23T22:00:17Z",
+      "reported_at": "2026-01-23T21:41:42Z"
+    },
+    {
+      "id": "8e7bf9a8-4f1b-4191-be07-ab7de57b9cdc",
+      "latitude": -34.90176,
+      "longitude": 138.608072,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-23T22:00:17Z",
+      "reported_at": "2026-01-23T21:43:04Z"
+    }
+  ]
 }
