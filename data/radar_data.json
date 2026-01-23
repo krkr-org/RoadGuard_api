@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "9973da0d-99b4-4e9a-bb76-a20ede2cf834",
-      "latitude": -34.892557,
-      "longitude": 138.660643,
+      "id": "69999f37-664a-4d04-b247-8d774b5eda51",
+      "latitude": -34.885138,
+      "longitude": 138.691857,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T06:00:15Z",
+      "reported_at": "2026-01-23T05:45:40Z"
+    },
+    {
+      "id": "23c1d181-29a9-4587-880b-1650df5a29ea",
+      "latitude": -34.893644,
+      "longitude": 138.659228,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T04:56:46Z"
-    },
-    {
-      "id": "8451adeb-aec6-4946-aaba-2221a5e914f5",
-      "latitude": -34.982434,
-      "longitude": 138.598879,
-      "street": "East Pwy",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T01:52:40Z"
+      "timestamp": "2026-01-23T06:00:15Z",
+      "reported_at": "2026-01-23T05:19:45Z"
     },
     {
       "id": "e4fd7b8a-6b2f-4f3e-b075-9dd935d0081c",
@@ -27,28 +27,8 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
+      "timestamp": "2026-01-23T06:00:15Z",
       "reported_at": "2026-01-23T05:07:26Z"
-    },
-    {
-      "id": "84cf28f3-1704-48a5-877b-105a30d45dee",
-      "latitude": -34.765546,
-      "longitude": 138.691133,
-      "street": "Target Hill Rd",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T05:02:23Z"
-    },
-    {
-      "id": "58323ee5-7baa-4569-aa93-4aeea77873f3",
-      "latitude": -34.733336,
-      "longitude": 138.603789,
-      "street": "Helps Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T04:59:04Z"
     },
     {
       "id": "cdf22a39-b167-467a-8877-8200f1f03e53",
@@ -57,18 +37,8 @@
       "street": "Penfold Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
+      "timestamp": "2026-01-23T06:00:15Z",
       "reported_at": "2026-01-23T05:01:32Z"
-    },
-    {
-      "id": "4ceee4d6-0c21-42a3-902a-b4090a765c85",
-      "latitude": -34.809993,
-      "longitude": 138.676108,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T04:45:37Z"
     },
     {
       "id": "88837d4c-18e0-4d0f-bfd4-beb2ffa016ca",
@@ -77,38 +47,38 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
+      "timestamp": "2026-01-23T06:00:15Z",
       "reported_at": "2026-01-23T04:58:39Z"
     },
     {
-      "id": "7da6e595-fef4-4620-9044-0b3a9ca25ad6",
-      "latitude": -34.901806,
-      "longitude": 138.608777,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "559721dd-7cf0-4084-bcd7-ec80cb6ab895",
+      "latitude": -35.007413,
+      "longitude": 138.54013,
+      "street": "Morphett Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T04:59:09Z"
+      "timestamp": "2026-01-23T06:00:15Z",
+      "reported_at": "2026-01-23T05:44:45Z"
     },
     {
-      "id": "ed70ca7f-99fc-4123-b399-3c222d4388e5",
-      "latitude": -34.907479,
-      "longitude": 138.575694,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "id": "78d9bf4a-bda0-4928-8db7-c02f1b9d3615",
+      "latitude": -34.810131,
+      "longitude": 138.67602,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T05:25:46Z"
+      "timestamp": "2026-01-23T06:00:15Z",
+      "reported_at": "2026-01-23T05:41:23Z"
     },
     {
-      "id": "18574bc2-1562-4261-9d50-91f9cbbb7654",
-      "latitude": -34.701732,
-      "longitude": 138.681782,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
+      "id": "e19eadda-a052-4ffa-bf39-5df103ad178a",
+      "latitude": -35.051794,
+      "longitude": 138.572366,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-23T05:30:15Z",
-      "reported_at": "2026-01-23T05:14:17Z"
+      "timestamp": "2026-01-23T06:00:15Z",
+      "reported_at": "2026-01-23T05:38:27Z"
     }
   ]
 }
