@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "bb90e3a1-a5e8-4b48-af57-06e02706875a",
+      "latitude": -35.00135,
+      "longitude": 138.721182,
+      "street": "Pomona Rd",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-23T04:00:13Z",
+      "reported_at": "2026-01-23T03:41:29Z"
+    },
+    {
       "id": "3e822c23-687d-4ccb-a5cd-2d32446e2833",
       "latitude": -34.967113,
       "longitude": 138.635727,
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
+      "timestamp": "2026-01-23T04:00:13Z",
       "reported_at": "2026-01-23T00:23:10Z"
     },
     {
-      "id": "d8eecea2-762d-4c9d-aee5-0969674534d5",
-      "latitude": -34.968454,
-      "longitude": 138.541524,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "8451adeb-aec6-4946-aaba-2221a5e914f5",
+      "latitude": -34.982434,
+      "longitude": 138.598879,
+      "street": "East Pwy",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
-      "reported_at": "2026-01-22T20:38:26Z"
-    },
-    {
-      "id": "0867528b-baa8-453f-8bcd-5bbec05196e9",
-      "latitude": -34.795014,
-      "longitude": 138.68934,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
-      "reported_at": "2026-01-23T03:04:13Z"
-    },
-    {
-      "id": "85a20fda-0867-4216-a5a2-1572bd8d36ac",
-      "latitude": -35.010921,
-      "longitude": 138.582066,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
-      "reported_at": "2026-01-22T21:48:20Z"
+      "timestamp": "2026-01-23T04:00:13Z",
+      "reported_at": "2026-01-23T01:52:40Z"
     },
     {
       "id": "c7a8a002-e928-4190-a495-63f9a231fa2c",
@@ -47,28 +37,8 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
+      "timestamp": "2026-01-23T04:00:13Z",
       "reported_at": "2026-01-22T23:44:32Z"
-    },
-    {
-      "id": "1724422f-2bc7-4245-98ac-72993d0b285c",
-      "latitude": -34.85742,
-      "longitude": 138.65516,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
-      "reported_at": "2026-01-23T02:56:30Z"
-    },
-    {
-      "id": "f47c4eb1-5669-4d23-8ce4-05040f53f6c8",
-      "latitude": -35.128124,
-      "longitude": 138.505396,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-23T03:30:14Z",
-      "reported_at": "2026-01-23T02:52:08Z"
     }
   ]
 }
