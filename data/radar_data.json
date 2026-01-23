@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "69999f37-664a-4d04-b247-8d774b5eda51",
-      "latitude": -34.885138,
-      "longitude": 138.691857,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
+      "id": "33671753-8be1-4963-954a-37e2a084b7cc",
+      "latitude": -34.902416,
+      "longitude": 138.491045,
+      "street": "Jetty St",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
-      "reported_at": "2026-01-23T05:45:40Z"
-    },
-    {
-      "id": "23c1d181-29a9-4587-880b-1650df5a29ea",
-      "latitude": -34.893644,
-      "longitude": 138.659228,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
-      "reported_at": "2026-01-23T05:19:45Z"
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T06:12:30Z"
     },
     {
       "id": "e4fd7b8a-6b2f-4f3e-b075-9dd935d0081c",
@@ -27,8 +17,58 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
+      "timestamp": "2026-01-23T06:30:14Z",
       "reported_at": "2026-01-23T05:07:26Z"
+    },
+    {
+      "id": "c63cd0fc-b826-4031-87d3-7d6be6742516",
+      "latitude": -34.899703,
+      "longitude": 138.611654,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T05:59:42Z"
+    },
+    {
+      "id": "69999f37-664a-4d04-b247-8d774b5eda51",
+      "latitude": -34.885138,
+      "longitude": 138.691857,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T05:45:40Z"
+    },
+    {
+      "id": "21fbbfb3-133a-4db8-b452-1048da7dc60e",
+      "latitude": -34.927709,
+      "longitude": 138.668185,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T05:56:59Z"
+    },
+    {
+      "id": "9973da0d-99b4-4e9a-bb76-a20ede2cf834",
+      "latitude": -34.892557,
+      "longitude": 138.660643,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T04:56:46Z"
+    },
+    {
+      "id": "0decb4f4-41b3-418a-a2e3-078fd3c69d9c",
+      "latitude": -34.694253,
+      "longitude": 138.657861,
+      "street": "Stebonheath Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T05:56:36Z"
     },
     {
       "id": "cdf22a39-b167-467a-8877-8200f1f03e53",
@@ -37,7 +77,7 @@
       "street": "Penfold Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
+      "timestamp": "2026-01-23T06:30:14Z",
       "reported_at": "2026-01-23T05:01:32Z"
     },
     {
@@ -47,38 +87,28 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
+      "timestamp": "2026-01-23T06:30:14Z",
       "reported_at": "2026-01-23T04:58:39Z"
     },
     {
-      "id": "559721dd-7cf0-4084-bcd7-ec80cb6ab895",
-      "latitude": -35.007413,
-      "longitude": 138.54013,
-      "street": "Morphett Rd",
-      "city": "Warradale",
+      "id": "3241864f-8def-4961-ada5-bd9deab3af3e",
+      "latitude": -34.906905,
+      "longitude": 138.607567,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
-      "reported_at": "2026-01-23T05:44:45Z"
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T06:26:47Z"
     },
     {
-      "id": "78d9bf4a-bda0-4928-8db7-c02f1b9d3615",
-      "latitude": -34.810131,
-      "longitude": 138.67602,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
+      "id": "6919aca2-279f-4999-a5c0-716ebe49039f",
+      "latitude": -34.843143,
+      "longitude": 138.701462,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
-      "reported_at": "2026-01-23T05:41:23Z"
-    },
-    {
-      "id": "e19eadda-a052-4ffa-bf39-5df103ad178a",
-      "latitude": -35.051794,
-      "longitude": 138.572366,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-23T06:00:15Z",
-      "reported_at": "2026-01-23T05:38:27Z"
+      "timestamp": "2026-01-23T06:30:14Z",
+      "reported_at": "2026-01-23T06:11:46Z"
     }
   ]
 }
