@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "4e2518d3-2bac-4761-b868-572cf3b90d84",
-      "latitude": -34.984192,
-      "longitude": 138.611528,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
+      "id": "f29ea57d-4213-4eae-af38-f8b054b4ad38",
+      "latitude": -34.914388,
+      "longitude": 138.585455,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-24T22:00:15Z",
-      "reported_at": "2026-01-24T21:06:20Z"
+      "timestamp": "2026-01-24T22:30:15Z",
+      "reported_at": "2026-01-24T20:55:17Z"
     },
     {
-      "id": "d3509160-83fc-40be-90d2-e7485febcf3d",
-      "latitude": -34.940814,
-      "longitude": 138.610698,
+      "id": "cc81c412-9247-43ff-af98-a614c4944183",
+      "latitude": -35.027984,
+      "longitude": 138.597234,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2026-01-24T22:30:15Z",
+      "reported_at": "2026-01-24T22:13:11Z"
+    },
+    {
+      "id": "7f251089-c644-48c0-b518-131d120c8248",
+      "latitude": -35.125348,
+      "longitude": 138.785237,
+      "street": "B34 - Battunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-01-24T22:30:15Z",
+      "reported_at": "2026-01-24T22:02:42Z"
+    },
+    {
+      "id": "8c47585d-e712-4326-be84-95b77ba9732a",
+      "latitude": -34.96418,
+      "longitude": 138.633279,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-24T22:30:15Z",
+      "reported_at": "2026-01-24T20:55:40Z"
+    },
+    {
+      "id": "3eb14fe2-9619-4248-b0fa-b99cba458ff1",
+      "latitude": -34.940739,
+      "longitude": 138.612202,
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-24T22:00:15Z",
-      "reported_at": "2026-01-24T21:05:24Z"
+      "timestamp": "2026-01-24T22:30:15Z",
+      "reported_at": "2026-01-24T20:41:25Z"
     },
     {
       "id": "1fe6ad2c-0e34-4866-86f1-c95e049eda9d",
@@ -27,7 +57,7 @@
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-01-24T22:00:15Z",
+      "timestamp": "2026-01-24T22:30:15Z",
       "reported_at": "2026-01-24T21:22:03Z"
     },
     {
@@ -37,28 +67,18 @@
       "street": "A7 - Port Rd",
       "city": "Allenby Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-24T22:00:15Z",
+      "timestamp": "2026-01-24T22:30:15Z",
       "reported_at": "2026-01-24T17:51:01Z"
     },
     {
-      "id": "2a178788-424a-4b16-a3fd-734485f288a1",
-      "latitude": -34.938211,
-      "longitude": 138.586288,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "id": "d425a544-a0c2-40c4-8e6e-5c381d0b8b5f",
+      "latitude": -34.76595,
+      "longitude": 138.604609,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-24T22:00:15Z",
-      "reported_at": "2026-01-24T20:54:20Z"
-    },
-    {
-      "id": "69966dc9-5e82-405e-a453-a88d6681bc2c",
-      "latitude": -34.964319,
-      "longitude": 138.631942,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-24T22:00:15Z",
-      "reported_at": "2026-01-24T21:17:50Z"
+      "timestamp": "2026-01-24T22:30:15Z",
+      "reported_at": "2026-01-24T22:13:22Z"
     }
   ]
 }
