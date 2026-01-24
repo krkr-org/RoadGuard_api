@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "ab0fb68c-818b-4ce1-95d5-0a166e738076",
-      "latitude": -35.017197,
-      "longitude": 138.514542,
-      "street": "Esplanade",
-      "city": "Brighton",
-      "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T08:42:01Z"
-    },
-    {
       "id": "8e7ceabb-caa6-48ad-90d2-58d1a05130ad",
       "latitude": -34.912281,
       "longitude": 138.535012,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
+      "timestamp": "2026-01-24T09:30:14Z",
       "reported_at": "2026-01-24T05:29:05Z"
     },
     {
-      "id": "ff151280-d7e3-4aec-a1af-ad82f600c31d",
-      "latitude": -34.913639,
-      "longitude": 138.575646,
+      "id": "9921f1d1-93e4-4846-b24c-bc2a6d8fefba",
+      "latitude": -34.913791,
+      "longitude": 138.574337,
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T05:46:35Z"
-    },
-    {
-      "id": "a817f9cc-2749-4b47-b071-60be5118ab3b",
-      "latitude": -34.950011,
-      "longitude": 138.576299,
-      "street": "Unknown Street",
-      "city": "Everard Park",
-      "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T08:27:40Z"
+      "timestamp": "2026-01-24T09:30:14Z",
+      "reported_at": "2026-01-24T06:59:11Z"
     },
     {
       "id": "5cd55fb8-2600-4403-89a4-2807058ad06e",
@@ -47,18 +27,8 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
+      "timestamp": "2026-01-24T09:30:14Z",
       "reported_at": "2026-01-24T07:23:28Z"
-    },
-    {
-      "id": "bb5ce520-3927-447c-977c-6e5f1a13e391",
-      "latitude": -34.891757,
-      "longitude": 138.515707,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T06:26:31Z"
     },
     {
       "id": "e656774d-b2c0-43f4-a197-2189c54dc32b",
@@ -67,48 +37,48 @@
       "street": "Unknown Street",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
+      "timestamp": "2026-01-24T09:30:14Z",
       "reported_at": "2026-01-24T08:01:13Z"
     },
     {
-      "id": "430af90e-40e2-48c4-8afa-7ef123b50934",
-      "latitude": -34.933832,
-      "longitude": 138.606402,
-      "street": "Pulteney St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T08:42:25Z"
-    },
-    {
-      "id": "403aaf67-93bd-4911-8aa7-683d8d27e799",
-      "latitude": -34.897991,
-      "longitude": 138.514092,
-      "street": "A15 - Tapleys Hill Rd",
+      "id": "61003377-dcd2-4e74-816d-5b1de8f8e616",
+      "latitude": -34.891647,
+      "longitude": 138.518089,
+      "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T08:49:19Z"
+      "timestamp": "2026-01-24T09:30:14Z",
+      "reported_at": "2026-01-24T05:32:53Z"
     },
     {
-      "id": "cef5da1b-cf43-4cc8-9bb8-0217aad7ee1a",
-      "latitude": -34.963989,
-      "longitude": 138.51656,
+      "id": "5b843323-6c4e-43b8-8089-f3d6cfc4a11b",
+      "latitude": -34.806134,
+      "longitude": 138.681957,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-24T09:30:14Z",
+      "reported_at": "2026-01-24T09:09:44Z"
+    },
+    {
+      "id": "bc16789a-f090-4398-93f5-f69e07ffde72",
+      "latitude": -34.963748,
+      "longitude": 138.516549,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T04:44:06Z"
+      "timestamp": "2026-01-24T09:30:14Z",
+      "reported_at": "2026-01-24T06:13:36Z"
     },
     {
-      "id": "1ff9ee5f-75d6-4e2d-a03a-710288429ce4",
-      "latitude": -34.898066,
-      "longitude": 138.561594,
+      "id": "c30ce3f6-ed18-4af2-bd88-489e349a4187",
+      "latitude": -34.897822,
+      "longitude": 138.560393,
       "street": "A7 - Port Rd",
-      "city": "Croydon",
+      "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-01-24T09:00:14Z",
-      "reported_at": "2026-01-24T05:22:15Z"
+      "timestamp": "2026-01-24T09:30:14Z",
+      "reported_at": "2026-01-24T05:31:20Z"
     }
   ]
 }
