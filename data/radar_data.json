@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "b37b00d0-bc80-4aa5-be5f-dfefe4a32741",
+      "latitude": -34.73354,
+      "longitude": 138.715604,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
+      "type": "mobile",
+      "timestamp": "2026-01-24T00:00:14Z",
+      "reported_at": "2026-01-23T23:35:52Z"
+    },
+    {
       "id": "4cff3a3a-d67f-41ec-bfda-d3dfe5fc4490",
       "latitude": -34.990606,
       "longitude": 138.723015,
       "street": "Piccadilly Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-23T23:30:13Z",
+      "timestamp": "2026-01-24T00:00:14Z",
       "reported_at": "2026-01-23T22:01:40Z"
     },
     {
-      "id": "c52407b4-764d-4bbb-8015-a042b0102387",
-      "latitude": -35.110195,
-      "longitude": 138.630604,
-      "street": "Grants Gully Rd",
-      "city": "Clarendon",
+      "id": "77ba72c5-5c82-4a83-963d-79e47f962cf3",
+      "latitude": -34.852276,
+      "longitude": 138.514733,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2026-01-23T23:30:13Z",
-      "reported_at": "2026-01-23T23:04:34Z"
+      "timestamp": "2026-01-24T00:00:14Z",
+      "reported_at": "2026-01-23T23:39:19Z"
     },
     {
-      "id": "7761a611-18d2-4cbf-91d7-4d94912e753d",
-      "latitude": -35.058776,
-      "longitude": 138.535402,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "87a73307-4cfd-4c3f-b640-497a3d431182",
+      "latitude": -34.895744,
+      "longitude": 138.558103,
+      "street": "A7 - Port Rd",
+      "city": "West Croydon",
       "type": "mobile",
-      "timestamp": "2026-01-23T23:30:13Z",
-      "reported_at": "2026-01-23T23:21:36Z"
+      "timestamp": "2026-01-24T00:00:14Z",
+      "reported_at": "2026-01-23T22:59:29Z"
+    },
+    {
+      "id": "af1a33c7-6dd6-4f1c-bcbb-cee453d2e247",
+      "latitude": -34.931823,
+      "longitude": 138.623854,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-24T00:00:14Z",
+      "reported_at": "2026-01-23T23:57:33Z"
     }
   ]
 }
