@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "e4029826-116a-4b2f-8095-5a8d49bb3880",
-      "latitude": -34.892933,
-      "longitude": 138.553001,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
+      "id": "4e2518d3-2bac-4761-b868-572cf3b90d84",
+      "latitude": -34.984192,
+      "longitude": 138.611528,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-01-24T21:00:17Z",
-      "reported_at": "2026-01-24T17:51:01Z"
-    },
-    {
-      "id": "a7d68189-2a08-4884-80eb-3ac546d244f3",
-      "latitude": -34.898956,
-      "longitude": 138.59331,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2026-01-24T21:00:17Z",
-      "reported_at": "2026-01-24T20:39:23Z"
-    },
-    {
-      "id": "fb2263e0-5f5f-4d91-b7d2-470450624e01",
-      "latitude": -34.937178,
-      "longitude": 138.587369,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-24T21:00:17Z",
-      "reported_at": "2026-01-24T20:37:31Z"
-    },
-    {
-      "id": "3eb14fe2-9619-4248-b0fa-b99cba458ff1",
-      "latitude": -34.940739,
-      "longitude": 138.612202,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
-      "type": "mobile",
-      "timestamp": "2026-01-24T21:00:17Z",
-      "reported_at": "2026-01-24T20:41:25Z"
+      "timestamp": "2026-01-24T21:30:15Z",
+      "reported_at": "2026-01-24T21:06:20Z"
     },
     {
       "id": "8c47585d-e712-4326-be84-95b77ba9732a",
@@ -47,8 +17,58 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-24T21:00:17Z",
+      "timestamp": "2026-01-24T21:30:15Z",
       "reported_at": "2026-01-24T20:55:40Z"
+    },
+    {
+      "id": "a7d68189-2a08-4884-80eb-3ac546d244f3",
+      "latitude": -34.898956,
+      "longitude": 138.59331,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-01-24T21:30:15Z",
+      "reported_at": "2026-01-24T20:39:23Z"
+    },
+    {
+      "id": "e4029826-116a-4b2f-8095-5a8d49bb3880",
+      "latitude": -34.892933,
+      "longitude": 138.553001,
+      "street": "A7 - Port Rd",
+      "city": "Allenby Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-24T21:30:15Z",
+      "reported_at": "2026-01-24T17:51:01Z"
+    },
+    {
+      "id": "ec6e34d6-2644-485b-8600-68490f9b36a3",
+      "latitude": -34.915503,
+      "longitude": 138.614044,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-24T21:30:15Z",
+      "reported_at": "2026-01-24T21:01:42Z"
+    },
+    {
+      "id": "2a178788-424a-4b16-a3fd-734485f288a1",
+      "latitude": -34.938211,
+      "longitude": 138.586288,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-24T21:30:15Z",
+      "reported_at": "2026-01-24T20:54:20Z"
+    },
+    {
+      "id": "3863aa3d-f7aa-4be5-8941-c111a6032ce9",
+      "latitude": -34.965941,
+      "longitude": 138.647924,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-24T21:30:15Z",
+      "reported_at": "2026-01-24T21:17:56Z"
     }
   ]
 }
