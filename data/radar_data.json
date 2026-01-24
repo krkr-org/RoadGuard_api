@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "ab0fb68c-818b-4ce1-95d5-0a166e738076",
+      "latitude": -35.017197,
+      "longitude": 138.514542,
+      "street": "Esplanade",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-01-24T09:00:14Z",
+      "reported_at": "2026-01-24T08:42:01Z"
+    },
+    {
       "id": "8e7ceabb-caa6-48ad-90d2-58d1a05130ad",
       "latitude": -34.912281,
       "longitude": 138.535012,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
+      "timestamp": "2026-01-24T09:00:14Z",
       "reported_at": "2026-01-24T05:29:05Z"
-    },
-    {
-      "id": "97825139-be85-4b5e-af4a-5c9a3fea97ca",
-      "latitude": -34.956139,
-      "longitude": 138.508851,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T04:52:49Z"
     },
     {
       "id": "ff151280-d7e3-4aec-a1af-ad82f600c31d",
@@ -27,18 +27,18 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
+      "timestamp": "2026-01-24T09:00:14Z",
       "reported_at": "2026-01-24T05:46:35Z"
     },
     {
-      "id": "42dab5b1-cfda-4ed4-8251-96f5f2543d51",
-      "latitude": -34.901107,
-      "longitude": 138.576481,
-      "street": "Chief St",
-      "city": "Brompton",
+      "id": "a817f9cc-2749-4b47-b071-60be5118ab3b",
+      "latitude": -34.950011,
+      "longitude": 138.576299,
+      "street": "Unknown Street",
+      "city": "Everard Park",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T03:22:29Z"
+      "timestamp": "2026-01-24T09:00:14Z",
+      "reported_at": "2026-01-24T08:27:40Z"
     },
     {
       "id": "5cd55fb8-2600-4403-89a4-2807058ad06e",
@@ -47,48 +47,18 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
+      "timestamp": "2026-01-24T09:00:14Z",
       "reported_at": "2026-01-24T07:23:28Z"
     },
     {
-      "id": "df4ec12f-6ff6-4005-8c72-4bda15b77747",
-      "latitude": -34.895087,
-      "longitude": 138.594567,
-      "street": "Prospect Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T07:33:10Z"
-    },
-    {
-      "id": "61003377-dcd2-4e74-816d-5b1de8f8e616",
-      "latitude": -34.891647,
-      "longitude": 138.518089,
+      "id": "bb5ce520-3927-447c-977c-6e5f1a13e391",
+      "latitude": -34.891757,
+      "longitude": 138.515707,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T05:32:53Z"
-    },
-    {
-      "id": "6bb4d4be-a72c-4328-9efa-5cb931f45b5f",
-      "latitude": -34.691894,
-      "longitude": 138.643077,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T07:12:36Z"
-    },
-    {
-      "id": "2276b1fe-a9d1-4ee6-bf45-75e5aa589ecf",
-      "latitude": -35.07565,
-      "longitude": 138.548072,
-      "street": "Lander Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T08:09:59Z"
+      "timestamp": "2026-01-24T09:00:14Z",
+      "reported_at": "2026-01-24T06:26:31Z"
     },
     {
       "id": "e656774d-b2c0-43f4-a197-2189c54dc32b",
@@ -97,8 +67,28 @@
       "street": "Unknown Street",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
+      "timestamp": "2026-01-24T09:00:14Z",
       "reported_at": "2026-01-24T08:01:13Z"
+    },
+    {
+      "id": "430af90e-40e2-48c4-8afa-7ef123b50934",
+      "latitude": -34.933832,
+      "longitude": 138.606402,
+      "street": "Pulteney St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-24T09:00:14Z",
+      "reported_at": "2026-01-24T08:42:25Z"
+    },
+    {
+      "id": "403aaf67-93bd-4911-8aa7-683d8d27e799",
+      "latitude": -34.897991,
+      "longitude": 138.514092,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-24T09:00:14Z",
+      "reported_at": "2026-01-24T08:49:19Z"
     },
     {
       "id": "cef5da1b-cf43-4cc8-9bb8-0217aad7ee1a",
@@ -107,7 +97,7 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
+      "timestamp": "2026-01-24T09:00:14Z",
       "reported_at": "2026-01-24T04:44:06Z"
     },
     {
@@ -117,18 +107,8 @@
       "street": "A7 - Port Rd",
       "city": "Croydon",
       "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
+      "timestamp": "2026-01-24T09:00:14Z",
       "reported_at": "2026-01-24T05:22:15Z"
-    },
-    {
-      "id": "361ba8a4-cdd2-40ec-ab6d-38a11cfdeb87",
-      "latitude": -34.836853,
-      "longitude": 138.679375,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-01-24T08:30:13Z",
-      "reported_at": "2026-01-24T08:07:34Z"
     }
   ]
 }
