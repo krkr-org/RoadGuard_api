@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "7e07fd70-c8a2-4535-95b6-4fc2d5465b21",
-      "latitude": -34.912523,
-      "longitude": 138.496695,
-      "street": "East Tce",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
-      "reported_at": "2026-01-24T09:50:45Z"
-    },
-    {
       "id": "955fee54-f9ef-41e5-8822-dcb428dd60d1",
       "latitude": -34.910558,
       "longitude": 138.496473,
       "street": "Unknown Street",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
+      "timestamp": "2026-01-24T11:00:16Z",
       "reported_at": "2026-01-24T08:45:32Z"
+    },
+    {
+      "id": "8e7ceabb-caa6-48ad-90d2-58d1a05130ad",
+      "latitude": -34.912281,
+      "longitude": 138.535012,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T05:29:05Z"
     },
     {
       "id": "9921f1d1-93e4-4846-b24c-bc2a6d8fefba",
@@ -27,28 +27,28 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
+      "timestamp": "2026-01-24T11:00:16Z",
       "reported_at": "2026-01-24T06:59:11Z"
     },
     {
-      "id": "c5e5c45c-3f57-4009-8342-db2be0d05ba4",
-      "latitude": -34.950343,
-      "longitude": 138.50658,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "25e97ebe-6dce-4187-8ad2-56ac244602cb",
+      "latitude": -34.853728,
+      "longitude": 138.64878,
+      "street": "Sir Ross Smith Bvd",
+      "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
-      "reported_at": "2026-01-24T09:06:11Z"
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T08:06:46Z"
     },
     {
-      "id": "5cd55fb8-2600-4403-89a4-2807058ad06e",
-      "latitude": -34.904296,
-      "longitude": 138.491248,
-      "street": "Military Rd",
-      "city": "Grange",
+      "id": "1e712467-1e5b-446c-b347-3fb3a4746c97",
+      "latitude": -34.921597,
+      "longitude": 138.599899,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
-      "reported_at": "2026-01-24T07:23:28Z"
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T10:48:58Z"
     },
     {
       "id": "bb5ce520-3927-447c-977c-6e5f1a13e391",
@@ -57,8 +57,18 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
+      "timestamp": "2026-01-24T11:00:16Z",
       "reported_at": "2026-01-24T06:26:31Z"
+    },
+    {
+      "id": "bb42fbdf-01d3-4edc-8bbc-652b2fcd1721",
+      "latitude": -34.9048,
+      "longitude": 138.491373,
+      "street": "Military Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T05:21:11Z"
     },
     {
       "id": "70567fc3-9e36-46fb-aa55-22e731acc3cc",
@@ -67,8 +77,38 @@
       "street": "St. Bernards Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
+      "timestamp": "2026-01-24T11:00:16Z",
       "reported_at": "2026-01-24T10:14:51Z"
+    },
+    {
+      "id": "587475b6-848e-40d6-9374-e6a4d0e001cc",
+      "latitude": -34.960268,
+      "longitude": 138.515113,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T10:27:48Z"
+    },
+    {
+      "id": "37f50084-ede0-420b-b4a0-050a9b830516",
+      "latitude": -35.046138,
+      "longitude": 138.531641,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T10:38:15Z"
+    },
+    {
+      "id": "3055a3b1-c239-485c-8d00-7f7141b9129b",
+      "latitude": -34.993934,
+      "longitude": 138.575003,
+      "street": "A2 - South Rd",
+      "city": "Clovelly Park",
+      "type": "mobile",
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T10:34:31Z"
     },
     {
       "id": "2cc27697-78ba-407a-acdf-afbd25f7915c",
@@ -77,18 +117,18 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
+      "timestamp": "2026-01-24T11:00:16Z",
       "reported_at": "2026-01-24T04:30:08Z"
     },
     {
-      "id": "ad0660e0-697e-466d-b1d7-a30f5a1a90fa",
-      "latitude": -34.714144,
-      "longitude": 138.571512,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
+      "id": "094a0e5f-4e1b-4f34-bc78-18018a86b7e0",
+      "latitude": -34.917603,
+      "longitude": 138.567579,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-01-24T10:30:12Z",
-      "reported_at": "2026-01-24T10:12:57Z"
+      "timestamp": "2026-01-24T11:00:16Z",
+      "reported_at": "2026-01-24T09:32:02Z"
     }
   ]
 }
