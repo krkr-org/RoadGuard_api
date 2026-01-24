@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "525a438c-a295-432b-bd7e-279b6f79f695",
+      "latitude": -35.036915,
+      "longitude": 138.619689,
+      "street": "Coromandel Pde",
+      "city": "Craigburn Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:52:51Z"
+    },
+    {
+      "id": "18870032-b705-46ac-b2b0-b9c8afcbc6bb",
+      "latitude": -34.871241,
+      "longitude": 138.535864,
+      "street": "John Letts Pl",
+      "city": "St. Clair",
+      "type": "mobile",
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T01:30:08Z"
+    },
+    {
       "id": "aab38881-20f5-46c4-91f4-93493f2c1254",
       "latitude": -34.891654,
       "longitude": 138.570745,
       "street": "Wright St",
       "city": "Ridleyton",
       "type": "mobile",
-      "timestamp": "2026-01-24T02:30:13Z",
+      "timestamp": "2026-01-24T03:00:13Z",
       "reported_at": "2026-01-24T01:08:47Z"
     },
     {
-      "id": "0869a7cf-c52b-43c7-bcd0-b930807d8dae",
-      "latitude": -34.811592,
-      "longitude": 138.662708,
-      "street": "Murrell Rd",
-      "city": "Para Hills",
+      "id": "68d074d7-e65d-40e2-b596-26d70c9eea4d",
+      "latitude": -35.023288,
+      "longitude": 138.821393,
+      "street": "Balhannah Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-24T02:30:13Z",
-      "reported_at": "2026-01-23T21:58:48Z"
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T01:59:02Z"
     },
     {
       "id": "d09cb93f-4232-4d2e-b923-cc51ffb410e2",
@@ -27,38 +47,68 @@
       "street": "Mount Barker Rd",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-01-24T02:30:13Z",
+      "timestamp": "2026-01-24T03:00:13Z",
       "reported_at": "2026-01-23T22:40:11Z"
     },
     {
-      "id": "4cff3a3a-d67f-41ec-bfda-d3dfe5fc4490",
-      "latitude": -34.990606,
-      "longitude": 138.723015,
+      "id": "b99a605c-1f0e-4320-a198-057688e7c0a7",
+      "latitude": -34.989471,
+      "longitude": 138.724367,
       "street": "Piccadilly Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-24T02:30:13Z",
-      "reported_at": "2026-01-23T22:01:40Z"
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:36:59Z"
     },
     {
-      "id": "fe577d24-081c-406f-8e74-e85fb13034e9",
-      "latitude": -34.747884,
-      "longitude": 138.657582,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "b6927b0b-979d-42f2-8e75-9aeef7111d36",
+      "latitude": -34.743053,
+      "longitude": 138.61003,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-01-24T02:30:13Z",
-      "reported_at": "2026-01-24T02:19:38Z"
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:47:56Z"
     },
     {
-      "id": "3b15e0a8-75fa-46f2-a8dd-34b65eb7e326",
-      "latitude": -34.856489,
-      "longitude": 138.654692,
-      "street": "Sudholz Rd",
-      "city": "Gilles Plains",
+      "id": "9b30c444-d564-4de2-81e5-b930bbe57862",
+      "latitude": -35.138807,
+      "longitude": 138.486308,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-24T02:30:13Z",
-      "reported_at": "2026-01-24T02:01:52Z"
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:26:48Z"
+    },
+    {
+      "id": "700041c8-1d2f-477f-ace4-32b1598a6aa1",
+      "latitude": -34.846333,
+      "longitude": 138.601662,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:36:23Z"
+    },
+    {
+      "id": "cbd8de25-bb38-46e8-8862-68c96a79d6b7",
+      "latitude": -34.796783,
+      "longitude": 138.655341,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:43:09Z"
+    },
+    {
+      "id": "64662841-f59d-459c-8c2f-95ada9ee01e8",
+      "latitude": -35.087842,
+      "longitude": 138.536452,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-01-24T03:00:13Z",
+      "reported_at": "2026-01-24T02:53:21Z"
     }
   ]
 }
