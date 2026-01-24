@@ -1,54 +1,24 @@
 {
   "radars": [
     {
+      "id": "8e7ceabb-caa6-48ad-90d2-58d1a05130ad",
+      "latitude": -34.912281,
+      "longitude": 138.535012,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:29:05Z"
+    },
+    {
       "id": "75032ef2-d521-4e62-a453-068d3f142cfd",
       "latitude": -35.025288,
       "longitude": 138.61881,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
+      "timestamp": "2026-01-24T06:00:16Z",
       "reported_at": "2026-01-24T03:00:07Z"
-    },
-    {
-      "id": "a893f081-5b7f-4752-ba51-ef014cc8f44f",
-      "latitude": -34.88872,
-      "longitude": 138.603533,
-      "street": "Harvey St",
-      "city": "Nailsworth",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T05:00:52Z"
-    },
-    {
-      "id": "18870032-b705-46ac-b2b0-b9c8afcbc6bb",
-      "latitude": -34.871241,
-      "longitude": 138.535864,
-      "street": "John Letts Pl",
-      "city": "St. Clair",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T01:30:08Z"
-    },
-    {
-      "id": "aab38881-20f5-46c4-91f4-93493f2c1254",
-      "latitude": -34.891654,
-      "longitude": 138.570745,
-      "street": "Wright St",
-      "city": "Ridleyton",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T01:08:47Z"
-    },
-    {
-      "id": "42dab5b1-cfda-4ed4-8251-96f5f2543d51",
-      "latitude": -34.901107,
-      "longitude": 138.576481,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T03:22:29Z"
     },
     {
       "id": "f7a26712-1c31-4092-89da-82a5af8e2466",
@@ -57,18 +27,28 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
+      "timestamp": "2026-01-24T06:00:16Z",
       "reported_at": "2026-01-24T03:46:28Z"
     },
     {
-      "id": "97825139-be85-4b5e-af4a-5c9a3fea97ca",
-      "latitude": -34.956139,
-      "longitude": 138.508851,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "42dab5b1-cfda-4ed4-8251-96f5f2543d51",
+      "latitude": -34.901107,
+      "longitude": 138.576481,
+      "street": "Chief St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T04:52:49Z"
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T03:22:29Z"
+    },
+    {
+      "id": "2b0f157a-0d46-494d-8a6e-3a4c07918dda",
+      "latitude": -34.754338,
+      "longitude": 138.635392,
+      "street": "Rolleston Av",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:44:01Z"
     },
     {
       "id": "b99a605c-1f0e-4320-a198-057688e7c0a7",
@@ -77,8 +57,28 @@
       "street": "Piccadilly Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
+      "timestamp": "2026-01-24T06:00:16Z",
       "reported_at": "2026-01-24T02:36:59Z"
+    },
+    {
+      "id": "2d4f3fec-6d8b-44e7-a140-f0e9ce9d2103",
+      "latitude": -34.821567,
+      "longitude": 138.731243,
+      "street": "Haines Rd",
+      "city": "Tea Tree Gully",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:34:20Z"
+    },
+    {
+      "id": "61003377-dcd2-4e74-816d-5b1de8f8e616",
+      "latitude": -34.891647,
+      "longitude": 138.518089,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:32:53Z"
     },
     {
       "id": "bb42fbdf-01d3-4edc-8bbc-652b2fcd1721",
@@ -87,38 +87,8 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
+      "timestamp": "2026-01-24T06:00:16Z",
       "reported_at": "2026-01-24T05:21:11Z"
-    },
-    {
-      "id": "19743a7e-da9a-4cb4-b7be-16dc939dcab0",
-      "latitude": -34.841989,
-      "longitude": 138.478958,
-      "street": "Esplanade",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T05:17:33Z"
-    },
-    {
-      "id": "59dd8f5f-aa48-41e9-a5a1-b51e061ff3e5",
-      "latitude": -34.897341,
-      "longitude": 138.489796,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T05:05:19Z"
-    },
-    {
-      "id": "50ead1bc-7be1-407a-94bd-823fe30b181e",
-      "latitude": -34.678275,
-      "longitude": 138.695019,
-      "street": "Curtis Rd",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T05:15:57Z"
     },
     {
       "id": "d5f80330-4503-4799-9e79-1156687e9c35",
@@ -127,28 +97,58 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
+      "timestamp": "2026-01-24T06:00:16Z",
       "reported_at": "2026-01-24T03:24:54Z"
     },
     {
-      "id": "3fc78983-b8b1-413c-8b2d-8c65a2abefb0",
-      "latitude": -34.923664,
-      "longitude": 138.570229,
-      "street": "Henley Beach Rd",
-      "city": "Mile End",
+      "id": "7e2cfb85-8011-45df-aed7-d74c406bb05c",
+      "latitude": -34.848565,
+      "longitude": 138.591418,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T05:14:54Z"
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:21:26Z"
     },
     {
-      "id": "e434dd76-e43a-4caf-abbc-1a4b71972705",
-      "latitude": -34.96581,
-      "longitude": 138.516692,
+      "id": "b38be6f6-73b1-4cf4-a8ff-e7b9baa6b437",
+      "latitude": -34.860992,
+      "longitude": 138.583243,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:50:11Z"
+    },
+    {
+      "id": "e0877bac-1836-4b4a-903d-86ebc06d4949",
+      "latitude": -34.920704,
+      "longitude": 138.640924,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:53:21Z"
+    },
+    {
+      "id": "3c2ebf1b-0d29-4346-bb4f-e49e2bc7890d",
+      "latitude": -34.980323,
+      "longitude": 138.709068,
+      "street": "B28 - Mount Lofty Summit Rd",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T02:20:52Z"
+    },
+    {
+      "id": "cef5da1b-cf43-4cc8-9bb8-0217aad7ee1a",
+      "latitude": -34.963989,
+      "longitude": 138.51656,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
-      "reported_at": "2026-01-24T05:19:41Z"
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T04:44:06Z"
     },
     {
       "id": "342feb1d-8d64-493d-830b-f8b8519e87cd",
@@ -157,8 +157,38 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Aldgate",
       "type": "mobile",
-      "timestamp": "2026-01-24T05:30:13Z",
+      "timestamp": "2026-01-24T06:00:16Z",
       "reported_at": "2026-01-24T02:46:28Z"
+    },
+    {
+      "id": "8c7ef0a0-cdf1-4b1b-a652-95e67ae17df3",
+      "latitude": -34.789818,
+      "longitude": 138.643821,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:17:05Z"
+    },
+    {
+      "id": "59c80630-3dc6-431a-ad70-bc3433e87045",
+      "latitude": -34.717119,
+      "longitude": 138.572282,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:56:05Z"
+    },
+    {
+      "id": "13c81787-645e-4c21-be29-5d399bfe2a3f",
+      "latitude": -34.999908,
+      "longitude": 138.750091,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-24T06:00:16Z",
+      "reported_at": "2026-01-24T05:46:11Z"
     }
   ]
 }
