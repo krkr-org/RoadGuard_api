@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "955fee54-f9ef-41e5-8822-dcb428dd60d1",
-      "latitude": -34.910558,
-      "longitude": 138.496473,
-      "street": "Unknown Street",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
-      "reported_at": "2026-01-24T08:45:32Z"
-    },
-    {
       "id": "9c7384ff-f309-4869-88fe-3a13c4c83589",
       "latitude": -34.911946,
       "longitude": 138.496657,
       "street": "East Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
+      "timestamp": "2026-01-24T13:00:17Z",
       "reported_at": "2026-01-24T10:56:59Z"
-    },
-    {
-      "id": "5cd55fb8-2600-4403-89a4-2807058ad06e",
-      "latitude": -34.904296,
-      "longitude": 138.491248,
-      "street": "Military Rd",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
-      "reported_at": "2026-01-24T07:23:28Z"
     },
     {
       "id": "25215274-61ce-4bda-919c-b293fd6fac88",
@@ -37,28 +17,48 @@
       "street": "Regency Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
+      "timestamp": "2026-01-24T13:00:17Z",
       "reported_at": "2026-01-24T12:05:42Z"
     },
     {
-      "id": "29a97c64-30e4-4c50-b7b3-950f9e40b5b3",
-      "latitude": -34.852087,
-      "longitude": 138.509486,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
+      "id": "a2c4d69a-5a9f-443f-a578-ff5c42552f47",
+      "latitude": -34.994517,
+      "longitude": 138.554969,
+      "street": "Oaklands Rd",
+      "city": "Park Holme",
       "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
-      "reported_at": "2026-01-24T11:27:56Z"
+      "timestamp": "2026-01-24T13:00:17Z",
+      "reported_at": "2026-01-24T12:49:43Z"
     },
     {
-      "id": "c5b10da4-df99-49bc-b060-1b9f198b3620",
-      "latitude": -34.811292,
-      "longitude": 138.501234,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
+      "id": "2e077d83-ad96-43dd-a668-b87a801d6b0f",
+      "latitude": -34.807717,
+      "longitude": 138.650856,
+      "street": "Kesters Rd",
+      "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
-      "reported_at": "2026-01-24T12:08:23Z"
+      "timestamp": "2026-01-24T13:00:17Z",
+      "reported_at": "2026-01-24T12:37:48Z"
+    },
+    {
+      "id": "5cd55fb8-2600-4403-89a4-2807058ad06e",
+      "latitude": -34.904296,
+      "longitude": 138.491248,
+      "street": "Military Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-01-24T13:00:17Z",
+      "reported_at": "2026-01-24T07:23:28Z"
+    },
+    {
+      "id": "d2334813-5d4b-45fe-842a-d214e5953170",
+      "latitude": -35.01865,
+      "longitude": 138.523009,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-01-24T13:00:17Z",
+      "reported_at": "2026-01-24T12:40:41Z"
     },
     {
       "id": "7b0c5c96-9944-47eb-b86b-d1b824a16a97",
@@ -67,7 +67,7 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
+      "timestamp": "2026-01-24T13:00:17Z",
       "reported_at": "2026-01-24T09:09:32Z"
     },
     {
@@ -77,8 +77,18 @@
       "street": "A2 - South Rd",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-01-24T12:30:14Z",
+      "timestamp": "2026-01-24T13:00:17Z",
       "reported_at": "2026-01-24T09:32:02Z"
+    },
+    {
+      "id": "727b0567-8b00-4d2a-9da5-73a37605127f",
+      "latitude": -34.786616,
+      "longitude": 138.694942,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-01-24T13:00:17Z",
+      "reported_at": "2026-01-24T12:36:56Z"
     }
   ]
 }
