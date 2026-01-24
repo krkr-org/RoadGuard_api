@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "8e7ceabb-caa6-48ad-90d2-58d1a05130ad",
-      "latitude": -34.912281,
-      "longitude": 138.535012,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T05:29:05Z"
-    },
-    {
       "id": "f7a26712-1c31-4092-89da-82a5af8e2466",
       "latitude": -34.912894,
       "longitude": 138.509669,
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
+      "timestamp": "2026-01-24T07:30:13Z",
       "reported_at": "2026-01-24T03:46:28Z"
-    },
-    {
-      "id": "d42e993d-9bd6-44af-a51f-ccf4a06176c8",
-      "latitude": -34.830872,
-      "longitude": 138.487355,
-      "street": "Wills St",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:19:03Z"
-    },
-    {
-      "id": "34a7fc88-487e-4a9d-a636-3190be4224db",
-      "latitude": -34.860019,
-      "longitude": 138.491078,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:32:39Z"
     },
     {
       "id": "97825139-be85-4b5e-af4a-5c9a3fea97ca",
@@ -47,8 +17,18 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
+      "timestamp": "2026-01-24T07:30:13Z",
       "reported_at": "2026-01-24T04:52:49Z"
+    },
+    {
+      "id": "ff151280-d7e3-4aec-a1af-ad82f600c31d",
+      "latitude": -34.913639,
+      "longitude": 138.575646,
+      "street": "Phillips St",
+      "city": "Thebarton",
+      "type": "mobile",
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T05:46:35Z"
     },
     {
       "id": "42dab5b1-cfda-4ed4-8251-96f5f2543d51",
@@ -57,28 +37,28 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
+      "timestamp": "2026-01-24T07:30:13Z",
       "reported_at": "2026-01-24T03:22:29Z"
     },
     {
-      "id": "6bd388bc-3e89-4a17-846f-db4b3de8b7a3",
-      "latitude": -34.764031,
-      "longitude": 138.621988,
-      "street": "Unknown Street",
-      "city": "Salisbury Downs",
+      "id": "61003377-dcd2-4e74-816d-5b1de8f8e616",
+      "latitude": -34.891647,
+      "longitude": 138.518089,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:19:56Z"
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T05:32:53Z"
     },
     {
-      "id": "3f170987-3a77-4bfe-bf56-53dd3bcc6e8a",
-      "latitude": -34.861504,
-      "longitude": 138.479235,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
+      "id": "d9d3fa6c-b8f1-4549-b1ad-368efc387a50",
+      "latitude": -34.69426,
+      "longitude": 138.648591,
+      "street": "Womma Rd",
+      "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:43:07Z"
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T07:04:54Z"
     },
     {
       "id": "bb42fbdf-01d3-4edc-8bbc-652b2fcd1721",
@@ -87,88 +67,38 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
+      "timestamp": "2026-01-24T07:30:13Z",
       "reported_at": "2026-01-24T05:21:11Z"
     },
     {
-      "id": "518a18b2-0410-46eb-a4ac-5f669f53e1b0",
-      "latitude": -35.126019,
-      "longitude": 138.52744,
-      "street": "Wheatsheaf Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:48:35Z"
-    },
-    {
-      "id": "bb5ce520-3927-447c-977c-6e5f1a13e391",
-      "latitude": -34.891757,
-      "longitude": 138.515707,
-      "street": "Trimmer Pde",
+      "id": "f34211ca-0c20-4337-af08-f2e6e7a91147",
+      "latitude": -34.881502,
+      "longitude": 138.512991,
+      "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:26:31Z"
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T07:25:42Z"
     },
     {
-      "id": "b529c9e1-80f9-4ad1-9d60-bbc9ccb891d4",
-      "latitude": -34.942289,
-      "longitude": 138.618532,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
+      "id": "8e08a9ca-4155-4547-9946-0a5434d196f2",
+      "latitude": -34.83859,
+      "longitude": 138.502593,
+      "street": "A16 - Nelson St",
+      "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:27:17Z"
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T07:16:35Z"
     },
     {
-      "id": "6e9b801e-2319-462d-aa3b-2c19705a2113",
-      "latitude": -34.875606,
-      "longitude": 138.561081,
-      "street": "Regency Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T05:57:30Z"
-    },
-    {
-      "id": "ee442e9e-d221-4896-b9d7-1b381c183426",
-      "latitude": -34.798532,
-      "longitude": 138.501504,
-      "street": "A16 - Victoria Rd",
-      "city": "Osborne",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:39:15Z"
-    },
-    {
-      "id": "e0d12534-2b97-4959-974c-94dd3a9bef62",
-      "latitude": -34.8015,
-      "longitude": 138.501488,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:39:30Z"
-    },
-    {
-      "id": "cef5da1b-cf43-4cc8-9bb8-0217aad7ee1a",
-      "latitude": -34.963989,
-      "longitude": 138.51656,
+      "id": "bc16789a-f090-4398-93f5-f69e07ffde72",
+      "latitude": -34.963748,
+      "longitude": 138.516549,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T04:44:06Z"
-    },
-    {
-      "id": "0e5d3dc4-152f-4a22-ae7a-e7a2201c6f8b",
-      "latitude": -34.898913,
-      "longitude": 138.562047,
-      "street": "A7 - Port Rd",
-      "city": "West Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T04:47:32Z"
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T06:13:36Z"
     },
     {
       "id": "1ff9ee5f-75d6-4e2d-a03a-710288429ce4",
@@ -177,18 +107,38 @@
       "street": "A7 - Port Rd",
       "city": "Croydon",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
+      "timestamp": "2026-01-24T07:30:13Z",
       "reported_at": "2026-01-24T05:22:15Z"
     },
     {
-      "id": "32d14ae4-1ce7-4ee0-81b9-e07f0429ad1c",
-      "latitude": -35.029112,
-      "longitude": 138.555895,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "c30ce3f6-ed18-4af2-bd88-489e349a4187",
+      "latitude": -34.897822,
+      "longitude": 138.560393,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-01-24T07:00:17Z",
-      "reported_at": "2026-01-24T06:52:11Z"
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T05:31:20Z"
+    },
+    {
+      "id": "754122e1-34d3-47c3-9aab-2c9810983357",
+      "latitude": -35.117414,
+      "longitude": 138.509263,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T07:21:51Z"
+    },
+    {
+      "id": "bb84be9b-0e39-4e6b-9b61-bef1cfaa56d0",
+      "latitude": -34.716422,
+      "longitude": 138.572406,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-01-24T07:30:13Z",
+      "reported_at": "2026-01-24T07:26:41Z"
     }
   ]
 }
