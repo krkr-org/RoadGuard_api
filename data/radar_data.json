@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d3d84421-6991-4236-92d4-24c2e4b7e631",
+      "latitude": -34.688511,
+      "longitude": 138.68983,
+      "street": "Munno Para Bvd",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:23:08Z"
+    },
+    {
       "id": "36006cf2-f2de-428b-8948-8626ecfba5ab",
       "latitude": -34.903627,
       "longitude": 138.599761,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
+      "timestamp": "2026-01-25T02:00:16Z",
       "reported_at": "2026-01-24T22:21:49Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
+      "timestamp": "2026-01-25T02:00:16Z",
       "reported_at": "2026-01-24T20:55:17Z"
     },
     {
-      "id": "d90151bf-91f3-4ef7-a733-c9fff5a98a96",
-      "latitude": -34.925057,
-      "longitude": 138.614446,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
+      "id": "acf3f762-ae50-4a5f-82c0-facf5b0cf670",
+      "latitude": -34.805493,
+      "longitude": 138.616888,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
-      "reported_at": "2026-01-24T23:00:16Z"
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:04:01Z"
     },
     {
       "id": "34153eff-1c56-439d-a4b9-3586ad109fdb",
@@ -37,58 +47,48 @@
       "street": "Peacock Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
+      "timestamp": "2026-01-25T02:00:16Z",
       "reported_at": "2026-01-24T22:22:53Z"
     },
     {
-      "id": "3d5c3cd8-c881-4952-8925-60673e2e3a76",
-      "latitude": -34.806077,
-      "longitude": 138.619167,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "58fc41c6-e363-4348-8afe-8d445a24409f",
+      "latitude": -34.925123,
+      "longitude": 138.615338,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
-      "reported_at": "2026-01-25T00:53:32Z"
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-24T23:53:54Z"
     },
     {
-      "id": "abd2c24c-a157-4075-92e3-7030bb7b28ac",
-      "latitude": -34.976186,
-      "longitude": 138.520596,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
+      "id": "ee27eff6-402d-44a2-94f1-f31b6f5417f4",
+      "latitude": -34.843391,
+      "longitude": 138.531196,
+      "street": "Eastern Pde",
+      "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
-      "reported_at": "2026-01-25T01:01:24Z"
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:33:12Z"
     },
     {
-      "id": "7d702463-563c-46b0-93b7-742952d06ade",
-      "latitude": -34.89923,
-      "longitude": 138.588133,
-      "street": "A22 - Torrens Rd",
-      "city": "Ovingham",
+      "id": "f3be1871-e45e-4119-bb56-1e096978738c",
+      "latitude": -35.129836,
+      "longitude": 138.485715,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
-      "reported_at": "2026-01-25T00:52:10Z"
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:53:35Z"
     },
     {
-      "id": "322035fc-3bbe-4c54-869a-7a0862bc15be",
-      "latitude": -34.899,
-      "longitude": 138.592681,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "034617ea-da12-4d92-824a-2a91b5f3d58c",
+      "latitude": -34.964248,
+      "longitude": 138.631917,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
-      "reported_at": "2026-01-25T00:54:17Z"
-    },
-    {
-      "id": "d3509160-83fc-40be-90d2-e7485febcf3d",
-      "latitude": -34.940799,
-      "longitude": 138.611,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
-      "reported_at": "2026-01-24T21:05:24Z"
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:48:03Z"
     },
     {
       "id": "9be53594-caf8-4cb5-b75a-534e069af19e",
@@ -97,8 +97,48 @@
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:30:15Z",
+      "timestamp": "2026-01-25T02:00:16Z",
       "reported_at": "2026-01-24T23:33:36Z"
+    },
+    {
+      "id": "abd2c24c-a157-4075-92e3-7030bb7b28ac",
+      "latitude": -34.976186,
+      "longitude": 138.520596,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:01:24Z"
+    },
+    {
+      "id": "a13e4c59-19ab-42c3-9e7c-39830cdddb3f",
+      "latitude": -34.964663,
+      "longitude": 138.627282,
+      "street": "Unknown Street",
+      "city": "Highgate",
+      "type": "mobile",
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:16:19Z"
+    },
+    {
+      "id": "814587c3-273e-493c-bf34-521fed287e14",
+      "latitude": -34.899033,
+      "longitude": 138.59216,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-24T21:51:58Z"
+    },
+    {
+      "id": "f572d4be-0573-46b6-acbd-06079b86b403",
+      "latitude": -34.946623,
+      "longitude": 138.625544,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-01-25T02:00:16Z",
+      "reported_at": "2026-01-25T01:37:19Z"
     }
   ]
 }
