@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "99ee5cf3-43e3-42c1-85be-dbec8ba6371e",
-      "latitude": -35.104991,
-      "longitude": 138.554837,
-      "street": "Investigator Dr",
-      "city": "Woodcroft",
+      "id": "36006cf2-f2de-428b-8948-8626ecfba5ab",
+      "latitude": -34.903627,
+      "longitude": 138.599761,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:37:15Z"
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-24T22:21:49Z"
     },
     {
       "id": "f29ea57d-4213-4eae-af38-f8b054b4ad38",
@@ -17,48 +17,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
+      "timestamp": "2026-01-25T01:30:15Z",
       "reported_at": "2026-01-24T20:55:17Z"
-    },
-    {
-      "id": "36006cf2-f2de-428b-8948-8626ecfba5ab",
-      "latitude": -34.903627,
-      "longitude": 138.599761,
-      "street": "LeFevre Tce",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-24T22:21:49Z"
-    },
-    {
-      "id": "3d5c3cd8-c881-4952-8925-60673e2e3a76",
-      "latitude": -34.806077,
-      "longitude": 138.619167,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:53:32Z"
-    },
-    {
-      "id": "d0422a46-8c07-4663-87d6-31ba382f7c2c",
-      "latitude": -35.123443,
-      "longitude": 138.536188,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:23:02Z"
-    },
-    {
-      "id": "34153eff-1c56-439d-a4b9-3586ad109fdb",
-      "latitude": -34.939214,
-      "longitude": 138.60075,
-      "street": "Peacock Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-24T22:22:53Z"
     },
     {
       "id": "d90151bf-91f3-4ef7-a733-c9fff5a98a96",
@@ -67,38 +27,38 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
+      "timestamp": "2026-01-25T01:30:15Z",
       "reported_at": "2026-01-24T23:00:16Z"
     },
     {
-      "id": "078da9f4-ce77-4b4d-9424-ca59404b51ce",
-      "latitude": -34.964213,
-      "longitude": 138.632568,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:09:06Z"
-    },
-    {
-      "id": "e4029826-116a-4b2f-8095-5a8d49bb3880",
-      "latitude": -34.892933,
-      "longitude": 138.553001,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-24T17:51:01Z"
-    },
-    {
-      "id": "87f4cbc0-da29-4193-9e21-d15805cf5b1d",
-      "latitude": -34.937569,
-      "longitude": 138.587002,
-      "street": "A5 - Anzac Hwy",
+      "id": "34153eff-1c56-439d-a4b9-3586ad109fdb",
+      "latitude": -34.939214,
+      "longitude": 138.60075,
+      "street": "Peacock Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-24T22:11:38Z"
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-24T22:22:53Z"
+    },
+    {
+      "id": "3d5c3cd8-c881-4952-8925-60673e2e3a76",
+      "latitude": -34.806077,
+      "longitude": 138.619167,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-25T00:53:32Z"
+    },
+    {
+      "id": "abd2c24c-a157-4075-92e3-7030bb7b28ac",
+      "latitude": -34.976186,
+      "longitude": 138.520596,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-25T01:01:24Z"
     },
     {
       "id": "7d702463-563c-46b0-93b7-742952d06ade",
@@ -107,38 +67,38 @@
       "street": "A22 - Torrens Rd",
       "city": "Ovingham",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
+      "timestamp": "2026-01-25T01:30:15Z",
       "reported_at": "2026-01-25T00:52:10Z"
     },
     {
-      "id": "bbd94f19-e411-43b4-b4c4-ec9e6e32d9a9",
-      "latitude": -34.901628,
-      "longitude": 138.607706,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "322035fc-3bbe-4c54-869a-7a0862bc15be",
+      "latitude": -34.899,
+      "longitude": 138.592681,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:29:59Z"
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-25T00:54:17Z"
     },
     {
-      "id": "c800ebcc-8dc1-49be-9fe7-c175961abf34",
-      "latitude": -34.940885,
-      "longitude": 138.609169,
+      "id": "d3509160-83fc-40be-90d2-e7485febcf3d",
+      "latitude": -34.940799,
+      "longitude": 138.611,
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:38:17Z"
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-24T21:05:24Z"
     },
     {
-      "id": "d66369e2-8e91-49eb-be06-9c5639b57314",
-      "latitude": -34.883439,
-      "longitude": 138.571733,
-      "street": "M2 - North-South Mwy",
-      "city": "Renown Park",
+      "id": "9be53594-caf8-4cb5-b75a-534e069af19e",
+      "latitude": -34.937646,
+      "longitude": 138.586786,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T01:00:19Z",
-      "reported_at": "2026-01-25T00:47:56Z"
+      "timestamp": "2026-01-25T01:30:15Z",
+      "reported_at": "2026-01-24T23:33:36Z"
     }
   ]
 }
