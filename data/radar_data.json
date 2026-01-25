@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "d942b224-b4a4-46dc-bdc5-3363cc15c53a",
-      "latitude": -35.130991,
-      "longitude": 138.474812,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
-      "reported_at": "2026-01-25T05:55:34Z"
-    },
-    {
       "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
       "latitude": -35.128489,
       "longitude": 138.481686,
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
+      "timestamp": "2026-01-25T08:30:16Z",
       "reported_at": "2026-01-25T05:41:57Z"
+    },
+    {
+      "id": "d942b224-b4a4-46dc-bdc5-3363cc15c53a",
+      "latitude": -35.130991,
+      "longitude": 138.474812,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-25T08:30:16Z",
+      "reported_at": "2026-01-25T05:55:34Z"
     },
     {
       "id": "d28e31e9-06e3-44e7-ab63-c8e54acf2a60",
@@ -27,7 +27,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
+      "timestamp": "2026-01-25T08:30:16Z",
       "reported_at": "2026-01-25T05:36:27Z"
     },
     {
@@ -37,38 +37,28 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
+      "timestamp": "2026-01-25T08:30:16Z",
       "reported_at": "2026-01-25T04:34:16Z"
     },
     {
-      "id": "907c6d02-2dcf-4495-b7d9-66e5f3061b28",
-      "latitude": -35.053907,
-      "longitude": 138.55509,
+      "id": "efe8e8a3-ab59-43c7-ad89-ae0f07e0623d",
+      "latitude": -34.857388,
+      "longitude": 138.667181,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-25T08:30:16Z",
+      "reported_at": "2026-01-25T07:59:19Z"
+    },
+    {
+      "id": "5ca2f08e-36c6-4f90-aa02-9a752cb848bc",
+      "latitude": -35.054128,
+      "longitude": 138.550854,
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
-      "reported_at": "2026-01-25T05:48:38Z"
-    },
-    {
-      "id": "64c5d3fe-c06c-476b-8181-ab4d7e8e8d0e",
-      "latitude": -35.01397,
-      "longitude": 138.540673,
-      "street": "Morphett Rd",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
-      "reported_at": "2026-01-25T07:03:57Z"
-    },
-    {
-      "id": "0f5be626-5e68-47b2-8154-dbe724ca511e",
-      "latitude": -35.145998,
-      "longitude": 138.486283,
-      "street": "A15 - Murray Rd",
-      "city": "Port Noarlunga",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
-      "reported_at": "2026-01-25T07:25:41Z"
+      "timestamp": "2026-01-25T08:30:16Z",
+      "reported_at": "2026-01-25T06:00:39Z"
     },
     {
       "id": "d52e6fbf-f825-4411-a36d-bd32372d9e4d",
@@ -77,18 +67,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
+      "timestamp": "2026-01-25T08:30:16Z",
       "reported_at": "2026-01-25T05:17:21Z"
     },
     {
-      "id": "0507e37f-8679-4f5b-9228-bbbf72587ca6",
-      "latitude": -34.955708,
-      "longitude": 138.554244,
-      "street": "A14 - Marion Rd",
-      "city": "North Plympton",
+      "id": "61d50700-94a3-41cd-a849-867458c40fe7",
+      "latitude": -35.08242,
+      "longitude": 138.512176,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
-      "reported_at": "2026-01-25T07:28:04Z"
+      "timestamp": "2026-01-25T08:30:16Z",
+      "reported_at": "2026-01-25T08:07:34Z"
     },
     {
       "id": "75dddc9e-bf0b-4f36-9703-20826c52643b",
@@ -97,18 +87,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
+      "timestamp": "2026-01-25T08:30:16Z",
       "reported_at": "2026-01-25T07:55:34Z"
-    },
-    {
-      "id": "20341d67-00f4-496c-9e4a-3aad7e6aa4c5",
-      "latitude": -34.775275,
-      "longitude": 138.619895,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:00:17Z",
-      "reported_at": "2026-01-25T07:29:22Z"
     }
   ]
 }
