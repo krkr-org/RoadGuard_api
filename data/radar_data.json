@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
-      "latitude": -35.128489,
-      "longitude": 138.481686,
-      "street": "Galloway Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
-      "reported_at": "2026-01-25T05:41:57Z"
-    },
-    {
       "id": "d942b224-b4a4-46dc-bdc5-3363cc15c53a",
       "latitude": -35.130991,
       "longitude": 138.474812,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
+      "timestamp": "2026-01-25T09:00:15Z",
       "reported_at": "2026-01-25T05:55:34Z"
+    },
+    {
+      "id": "99eafde2-1fb9-45b7-9c6f-6ff86526eff5",
+      "latitude": -35.134152,
+      "longitude": 138.473273,
+      "street": "Roy Tce",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T08:26:11Z"
+    },
+    {
+      "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
+      "latitude": -35.128489,
+      "longitude": 138.481686,
+      "street": "Galloway Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T05:41:57Z"
     },
     {
       "id": "d28e31e9-06e3-44e7-ab63-c8e54acf2a60",
@@ -27,38 +37,38 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
+      "timestamp": "2026-01-25T09:00:15Z",
       "reported_at": "2026-01-25T05:36:27Z"
     },
     {
-      "id": "d3ff414e-4e6b-44d2-bcb8-9f89efb37f33",
-      "latitude": -34.961696,
-      "longitude": 138.615135,
-      "street": "Duthy St",
-      "city": "Malvern",
+      "id": "11dafb67-63e8-4399-a435-03568c8d7045",
+      "latitude": -34.715329,
+      "longitude": 138.572309,
+      "street": "to M2 - North South Mwy to City",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
-      "reported_at": "2026-01-25T04:34:16Z"
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T08:18:17Z"
     },
     {
-      "id": "efe8e8a3-ab59-43c7-ad89-ae0f07e0623d",
-      "latitude": -34.857388,
-      "longitude": 138.667181,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
-      "reported_at": "2026-01-25T07:59:19Z"
-    },
-    {
-      "id": "5ca2f08e-36c6-4f90-aa02-9a752cb848bc",
-      "latitude": -35.054128,
-      "longitude": 138.550854,
+      "id": "58b764ec-584f-4a2b-9077-e7c3d62ccb54",
+      "latitude": -35.053917,
+      "longitude": 138.554842,
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
-      "reported_at": "2026-01-25T06:00:39Z"
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T05:39:23Z"
+    },
+    {
+      "id": "bb23cbad-979b-4932-9eb1-792da0f07dc2",
+      "latitude": -34.921513,
+      "longitude": 138.59851,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T08:44:29Z"
     },
     {
       "id": "d52e6fbf-f825-4411-a36d-bd32372d9e4d",
@@ -67,8 +77,38 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
+      "timestamp": "2026-01-25T09:00:15Z",
       "reported_at": "2026-01-25T05:17:21Z"
+    },
+    {
+      "id": "3d4ec2a8-1d67-4284-872f-8588f4d6734d",
+      "latitude": -34.777248,
+      "longitude": 138.484603,
+      "street": "Oliver Rogers Rd",
+      "city": "Outer Harbor",
+      "type": "mobile",
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T08:21:57Z"
+    },
+    {
+      "id": "7dc7041c-338b-4972-8e9d-e3a66e895ace",
+      "latitude": -34.791836,
+      "longitude": 138.646808,
+      "street": "A20 - Main North Rd",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T08:35:41Z"
+    },
+    {
+      "id": "de0b08e9-f4b8-4066-b543-c928e1e7f833",
+      "latitude": -34.782885,
+      "longitude": 138.654731,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-25T09:00:15Z",
+      "reported_at": "2026-01-25T08:40:48Z"
     },
     {
       "id": "61d50700-94a3-41cd-a849-867458c40fe7",
@@ -77,18 +117,8 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
+      "timestamp": "2026-01-25T09:00:15Z",
       "reported_at": "2026-01-25T08:07:34Z"
-    },
-    {
-      "id": "75dddc9e-bf0b-4f36-9703-20826c52643b",
-      "latitude": -34.767115,
-      "longitude": 138.637282,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-25T08:30:16Z",
-      "reported_at": "2026-01-25T07:55:34Z"
     }
   ]
 }
