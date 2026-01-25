@@ -7,7 +7,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
+      "timestamp": "2026-01-25T00:30:16Z",
       "reported_at": "2026-01-24T20:55:17Z"
     },
     {
@@ -17,38 +17,48 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
+      "timestamp": "2026-01-25T00:30:16Z",
       "reported_at": "2026-01-24T22:21:49Z"
     },
     {
-      "id": "d90151bf-91f3-4ef7-a733-c9fff5a98a96",
-      "latitude": -34.925057,
-      "longitude": 138.614446,
+      "id": "34153eff-1c56-439d-a4b9-3586ad109fdb",
+      "latitude": -34.939214,
+      "longitude": 138.60075,
+      "street": "Peacock Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-24T22:22:53Z"
+    },
+    {
+      "id": "15636bd5-55a7-4191-b285-e69788dac833",
+      "latitude": -34.873847,
+      "longitude": 138.598315,
+      "street": "Regency Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-25T00:11:17Z"
+    },
+    {
+      "id": "58fc41c6-e363-4348-8afe-8d445a24409f",
+      "latitude": -34.925123,
+      "longitude": 138.615338,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
-      "reported_at": "2026-01-24T23:00:16Z"
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-24T23:53:54Z"
     },
     {
-      "id": "ccf13fbb-9dcd-46cf-baa2-4011d2d754d2",
-      "latitude": -34.805949,
-      "longitude": 138.618477,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "f94e7c60-4e95-4ed0-92ff-8e820b7d0feb",
+      "latitude": -34.827691,
+      "longitude": 138.500643,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
-      "reported_at": "2026-01-24T23:33:33Z"
-    },
-    {
-      "id": "87f4cbc0-da29-4193-9e21-d15805cf5b1d",
-      "latitude": -34.937657,
-      "longitude": 138.586926,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
-      "reported_at": "2026-01-24T22:11:38Z"
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-25T00:20:03Z"
     },
     {
       "id": "d3509160-83fc-40be-90d2-e7485febcf3d",
@@ -57,18 +67,8 @@
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
+      "timestamp": "2026-01-25T00:30:16Z",
       "reported_at": "2026-01-24T21:05:24Z"
-    },
-    {
-      "id": "8c47585d-e712-4326-be84-95b77ba9732a",
-      "latitude": -34.96418,
-      "longitude": 138.633279,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
-      "reported_at": "2026-01-24T20:55:40Z"
     },
     {
       "id": "e4029826-116a-4b2f-8095-5a8d49bb3880",
@@ -77,8 +77,38 @@
       "street": "A7 - Port Rd",
       "city": "Allenby Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-25T00:00:15Z",
+      "timestamp": "2026-01-25T00:30:16Z",
       "reported_at": "2026-01-24T17:51:01Z"
+    },
+    {
+      "id": "814587c3-273e-493c-bf34-521fed287e14",
+      "latitude": -34.899049,
+      "longitude": 138.591919,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-24T21:51:58Z"
+    },
+    {
+      "id": "8c47585d-e712-4326-be84-95b77ba9732a",
+      "latitude": -34.96418,
+      "longitude": 138.633279,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-24T20:55:40Z"
+    },
+    {
+      "id": "bfcb390a-b83c-49d9-8f99-849dc16b2210",
+      "latitude": -34.965237,
+      "longitude": 138.647028,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-25T00:30:16Z",
+      "reported_at": "2026-01-25T00:19:38Z"
     }
   ]
 }
