@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "0bbd8cdd-34d1-4eb5-bb1d-414f8a9efe43",
-      "latitude": -34.931182,
-      "longitude": 138.517621,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "11e3c145-3ee1-430f-b239-0f5053bdcb3d",
+      "latitude": -34.929692,
+      "longitude": 138.542615,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-25T21:00:18Z",
-      "reported_at": "2026-01-25T20:46:59Z"
+      "timestamp": "2026-01-25T21:30:16Z",
+      "reported_at": "2026-01-25T21:05:25Z"
+    },
+    {
+      "id": "847ade71-2406-4023-a0cd-4dee560b3bc8",
+      "latitude": -34.85767,
+      "longitude": 138.529156,
+      "street": "Addison Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-01-25T21:30:16Z",
+      "reported_at": "2026-01-25T21:20:18Z"
     }
   ]
 }
