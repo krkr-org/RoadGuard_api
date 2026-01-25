@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "5dd8dd6f-42cb-4d51-8950-cf762db01e2a",
-      "latitude": -34.796578,
-      "longitude": 138.64919,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
+      "latitude": -35.128489,
+      "longitude": 138.481686,
+      "street": "Galloway Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T05:47:10Z"
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T05:41:57Z"
     },
     {
       "id": "99eafde2-1fb9-45b7-9c6f-6ff86526eff5",
@@ -17,48 +17,68 @@
       "street": "Roy Tce",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
+      "timestamp": "2026-01-25T10:00:15Z",
       "reported_at": "2026-01-25T08:26:11Z"
     },
     {
-      "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
-      "latitude": -35.128489,
-      "longitude": 138.481686,
-      "street": "Galloway Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T05:41:57Z"
-    },
-    {
-      "id": "2a70723f-b22c-4546-934b-7fdb13733403",
-      "latitude": -35.131071,
-      "longitude": 138.47339,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T06:43:52Z"
-    },
-    {
-      "id": "d28e31e9-06e3-44e7-ab63-c8e54acf2a60",
-      "latitude": -35.062465,
-      "longitude": 138.518044,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T05:36:27Z"
-    },
-    {
-      "id": "907c6d02-2dcf-4495-b7d9-66e5f3061b28",
-      "latitude": -35.053907,
-      "longitude": 138.55509,
+      "id": "58b764ec-584f-4a2b-9077-e7c3d62ccb54",
+      "latitude": -35.053917,
+      "longitude": 138.554842,
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T05:48:38Z"
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T05:39:23Z"
+    },
+    {
+      "id": "66ed3232-0b71-41fc-9659-89fce579f382",
+      "latitude": -35.136359,
+      "longitude": 138.486003,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T07:50:03Z"
+    },
+    {
+      "id": "1ac6d006-5f82-4df8-8608-91e80c02fb2c",
+      "latitude": -35.143968,
+      "longitude": 138.486662,
+      "street": "A15 - Dyson Rd",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T09:41:04Z"
+    },
+    {
+      "id": "61d50700-94a3-41cd-a849-867458c40fe7",
+      "latitude": -35.081653,
+      "longitude": 138.513237,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T08:07:34Z"
+    },
+    {
+      "id": "c9d88533-f251-4320-8a9f-90627c2970c5",
+      "latitude": -34.841525,
+      "longitude": 138.673892,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T09:28:10Z"
+    },
+    {
+      "id": "256beb42-5ec1-409e-b61e-a60bbf7f07c0",
+      "latitude": -34.907108,
+      "longitude": 138.629922,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T09:29:30Z"
     },
     {
       "id": "38a0fb19-2d13-464d-b60d-949a8749f58e",
@@ -67,28 +87,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
+      "timestamp": "2026-01-25T10:00:15Z",
       "reported_at": "2026-01-25T08:59:18Z"
     },
     {
-      "id": "61d50700-94a3-41cd-a849-867458c40fe7",
-      "latitude": -35.08242,
-      "longitude": 138.512176,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "842a31a7-ea45-4ab9-947b-90625245cfab",
+      "latitude": -34.785548,
+      "longitude": 138.694117,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T08:07:34Z"
-    },
-    {
-      "id": "340ab491-3e05-46b6-94be-9119c3dda0e0",
-      "latitude": -34.902215,
-      "longitude": 138.634072,
-      "street": "A11 - Payneham Rd",
-      "city": "Joslin",
-      "type": "mobile",
-      "timestamp": "2026-01-25T09:30:15Z",
-      "reported_at": "2026-01-25T09:24:02Z"
+      "timestamp": "2026-01-25T10:00:15Z",
+      "reported_at": "2026-01-25T09:32:05Z"
     }
   ]
 }
