@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "a6e42398-2b04-4f1d-921c-23b6e206c910",
-      "latitude": -34.804402,
-      "longitude": 138.644089,
-      "street": "Codd St",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
-      "reported_at": "2026-01-25T07:00:21Z"
-    },
-    {
-      "id": "2a70723f-b22c-4546-934b-7fdb13733403",
-      "latitude": -35.131071,
-      "longitude": 138.47339,
+      "id": "d942b224-b4a4-46dc-bdc5-3363cc15c53a",
+      "latitude": -35.130991,
+      "longitude": 138.474812,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
-      "reported_at": "2026-01-25T06:43:52Z"
+      "timestamp": "2026-01-25T08:00:17Z",
+      "reported_at": "2026-01-25T05:55:34Z"
     },
     {
       "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
@@ -27,7 +17,7 @@
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
+      "timestamp": "2026-01-25T08:00:17Z",
       "reported_at": "2026-01-25T05:41:57Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
+      "timestamp": "2026-01-25T08:00:17Z",
       "reported_at": "2026-01-25T05:36:27Z"
     },
     {
@@ -47,7 +37,7 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
+      "timestamp": "2026-01-25T08:00:17Z",
       "reported_at": "2026-01-25T04:34:16Z"
     },
     {
@@ -57,18 +47,8 @@
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
+      "timestamp": "2026-01-25T08:00:17Z",
       "reported_at": "2026-01-25T05:48:38Z"
-    },
-    {
-      "id": "b70c759a-e7b1-4ecb-8091-77b5b0fb0adc",
-      "latitude": -35.127443,
-      "longitude": 138.500397,
-      "street": "Flaxmill Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
-      "reported_at": "2026-01-25T06:55:04Z"
     },
     {
       "id": "64c5d3fe-c06c-476b-8181-ab4d7e8e8d0e",
@@ -77,8 +57,18 @@
       "street": "Morphett Rd",
       "city": "Oaklands Park",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
+      "timestamp": "2026-01-25T08:00:17Z",
       "reported_at": "2026-01-25T07:03:57Z"
+    },
+    {
+      "id": "0f5be626-5e68-47b2-8154-dbe724ca511e",
+      "latitude": -35.145998,
+      "longitude": 138.486283,
+      "street": "A15 - Murray Rd",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-01-25T08:00:17Z",
+      "reported_at": "2026-01-25T07:25:41Z"
     },
     {
       "id": "d52e6fbf-f825-4411-a36d-bd32372d9e4d",
@@ -87,8 +77,38 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T07:30:14Z",
+      "timestamp": "2026-01-25T08:00:17Z",
       "reported_at": "2026-01-25T05:17:21Z"
+    },
+    {
+      "id": "0507e37f-8679-4f5b-9228-bbbf72587ca6",
+      "latitude": -34.955708,
+      "longitude": 138.554244,
+      "street": "A14 - Marion Rd",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-25T08:00:17Z",
+      "reported_at": "2026-01-25T07:28:04Z"
+    },
+    {
+      "id": "75dddc9e-bf0b-4f36-9703-20826c52643b",
+      "latitude": -34.767115,
+      "longitude": 138.637282,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-01-25T08:00:17Z",
+      "reported_at": "2026-01-25T07:55:34Z"
+    },
+    {
+      "id": "20341d67-00f4-496c-9e4a-3aad7e6aa4c5",
+      "latitude": -34.775275,
+      "longitude": 138.619895,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-25T08:00:17Z",
+      "reported_at": "2026-01-25T07:29:22Z"
     }
   ]
 }
