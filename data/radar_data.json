@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "d942b224-b4a4-46dc-bdc5-3363cc15c53a",
+      "latitude": -35.130991,
+      "longitude": 138.474812,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T05:55:34Z"
+    },
+    {
       "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
       "latitude": -35.128489,
       "longitude": 138.481686,
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
+      "timestamp": "2026-01-25T07:00:15Z",
       "reported_at": "2026-01-25T05:41:57Z"
-    },
-    {
-      "id": "e1a3cfe8-1139-4de3-8c50-735d4e559b3a",
-      "latitude": -34.697408,
-      "longitude": 138.669305,
-      "street": "Heytesbury Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T06:18:08Z"
-    },
-    {
-      "id": "884afa20-14b3-4648-87ad-a5181a4605dc",
-      "latitude": -34.914526,
-      "longitude": 138.585672,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T02:47:13Z"
-    },
-    {
-      "id": "f9244be5-4332-4079-8f56-9a1e2198921f",
-      "latitude": -34.933117,
-      "longitude": 138.561385,
-      "street": "Brooker Tce",
-      "city": "Cowandilla",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T02:54:17Z"
     },
     {
       "id": "d28e31e9-06e3-44e7-ab63-c8e54acf2a60",
@@ -47,8 +27,18 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
+      "timestamp": "2026-01-25T07:00:15Z",
       "reported_at": "2026-01-25T05:36:27Z"
+    },
+    {
+      "id": "b6854109-d147-4c77-9f29-ee0ebb2228ce",
+      "latitude": -34.719231,
+      "longitude": 138.685086,
+      "street": "Midway Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T06:36:47Z"
     },
     {
       "id": "d3ff414e-4e6b-44d2-bcb8-9f89efb37f33",
@@ -57,48 +47,18 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
+      "timestamp": "2026-01-25T07:00:15Z",
       "reported_at": "2026-01-25T04:34:16Z"
     },
     {
-      "id": "d942b224-b4a4-46dc-bdc5-3363cc15c53a",
-      "latitude": -35.130991,
-      "longitude": 138.474812,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
+      "id": "45366413-1456-4dd9-ab66-72fb05775ce5",
+      "latitude": -34.975495,
+      "longitude": 138.510029,
+      "street": "Unknown Street",
+      "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T05:55:34Z"
-    },
-    {
-      "id": "907c6d02-2dcf-4495-b7d9-66e5f3061b28",
-      "latitude": -35.053907,
-      "longitude": 138.55509,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T05:48:38Z"
-    },
-    {
-      "id": "3d56cf6c-31ea-4d1d-bfd4-128aa71ed15e",
-      "latitude": -34.99991,
-      "longitude": 138.592536,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T05:58:11Z"
-    },
-    {
-      "id": "4eeb5326-9dc5-466d-a13e-3c89f25f4eb0",
-      "latitude": -34.92096,
-      "longitude": 138.611177,
-      "street": "Botanic Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T06:06:26Z"
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T06:40:43Z"
     },
     {
       "id": "cbcd5f2f-540e-4a2c-b9fd-4adce0a56c22",
@@ -107,8 +67,38 @@
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
+      "timestamp": "2026-01-25T07:00:15Z",
       "reported_at": "2026-01-25T06:25:06Z"
+    },
+    {
+      "id": "907c6d02-2dcf-4495-b7d9-66e5f3061b28",
+      "latitude": -35.053907,
+      "longitude": 138.55509,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T05:48:38Z"
+    },
+    {
+      "id": "23fdde0b-5828-49e5-9cd2-8b58a540f97b",
+      "latitude": -34.927223,
+      "longitude": 138.593777,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T06:38:41Z"
+    },
+    {
+      "id": "e5724417-7d51-4028-a0aa-fce2e38c635d",
+      "latitude": -34.993257,
+      "longitude": 138.592738,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T06:31:51Z"
     },
     {
       "id": "39ab1abf-8ef5-48f4-987e-bd0e7c97d3d8",
@@ -117,18 +107,8 @@
       "street": "Morphett Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
+      "timestamp": "2026-01-25T07:00:15Z",
       "reported_at": "2026-01-25T03:33:08Z"
-    },
-    {
-      "id": "d52e6fbf-f825-4411-a36d-bd32372d9e4d",
-      "latitude": -35.13491,
-      "longitude": 138.485894,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T05:17:21Z"
     },
     {
       "id": "f378281c-b34f-4cc1-a70f-fa5c376ffbf6",
@@ -137,38 +117,28 @@
       "street": "A16 - Bower Rd",
       "city": "New Port",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
+      "timestamp": "2026-01-25T07:00:15Z",
       "reported_at": "2026-01-25T06:24:27Z"
     },
     {
-      "id": "9606348a-616c-41e0-b933-5f4ff24f26ed",
-      "latitude": -35.056769,
-      "longitude": 138.535252,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "d52e6fbf-f825-4411-a36d-bd32372d9e4d",
+      "latitude": -35.13491,
+      "longitude": 138.485894,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T06:02:35Z"
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T05:17:21Z"
     },
     {
-      "id": "1b71e600-0fe3-4a58-b93e-722825631c7b",
-      "latitude": -34.979826,
-      "longitude": 138.573804,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
+      "id": "43e0eb73-a541-4a68-a031-47b5c9d1deb4",
+      "latitude": -34.795442,
+      "longitude": 138.707849,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T06:22:25Z"
-    },
-    {
-      "id": "a272945d-5c9a-4436-93ee-35eca917db97",
-      "latitude": -34.967044,
-      "longitude": 138.572891,
-      "street": "A2 - South Rd",
-      "city": "Glandore",
-      "type": "mobile",
-      "timestamp": "2026-01-25T06:30:14Z",
-      "reported_at": "2026-01-25T06:23:59Z"
+      "timestamp": "2026-01-25T07:00:15Z",
+      "reported_at": "2026-01-25T06:43:48Z"
     }
   ]
 }
