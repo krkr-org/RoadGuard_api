@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "13629b71-be8c-49a8-8656-b8b0757deec6",
-      "latitude": -35.128489,
-      "longitude": 138.481686,
-      "street": "Galloway Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T05:41:57Z"
-    },
-    {
       "id": "99eafde2-1fb9-45b7-9c6f-6ff86526eff5",
       "latitude": -35.134152,
       "longitude": 138.473273,
       "street": "Roy Tce",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
+      "timestamp": "2026-01-25T10:30:16Z",
       "reported_at": "2026-01-25T08:26:11Z"
+    },
+    {
+      "id": "9d7d8cc2-2790-442d-9be0-9bf8b7f71de4",
+      "latitude": -35.128366,
+      "longitude": 138.481677,
+      "street": "Galloway Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T10:21:49Z"
     },
     {
       "id": "58b764ec-584f-4a2b-9077-e7c3d62ccb54",
@@ -27,28 +27,28 @@
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
+      "timestamp": "2026-01-25T10:30:16Z",
       "reported_at": "2026-01-25T05:39:23Z"
     },
     {
-      "id": "66ed3232-0b71-41fc-9659-89fce579f382",
-      "latitude": -35.136359,
-      "longitude": 138.486003,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "92fe8942-4ad4-46ff-8338-f828338461dd",
+      "latitude": -34.827301,
+      "longitude": 138.485256,
+      "street": "Esplanade",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T07:50:03Z"
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T09:59:56Z"
     },
     {
-      "id": "1ac6d006-5f82-4df8-8608-91e80c02fb2c",
-      "latitude": -35.143968,
-      "longitude": 138.486662,
+      "id": "a28b4a7d-cbff-44c8-9cfc-2e16e928e6ab",
+      "latitude": -35.143397,
+      "longitude": 138.486626,
       "street": "A15 - Dyson Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T09:41:04Z"
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T10:10:49Z"
     },
     {
       "id": "61d50700-94a3-41cd-a849-867458c40fe7",
@@ -57,48 +57,68 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
+      "timestamp": "2026-01-25T10:30:16Z",
       "reported_at": "2026-01-25T08:07:34Z"
     },
     {
-      "id": "c9d88533-f251-4320-8a9f-90627c2970c5",
-      "latitude": -34.841525,
-      "longitude": 138.673892,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
+      "id": "17ac4244-ea03-4a19-9271-294bc19b17fa",
+      "latitude": -34.830533,
+      "longitude": 138.612768,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T09:28:10Z"
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T09:51:52Z"
     },
     {
-      "id": "256beb42-5ec1-409e-b61e-a60bbf7f07c0",
-      "latitude": -34.907108,
-      "longitude": 138.629922,
+      "id": "df7efde0-cd76-433a-855f-3143a9a5da09",
+      "latitude": -34.976684,
+      "longitude": 138.627353,
+      "street": "B28 - Fullarton Rd",
+      "city": "Springfield",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T09:58:00Z"
+    },
+    {
+      "id": "e6e77d3c-e65c-4bc2-b58f-fde370342ebc",
+      "latitude": -34.939911,
+      "longitude": 138.584785,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T10:16:59Z"
+    },
+    {
+      "id": "6086a1a4-9608-49ae-9ca1-182d9c69cce3",
+      "latitude": -34.77745,
+      "longitude": 138.49044,
+      "street": "A16 - Victoria Rd",
+      "city": "Outer Harbor",
+      "type": "mobile",
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T09:59:28Z"
+    },
+    {
+      "id": "83d2a3ae-dcae-4105-ad2c-52fc06c4371a",
+      "latitude": -34.890999,
+      "longitude": 138.652721,
       "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
+      "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T09:29:30Z"
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T10:14:11Z"
     },
     {
-      "id": "38a0fb19-2d13-464d-b60d-949a8749f58e",
-      "latitude": -34.793263,
-      "longitude": 138.613724,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "66ed3232-0b71-41fc-9659-89fce579f382",
+      "latitude": -35.136359,
+      "longitude": 138.486003,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T08:59:18Z"
-    },
-    {
-      "id": "842a31a7-ea45-4ab9-947b-90625245cfab",
-      "latitude": -34.785548,
-      "longitude": 138.694117,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-01-25T10:00:15Z",
-      "reported_at": "2026-01-25T09:32:05Z"
+      "timestamp": "2026-01-25T10:30:16Z",
+      "reported_at": "2026-01-25T07:50:03Z"
     }
   ]
 }
