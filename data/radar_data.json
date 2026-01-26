@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "9ec18119-9a6e-466d-b168-1de3e8b0f0b8",
-      "latitude": -34.743141,
-      "longitude": 138.626908,
-      "street": "Whites Rd",
-      "city": "Salisbury North",
+      "id": "7cd0308c-8bfb-4302-be2f-ba2eebb8c914",
+      "latitude": -34.676219,
+      "longitude": 138.661774,
+      "street": "Davoren Rd",
+      "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T07:28:32Z"
-    },
-    {
-      "id": "05ff5572-0b6e-426c-a32d-ad41a3479bda",
-      "latitude": -34.683795,
-      "longitude": 138.693029,
-      "street": "Anderson Walk",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T08:24:01Z"
-    },
-    {
-      "id": "c015f761-f197-418a-ba0c-cd15c68fba78",
-      "latitude": -34.693232,
-      "longitude": 138.692719,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T08:15:09Z"
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T10:20:48Z"
     },
     {
       "id": "14f36380-8ffa-4e6e-837f-88414d8bf50f",
@@ -37,18 +17,68 @@
       "street": "Elder Dr",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
+      "timestamp": "2026-01-26T10:30:14Z",
       "reported_at": "2026-01-26T07:57:17Z"
     },
     {
-      "id": "f239fa7d-601c-4e9f-8496-d9310d1f0ef3",
-      "latitude": -34.771857,
-      "longitude": 138.617122,
+      "id": "c015f761-f197-418a-ba0c-cd15c68fba78",
+      "latitude": -34.693232,
+      "longitude": 138.692719,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T08:15:09Z"
+    },
+    {
+      "id": "9d4e84b6-ff37-4861-9da3-124d9614515a",
+      "latitude": -34.682735,
+      "longitude": 138.690588,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T06:54:02Z"
+    },
+    {
+      "id": "9ec18119-9a6e-466d-b168-1de3e8b0f0b8",
+      "latitude": -34.743141,
+      "longitude": 138.626908,
+      "street": "Whites Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T07:28:32Z"
+    },
+    {
+      "id": "28aa54be-ccda-4877-a1eb-c0d33f00ba00",
+      "latitude": -34.91325,
+      "longitude": 138.492583,
+      "street": "Seaview Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T09:55:29Z"
+    },
+    {
+      "id": "77c5c968-a039-441c-8f7e-795630146d22",
+      "latitude": -34.742306,
+      "longitude": 138.657578,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T07:11:49Z"
+    },
+    {
+      "id": "5cfe2c19-a7be-4ab6-8aff-fb6da76d878c",
+      "latitude": -34.771787,
+      "longitude": 138.617183,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T05:23:38Z"
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T07:29:26Z"
     },
     {
       "id": "874a4c5d-0bf1-4992-896b-55071cc1853c",
@@ -57,58 +87,18 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
+      "timestamp": "2026-01-26T10:30:14Z",
       "reported_at": "2026-01-26T06:47:16Z"
     },
     {
-      "id": "7d879acd-6515-4aa0-b69d-babf4abda148",
-      "latitude": -34.766675,
-      "longitude": 138.637685,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T07:38:29Z"
-    },
-    {
-      "id": "572116b5-1969-4392-9d07-1093d5de251a",
-      "latitude": -34.79781,
-      "longitude": 138.656984,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T07:40:37Z"
-    },
-    {
-      "id": "95f32190-9e1a-4052-8a5d-4649ba3a45fa",
-      "latitude": -34.872698,
-      "longitude": 138.601942,
-      "street": "A1 - Main North Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T09:51:49Z"
-    },
-    {
-      "id": "abe3647a-7a4a-4bfa-807f-d6efab9e6efc",
-      "latitude": -34.697264,
-      "longitude": 138.685015,
+      "id": "901aa007-61ca-4ee7-bbf2-ba58f4b995b1",
+      "latitude": -34.847877,
+      "longitude": 138.600502,
       "street": "A20 - Main North Rd",
-      "city": "Elizabeth Downs",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T09:38:48Z"
-    },
-    {
-      "id": "e4357438-1211-420e-af88-f108453719a0",
-      "latitude": -34.939216,
-      "longitude": 138.64305,
-      "street": "B26 - Greenhill Rd",
-      "city": "Tusmore",
-      "type": "mobile",
-      "timestamp": "2026-01-26T10:00:16Z",
-      "reported_at": "2026-01-26T09:33:43Z"
+      "timestamp": "2026-01-26T10:30:14Z",
+      "reported_at": "2026-01-26T09:48:39Z"
     }
   ]
 }
