@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "5dbc5aa0-683c-4c9d-ab80-141f3b1be225",
-      "latitude": -34.927967,
-      "longitude": 138.534251,
-      "street": "May Tce",
-      "city": "Lockleys",
+      "id": "ae17c730-bff6-4c22-9710-08e6f43a2b15",
+      "latitude": -34.986312,
+      "longitude": 138.513529,
+      "street": "Moseley St",
+      "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
-      "reported_at": "2026-01-26T05:48:14Z"
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:26:26Z"
+    },
+    {
+      "id": "78206b8f-e6ed-4e04-bee1-0ab03327bf35",
+      "latitude": -34.856532,
+      "longitude": 138.529114,
+      "street": "Addison Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:43:27Z"
     },
     {
       "id": "e50ba926-58f9-4f07-88ef-e5094d0f8e46",
@@ -17,7 +27,7 @@
       "street": "Pirie St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T05:19:30Z"
     },
     {
@@ -27,18 +37,18 @@
       "street": "Parsons Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T03:56:17Z"
     },
     {
-      "id": "e6926ba0-3512-44d4-88e8-7f74e57d2219",
-      "latitude": -34.786213,
-      "longitude": 138.604252,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
+      "id": "d750fa43-edb5-4b84-836f-f897c9ebbe25",
+      "latitude": -34.953589,
+      "longitude": 138.571368,
+      "street": "to A5 - Anzac Hwy to City / Glenelg",
+      "city": "Glandore",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
-      "reported_at": "2026-01-26T04:46:34Z"
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:47:52Z"
     },
     {
       "id": "0fa9186e-af1a-4f14-bb4f-5ae1896f637b",
@@ -47,7 +57,7 @@
       "street": "Flinders St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T06:23:05Z"
     },
     {
@@ -57,18 +67,18 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T05:06:24Z"
     },
     {
-      "id": "b97aaf8e-583a-41f3-96b8-ba67db1807ed",
-      "latitude": -34.740798,
-      "longitude": 138.657404,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "b4017249-83bb-4208-a87a-8a7404f5bc04",
+      "latitude": -34.744908,
+      "longitude": 138.613072,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
-      "reported_at": "2026-01-26T05:22:41Z"
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:29:08Z"
     },
     {
       "id": "f239fa7d-601c-4e9f-8496-d9310d1f0ef3",
@@ -77,18 +87,18 @@
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T05:23:38Z"
     },
     {
-      "id": "e6957236-761b-4a6a-8fe3-5a3d37eb8c51",
-      "latitude": -34.995836,
-      "longitude": 138.539225,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
+      "id": "b97aaf8e-583a-41f3-96b8-ba67db1807ed",
+      "latitude": -34.740798,
+      "longitude": 138.657404,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
-      "reported_at": "2026-01-26T06:15:07Z"
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T05:22:41Z"
     },
     {
       "id": "3bc73302-618e-4a03-aaa7-36b384b81c9c",
@@ -97,8 +107,18 @@
       "street": "Honeypot Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T06:27:12Z"
+    },
+    {
+      "id": "79a73e57-a1a8-488e-8db6-03415d217a6f",
+      "latitude": -34.921322,
+      "longitude": 138.632199,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:28:46Z"
     },
     {
       "id": "7e583577-8e4d-44cf-ad40-6befdadb2344",
@@ -107,18 +127,28 @@
       "street": "A11 - Hancock Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T04:19:02Z"
     },
     {
-      "id": "fc7cc70b-11bc-4cbd-b5fd-f395608c521a",
-      "latitude": -34.885481,
-      "longitude": 138.513167,
+      "id": "e9fbfecd-e71b-4d13-a034-f01ec0ddae36",
+      "latitude": -34.916879,
+      "longitude": 138.513278,
       "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
-      "reported_at": "2026-01-26T06:12:48Z"
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:37:40Z"
+    },
+    {
+      "id": "e1e3b092-0e5a-48fb-92e1-286c38aa859b",
+      "latitude": -34.690784,
+      "longitude": 138.689088,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-26T07:00:15Z",
+      "reported_at": "2026-01-26T06:47:01Z"
     },
     {
       "id": "898a5c92-1bb3-4838-a2bf-efafac64cb58",
@@ -127,18 +157,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
+      "timestamp": "2026-01-26T07:00:15Z",
       "reported_at": "2026-01-26T05:19:39Z"
-    },
-    {
-      "id": "fa2544c2-2800-49f9-8c8c-beb0c51a058b",
-      "latitude": -35.024456,
-      "longitude": 138.55855,
-      "street": "M2 - Southern Exp",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-01-26T06:30:14Z",
-      "reported_at": "2026-01-26T06:11:57Z"
     }
   ]
 }
