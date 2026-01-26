@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "21303209-7cbf-47da-818b-b867eca95b2b",
-      "latitude": -34.978226,
-      "longitude": 138.512275,
-      "street": "Colley Tce",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T10:35:46Z"
-    },
-    {
       "id": "c015f761-f197-418a-ba0c-cd15c68fba78",
       "latitude": -34.693232,
       "longitude": 138.692719,
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
+      "timestamp": "2026-01-26T11:30:15Z",
       "reported_at": "2026-01-26T08:15:09Z"
     },
     {
@@ -27,18 +17,18 @@
       "street": "Whites Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
+      "timestamp": "2026-01-26T11:30:15Z",
       "reported_at": "2026-01-26T07:28:32Z"
     },
     {
-      "id": "05ff5572-0b6e-426c-a32d-ad41a3479bda",
-      "latitude": -34.683795,
-      "longitude": 138.693029,
+      "id": "9d4e84b6-ff37-4861-9da3-124d9614515a",
+      "latitude": -34.682735,
+      "longitude": 138.690588,
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T08:24:01Z"
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T06:54:02Z"
     },
     {
       "id": "14f36380-8ffa-4e6e-837f-88414d8bf50f",
@@ -47,48 +37,78 @@
       "street": "Elder Dr",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
+      "timestamp": "2026-01-26T11:30:15Z",
       "reported_at": "2026-01-26T07:57:17Z"
     },
     {
-      "id": "5cfe2c19-a7be-4ab6-8aff-fb6da76d878c",
-      "latitude": -34.771787,
-      "longitude": 138.617183,
+      "id": "bc644a40-2c66-459c-b960-39aeca3c40bd",
+      "latitude": -34.945795,
+      "longitude": 138.519165,
+      "street": "Unknown Street",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:26:23Z"
+    },
+    {
+      "id": "36bcd7fe-463b-4423-90e5-2f34a049dc6f",
+      "latitude": -34.922756,
+      "longitude": 138.599602,
+      "street": "King William St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:01:01Z"
+    },
+    {
+      "id": "baff2e33-938b-4df1-9a4c-91020b7cb8bf",
+      "latitude": -34.868966,
+      "longitude": 138.538199,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:27:38Z"
+    },
+    {
+      "id": "b542359c-7247-4f80-a15c-de379b694a2c",
+      "latitude": -34.925604,
+      "longitude": 138.60577,
+      "street": "Pulteney St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:11:46Z"
+    },
+    {
+      "id": "bafef663-f9c9-476d-a848-3b67c91fb4e8",
+      "latitude": -34.770531,
+      "longitude": 138.618285,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T07:29:26Z"
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T06:49:20Z"
     },
     {
-      "id": "585fa748-3314-4dc1-bc4f-93a1ae62127a",
-      "latitude": -34.746977,
-      "longitude": 138.657364,
+      "id": "9a3db3d0-ff43-48f2-9460-fa0476bf8a41",
+      "latitude": -34.745068,
+      "longitude": 138.657365,
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T07:56:32Z"
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T08:46:57Z"
     },
     {
-      "id": "9098a915-be5b-48e8-b6f1-3d3eda0276ae",
-      "latitude": -34.764151,
-      "longitude": 138.628621,
-      "street": "Winzor St",
-      "city": "Salisbury",
+      "id": "3c803214-f1b5-437d-b6b2-18daf0bd371d",
+      "latitude": -34.990119,
+      "longitude": 138.606266,
+      "street": "Springbank Rd",
+      "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T05:06:24Z"
-    },
-    {
-      "id": "d607e266-aa4e-4ff6-aaa9-444373d78137",
-      "latitude": -34.909632,
-      "longitude": 138.627792,
-      "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
-      "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T10:56:51Z"
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:20:03Z"
     },
     {
       "id": "03742179-365c-4d0e-969c-0f24fd04485c",
@@ -97,28 +117,48 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
+      "timestamp": "2026-01-26T11:30:15Z",
       "reported_at": "2026-01-26T10:16:25Z"
     },
     {
-      "id": "7c9fc477-5a71-4dd4-ba6b-da760a7c7951",
-      "latitude": -34.963914,
-      "longitude": 138.555035,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "dcfdfdbd-eb6b-47aa-ae55-0391e9958a43",
+      "latitude": -35.028054,
+      "longitude": 138.523842,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T10:34:18Z"
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:08:24Z"
     },
     {
-      "id": "3ca81e81-94ea-4131-a50f-2f80ada03658",
-      "latitude": -34.732912,
-      "longitude": 138.675844,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth East",
+      "id": "007404b1-4069-41cf-8a3b-91d93ea10f50",
+      "latitude": -34.988556,
+      "longitude": 138.520858,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-01-26T11:00:13Z",
-      "reported_at": "2026-01-26T10:44:24Z"
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:07:08Z"
+    },
+    {
+      "id": "d607e266-aa4e-4ff6-aaa9-444373d78137",
+      "latitude": -34.909632,
+      "longitude": 138.627792,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
+      "type": "mobile",
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T10:56:51Z"
+    },
+    {
+      "id": "0bcb3d49-5453-417c-a6f0-fee713124f6e",
+      "latitude": -34.81224,
+      "longitude": 138.71794,
+      "street": "A11 - Hancock Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T11:30:15Z",
+      "reported_at": "2026-01-26T11:05:19Z"
     }
   ]
 }
