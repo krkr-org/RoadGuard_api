@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "9ec18119-9a6e-466d-b168-1de3e8b0f0b8",
+      "latitude": -34.743141,
+      "longitude": 138.626908,
+      "street": "Whites Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:00:16Z",
+      "reported_at": "2026-01-26T07:28:32Z"
+    },
+    {
       "id": "05ff5572-0b6e-426c-a32d-ad41a3479bda",
       "latitude": -34.683795,
       "longitude": 138.693029,
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
+      "timestamp": "2026-01-26T10:00:16Z",
       "reported_at": "2026-01-26T08:24:01Z"
-    },
-    {
-      "id": "0fa9186e-af1a-4f14-bb4f-5ae1896f637b",
-      "latitude": -34.926997,
-      "longitude": 138.603049,
-      "street": "Flinders St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T06:23:05Z"
     },
     {
       "id": "c015f761-f197-418a-ba0c-cd15c68fba78",
@@ -27,7 +27,7 @@
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
+      "timestamp": "2026-01-26T10:00:16Z",
       "reported_at": "2026-01-26T08:15:09Z"
     },
     {
@@ -37,28 +37,18 @@
       "street": "Elder Dr",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
+      "timestamp": "2026-01-26T10:00:16Z",
       "reported_at": "2026-01-26T07:57:17Z"
     },
     {
-      "id": "77c5c968-a039-441c-8f7e-795630146d22",
-      "latitude": -34.742306,
-      "longitude": 138.657578,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T07:11:49Z"
-    },
-    {
-      "id": "5cfe2c19-a7be-4ab6-8aff-fb6da76d878c",
-      "latitude": -34.771787,
-      "longitude": 138.617183,
+      "id": "f239fa7d-601c-4e9f-8496-d9310d1f0ef3",
+      "latitude": -34.771857,
+      "longitude": 138.617122,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T07:29:26Z"
+      "timestamp": "2026-01-26T10:00:16Z",
+      "reported_at": "2026-01-26T05:23:38Z"
     },
     {
       "id": "874a4c5d-0bf1-4992-896b-55071cc1853c",
@@ -67,38 +57,18 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
+      "timestamp": "2026-01-26T10:00:16Z",
       "reported_at": "2026-01-26T06:47:16Z"
     },
     {
-      "id": "26ace742-8756-4d4d-8b2d-607d42a21931",
-      "latitude": -35.00523,
-      "longitude": 138.712412,
-      "street": "Avenue Rd",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T09:03:56Z"
-    },
-    {
-      "id": "72499fac-7deb-4488-b295-58f955c34a70",
-      "latitude": -34.684244,
-      "longitude": 138.62545,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T09:24:38Z"
-    },
-    {
-      "id": "898a5c92-1bb3-4838-a2bf-efafac64cb58",
-      "latitude": -34.767603,
-      "longitude": 138.636712,
+      "id": "7d879acd-6515-4aa0-b69d-babf4abda148",
+      "latitude": -34.766675,
+      "longitude": 138.637685,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T05:19:39Z"
+      "timestamp": "2026-01-26T10:00:16Z",
+      "reported_at": "2026-01-26T07:38:29Z"
     },
     {
       "id": "572116b5-1969-4392-9d07-1093d5de251a",
@@ -107,28 +77,38 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
+      "timestamp": "2026-01-26T10:00:16Z",
       "reported_at": "2026-01-26T07:40:37Z"
     },
     {
-      "id": "00524d79-7af7-4fdd-bf8e-bc8699179b8f",
-      "latitude": -34.915043,
-      "longitude": 138.57797,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Thebarton",
+      "id": "95f32190-9e1a-4052-8a5d-4649ba3a45fa",
+      "latitude": -34.872698,
+      "longitude": 138.601942,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T08:41:57Z"
+      "timestamp": "2026-01-26T10:00:16Z",
+      "reported_at": "2026-01-26T09:51:49Z"
     },
     {
-      "id": "1806e02b-cc7b-4b22-b8f5-ec602b42dcef",
-      "latitude": -34.871636,
-      "longitude": 138.570742,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
+      "id": "abe3647a-7a4a-4bfa-807f-d6efab9e6efc",
+      "latitude": -34.697264,
+      "longitude": 138.685015,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:30:15Z",
-      "reported_at": "2026-01-26T09:21:23Z"
+      "timestamp": "2026-01-26T10:00:16Z",
+      "reported_at": "2026-01-26T09:38:48Z"
+    },
+    {
+      "id": "e4357438-1211-420e-af88-f108453719a0",
+      "latitude": -34.939216,
+      "longitude": 138.64305,
+      "street": "B26 - Greenhill Rd",
+      "city": "Tusmore",
+      "type": "mobile",
+      "timestamp": "2026-01-26T10:00:16Z",
+      "reported_at": "2026-01-26T09:33:43Z"
     }
   ]
 }
