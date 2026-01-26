@@ -1,54 +1,114 @@
 {
   "radars": [
     {
+      "id": "b844f190-0ead-49e8-a5c9-c84be22f1d9a",
+      "latitude": -34.868998,
+      "longitude": 138.570558,
+      "street": "Unknown Street",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:03:11Z"
+    },
+    {
       "id": "2edcbded-a234-4e4a-9336-81215d4d909e",
       "latitude": -34.929017,
       "longitude": 138.542848,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
+      "timestamp": "2026-01-26T02:30:14Z",
       "reported_at": "2026-01-25T23:59:03Z"
     },
     {
-      "id": "d1ed164d-b78f-442f-a53c-00574f28f9ee",
-      "latitude": -34.940663,
-      "longitude": 138.50282,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "04fc2838-da73-484e-9e85-786f5de294e4",
+      "latitude": -34.921198,
+      "longitude": 138.607295,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-25T21:13:23Z"
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:03:12Z"
     },
     {
-      "id": "2a0cf054-34e9-4204-8a17-610a782f02ec",
-      "latitude": -34.968147,
-      "longitude": 138.547969,
-      "street": "Stonehouse Av",
-      "city": "Plympton",
+      "id": "2265e029-dcfa-4394-80ce-efaabde2aef5",
+      "latitude": -35.02835,
+      "longitude": 138.555783,
+      "street": "Seacombe Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-25T23:43:14Z"
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:05:01Z"
     },
     {
-      "id": "e862e13b-3365-465c-ac13-b84734127b62",
-      "latitude": -34.864076,
-      "longitude": 138.780963,
-      "street": "B31 - Gorge Rd",
-      "city": "Paracombe",
+      "id": "5da19f29-fe8e-4b50-b1be-ab19ede08dc4",
+      "latitude": -34.817647,
+      "longitude": 138.597769,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-25T22:17:05Z"
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:20:31Z"
     },
     {
-      "id": "e0e366a2-af73-40ba-ade4-53f42a956dcc",
-      "latitude": -34.93102,
-      "longitude": 138.517625,
+      "id": "7fe37db3-284f-4a67-891b-c55f77492955",
+      "latitude": -34.997374,
+      "longitude": 138.521416,
+      "street": "A15 - Brighton Rd",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:24:12Z"
+    },
+    {
+      "id": "8ecbc2d9-b55d-40f0-9b91-117f071abb73",
+      "latitude": -34.965614,
+      "longitude": 138.626565,
+      "street": "B28 - Fullarton Rd",
+      "city": "Highgate",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:01:49Z"
+    },
+    {
+      "id": "b0757741-5cf9-485b-8dbf-90e4b5c74658",
+      "latitude": -34.820131,
+      "longitude": 138.598134,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:08:40Z"
+    },
+    {
+      "id": "f8e28770-5a35-41da-ad70-b0dc191831d3",
+      "latitude": -34.95574,
+      "longitude": 138.515704,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-26T00:50:23Z"
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:03:41Z"
+    },
+    {
+      "id": "7b5b5bea-e6bd-4902-90e9-17d8bd8349f1",
+      "latitude": -34.827774,
+      "longitude": 138.695042,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T01:13:13Z"
+    },
+    {
+      "id": "88997268-d7ce-47c8-9708-197fc8a036a4",
+      "latitude": -35.118191,
+      "longitude": 138.490254,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T02:23:42Z"
     },
     {
       "id": "a29007e9-fff0-436d-b0b0-33f1bc64e40c",
@@ -57,48 +117,18 @@
       "street": "R1 - Fitzroy Tce (City Ring Route)",
       "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
+      "timestamp": "2026-01-26T02:30:14Z",
       "reported_at": "2026-01-26T01:19:52Z"
     },
     {
-      "id": "a44bd16d-fc46-4d40-8da4-72edc955c400",
-      "latitude": -34.798235,
-      "longitude": 138.657326,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
+      "id": "8bba8606-dffa-4f35-9809-9f0173130855",
+      "latitude": -34.678575,
+      "longitude": 138.696437,
+      "street": "A20 - Main North Rd",
+      "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-26T01:25:58Z"
-    },
-    {
-      "id": "17633def-9da8-42f3-92b0-5bd0cb397c4f",
-      "latitude": -34.929548,
-      "longitude": 138.51755,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-25T22:30:40Z"
-    },
-    {
-      "id": "326386ef-f916-49e5-babc-c1e35cbfb4df",
-      "latitude": -35.139285,
-      "longitude": 138.524528,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-26T01:33:12Z"
-    },
-    {
-      "id": "cd6ecd8a-3e22-4644-ab13-eff8459439f5",
-      "latitude": -34.861093,
-      "longitude": 138.567776,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T02:00:16Z",
-      "reported_at": "2026-01-25T23:07:29Z"
+      "timestamp": "2026-01-26T02:30:14Z",
+      "reported_at": "2026-01-26T01:59:59Z"
     }
   ]
 }
