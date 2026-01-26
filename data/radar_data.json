@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "25393c96-63a4-450f-844b-8c88890dfc83",
-      "latitude": -34.706914,
-      "longitude": 138.694619,
-      "street": "Douglas St",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T03:04:30Z"
-    },
-    {
       "id": "2edcbded-a234-4e4a-9336-81215d4d909e",
       "latitude": -34.929017,
       "longitude": 138.542848,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
+      "timestamp": "2026-01-26T04:00:16Z",
       "reported_at": "2026-01-25T23:59:03Z"
-    },
-    {
-      "id": "7a0ee396-3f83-42df-8a95-3d9f7a449676",
-      "latitude": -34.96613,
-      "longitude": 138.512352,
-      "street": "Patawalonga Frontage",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T02:14:27Z"
     },
     {
       "id": "551c73aa-9796-436b-afe4-1d2709edaf5b",
@@ -37,7 +17,7 @@
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
+      "timestamp": "2026-01-26T04:00:16Z",
       "reported_at": "2026-01-26T00:11:39Z"
     },
     {
@@ -47,48 +27,38 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
+      "timestamp": "2026-01-26T04:00:16Z",
       "reported_at": "2026-01-25T21:13:23Z"
     },
     {
-      "id": "fbd71d84-1287-4c7b-ad9c-655c090c02cc",
-      "latitude": -35.105929,
-      "longitude": 138.511466,
-      "street": "Sherriffs Rd",
-      "city": "Morphett Vale",
+      "id": "7a0ee396-3f83-42df-8a95-3d9f7a449676",
+      "latitude": -34.96613,
+      "longitude": 138.512352,
+      "street": "Patawalonga Frontage",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T03:01:59Z"
+      "timestamp": "2026-01-26T04:00:16Z",
+      "reported_at": "2026-01-26T02:14:27Z"
     },
     {
-      "id": "0edd679a-17b1-4ce1-807a-01ae348e895f",
-      "latitude": -35.034114,
-      "longitude": 138.563556,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
+      "id": "d64082da-af58-4e49-89c2-6c4418e7ea47",
+      "latitude": -35.007629,
+      "longitude": 138.587089,
+      "street": "Fiveash Dr",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T03:20:21Z"
+      "timestamp": "2026-01-26T04:00:16Z",
+      "reported_at": "2026-01-26T03:49:28Z"
     },
     {
-      "id": "67c571d8-40fd-4dfc-bacb-d3888de59d0f",
-      "latitude": -34.840386,
-      "longitude": 138.491836,
-      "street": "Semaphore Rd",
-      "city": "Exeter",
+      "id": "e5b61db0-a1b9-4ef8-8c69-bf494e1a521f",
+      "latitude": -34.83798,
+      "longitude": 138.480407,
+      "street": "Esplanade",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T03:08:54Z"
-    },
-    {
-      "id": "1a52c551-a975-4a09-a5aa-9258b9e4eddd",
-      "latitude": -35.113143,
-      "longitude": 138.4918,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T02:55:34Z"
+      "timestamp": "2026-01-26T04:00:16Z",
+      "reported_at": "2026-01-26T03:11:47Z"
     },
     {
       "id": "b9501f2c-d3e2-4a61-8881-173cc81e86c1",
@@ -97,38 +67,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
+      "timestamp": "2026-01-26T04:00:16Z",
       "reported_at": "2026-01-26T02:54:56Z"
     },
     {
-      "id": "b0757741-5cf9-485b-8dbf-90e4b5c74658",
-      "latitude": -34.820131,
-      "longitude": 138.598134,
+      "id": "15a48137-1a4e-4163-bd19-d5a2b5660242",
+      "latitude": -34.818061,
+      "longitude": 138.597996,
       "street": "A1 - Port Wakefield Rd",
-      "city": "Cavan",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T02:08:40Z"
-    },
-    {
-      "id": "e0e366a2-af73-40ba-ade4-53f42a956dcc",
-      "latitude": -34.93102,
-      "longitude": 138.517625,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T00:50:23Z"
-    },
-    {
-      "id": "10bb72ee-ce10-4e28-935d-93b98a3439e6",
-      "latitude": -34.991833,
-      "longitude": 138.521,
-      "street": "A15 - Brighton Rd",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T03:08:38Z"
+      "timestamp": "2026-01-26T04:00:16Z",
+      "reported_at": "2026-01-26T03:41:58Z"
     },
     {
       "id": "9de50c5e-dcdc-4e71-b3be-24c7f1ef78a4",
@@ -137,18 +87,18 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
+      "timestamp": "2026-01-26T04:00:16Z",
       "reported_at": "2026-01-26T00:31:16Z"
     },
     {
-      "id": "ba94d753-7d90-43ca-a809-f577a3d6bc02",
-      "latitude": -35.099393,
-      "longitude": 138.516076,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "d9707aed-8190-4971-bbbc-2e5b2feb7b21",
+      "latitude": -34.940888,
+      "longitude": 138.609106,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-26T03:30:14Z",
-      "reported_at": "2026-01-26T03:14:52Z"
+      "timestamp": "2026-01-26T04:00:16Z",
+      "reported_at": "2026-01-26T03:47:39Z"
     }
   ]
 }
