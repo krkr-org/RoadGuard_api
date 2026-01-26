@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "0f73282b-40e7-4274-a8f1-e52de1baa139",
-      "latitude": -34.928188,
-      "longitude": 138.543359,
+      "id": "2edcbded-a234-4e4a-9336-81215d4d909e",
+      "latitude": -34.929017,
+      "longitude": 138.542848,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
-      "reported_at": "2026-01-26T00:32:06Z"
+      "timestamp": "2026-01-26T02:00:16Z",
+      "reported_at": "2026-01-25T23:59:03Z"
     },
     {
       "id": "d1ed164d-b78f-442f-a53c-00574f28f9ee",
@@ -17,7 +17,7 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
+      "timestamp": "2026-01-26T02:00:16Z",
       "reported_at": "2026-01-25T21:13:23Z"
     },
     {
@@ -27,28 +27,18 @@
       "street": "Stonehouse Av",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
+      "timestamp": "2026-01-26T02:00:16Z",
       "reported_at": "2026-01-25T23:43:14Z"
     },
     {
-      "id": "79d25faf-d8f5-422f-ad4f-2e59f3531b51",
-      "latitude": -34.837467,
-      "longitude": 138.502417,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
+      "id": "e862e13b-3365-465c-ac13-b84734127b62",
+      "latitude": -34.864076,
+      "longitude": 138.780963,
+      "street": "B31 - Gorge Rd",
+      "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
-      "reported_at": "2026-01-26T01:21:56Z"
-    },
-    {
-      "id": "f05fc5b9-0cdc-44f5-a07a-f54884fac433",
-      "latitude": -35.030799,
-      "longitude": 138.524065,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
-      "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
-      "reported_at": "2026-01-26T00:49:12Z"
+      "timestamp": "2026-01-26T02:00:16Z",
+      "reported_at": "2026-01-25T22:17:05Z"
     },
     {
       "id": "e0e366a2-af73-40ba-ade4-53f42a956dcc",
@@ -57,8 +47,28 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
+      "timestamp": "2026-01-26T02:00:16Z",
       "reported_at": "2026-01-26T00:50:23Z"
+    },
+    {
+      "id": "a29007e9-fff0-436d-b0b0-33f1bc64e40c",
+      "latitude": -34.899084,
+      "longitude": 138.591371,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:00:16Z",
+      "reported_at": "2026-01-26T01:19:52Z"
+    },
+    {
+      "id": "a44bd16d-fc46-4d40-8da4-72edc955c400",
+      "latitude": -34.798235,
+      "longitude": 138.657326,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-26T02:00:16Z",
+      "reported_at": "2026-01-26T01:25:58Z"
     },
     {
       "id": "17633def-9da8-42f3-92b0-5bd0cb397c4f",
@@ -67,38 +77,18 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
+      "timestamp": "2026-01-26T02:00:16Z",
       "reported_at": "2026-01-25T22:30:40Z"
     },
     {
-      "id": "19d4626d-526a-4bc4-a7b0-a878f342b628",
-      "latitude": -34.796738,
-      "longitude": 138.655269,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "326386ef-f916-49e5-babc-c1e35cbfb4df",
+      "latitude": -35.139285,
+      "longitude": 138.524528,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
-      "reported_at": "2026-01-26T01:14:28Z"
-    },
-    {
-      "id": "d0795a3d-d41f-49e0-8129-52395d1567bf",
-      "latitude": -35.015748,
-      "longitude": 138.78368,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
-      "reported_at": "2026-01-26T01:13:32Z"
-    },
-    {
-      "id": "5b202f8b-fd1c-4aad-8435-a3183bd12582",
-      "latitude": -35.022153,
-      "longitude": 138.563728,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
-      "reported_at": "2026-01-26T01:28:57Z"
+      "timestamp": "2026-01-26T02:00:16Z",
+      "reported_at": "2026-01-26T01:33:12Z"
     },
     {
       "id": "cd6ecd8a-3e22-4644-ab13-eff8459439f5",
@@ -107,7 +97,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T01:30:15Z",
+      "timestamp": "2026-01-26T02:00:16Z",
       "reported_at": "2026-01-25T23:07:29Z"
     }
   ]
