@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "d7b92dbe-88b6-46e3-8ec1-5155be3013fa",
-      "latitude": -35.016217,
-      "longitude": 138.514268,
-      "street": "Esplanade",
-      "city": "Brighton",
+      "id": "05ff5572-0b6e-426c-a32d-ad41a3479bda",
+      "latitude": -34.683795,
+      "longitude": 138.693029,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:37:37Z"
-    },
-    {
-      "id": "c015f761-f197-418a-ba0c-cd15c68fba78",
-      "latitude": -34.693232,
-      "longitude": 138.692719,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:15:09Z"
-    },
-    {
-      "id": "e50ba926-58f9-4f07-88ef-e5094d0f8e46",
-      "latitude": -34.925494,
-      "longitude": 138.605017,
-      "street": "Pirie St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T05:19:30Z"
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T08:24:01Z"
     },
     {
       "id": "0fa9186e-af1a-4f14-bb4f-5ae1896f637b",
@@ -37,38 +17,48 @@
       "street": "Flinders St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
+      "timestamp": "2026-01-26T09:30:15Z",
       "reported_at": "2026-01-26T06:23:05Z"
     },
     {
-      "id": "b97aaf8e-583a-41f3-96b8-ba67db1807ed",
-      "latitude": -34.740798,
-      "longitude": 138.657404,
+      "id": "c015f761-f197-418a-ba0c-cd15c68fba78",
+      "latitude": -34.693232,
+      "longitude": 138.692719,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T08:15:09Z"
+    },
+    {
+      "id": "14f36380-8ffa-4e6e-837f-88414d8bf50f",
+      "latitude": -34.802508,
+      "longitude": 138.608565,
+      "street": "Elder Dr",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T07:57:17Z"
+    },
+    {
+      "id": "77c5c968-a039-441c-8f7e-795630146d22",
+      "latitude": -34.742306,
+      "longitude": 138.657578,
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T05:22:41Z"
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T07:11:49Z"
     },
     {
-      "id": "f239fa7d-601c-4e9f-8496-d9310d1f0ef3",
-      "latitude": -34.771857,
-      "longitude": 138.617122,
+      "id": "5cfe2c19-a7be-4ab6-8aff-fb6da76d878c",
+      "latitude": -34.771787,
+      "longitude": 138.617183,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T05:23:38Z"
-    },
-    {
-      "id": "30232c23-576b-4993-a387-197f2966b741",
-      "latitude": -34.692683,
-      "longitude": 138.667582,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:24:46Z"
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T07:29:26Z"
     },
     {
       "id": "874a4c5d-0bf1-4992-896b-55071cc1853c",
@@ -77,18 +67,48 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
+      "timestamp": "2026-01-26T09:30:15Z",
       "reported_at": "2026-01-26T06:47:16Z"
     },
     {
-      "id": "a3e4aa0b-074c-47f3-b313-0bf6dc56af52",
-      "latitude": -34.768529,
-      "longitude": 138.635884,
+      "id": "26ace742-8756-4d4d-8b2d-607d42a21931",
+      "latitude": -35.00523,
+      "longitude": 138.712412,
+      "street": "Avenue Rd",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T09:03:56Z"
+    },
+    {
+      "id": "72499fac-7deb-4488-b295-58f955c34a70",
+      "latitude": -34.684244,
+      "longitude": 138.62545,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T09:24:38Z"
+    },
+    {
+      "id": "898a5c92-1bb3-4838-a2bf-efafac64cb58",
+      "latitude": -34.767603,
+      "longitude": 138.636712,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:44:12Z"
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T05:19:39Z"
+    },
+    {
+      "id": "572116b5-1969-4392-9d07-1093d5de251a",
+      "latitude": -34.79781,
+      "longitude": 138.656984,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T07:40:37Z"
     },
     {
       "id": "00524d79-7af7-4fdd-bf8e-bc8699179b8f",
@@ -97,48 +117,18 @@
       "street": "R1 - Port Rd (City Ring Route)",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
+      "timestamp": "2026-01-26T09:30:15Z",
       "reported_at": "2026-01-26T08:41:57Z"
     },
     {
-      "id": "a3b159bd-303c-40e8-89d9-4b47fb333346",
-      "latitude": -35.018326,
-      "longitude": 138.787491,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Verdun",
+      "id": "1806e02b-cc7b-4b22-b8f5-ec602b42dcef",
+      "latitude": -34.871636,
+      "longitude": 138.570742,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:51:57Z"
-    },
-    {
-      "id": "572116b5-1969-4392-9d07-1093d5de251a",
-      "latitude": -34.797618,
-      "longitude": 138.656674,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T07:40:37Z"
-    },
-    {
-      "id": "39599a15-9713-43ed-8bf7-b93e57e8bb95",
-      "latitude": -34.873729,
-      "longitude": 138.584119,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:40:24Z"
-    },
-    {
-      "id": "a39e0273-78a2-4573-90bf-d7daf4c64d7d",
-      "latitude": -35.012268,
-      "longitude": 138.522639,
-      "street": "A15 - Brighton Rd",
-      "city": "Hove",
-      "type": "mobile",
-      "timestamp": "2026-01-26T09:00:16Z",
-      "reported_at": "2026-01-26T08:40:10Z"
+      "timestamp": "2026-01-26T09:30:15Z",
+      "reported_at": "2026-01-26T09:21:23Z"
     }
   ]
 }
