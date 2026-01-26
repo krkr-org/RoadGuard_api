@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "879f159a-eda7-45d6-8632-e97204461811",
+      "latitude": -35.025955,
+      "longitude": 138.619097,
+      "street": "Coromandel Pde",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:00:23Z",
+      "reported_at": "2026-01-26T22:32:41Z"
+    },
+    {
+      "id": "dbfd4465-16e3-4644-90eb-bcbb7acb2ee1",
+      "latitude": -34.859201,
+      "longitude": 138.558908,
+      "street": "Cowan St",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:00:23Z",
+      "reported_at": "2026-01-26T22:29:41Z"
+    },
+    {
+      "id": "c0933614-398c-4bcd-bf11-be4a14e918ac",
+      "latitude": -34.996882,
+      "longitude": 138.517242,
+      "street": "Whyte St",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:00:23Z",
+      "reported_at": "2026-01-26T22:44:49Z"
+    },
+    {
       "id": "e9b02cd3-52ee-49c8-a321-79c3c4000125",
       "latitude": -34.849978,
       "longitude": 138.661362,
       "street": "Cowra Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
+      "timestamp": "2026-01-26T23:00:23Z",
       "reported_at": "2026-01-26T21:36:27Z"
     },
     {
@@ -17,7 +47,7 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
+      "timestamp": "2026-01-26T23:00:23Z",
       "reported_at": "2026-01-26T20:53:59Z"
     },
     {
@@ -27,18 +57,8 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
+      "timestamp": "2026-01-26T23:00:23Z",
       "reported_at": "2026-01-26T21:25:23Z"
-    },
-    {
-      "id": "8d3d5ba1-d199-4686-8965-6d07d51c7134",
-      "latitude": -35.126657,
-      "longitude": 138.516363,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T21:52:59Z"
     },
     {
       "id": "20827e41-3871-4401-ab8b-c4d2e4003abb",
@@ -47,68 +67,38 @@
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
+      "timestamp": "2026-01-26T23:00:23Z",
       "reported_at": "2026-01-26T21:44:18Z"
     },
     {
-      "id": "5cf72336-aa00-426d-9953-bc6ab902a683",
-      "latitude": -34.997607,
-      "longitude": 138.593084,
+      "id": "0c2dd607-0020-417b-8fdf-c687248261bb",
+      "latitude": -34.996419,
+      "longitude": 138.593131,
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T21:47:15Z"
+      "timestamp": "2026-01-26T23:00:23Z",
+      "reported_at": "2026-01-26T22:33:46Z"
     },
     {
-      "id": "3f16939b-4cc3-4126-bb1a-7c33e2b5e000",
-      "latitude": -34.938618,
-      "longitude": 138.606637,
-      "street": "Unley Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T22:10:26Z"
-    },
-    {
-      "id": "3f5479b0-f1a7-4453-bab6-51fca56828f5",
-      "latitude": -35.015912,
-      "longitude": 138.640829,
+      "id": "b17cd9a5-804a-4391-b53d-1a98f27c6f26",
+      "latitude": -35.015498,
+      "longitude": 138.642276,
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T21:29:22Z"
+      "timestamp": "2026-01-26T23:00:23Z",
+      "reported_at": "2026-01-26T21:23:16Z"
     },
     {
-      "id": "ed42c463-aa8a-4cc6-81f0-97aaaf742985",
-      "latitude": -35.08816,
-      "longitude": 138.794895,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
+      "id": "7f35d94c-395f-47e8-9974-aef953baab53",
+      "latitude": -34.827468,
+      "longitude": 138.700459,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T21:41:14Z"
-    },
-    {
-      "id": "c4b22071-78ed-4579-a1bb-ad1051f4bfcb",
-      "latitude": -34.932886,
-      "longitude": 138.535058,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T22:21:47Z"
-    },
-    {
-      "id": "3c9c7838-f00a-4a4a-acbb-2423645712cd",
-      "latitude": -34.787151,
-      "longitude": 138.619199,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-26T22:30:15Z",
-      "reported_at": "2026-01-26T22:08:08Z"
+      "timestamp": "2026-01-26T23:00:23Z",
+      "reported_at": "2026-01-26T22:30:30Z"
     }
   ]
 }
