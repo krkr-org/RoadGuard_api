@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "cba0085b-f01e-43e6-b71a-5931ec906e00",
+      "latitude": -34.853174,
+      "longitude": 138.509262,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-01-26T19:00:16Z",
+      "reported_at": "2026-01-26T18:10:39Z"
+    },
+    {
+      "id": "07414e76-1748-4fad-8b33-db95e07ccf60",
+      "latitude": -34.794358,
+      "longitude": 138.578513,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-01-26T19:00:16Z",
+      "reported_at": "2026-01-26T18:45:32Z"
+    }
+  ]
 }
