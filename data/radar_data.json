@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "1dcce247-9093-4ae3-9d30-2d1f66c1a3e4",
+      "latitude": -35.060374,
+      "longitude": 138.527196,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T23:39:54Z"
+    },
+    {
       "id": "d1ed164d-b78f-442f-a53c-00574f28f9ee",
       "latitude": -34.940663,
       "longitude": 138.50282,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-25T23:30:14Z",
+      "timestamp": "2026-01-26T00:00:15Z",
       "reported_at": "2026-01-25T21:13:23Z"
     },
     {
@@ -17,8 +27,68 @@
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-01-25T23:30:14Z",
+      "timestamp": "2026-01-26T00:00:15Z",
       "reported_at": "2026-01-25T22:23:16Z"
+    },
+    {
+      "id": "8d9a61ca-2c5c-44a7-9044-aca43a5c0349",
+      "latitude": -34.744586,
+      "longitude": 138.633909,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T23:35:13Z"
+    },
+    {
+      "id": "afab684c-3e0d-4192-86f2-66ad09f98763",
+      "latitude": -34.851536,
+      "longitude": 138.617665,
+      "street": "A17 - Hampstead Rd",
+      "city": "Clearview",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T22:56:30Z"
+    },
+    {
+      "id": "e862e13b-3365-465c-ac13-b84734127b62",
+      "latitude": -34.864076,
+      "longitude": 138.780963,
+      "street": "B31 - Gorge Rd",
+      "city": "Paracombe",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T22:17:05Z"
+    },
+    {
+      "id": "fd11d144-2bee-4c72-9751-395b3d682b71",
+      "latitude": -34.821988,
+      "longitude": 138.500089,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T22:57:07Z"
+    },
+    {
+      "id": "b2fb4a72-522e-4795-84e5-709510e361fc",
+      "latitude": -35.020891,
+      "longitude": 138.565441,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T23:54:41Z"
+    },
+    {
+      "id": "cd6ecd8a-3e22-4644-ab13-eff8459439f5",
+      "latitude": -34.861093,
+      "longitude": 138.567776,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T00:00:15Z",
+      "reported_at": "2026-01-25T23:07:29Z"
     }
   ]
 }
