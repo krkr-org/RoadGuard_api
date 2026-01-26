@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "695bbcd9-4dd1-4e41-bbbe-53269306b363",
+      "latitude": -34.859218,
+      "longitude": 138.558563,
+      "street": "Cowan St",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T22:29:19Z"
+    },
+    {
       "id": "879f159a-eda7-45d6-8632-e97204461811",
       "latitude": -35.025955,
       "longitude": 138.619097,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
+      "timestamp": "2026-01-26T23:30:14Z",
       "reported_at": "2026-01-26T22:32:41Z"
-    },
-    {
-      "id": "dbfd4465-16e3-4644-90eb-bcbb7acb2ee1",
-      "latitude": -34.859201,
-      "longitude": 138.558908,
-      "street": "Cowan St",
-      "city": "Angle Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
-      "reported_at": "2026-01-26T22:29:41Z"
-    },
-    {
-      "id": "c0933614-398c-4bcd-bf11-be4a14e918ac",
-      "latitude": -34.996882,
-      "longitude": 138.517242,
-      "street": "Whyte St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
-      "reported_at": "2026-01-26T22:44:49Z"
     },
     {
       "id": "e9b02cd3-52ee-49c8-a321-79c3c4000125",
@@ -37,8 +27,18 @@
       "street": "Cowra Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
+      "timestamp": "2026-01-26T23:30:14Z",
       "reported_at": "2026-01-26T21:36:27Z"
+    },
+    {
+      "id": "9c0a0175-589e-479b-b70f-8b592f9ac8c9",
+      "latitude": -34.984938,
+      "longitude": 138.583137,
+      "street": "Winston Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:10:55Z"
     },
     {
       "id": "7d85ee9a-f23b-41dc-97f1-ebf87c9ad891",
@@ -47,18 +47,48 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
+      "timestamp": "2026-01-26T23:30:14Z",
       "reported_at": "2026-01-26T20:53:59Z"
     },
     {
-      "id": "c0fe3424-dc78-47be-9482-ffe25a6ffdf4",
-      "latitude": -35.054893,
-      "longitude": 138.595598,
+      "id": "617c89a9-104b-4be0-a57a-ee63b3040633",
+      "latitude": -35.014592,
+      "longitude": 138.576476,
+      "street": "Shepherds Hill Rd",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:23:27Z"
+    },
+    {
+      "id": "ae826453-df26-4d8a-a6fb-76538f1b3812",
+      "latitude": -34.925133,
+      "longitude": 138.616942,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:24:49Z"
+    },
+    {
+      "id": "98ad5c7d-1598-4625-8cbc-8ef037ea94c9",
+      "latitude": -35.05407,
+      "longitude": 138.594309,
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
-      "reported_at": "2026-01-26T21:25:23Z"
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T21:38:44Z"
+    },
+    {
+      "id": "d6b36b30-2ece-4921-bcf4-d10b31f2e453",
+      "latitude": -34.923914,
+      "longitude": 138.607734,
+      "street": "Grenfell St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:03:10Z"
     },
     {
       "id": "20827e41-3871-4401-ab8b-c4d2e4003abb",
@@ -67,18 +97,28 @@
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
+      "timestamp": "2026-01-26T23:30:14Z",
       "reported_at": "2026-01-26T21:44:18Z"
     },
     {
-      "id": "0c2dd607-0020-417b-8fdf-c687248261bb",
-      "latitude": -34.996419,
-      "longitude": 138.593131,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "0451d490-ae9d-4d96-a0fc-3d234209bb9d",
+      "latitude": -34.927796,
+      "longitude": 138.616325,
+      "street": "Wakefield Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
-      "reported_at": "2026-01-26T22:33:46Z"
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:27:51Z"
+    },
+    {
+      "id": "ec59f5c5-de1b-4862-b8b6-8f372c832de6",
+      "latitude": -35.003093,
+      "longitude": 138.701199,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:15:14Z"
     },
     {
       "id": "b17cd9a5-804a-4391-b53d-1a98f27c6f26",
@@ -87,18 +127,38 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
+      "timestamp": "2026-01-26T23:30:14Z",
       "reported_at": "2026-01-26T21:23:16Z"
     },
     {
-      "id": "7f35d94c-395f-47e8-9974-aef953baab53",
-      "latitude": -34.827468,
-      "longitude": 138.700459,
-      "street": "A10 - North East Rd",
-      "city": "St. Agnes",
+      "id": "ad551d42-1b32-4716-9753-783bae98f7c4",
+      "latitude": -35.070715,
+      "longitude": 138.797398,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-01-26T23:00:23Z",
-      "reported_at": "2026-01-26T22:30:30Z"
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T22:49:53Z"
+    },
+    {
+      "id": "6a8aeeb3-491c-4d19-a3d0-59bd3c379240",
+      "latitude": -35.10318,
+      "longitude": 138.793007,
+      "street": "B34 - Battunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T21:35:59Z"
+    },
+    {
+      "id": "44efb2b1-1ee7-48a3-bc1c-99a7712baa38",
+      "latitude": -35.060115,
+      "longitude": 138.535243,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-01-26T23:30:14Z",
+      "reported_at": "2026-01-26T23:10:00Z"
     }
   ]
 }
