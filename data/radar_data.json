@@ -1,84 +1,34 @@
 {
   "radars": [
     {
-      "id": "2edcbded-a234-4e4a-9336-81215d4d909e",
-      "latitude": -34.929017,
-      "longitude": 138.542848,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-25T23:59:03Z"
-    },
-    {
-      "id": "551c73aa-9796-436b-afe4-1d2709edaf5b",
-      "latitude": -34.873179,
-      "longitude": 138.613896,
-      "street": "Galway Av",
-      "city": "Broadview",
-      "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-26T00:11:39Z"
-    },
-    {
-      "id": "d1ed164d-b78f-442f-a53c-00574f28f9ee",
-      "latitude": -34.940663,
-      "longitude": 138.50282,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-25T21:13:23Z"
-    },
-    {
       "id": "7a0ee396-3f83-42df-8a95-3d9f7a449676",
       "latitude": -34.96613,
       "longitude": 138.512352,
       "street": "Patawalonga Frontage",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
+      "timestamp": "2026-01-26T04:30:15Z",
       "reported_at": "2026-01-26T02:14:27Z"
     },
     {
-      "id": "d64082da-af58-4e49-89c2-6c4418e7ea47",
-      "latitude": -35.007629,
-      "longitude": 138.587089,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-26T03:49:28Z"
-    },
-    {
-      "id": "e5b61db0-a1b9-4ef8-8c69-bf494e1a521f",
-      "latitude": -34.83798,
-      "longitude": 138.480407,
-      "street": "Esplanade",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-26T03:11:47Z"
-    },
-    {
-      "id": "b9501f2c-d3e2-4a61-8881-173cc81e86c1",
-      "latitude": -34.815803,
-      "longitude": 138.597621,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-26T02:54:56Z"
-    },
-    {
-      "id": "15a48137-1a4e-4163-bd19-d5a2b5660242",
-      "latitude": -34.818061,
-      "longitude": 138.597996,
-      "street": "A1 - Port Wakefield Rd",
+      "id": "72f0e72c-6c37-4585-815b-cc7dab9579a1",
+      "latitude": -34.80135,
+      "longitude": 138.606744,
+      "street": "Elder Smith Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-26T03:41:58Z"
+      "timestamp": "2026-01-26T04:30:15Z",
+      "reported_at": "2026-01-26T04:26:21Z"
+    },
+    {
+      "id": "b1e7fc05-730c-429e-a471-0e24c6a777b8",
+      "latitude": -34.799653,
+      "longitude": 138.655718,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-26T04:30:15Z",
+      "reported_at": "2026-01-26T04:25:37Z"
     },
     {
       "id": "9de50c5e-dcdc-4e71-b3be-24c7f1ef78a4",
@@ -87,18 +37,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
+      "timestamp": "2026-01-26T04:30:15Z",
       "reported_at": "2026-01-26T00:31:16Z"
     },
     {
-      "id": "d9707aed-8190-4971-bbbc-2e5b2feb7b21",
-      "latitude": -34.940888,
-      "longitude": 138.609106,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "id": "7e583577-8e4d-44cf-ad40-6befdadb2344",
+      "latitude": -34.830282,
+      "longitude": 138.719482,
+      "street": "A11 - Hancock Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-26T04:00:16Z",
-      "reported_at": "2026-01-26T03:47:39Z"
+      "timestamp": "2026-01-26T04:30:15Z",
+      "reported_at": "2026-01-26T04:19:02Z"
+    },
+    {
+      "id": "99fea556-2659-489c-88e8-06ac14e8a567",
+      "latitude": -35.112377,
+      "longitude": 138.509256,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-26T04:30:15Z",
+      "reported_at": "2026-01-26T04:23:49Z"
     }
   ]
 }
