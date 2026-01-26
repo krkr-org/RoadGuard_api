@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "e50ba926-58f9-4f07-88ef-e5094d0f8e46",
-      "latitude": -34.925494,
-      "longitude": 138.605017,
-      "street": "Pirie St",
-      "city": "Adelaide",
+      "id": "ed502545-0297-4883-ad53-070a23a055b8",
+      "latitude": -34.808698,
+      "longitude": 138.502008,
+      "street": "Yandra St",
+      "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
-      "reported_at": "2026-01-26T05:19:30Z"
+      "timestamp": "2026-01-26T08:30:15Z",
+      "reported_at": "2026-01-26T08:19:17Z"
+    },
+    {
+      "id": "68c36ace-32ec-4edb-bcf0-faaf7b4660d7",
+      "latitude": -34.925042,
+      "longitude": 138.639102,
+      "street": "Queen St",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-26T08:30:15Z",
+      "reported_at": "2026-01-26T08:01:54Z"
     },
     {
       "id": "9d4e84b6-ff37-4861-9da3-124d9614515a",
@@ -17,8 +27,28 @@
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
+      "timestamp": "2026-01-26T08:30:15Z",
       "reported_at": "2026-01-26T06:54:02Z"
+    },
+    {
+      "id": "e50ba926-58f9-4f07-88ef-e5094d0f8e46",
+      "latitude": -34.925494,
+      "longitude": 138.605017,
+      "street": "Pirie St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-26T08:30:15Z",
+      "reported_at": "2026-01-26T05:19:30Z"
+    },
+    {
+      "id": "b63f5a86-0ef5-4a9a-a00e-2d42589b9acf",
+      "latitude": -34.935312,
+      "longitude": 138.5394,
+      "street": "Unknown Street",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-26T08:30:15Z",
+      "reported_at": "2026-01-26T08:10:01Z"
     },
     {
       "id": "0fa9186e-af1a-4f14-bb4f-5ae1896f637b",
@@ -27,28 +57,8 @@
       "street": "Flinders St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
+      "timestamp": "2026-01-26T08:30:15Z",
       "reported_at": "2026-01-26T06:23:05Z"
-    },
-    {
-      "id": "77c5c968-a039-441c-8f7e-795630146d22",
-      "latitude": -34.742306,
-      "longitude": 138.657578,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
-      "reported_at": "2026-01-26T07:11:49Z"
-    },
-    {
-      "id": "5cfe2c19-a7be-4ab6-8aff-fb6da76d878c",
-      "latitude": -34.771787,
-      "longitude": 138.617183,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
-      "reported_at": "2026-01-26T07:29:26Z"
     },
     {
       "id": "06d8b4e9-cc81-4088-b84d-bbda3bcf3352",
@@ -57,7 +67,7 @@
       "street": "Beach Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
+      "timestamp": "2026-01-26T08:30:15Z",
       "reported_at": "2026-01-26T07:37:24Z"
     },
     {
@@ -67,38 +77,28 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
+      "timestamp": "2026-01-26T08:30:15Z",
       "reported_at": "2026-01-26T06:47:16Z"
     },
     {
-      "id": "7e583577-8e4d-44cf-ad40-6befdadb2344",
-      "latitude": -34.830282,
-      "longitude": 138.719482,
-      "street": "A11 - Hancock Rd",
-      "city": "St. Agnes",
+      "id": "f239fa7d-601c-4e9f-8496-d9310d1f0ef3",
+      "latitude": -34.771857,
+      "longitude": 138.617122,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
-      "reported_at": "2026-01-26T04:19:02Z"
+      "timestamp": "2026-01-26T08:30:15Z",
+      "reported_at": "2026-01-26T05:23:38Z"
     },
     {
-      "id": "22b3b76b-7952-4407-8b86-409a62d452ed",
-      "latitude": -34.763732,
-      "longitude": 138.64016,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "d3c420b0-7189-48de-bbd0-9670a244ad79",
+      "latitude": -34.736525,
+      "longitude": 138.584222,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
-      "reported_at": "2026-01-26T07:52:26Z"
-    },
-    {
-      "id": "3a4894d8-32ce-4d3d-b080-33474ef0fde4",
-      "latitude": -34.767961,
-      "longitude": 138.636473,
-      "street": "Unknown Street",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
-      "reported_at": "2026-01-26T07:37:13Z"
+      "timestamp": "2026-01-26T08:30:15Z",
+      "reported_at": "2026-01-26T08:23:31Z"
     },
     {
       "id": "7f6d5683-94c8-46af-aee4-be313bd7274e",
@@ -107,7 +107,7 @@
       "street": "A15 - Brighton Rd",
       "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
+      "timestamp": "2026-01-26T08:30:15Z",
       "reported_at": "2026-01-26T07:44:17Z"
     },
     {
@@ -117,7 +117,7 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-26T08:00:17Z",
+      "timestamp": "2026-01-26T08:30:15Z",
       "reported_at": "2026-01-26T07:40:37Z"
     }
   ]
