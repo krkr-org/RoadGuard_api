@@ -1,44 +1,84 @@
 {
   "radars": [
     {
-      "id": "b844f190-0ead-49e8-a5c9-c84be22f1d9a",
-      "latitude": -34.868998,
-      "longitude": 138.570558,
-      "street": "Unknown Street",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:03:11Z"
-    },
-    {
-      "id": "2edcbded-a234-4e4a-9336-81215d4d909e",
-      "latitude": -34.929017,
-      "longitude": 138.542848,
+      "id": "8068220d-0dbd-4ef7-8f84-2fe45f3a9be5",
+      "latitude": -34.930383,
+      "longitude": 138.542399,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-25T23:59:03Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-25T23:12:20Z"
     },
     {
-      "id": "04fc2838-da73-484e-9e85-786f5de294e4",
-      "latitude": -34.921198,
-      "longitude": 138.607295,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "f5171e2c-0bb2-424a-81bc-dca6cf10b3bb",
+      "latitude": -34.972501,
+      "longitude": 138.514265,
+      "street": "Adelphi Tce",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:03:12Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:39:26Z"
     },
     {
-      "id": "2265e029-dcfa-4394-80ce-efaabde2aef5",
-      "latitude": -35.02835,
-      "longitude": 138.555783,
-      "street": "Seacombe Rd",
-      "city": "Sturt",
+      "id": "ae86e1b5-162d-4741-8c61-982887f1f42c",
+      "latitude": -35.130594,
+      "longitude": 138.482195,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:05:01Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:31:32Z"
+    },
+    {
+      "id": "551c73aa-9796-436b-afe4-1d2709edaf5b",
+      "latitude": -34.873179,
+      "longitude": 138.613896,
+      "street": "Galway Av",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T00:11:39Z"
+    },
+    {
+      "id": "d1ed164d-b78f-442f-a53c-00574f28f9ee",
+      "latitude": -34.940663,
+      "longitude": 138.50282,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-25T21:13:23Z"
+    },
+    {
+      "id": "7a0ee396-3f83-42df-8a95-3d9f7a449676",
+      "latitude": -34.96613,
+      "longitude": 138.512352,
+      "street": "Patawalonga Frontage",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:14:27Z"
+    },
+    {
+      "id": "476a98e6-29fe-4144-9d5a-93aa5ab83b8a",
+      "latitude": -34.872402,
+      "longitude": 138.619497,
+      "street": "Muller Rd",
+      "city": "Greenacres",
+      "type": "mobile",
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:37:17Z"
+    },
+    {
+      "id": "e0e366a2-af73-40ba-ade4-53f42a956dcc",
+      "latitude": -34.93102,
+      "longitude": 138.517625,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T00:50:23Z"
     },
     {
       "id": "5da19f29-fe8e-4b50-b1be-ab19ede08dc4",
@@ -47,28 +87,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
+      "timestamp": "2026-01-26T03:00:16Z",
       "reported_at": "2026-01-26T02:20:31Z"
-    },
-    {
-      "id": "7fe37db3-284f-4a67-891b-c55f77492955",
-      "latitude": -34.997374,
-      "longitude": 138.521416,
-      "street": "A15 - Brighton Rd",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:24:12Z"
-    },
-    {
-      "id": "8ecbc2d9-b55d-40f0-9b91-117f071abb73",
-      "latitude": -34.965614,
-      "longitude": 138.626565,
-      "street": "B28 - Fullarton Rd",
-      "city": "Highgate",
-      "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:01:49Z"
     },
     {
       "id": "b0757741-5cf9-485b-8dbf-90e4b5c74658",
@@ -77,58 +97,58 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
+      "timestamp": "2026-01-26T03:00:16Z",
       "reported_at": "2026-01-26T02:08:40Z"
     },
     {
-      "id": "f8e28770-5a35-41da-ad70-b0dc191831d3",
-      "latitude": -34.95574,
-      "longitude": 138.515704,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "ad5dcd7d-cfbb-432b-bc89-b7d72eb93d06",
+      "latitude": -34.865385,
+      "longitude": 138.618615,
+      "street": "A17 - Hampstead Rd",
+      "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:03:41Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:34:05Z"
     },
     {
-      "id": "7b5b5bea-e6bd-4902-90e9-17d8bd8349f1",
-      "latitude": -34.827774,
-      "longitude": 138.695042,
-      "street": "A10 - North East Rd",
-      "city": "St. Agnes",
+      "id": "7fe37db3-284f-4a67-891b-c55f77492955",
+      "latitude": -34.997374,
+      "longitude": 138.521416,
+      "street": "A15 - Brighton Rd",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T01:13:13Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:24:12Z"
     },
     {
-      "id": "88997268-d7ce-47c8-9708-197fc8a036a4",
-      "latitude": -35.118191,
-      "longitude": 138.490254,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
+      "id": "edecb35b-1a7a-49c2-ae9b-7bcb1b51f70f",
+      "latitude": -35.101992,
+      "longitude": 138.512983,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T02:23:42Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:57:43Z"
     },
     {
-      "id": "a29007e9-fff0-436d-b0b0-33f1bc64e40c",
-      "latitude": -34.899084,
-      "longitude": 138.591371,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "09edb503-1d0a-4cfa-9e62-f6154ca8cf72",
+      "latitude": -35.099858,
+      "longitude": 138.51561,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T01:19:52Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:54:26Z"
     },
     {
-      "id": "8bba8606-dffa-4f35-9809-9f0173130855",
-      "latitude": -34.678575,
-      "longitude": 138.696437,
-      "street": "A20 - Main North Rd",
-      "city": "Munno Para",
+      "id": "0985061c-f96e-4569-905c-3f28a5fd2a76",
+      "latitude": -34.789963,
+      "longitude": 138.57983,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-01-26T02:30:14Z",
-      "reported_at": "2026-01-26T01:59:59Z"
+      "timestamp": "2026-01-26T03:00:16Z",
+      "reported_at": "2026-01-26T02:56:45Z"
     }
   ]
 }
