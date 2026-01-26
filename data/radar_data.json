@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "3208cca2-35de-4e6c-858f-a367321f900a",
-      "latitude": -35.022315,
-      "longitude": 138.523409,
-      "street": "A15 - Brighton Rd",
-      "city": "Brighton",
+      "id": "b68ea1d9-f3ef-49b3-9ada-439dead5bf0c",
+      "latitude": -34.849868,
+      "longitude": 138.564447,
+      "street": "South Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T13:00:14Z",
-      "reported_at": "2026-01-26T12:40:37Z"
+      "timestamp": "2026-01-26T13:30:16Z",
+      "reported_at": "2026-01-26T12:57:15Z"
+    },
+    {
+      "id": "b6f144ba-37e3-4530-a636-b081afae7531",
+      "latitude": -34.91656,
+      "longitude": 138.614464,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-26T13:30:16Z",
+      "reported_at": "2026-01-26T13:15:16Z"
     },
     {
       "id": "3bd1885b-b9bb-45d5-bd88-8a40c3bf55db",
@@ -17,18 +27,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T13:00:14Z",
+      "timestamp": "2026-01-26T13:30:16Z",
       "reported_at": "2026-01-26T11:35:13Z"
-    },
-    {
-      "id": "9bef6375-fa5e-41b6-b4aa-86db0c97a9f8",
-      "latitude": -34.914974,
-      "longitude": 138.614095,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-26T13:00:14Z",
-      "reported_at": "2026-01-26T12:53:38Z"
     },
     {
       "id": "b6e8b12a-dcf1-4200-ace0-bdef53bf78e5",
@@ -37,7 +37,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-01-26T13:00:14Z",
+      "timestamp": "2026-01-26T13:30:16Z",
       "reported_at": "2026-01-26T12:21:11Z"
     }
   ]
