@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "5cfe2c19-a7be-4ab6-8aff-fb6da76d878c",
-      "latitude": -34.771787,
-      "longitude": 138.617183,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
+      "id": "3208cca2-35de-4e6c-858f-a367321f900a",
+      "latitude": -35.022315,
+      "longitude": 138.523409,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-01-26T12:30:14Z",
-      "reported_at": "2026-01-26T07:29:26Z"
-    },
-    {
-      "id": "9a3db3d0-ff43-48f2-9460-fa0476bf8a41",
-      "latitude": -34.745068,
-      "longitude": 138.657365,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-01-26T12:30:14Z",
-      "reported_at": "2026-01-26T08:46:57Z"
+      "timestamp": "2026-01-26T13:00:14Z",
+      "reported_at": "2026-01-26T12:40:37Z"
     },
     {
       "id": "3bd1885b-b9bb-45d5-bd88-8a40c3bf55db",
@@ -27,18 +17,28 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-26T12:30:14Z",
+      "timestamp": "2026-01-26T13:00:14Z",
       "reported_at": "2026-01-26T11:35:13Z"
     },
     {
-      "id": "2d33f00a-852b-4215-95a3-91dc78243800",
-      "latitude": -34.906493,
-      "longitude": 138.514611,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
+      "id": "9bef6375-fa5e-41b6-b4aa-86db0c97a9f8",
+      "latitude": -34.914974,
+      "longitude": 138.614095,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-26T12:30:14Z",
-      "reported_at": "2026-01-26T11:58:01Z"
+      "timestamp": "2026-01-26T13:00:14Z",
+      "reported_at": "2026-01-26T12:53:38Z"
+    },
+    {
+      "id": "b6e8b12a-dcf1-4200-ace0-bdef53bf78e5",
+      "latitude": -34.997234,
+      "longitude": 138.701348,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-01-26T13:00:14Z",
+      "reported_at": "2026-01-26T12:21:11Z"
     }
   ]
 }
