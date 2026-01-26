@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "2a0cf054-34e9-4204-8a17-610a782f02ec",
-      "latitude": -34.968147,
-      "longitude": 138.547969,
-      "street": "Stonehouse Av",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-26T00:30:16Z",
-      "reported_at": "2026-01-25T23:43:14Z"
-    },
-    {
       "id": "d1ed164d-b78f-442f-a53c-00574f28f9ee",
       "latitude": -34.940663,
       "longitude": 138.50282,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T00:30:16Z",
+      "timestamp": "2026-01-26T01:00:14Z",
       "reported_at": "2026-01-25T21:13:23Z"
+    },
+    {
+      "id": "2edcbded-a234-4e4a-9336-81215d4d909e",
+      "latitude": -34.929017,
+      "longitude": 138.542848,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-25T23:59:03Z"
+    },
+    {
+      "id": "2a0cf054-34e9-4204-8a17-610a782f02ec",
+      "latitude": -34.968147,
+      "longitude": 138.547969,
+      "street": "Stonehouse Av",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-25T23:43:14Z"
+    },
+    {
+      "id": "0bf17588-964c-4ad5-bd00-6d0b943ec6bd",
+      "latitude": -34.749227,
+      "longitude": 138.605627,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-26T00:37:24Z"
+    },
+    {
+      "id": "17633def-9da8-42f3-92b0-5bd0cb397c4f",
+      "latitude": -34.929548,
+      "longitude": 138.51755,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-25T22:30:40Z"
     },
     {
       "id": "e862e13b-3365-465c-ac13-b84734127b62",
@@ -27,28 +57,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-01-26T00:30:16Z",
+      "timestamp": "2026-01-26T01:00:14Z",
       "reported_at": "2026-01-25T22:17:05Z"
     },
     {
-      "id": "fd11d144-2bee-4c72-9751-395b3d682b71",
-      "latitude": -34.821988,
-      "longitude": 138.500089,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
+      "id": "885f9c1c-2bcd-48ab-be45-f7babf9d4365",
+      "latitude": -34.98647,
+      "longitude": 138.520702,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-01-26T00:30:16Z",
-      "reported_at": "2026-01-25T22:57:07Z"
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-26T00:51:50Z"
     },
     {
-      "id": "06ab28c9-0368-40f1-b29c-9b29abe1cfab",
-      "latitude": -34.800072,
-      "longitude": 138.659426,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
+      "id": "e0e366a2-af73-40ba-ade4-53f42a956dcc",
+      "latitude": -34.93102,
+      "longitude": 138.517625,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-26T00:30:16Z",
-      "reported_at": "2026-01-26T00:10:55Z"
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-26T00:50:23Z"
     },
     {
       "id": "cd6ecd8a-3e22-4644-ab13-eff8459439f5",
@@ -57,8 +87,18 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-26T00:30:16Z",
+      "timestamp": "2026-01-26T01:00:14Z",
       "reported_at": "2026-01-25T23:07:29Z"
+    },
+    {
+      "id": "a4b8dbb9-0a74-45ab-82f8-5ea9bc619f3d",
+      "latitude": -35.039222,
+      "longitude": 138.813768,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-01-26T01:00:14Z",
+      "reported_at": "2026-01-26T00:55:30Z"
     }
   ]
 }
