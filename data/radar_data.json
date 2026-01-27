@@ -7,18 +7,8 @@
       "street": "Lily St",
       "city": "Goodwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
+      "timestamp": "2026-01-27T23:30:16Z",
       "reported_at": "2026-01-27T20:33:53Z"
-    },
-    {
-      "id": "92d0c686-81d7-4b79-80aa-026801d5de51",
-      "latitude": -35.134239,
-      "longitude": 138.512877,
-      "street": "Elizabeth Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
-      "reported_at": "2026-01-27T22:49:07Z"
     },
     {
       "id": "1231c9d5-c21c-4b48-ac87-6d7a2cacd047",
@@ -27,18 +17,18 @@
       "street": "George St",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
+      "timestamp": "2026-01-27T23:30:16Z",
       "reported_at": "2026-01-27T22:39:06Z"
     },
     {
-      "id": "7ef55549-ce11-438d-a12c-56bbd34f75eb",
-      "latitude": -34.719715,
-      "longitude": 138.644278,
-      "street": "West Av",
-      "city": "Edinburgh",
+      "id": "54d95cb4-2ad0-4304-a44e-c7de1126f40a",
+      "latitude": -34.681798,
+      "longitude": 138.656831,
+      "street": "President Av",
+      "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
-      "reported_at": "2026-01-27T21:14:17Z"
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:08:14Z"
     },
     {
       "id": "80cf0b08-2bb5-497c-9f82-9a7f8568f143",
@@ -47,8 +37,18 @@
       "street": "Kensington Way",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
+      "timestamp": "2026-01-27T23:30:16Z",
       "reported_at": "2026-01-27T21:38:14Z"
+    },
+    {
+      "id": "e54d5062-69f9-4d08-87f7-aed456934813",
+      "latitude": -34.719963,
+      "longitude": 138.644116,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T21:28:24Z"
     },
     {
       "id": "bfbdcf3b-c091-4961-ae99-223f68ee97f6",
@@ -57,8 +57,18 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
+      "timestamp": "2026-01-27T23:30:16Z",
       "reported_at": "2026-01-27T21:03:16Z"
+    },
+    {
+      "id": "addecd07-20a4-4a2f-838d-9f7198fd0e9a",
+      "latitude": -35.010943,
+      "longitude": 138.581594,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:15:17Z"
     },
     {
       "id": "112dad31-43ed-4e37-82ec-edc0ab7e7c9a",
@@ -67,28 +77,68 @@
       "street": "Maxwell Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
+      "timestamp": "2026-01-27T23:30:16Z",
       "reported_at": "2026-01-27T22:49:29Z"
     },
     {
-      "id": "02ec8489-87c6-422d-bbfe-f5411ba149fc",
-      "latitude": -34.816125,
-      "longitude": 138.62531,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "a05e6002-21d1-4052-8674-069a77055c2a",
+      "latitude": -34.928285,
+      "longitude": 138.605999,
+      "street": "Pulteney St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
-      "reported_at": "2026-01-27T22:35:35Z"
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:18:05Z"
     },
     {
-      "id": "595e842a-accf-4756-9d72-fb08674b5a91",
-      "latitude": -35.08888,
-      "longitude": 138.531455,
+      "id": "2d9c3018-be46-4c8c-8d12-188d695398bf",
+      "latitude": -34.999937,
+      "longitude": 138.609201,
+      "street": "B29 - Belair Rd",
+      "city": "Lynton",
+      "type": "mobile",
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:07:03Z"
+    },
+    {
+      "id": "5ccd38dd-cdb2-40ba-972f-21e97a476470",
+      "latitude": -34.954876,
+      "longitude": 138.5169,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:01:26Z"
+    },
+    {
+      "id": "a2300886-a887-4a1a-99a1-ac6c6553f8f7",
+      "latitude": -34.781485,
+      "longitude": 138.595481,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Globe Derby Park",
+      "type": "mobile",
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:12:20Z"
+    },
+    {
+      "id": "48a05eda-e2e4-4b61-a538-a756a1175497",
+      "latitude": -34.793912,
+      "longitude": 138.650742,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T22:15:41Z"
+    },
+    {
+      "id": "ab817fc4-99ea-4558-8469-5f248eb6f69f",
+      "latitude": -35.089902,
+      "longitude": 138.529022,
       "street": "M2 - Southern Exp",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-27T23:00:19Z",
-      "reported_at": "2026-01-27T22:57:55Z"
+      "timestamp": "2026-01-27T23:30:16Z",
+      "reported_at": "2026-01-27T23:04:09Z"
     }
   ]
 }
