@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "51dc034b-78b0-4c9b-8175-517df806dbef",
+      "latitude": -35.014321,
+      "longitude": 138.620209,
+      "street": "Stirling Rd",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-27T02:18:52Z"
+    },
+    {
       "id": "8f6155d9-9f7e-4d87-8208-74a9ee5544c0",
       "latitude": -35.025966,
       "longitude": 138.619102,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
+      "timestamp": "2026-01-27T03:00:17Z",
       "reported_at": "2026-01-26T23:01:22Z"
+    },
+    {
+      "id": "b6fc6c67-a28d-433f-ab9a-29442598ac05",
+      "latitude": -34.992772,
+      "longitude": 138.575918,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-27T01:45:58Z"
     },
     {
       "id": "98ad5c7d-1598-4625-8cbc-8ef037ea94c9",
@@ -17,7 +37,7 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
+      "timestamp": "2026-01-27T03:00:17Z",
       "reported_at": "2026-01-26T21:38:44Z"
     },
     {
@@ -27,48 +47,58 @@
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
+      "timestamp": "2026-01-27T03:00:17Z",
       "reported_at": "2026-01-26T21:44:18Z"
     },
     {
-      "id": "785350dd-1f8d-47ff-bdea-a0e756413d37",
-      "latitude": -34.99598,
-      "longitude": 138.59295,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "68bacb28-9c35-4e07-8ac1-514a2fb23708",
+      "latitude": -34.88235,
+      "longitude": 138.549639,
+      "street": "David Tce",
+      "city": "Woodville Park",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T01:32:54Z"
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-27T02:38:23Z"
     },
     {
-      "id": "b6fc6c67-a28d-433f-ab9a-29442598ac05",
-      "latitude": -34.992772,
-      "longitude": 138.575918,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "ba809954-1ae4-44e1-addd-d7f2bfa31fd7",
+      "latitude": -34.692244,
+      "longitude": 138.568183,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T01:45:58Z"
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-27T02:40:54Z"
     },
     {
-      "id": "7ae1be7a-e7ff-4e1f-b9db-cc4bea84ee42",
-      "latitude": -34.717179,
-      "longitude": 138.782518,
-      "street": "One Tree Hill Rd",
-      "city": "One Tree Hill",
+      "id": "37659f5c-c94b-4fcc-8bff-f7551799f2e0",
+      "latitude": -34.801172,
+      "longitude": 138.640048,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T02:15:00Z"
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-27T02:38:24Z"
     },
     {
-      "id": "ad551d42-1b32-4716-9753-783bae98f7c4",
-      "latitude": -35.070715,
-      "longitude": 138.797398,
+      "id": "149d39b7-6bee-4a4d-aa50-b8a6f74d9436",
+      "latitude": -34.893859,
+      "longitude": 138.513899,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-27T02:35:39Z"
+    },
+    {
+      "id": "2f6b24ae-cef9-43f7-83ce-9b6f63041a0f",
+      "latitude": -35.073942,
+      "longitude": 138.797422,
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-26T22:49:53Z"
+      "timestamp": "2026-01-27T03:00:17Z",
+      "reported_at": "2026-01-26T23:37:09Z"
     },
     {
       "id": "db528a84-5dad-4e1b-8ec5-fe2363fb07c0",
@@ -77,48 +107,8 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
+      "timestamp": "2026-01-27T03:00:17Z",
       "reported_at": "2026-01-27T01:17:55Z"
-    },
-    {
-      "id": "031edb04-286f-49ed-b763-4deb1a73ec83",
-      "latitude": -35.045033,
-      "longitude": 138.531261,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
-      "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T01:48:29Z"
-    },
-    {
-      "id": "ac1e1d00-0136-4c1b-aa5d-d1b630b2b483",
-      "latitude": -34.913028,
-      "longitude": 138.675572,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T02:14:15Z"
-    },
-    {
-      "id": "60ae6484-f5f1-4f69-8a92-33a0d9dd4274",
-      "latitude": -34.801852,
-      "longitude": 138.606033,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T02:19:05Z"
-    },
-    {
-      "id": "23504e48-d8c4-4998-b161-2a05b85724aa",
-      "latitude": -34.834317,
-      "longitude": 138.534506,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-01-27T02:30:14Z",
-      "reported_at": "2026-01-27T02:12:17Z"
     }
   ]
 }
