@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "29d2c475-3b79-4756-b6e9-a26692dbbb39",
-      "latitude": -34.766627,
-      "longitude": 138.590368,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
+      "id": "d923ad1f-4aea-47fe-a420-7688a7a5a2eb",
+      "latitude": -34.949001,
+      "longitude": 138.589526,
+      "street": "Goodwood Rd",
+      "city": "Goodwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T19:30:14Z",
-      "reported_at": "2026-01-27T19:24:16Z"
+      "timestamp": "2026-01-27T20:00:17Z",
+      "reported_at": "2026-01-27T19:33:56Z"
+    },
+    {
+      "id": "cc88d054-9926-4863-bfac-4af49df2ad17",
+      "latitude": -34.883103,
+      "longitude": 138.538237,
+      "street": "A7 - Port Rd",
+      "city": "Woodville South",
+      "type": "mobile",
+      "timestamp": "2026-01-27T20:00:17Z",
+      "reported_at": "2026-01-27T19:32:08Z"
     }
   ]
 }
