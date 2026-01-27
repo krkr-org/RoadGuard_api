@@ -1,44 +1,84 @@
 {
   "radars": [
     {
-      "id": "9b6c482e-c4d3-4c1b-bc9a-4046ff1088d4",
-      "latitude": -34.994787,
-      "longitude": 138.513548,
-      "street": "Tarlton St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-01-27T04:30:15Z",
-      "reported_at": "2026-01-27T02:00:05Z"
-    },
-    {
       "id": "51dc034b-78b0-4c9b-8175-517df806dbef",
       "latitude": -35.014321,
       "longitude": 138.620209,
       "street": "Stirling Rd",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T04:30:15Z",
+      "timestamp": "2026-01-27T05:00:15Z",
       "reported_at": "2026-01-27T02:18:52Z"
     },
     {
-      "id": "a44802a8-2426-4fb1-afda-755920cd4ff3",
-      "latitude": -35.016922,
-      "longitude": 138.616604,
-      "street": "B29 - Main Rd",
-      "city": "Blackwood",
+      "id": "640f4761-a7b2-4aa3-b266-a34bbbee724e",
+      "latitude": -34.666658,
+      "longitude": 138.677487,
+      "street": "Newton Bvd",
+      "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-01-27T04:30:15Z",
-      "reported_at": "2026-01-27T02:32:22Z"
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:31:37Z"
     },
     {
-      "id": "d07ea116-e831-4f1c-9821-23e39ffec3bc",
-      "latitude": -34.789258,
-      "longitude": 138.649062,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury South",
+      "id": "8e28825d-3f3b-4a39-8ed1-cf613c063370",
+      "latitude": -34.949023,
+      "longitude": 138.580417,
+      "street": "Leader St",
+      "city": "Forestville",
       "type": "mobile",
-      "timestamp": "2026-01-27T04:30:15Z",
-      "reported_at": "2026-01-27T04:22:02Z"
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:33:37Z"
+    },
+    {
+      "id": "67bf9e6c-10cb-4e3b-ab7f-7174f92ea872",
+      "latitude": -34.914913,
+      "longitude": 138.586286,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:55:09Z"
+    },
+    {
+      "id": "e25c5e36-67cb-445c-bca0-edbf0c6aeefe",
+      "latitude": -34.924712,
+      "longitude": 138.548753,
+      "street": "Henley Beach Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:42:06Z"
+    },
+    {
+      "id": "54ad976a-5886-4256-ae69-fa25110cb71f",
+      "latitude": -35.041586,
+      "longitude": 138.625382,
+      "street": "B29 - Main Rd",
+      "city": "Coromandel Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:57:46Z"
+    },
+    {
+      "id": "c7529065-ad9b-450b-bb3b-e02dd522d213",
+      "latitude": -34.900705,
+      "longitude": 138.604831,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:41:18Z"
+    },
+    {
+      "id": "5916195b-69cf-42a7-9fc2-d74c1723218d",
+      "latitude": -34.756271,
+      "longitude": 138.677459,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Park",
+      "type": "mobile",
+      "timestamp": "2026-01-27T05:00:15Z",
+      "reported_at": "2026-01-27T04:50:48Z"
     }
   ]
 }
