@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "9b6c482e-c4d3-4c1b-bc9a-4046ff1088d4",
+      "latitude": -34.994787,
+      "longitude": 138.513548,
+      "street": "Tarlton St",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-01-27T04:00:17Z",
+      "reported_at": "2026-01-27T02:00:05Z"
+    },
+    {
       "id": "51dc034b-78b0-4c9b-8175-517df806dbef",
       "latitude": -35.014321,
       "longitude": 138.620209,
       "street": "Stirling Rd",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
+      "timestamp": "2026-01-27T04:00:17Z",
       "reported_at": "2026-01-27T02:18:52Z"
     },
     {
@@ -17,78 +27,28 @@
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
+      "timestamp": "2026-01-27T04:00:17Z",
       "reported_at": "2026-01-26T21:44:18Z"
     },
     {
-      "id": "98919734-7e99-4e38-887c-53a914a55be9",
-      "latitude": -35.010764,
-      "longitude": 138.583619,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-27T03:03:44Z"
-    },
-    {
-      "id": "b6fc6c67-a28d-433f-ab9a-29442598ac05",
-      "latitude": -34.992772,
-      "longitude": 138.575918,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-27T01:45:58Z"
-    },
-    {
-      "id": "37659f5c-c94b-4fcc-8bff-f7551799f2e0",
-      "latitude": -34.801172,
-      "longitude": 138.640048,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-27T02:38:24Z"
-    },
-    {
-      "id": "6c69dfaa-1445-422b-8477-d840581fe86e",
-      "latitude": -35.016852,
-      "longitude": 138.616622,
+      "id": "a44802a8-2426-4fb1-afda-755920cd4ff3",
+      "latitude": -35.016922,
+      "longitude": 138.616604,
       "street": "B29 - Main Rd",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-27T03:07:30Z"
+      "timestamp": "2026-01-27T04:00:17Z",
+      "reported_at": "2026-01-27T02:32:22Z"
     },
     {
-      "id": "2f6b24ae-cef9-43f7-83ce-9b6f63041a0f",
-      "latitude": -35.073942,
-      "longitude": 138.797422,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
+      "id": "30ff4868-299c-40ef-ab53-19366653a339",
+      "latitude": -34.94802,
+      "longitude": 138.625179,
+      "street": "Fullarton Rd",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-26T23:37:09Z"
-    },
-    {
-      "id": "c814c6df-7bd8-49f9-8e40-28062d66d5ae",
-      "latitude": -34.940439,
-      "longitude": 138.617965,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-27T03:03:15Z"
-    },
-    {
-      "id": "ad606009-8e16-4843-897c-f0e9209db855",
-      "latitude": -34.939603,
-      "longitude": 138.635426,
-      "street": "B26 - Greenhill Rd",
-      "city": "Toorak Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-27T03:30:16Z",
-      "reported_at": "2026-01-27T03:15:17Z"
+      "timestamp": "2026-01-27T04:00:17Z",
+      "reported_at": "2026-01-27T03:21:18Z"
     }
   ]
 }
