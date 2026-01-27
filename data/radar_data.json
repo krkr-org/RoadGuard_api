@@ -7,48 +7,8 @@
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
+      "timestamp": "2026-01-27T11:30:14Z",
       "reported_at": "2026-01-27T08:45:44Z"
-    },
-    {
-      "id": "77fa77b9-d696-42ba-94d9-ada596cb47be",
-      "latitude": -34.900084,
-      "longitude": 138.6112,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
-      "reported_at": "2026-01-27T06:54:37Z"
-    },
-    {
-      "id": "8c73c920-ef17-45e3-9cab-2022c902a93a",
-      "latitude": -34.872923,
-      "longitude": 138.566107,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
-      "reported_at": "2026-01-27T10:34:52Z"
-    },
-    {
-      "id": "99950ddc-84d3-40f7-bf31-29b974bb8216",
-      "latitude": -35.050313,
-      "longitude": 138.547013,
-      "street": "to M2 - Southern Exp to City",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
-      "reported_at": "2026-01-27T10:19:48Z"
-    },
-    {
-      "id": "f8b8d770-8034-4b37-8328-e61f6d03b984",
-      "latitude": -34.903902,
-      "longitude": 138.662798,
-      "street": "Arthur St",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
-      "reported_at": "2026-01-27T07:41:15Z"
     },
     {
       "id": "921cdd91-9f47-4f24-b81b-980c8e6cd001",
@@ -57,18 +17,28 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
+      "timestamp": "2026-01-27T11:30:14Z",
       "reported_at": "2026-01-27T09:58:13Z"
     },
     {
-      "id": "076fbf05-eb69-4a71-a2ea-3a10ca26ca68",
-      "latitude": -34.90183,
-      "longitude": 138.599797,
-      "street": "Medindie Rd",
-      "city": "North Adelaide",
+      "id": "77fa77b9-d696-42ba-94d9-ada596cb47be",
+      "latitude": -34.900084,
+      "longitude": 138.6112,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
-      "reported_at": "2026-01-27T07:17:22Z"
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T06:54:37Z"
+    },
+    {
+      "id": "f8b8d770-8034-4b37-8328-e61f6d03b984",
+      "latitude": -34.903902,
+      "longitude": 138.662798,
+      "street": "Arthur St",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T07:41:15Z"
     },
     {
       "id": "fcd12e79-a529-4e4e-8554-481c6c9d3cc5",
@@ -77,8 +47,68 @@
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-01-27T11:00:18Z",
+      "timestamp": "2026-01-27T11:30:14Z",
       "reported_at": "2026-01-27T07:45:14Z"
+    },
+    {
+      "id": "076fbf05-eb69-4a71-a2ea-3a10ca26ca68",
+      "latitude": -34.90183,
+      "longitude": 138.599797,
+      "street": "Medindie Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T07:17:22Z"
+    },
+    {
+      "id": "64e2022c-128f-4e81-949a-595510c5dfb6",
+      "latitude": -34.973076,
+      "longitude": 138.573322,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T11:19:21Z"
+    },
+    {
+      "id": "b90049e1-49f8-4abd-8aa8-3fbf8be3e13e",
+      "latitude": -34.893591,
+      "longitude": 138.603155,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T11:06:39Z"
+    },
+    {
+      "id": "1661eb82-aa1e-49a8-b1f8-faffaa27d827",
+      "latitude": -34.900682,
+      "longitude": 138.60475,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T08:43:23Z"
+    },
+    {
+      "id": "bd4aa0cb-c879-48ed-ba65-ad02a6c8994f",
+      "latitude": -34.707407,
+      "longitude": 138.678623,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T11:21:24Z"
+    },
+    {
+      "id": "ec2208e2-925d-4ed1-9625-6c3b2192f1b6",
+      "latitude": -34.750756,
+      "longitude": 138.660081,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-27T11:30:14Z",
+      "reported_at": "2026-01-27T11:19:55Z"
     }
   ]
 }
