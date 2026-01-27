@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "879f159a-eda7-45d6-8632-e97204461811",
-      "latitude": -35.025955,
-      "longitude": 138.619097,
+      "id": "8f6155d9-9f7e-4d87-8208-74a9ee5544c0",
+      "latitude": -35.025966,
+      "longitude": 138.619102,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T22:32:41Z"
+      "timestamp": "2026-01-27T00:30:14Z",
+      "reported_at": "2026-01-26T23:01:22Z"
     },
     {
       "id": "e9b02cd3-52ee-49c8-a321-79c3c4000125",
@@ -17,18 +17,8 @@
       "street": "Cowra Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
+      "timestamp": "2026-01-27T00:30:14Z",
       "reported_at": "2026-01-26T21:36:27Z"
-    },
-    {
-      "id": "7524ae0c-cced-4a58-88e6-677a6eda3f00",
-      "latitude": -34.851435,
-      "longitude": 138.666032,
-      "street": "Padbury Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:47:46Z"
     },
     {
       "id": "7d85ee9a-f23b-41dc-97f1-ebf87c9ad891",
@@ -37,38 +27,8 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
+      "timestamp": "2026-01-27T00:30:14Z",
       "reported_at": "2026-01-26T20:53:59Z"
-    },
-    {
-      "id": "6c0d1555-0761-40bb-a0ff-952452be5663",
-      "latitude": -34.988531,
-      "longitude": 138.742067,
-      "street": "Old Carey Gully Rd",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:37:57Z"
-    },
-    {
-      "id": "d6b36b30-2ece-4921-bcf4-d10b31f2e453",
-      "latitude": -34.923914,
-      "longitude": 138.607734,
-      "street": "Grenfell St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:03:10Z"
-    },
-    {
-      "id": "c0fe3424-dc78-47be-9482-ffe25a6ffdf4",
-      "latitude": -35.054893,
-      "longitude": 138.595598,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T21:25:23Z"
     },
     {
       "id": "20827e41-3871-4401-ab8b-c4d2e4003abb",
@@ -77,28 +37,38 @@
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
+      "timestamp": "2026-01-27T00:30:14Z",
       "reported_at": "2026-01-26T21:44:18Z"
     },
     {
-      "id": "617c89a9-104b-4be0-a57a-ee63b3040633",
-      "latitude": -35.014592,
-      "longitude": 138.576476,
-      "street": "Shepherds Hill Rd",
-      "city": "Bedford Park",
+      "id": "c0fe3424-dc78-47be-9482-ffe25a6ffdf4",
+      "latitude": -35.054893,
+      "longitude": 138.595598,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:23:27Z"
+      "timestamp": "2026-01-27T00:30:14Z",
+      "reported_at": "2026-01-26T21:25:23Z"
     },
     {
-      "id": "0451d490-ae9d-4d96-a0fc-3d234209bb9d",
-      "latitude": -34.927796,
-      "longitude": 138.616325,
-      "street": "Wakefield Rd",
+      "id": "d6b36b30-2ece-4921-bcf4-d10b31f2e453",
+      "latitude": -34.923914,
+      "longitude": 138.607734,
+      "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:27:51Z"
+      "timestamp": "2026-01-27T00:30:14Z",
+      "reported_at": "2026-01-26T23:03:10Z"
+    },
+    {
+      "id": "91e554ec-da43-4750-9e11-a4ac05c1e613",
+      "latitude": -35.070971,
+      "longitude": 138.7974,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-01-27T00:30:14Z",
+      "reported_at": "2026-01-27T00:12:11Z"
     },
     {
       "id": "b17cd9a5-804a-4391-b53d-1a98f27c6f26",
@@ -107,48 +77,28 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
+      "timestamp": "2026-01-27T00:30:14Z",
       "reported_at": "2026-01-26T21:23:16Z"
     },
     {
-      "id": "ad551d42-1b32-4716-9753-783bae98f7c4",
-      "latitude": -35.070715,
-      "longitude": 138.797398,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
+      "id": "cbc85d89-ba89-4e8c-a3ba-123ec1951b72",
+      "latitude": -35.079161,
+      "longitude": 138.516988,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T22:49:53Z"
+      "timestamp": "2026-01-27T00:30:14Z",
+      "reported_at": "2026-01-27T00:17:46Z"
     },
     {
-      "id": "6a8aeeb3-491c-4d19-a3d0-59bd3c379240",
-      "latitude": -35.10318,
-      "longitude": 138.793007,
-      "street": "B34 - Battunga Rd",
-      "city": "Echunga",
+      "id": "1abfc0a7-2bc5-43af-8fb7-e265b502009f",
+      "latitude": -34.851665,
+      "longitude": 138.522249,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T21:35:59Z"
-    },
-    {
-      "id": "ad08282c-6cab-4761-90cb-7b41fa5dfc5c",
-      "latitude": -35.052206,
-      "longitude": 138.55949,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:26:05Z"
-    },
-    {
-      "id": "e3e6ea98-3374-4320-a909-e58c24162cc0",
-      "latitude": -35.08859,
-      "longitude": 138.532368,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-01-27T00:00:15Z",
-      "reported_at": "2026-01-26T23:48:23Z"
+      "timestamp": "2026-01-27T00:30:14Z",
+      "reported_at": "2026-01-26T23:59:20Z"
     }
   ]
 }
