@@ -7,18 +7,8 @@
       "street": "Indama St",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T06:42:06Z"
-    },
-    {
-      "id": "6a73ac1d-b150-4877-926b-5ae551ec8220",
-      "latitude": -34.846795,
-      "longitude": 138.550982,
-      "street": "Wingfield Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
-      "reported_at": "2026-01-28T06:07:29Z"
     },
     {
       "id": "3ceff1e1-713c-4938-b466-e0dba50828a4",
@@ -27,7 +17,7 @@
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T05:57:33Z"
     },
     {
@@ -37,8 +27,28 @@
       "street": "South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T05:05:46Z"
+    },
+    {
+      "id": "6a73ac1d-b150-4877-926b-5ae551ec8220",
+      "latitude": -34.846795,
+      "longitude": 138.550982,
+      "street": "Wingfield Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-28T10:00:15Z",
+      "reported_at": "2026-01-28T06:07:29Z"
+    },
+    {
+      "id": "cd7c1753-9b96-429e-b595-88ac1ed8e4c8",
+      "latitude": -35.137413,
+      "longitude": 138.51114,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-28T10:00:15Z",
+      "reported_at": "2026-01-28T09:31:28Z"
     },
     {
       "id": "d82fed73-9a90-4a67-83da-df2fc8059d9b",
@@ -47,7 +57,7 @@
       "street": "Prospect Rd",
       "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T05:47:05Z"
     },
     {
@@ -57,7 +67,7 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T06:22:40Z"
     },
     {
@@ -67,8 +77,18 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T06:55:01Z"
+    },
+    {
+      "id": "8eb5b128-17b0-44ae-aa1d-1cbab1a63e74",
+      "latitude": -34.846694,
+      "longitude": 138.54647,
+      "street": "Hanson Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-28T10:00:15Z",
+      "reported_at": "2026-01-28T09:53:16Z"
     },
     {
       "id": "14428c1c-a986-48fd-9ed9-855504f13fe8",
@@ -77,48 +97,18 @@
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T08:07:21Z"
     },
     {
-      "id": "a6cee609-b855-416a-805b-97b26d2eac5f",
-      "latitude": -34.845218,
-      "longitude": 138.506027,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
-      "reported_at": "2026-01-28T09:04:42Z"
-    },
-    {
-      "id": "92485681-0475-4426-99c8-1619eefa9ac2",
-      "latitude": -34.972789,
-      "longitude": 138.555354,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton Park",
-      "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
-      "reported_at": "2026-01-28T09:19:23Z"
-    },
-    {
-      "id": "c2bc2fb2-1281-4d4f-84ac-b062f59cb5d3",
-      "latitude": -34.857889,
-      "longitude": 138.600926,
+      "id": "078075e5-13dd-4e9d-addb-1dd38b429050",
+      "latitude": -34.856137,
+      "longitude": 138.600803,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
-      "reported_at": "2026-01-28T08:15:14Z"
-    },
-    {
-      "id": "f33c62b5-eb27-482d-9160-acfe5ec47d7d",
-      "latitude": -34.825826,
-      "longitude": 138.598345,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Cavan",
-      "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
-      "reported_at": "2026-01-28T08:59:46Z"
+      "timestamp": "2026-01-28T10:00:15Z",
+      "reported_at": "2026-01-28T08:25:02Z"
     },
     {
       "id": "6290ba29-0258-4742-a097-a8d0b1dabfeb",
@@ -127,7 +117,7 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T06:27:41Z"
     },
     {
@@ -137,18 +127,28 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
+      "timestamp": "2026-01-28T10:00:15Z",
       "reported_at": "2026-01-28T08:51:10Z"
     },
     {
-      "id": "05f62d2a-b691-49b9-979c-c5ae630d4ce0",
-      "latitude": -34.779322,
-      "longitude": 138.626148,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "4ba5a516-4cd3-485d-8114-95131a0f84e2",
+      "latitude": -34.730185,
+      "longitude": 138.675531,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-01-28T09:30:15Z",
-      "reported_at": "2026-01-28T08:53:21Z"
+      "timestamp": "2026-01-28T10:00:15Z",
+      "reported_at": "2026-01-28T09:45:14Z"
+    },
+    {
+      "id": "cf1862b2-822d-4a4f-a841-9699bca7a4ae",
+      "latitude": -34.883181,
+      "longitude": 138.571734,
+      "street": "M2 - North-South Mwy",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T10:00:15Z",
+      "reported_at": "2026-01-28T09:28:36Z"
     }
   ]
 }
