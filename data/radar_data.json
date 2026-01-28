@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "dc9215f5-5dfc-448b-94fa-5496c7219ee9",
-      "latitude": -34.880807,
-      "longitude": 138.571445,
-      "street": "to South Rd",
+      "id": "77889d36-4b80-48cb-8a44-dc4410764e58",
+      "latitude": -35.01643,
+      "longitude": 138.633036,
+      "street": "Hawthorndene Dr",
+      "city": "Glenalta",
+      "type": "mobile",
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T06:08:44Z"
+    },
+    {
+      "id": "defc05c7-c4dc-4b8f-b3a3-b25317c9b00e",
+      "latitude": -34.880561,
+      "longitude": 138.571355,
+      "street": "South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T05:00:57Z"
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T05:05:46Z"
     },
     {
-      "id": "d68796da-f6fb-4af4-a375-de8d16c76a5c",
-      "latitude": -34.849551,
-      "longitude": 138.551166,
-      "street": "Wingfield Rd",
+      "id": "1b52eb90-24ad-484f-b215-fef68a90be3c",
+      "latitude": -34.862497,
+      "longitude": 138.52747,
+      "street": "Torrens Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T05:37:04Z"
+    },
+    {
+      "id": "d40c1f45-b328-4cad-88c6-5cdcc1f894d2",
+      "latitude": -34.993401,
+      "longitude": 138.539112,
+      "street": "Morphett Rd",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T06:13:58Z"
+    },
+    {
+      "id": "ec5ce9be-8572-4cfd-a48f-d6bca6c0287e",
+      "latitude": -34.841074,
+      "longitude": 138.552402,
+      "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T05:10:48Z"
-    },
-    {
-      "id": "4b6bea0f-0ad7-4b91-8e9a-73bae3a3ed0a",
-      "latitude": -34.865089,
-      "longitude": 138.547749,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T05:40:04Z"
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T06:22:40Z"
     },
     {
       "id": "92f9780f-8753-4a0e-a295-2672e1bae85c",
@@ -37,18 +57,48 @@
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
+      "timestamp": "2026-01-28T06:30:15Z",
       "reported_at": "2026-01-28T05:14:03Z"
     },
     {
-      "id": "01323b1b-51b9-487d-9cc2-e21ace1a4dfd",
-      "latitude": -34.964453,
-      "longitude": 138.645664,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
+      "id": "d82fed73-9a90-4a67-83da-df2fc8059d9b",
+      "latitude": -34.856307,
+      "longitude": 138.591921,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T04:48:45Z"
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T05:47:05Z"
+    },
+    {
+      "id": "1c7f4cdb-4139-45be-8b90-e507945c6485",
+      "latitude": -34.803519,
+      "longitude": 138.643911,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T06:15:23Z"
+    },
+    {
+      "id": "c0f7f122-628f-4163-a659-3fe19161d72c",
+      "latitude": -35.074194,
+      "longitude": 138.626855,
+      "street": "B29 - Main Rd",
+      "city": "Chandlers Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T06:10:02Z"
+    },
+    {
+      "id": "a82eca0c-1ed4-4dbb-99c0-7a886f7c7014",
+      "latitude": -34.840472,
+      "longitude": 138.592599,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T05:18:58Z"
     },
     {
       "id": "72455b40-4c30-42f1-9e45-8b2b506ac74f",
@@ -57,28 +107,28 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
+      "timestamp": "2026-01-28T06:30:15Z",
       "reported_at": "2026-01-28T04:45:31Z"
     },
     {
-      "id": "08452d2d-51c5-4263-9b0d-6c1a7e459c5d",
-      "latitude": -34.857866,
-      "longitude": 138.600814,
+      "id": "e9736afb-4ab0-41d2-a7c3-9c844bd2eb88",
+      "latitude": -34.857373,
+      "longitude": 138.600888,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T04:39:34Z"
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T05:50:49Z"
     },
     {
-      "id": "a1384c55-bf3d-4248-a6c2-33747ebd444e",
-      "latitude": -34.847655,
-      "longitude": 138.600229,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "9533b950-80b9-45df-988a-f439aedd9188",
+      "latitude": -34.861385,
+      "longitude": 138.583155,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T05:51:10Z"
+      "timestamp": "2026-01-28T06:30:15Z",
+      "reported_at": "2026-01-28T06:18:37Z"
     },
     {
       "id": "47fbb068-9466-43cb-964d-8e54758bc76b",
@@ -87,28 +137,8 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
+      "timestamp": "2026-01-28T06:30:15Z",
       "reported_at": "2026-01-28T05:31:59Z"
-    },
-    {
-      "id": "d9d56723-bf03-4d09-ba37-7902b665e6c6",
-      "latitude": -34.802043,
-      "longitude": 138.605864,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T05:58:25Z"
-    },
-    {
-      "id": "7c511f0f-1839-4e18-8548-7908e9e8765d",
-      "latitude": -34.972031,
-      "longitude": 138.651139,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-01-28T06:00:22Z",
-      "reported_at": "2026-01-28T05:10:44Z"
     }
   ]
 }
