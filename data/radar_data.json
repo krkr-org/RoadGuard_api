@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "07285cda-496e-4a35-b1ba-3fd66acca913",
-      "latitude": -34.93564,
-      "longitude": 138.600921,
-      "street": "South Tce",
-      "city": "Adelaide",
+      "id": "ba20021e-5862-4843-b6bd-bbdb75f26a2d",
+      "latitude": -34.750656,
+      "longitude": 138.619828,
+      "street": "Golden Ct",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
-      "reported_at": "2026-01-28T03:04:21Z"
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:40:21Z"
+    },
+    {
+      "id": "92c5479e-f45e-473c-894e-3ee21dddd93b",
+      "latitude": -34.9271,
+      "longitude": 138.561023,
+      "street": "Bagot Av",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:46:29Z"
     },
     {
       "id": "54b858d1-995f-4537-abf7-d6c61b21769e",
@@ -17,8 +27,18 @@
       "street": "President Av",
       "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
+      "timestamp": "2026-01-28T05:00:17Z",
       "reported_at": "2026-01-28T00:41:17Z"
+    },
+    {
+      "id": "dd2391e2-6ccd-449a-b5be-e72fc20d0ca1",
+      "latitude": -34.883109,
+      "longitude": 138.503991,
+      "street": "Frederick Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:47:13Z"
     },
     {
       "id": "d2113b85-7fed-42f2-92ee-b785e7a7e2ef",
@@ -27,7 +47,7 @@
       "street": "North Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
+      "timestamp": "2026-01-28T05:00:17Z",
       "reported_at": "2026-01-28T04:20:40Z"
     },
     {
@@ -37,38 +57,58 @@
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
+      "timestamp": "2026-01-28T05:00:17Z",
       "reported_at": "2026-01-28T03:56:45Z"
     },
     {
-      "id": "8aa9d26c-863f-416e-af71-3be04988b8d1",
-      "latitude": -34.838028,
-      "longitude": 138.503197,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "id": "01323b1b-51b9-487d-9cc2-e21ace1a4dfd",
+      "latitude": -34.964453,
+      "longitude": 138.645664,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
-      "reported_at": "2026-01-28T03:52:26Z"
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:48:45Z"
     },
     {
-      "id": "95265b99-5d04-4355-8aad-12e0582d019c",
-      "latitude": -34.881898,
-      "longitude": 138.619905,
-      "street": "A17 - Taunton Rd",
-      "city": "Manningham",
+      "id": "9ea1cbb3-bd61-4c1a-b82b-058e5f020414",
+      "latitude": -34.85687,
+      "longitude": 138.600853,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
-      "reported_at": "2026-01-28T04:14:08Z"
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:52:36Z"
     },
     {
-      "id": "67aa9869-0e0f-4fd0-a887-c94934417d81",
-      "latitude": -34.841639,
-      "longitude": 138.599734,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "1d9b62f9-ffa2-434b-b4f9-19404fe56e63",
+      "latitude": -34.88067,
+      "longitude": 138.571578,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T04:30:15Z",
-      "reported_at": "2026-01-28T04:04:23Z"
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:57:39Z"
+    },
+    {
+      "id": "f41b182a-96c6-484d-b9b6-edde48929b0d",
+      "latitude": -34.998592,
+      "longitude": 138.727091,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:49:40Z"
+    },
+    {
+      "id": "83f7d1ba-41fc-4b3d-926d-8ba84047c974",
+      "latitude": -34.965282,
+      "longitude": 138.647564,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-28T05:00:17Z",
+      "reported_at": "2026-01-28T04:47:18Z"
     }
   ]
 }
