@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "77889d36-4b80-48cb-8a44-dc4410764e58",
-      "latitude": -35.01643,
-      "longitude": 138.633036,
-      "street": "Hawthorndene Dr",
-      "city": "Glenalta",
+      "id": "eee8bc4f-1a33-49ae-80b1-5b622708efd4",
+      "latitude": -34.850094,
+      "longitude": 138.567905,
+      "street": "Indama St",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T06:08:44Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:42:06Z"
     },
     {
-      "id": "defc05c7-c4dc-4b8f-b3a3-b25317c9b00e",
-      "latitude": -34.880561,
-      "longitude": 138.571355,
-      "street": "South Rd",
-      "city": "Croydon Park",
+      "id": "8bb00308-daa6-4369-9567-64743927384d",
+      "latitude": -35.112438,
+      "longitude": 138.554139,
+      "street": "Investigator Dr",
+      "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T05:05:46Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:46:18Z"
     },
     {
       "id": "1b52eb90-24ad-484f-b215-fef68a90be3c",
@@ -27,18 +27,118 @@
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
+      "timestamp": "2026-01-28T07:00:15Z",
       "reported_at": "2026-01-28T05:37:04Z"
     },
     {
-      "id": "d40c1f45-b328-4cad-88c6-5cdcc1f894d2",
-      "latitude": -34.993401,
-      "longitude": 138.539112,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
+      "id": "dc9215f5-5dfc-448b-94fa-5496c7219ee9",
+      "latitude": -34.880807,
+      "longitude": 138.571445,
+      "street": "to South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T06:13:58Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T05:00:57Z"
+    },
+    {
+      "id": "ccf55c1e-b60f-4414-8077-4e45c34de4e7",
+      "latitude": -34.682332,
+      "longitude": 138.689643,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:52:50Z"
+    },
+    {
+      "id": "801b62d7-c071-45b5-a32d-922777c8708e",
+      "latitude": -34.857117,
+      "longitude": 138.502378,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:47:54Z"
+    },
+    {
+      "id": "4ca9b060-e9d0-4854-975c-c62abaddb74d",
+      "latitude": -34.85357,
+      "longitude": 138.502323,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:42:09Z"
+    },
+    {
+      "id": "70c7b6cd-cad6-468f-8f64-238224b32834",
+      "latitude": -34.995578,
+      "longitude": 138.545775,
+      "street": "Oaklands Rd",
+      "city": "Morphettville",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T05:49:40Z"
+    },
+    {
+      "id": "d3bfb181-7f56-4788-8d16-e899590f439d",
+      "latitude": -35.003522,
+      "longitude": 138.539843,
+      "street": "Morphett Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:37:33Z"
+    },
+    {
+      "id": "39579c5d-b264-4818-b00b-cdae0fe45c0e",
+      "latitude": -34.87136,
+      "longitude": 138.631674,
+      "street": "Muller Rd",
+      "city": "Greenacres",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:52:08Z"
+    },
+    {
+      "id": "7ef250f1-1c7b-4e51-83b5-e2baff409477",
+      "latitude": -34.927476,
+      "longitude": 138.631174,
+      "street": "Kensington Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:55:29Z"
+    },
+    {
+      "id": "6483b11a-0cff-422f-b27b-46cb2e37074e",
+      "latitude": -34.905837,
+      "longitude": 138.609514,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:51:38Z"
+    },
+    {
+      "id": "399a30e2-ac3d-4caa-926b-64ff9d1d2f93",
+      "latitude": -34.84768,
+      "longitude": 138.534271,
+      "street": "Eastern Pde",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:42:08Z"
+    },
+    {
+      "id": "d82fed73-9a90-4a67-83da-df2fc8059d9b",
+      "latitude": -34.856307,
+      "longitude": 138.591921,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T05:47:05Z"
     },
     {
       "id": "ec5ce9be-8572-4cfd-a48f-d6bca6c0287e",
@@ -47,7 +147,7 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
+      "timestamp": "2026-01-28T07:00:15Z",
       "reported_at": "2026-01-28T06:22:40Z"
     },
     {
@@ -57,38 +157,38 @@
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
+      "timestamp": "2026-01-28T07:00:15Z",
       "reported_at": "2026-01-28T05:14:03Z"
     },
     {
-      "id": "d82fed73-9a90-4a67-83da-df2fc8059d9b",
-      "latitude": -34.856307,
-      "longitude": 138.591921,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
+      "id": "b9e67907-7405-42e3-8d64-f284f6e29c19",
+      "latitude": -34.822279,
+      "longitude": 138.499948,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T05:47:05Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:46:56Z"
     },
     {
-      "id": "1c7f4cdb-4139-45be-8b90-e507945c6485",
-      "latitude": -34.803519,
-      "longitude": 138.643911,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
+      "id": "4fdcd85d-916d-4fc3-a9e9-29cb3f97b33d",
+      "latitude": -34.939125,
+      "longitude": 138.624255,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T06:15:23Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:50:23Z"
     },
     {
-      "id": "c0f7f122-628f-4163-a659-3fe19161d72c",
-      "latitude": -35.074194,
-      "longitude": 138.626855,
-      "street": "B29 - Main Rd",
-      "city": "Chandlers Hill",
+      "id": "e4752afd-af3d-4dbe-bf1b-6525a608fe4e",
+      "latitude": -34.841059,
+      "longitude": 138.60553,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T06:10:02Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T05:48:19Z"
     },
     {
       "id": "a82eca0c-1ed4-4dbb-99c0-7a886f7c7014",
@@ -97,38 +197,28 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
+      "timestamp": "2026-01-28T07:00:15Z",
       "reported_at": "2026-01-28T05:18:58Z"
     },
     {
-      "id": "72455b40-4c30-42f1-9e45-8b2b506ac74f",
-      "latitude": -34.840841,
-      "longitude": 138.605422,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
+      "id": "708b62b9-e958-4e93-bb7f-2731962ae732",
+      "latitude": -34.838577,
+      "longitude": 138.59476,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T04:45:31Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T06:54:06Z"
     },
     {
-      "id": "e9736afb-4ab0-41d2-a7c3-9c844bd2eb88",
-      "latitude": -34.857373,
-      "longitude": 138.600888,
+      "id": "833d1629-4bf5-4ea0-98bd-7c9d5a7973d3",
+      "latitude": -34.858579,
+      "longitude": 138.600975,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T05:50:49Z"
-    },
-    {
-      "id": "9533b950-80b9-45df-988a-f439aedd9188",
-      "latitude": -34.861385,
-      "longitude": 138.583155,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
-      "reported_at": "2026-01-28T06:18:37Z"
+      "timestamp": "2026-01-28T07:00:15Z",
+      "reported_at": "2026-01-28T05:40:40Z"
     },
     {
       "id": "47fbb068-9466-43cb-964d-8e54758bc76b",
@@ -137,7 +227,7 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-28T06:30:15Z",
+      "timestamp": "2026-01-28T07:00:15Z",
       "reported_at": "2026-01-28T05:31:59Z"
     }
   ]
