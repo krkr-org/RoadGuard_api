@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "d6e890f6-97a9-4103-9fc0-9e1c71eb83ce",
-      "latitude": -34.951939,
-      "longitude": 138.590783,
-      "street": "Lily St",
-      "city": "Goodwood",
-      "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-27T20:33:53Z"
-    },
-    {
-      "id": "bebe8f07-a6d0-4c70-a4c5-6bc142672a04",
-      "latitude": -34.850006,
-      "longitude": 138.527169,
-      "street": "May Tce",
-      "city": "Ottoway",
-      "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-27T20:29:12Z"
-    },
-    {
       "id": "1231c9d5-c21c-4b48-ac87-6d7a2cacd047",
       "latitude": -34.867966,
       "longitude": 138.69159,
       "street": "George St",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
+      "timestamp": "2026-01-28T01:00:15Z",
       "reported_at": "2026-01-27T22:39:06Z"
     },
     {
-      "id": "e54d5062-69f9-4d08-87f7-aed456934813",
-      "latitude": -34.719963,
-      "longitude": 138.644116,
+      "id": "7ef55549-ce11-438d-a12c-56bbd34f75eb",
+      "latitude": -34.719715,
+      "longitude": 138.644278,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-27T21:28:24Z"
-    },
-    {
-      "id": "bfbdcf3b-c091-4961-ae99-223f68ee97f6",
-      "latitude": -34.737214,
-      "longitude": 138.646487,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-27T21:03:16Z"
-    },
-    {
-      "id": "80cf0b08-2bb5-497c-9f82-9a7f8568f143",
-      "latitude": -34.741044,
-      "longitude": 138.602666,
-      "street": "Kensington Way",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-27T21:38:14Z"
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-27T21:14:17Z"
     },
     {
       "id": "54d95cb4-2ad0-4304-a44e-c7de1126f40a",
@@ -67,18 +27,28 @@
       "street": "President Av",
       "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
+      "timestamp": "2026-01-28T01:00:15Z",
       "reported_at": "2026-01-27T23:08:14Z"
     },
     {
-      "id": "779ec531-f389-4b45-98c9-6741186fdf20",
-      "latitude": -34.942504,
-      "longitude": 138.561719,
-      "street": "Richmond Rd",
-      "city": "Richmond",
+      "id": "80cf0b08-2bb5-497c-9f82-9a7f8568f143",
+      "latitude": -34.741044,
+      "longitude": 138.602666,
+      "street": "Kensington Way",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-27T23:52:34Z"
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-27T21:38:14Z"
+    },
+    {
+      "id": "b1f4d6cc-8f03-452b-b04e-cc0631271b10",
+      "latitude": -34.736138,
+      "longitude": 138.644,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-27T22:16:28Z"
     },
     {
       "id": "eab70279-860d-4fde-a782-04763a4d9d63",
@@ -87,18 +57,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
+      "timestamp": "2026-01-28T01:00:15Z",
       "reported_at": "2026-01-27T23:38:44Z"
     },
     {
-      "id": "deef5389-ecc7-437f-9197-27092d595e6a",
-      "latitude": -35.010735,
-      "longitude": 138.584644,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "54dbd00a-82ea-4bfe-bb32-78ba78468a25",
+      "latitude": -35.083339,
+      "longitude": 138.582149,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-28T00:23:54Z"
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-28T00:36:23Z"
     },
     {
       "id": "f5fddda2-cfa3-4b16-83ee-786e5263beb6",
@@ -107,7 +77,7 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
+      "timestamp": "2026-01-28T01:00:15Z",
       "reported_at": "2026-01-27T22:20:23Z"
     },
     {
@@ -117,28 +87,38 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
+      "timestamp": "2026-01-28T01:00:15Z",
       "reported_at": "2026-01-28T00:21:26Z"
     },
     {
-      "id": "ce7c20e5-485d-47a5-b138-307597f2f677",
-      "latitude": -35.024836,
-      "longitude": 138.669036,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Belair",
+      "id": "eec331a8-150d-4c27-b25e-10c29740373c",
+      "latitude": -34.880231,
+      "longitude": 138.584504,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-28T00:03:22Z"
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-28T00:43:33Z"
     },
     {
-      "id": "1289ca02-8b2a-4d40-8ff8-8c1a2fa20314",
-      "latitude": -34.899057,
-      "longitude": 138.591789,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "1d7bd060-ba14-4f6f-8923-669af542f9f1",
+      "latitude": -34.87621,
+      "longitude": 138.676013,
+      "street": "B31 - Gorge Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-28T00:13:11Z"
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-28T00:49:58Z"
+    },
+    {
+      "id": "f1511a49-65cd-44d7-bef0-e0d37b8eee8f",
+      "latitude": -34.790493,
+      "longitude": 138.596386,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Globe Derby Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T01:00:15Z",
+      "reported_at": "2026-01-28T00:42:09Z"
     },
     {
       "id": "48a05eda-e2e4-4b61-a538-a756a1175497",
@@ -147,18 +127,8 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
+      "timestamp": "2026-01-28T01:00:15Z",
       "reported_at": "2026-01-27T22:15:41Z"
-    },
-    {
-      "id": "06ee4759-b1d0-4e7f-a185-f929925b5973",
-      "latitude": -34.77504,
-      "longitude": 138.594833,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-28T00:30:15Z",
-      "reported_at": "2026-01-28T00:01:03Z"
     }
   ]
 }
