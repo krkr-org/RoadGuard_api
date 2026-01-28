@@ -7,18 +7,8 @@
       "street": "Unknown Street",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T10:20:51Z"
-    },
-    {
-      "id": "dc9215f5-5dfc-448b-94fa-5496c7219ee9",
-      "latitude": -34.880807,
-      "longitude": 138.571445,
-      "street": "to South Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T05:00:57Z"
     },
     {
       "id": "0816c711-94bb-43f0-b338-f6c79b1b96bb",
@@ -27,8 +17,18 @@
       "street": "to M2 - North-South Mwy",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T10:31:54Z"
+    },
+    {
+      "id": "dc9215f5-5dfc-448b-94fa-5496c7219ee9",
+      "latitude": -34.880807,
+      "longitude": 138.571445,
+      "street": "to South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T12:00:16Z",
+      "reported_at": "2026-01-28T05:00:57Z"
     },
     {
       "id": "64ef7807-c226-4829-83ab-a34c285f0630",
@@ -37,7 +37,7 @@
       "street": "Lionel Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T09:37:29Z"
     },
     {
@@ -47,38 +47,8 @@
       "street": "Prospect Rd",
       "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T10:45:00Z"
-    },
-    {
-      "id": "a324a099-3356-4077-8275-56f3a86a0f97",
-      "latitude": -35.146523,
-      "longitude": 138.537482,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T06:55:01Z"
-    },
-    {
-      "id": "8eb5b128-17b0-44ae-aa1d-1cbab1a63e74",
-      "latitude": -34.846694,
-      "longitude": 138.54647,
-      "street": "Hanson Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T09:53:16Z"
-    },
-    {
-      "id": "4e8a1ca3-90b9-48bb-8504-9b3b74d2c0d6",
-      "latitude": -34.878432,
-      "longitude": 138.571406,
-      "street": "South Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T09:58:10Z"
     },
     {
       "id": "b589b583-7a36-4cef-9216-e360a79959f7",
@@ -87,8 +57,28 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T10:30:06Z"
+    },
+    {
+      "id": "4e8a1ca3-90b9-48bb-8504-9b3b74d2c0d6",
+      "latitude": -34.878432,
+      "longitude": 138.571406,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T12:00:16Z",
+      "reported_at": "2026-01-28T09:58:10Z"
+    },
+    {
+      "id": "8eb5b128-17b0-44ae-aa1d-1cbab1a63e74",
+      "latitude": -34.846694,
+      "longitude": 138.54647,
+      "street": "Hanson Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-28T12:00:16Z",
+      "reported_at": "2026-01-28T09:53:16Z"
     },
     {
       "id": "76a3c852-1393-4d69-8739-43b71e715c33",
@@ -97,8 +87,18 @@
       "street": "Daws Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T11:11:48Z"
+    },
+    {
+      "id": "8fa8e08c-ce21-4d23-a2f9-35b3916967ff",
+      "latitude": -34.993422,
+      "longitude": 138.561811,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T12:00:16Z",
+      "reported_at": "2026-01-28T11:35:30Z"
     },
     {
       "id": "14428c1c-a986-48fd-9ed9-855504f13fe8",
@@ -107,18 +107,8 @@
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T08:07:21Z"
-    },
-    {
-      "id": "476d36b7-a295-4b4a-9664-07e5f188c177",
-      "latitude": -34.906742,
-      "longitude": 138.612365,
-      "street": "R1 - Mann Rd (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T11:07:32Z"
     },
     {
       "id": "c2bc2fb2-1281-4d4f-84ac-b062f59cb5d3",
@@ -127,7 +117,7 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T08:15:14Z"
     },
     {
@@ -137,48 +127,8 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
+      "timestamp": "2026-01-28T12:00:16Z",
       "reported_at": "2026-01-28T08:46:53Z"
-    },
-    {
-      "id": "018a8c6a-c0d5-4a2c-833f-c4d0abc2c295",
-      "latitude": -34.812295,
-      "longitude": 138.67525,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T11:08:50Z"
-    },
-    {
-      "id": "e6d36c2e-7ee2-4155-ba1c-ae27823d357b",
-      "latitude": -34.8001,
-      "longitude": 138.639355,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T10:57:59Z"
-    },
-    {
-      "id": "aff9a514-0dea-4abd-8766-db9602b5eeed",
-      "latitude": -34.75467,
-      "longitude": 138.648177,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T11:17:45Z"
-    },
-    {
-      "id": "d501ec7f-780f-421a-a27f-b0fa5696e1e9",
-      "latitude": -35.14069,
-      "longitude": 138.505518,
-      "street": "M2 - Southern Exp",
-      "city": "Noarlunga Downs",
-      "type": "mobile",
-      "timestamp": "2026-01-28T11:30:14Z",
-      "reported_at": "2026-01-28T10:58:59Z"
     }
   ]
 }
