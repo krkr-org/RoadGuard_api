@@ -1,74 +1,44 @@
 {
   "radars": [
     {
-      "id": "eee8bc4f-1a33-49ae-80b1-5b622708efd4",
-      "latitude": -34.850094,
-      "longitude": 138.567905,
-      "street": "Indama St",
-      "city": "Regency Park",
+      "id": "64ef7807-c226-4829-83ab-a34c285f0630",
+      "latitude": -34.858636,
+      "longitude": 138.598485,
+      "street": "Lionel Av",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T06:42:06Z"
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T09:37:29Z"
     },
     {
-      "id": "3ceff1e1-713c-4938-b466-e0dba50828a4",
-      "latitude": -34.861971,
-      "longitude": 138.526606,
-      "street": "Torrens Rd",
-      "city": "Pennington",
-      "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T05:57:33Z"
-    },
-    {
-      "id": "8b2f10d6-6ed7-4598-8ffa-a65013c1ca7c",
-      "latitude": -34.849711,
-      "longitude": 138.502577,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T10:13:57Z"
-    },
-    {
-      "id": "defc05c7-c4dc-4b8f-b3a3-b25317c9b00e",
-      "latitude": -34.880561,
-      "longitude": 138.571355,
-      "street": "South Rd",
+      "id": "dc9215f5-5dfc-448b-94fa-5496c7219ee9",
+      "latitude": -34.880807,
+      "longitude": 138.571445,
+      "street": "to South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T05:05:46Z"
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T05:00:57Z"
     },
     {
-      "id": "383a4750-3450-4943-a449-94505985870a",
-      "latitude": -34.895711,
-      "longitude": 138.69079,
-      "street": "Stradbroke Rd",
-      "city": "Rostrevor",
+      "id": "0816c711-94bb-43f0-b338-f6c79b1b96bb",
+      "latitude": -34.879307,
+      "longitude": 138.571817,
+      "street": "to M2 - North-South Mwy",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T10:00:33Z"
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T10:31:54Z"
     },
     {
-      "id": "b7371e7c-1fd8-40d4-8be8-46ee945caa2b",
-      "latitude": -35.137471,
-      "longitude": 138.509106,
-      "street": "Beach Rd",
-      "city": "Hackham West",
+      "id": "6640ab3d-74d9-4b32-ad40-e8adde3526c0",
+      "latitude": -34.874781,
+      "longitude": 138.576427,
+      "street": "Regency Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T09:59:32Z"
-    },
-    {
-      "id": "a324a099-3356-4077-8275-56f3a86a0f97",
-      "latitude": -35.146523,
-      "longitude": 138.537482,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T06:55:01Z"
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T10:39:23Z"
     },
     {
       "id": "d82fed73-9a90-4a67-83da-df2fc8059d9b",
@@ -77,8 +47,18 @@
       "street": "Prospect Rd",
       "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
+      "timestamp": "2026-01-28T11:00:15Z",
       "reported_at": "2026-01-28T05:47:05Z"
+    },
+    {
+      "id": "a324a099-3356-4077-8275-56f3a86a0f97",
+      "latitude": -35.146523,
+      "longitude": 138.537482,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T06:55:01Z"
     },
     {
       "id": "8eb5b128-17b0-44ae-aa1d-1cbab1a63e74",
@@ -87,7 +67,7 @@
       "street": "Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
+      "timestamp": "2026-01-28T11:00:15Z",
       "reported_at": "2026-01-28T09:53:16Z"
     },
     {
@@ -97,7 +77,7 @@
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
+      "timestamp": "2026-01-28T11:00:15Z",
       "reported_at": "2026-01-28T08:07:21Z"
     },
     {
@@ -107,18 +87,28 @@
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
+      "timestamp": "2026-01-28T11:00:15Z",
       "reported_at": "2026-01-28T10:22:56Z"
     },
     {
-      "id": "0af0978b-05b1-429f-a02e-457ed2b122e1",
-      "latitude": -34.840361,
-      "longitude": 138.606043,
+      "id": "72455b40-4c30-42f1-9e45-8b2b506ac74f",
+      "latitude": -34.840841,
+      "longitude": 138.605422,
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T08:48:09Z"
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T04:45:31Z"
+    },
+    {
+      "id": "08452d2d-51c5-4263-9b0d-6c1a7e459c5d",
+      "latitude": -34.857866,
+      "longitude": 138.600814,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T04:39:34Z"
     },
     {
       "id": "289f8a13-db6b-4777-850c-71c1bfa8f39f",
@@ -127,18 +117,28 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
+      "timestamp": "2026-01-28T11:00:15Z",
       "reported_at": "2026-01-28T08:51:10Z"
     },
     {
-      "id": "6290ba29-0258-4742-a097-a8d0b1dabfeb",
-      "latitude": -34.840875,
-      "longitude": 138.591934,
-      "street": "A22 - Cavan Rd",
-      "city": "Gepps Cross",
+      "id": "fc35fc44-0a26-4979-9b31-e6fa7c13f3b3",
+      "latitude": -34.784341,
+      "longitude": 138.653437,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-28T10:30:14Z",
-      "reported_at": "2026-01-28T06:27:41Z"
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T10:33:38Z"
+    },
+    {
+      "id": "c057ed30-64b2-4aa5-9e8e-a1ddca37c66a",
+      "latitude": -35.12102,
+      "longitude": 138.507861,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-28T11:00:15Z",
+      "reported_at": "2026-01-28T10:33:31Z"
     }
   ]
 }
