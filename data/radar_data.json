@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "b431caed-f7d8-4493-a8d6-90bf73524632",
-      "latitude": -34.913395,
-      "longitude": 138.503837,
-      "street": "Marlborough St",
-      "city": "Henley Beach",
+      "id": "0a38c856-c0fa-402a-a67d-1bd77f0649db",
+      "latitude": -34.950052,
+      "longitude": 138.618976,
+      "street": "Castle St",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
-      "reported_at": "2026-01-28T22:25:47Z"
-    },
-    {
-      "id": "f127ffd3-4315-483f-ba15-ccd3c5a01411",
-      "latitude": -34.903902,
-      "longitude": 138.662815,
-      "street": "Arthur St",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
-      "reported_at": "2026-01-28T22:37:12Z"
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:07:53Z"
     },
     {
       "id": "dea784b4-baea-4135-8a25-573e5ef11138",
@@ -27,18 +17,8 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
+      "timestamp": "2026-01-28T23:30:16Z",
       "reported_at": "2026-01-28T21:46:51Z"
-    },
-    {
-      "id": "f034d44b-2680-4e15-b1b9-dfe9e5d7d58c",
-      "latitude": -34.8301,
-      "longitude": 138.642163,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
-      "reported_at": "2026-01-28T22:30:06Z"
     },
     {
       "id": "109aec95-e049-470a-a46d-558223cb2be8",
@@ -47,8 +27,18 @@
       "street": "Sir Ross Smith Bvd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
+      "timestamp": "2026-01-28T23:30:16Z",
       "reported_at": "2026-01-28T21:36:09Z"
+    },
+    {
+      "id": "e92a495f-be86-416f-bca7-31f6c7ee2c5e",
+      "latitude": -35.146611,
+      "longitude": 138.535575,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T22:46:04Z"
     },
     {
       "id": "4fb51051-c9f8-404a-919a-2476e687720a",
@@ -57,7 +47,7 @@
       "street": "Wright Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
+      "timestamp": "2026-01-28T23:30:16Z",
       "reported_at": "2026-01-28T21:46:23Z"
     },
     {
@@ -67,28 +57,78 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
+      "timestamp": "2026-01-28T23:30:16Z",
       "reported_at": "2026-01-28T20:50:58Z"
     },
     {
-      "id": "bebe818d-f81f-482e-bc57-a136eff55950",
-      "latitude": -34.664702,
-      "longitude": 138.662532,
-      "street": "Curtis Rd",
-      "city": "Munno Para West",
+      "id": "e6497a12-79c2-44cf-afe9-613e3af42cfb",
+      "latitude": -34.921862,
+      "longitude": 138.586133,
+      "street": "Port Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
-      "reported_at": "2026-01-28T22:54:22Z"
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:14:12Z"
     },
     {
-      "id": "c1c78251-06a4-4ba5-b6fb-9c118cd4b30a",
-      "latitude": -34.71485,
-      "longitude": 138.576672,
+      "id": "9a63d762-2e08-470c-a1c3-c6ef5c9a8a32",
+      "latitude": -34.87196,
+      "longitude": 138.512237,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:09:35Z"
+    },
+    {
+      "id": "e972292d-01c0-4467-86a2-bad971276b66",
+      "latitude": -35.052705,
+      "longitude": 138.559526,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:17:28Z"
+    },
+    {
+      "id": "487c07be-9aa3-4f3f-9beb-a60daa2076c9",
+      "latitude": -34.995182,
+      "longitude": 138.55703,
+      "street": "A14 - Marion Rd",
+      "city": "Park Holme",
+      "type": "mobile",
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:13:21Z"
+    },
+    {
+      "id": "28de3e43-6c3a-43b9-991f-002b4880dd75",
+      "latitude": -34.866125,
+      "longitude": 138.601398,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:13:25Z"
+    },
+    {
+      "id": "e3a9b31f-b510-4b16-bdd7-71f40fbf43d3",
+      "latitude": -34.714706,
+      "longitude": 138.576624,
       "street": "A1 - Port Wakefield Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:00:16Z",
-      "reported_at": "2026-01-28T21:54:47Z"
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:12:57Z"
+    },
+    {
+      "id": "de1e0d3c-b180-431f-a622-e943bd9b1ab9",
+      "latitude": -34.713617,
+      "longitude": 138.674726,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-28T23:30:16Z",
+      "reported_at": "2026-01-28T23:05:06Z"
     }
   ]
 }
