@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "d7f33c47-800f-4c8e-93c6-d71a3f1bc1a8",
-      "latitude": -34.98456,
-      "longitude": 138.556479,
-      "street": "Beaconsfield Tce",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-01-29T09:00:16Z",
-      "reported_at": "2026-01-29T04:59:03Z"
-    },
-    {
       "id": "cd423bd0-819f-4538-a4ca-7fc624c8a3ed",
       "latitude": -35.141995,
       "longitude": 138.660183,
       "street": "Tester Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-01-29T09:00:16Z",
+      "timestamp": "2026-01-29T09:30:14Z",
       "reported_at": "2026-01-29T05:14:14Z"
     },
     {
-      "id": "7b2155cb-5303-4818-9fa6-51e083926e8a",
-      "latitude": -35.14658,
-      "longitude": 138.536171,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
+      "id": "d05d6f42-f635-40cb-b345-d225b4bff441",
+      "latitude": -34.993041,
+      "longitude": 138.5821,
+      "street": "Cashel St",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-29T09:00:16Z",
-      "reported_at": "2026-01-29T07:21:07Z"
+      "timestamp": "2026-01-29T09:30:14Z",
+      "reported_at": "2026-01-29T07:53:12Z"
     },
     {
       "id": "5b24122b-055f-4f6b-9079-dde57b1c7eec",
@@ -37,18 +27,28 @@
       "street": "Elder Smith Rd",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-01-29T09:00:16Z",
+      "timestamp": "2026-01-29T09:30:14Z",
       "reported_at": "2026-01-29T07:49:47Z"
     },
     {
-      "id": "7a176756-d8fe-476f-8583-b5958c168631",
-      "latitude": -34.869828,
-      "longitude": 138.675175,
-      "street": "A11 - Lower North East Rd",
-      "city": "Paradise",
+      "id": "7b2155cb-5303-4818-9fa6-51e083926e8a",
+      "latitude": -35.14658,
+      "longitude": 138.536171,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-29T09:00:16Z",
-      "reported_at": "2026-01-29T08:19:40Z"
+      "timestamp": "2026-01-29T09:30:14Z",
+      "reported_at": "2026-01-29T07:21:07Z"
+    },
+    {
+      "id": "25ab6940-1367-49c8-b03e-b75e39c44a88",
+      "latitude": -34.817417,
+      "longitude": 138.690662,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-29T09:30:14Z",
+      "reported_at": "2026-01-29T08:57:49Z"
     }
   ]
 }
