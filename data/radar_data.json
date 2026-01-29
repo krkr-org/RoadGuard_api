@@ -7,8 +7,18 @@
       "street": "Douglas St",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
+      "timestamp": "2026-01-29T03:00:15Z",
       "reported_at": "2026-01-29T00:23:07Z"
+    },
+    {
+      "id": "98a14d28-09e0-4173-a6af-6e89bb627105",
+      "latitude": -34.830078,
+      "longitude": 138.642106,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T01:34:44Z"
     },
     {
       "id": "b871a901-b8e5-486a-a751-27f3e7b4f794",
@@ -17,18 +27,8 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
+      "timestamp": "2026-01-29T03:00:15Z",
       "reported_at": "2026-01-28T21:42:04Z"
-    },
-    {
-      "id": "35499263-a3bd-485c-9b7a-024e434db0c7",
-      "latitude": -34.829798,
-      "longitude": 138.641355,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-28T23:20:44Z"
     },
     {
       "id": "edd63b7a-8d14-4d12-8632-4e9560b6cfc3",
@@ -37,38 +37,8 @@
       "street": "Sir Ross Smith Bvd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
+      "timestamp": "2026-01-29T03:00:15Z",
       "reported_at": "2026-01-29T00:06:11Z"
-    },
-    {
-      "id": "e383df74-3f67-4fc0-8d88-8fde572b816d",
-      "latitude": -34.855664,
-      "longitude": 138.653419,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-29T01:40:40Z"
-    },
-    {
-      "id": "434f6ab5-5529-4506-9388-bcba6339f6c8",
-      "latitude": -34.836318,
-      "longitude": 138.620424,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-28T23:01:17Z"
-    },
-    {
-      "id": "e92a495f-be86-416f-bca7-31f6c7ee2c5e",
-      "latitude": -35.146611,
-      "longitude": 138.535575,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-28T22:46:04Z"
     },
     {
       "id": "c3719ce3-76de-4379-9747-95bb02815e1b",
@@ -77,28 +47,68 @@
       "street": "Wright Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
+      "timestamp": "2026-01-29T03:00:15Z",
       "reported_at": "2026-01-28T23:44:24Z"
     },
     {
-      "id": "ce345914-223f-4213-8d4c-d54a4abcef5d",
-      "latitude": -34.896255,
-      "longitude": 138.594654,
-      "street": "Prospect Rd",
-      "city": "Prospect",
+      "id": "c08d9121-0ef6-4f5e-bb22-97f2d30edf8a",
+      "latitude": -34.927386,
+      "longitude": 138.593788,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-29T01:40:00Z"
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T02:34:01Z"
     },
     {
-      "id": "2962f6d6-b698-4da0-83bb-4c91b376031c",
-      "latitude": -35.057932,
-      "longitude": 138.535339,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "dae9d9de-cd97-421b-a0d3-8e6715bf94db",
+      "latitude": -34.836239,
+      "longitude": 138.620262,
+      "street": "South Tce",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-29T02:12:31Z"
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T00:14:58Z"
+    },
+    {
+      "id": "efe4efd8-de14-40ea-93d7-1b69f0b31f63",
+      "latitude": -34.856348,
+      "longitude": 138.591924,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T02:36:03Z"
+    },
+    {
+      "id": "e92a495f-be86-416f-bca7-31f6c7ee2c5e",
+      "latitude": -35.146611,
+      "longitude": 138.535575,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-28T22:46:04Z"
+    },
+    {
+      "id": "f6a9435b-36f6-4496-8cd4-e94dc467264b",
+      "latitude": -34.852513,
+      "longitude": 138.504552,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T02:43:54Z"
+    },
+    {
+      "id": "d90a3201-bfef-45c0-888b-916f7d07b314",
+      "latitude": -34.964748,
+      "longitude": 138.646207,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T02:26:00Z"
     },
     {
       "id": "bc277142-0b28-4f1b-8bdf-2a2c91d2c913",
@@ -107,18 +117,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
+      "timestamp": "2026-01-29T03:00:15Z",
       "reported_at": "2026-01-28T22:14:44Z"
     },
     {
-      "id": "62cf535d-924e-44d5-b8d2-0abaaac1779c",
-      "latitude": -34.918086,
-      "longitude": 138.61482,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "a47d91af-161e-47ed-9672-b5a0dfbaea15",
+      "latitude": -34.767628,
+      "longitude": 138.673109,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-01-29T02:30:15Z",
-      "reported_at": "2026-01-29T02:11:31Z"
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T02:40:57Z"
+    },
+    {
+      "id": "05dc8b01-acff-4af2-a760-5a786372a728",
+      "latitude": -34.965166,
+      "longitude": 138.647379,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-01-29T03:00:15Z",
+      "reported_at": "2026-01-29T02:34:32Z"
     }
   ]
 }
