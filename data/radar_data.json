@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "8abd9993-eb46-4474-8c7d-920d129a2849",
-      "latitude": -34.998783,
-      "longitude": 138.74787,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
+      "id": "7d8150d5-b0e5-4469-8ece-b319b636e9e9",
+      "latitude": -34.895403,
+      "longitude": 138.581921,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-29T20:30:16Z",
-      "reported_at": "2026-01-29T20:27:51Z"
+      "timestamp": "2026-01-29T21:00:18Z",
+      "reported_at": "2026-01-29T20:53:31Z"
     },
     {
-      "id": "62abec7e-2d80-4f88-a2b6-1d03be92e275",
-      "latitude": -34.869625,
-      "longitude": 138.570636,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
+      "id": "877c1c5d-16a9-4813-8b44-0ec9b84b154e",
+      "latitude": -35.128515,
+      "longitude": 138.485507,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-01-29T20:30:16Z",
-      "reported_at": "2026-01-29T20:18:12Z"
+      "timestamp": "2026-01-29T21:00:18Z",
+      "reported_at": "2026-01-29T20:42:07Z"
+    },
+    {
+      "id": "c2c6ccc3-b5eb-4021-9950-7cbe5cf4fbe6",
+      "latitude": -34.683647,
+      "longitude": 138.601956,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-29T21:00:18Z",
+      "reported_at": "2026-01-29T20:56:48Z"
     }
   ]
 }
