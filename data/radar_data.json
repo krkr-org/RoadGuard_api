@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "ac92b09e-6059-49ac-b961-4074cc4b390c",
+      "latitude": -34.929697,
+      "longitude": 138.632598,
+      "street": "Prescott Tce",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-01-29T01:30:15Z",
+      "reported_at": "2026-01-29T00:56:32Z"
+    },
+    {
+      "id": "f0dd22bc-57e9-49ce-a2ea-fa30d07bdef0",
+      "latitude": -34.87113,
+      "longitude": 138.560282,
+      "street": "Douglas St",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-29T01:30:15Z",
+      "reported_at": "2026-01-29T00:23:07Z"
+    },
+    {
+      "id": "109aec95-e049-470a-a46d-558223cb2be8",
+      "latitude": -34.856346,
+      "longitude": 138.64125,
+      "street": "Sir Ross Smith Bvd",
+      "city": "Oakden",
+      "type": "mobile",
+      "timestamp": "2026-01-29T01:30:15Z",
+      "reported_at": "2026-01-28T21:36:09Z"
+    },
+    {
       "id": "dea784b4-baea-4135-8a25-573e5ef11138",
       "latitude": -34.851579,
       "longitude": 138.671598,
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
+      "timestamp": "2026-01-29T01:30:15Z",
       "reported_at": "2026-01-28T21:46:51Z"
     },
     {
@@ -17,18 +47,8 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
+      "timestamp": "2026-01-29T01:30:15Z",
       "reported_at": "2026-01-28T23:20:44Z"
-    },
-    {
-      "id": "637423ab-099b-4c5b-bd6a-7a60ca451d27",
-      "latitude": -34.856547,
-      "longitude": 138.640695,
-      "street": "Unknown Street",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
-      "reported_at": "2026-01-28T21:38:27Z"
     },
     {
       "id": "dae9d9de-cd97-421b-a0d3-8e6715bf94db",
@@ -37,7 +57,7 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
+      "timestamp": "2026-01-29T01:30:15Z",
       "reported_at": "2026-01-29T00:14:58Z"
     },
     {
@@ -47,28 +67,28 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
+      "timestamp": "2026-01-29T01:30:15Z",
       "reported_at": "2026-01-28T22:46:04Z"
     },
     {
-      "id": "1891f300-1b67-4275-a990-acc3debba7c4",
-      "latitude": -35.011048,
-      "longitude": 138.579817,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "4fb51051-c9f8-404a-919a-2476e687720a",
+      "latitude": -34.835121,
+      "longitude": 138.659286,
+      "street": "Wright Rd",
+      "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
-      "reported_at": "2026-01-29T00:47:40Z"
+      "timestamp": "2026-01-29T01:30:15Z",
+      "reported_at": "2026-01-28T21:46:23Z"
     },
     {
-      "id": "6fb7897c-180e-476e-9fe0-078be6c3297b",
-      "latitude": -34.923063,
-      "longitude": 138.632317,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "50418813-6114-4b90-81df-254ad17f6b07",
+      "latitude": -34.964489,
+      "longitude": 138.554741,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
-      "reported_at": "2026-01-29T00:58:38Z"
+      "timestamp": "2026-01-29T01:30:15Z",
+      "reported_at": "2026-01-29T00:57:03Z"
     },
     {
       "id": "2a2a1281-4267-4683-a26f-a2f659013da7",
@@ -77,18 +97,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
+      "timestamp": "2026-01-29T01:30:15Z",
       "reported_at": "2026-01-28T21:51:02Z"
-    },
-    {
-      "id": "b6d1b9cb-8a86-4431-8771-438748df0241",
-      "latitude": -34.913977,
-      "longitude": 138.656835,
-      "street": "B27 - Magill Rd",
-      "city": "Kensington Park",
-      "type": "mobile",
-      "timestamp": "2026-01-29T01:00:16Z",
-      "reported_at": "2026-01-29T00:22:25Z"
     }
   ]
 }
