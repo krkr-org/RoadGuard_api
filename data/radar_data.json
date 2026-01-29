@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "0a38c856-c0fa-402a-a67d-1bd77f0649db",
-      "latitude": -34.950052,
-      "longitude": 138.618976,
-      "street": "Castle St",
-      "city": "Parkside",
-      "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:07:53Z"
-    },
-    {
       "id": "dea784b4-baea-4135-8a25-573e5ef11138",
       "latitude": -34.851579,
       "longitude": 138.671598,
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
+      "timestamp": "2026-01-29T00:00:16Z",
       "reported_at": "2026-01-28T21:46:51Z"
     },
     {
-      "id": "109aec95-e049-470a-a46d-558223cb2be8",
-      "latitude": -34.856346,
-      "longitude": 138.64125,
-      "street": "Sir Ross Smith Bvd",
+      "id": "637423ab-099b-4c5b-bd6a-7a60ca451d27",
+      "latitude": -34.856547,
+      "longitude": 138.640695,
+      "street": "Unknown Street",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T21:36:09Z"
-    },
-    {
-      "id": "e92a495f-be86-416f-bca7-31f6c7ee2c5e",
-      "latitude": -35.146611,
-      "longitude": 138.535575,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T22:46:04Z"
+      "timestamp": "2026-01-29T00:00:16Z",
+      "reported_at": "2026-01-28T21:38:27Z"
     },
     {
       "id": "4fb51051-c9f8-404a-919a-2476e687720a",
@@ -47,7 +27,7 @@
       "street": "Wright Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
+      "timestamp": "2026-01-29T00:00:16Z",
       "reported_at": "2026-01-28T21:46:23Z"
     },
     {
@@ -57,78 +37,58 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
+      "timestamp": "2026-01-29T00:00:16Z",
       "reported_at": "2026-01-28T20:50:58Z"
     },
     {
-      "id": "e6497a12-79c2-44cf-afe9-613e3af42cfb",
-      "latitude": -34.921862,
-      "longitude": 138.586133,
-      "street": "Port Rd",
-      "city": "Adelaide",
+      "id": "e92a495f-be86-416f-bca7-31f6c7ee2c5e",
+      "latitude": -35.146611,
+      "longitude": 138.535575,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:14:12Z"
+      "timestamp": "2026-01-29T00:00:16Z",
+      "reported_at": "2026-01-28T22:46:04Z"
     },
     {
-      "id": "9a63d762-2e08-470c-a1c3-c6ef5c9a8a32",
-      "latitude": -34.87196,
-      "longitude": 138.512237,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Royal Park",
+      "id": "bc277142-0b28-4f1b-8bdf-2a2c91d2c913",
+      "latitude": -34.839987,
+      "longitude": 138.716514,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:09:35Z"
+      "timestamp": "2026-01-29T00:00:16Z",
+      "reported_at": "2026-01-28T22:14:44Z"
     },
     {
-      "id": "e972292d-01c0-4467-86a2-bad971276b66",
-      "latitude": -35.052705,
-      "longitude": 138.559526,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
+      "id": "8637a462-55b5-417e-979d-48d2cadcb347",
+      "latitude": -34.942208,
+      "longitude": 138.583387,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:17:28Z"
+      "timestamp": "2026-01-29T00:00:16Z",
+      "reported_at": "2026-01-28T23:38:00Z"
     },
     {
-      "id": "487c07be-9aa3-4f3f-9beb-a60daa2076c9",
-      "latitude": -34.995182,
-      "longitude": 138.55703,
-      "street": "A14 - Marion Rd",
-      "city": "Park Holme",
+      "id": "be52b7fc-04ac-4b76-ad82-dd1497a6f9a7",
+      "latitude": -34.915471,
+      "longitude": 138.626771,
+      "street": "B27 - Magill Rd",
+      "city": "Stepney",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:13:21Z"
+      "timestamp": "2026-01-29T00:00:16Z",
+      "reported_at": "2026-01-28T23:39:17Z"
     },
     {
-      "id": "28de3e43-6c3a-43b9-991f-002b4880dd75",
-      "latitude": -34.866125,
-      "longitude": 138.601398,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "3f0f72bf-e4ba-466a-89a0-8783baca3d96",
+      "latitude": -34.769111,
+      "longitude": 138.635491,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:13:25Z"
-    },
-    {
-      "id": "e3a9b31f-b510-4b16-bdd7-71f40fbf43d3",
-      "latitude": -34.714706,
-      "longitude": 138.576624,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:12:57Z"
-    },
-    {
-      "id": "de1e0d3c-b180-431f-a622-e943bd9b1ab9",
-      "latitude": -34.713617,
-      "longitude": 138.674726,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-01-28T23:30:16Z",
-      "reported_at": "2026-01-28T23:05:06Z"
+      "timestamp": "2026-01-29T00:00:16Z",
+      "reported_at": "2026-01-28T23:34:45Z"
     }
   ]
 }
