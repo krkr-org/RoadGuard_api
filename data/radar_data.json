@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "20b217ad-0a3e-4d74-8742-52456b4d30ce",
+      "latitude": -34.688963,
+      "longitude": 138.686508,
+      "street": "Konanda Rd",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-01-29T12:00:17Z",
+      "reported_at": "2026-01-29T11:30:07Z"
+    },
+    {
       "id": "c7d37ad5-a11a-43a9-a11d-cdfa7753c14d",
       "latitude": -34.993119,
       "longitude": 138.582105,
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-29T11:30:15Z",
+      "timestamp": "2026-01-29T12:00:17Z",
       "reported_at": "2026-01-29T09:31:12Z"
     },
     {
-      "id": "c543be48-9234-48ad-9105-1d09dbb5230e",
-      "latitude": -35.016436,
-      "longitude": 138.576746,
+      "id": "97dc3627-3582-42b0-8640-59829da65ac8",
+      "latitude": -35.028505,
+      "longitude": 138.592013,
       "street": "Shepherds Hill Rd",
       "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2026-01-29T11:30:15Z",
-      "reported_at": "2026-01-29T10:57:36Z"
-    },
-    {
-      "id": "0356d294-6dc4-47f3-8abb-4086bff2021f",
-      "latitude": -34.801991,
-      "longitude": 138.64141,
-      "street": "Kesters Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-01-29T11:30:15Z",
-      "reported_at": "2026-01-29T11:13:58Z"
-    },
-    {
-      "id": "cecdc554-3891-4162-b163-f90ff0552da1",
-      "latitude": -34.945633,
-      "longitude": 138.642967,
-      "street": "A17 - Portrush Rd",
-      "city": "Glenunga",
-      "type": "mobile",
-      "timestamp": "2026-01-29T11:30:15Z",
-      "reported_at": "2026-01-29T11:04:16Z"
+      "timestamp": "2026-01-29T12:00:17Z",
+      "reported_at": "2026-01-29T11:36:38Z"
     }
   ]
 }
