@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "2389e087-36fc-4a46-9b10-db745618686d",
+      "latitude": -34.878645,
+      "longitude": 138.614431,
+      "street": "Galway Av",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-01-29T21:30:15Z",
+      "reported_at": "2026-01-29T21:22:41Z"
+    },
+    {
       "id": "7d8150d5-b0e5-4469-8ece-b319b636e9e9",
       "latitude": -34.895403,
       "longitude": 138.581921,
       "street": "Torrens Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:00:18Z",
+      "timestamp": "2026-01-29T21:30:15Z",
       "reported_at": "2026-01-29T20:53:31Z"
     },
     {
-      "id": "877c1c5d-16a9-4813-8b44-0ec9b84b154e",
-      "latitude": -35.128515,
-      "longitude": 138.485507,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "2d99ac6b-caa3-475e-ad92-6a43dfb50314",
+      "latitude": -34.692267,
+      "longitude": 138.699109,
+      "street": "Unknown Street",
+      "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:00:18Z",
-      "reported_at": "2026-01-29T20:42:07Z"
+      "timestamp": "2026-01-29T21:30:15Z",
+      "reported_at": "2026-01-29T21:22:24Z"
     },
     {
-      "id": "c2c6ccc3-b5eb-4021-9950-7cbe5cf4fbe6",
-      "latitude": -34.683647,
-      "longitude": 138.601956,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
+      "id": "0c6ec32e-c25b-40d4-9563-55b58f6f5fea",
+      "latitude": -34.979846,
+      "longitude": 138.610523,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:00:18Z",
-      "reported_at": "2026-01-29T20:56:48Z"
+      "timestamp": "2026-01-29T21:30:15Z",
+      "reported_at": "2026-01-29T21:12:35Z"
+    },
+    {
+      "id": "1a1d97cd-13de-4bc7-a662-9bdeb32dcc69",
+      "latitude": -34.981191,
+      "longitude": 138.684213,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-01-29T21:30:15Z",
+      "reported_at": "2026-01-29T21:19:18Z"
     }
   ]
 }
