@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "20b217ad-0a3e-4d74-8742-52456b4d30ce",
-      "latitude": -34.688963,
-      "longitude": 138.686508,
-      "street": "Konanda Rd",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-01-29T12:00:17Z",
-      "reported_at": "2026-01-29T11:30:07Z"
-    },
-    {
       "id": "c7d37ad5-a11a-43a9-a11d-cdfa7753c14d",
       "latitude": -34.993119,
       "longitude": 138.582105,
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-29T12:00:17Z",
+      "timestamp": "2026-01-29T12:30:17Z",
       "reported_at": "2026-01-29T09:31:12Z"
     },
     {
-      "id": "97dc3627-3582-42b0-8640-59829da65ac8",
-      "latitude": -35.028505,
-      "longitude": 138.592013,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "0fcbcaaf-a578-46ed-b916-3ce0c55956a1",
+      "latitude": -34.813113,
+      "longitude": 138.638299,
+      "street": "Maxwell Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-29T12:00:17Z",
-      "reported_at": "2026-01-29T11:36:38Z"
+      "timestamp": "2026-01-29T12:30:17Z",
+      "reported_at": "2026-01-29T11:31:26Z"
+    },
+    {
+      "id": "f03f52c7-3b3c-4971-9ae7-11b354ccbab9",
+      "latitude": -34.934244,
+      "longitude": 138.588335,
+      "street": "West Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-29T12:30:17Z",
+      "reported_at": "2026-01-29T12:09:34Z"
+    },
+    {
+      "id": "abd67eff-3746-4912-803e-9a82a55b3c40",
+      "latitude": -34.798741,
+      "longitude": 138.64083,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-29T12:30:17Z",
+      "reported_at": "2026-01-29T12:09:33Z"
     }
   ]
 }
