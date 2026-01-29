@@ -1,14 +1,44 @@
 {
   "radars": [
     {
+      "id": "d20000c5-298f-4b4a-b5ba-5dfffa92a841",
+      "latitude": -34.915902,
+      "longitude": 138.58786,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-29T22:00:16Z",
+      "reported_at": "2026-01-29T21:26:08Z"
+    },
+    {
       "id": "2389e087-36fc-4a46-9b10-db745618686d",
       "latitude": -34.878645,
       "longitude": 138.614431,
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:30:15Z",
+      "timestamp": "2026-01-29T22:00:16Z",
       "reported_at": "2026-01-29T21:22:41Z"
+    },
+    {
+      "id": "8670b460-8217-455b-8def-1710a39babd0",
+      "latitude": -34.995097,
+      "longitude": 138.59288,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-01-29T22:00:16Z",
+      "reported_at": "2026-01-29T21:47:42Z"
+    },
+    {
+      "id": "ae41dd7a-4d5f-42b2-93f4-d66ffd879bca",
+      "latitude": -35.141858,
+      "longitude": 138.660115,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
+      "type": "mobile",
+      "timestamp": "2026-01-29T22:00:16Z",
+      "reported_at": "2026-01-29T21:43:00Z"
     },
     {
       "id": "7d8150d5-b0e5-4469-8ece-b319b636e9e9",
@@ -17,38 +47,38 @@
       "street": "Torrens Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:30:15Z",
+      "timestamp": "2026-01-29T22:00:16Z",
       "reported_at": "2026-01-29T20:53:31Z"
     },
     {
-      "id": "2d99ac6b-caa3-475e-ad92-6a43dfb50314",
-      "latitude": -34.692267,
-      "longitude": 138.699109,
-      "street": "Unknown Street",
-      "city": "Blakeview",
+      "id": "88beb2ec-d1f4-4d0b-aa97-c834259a7ca6",
+      "latitude": -34.727296,
+      "longitude": 138.66568,
+      "street": "Philip Hwy",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:30:15Z",
-      "reported_at": "2026-01-29T21:22:24Z"
+      "timestamp": "2026-01-29T22:00:16Z",
+      "reported_at": "2026-01-29T21:48:40Z"
     },
     {
-      "id": "0c6ec32e-c25b-40d4-9563-55b58f6f5fea",
-      "latitude": -34.979846,
-      "longitude": 138.610523,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
+      "id": "b4e7217d-94f1-40ff-92c7-54f7e95f17a6",
+      "latitude": -34.944749,
+      "longitude": 138.553333,
+      "street": "A14 - Marion Rd",
+      "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:30:15Z",
-      "reported_at": "2026-01-29T21:12:35Z"
+      "timestamp": "2026-01-29T22:00:16Z",
+      "reported_at": "2026-01-29T21:30:39Z"
     },
     {
-      "id": "1a1d97cd-13de-4bc7-a662-9bdeb32dcc69",
-      "latitude": -34.981191,
-      "longitude": 138.684213,
+      "id": "18123c4b-2737-497a-b1fd-02e4cd2fec80",
+      "latitude": -34.99938,
+      "longitude": 138.725192,
       "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
+      "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2026-01-29T21:30:15Z",
-      "reported_at": "2026-01-29T21:19:18Z"
+      "timestamp": "2026-01-29T22:00:16Z",
+      "reported_at": "2026-01-29T21:56:52Z"
     }
   ]
 }
