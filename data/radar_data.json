@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d972b8ec-e644-4517-a066-26a406e69af3",
+      "latitude": -34.865201,
+      "longitude": 138.591206,
+      "street": "Hopetoun Av",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-01-29T23:00:16Z",
+      "reported_at": "2026-01-29T22:36:34Z"
+    },
+    {
       "id": "2389e087-36fc-4a46-9b10-db745618686d",
       "latitude": -34.878645,
       "longitude": 138.614431,
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-29T22:30:16Z",
+      "timestamp": "2026-01-29T23:00:16Z",
       "reported_at": "2026-01-29T21:22:41Z"
     },
     {
@@ -17,8 +27,18 @@
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-01-29T22:30:16Z",
+      "timestamp": "2026-01-29T23:00:16Z",
       "reported_at": "2026-01-29T22:07:18Z"
+    },
+    {
+      "id": "0fdf83ef-12e7-41ee-8ccb-fc4995b3f171",
+      "latitude": -34.824286,
+      "longitude": 138.627424,
+      "street": "Montague Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-01-29T23:00:16Z",
+      "reported_at": "2026-01-29T22:36:28Z"
     },
     {
       "id": "ae41dd7a-4d5f-42b2-93f4-d66ffd879bca",
@@ -27,28 +47,48 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-01-29T22:30:16Z",
+      "timestamp": "2026-01-29T23:00:16Z",
       "reported_at": "2026-01-29T21:43:00Z"
     },
     {
-      "id": "55ff31d5-3086-447e-817d-58e87422cdd3",
-      "latitude": -34.994886,
-      "longitude": 138.592864,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "56b82b05-4bab-4b92-a407-f464896c3f45",
+      "latitude": -34.874501,
+      "longitude": 138.584509,
+      "street": "Regency Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-01-29T22:30:16Z",
-      "reported_at": "2026-01-29T22:09:09Z"
+      "timestamp": "2026-01-29T23:00:16Z",
+      "reported_at": "2026-01-29T22:30:14Z"
     },
     {
-      "id": "88beb2ec-d1f4-4d0b-aa97-c834259a7ca6",
-      "latitude": -34.727296,
-      "longitude": 138.66568,
-      "street": "Philip Hwy",
-      "city": "Elizabeth",
+      "id": "a396d439-7e40-4332-ba2b-aae1d02e8b17",
+      "latitude": -35.018961,
+      "longitude": 138.616109,
+      "street": "B29 - Main Rd",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-01-29T22:30:16Z",
-      "reported_at": "2026-01-29T21:48:40Z"
+      "timestamp": "2026-01-29T23:00:16Z",
+      "reported_at": "2026-01-29T22:28:42Z"
+    },
+    {
+      "id": "ab177b15-4c55-4236-a765-a38ce34fd23a",
+      "latitude": -35.029438,
+      "longitude": 138.55679,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-01-29T23:00:16Z",
+      "reported_at": "2026-01-29T22:37:40Z"
+    },
+    {
+      "id": "fc8f1a8f-2210-4fae-9c9e-e6ac5c8b48c7",
+      "latitude": -34.862332,
+      "longitude": 138.568797,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-29T23:00:16Z",
+      "reported_at": "2026-01-29T22:32:37Z"
     }
   ]
 }
