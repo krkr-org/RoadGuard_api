@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "8abd9993-eb46-4474-8c7d-920d129a2849",
+      "latitude": -34.998783,
+      "longitude": 138.74787,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-01-29T20:30:16Z",
+      "reported_at": "2026-01-29T20:27:51Z"
+    },
+    {
+      "id": "62abec7e-2d80-4f88-a2b6-1d03be92e275",
+      "latitude": -34.869625,
+      "longitude": 138.570636,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-01-29T20:30:16Z",
+      "reported_at": "2026-01-29T20:18:12Z"
+    }
+  ]
 }
