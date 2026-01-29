@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e45d8489-5cb0-45db-a9f0-7322f8b319fa",
-      "latitude": -34.856185,
-      "longitude": 138.555205,
-      "street": "Medika Bvd",
-      "city": "Mansfield Park",
+      "id": "3d5431ed-6603-400c-ba6d-247ef2cc9ed4",
+      "latitude": -35.011106,
+      "longitude": 138.577222,
+      "street": "to Ayliffes Rd / Goodwood Rd",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-01-29T10:00:17Z",
-      "reported_at": "2026-01-29T09:26:20Z"
+      "timestamp": "2026-01-29T10:30:14Z",
+      "reported_at": "2026-01-29T09:57:36Z"
     },
     {
       "id": "c7d37ad5-a11a-43a9-a11d-cdfa7753c14d",
@@ -17,8 +17,18 @@
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-29T10:00:17Z",
+      "timestamp": "2026-01-29T10:30:14Z",
       "reported_at": "2026-01-29T09:31:12Z"
+    },
+    {
+      "id": "55d00d8c-7ca5-4289-aa2b-d1e536ff5c65",
+      "latitude": -34.855599,
+      "longitude": 138.502291,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-01-29T10:30:14Z",
+      "reported_at": "2026-01-29T10:08:52Z"
     },
     {
       "id": "5b24122b-055f-4f6b-9079-dde57b1c7eec",
@@ -27,38 +37,28 @@
       "street": "Elder Smith Rd",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-01-29T10:00:17Z",
+      "timestamp": "2026-01-29T10:30:14Z",
       "reported_at": "2026-01-29T07:49:47Z"
     },
     {
-      "id": "5993ecb3-4649-4d7d-91c6-acbc1d789f2f",
-      "latitude": -35.011022,
-      "longitude": 138.580214,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "60decb73-7a7b-42ef-94bd-4abd3e070548",
+      "latitude": -34.752156,
+      "longitude": 138.653274,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-29T10:00:17Z",
-      "reported_at": "2026-01-29T09:42:37Z"
+      "timestamp": "2026-01-29T10:30:14Z",
+      "reported_at": "2026-01-29T10:00:16Z"
     },
     {
-      "id": "488595f8-a5a1-46cf-b6d4-5f04c8acc4a4",
-      "latitude": -34.888358,
-      "longitude": 138.51339,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
+      "id": "453397b6-4cef-4190-b7c0-678dfcb9135e",
+      "latitude": -35.082902,
+      "longitude": 138.543959,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-01-29T10:00:17Z",
-      "reported_at": "2026-01-29T09:26:22Z"
-    },
-    {
-      "id": "fd1707a9-b730-4ecb-8a62-c70fb1b00cdb",
-      "latitude": -34.96808,
-      "longitude": 138.557405,
-      "street": "A3 - Cross Rd",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-29T10:00:17Z",
-      "reported_at": "2026-01-29T09:45:18Z"
+      "timestamp": "2026-01-29T10:30:14Z",
+      "reported_at": "2026-01-29T09:40:46Z"
     }
   ]
 }
