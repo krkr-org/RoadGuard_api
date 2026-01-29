@@ -1,54 +1,74 @@
 {
   "radars": [
     {
+      "id": "cd423bd0-819f-4538-a4ca-7fc624c8a3ed",
+      "latitude": -35.141995,
+      "longitude": 138.660183,
+      "street": "Tester Rd",
+      "city": "Kangarilla",
+      "type": "mobile",
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T05:14:14Z"
+    },
+    {
       "id": "98a14d28-09e0-4173-a6af-6e89bb627105",
       "latitude": -34.830078,
       "longitude": 138.642106,
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
+      "timestamp": "2026-01-29T05:30:15Z",
       "reported_at": "2026-01-29T01:34:44Z"
     },
     {
-      "id": "a53fb4f1-ca6b-4620-8737-fe525e317582",
-      "latitude": -34.793157,
-      "longitude": 138.644418,
-      "street": "Unknown Street",
-      "city": "Parafield",
+      "id": "bf33e23d-0148-4e0f-9024-1ca3783a6f73",
+      "latitude": -34.891423,
+      "longitude": 138.622966,
+      "street": "Walkerville Tce",
+      "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T04:29:41Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T04:55:27Z"
     },
     {
-      "id": "621d9a48-63fa-43a7-82a1-7500b009cb64",
-      "latitude": -34.817255,
-      "longitude": 138.66088,
-      "street": "Nelson Rd",
-      "city": "Para Hills",
+      "id": "b87650cb-fce2-4ee3-b944-2a30fb7c8eba",
+      "latitude": -34.951984,
+      "longitude": 138.614401,
+      "street": "Duthy St",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T00:35:37Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T05:27:30Z"
     },
     {
-      "id": "dae9d9de-cd97-421b-a0d3-8e6715bf94db",
-      "latitude": -34.836239,
-      "longitude": 138.620262,
-      "street": "South Tce",
-      "city": "Pooraka",
+      "id": "2c783821-f735-4c28-87c2-983ad94a7035",
+      "latitude": -34.713466,
+      "longitude": 138.638051,
+      "street": "McNamara Dr",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T00:14:58Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T04:06:28Z"
     },
     {
-      "id": "e319bf0f-0fa4-4b85-90b3-d901114d8b9c",
-      "latitude": -34.883709,
-      "longitude": 138.532758,
-      "street": "Woodville Rd",
-      "city": "Woodville South",
+      "id": "6f1f8e07-a713-4eb8-b2d3-b0803e5386b1",
+      "latitude": -34.853942,
+      "longitude": 138.502213,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T04:34:45Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T05:10:05Z"
+    },
+    {
+      "id": "51d1fca3-39f2-464d-a948-e7b3f69a27bd",
+      "latitude": -35.134413,
+      "longitude": 138.65633,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
+      "type": "mobile",
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T05:16:18Z"
     },
     {
       "id": "b355cc4d-bb7c-4fc6-a13a-6b6552ba1ac2",
@@ -57,48 +77,38 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
+      "timestamp": "2026-01-29T05:30:15Z",
       "reported_at": "2026-01-29T04:24:28Z"
     },
     {
-      "id": "3ba42579-dac0-4dda-883f-0097ea7e0c7e",
-      "latitude": -34.687748,
-      "longitude": 138.768431,
+      "id": "57958bce-db24-4576-a54d-d73274eb3453",
+      "latitude": -34.669473,
+      "longitude": 138.772633,
       "street": "Gawler-One Tree Hill Rd",
       "city": "Uleybury",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T04:37:26Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T05:06:09Z"
     },
     {
-      "id": "e54904c7-6f95-4df2-8edc-bc4015c57228",
-      "latitude": -34.930892,
-      "longitude": 138.623908,
-      "street": "R1 - Fullarton Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "31eb6e18-0ffa-464a-9743-847012f439fb",
+      "latitude": -34.82741,
+      "longitude": 138.701437,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T04:42:38Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T04:34:12Z"
     },
     {
-      "id": "8ca58cef-096d-4dd5-a39b-1142df858595",
-      "latitude": -35.026501,
-      "longitude": 138.557097,
-      "street": "M2 - Southern Exp",
-      "city": "Sturt",
+      "id": "07d7f5ca-525c-469b-b587-f9121e1461af",
+      "latitude": -34.681044,
+      "longitude": 138.694844,
+      "street": "A20 - Main North Rd",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T04:56:54Z"
-    },
-    {
-      "id": "220434e5-5dfd-470c-9e90-ecba90f6b8f5",
-      "latitude": -35.04661,
-      "longitude": 138.549845,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-01-29T05:00:14Z",
-      "reported_at": "2026-01-29T04:54:59Z"
+      "timestamp": "2026-01-29T05:30:15Z",
+      "reported_at": "2026-01-29T05:25:20Z"
     }
   ]
 }
