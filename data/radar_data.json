@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "0df53ccd-ed8c-4d10-bfdf-db96f0ceb06a",
+      "latitude": -34.949154,
+      "longitude": 138.592712,
+      "street": "Rogers St",
+      "city": "Goodwood",
+      "type": "mobile",
+      "timestamp": "2026-01-29T14:30:15Z",
+      "reported_at": "2026-01-29T13:53:24Z"
+    },
+    {
       "id": "0fcbcaaf-a578-46ed-b916-3ce0c55956a1",
       "latitude": -34.813113,
       "longitude": 138.638299,
       "street": "Maxwell Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-01-29T14:00:18Z",
+      "timestamp": "2026-01-29T14:30:15Z",
       "reported_at": "2026-01-29T11:31:26Z"
     }
   ]
