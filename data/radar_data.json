@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "b871a901-b8e5-486a-a751-27f3e7b4f794",
-      "latitude": -34.852209,
-      "longitude": 138.671644,
-      "street": "Valiant Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
-      "reported_at": "2026-01-28T21:42:04Z"
-    },
-    {
       "id": "98a14d28-09e0-4173-a6af-6e89bb627105",
       "latitude": -34.830078,
       "longitude": 138.642106,
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
+      "timestamp": "2026-01-29T05:00:14Z",
       "reported_at": "2026-01-29T01:34:44Z"
     },
     {
-      "id": "14f1e21b-0a35-485b-a137-fb4f0cb9d170",
-      "latitude": -34.836307,
-      "longitude": 138.49756,
-      "street": "Fletcher Rd",
-      "city": "Birkenhead",
+      "id": "a53fb4f1-ca6b-4620-8737-fe525e317582",
+      "latitude": -34.793157,
+      "longitude": 138.644418,
+      "street": "Unknown Street",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
-      "reported_at": "2026-01-29T04:04:29Z"
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:29:41Z"
     },
     {
       "id": "621d9a48-63fa-43a7-82a1-7500b009cb64",
@@ -37,7 +27,7 @@
       "street": "Nelson Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
+      "timestamp": "2026-01-29T05:00:14Z",
       "reported_at": "2026-01-29T00:35:37Z"
     },
     {
@@ -47,38 +37,68 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
+      "timestamp": "2026-01-29T05:00:14Z",
       "reported_at": "2026-01-29T00:14:58Z"
     },
     {
-      "id": "4e2ab5fd-e618-44e4-8c34-c6357c926e0d",
-      "latitude": -34.835227,
-      "longitude": 138.657225,
-      "street": "Wright Rd",
-      "city": "Para Vista",
+      "id": "e319bf0f-0fa4-4b85-90b3-d901114d8b9c",
+      "latitude": -34.883709,
+      "longitude": 138.532758,
+      "street": "Woodville Rd",
+      "city": "Woodville South",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
-      "reported_at": "2026-01-29T00:30:31Z"
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:34:45Z"
     },
     {
-      "id": "e61fad81-0ee3-4b5b-a156-6e83fa40383f",
-      "latitude": -34.951658,
-      "longitude": 138.518133,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "b355cc4d-bb7c-4fc6-a13a-6b6552ba1ac2",
+      "latitude": -35.146675,
+      "longitude": 138.534345,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
-      "reported_at": "2026-01-29T04:12:26Z"
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:24:28Z"
     },
     {
-      "id": "01f5c4fc-e658-4304-a16e-a5f4fb46e695",
-      "latitude": -34.768296,
-      "longitude": 138.675304,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
+      "id": "3ba42579-dac0-4dda-883f-0097ea7e0c7e",
+      "latitude": -34.687748,
+      "longitude": 138.768431,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Uleybury",
       "type": "mobile",
-      "timestamp": "2026-01-29T04:30:16Z",
-      "reported_at": "2026-01-29T03:53:49Z"
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:37:26Z"
+    },
+    {
+      "id": "e54904c7-6f95-4df2-8edc-bc4015c57228",
+      "latitude": -34.930892,
+      "longitude": 138.623908,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:42:38Z"
+    },
+    {
+      "id": "8ca58cef-096d-4dd5-a39b-1142df858595",
+      "latitude": -35.026501,
+      "longitude": 138.557097,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:56:54Z"
+    },
+    {
+      "id": "220434e5-5dfd-470c-9e90-ecba90f6b8f5",
+      "latitude": -35.04661,
+      "longitude": 138.549845,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-01-29T05:00:14Z",
+      "reported_at": "2026-01-29T04:54:59Z"
     }
   ]
 }
