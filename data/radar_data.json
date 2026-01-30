@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "d85ad352-b308-4812-93c8-2cf1de0bed46",
+      "latitude": -34.884059,
+      "longitude": 138.582991,
+      "street": "Exeter Tce",
+      "city": "Dudley Park",
+      "type": "mobile",
+      "timestamp": "2026-01-30T00:30:13Z",
+      "reported_at": "2026-01-29T22:41:17Z"
+    },
+    {
       "id": "2389e087-36fc-4a46-9b10-db745618686d",
       "latitude": -34.878645,
       "longitude": 138.614431,
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:00:16Z",
+      "timestamp": "2026-01-30T00:30:13Z",
       "reported_at": "2026-01-29T21:22:41Z"
     },
     {
-      "id": "e1953020-faa8-4880-8640-65d1da4df8f0",
-      "latitude": -34.893302,
-      "longitude": 138.608735,
-      "street": "Nottage Tce",
-      "city": "Medindie Gardens",
+      "id": "1758bce4-8e0f-403c-9cb2-c3c29e2db31d",
+      "latitude": -34.865181,
+      "longitude": 138.591623,
+      "street": "Hopetoun Av",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:00:16Z",
-      "reported_at": "2026-01-29T23:22:26Z"
+      "timestamp": "2026-01-30T00:30:13Z",
+      "reported_at": "2026-01-30T00:08:36Z"
     },
     {
-      "id": "ae41dd7a-4d5f-42b2-93f4-d66ffd879bca",
-      "latitude": -35.141858,
-      "longitude": 138.660115,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
+      "id": "eb2439ad-e1a6-48fb-9dee-e4d653079749",
+      "latitude": -34.834563,
+      "longitude": 138.675262,
+      "street": "Kelly Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:00:16Z",
-      "reported_at": "2026-01-29T21:43:00Z"
+      "timestamp": "2026-01-30T00:30:13Z",
+      "reported_at": "2026-01-30T00:13:14Z"
     },
     {
       "id": "c716bef5-d42e-4b65-a1e6-d3a0849cb1b0",
@@ -37,18 +47,18 @@
       "street": "Raglan Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:00:16Z",
+      "timestamp": "2026-01-30T00:30:13Z",
       "reported_at": "2026-01-29T23:11:26Z"
     },
     {
-      "id": "16f596c6-58ce-4bcd-857a-e138649285a3",
-      "latitude": -34.939157,
-      "longitude": 138.644314,
-      "street": "B26 - Greenhill Rd",
-      "city": "Tusmore",
+      "id": "ae41dd7a-4d5f-42b2-93f4-d66ffd879bca",
+      "latitude": -35.141858,
+      "longitude": 138.660115,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:00:16Z",
-      "reported_at": "2026-01-29T23:16:43Z"
+      "timestamp": "2026-01-30T00:30:13Z",
+      "reported_at": "2026-01-29T21:43:00Z"
     }
   ]
 }
