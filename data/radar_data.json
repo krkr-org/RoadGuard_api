@@ -7,7 +7,7 @@
       "street": "Exeter Tce",
       "city": "Dudley Park",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
+      "timestamp": "2026-01-30T06:30:15Z",
       "reported_at": "2026-01-30T02:34:31Z"
     },
     {
@@ -17,18 +17,48 @@
       "street": "Broadmeadows Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
+      "timestamp": "2026-01-30T06:30:15Z",
       "reported_at": "2026-01-30T05:12:21Z"
     },
     {
-      "id": "ca7f4638-30d0-4f42-bc50-4c59b7ef843b",
-      "latitude": -34.922359,
-      "longitude": 138.611741,
+      "id": "b0cc88ce-672d-4dd9-956e-08043384cf25",
+      "latitude": -34.922387,
+      "longitude": 138.611169,
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:36:35Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:07:50Z"
+    },
+    {
+      "id": "c277076c-d4fa-46d5-b800-e6f42a8c05b0",
+      "latitude": -34.936987,
+      "longitude": 138.53776,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T05:47:53Z"
+    },
+    {
+      "id": "0c269698-1b1f-4cc9-9127-547f1fe2c824",
+      "latitude": -34.788917,
+      "longitude": 138.705393,
+      "street": "Bicentennial Dr",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T05:23:00Z"
+    },
+    {
+      "id": "e4bacdaa-d42e-49e2-ac11-858c243a20c6",
+      "latitude": -34.791434,
+      "longitude": 138.602399,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T05:09:29Z"
     },
     {
       "id": "f4dac244-03cf-4ee5-9b5a-8f5f445eb8c7",
@@ -37,58 +67,28 @@
       "street": "Ladywood Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
+      "timestamp": "2026-01-30T06:30:15Z",
       "reported_at": "2026-01-30T05:43:32Z"
     },
     {
-      "id": "28a358dc-e7da-46a5-815f-58aaf4c5f815",
-      "latitude": -34.791097,
-      "longitude": 138.601826,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
+      "id": "7af22e52-9d82-4ae1-ace4-e724854e72f5",
+      "latitude": -34.700878,
+      "longitude": 138.664204,
+      "street": "Womma Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:16:02Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:01:41Z"
     },
     {
-      "id": "f28574f8-0245-40bb-80f6-0335522ddba1",
-      "latitude": -34.92364,
-      "longitude": 138.58177,
-      "street": "Glover Av",
-      "city": "Adelaide",
+      "id": "27e5033b-deaa-42ab-99cd-4e2eeb42943c",
+      "latitude": -34.904194,
+      "longitude": 138.562576,
+      "street": "Grange Rd",
+      "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:26:49Z"
-    },
-    {
-      "id": "61b693de-d6ae-47a7-916c-36863d01c561",
-      "latitude": -34.70873,
-      "longitude": 138.682079,
-      "street": "Tolmer Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:39:33Z"
-    },
-    {
-      "id": "403663b0-0b11-4306-a9c4-a130ea3d7054",
-      "latitude": -34.787563,
-      "longitude": 138.666306,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:31:04Z"
-    },
-    {
-      "id": "82ac61a1-6769-4fef-8c45-44113f02a869",
-      "latitude": -34.775004,
-      "longitude": 138.730571,
-      "street": "One Tree Hill Rd",
-      "city": "Golden Grove",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:42:43Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:02:03Z"
     },
     {
       "id": "09cd7ac7-cd08-43f5-af4d-17039c52f2f4",
@@ -97,58 +97,58 @@
       "street": "Uley Rd",
       "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
+      "timestamp": "2026-01-30T06:30:15Z",
       "reported_at": "2026-01-30T05:05:51Z"
     },
     {
-      "id": "f575450f-63a5-4fbb-af8c-78b60d873f50",
-      "latitude": -34.743606,
-      "longitude": 138.632329,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "5d69eafc-7b82-4617-a984-7c9161dd75cb",
+      "latitude": -35.019846,
+      "longitude": 138.550012,
+      "street": "Diagonal Rd",
+      "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T04:46:04Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:01:41Z"
     },
     {
-      "id": "f244bb80-38d2-4e80-ac6b-07c18536f6c2",
-      "latitude": -34.935952,
-      "longitude": 138.624108,
-      "street": "R1 - Fullarton Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "7baf559c-a2e3-44c4-bde7-311cfb643c01",
+      "latitude": -34.783459,
+      "longitude": 138.669986,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:43:03Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:03:52Z"
     },
     {
-      "id": "f9018848-9370-471c-b727-b003d7dcced2",
-      "latitude": -34.765976,
-      "longitude": 138.638313,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "82ac61a1-6769-4fef-8c45-44113f02a869",
+      "latitude": -34.775004,
+      "longitude": 138.730571,
+      "street": "One Tree Hill Rd",
+      "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:43:18Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T05:42:43Z"
     },
     {
-      "id": "5e92cf4d-cbb8-47d1-8d4c-70d52d5ef1e3",
-      "latitude": -35.04062,
-      "longitude": 138.555794,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "59c91a34-cdbf-4f59-8aa2-a0291a4af812",
+      "latitude": -34.703696,
+      "longitude": 138.702145,
+      "street": "Adams Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:22:03Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:17:37Z"
     },
     {
-      "id": "9aa5b334-48b2-479a-a19e-c1944fb4531e",
-      "latitude": -34.832857,
-      "longitude": 138.574908,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Wingfield",
+      "id": "baf566c3-fb2c-453d-9f20-a5e314596f18",
+      "latitude": -35.044914,
+      "longitude": 138.561038,
+      "street": "A13 - Main South Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:00:16Z",
-      "reported_at": "2026-01-30T05:52:47Z"
+      "timestamp": "2026-01-30T06:30:15Z",
+      "reported_at": "2026-01-30T06:14:09Z"
     }
   ]
 }
