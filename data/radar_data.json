@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "081cc244-0abc-4d8d-9928-6259b4486056",
-      "latitude": -34.996911,
-      "longitude": 138.59303,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "004afd56-e55c-41da-8e02-3ba2127ceb80",
+      "latitude": -35.093191,
+      "longitude": 138.554453,
+      "street": "Reynell Rd",
+      "city": "Reynella East",
       "type": "mobile",
-      "timestamp": "2026-01-30T21:30:16Z",
-      "reported_at": "2026-01-30T20:45:41Z"
+      "timestamp": "2026-01-30T22:00:21Z",
+      "reported_at": "2026-01-30T21:16:38Z"
+    },
+    {
+      "id": "89e0f251-26b9-4d65-80b4-c1dc3bf91699",
+      "latitude": -35.033829,
+      "longitude": 138.563466,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-30T22:00:21Z",
+      "reported_at": "2026-01-30T21:46:05Z"
+    },
+    {
+      "id": "68e02b13-6624-449f-ad8f-1003ab727ecf",
+      "latitude": -35.070396,
+      "longitude": 138.632938,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
+      "type": "mobile",
+      "timestamp": "2026-01-30T22:00:21Z",
+      "reported_at": "2026-01-30T21:58:55Z"
+    },
+    {
+      "id": "9af1d64f-eb30-4486-90ad-cc8a6af1c073",
+      "latitude": -34.839464,
+      "longitude": 138.676291,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-30T22:00:21Z",
+      "reported_at": "2026-01-30T21:35:13Z"
     },
     {
       "id": "645fa71f-af4f-45c8-8d4e-f1b939b3b5e0",
@@ -17,7 +47,7 @@
       "street": "Unknown Street",
       "city": "West Croydon",
       "type": "mobile",
-      "timestamp": "2026-01-30T21:30:16Z",
+      "timestamp": "2026-01-30T22:00:21Z",
       "reported_at": "2026-01-30T17:14:14Z"
     }
   ]
