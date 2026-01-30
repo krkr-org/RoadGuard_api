@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "8aad3701-c4f8-4edc-9226-aac8efa8d056",
+      "latitude": -34.848456,
+      "longitude": 138.529736,
+      "street": "May Tce",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-01-30T02:00:17Z",
+      "reported_at": "2026-01-29T23:25:11Z"
+    },
+    {
       "id": "2389e087-36fc-4a46-9b10-db745618686d",
       "latitude": -34.878645,
       "longitude": 138.614431,
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
+      "timestamp": "2026-01-30T02:00:17Z",
       "reported_at": "2026-01-29T21:22:41Z"
-    },
-    {
-      "id": "e09dedaf-1fce-482d-a62c-152705047db6",
-      "latitude": -34.713006,
-      "longitude": 138.637013,
-      "street": "McNamara Dr",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
-      "reported_at": "2026-01-30T00:55:51Z"
     },
     {
       "id": "ae41dd7a-4d5f-42b2-93f4-d66ffd879bca",
@@ -27,48 +27,38 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
+      "timestamp": "2026-01-30T02:00:17Z",
       "reported_at": "2026-01-29T21:43:00Z"
     },
     {
-      "id": "7846ecce-6124-4c37-a176-c90a0a442c1a",
-      "latitude": -34.862883,
-      "longitude": 138.515024,
+      "id": "4fddfa76-2e7d-49e2-8e4f-4b934f39bdd3",
+      "latitude": -34.862591,
+      "longitude": 138.514849,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
-      "reported_at": "2026-01-29T21:45:26Z"
+      "timestamp": "2026-01-30T02:00:17Z",
+      "reported_at": "2026-01-29T21:29:17Z"
     },
     {
-      "id": "5ee2664a-8839-4399-8fbd-937cddd2d18f",
-      "latitude": -35.01962,
-      "longitude": 138.52308,
-      "street": "A15 - Brighton Rd",
-      "city": "Brighton",
+      "id": "256126a0-10bb-4358-8c8b-90480f98b80c",
+      "latitude": -34.959328,
+      "longitude": 138.640671,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
-      "reported_at": "2026-01-30T01:03:25Z"
+      "timestamp": "2026-01-30T02:00:17Z",
+      "reported_at": "2026-01-30T01:44:38Z"
     },
     {
-      "id": "b7de764e-94f7-4536-96a3-8f0ee04724a4",
-      "latitude": -34.837633,
-      "longitude": 138.523962,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "611d6a27-1c27-4fa1-99e6-18a59446b2fa",
+      "latitude": -35.048768,
+      "longitude": 138.548181,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
-      "reported_at": "2026-01-30T01:19:26Z"
-    },
-    {
-      "id": "0d5658b0-565d-4b4d-aa3a-2da48fde3552",
-      "latitude": -34.681745,
-      "longitude": 138.605388,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-30T01:30:16Z",
-      "reported_at": "2026-01-30T01:23:54Z"
+      "timestamp": "2026-01-30T02:00:17Z",
+      "reported_at": "2026-01-30T01:57:58Z"
     }
   ]
 }
