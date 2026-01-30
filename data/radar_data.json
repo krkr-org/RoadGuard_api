@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "004afd56-e55c-41da-8e02-3ba2127ceb80",
-      "latitude": -35.093191,
-      "longitude": 138.554453,
+      "id": "8245b075-0f08-44ec-94c8-40c7bbec18c1",
+      "latitude": -35.095932,
+      "longitude": 138.551215,
+      "street": "Sherebrooke Bvd",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2026-01-30T22:30:15Z",
+      "reported_at": "2026-01-30T22:13:28Z"
+    },
+    {
+      "id": "f760885a-b939-4497-acff-66351c8112ef",
+      "latitude": -35.093193,
+      "longitude": 138.554402,
       "street": "Reynell Rd",
       "city": "Reynella East",
       "type": "mobile",
-      "timestamp": "2026-01-30T22:00:21Z",
-      "reported_at": "2026-01-30T21:16:38Z"
+      "timestamp": "2026-01-30T22:30:15Z",
+      "reported_at": "2026-01-30T21:24:09Z"
     },
     {
-      "id": "89e0f251-26b9-4d65-80b4-c1dc3bf91699",
-      "latitude": -35.033829,
-      "longitude": 138.563466,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
+      "id": "6d3845ac-ef32-4c0e-ba2a-d86a5fb95ee0",
+      "latitude": -34.848152,
+      "longitude": 138.629125,
+      "street": "Vickers Vimy Pde",
+      "city": "Northgate",
       "type": "mobile",
-      "timestamp": "2026-01-30T22:00:21Z",
-      "reported_at": "2026-01-30T21:46:05Z"
+      "timestamp": "2026-01-30T22:30:15Z",
+      "reported_at": "2026-01-30T21:55:25Z"
+    },
+    {
+      "id": "1aae7db2-feb6-4fec-b564-edf75fc7539f",
+      "latitude": -35.028508,
+      "longitude": 138.553173,
+      "street": "Seacombe Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-30T22:30:15Z",
+      "reported_at": "2026-01-30T22:11:14Z"
     },
     {
       "id": "68e02b13-6624-449f-ad8f-1003ab727ecf",
@@ -27,28 +47,28 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-30T22:00:21Z",
+      "timestamp": "2026-01-30T22:30:15Z",
       "reported_at": "2026-01-30T21:58:55Z"
     },
     {
-      "id": "9af1d64f-eb30-4486-90ad-cc8a6af1c073",
-      "latitude": -34.839464,
-      "longitude": 138.676291,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
+      "latitude": -35.022015,
+      "longitude": 138.804782,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-30T22:00:21Z",
-      "reported_at": "2026-01-30T21:35:13Z"
+      "timestamp": "2026-01-30T22:30:15Z",
+      "reported_at": "2026-01-30T21:04:24Z"
     },
     {
-      "id": "645fa71f-af4f-45c8-8d4e-f1b939b3b5e0",
-      "latitude": -34.893266,
-      "longitude": 138.553542,
-      "street": "Unknown Street",
-      "city": "West Croydon",
+      "id": "96815fcb-572d-4ada-b117-20b8befd60c0",
+      "latitude": -34.96817,
+      "longitude": 138.671947,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-30T22:00:21Z",
-      "reported_at": "2026-01-30T17:14:14Z"
+      "timestamp": "2026-01-30T22:30:15Z",
+      "reported_at": "2026-01-30T22:19:26Z"
     }
   ]
 }
