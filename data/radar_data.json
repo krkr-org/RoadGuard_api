@@ -1,54 +1,94 @@
 {
   "radars": [
     {
-      "id": "5bef4ecb-b809-4185-a592-69b0722466ab",
-      "latitude": -34.883044,
-      "longitude": 138.582928,
-      "street": "Exeter Tce",
-      "city": "Dudley Park",
-      "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
-      "reported_at": "2026-01-30T02:34:31Z"
-    },
-    {
       "id": "27547b9e-0a14-4345-b033-f0b9c9aea52e",
       "latitude": -34.875173,
       "longitude": 138.697113,
       "street": "Manresa Ct",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
+      "timestamp": "2026-01-30T05:30:16Z",
       "reported_at": "2026-01-30T01:46:08Z"
     },
     {
-      "id": "a9e903e2-eb2d-4e1d-82c7-7bef91da2eda",
-      "latitude": -34.806655,
-      "longitude": 138.696427,
-      "street": "Grenfell Rd",
-      "city": "Wynn Vale",
+      "id": "5bef4ecb-b809-4185-a592-69b0722466ab",
+      "latitude": -34.883044,
+      "longitude": 138.582928,
+      "street": "Exeter Tce",
+      "city": "Dudley Park",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
-      "reported_at": "2026-01-30T04:37:34Z"
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T02:34:31Z"
     },
     {
-      "id": "26041653-3e50-46fe-a3d2-535daf57ef5a",
-      "latitude": -34.927626,
-      "longitude": 138.628353,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "28a358dc-e7da-46a5-815f-58aaf4c5f815",
+      "latitude": -34.791097,
+      "longitude": 138.601826,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
-      "reported_at": "2026-01-30T04:46:43Z"
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:16:02Z"
     },
     {
-      "id": "701dc8b5-b20f-42be-9858-ea5401fed0a2",
-      "latitude": -35.106932,
-      "longitude": 138.547775,
-      "street": "Panalatinga Rd",
-      "city": "Morphett Vale",
+      "id": "2dc84ff9-b79b-49e0-95bc-853195bb0807",
+      "latitude": -34.93724,
+      "longitude": 138.537381,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
-      "reported_at": "2026-01-30T04:45:44Z"
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:08:33Z"
+    },
+    {
+      "id": "ceafbc53-047f-450b-9edf-dcf40066e3b1",
+      "latitude": -34.886835,
+      "longitude": 138.571485,
+      "street": "South Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:19:05Z"
+    },
+    {
+      "id": "a765a93e-5008-4295-b78d-778438164a60",
+      "latitude": -34.741722,
+      "longitude": 138.629223,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T04:53:49Z"
+    },
+    {
+      "id": "517e2ea9-3b7b-4c67-ae66-1159bd11a888",
+      "latitude": -34.786038,
+      "longitude": 138.667673,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:20:25Z"
+    },
+    {
+      "id": "f28574f8-0245-40bb-80f6-0335522ddba1",
+      "latitude": -34.92364,
+      "longitude": 138.58177,
+      "street": "Glover Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:26:49Z"
+    },
+    {
+      "id": "fb7f8351-63f8-4a4b-bda8-ce3f89e8726d",
+      "latitude": -34.875263,
+      "longitude": 138.56834,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:11:56Z"
     },
     {
       "id": "aa4852a8-c908-4053-b764-fcd90737c344",
@@ -57,28 +97,58 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
+      "timestamp": "2026-01-30T05:30:16Z",
       "reported_at": "2026-01-30T04:55:10Z"
     },
     {
-      "id": "9574d999-3a0d-452f-8e82-800a4e3ddc48",
-      "latitude": -34.977351,
-      "longitude": 138.626927,
-      "street": "B28 - Maitland St",
-      "city": "Mitcham",
+      "id": "26041653-3e50-46fe-a3d2-535daf57ef5a",
+      "latitude": -34.927626,
+      "longitude": 138.628353,
+      "street": "Kensington Rd",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
-      "reported_at": "2026-01-30T04:44:35Z"
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T04:46:43Z"
     },
     {
-      "id": "d153e30f-8a6d-4775-898c-dc0acea68147",
-      "latitude": -34.965206,
-      "longitude": 138.552774,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "e68dc2b8-22ea-4297-bfce-f19d892466e8",
+      "latitude": -34.95757,
+      "longitude": 138.514176,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:00:15Z",
-      "reported_at": "2026-01-30T04:55:39Z"
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:16:17Z"
+    },
+    {
+      "id": "860f4bbb-94f1-4b1b-ba80-ed4550d45fa9",
+      "latitude": -34.667951,
+      "longitude": 138.702426,
+      "street": "A20 - Main North Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:13:00Z"
+    },
+    {
+      "id": "826be27b-2f0f-430a-a8b0-c89038f0a04f",
+      "latitude": -34.800474,
+      "longitude": 138.639258,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:28:33Z"
+    },
+    {
+      "id": "f7576946-7764-4d68-894a-6c2d8ca3f4ec",
+      "latitude": -34.860227,
+      "longitude": 138.567062,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-30T05:30:16Z",
+      "reported_at": "2026-01-30T05:16:06Z"
     }
   ]
 }
