@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "5bef4ecb-b809-4185-a592-69b0722466ab",
-      "latitude": -34.883044,
-      "longitude": 138.582928,
-      "street": "Exeter Tce",
-      "city": "Dudley Park",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T02:34:31Z"
-    },
-    {
       "id": "69f5bbba-0405-4f97-a562-94da607ae2b7",
       "latitude": -34.696936,
       "longitude": 138.67948,
       "street": "Broadmeadows Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
+      "timestamp": "2026-01-30T07:00:17Z",
       "reported_at": "2026-01-30T05:12:21Z"
     },
     {
-      "id": "b0cc88ce-672d-4dd9-956e-08043384cf25",
-      "latitude": -34.922387,
-      "longitude": 138.611169,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
+      "id": "f70180fa-6a16-4558-b282-9b7aa600ddaa",
+      "latitude": -34.879641,
+      "longitude": 138.489267,
+      "street": "Brebner Dr",
+      "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:07:50Z"
-    },
-    {
-      "id": "c277076c-d4fa-46d5-b800-e6f42a8c05b0",
-      "latitude": -34.936987,
-      "longitude": 138.53776,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T05:47:53Z"
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:35:46Z"
     },
     {
       "id": "0c269698-1b1f-4cc9-9127-547f1fe2c824",
@@ -47,7 +27,7 @@
       "street": "Bicentennial Dr",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
+      "timestamp": "2026-01-30T07:00:17Z",
       "reported_at": "2026-01-30T05:23:00Z"
     },
     {
@@ -57,7 +37,7 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
+      "timestamp": "2026-01-30T07:00:17Z",
       "reported_at": "2026-01-30T05:09:29Z"
     },
     {
@@ -67,58 +47,38 @@
       "street": "Ladywood Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
+      "timestamp": "2026-01-30T07:00:17Z",
       "reported_at": "2026-01-30T05:43:32Z"
     },
     {
-      "id": "7af22e52-9d82-4ae1-ace4-e724854e72f5",
-      "latitude": -34.700878,
-      "longitude": 138.664204,
-      "street": "Womma Rd",
-      "city": "Davoren Park",
+      "id": "84fe3297-de53-48f7-9569-c533b8b49d65",
+      "latitude": -34.936842,
+      "longitude": 138.537988,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:01:41Z"
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T05:47:45Z"
     },
     {
-      "id": "27e5033b-deaa-42ab-99cd-4e2eeb42943c",
-      "latitude": -34.904194,
-      "longitude": 138.562576,
-      "street": "Grange Rd",
-      "city": "West Hindmarsh",
+      "id": "82778841-4c20-47a1-8325-0f024b89b4dc",
+      "latitude": -34.698725,
+      "longitude": 138.678479,
+      "street": "Woodford Rd",
+      "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:02:03Z"
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:16:39Z"
     },
     {
-      "id": "09cd7ac7-cd08-43f5-af4d-17039c52f2f4",
-      "latitude": -34.690985,
-      "longitude": 138.695896,
-      "street": "Uley Rd",
-      "city": "Blakeview",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T05:05:51Z"
-    },
-    {
-      "id": "5d69eafc-7b82-4617-a984-7c9161dd75cb",
-      "latitude": -35.019846,
-      "longitude": 138.550012,
-      "street": "Diagonal Rd",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:01:41Z"
-    },
-    {
-      "id": "7baf559c-a2e3-44c4-bde7-311cfb643c01",
-      "latitude": -34.783459,
-      "longitude": 138.669986,
+      "id": "7fb4b881-16fb-445f-9a95-9987a03e68ef",
+      "latitude": -34.785735,
+      "longitude": 138.667945,
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:03:52Z"
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T05:03:44Z"
     },
     {
       "id": "82ac61a1-6769-4fef-8c45-44113f02a869",
@@ -127,28 +87,88 @@
       "street": "One Tree Hill Rd",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
+      "timestamp": "2026-01-30T07:00:17Z",
       "reported_at": "2026-01-30T05:42:43Z"
     },
     {
-      "id": "59c91a34-cdbf-4f59-8aa2-a0291a4af812",
-      "latitude": -34.703696,
-      "longitude": 138.702145,
-      "street": "Adams Rd",
-      "city": "Elizabeth Downs",
+      "id": "f575450f-63a5-4fbb-af8c-78b60d873f50",
+      "latitude": -34.743606,
+      "longitude": 138.632329,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:17:37Z"
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T04:46:04Z"
     },
     {
-      "id": "baf566c3-fb2c-453d-9f20-a5e314596f18",
-      "latitude": -35.044914,
-      "longitude": 138.561038,
+      "id": "61b693de-d6ae-47a7-916c-36863d01c561",
+      "latitude": -34.70873,
+      "longitude": 138.682079,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T05:39:33Z"
+    },
+    {
+      "id": "09cd7ac7-cd08-43f5-af4d-17039c52f2f4",
+      "latitude": -34.690985,
+      "longitude": 138.695896,
+      "street": "Uley Rd",
+      "city": "Blakeview",
+      "type": "mobile",
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T05:05:51Z"
+    },
+    {
+      "id": "f8f83bde-ca40-4409-af18-8cbb94187f0c",
+      "latitude": -34.857486,
+      "longitude": 138.511256,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:28:37Z"
+    },
+    {
+      "id": "d79907b0-c717-4a45-b2ab-2f920330feb3",
+      "latitude": -35.044012,
+      "longitude": 138.560772,
       "street": "A13 - Main South Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-01-30T06:30:15Z",
-      "reported_at": "2026-01-30T06:14:09Z"
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:42:31Z"
+    },
+    {
+      "id": "21c9f4c4-68af-4f7e-aacb-b7c2f3680ccd",
+      "latitude": -34.852029,
+      "longitude": 138.516441,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
+      "type": "mobile",
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:52:45Z"
+    },
+    {
+      "id": "e975c3c8-60ce-4e37-a5a0-8d82f2ee70db",
+      "latitude": -35.047165,
+      "longitude": 138.560399,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:28:43Z"
+    },
+    {
+      "id": "cd1cf07d-15ae-4876-9afd-57b5d8861615",
+      "latitude": -34.74984,
+      "longitude": 138.663322,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-01-30T07:00:17Z",
+      "reported_at": "2026-01-30T06:25:32Z"
     }
   ]
 }
