@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "27547b9e-0a14-4345-b033-f0b9c9aea52e",
-      "latitude": -34.875173,
-      "longitude": 138.697113,
-      "street": "Manresa Ct",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T01:46:08Z"
-    },
-    {
       "id": "5bef4ecb-b809-4185-a592-69b0722466ab",
       "latitude": -34.883044,
       "longitude": 138.582928,
       "street": "Exeter Tce",
       "city": "Dudley Park",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
+      "timestamp": "2026-01-30T06:00:16Z",
       "reported_at": "2026-01-30T02:34:31Z"
+    },
+    {
+      "id": "69f5bbba-0405-4f97-a562-94da607ae2b7",
+      "latitude": -34.696936,
+      "longitude": 138.67948,
+      "street": "Broadmeadows Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:12:21Z"
+    },
+    {
+      "id": "ca7f4638-30d0-4f42-bc50-4c59b7ef843b",
+      "latitude": -34.922359,
+      "longitude": 138.611741,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:36:35Z"
+    },
+    {
+      "id": "f4dac244-03cf-4ee5-9b5a-8f5f445eb8c7",
+      "latitude": -34.807578,
+      "longitude": 138.686008,
+      "street": "Ladywood Rd",
+      "city": "Modbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:43:32Z"
     },
     {
       "id": "28a358dc-e7da-46a5-815f-58aaf4c5f815",
@@ -27,48 +47,8 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
+      "timestamp": "2026-01-30T06:00:16Z",
       "reported_at": "2026-01-30T05:16:02Z"
-    },
-    {
-      "id": "2dc84ff9-b79b-49e0-95bc-853195bb0807",
-      "latitude": -34.93724,
-      "longitude": 138.537381,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:08:33Z"
-    },
-    {
-      "id": "ceafbc53-047f-450b-9edf-dcf40066e3b1",
-      "latitude": -34.886835,
-      "longitude": 138.571485,
-      "street": "South Rd",
-      "city": "Renown Park",
-      "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:19:05Z"
-    },
-    {
-      "id": "a765a93e-5008-4295-b78d-778438164a60",
-      "latitude": -34.741722,
-      "longitude": 138.629223,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T04:53:49Z"
-    },
-    {
-      "id": "517e2ea9-3b7b-4c67-ae66-1159bd11a888",
-      "latitude": -34.786038,
-      "longitude": 138.667673,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:20:25Z"
     },
     {
       "id": "f28574f8-0245-40bb-80f6-0335522ddba1",
@@ -77,78 +57,98 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
+      "timestamp": "2026-01-30T06:00:16Z",
       "reported_at": "2026-01-30T05:26:49Z"
     },
     {
-      "id": "fb7f8351-63f8-4a4b-bda8-ce3f89e8726d",
-      "latitude": -34.875263,
-      "longitude": 138.56834,
-      "street": "Regency Rd",
-      "city": "Regency Park",
+      "id": "61b693de-d6ae-47a7-916c-36863d01c561",
+      "latitude": -34.70873,
+      "longitude": 138.682079,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:11:56Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:39:33Z"
     },
     {
-      "id": "aa4852a8-c908-4053-b764-fcd90737c344",
-      "latitude": -34.994168,
-      "longitude": 138.592812,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "403663b0-0b11-4306-a9c4-a130ea3d7054",
+      "latitude": -34.787563,
+      "longitude": 138.666306,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T04:55:10Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:31:04Z"
     },
     {
-      "id": "26041653-3e50-46fe-a3d2-535daf57ef5a",
-      "latitude": -34.927626,
-      "longitude": 138.628353,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "82ac61a1-6769-4fef-8c45-44113f02a869",
+      "latitude": -34.775004,
+      "longitude": 138.730571,
+      "street": "One Tree Hill Rd",
+      "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T04:46:43Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:42:43Z"
     },
     {
-      "id": "e68dc2b8-22ea-4297-bfce-f19d892466e8",
-      "latitude": -34.95757,
-      "longitude": 138.514176,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "09cd7ac7-cd08-43f5-af4d-17039c52f2f4",
+      "latitude": -34.690985,
+      "longitude": 138.695896,
+      "street": "Uley Rd",
+      "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:16:17Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:05:51Z"
     },
     {
-      "id": "860f4bbb-94f1-4b1b-ba80-ed4550d45fa9",
-      "latitude": -34.667951,
-      "longitude": 138.702426,
-      "street": "A20 - Main North Rd",
-      "city": "Munno Para",
+      "id": "f575450f-63a5-4fbb-af8c-78b60d873f50",
+      "latitude": -34.743606,
+      "longitude": 138.632329,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:13:00Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T04:46:04Z"
     },
     {
-      "id": "826be27b-2f0f-430a-a8b0-c89038f0a04f",
-      "latitude": -34.800474,
-      "longitude": 138.639258,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
+      "id": "f244bb80-38d2-4e80-ac6b-07c18536f6c2",
+      "latitude": -34.935952,
+      "longitude": 138.624108,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:28:33Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:43:03Z"
     },
     {
-      "id": "f7576946-7764-4d68-894a-6c2d8ca3f4ec",
-      "latitude": -34.860227,
-      "longitude": 138.567062,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "f9018848-9370-471c-b727-b003d7dcced2",
+      "latitude": -34.765976,
+      "longitude": 138.638313,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-01-30T05:30:16Z",
-      "reported_at": "2026-01-30T05:16:06Z"
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:43:18Z"
+    },
+    {
+      "id": "5e92cf4d-cbb8-47d1-8d4c-70d52d5ef1e3",
+      "latitude": -35.04062,
+      "longitude": 138.555794,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:22:03Z"
+    },
+    {
+      "id": "9aa5b334-48b2-479a-a19e-c1944fb4531e",
+      "latitude": -34.832857,
+      "longitude": 138.574908,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-01-30T06:00:16Z",
+      "reported_at": "2026-01-30T05:52:47Z"
     }
   ]
 }
