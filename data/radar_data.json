@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "780fbbca-5012-436b-8dca-f653ae708c52",
-      "latitude": -34.86247,
-      "longitude": 138.648664,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "3f41272d-6a9f-4c41-a794-1961da879f5f",
+      "latitude": -34.920494,
+      "longitude": 138.504485,
+      "street": "North St",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-01-30T14:00:16Z",
-      "reported_at": "2026-01-30T13:22:10Z"
+      "timestamp": "2026-01-30T14:30:15Z",
+      "reported_at": "2026-01-30T14:01:44Z"
+    },
+    {
+      "id": "e94e8e05-9920-4fe1-8716-e39a0199ef1d",
+      "latitude": -34.850995,
+      "longitude": 138.536703,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-01-30T14:30:15Z",
+      "reported_at": "2026-01-30T14:07:35Z"
     },
     {
       "id": "fb447991-996c-4440-857e-8d8be4888169",
@@ -17,7 +27,7 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-30T14:00:16Z",
+      "timestamp": "2026-01-30T14:30:15Z",
       "reported_at": "2026-01-30T13:58:23Z"
     }
   ]
