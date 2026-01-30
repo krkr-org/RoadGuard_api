@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "d85ad352-b308-4812-93c8-2cf1de0bed46",
-      "latitude": -34.884059,
-      "longitude": 138.582991,
-      "street": "Exeter Tce",
-      "city": "Dudley Park",
-      "type": "mobile",
-      "timestamp": "2026-01-30T00:30:13Z",
-      "reported_at": "2026-01-29T22:41:17Z"
-    },
-    {
       "id": "2389e087-36fc-4a46-9b10-db745618686d",
       "latitude": -34.878645,
       "longitude": 138.614431,
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:30:13Z",
+      "timestamp": "2026-01-30T01:00:15Z",
       "reported_at": "2026-01-29T21:22:41Z"
-    },
-    {
-      "id": "1758bce4-8e0f-403c-9cb2-c3c29e2db31d",
-      "latitude": -34.865181,
-      "longitude": 138.591623,
-      "street": "Hopetoun Av",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-01-30T00:30:13Z",
-      "reported_at": "2026-01-30T00:08:36Z"
-    },
-    {
-      "id": "eb2439ad-e1a6-48fb-9dee-e4d653079749",
-      "latitude": -34.834563,
-      "longitude": 138.675262,
-      "street": "Kelly Rd",
-      "city": "Valley View",
-      "type": "mobile",
-      "timestamp": "2026-01-30T00:30:13Z",
-      "reported_at": "2026-01-30T00:13:14Z"
-    },
-    {
-      "id": "c716bef5-d42e-4b65-a1e6-d3a0849cb1b0",
-      "latitude": -34.980324,
-      "longitude": 138.56202,
-      "street": "Raglan Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-30T00:30:13Z",
-      "reported_at": "2026-01-29T23:11:26Z"
     },
     {
       "id": "ae41dd7a-4d5f-42b2-93f4-d66ffd879bca",
@@ -57,8 +17,48 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-01-30T00:30:13Z",
+      "timestamp": "2026-01-30T01:00:15Z",
       "reported_at": "2026-01-29T21:43:00Z"
+    },
+    {
+      "id": "c716bef5-d42e-4b65-a1e6-d3a0849cb1b0",
+      "latitude": -34.980324,
+      "longitude": 138.56202,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-30T01:00:15Z",
+      "reported_at": "2026-01-29T23:11:26Z"
+    },
+    {
+      "id": "1b473a92-c78f-41c4-8dce-762b213d5340",
+      "latitude": -34.919245,
+      "longitude": 138.614898,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-30T01:00:15Z",
+      "reported_at": "2026-01-30T00:51:40Z"
+    },
+    {
+      "id": "c7886fb0-1ad6-4fc3-8596-4b7786105cb3",
+      "latitude": -34.94445,
+      "longitude": 138.64279,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenside",
+      "type": "mobile",
+      "timestamp": "2026-01-30T01:00:15Z",
+      "reported_at": "2026-01-30T00:48:27Z"
+    },
+    {
+      "id": "b0fba01b-9364-4bff-b2bb-0722e0521f2e",
+      "latitude": -34.836079,
+      "longitude": 138.52755,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-01-30T01:00:15Z",
+      "reported_at": "2026-01-30T00:45:09Z"
     }
   ]
 }
