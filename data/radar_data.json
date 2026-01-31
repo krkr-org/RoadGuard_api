@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "58e7e700-13b3-4521-b45e-03e3664eb049",
+      "latitude": -35.024499,
+      "longitude": 138.793535,
+      "street": "River Rd",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-01-31T01:30:16Z",
+      "reported_at": "2026-01-30T23:09:42Z"
+    },
+    {
       "id": "f760885a-b939-4497-acff-66351c8112ef",
       "latitude": -35.093193,
       "longitude": 138.554402,
       "street": "Reynell Rd",
       "city": "Reynella East",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
+      "timestamp": "2026-01-31T01:30:16Z",
       "reported_at": "2026-01-30T21:24:09Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "Sherebrooke Bvd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
+      "timestamp": "2026-01-31T01:30:16Z",
       "reported_at": "2026-01-30T22:13:28Z"
     },
     {
-      "id": "58e7e700-13b3-4521-b45e-03e3664eb049",
-      "latitude": -35.024499,
-      "longitude": 138.793535,
-      "street": "River Rd",
-      "city": "Hahndorf",
+      "id": "bc0ab989-6e04-4a52-89ce-206fc573699b",
+      "latitude": -34.817537,
+      "longitude": 138.637097,
+      "street": "Research Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
-      "reported_at": "2026-01-30T23:09:42Z"
+      "timestamp": "2026-01-31T01:30:16Z",
+      "reported_at": "2026-01-31T01:00:01Z"
     },
     {
       "id": "73e8ea35-7d82-4243-93c5-1e0001fa024c",
@@ -37,18 +47,28 @@
       "street": "Kettering Rd",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
+      "timestamp": "2026-01-31T01:30:16Z",
       "reported_at": "2026-01-31T00:52:33Z"
     },
     {
-      "id": "befae48d-f6d7-48a1-83ff-da335901a9ad",
-      "latitude": -34.920676,
-      "longitude": 138.593194,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
+      "id": "2f6bbdc6-f48b-439a-86dc-e89f3434ef12",
+      "latitude": -34.980309,
+      "longitude": 138.56225,
+      "street": "Raglan Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
-      "reported_at": "2026-01-31T00:36:16Z"
+      "timestamp": "2026-01-31T01:30:16Z",
+      "reported_at": "2026-01-31T01:25:06Z"
+    },
+    {
+      "id": "14f9c2ab-08c6-409f-a806-1b96446c0d01",
+      "latitude": -34.817932,
+      "longitude": 138.683327,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-01-31T01:30:16Z",
+      "reported_at": "2026-01-31T01:26:43Z"
     },
     {
       "id": "1ccb0492-48e2-43fc-a69f-e088c2137669",
@@ -57,18 +77,8 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
+      "timestamp": "2026-01-31T01:30:16Z",
       "reported_at": "2026-01-30T23:08:17Z"
-    },
-    {
-      "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
-      "latitude": -35.022015,
-      "longitude": 138.804782,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
-      "reported_at": "2026-01-30T21:04:24Z"
     },
     {
       "id": "d37ae948-253f-4c38-a9c8-e0259588ca2d",
@@ -77,28 +87,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Mylor",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
+      "timestamp": "2026-01-31T01:30:16Z",
       "reported_at": "2026-01-30T23:02:26Z"
     },
     {
-      "id": "4925d265-2a41-400a-994a-d7c1660173cc",
-      "latitude": -34.855836,
-      "longitude": 138.658078,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
+      "id": "bbae14b4-fa6d-4d21-9fa9-07f029f7f1d2",
+      "latitude": -34.958256,
+      "longitude": 138.563509,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
-      "reported_at": "2026-01-31T00:53:47Z"
+      "timestamp": "2026-01-31T01:30:16Z",
+      "reported_at": "2026-01-31T01:04:52Z"
     },
     {
-      "id": "b001f11e-c7d1-47fe-ab75-b0ab417f81ff",
-      "latitude": -34.91197,
-      "longitude": 138.564561,
-      "street": "A2 - South Rd",
-      "city": "Torrensville",
+      "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
+      "latitude": -35.022047,
+      "longitude": 138.804805,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:00:16Z",
-      "reported_at": "2026-01-31T00:21:11Z"
+      "timestamp": "2026-01-31T01:30:16Z",
+      "reported_at": "2026-01-30T22:56:40Z"
     }
   ]
 }
