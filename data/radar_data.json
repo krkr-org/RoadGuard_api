@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "256757d1-8d2c-43c4-8d4c-80f5cf9d5cfb",
+      "latitude": -35.093244,
+      "longitude": 138.553415,
+      "street": "Reynell Rd",
+      "city": "Reynella East",
+      "type": "mobile",
+      "timestamp": "2026-01-31T03:30:15Z",
+      "reported_at": "2026-01-31T02:05:22Z"
+    },
+    {
       "id": "29e3d4e1-05b3-494b-aa7f-4b07765d57ab",
       "latitude": -34.963595,
       "longitude": 138.56361,
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
+      "timestamp": "2026-01-31T03:30:15Z",
       "reported_at": "2026-01-31T01:47:08Z"
     },
     {
-      "id": "58e7e700-13b3-4521-b45e-03e3664eb049",
-      "latitude": -35.024499,
-      "longitude": 138.793535,
-      "street": "River Rd",
-      "city": "Hahndorf",
+      "id": "a863c2e7-65cd-4dce-a383-4afc03f8d3ee",
+      "latitude": -34.928692,
+      "longitude": 138.542984,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
-      "reported_at": "2026-01-30T23:09:42Z"
+      "timestamp": "2026-01-31T03:30:15Z",
+      "reported_at": "2026-01-31T02:56:51Z"
     },
     {
       "id": "a44687cb-8e1c-4cd5-a9b2-a1337ce19be9",
@@ -27,7 +37,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
+      "timestamp": "2026-01-31T03:30:15Z",
       "reported_at": "2026-01-31T00:20:47Z"
     },
     {
@@ -37,38 +47,18 @@
       "street": "Waddikee Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
+      "timestamp": "2026-01-31T03:30:15Z",
       "reported_at": "2026-01-31T01:09:52Z"
     },
     {
-      "id": "c833f3ca-72e6-422b-a29d-baf2e3c0547f",
-      "latitude": -34.918841,
-      "longitude": 138.632019,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
+      "latitude": -35.022015,
+      "longitude": 138.804782,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
-      "reported_at": "2026-01-31T02:26:58Z"
-    },
-    {
-      "id": "1ccb0492-48e2-43fc-a69f-e088c2137669",
-      "latitude": -35.146828,
-      "longitude": 138.531416,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
-      "reported_at": "2026-01-30T23:08:17Z"
-    },
-    {
-      "id": "c54d53b2-dcca-4073-8a80-3d61d17a2e84",
-      "latitude": -34.923962,
-      "longitude": 138.565799,
-      "street": "Henley Beach Rd",
-      "city": "Torrensville",
-      "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
-      "reported_at": "2026-01-31T02:52:16Z"
+      "timestamp": "2026-01-31T03:30:15Z",
+      "reported_at": "2026-01-30T21:04:24Z"
     },
     {
       "id": "d37ae948-253f-4c38-a9c8-e0259588ca2d",
@@ -77,18 +67,8 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Mylor",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
+      "timestamp": "2026-01-31T03:30:15Z",
       "reported_at": "2026-01-30T23:02:26Z"
-    },
-    {
-      "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
-      "latitude": -35.022047,
-      "longitude": 138.804805,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-31T03:00:15Z",
-      "reported_at": "2026-01-30T22:56:40Z"
     }
   ]
 }
