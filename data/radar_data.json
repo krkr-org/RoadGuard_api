@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "f339c6de-e18f-4805-9692-c19f7d228b2e",
-      "latitude": -34.931882,
-      "longitude": 138.498004,
-      "street": "Seaview Rd",
-      "city": "Henley Beach South",
+      "id": "ce17b042-551b-404f-abf5-defc93338aee",
+      "latitude": -34.747573,
+      "longitude": 138.646276,
+      "street": "Kettering Rd",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T23:36:18Z"
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-31T00:18:47Z"
+    },
+    {
+      "id": "f760885a-b939-4497-acff-66351c8112ef",
+      "latitude": -35.093193,
+      "longitude": 138.554402,
+      "street": "Reynell Rd",
+      "city": "Reynella East",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-30T21:24:09Z"
     },
     {
       "id": "8245b075-0f08-44ec-94c8-40c7bbec18c1",
@@ -17,7 +27,7 @@
       "street": "Sherebrooke Bvd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
+      "timestamp": "2026-01-31T00:30:14Z",
       "reported_at": "2026-01-30T22:13:28Z"
     },
     {
@@ -27,38 +37,8 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
+      "timestamp": "2026-01-31T00:30:14Z",
       "reported_at": "2026-01-30T23:09:42Z"
-    },
-    {
-      "id": "f760885a-b939-4497-acff-66351c8112ef",
-      "latitude": -35.093193,
-      "longitude": 138.554402,
-      "street": "Reynell Rd",
-      "city": "Reynella East",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T21:24:09Z"
-    },
-    {
-      "id": "b799aa9c-6888-4cce-acc4-69caa42e9288",
-      "latitude": -34.664728,
-      "longitude": 138.662591,
-      "street": "Curtis Rd",
-      "city": "Munno Para West",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T23:36:04Z"
-    },
-    {
-      "id": "0029d131-96c7-45cc-ae92-b6b3762f02b0",
-      "latitude": -34.82947,
-      "longitude": 138.665528,
-      "street": "Montague Rd",
-      "city": "Para Vista",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T23:26:48Z"
     },
     {
       "id": "1ccb0492-48e2-43fc-a69f-e088c2137669",
@@ -67,38 +47,58 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
+      "timestamp": "2026-01-31T00:30:14Z",
       "reported_at": "2026-01-30T23:08:17Z"
     },
     {
-      "id": "a905500a-9c18-47e9-a1d9-1b1fbe36547e",
-      "latitude": -34.81686,
-      "longitude": 138.501151,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
+      "id": "d11bbbc0-d491-45d2-80e0-b0b086542ee3",
+      "latitude": -34.862913,
+      "longitude": 138.508874,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T23:47:59Z"
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-31T00:11:26Z"
     },
     {
-      "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
-      "latitude": -35.022047,
-      "longitude": 138.804805,
+      "id": "d4ad603f-4abc-44f6-9ae4-068b51c34ef5",
+      "latitude": -34.734058,
+      "longitude": 138.661367,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-31T00:21:51Z"
+    },
+    {
+      "id": "3762fa29-8307-4623-9f27-ce7802cf280f",
+      "latitude": -35.029833,
+      "longitude": 138.531758,
+      "street": "Seacombe Rd",
+      "city": "South Brighton",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-31T00:13:08Z"
+    },
+    {
+      "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
+      "latitude": -35.022015,
+      "longitude": 138.804782,
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T22:56:40Z"
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-30T21:04:24Z"
     },
     {
-      "id": "1cf2d8e0-2d5b-4daa-8976-7c8c38a33dfc",
-      "latitude": -34.950446,
-      "longitude": 138.575808,
-      "street": "A5 - Anzac Hwy",
-      "city": "Everard Park",
+      "id": "d37ae948-253f-4c38-a9c8-e0259588ca2d",
+      "latitude": -35.052559,
+      "longitude": 138.760059,
+      "street": "B33 - Strathalbyn Rd",
+      "city": "Mylor",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:00:15Z",
-      "reported_at": "2026-01-30T23:37:40Z"
+      "timestamp": "2026-01-31T00:30:14Z",
+      "reported_at": "2026-01-30T23:02:26Z"
     }
   ]
 }
