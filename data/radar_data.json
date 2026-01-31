@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "ce17b042-551b-404f-abf5-defc93338aee",
-      "latitude": -34.747573,
-      "longitude": 138.646276,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
-      "reported_at": "2026-01-31T00:18:47Z"
-    },
-    {
       "id": "f760885a-b939-4497-acff-66351c8112ef",
       "latitude": -35.093193,
       "longitude": 138.554402,
       "street": "Reynell Rd",
       "city": "Reynella East",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
+      "timestamp": "2026-01-31T01:00:16Z",
       "reported_at": "2026-01-30T21:24:09Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Sherebrooke Bvd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
+      "timestamp": "2026-01-31T01:00:16Z",
       "reported_at": "2026-01-30T22:13:28Z"
     },
     {
@@ -37,8 +27,28 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
+      "timestamp": "2026-01-31T01:00:16Z",
       "reported_at": "2026-01-30T23:09:42Z"
+    },
+    {
+      "id": "73e8ea35-7d82-4243-93c5-1e0001fa024c",
+      "latitude": -34.745705,
+      "longitude": 138.647453,
+      "street": "Kettering Rd",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-01-31T01:00:16Z",
+      "reported_at": "2026-01-31T00:52:33Z"
+    },
+    {
+      "id": "befae48d-f6d7-48a1-83ff-da335901a9ad",
+      "latitude": -34.920676,
+      "longitude": 138.593194,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-31T01:00:16Z",
+      "reported_at": "2026-01-31T00:36:16Z"
     },
     {
       "id": "1ccb0492-48e2-43fc-a69f-e088c2137669",
@@ -47,38 +57,8 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
+      "timestamp": "2026-01-31T01:00:16Z",
       "reported_at": "2026-01-30T23:08:17Z"
-    },
-    {
-      "id": "d11bbbc0-d491-45d2-80e0-b0b086542ee3",
-      "latitude": -34.862913,
-      "longitude": 138.508874,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
-      "reported_at": "2026-01-31T00:11:26Z"
-    },
-    {
-      "id": "d4ad603f-4abc-44f6-9ae4-068b51c34ef5",
-      "latitude": -34.734058,
-      "longitude": 138.661367,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
-      "reported_at": "2026-01-31T00:21:51Z"
-    },
-    {
-      "id": "3762fa29-8307-4623-9f27-ce7802cf280f",
-      "latitude": -35.029833,
-      "longitude": 138.531758,
-      "street": "Seacombe Rd",
-      "city": "South Brighton",
-      "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
-      "reported_at": "2026-01-31T00:13:08Z"
     },
     {
       "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
@@ -87,7 +67,7 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
+      "timestamp": "2026-01-31T01:00:16Z",
       "reported_at": "2026-01-30T21:04:24Z"
     },
     {
@@ -97,8 +77,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Mylor",
       "type": "mobile",
-      "timestamp": "2026-01-31T00:30:14Z",
+      "timestamp": "2026-01-31T01:00:16Z",
       "reported_at": "2026-01-30T23:02:26Z"
+    },
+    {
+      "id": "4925d265-2a41-400a-994a-d7c1660173cc",
+      "latitude": -34.855836,
+      "longitude": 138.658078,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-01-31T01:00:16Z",
+      "reported_at": "2026-01-31T00:53:47Z"
+    },
+    {
+      "id": "b001f11e-c7d1-47fe-ab75-b0ab417f81ff",
+      "latitude": -34.91197,
+      "longitude": 138.564561,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2026-01-31T01:00:16Z",
+      "reported_at": "2026-01-31T00:21:11Z"
     }
   ]
 }
