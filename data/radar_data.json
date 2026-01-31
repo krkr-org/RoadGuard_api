@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "a27a6ce5-5e80-41f0-8477-6966bd0c6316",
+      "latitude": -34.898805,
+      "longitude": 138.63697,
+      "street": "A11 - Payneham Rd",
+      "city": "Royston Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T18:30:15Z",
+      "reported_at": "2026-01-31T18:01:20Z"
+    },
+    {
+      "id": "fc055466-7457-4d4a-8b11-d1f96a917581",
+      "latitude": -34.671715,
+      "longitude": 138.651291,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-01-31T18:30:15Z",
+      "reported_at": "2026-01-31T16:35:25Z"
+    }
+  ]
 }
