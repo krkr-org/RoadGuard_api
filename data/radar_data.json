@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "004afd56-e55c-41da-8e02-3ba2127ceb80",
-      "latitude": -35.093191,
-      "longitude": 138.554453,
-      "street": "Reynell Rd",
-      "city": "Reynella East",
+      "id": "f339c6de-e18f-4805-9692-c19f7d228b2e",
+      "latitude": -34.931882,
+      "longitude": 138.498004,
+      "street": "Seaview Rd",
+      "city": "Henley Beach South",
       "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
-      "reported_at": "2026-01-30T21:16:38Z"
-    },
-    {
-      "id": "d8039ed8-1730-4f0a-b274-411bb3dd7b45",
-      "latitude": -34.831364,
-      "longitude": 138.562693,
-      "street": "to M2 - North South Mwy to Regency Park / City",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
-      "reported_at": "2026-01-30T23:11:59Z"
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T23:36:18Z"
     },
     {
       "id": "8245b075-0f08-44ec-94c8-40c7bbec18c1",
@@ -27,8 +17,38 @@
       "street": "Sherebrooke Bvd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
+      "timestamp": "2026-01-31T00:00:15Z",
       "reported_at": "2026-01-30T22:13:28Z"
+    },
+    {
+      "id": "58e7e700-13b3-4521-b45e-03e3664eb049",
+      "latitude": -35.024499,
+      "longitude": 138.793535,
+      "street": "River Rd",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T23:09:42Z"
+    },
+    {
+      "id": "f760885a-b939-4497-acff-66351c8112ef",
+      "latitude": -35.093193,
+      "longitude": 138.554402,
+      "street": "Reynell Rd",
+      "city": "Reynella East",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T21:24:09Z"
+    },
+    {
+      "id": "b799aa9c-6888-4cce-acc4-69caa42e9288",
+      "latitude": -34.664728,
+      "longitude": 138.662591,
+      "street": "Curtis Rd",
+      "city": "Munno Para West",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T23:36:04Z"
     },
     {
       "id": "0029d131-96c7-45cc-ae92-b6b3762f02b0",
@@ -37,28 +57,28 @@
       "street": "Montague Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
+      "timestamp": "2026-01-31T00:00:15Z",
       "reported_at": "2026-01-30T23:26:48Z"
     },
     {
-      "id": "dc563606-7050-446d-99e1-55206d684026",
-      "latitude": -34.897793,
-      "longitude": 138.490025,
-      "street": "Military Rd",
-      "city": "Grange",
+      "id": "1ccb0492-48e2-43fc-a69f-e088c2137669",
+      "latitude": -35.146828,
+      "longitude": 138.531416,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
-      "reported_at": "2026-01-30T23:10:48Z"
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T23:08:17Z"
     },
     {
-      "id": "595f4b3b-8f23-4686-8434-ced84b682aae",
-      "latitude": -34.907672,
-      "longitude": 138.514409,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
+      "id": "a905500a-9c18-47e9-a1d9-1b1fbe36547e",
+      "latitude": -34.81686,
+      "longitude": 138.501151,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
       "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
-      "reported_at": "2026-01-30T23:15:12Z"
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T23:47:59Z"
     },
     {
       "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
@@ -67,8 +87,18 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-30T23:30:15Z",
+      "timestamp": "2026-01-31T00:00:15Z",
       "reported_at": "2026-01-30T22:56:40Z"
+    },
+    {
+      "id": "1cf2d8e0-2d5b-4daa-8976-7c8c38a33dfc",
+      "latitude": -34.950446,
+      "longitude": 138.575808,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T00:00:15Z",
+      "reported_at": "2026-01-30T23:37:40Z"
     }
   ]
 }
