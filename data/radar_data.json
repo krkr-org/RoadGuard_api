@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "d797f1d6-0b9a-4cfb-9d13-8887dc215979",
+      "latitude": -35.087756,
+      "longitude": 138.500835,
+      "street": "Skipper Cl",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:50:12Z"
+    },
+    {
+      "id": "004afd56-e55c-41da-8e02-3ba2127ceb80",
+      "latitude": -35.093191,
+      "longitude": 138.554453,
+      "street": "Reynell Rd",
+      "city": "Reynella East",
+      "type": "mobile",
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-30T21:16:38Z"
+    },
+    {
+      "id": "73c00660-c449-44ee-913d-6a73fde15e16",
+      "latitude": -35.010961,
+      "longitude": 138.579459,
+      "street": "to Ayliffes Rd / Goodwood Rd",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:48:23Z"
+    },
+    {
       "id": "58e7e700-13b3-4521-b45e-03e3664eb049",
       "latitude": -35.024499,
       "longitude": 138.793535,
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
+      "timestamp": "2026-01-31T02:00:17Z",
       "reported_at": "2026-01-30T23:09:42Z"
-    },
-    {
-      "id": "f760885a-b939-4497-acff-66351c8112ef",
-      "latitude": -35.093193,
-      "longitude": 138.554402,
-      "street": "Reynell Rd",
-      "city": "Reynella East",
-      "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-30T21:24:09Z"
     },
     {
       "id": "8245b075-0f08-44ec-94c8-40c7bbec18c1",
@@ -27,38 +47,38 @@
       "street": "Sherebrooke Bvd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
+      "timestamp": "2026-01-31T02:00:17Z",
       "reported_at": "2026-01-30T22:13:28Z"
     },
     {
-      "id": "bc0ab989-6e04-4a52-89ce-206fc573699b",
-      "latitude": -34.817537,
-      "longitude": 138.637097,
-      "street": "Research Rd",
-      "city": "Pooraka",
+      "id": "5bd01c3e-2768-4fa7-ac7c-59c665a885ff",
+      "latitude": -35.110481,
+      "longitude": 138.499112,
+      "street": "Waddikee Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-31T01:00:01Z"
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:09:52Z"
     },
     {
-      "id": "73e8ea35-7d82-4243-93c5-1e0001fa024c",
-      "latitude": -34.745705,
-      "longitude": 138.647453,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
+      "id": "d3535077-c717-418a-b7e7-271029459912",
+      "latitude": -35.146868,
+      "longitude": 138.53067,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-31T00:52:33Z"
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:48:16Z"
     },
     {
-      "id": "2f6bbdc6-f48b-439a-86dc-e89f3434ef12",
-      "latitude": -34.980309,
-      "longitude": 138.56225,
-      "street": "Raglan Av",
-      "city": "South Plympton",
+      "id": "77672438-58cb-4471-b2da-de849dfcac8c",
+      "latitude": -35.010908,
+      "longitude": 138.582355,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-31T01:25:06Z"
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:48:04Z"
     },
     {
       "id": "14f9c2ab-08c6-409f-a806-1b96446c0d01",
@@ -67,38 +87,18 @@
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
+      "timestamp": "2026-01-31T02:00:17Z",
       "reported_at": "2026-01-31T01:26:43Z"
     },
     {
-      "id": "1ccb0492-48e2-43fc-a69f-e088c2137669",
-      "latitude": -35.146828,
-      "longitude": 138.531416,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
+      "id": "55e507b7-270e-4e39-8f66-f841a23450e8",
+      "latitude": -34.980371,
+      "longitude": 138.561167,
+      "street": "Raglan Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-30T23:08:17Z"
-    },
-    {
-      "id": "d37ae948-253f-4c38-a9c8-e0259588ca2d",
-      "latitude": -35.052559,
-      "longitude": 138.760059,
-      "street": "B33 - Strathalbyn Rd",
-      "city": "Mylor",
-      "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-30T23:02:26Z"
-    },
-    {
-      "id": "bbae14b4-fa6d-4d21-9fa9-07f029f7f1d2",
-      "latitude": -34.958256,
-      "longitude": 138.563509,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
-      "reported_at": "2026-01-31T01:04:52Z"
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:33:31Z"
     },
     {
       "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
@@ -107,8 +107,28 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T01:30:16Z",
+      "timestamp": "2026-01-31T02:00:17Z",
       "reported_at": "2026-01-30T22:56:40Z"
+    },
+    {
+      "id": "d37ae948-253f-4c38-a9c8-e0259588ca2d",
+      "latitude": -35.052559,
+      "longitude": 138.760059,
+      "street": "B33 - Strathalbyn Rd",
+      "city": "Mylor",
+      "type": "mobile",
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-30T23:02:26Z"
+    },
+    {
+      "id": "0e3e6575-c82b-4e5c-b4e2-f0142cb752b5",
+      "latitude": -35.024803,
+      "longitude": 138.558209,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-31T02:00:17Z",
+      "reported_at": "2026-01-31T01:38:17Z"
     }
   ]
 }
