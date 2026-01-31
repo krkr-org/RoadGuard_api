@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "e8d3eae6-6af2-4078-ad92-3fa976e5a36a",
-      "latitude": -35.076464,
-      "longitude": 138.543907,
-      "street": "to A13 - Main South Rd / Panalatinga Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
-      "reported_at": "2026-01-31T04:20:57Z"
-    },
-    {
       "id": "3456c448-c0f4-48b1-97e1-03bc50b57eb5",
       "latitude": -34.768074,
       "longitude": 138.701054,
       "street": "Target Hill Rd",
       "city": "Greenwith",
       "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
+      "timestamp": "2026-01-31T05:00:16Z",
       "reported_at": "2026-01-31T03:57:12Z"
-    },
-    {
-      "id": "5bd01c3e-2768-4fa7-ac7c-59c665a885ff",
-      "latitude": -35.110481,
-      "longitude": 138.499112,
-      "street": "Waddikee Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
-      "reported_at": "2026-01-31T01:09:52Z"
-    },
-    {
-      "id": "e01b0803-aa9d-4afd-84a5-e576ddb9fff2",
-      "latitude": -34.962959,
-      "longitude": 138.563563,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
-      "reported_at": "2026-01-31T04:11:58Z"
     },
     {
       "id": "581f939b-f559-49c7-9830-ee65faffe12c",
@@ -47,38 +17,98 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
+      "timestamp": "2026-01-31T05:00:16Z",
       "reported_at": "2026-01-31T03:47:10Z"
     },
     {
-      "id": "a44687cb-8e1c-4cd5-a9b2-a1337ce19be9",
-      "latitude": -34.917045,
-      "longitude": 138.589955,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "5bd01c3e-2768-4fa7-ac7c-59c665a885ff",
+      "latitude": -35.110481,
+      "longitude": 138.499112,
+      "street": "Waddikee Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
-      "reported_at": "2026-01-31T00:20:47Z"
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T01:09:52Z"
     },
     {
-      "id": "48429b89-ab1c-4068-a7e3-f031067c41c6",
-      "latitude": -34.994947,
-      "longitude": 138.592992,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "29e3d4e1-05b3-494b-aa7f-4b07765d57ab",
+      "latitude": -34.963595,
+      "longitude": 138.56361,
+      "street": "Winifred Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
-      "reported_at": "2026-01-31T04:13:01Z"
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T01:47:08Z"
     },
     {
-      "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
-      "latitude": -35.022047,
-      "longitude": 138.804805,
+      "id": "86dc800a-3f21-4270-93f8-13199eacd8db",
+      "latitude": -34.87027,
+      "longitude": 138.665968,
+      "street": "Darley Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T04:51:28Z"
+    },
+    {
+      "id": "82d3934b-d27d-40bd-bec7-bc00cefc11d2",
+      "latitude": -35.011182,
+      "longitude": 138.578084,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T04:37:37Z"
+    },
+    {
+      "id": "40119954-e6d1-45e0-93d6-4154e52eec32",
+      "latitude": -34.826806,
+      "longitude": 138.679597,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T04:40:51Z"
+    },
+    {
+      "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
+      "latitude": -35.022015,
+      "longitude": 138.804782,
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T04:30:14Z",
-      "reported_at": "2026-01-30T22:56:40Z"
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-30T21:04:24Z"
+    },
+    {
+      "id": "f9326dfe-cb22-4f09-8a49-faab9b72a982",
+      "latitude": -34.8817,
+      "longitude": 138.537027,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
+      "type": "mobile",
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T04:26:37Z"
+    },
+    {
+      "id": "0612c746-30d2-4e8b-8ec9-5910742fff4d",
+      "latitude": -34.840415,
+      "longitude": 138.711907,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T04:51:56Z"
+    },
+    {
+      "id": "60cd2feb-47be-426e-ba37-3cb5e065e467",
+      "latitude": -34.846662,
+      "longitude": 138.63969,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-01-31T05:00:16Z",
+      "reported_at": "2026-01-31T04:43:01Z"
     }
   ]
 }
