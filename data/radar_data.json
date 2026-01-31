@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "256757d1-8d2c-43c4-8d4c-80f5cf9d5cfb",
-      "latitude": -35.093244,
-      "longitude": 138.553415,
+      "id": "004afd56-e55c-41da-8e02-3ba2127ceb80",
+      "latitude": -35.093191,
+      "longitude": 138.554453,
       "street": "Reynell Rd",
       "city": "Reynella East",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
-      "reported_at": "2026-01-31T02:05:22Z"
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-30T21:16:38Z"
     },
     {
-      "id": "29e3d4e1-05b3-494b-aa7f-4b07765d57ab",
-      "latitude": -34.963595,
-      "longitude": 138.56361,
-      "street": "Winifred Av",
-      "city": "South Plympton",
+      "id": "3456c448-c0f4-48b1-97e1-03bc50b57eb5",
+      "latitude": -34.768074,
+      "longitude": 138.701054,
+      "street": "Target Hill Rd",
+      "city": "Greenwith",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
-      "reported_at": "2026-01-31T01:47:08Z"
-    },
-    {
-      "id": "a863c2e7-65cd-4dce-a383-4afc03f8d3ee",
-      "latitude": -34.928692,
-      "longitude": 138.542984,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
-      "reported_at": "2026-01-31T02:56:51Z"
-    },
-    {
-      "id": "a44687cb-8e1c-4cd5-a9b2-a1337ce19be9",
-      "latitude": -34.917045,
-      "longitude": 138.589955,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
-      "reported_at": "2026-01-31T00:20:47Z"
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-31T03:57:12Z"
     },
     {
       "id": "5bd01c3e-2768-4fa7-ac7c-59c665a885ff",
@@ -47,18 +27,48 @@
       "street": "Waddikee Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
+      "timestamp": "2026-01-31T04:00:17Z",
       "reported_at": "2026-01-31T01:09:52Z"
     },
     {
-      "id": "64cb8468-b261-44cf-9dcc-8e9cce315fc2",
-      "latitude": -35.022015,
-      "longitude": 138.804782,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
+      "id": "29e3d4e1-05b3-494b-aa7f-4b07765d57ab",
+      "latitude": -34.963595,
+      "longitude": 138.56361,
+      "street": "Winifred Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
-      "reported_at": "2026-01-30T21:04:24Z"
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-31T01:47:08Z"
+    },
+    {
+      "id": "a44687cb-8e1c-4cd5-a9b2-a1337ce19be9",
+      "latitude": -34.917045,
+      "longitude": 138.589955,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-31T00:20:47Z"
+    },
+    {
+      "id": "a9c96429-9cba-4db0-a825-416e8be86815",
+      "latitude": -34.709945,
+      "longitude": 138.779979,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Yattalunga",
+      "type": "mobile",
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-31T03:33:59Z"
+    },
+    {
+      "id": "d5f70346-7f04-4669-8346-e5a1d8eb8579",
+      "latitude": -35.043432,
+      "longitude": 138.53088,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-31T03:45:03Z"
     },
     {
       "id": "d37ae948-253f-4c38-a9c8-e0259588ca2d",
@@ -67,8 +77,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Mylor",
       "type": "mobile",
-      "timestamp": "2026-01-31T03:30:15Z",
+      "timestamp": "2026-01-31T04:00:17Z",
       "reported_at": "2026-01-30T23:02:26Z"
+    },
+    {
+      "id": "edf5f9c0-edef-4839-99fd-5146d3b20e1c",
+      "latitude": -35.024745,
+      "longitude": 138.621912,
+      "street": "B29 - Main Rd",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-31T03:28:54Z"
+    },
+    {
+      "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
+      "latitude": -35.022047,
+      "longitude": 138.804805,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-01-31T04:00:17Z",
+      "reported_at": "2026-01-30T22:56:40Z"
     }
   ]
 }
