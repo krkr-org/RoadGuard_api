@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "3456c448-c0f4-48b1-97e1-03bc50b57eb5",
-      "latitude": -34.768074,
-      "longitude": 138.701054,
-      "street": "Target Hill Rd",
-      "city": "Greenwith",
+      "id": "d5a46c36-4027-4ffa-9a62-eb0640dc7c6f",
+      "latitude": -34.848668,
+      "longitude": 138.702062,
+      "street": "Valley Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T03:57:12Z"
-    },
-    {
-      "id": "581f939b-f559-49c7-9830-ee65faffe12c",
-      "latitude": -35.026501,
-      "longitude": 138.792809,
-      "street": "River Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T03:47:10Z"
-    },
-    {
-      "id": "e01b0803-aa9d-4afd-84a5-e576ddb9fff2",
-      "latitude": -34.962959,
-      "longitude": 138.563563,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T04:11:58Z"
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T06:02:54Z"
     },
     {
       "id": "e9b1b977-f3fa-4957-88c0-440be612af92",
@@ -37,8 +17,58 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
+      "timestamp": "2026-01-31T07:30:15Z",
       "reported_at": "2026-01-31T06:19:59Z"
+    },
+    {
+      "id": "3456c448-c0f4-48b1-97e1-03bc50b57eb5",
+      "latitude": -34.768074,
+      "longitude": 138.701054,
+      "street": "Target Hill Rd",
+      "city": "Greenwith",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T03:57:12Z"
+    },
+    {
+      "id": "e01b0803-aa9d-4afd-84a5-e576ddb9fff2",
+      "latitude": -34.962959,
+      "longitude": 138.563563,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T04:11:58Z"
+    },
+    {
+      "id": "96a9b610-65b8-4b94-bd11-b298d7278d87",
+      "latitude": -34.861045,
+      "longitude": 138.6798,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T05:20:47Z"
+    },
+    {
+      "id": "581f939b-f559-49c7-9830-ee65faffe12c",
+      "latitude": -35.026501,
+      "longitude": 138.792809,
+      "street": "River Rd",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T03:47:10Z"
+    },
+    {
+      "id": "a279dffb-d550-4de6-9d7f-2a591a963d0a",
+      "latitude": -34.916789,
+      "longitude": 138.493539,
+      "street": "Seaview Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T07:19:42Z"
     },
     {
       "id": "794a3ead-8746-4160-a451-77f5182b5d6e",
@@ -47,48 +77,38 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
+      "timestamp": "2026-01-31T07:30:15Z",
       "reported_at": "2026-01-31T06:36:23Z"
     },
     {
-      "id": "d57cef4a-4036-4b13-b443-ebe9b7dcb3cf",
-      "latitude": -34.846391,
-      "longitude": 138.69414,
+      "id": "2d481a61-7b4e-40e1-a54e-6e25e52de924",
+      "latitude": -34.866293,
+      "longitude": 138.479928,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T05:48:51Z"
+    },
+    {
+      "id": "32df0f52-596f-4989-b54a-af04f2199e68",
+      "latitude": -34.870775,
+      "longitude": 138.666414,
+      "street": "Darley Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T07:10:55Z"
+    },
+    {
+      "id": "57dbe919-6b08-47b3-a0e8-86b1d52feb67",
+      "latitude": -34.848976,
+      "longitude": 138.694018,
       "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T05:39:02Z"
-    },
-    {
-      "id": "d7bd11b3-42e2-41fe-9c6d-409798c6b419",
-      "latitude": -34.829175,
-      "longitude": 138.668718,
-      "street": "Montague Rd",
-      "city": "Modbury North",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T06:43:11Z"
-    },
-    {
-      "id": "eb94e498-cbdb-4002-b131-f610e7c5bad1",
-      "latitude": -34.992469,
-      "longitude": 138.583797,
-      "street": "Daws Rd",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T06:22:16Z"
-    },
-    {
-      "id": "92b09793-a6a0-4d23-b300-dc0d5ffbc7cb",
-      "latitude": -35.058512,
-      "longitude": 138.613448,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T06:37:49Z"
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T05:20:34Z"
     },
     {
       "id": "e0a1a87c-2536-4d09-9d47-7055087f2c3e",
@@ -97,18 +117,28 @@
       "street": "Montague Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
+      "timestamp": "2026-01-31T07:30:15Z",
       "reported_at": "2026-01-31T05:06:45Z"
     },
     {
-      "id": "1d94e424-449b-4fff-8592-75aa7c2fc426",
-      "latitude": -34.919101,
-      "longitude": 138.579357,
-      "street": "Port Rd",
-      "city": "Adelaide",
+      "id": "3103ad7d-41f2-494c-b69f-4d5d4eb57c7c",
+      "latitude": -34.829057,
+      "longitude": 138.67132,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T06:47:07Z"
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T06:37:42Z"
+    },
+    {
+      "id": "eb94e498-cbdb-4002-b131-f610e7c5bad1",
+      "latitude": -34.992469,
+      "longitude": 138.583797,
+      "street": "Daws Rd",
+      "city": "Daw Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T06:22:16Z"
     },
     {
       "id": "8494f441-174b-4dd1-9da0-7c3b5e34075a",
@@ -117,38 +147,18 @@
       "street": "Commercial Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
+      "timestamp": "2026-01-31T07:30:15Z",
       "reported_at": "2026-01-31T06:22:23Z"
     },
     {
-      "id": "a29781a6-2c28-48b4-bfe6-4cac610bf283",
-      "latitude": -34.840339,
-      "longitude": 138.712743,
+      "id": "454ad2c6-37d7-4473-9369-092ca805e02d",
+      "latitude": -34.841266,
+      "longitude": 138.708324,
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T06:34:35Z"
-    },
-    {
-      "id": "97026b4f-6f36-4b8e-8aad-14f1911e557a",
-      "latitude": -34.859367,
-      "longitude": 138.686036,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T05:18:41Z"
-    },
-    {
-      "id": "c81b1586-d758-4850-b858-4aea2e38ac53",
-      "latitude": -35.022933,
-      "longitude": 138.80543,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
-      "reported_at": "2026-01-31T04:40:49Z"
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T04:57:20Z"
     },
     {
       "id": "18ec8de6-be9a-4086-94b9-bcaf5f34eee0",
@@ -157,8 +167,28 @@
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
+      "timestamp": "2026-01-31T07:30:15Z",
       "reported_at": "2026-01-31T06:41:09Z"
+    },
+    {
+      "id": "f836e03f-9327-41f3-996e-1f7c1aeada36",
+      "latitude": -34.968733,
+      "longitude": 138.547331,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T06:52:23Z"
+    },
+    {
+      "id": "793f36cf-4d4d-408f-9ca1-368cbddf694d",
+      "latitude": -34.859774,
+      "longitude": 138.685643,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T05:52:24Z"
     },
     {
       "id": "de29acf9-5417-4242-9b0d-df7435627b3c",
@@ -167,8 +197,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-01-31T07:00:19Z",
+      "timestamp": "2026-01-31T07:30:15Z",
       "reported_at": "2026-01-31T05:58:42Z"
+    },
+    {
+      "id": "fb9cd222-339f-4692-9941-0ad873fef462",
+      "latitude": -34.969907,
+      "longitude": 138.545537,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T07:00:50Z"
+    },
+    {
+      "id": "21436808-6efd-430f-bca2-aa15c9dcdc83",
+      "latitude": -35.032471,
+      "longitude": 138.555382,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-01-31T07:30:15Z",
+      "reported_at": "2026-01-31T07:11:25Z"
     }
   ]
 }
