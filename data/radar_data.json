@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "da136c43-e83f-4510-baa8-0ca91b7f3440",
-      "latitude": -34.849507,
-      "longitude": 138.702131,
-      "street": "Valley Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T06:31:26Z"
-    },
-    {
       "id": "ec07680e-4ad3-411f-ac8a-21df7cacc494",
       "latitude": -34.862614,
       "longitude": 138.679939,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T08:24:05Z"
+    },
+    {
+      "id": "5fc23b14-a8a8-4013-993d-0ee5e1b4f3b2",
+      "latitude": -34.907037,
+      "longitude": 138.581838,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T09:28:00Z"
     },
     {
       "id": "8b7c109a-ee46-4c97-97e3-4507a5efb7a6",
@@ -27,8 +27,18 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T08:48:07Z"
+    },
+    {
+      "id": "da136c43-e83f-4510-baa8-0ca91b7f3440",
+      "latitude": -34.849507,
+      "longitude": 138.702131,
+      "street": "Valley Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T06:31:26Z"
     },
     {
       "id": "794a3ead-8746-4160-a451-77f5182b5d6e",
@@ -37,48 +47,38 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T06:36:23Z"
     },
     {
-      "id": "86dc800a-3f21-4270-93f8-13199eacd8db",
-      "latitude": -34.87044,
-      "longitude": 138.666118,
+      "id": "635a9b66-0dd4-4d26-85f2-f36d2c4d60d1",
+      "latitude": -34.885493,
+      "longitude": 138.486583,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T08:56:59Z"
+    },
+    {
+      "id": "0d5f2fc8-70fd-4414-b16f-d57a6f8507b0",
+      "latitude": -34.869522,
+      "longitude": 138.665307,
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T04:51:28Z"
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T06:39:49Z"
     },
     {
-      "id": "fb31d080-2cfd-43b0-a124-ca64c3cf41b2",
-      "latitude": -34.849558,
-      "longitude": 138.694063,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T05:50:05Z"
-    },
-    {
-      "id": "e0a1a87c-2536-4d09-9d47-7055087f2c3e",
-      "latitude": -34.82953,
-      "longitude": 138.664623,
-      "street": "Montague Rd",
-      "city": "Para Vista",
-      "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T05:06:45Z"
-    },
-    {
-      "id": "3103ad7d-41f2-494c-b69f-4d5d4eb57c7c",
-      "latitude": -34.829057,
-      "longitude": 138.67132,
+      "id": "fc12d575-6291-4884-90e4-24ae50415661",
+      "latitude": -34.829263,
+      "longitude": 138.668966,
       "street": "Montague Rd",
       "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T06:37:42Z"
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T07:30:35Z"
     },
     {
       "id": "35538b57-ba3d-4fc9-88e5-0d7980e8ea77",
@@ -87,48 +87,28 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T08:46:30Z"
     },
     {
-      "id": "16496bac-38ba-4e62-a4d3-b4407abfa6f0",
-      "latitude": -34.9074,
-      "longitude": 138.574826,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T07:32:14Z"
-    },
-    {
-      "id": "13911cf3-3f59-4c6d-8172-377f027cf44d",
-      "latitude": -34.881082,
-      "longitude": 138.535245,
-      "street": "A7 - Port Rd",
-      "city": "Woodville South",
-      "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T08:38:15Z"
-    },
-    {
-      "id": "e8891ca1-4492-4e89-a7f2-f1b4adae06d3",
-      "latitude": -34.840386,
-      "longitude": 138.712226,
-      "street": "A16 - Grand Junction Rd",
+      "id": "57dbe919-6b08-47b3-a0e8-86b1d52feb67",
+      "latitude": -34.848976,
+      "longitude": 138.694018,
+      "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T05:27:09Z"
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T05:20:34Z"
     },
     {
-      "id": "793f36cf-4d4d-408f-9ca1-368cbddf694d",
-      "latitude": -34.859774,
-      "longitude": 138.685643,
+      "id": "97026b4f-6f36-4b8e-8aad-14f1911e557a",
+      "latitude": -34.859367,
+      "longitude": 138.686036,
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
-      "reported_at": "2026-01-31T05:52:24Z"
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T05:18:41Z"
     },
     {
       "id": "de29acf9-5417-4242-9b0d-df7435627b3c",
@@ -137,7 +117,7 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T05:58:42Z"
     },
     {
@@ -147,8 +127,18 @@
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T06:41:09Z"
+    },
+    {
+      "id": "feb246bd-a620-474c-8f7c-b87973e04a12",
+      "latitude": -34.868017,
+      "longitude": 138.601641,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T09:05:57Z"
     },
     {
       "id": "47d323a2-918b-4c31-80fb-e66d976ad1b3",
@@ -157,8 +147,28 @@
       "street": "B28 - Fullarton Rd",
       "city": "Highgate",
       "type": "mobile",
-      "timestamp": "2026-01-31T09:00:16Z",
+      "timestamp": "2026-01-31T09:30:15Z",
       "reported_at": "2026-01-31T08:51:05Z"
+    },
+    {
+      "id": "e8891ca1-4492-4e89-a7f2-f1b4adae06d3",
+      "latitude": -34.840386,
+      "longitude": 138.712226,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T05:27:09Z"
+    },
+    {
+      "id": "81418fd6-fbdf-4d65-8d66-7e1d4f3fd4da",
+      "latitude": -34.732357,
+      "longitude": 138.675811,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-01-31T09:30:15Z",
+      "reported_at": "2026-01-31T09:00:14Z"
     }
   ]
 }
