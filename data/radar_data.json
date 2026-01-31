@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "feccb197-f084-45af-a4f1-b06822352298",
+      "latitude": -34.862188,
+      "longitude": 138.679903,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:15:10Z"
+    },
+    {
       "id": "3456c448-c0f4-48b1-97e1-03bc50b57eb5",
       "latitude": -34.768074,
       "longitude": 138.701054,
       "street": "Target Hill Rd",
       "city": "Greenwith",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-31T03:57:12Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "River Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-31T03:47:10Z"
     },
     {
@@ -27,8 +37,18 @@
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-31T04:11:58Z"
+    },
+    {
+      "id": "1d10d7d6-ed9a-4fa6-9872-2ca4323f3c97",
+      "latitude": -34.866507,
+      "longitude": 138.479969,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:26:49Z"
     },
     {
       "id": "86dc800a-3f21-4270-93f8-13199eacd8db",
@@ -37,7 +57,7 @@
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-31T04:51:28Z"
     },
     {
@@ -47,18 +67,8 @@
       "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-31T05:20:34Z"
-    },
-    {
-      "id": "8d28a984-efdb-4302-88b7-482627c95ff1",
-      "latitude": -34.866079,
-      "longitude": 138.479997,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T04:58:33Z"
     },
     {
       "id": "e0a1a87c-2536-4d09-9d47-7055087f2c3e",
@@ -67,48 +77,68 @@
       "street": "Montague Rd",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-31T05:06:45Z"
     },
     {
-      "id": "e788412a-7c2b-45fd-b14d-0dbb6151db89",
-      "latitude": -34.886878,
-      "longitude": 138.486795,
-      "street": "Military Rd",
-      "city": "Tennyson",
+      "id": "2c3a719e-f03c-4ac7-9aa3-7bb1c701a1d7",
+      "latitude": -34.82926,
+      "longitude": 138.669021,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T05:13:04Z"
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:10:35Z"
     },
     {
-      "id": "2fd05638-948f-4037-8614-c6fb16d6cd8c",
-      "latitude": -34.976024,
-      "longitude": 138.537736,
-      "street": "Morphett Rd",
-      "city": "Morphettville",
+      "id": "b34c5388-6702-40ad-a4a6-a961a2cce4eb",
+      "latitude": -35.012156,
+      "longitude": 138.575585,
+      "street": "Main South Rd",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T05:07:00Z"
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:40:35Z"
     },
     {
-      "id": "97026b4f-6f36-4b8e-8aad-14f1911e557a",
-      "latitude": -34.859367,
-      "longitude": 138.686036,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
+      "id": "7b885fd2-a319-4932-8c80-3da651a616cf",
+      "latitude": -35.127137,
+      "longitude": 138.506548,
+      "street": "Flaxmill Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T05:18:41Z"
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:48:17Z"
     },
     {
-      "id": "8f6a5f9a-cba2-4045-802a-490454893463",
-      "latitude": -34.823468,
-      "longitude": 138.710441,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
+      "id": "1906879a-603c-4d4c-a298-037008cc05e2",
+      "latitude": -35.061431,
+      "longitude": 138.80377,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T05:10:49Z"
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:40:50Z"
+    },
+    {
+      "id": "e8891ca1-4492-4e89-a7f2-f1b4adae06d3",
+      "latitude": -34.840386,
+      "longitude": 138.712226,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:27:09Z"
+    },
+    {
+      "id": "21ffcf19-e15a-4b03-8408-bd00b537baec",
+      "latitude": -35.13937,
+      "longitude": 138.524536,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
+      "type": "mobile",
+      "timestamp": "2026-01-31T06:00:17Z",
+      "reported_at": "2026-01-31T05:34:15Z"
     },
     {
       "id": "51a57595-4904-4dfa-aaf2-0d5203dcea98",
@@ -117,28 +147,8 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
+      "timestamp": "2026-01-31T06:00:17Z",
       "reported_at": "2026-01-30T22:56:40Z"
-    },
-    {
-      "id": "454ad2c6-37d7-4473-9369-092ca805e02d",
-      "latitude": -34.841266,
-      "longitude": 138.708324,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T04:57:20Z"
-    },
-    {
-      "id": "63915cad-b7a5-4382-a462-b9402566f128",
-      "latitude": -34.85807,
-      "longitude": 138.565746,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-01-31T05:30:15Z",
-      "reported_at": "2026-01-31T05:24:24Z"
     }
   ]
 }
