@@ -1,13 +1,53 @@
 {
   "radars": [
     {
+      "id": "c6f9c1b6-b4ac-4d4b-afed-738c0d94ff9d",
+      "latitude": -34.724587,
+      "longitude": 138.641208,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-01-31T22:30:15Z",
+      "reported_at": "2026-01-31T21:54:50Z"
+    },
+    {
+      "id": "a8c095c2-adc7-4662-9624-2bef440f30e2",
+      "latitude": -34.861183,
+      "longitude": 138.568017,
+      "street": "to M2 - North South Mwy to City / Darlington",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-01-31T22:30:15Z",
+      "reported_at": "2026-01-31T21:56:43Z"
+    },
+    {
+      "id": "1b5ad264-2fe6-4a6f-9eeb-0a308336fdd8",
+      "latitude": -34.687859,
+      "longitude": 138.633687,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-01-31T22:30:15Z",
+      "reported_at": "2026-01-31T22:16:42Z"
+    },
+    {
+      "id": "23255384-4b7c-4d25-9308-d520e105479f",
+      "latitude": -35.014097,
+      "longitude": 138.697262,
+      "street": "B28 - Upper Sturt Rd",
+      "city": "Upper Sturt",
+      "type": "mobile",
+      "timestamp": "2026-01-31T22:30:15Z",
+      "reported_at": "2026-01-31T22:19:55Z"
+    },
+    {
       "id": "f5a9f16d-5942-4831-a6de-d498bfd7a049",
       "latitude": -35.0051,
       "longitude": 138.699535,
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-31T22:00:14Z",
+      "timestamp": "2026-01-31T22:30:15Z",
       "reported_at": "2026-01-31T20:53:38Z"
     }
   ]
