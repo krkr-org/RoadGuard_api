@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "c348885c-409c-493f-b3dc-8d631c23ad54",
-      "latitude": -34.857805,
-      "longitude": 138.494247,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
-      "reported_at": "2026-02-01T04:58:24Z"
-    },
-    {
       "id": "141a3b50-e9b0-420b-b88e-d30aac7a0dba",
       "latitude": -34.863963,
       "longitude": 138.565498,
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
+      "timestamp": "2026-02-01T06:30:14Z",
       "reported_at": "2026-02-01T05:01:51Z"
     },
     {
-      "id": "a58fb78e-fa13-4785-8e92-faf2f6da5172",
-      "latitude": -34.920555,
-      "longitude": 138.613124,
-      "street": "Botanic Rd",
-      "city": "Adelaide",
+      "id": "1e72d2b9-cb3e-47e1-a30f-e4a056d5fc43",
+      "latitude": -34.918523,
+      "longitude": 138.49465,
+      "street": "Military Rd",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
-      "reported_at": "2026-02-01T05:43:05Z"
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T06:21:25Z"
     },
     {
       "id": "db84f191-d5f6-4238-a7e8-c5cb27b38719",
@@ -37,28 +27,38 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
+      "timestamp": "2026-02-01T06:30:14Z",
       "reported_at": "2026-02-01T03:28:45Z"
     },
     {
-      "id": "60bfa6c0-a5e5-4b53-86e5-1b7d07e0bb12",
-      "latitude": -35.017599,
-      "longitude": 138.548525,
-      "street": "Sturt Rd",
-      "city": "Oaklands Park",
+      "id": "077381a3-781b-4faf-87cc-9ecea74f2dbb",
+      "latitude": -34.823024,
+      "longitude": 138.4914,
+      "street": "Military Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
-      "reported_at": "2026-02-01T05:40:03Z"
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T06:02:54Z"
     },
     {
-      "id": "69325a77-04f5-4b7d-8b07-99ffbb52cef6",
-      "latitude": -34.840938,
-      "longitude": 138.492604,
-      "street": "A16 - Causeway Rd",
-      "city": "Exeter",
+      "id": "dc3b6573-2e2c-4c0a-b3c8-0bede44a104a",
+      "latitude": -35.039765,
+      "longitude": 138.688521,
+      "street": "Ironbank Rd",
+      "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
-      "reported_at": "2026-02-01T05:26:13Z"
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T06:14:11Z"
+    },
+    {
+      "id": "f0cfec3b-864e-4aed-b326-6575c0d73165",
+      "latitude": -34.833593,
+      "longitude": 138.487846,
+      "street": "Woolnough Rd",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T05:51:47Z"
     },
     {
       "id": "5329b7ad-ce03-4d9f-9469-df1b7be0ad07",
@@ -67,8 +67,28 @@
       "street": "A7 - Commercial Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
+      "timestamp": "2026-02-01T06:30:14Z",
       "reported_at": "2026-02-01T04:47:57Z"
+    },
+    {
+      "id": "69325a77-04f5-4b7d-8b07-99ffbb52cef6",
+      "latitude": -34.840938,
+      "longitude": 138.492604,
+      "street": "A16 - Causeway Rd",
+      "city": "Exeter",
+      "type": "mobile",
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T05:26:13Z"
+    },
+    {
+      "id": "73f6e696-e5f5-4d49-ba53-fde4a0b17b39",
+      "latitude": -34.964695,
+      "longitude": 138.625387,
+      "street": "A3 - Cross Rd",
+      "city": "Highgate",
+      "type": "mobile",
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T06:05:00Z"
     },
     {
       "id": "3496fc8a-8bb4-4a2d-af6d-512bfee8b464",
@@ -77,8 +97,18 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
+      "timestamp": "2026-02-01T06:30:14Z",
       "reported_at": "2026-02-01T04:21:00Z"
+    },
+    {
+      "id": "84aa73eb-361f-490a-8495-0686331ba468",
+      "latitude": -34.786991,
+      "longitude": 138.639391,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-02-01T06:30:14Z",
+      "reported_at": "2026-02-01T06:16:11Z"
     },
     {
       "id": "562e148c-2b1e-40b0-a4e5-466f7ee45d36",
@@ -87,18 +117,8 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
+      "timestamp": "2026-02-01T06:30:14Z",
       "reported_at": "2026-02-01T04:42:35Z"
-    },
-    {
-      "id": "dbc5e70b-d09a-40c7-9bdd-30820a313a3f",
-      "latitude": -35.00627,
-      "longitude": 138.774317,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-02-01T06:00:16Z",
-      "reported_at": "2026-02-01T05:23:27Z"
     }
   ]
 }
