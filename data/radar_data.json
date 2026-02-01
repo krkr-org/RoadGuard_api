@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "0917dc9c-d461-4922-9d52-6f7a193e65f1",
-      "latitude": -34.727217,
-      "longitude": 138.639515,
+      "id": "c6f9c1b6-b4ac-4d4b-afed-738c0d94ff9d",
+      "latitude": -34.724587,
+      "longitude": 138.641208,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
-      "reported_at": "2026-01-31T21:23:35Z"
-    },
-    {
-      "id": "0c977ebe-da27-430e-bda1-bbb83c4f9f6a",
-      "latitude": -34.690402,
-      "longitude": 138.639597,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
-      "reported_at": "2026-01-31T22:23:42Z"
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T21:54:50Z"
     },
     {
       "id": "b602c3b3-9cba-4550-9408-0b95c8348a58",
@@ -27,18 +17,18 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
+      "timestamp": "2026-02-01T00:00:18Z",
       "reported_at": "2026-01-31T22:07:21Z"
     },
     {
-      "id": "215ec1ef-53ef-485b-999e-15dd8a8644b0",
-      "latitude": -34.755269,
-      "longitude": 138.63004,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "8a3d063b-5d80-479f-b99a-f7f22c3af253",
+      "latitude": -34.690992,
+      "longitude": 138.640979,
+      "street": "Womma Rd",
+      "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
-      "reported_at": "2026-01-31T23:03:53Z"
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T22:18:31Z"
     },
     {
       "id": "441edc97-8f8b-4463-93c1-3ea9006d3c10",
@@ -47,18 +37,38 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
+      "timestamp": "2026-02-01T00:00:18Z",
       "reported_at": "2026-01-31T22:52:05Z"
     },
     {
-      "id": "bddb72e5-0579-4460-a57c-6504e9b879e8",
-      "latitude": -35.004858,
-      "longitude": 138.699735,
+      "id": "215ec1ef-53ef-485b-999e-15dd8a8644b0",
+      "latitude": -34.755269,
+      "longitude": 138.63004,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T23:03:53Z"
+    },
+    {
+      "id": "1049d9e7-1f1e-4e91-b047-aaa8ca795852",
+      "latitude": -34.937926,
+      "longitude": 138.586694,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T23:38:42Z"
+    },
+    {
+      "id": "119e73d4-bf94-4a68-815b-c4fbfdf7fa15",
+      "latitude": -35.00344,
+      "longitude": 138.7009,
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
-      "reported_at": "2026-01-31T21:07:12Z"
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T23:34:06Z"
     },
     {
       "id": "23255384-4b7c-4d25-9308-d520e105479f",
@@ -67,8 +77,28 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Upper Sturt",
       "type": "mobile",
-      "timestamp": "2026-01-31T23:30:18Z",
+      "timestamp": "2026-02-01T00:00:18Z",
       "reported_at": "2026-01-31T22:19:55Z"
+    },
+    {
+      "id": "71866b8d-1703-4bd7-a30d-8d82cb8c7433",
+      "latitude": -34.949315,
+      "longitude": 138.630205,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T23:50:22Z"
+    },
+    {
+      "id": "fc6fbaa0-196d-4861-8e4c-c10f58591719",
+      "latitude": -34.959607,
+      "longitude": 138.733693,
+      "street": "B26 - Greenhill Rd",
+      "city": "Summertown",
+      "type": "mobile",
+      "timestamp": "2026-02-01T00:00:18Z",
+      "reported_at": "2026-01-31T22:22:26Z"
     }
   ]
 }
