@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "a3ce54e1-b55b-4b29-8d27-c765b0427d34",
-      "latitude": -34.860293,
-      "longitude": 138.490538,
+      "id": "c348885c-409c-493f-b3dc-8d631c23ad54",
+      "latitude": -34.857805,
+      "longitude": 138.494247,
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T04:56:48Z"
+      "timestamp": "2026-02-01T06:00:16Z",
+      "reported_at": "2026-02-01T04:58:24Z"
     },
     {
       "id": "141a3b50-e9b0-420b-b88e-d30aac7a0dba",
@@ -17,8 +17,18 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
+      "timestamp": "2026-02-01T06:00:16Z",
       "reported_at": "2026-02-01T05:01:51Z"
+    },
+    {
+      "id": "a58fb78e-fa13-4785-8e92-faf2f6da5172",
+      "latitude": -34.920555,
+      "longitude": 138.613124,
+      "street": "Botanic Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-01T06:00:16Z",
+      "reported_at": "2026-02-01T05:43:05Z"
     },
     {
       "id": "db84f191-d5f6-4238-a7e8-c5cb27b38719",
@@ -27,18 +37,28 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
+      "timestamp": "2026-02-01T06:00:16Z",
       "reported_at": "2026-02-01T03:28:45Z"
     },
     {
-      "id": "db53b489-24d8-4fe3-8c77-563201438bba",
-      "latitude": -34.688464,
-      "longitude": 138.669804,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
+      "id": "60bfa6c0-a5e5-4b53-86e5-1b7d07e0bb12",
+      "latitude": -35.017599,
+      "longitude": 138.548525,
+      "street": "Sturt Rd",
+      "city": "Oaklands Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:11:50Z"
+      "timestamp": "2026-02-01T06:00:16Z",
+      "reported_at": "2026-02-01T05:40:03Z"
+    },
+    {
+      "id": "69325a77-04f5-4b7d-8b07-99ffbb52cef6",
+      "latitude": -34.840938,
+      "longitude": 138.492604,
+      "street": "A16 - Causeway Rd",
+      "city": "Exeter",
+      "type": "mobile",
+      "timestamp": "2026-02-01T06:00:16Z",
+      "reported_at": "2026-02-01T05:26:13Z"
     },
     {
       "id": "5329b7ad-ce03-4d9f-9469-df1b7be0ad07",
@@ -47,28 +67,8 @@
       "street": "A7 - Commercial Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
+      "timestamp": "2026-02-01T06:00:16Z",
       "reported_at": "2026-02-01T04:47:57Z"
-    },
-    {
-      "id": "d4cd0bab-cfa6-4b8b-b129-5b19bb14ca28",
-      "latitude": -35.003765,
-      "longitude": 138.70063,
-      "street": "B28 - Waverley Ridge Rd",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T01:39:38Z"
-    },
-    {
-      "id": "e5256702-2b92-4d8c-9574-4bf43d3b7df4",
-      "latitude": -34.959648,
-      "longitude": 138.733085,
-      "street": "B26 - Greenhill Rd",
-      "city": "Summertown",
-      "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T02:43:55Z"
     },
     {
       "id": "3496fc8a-8bb4-4a2d-af6d-512bfee8b464",
@@ -77,68 +77,28 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
+      "timestamp": "2026-02-01T06:00:16Z",
       "reported_at": "2026-02-01T04:21:00Z"
     },
     {
-      "id": "0fc9bf2f-7e40-4c38-a59f-919673d30cad",
-      "latitude": -34.962018,
-      "longitude": 138.55799,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:20:48Z"
-    },
-    {
-      "id": "9f7ab3aa-9f4f-45a8-84d4-798fcc0097bf",
-      "latitude": -34.964809,
-      "longitude": 138.646319,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
-      "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:01:54Z"
-    },
-    {
-      "id": "9dada5ab-d653-4400-aa58-8dabd5ca5341",
-      "latitude": -34.966188,
-      "longitude": 138.648146,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:24:04Z"
-    },
-    {
-      "id": "62357172-cd51-4a77-b545-01106da9dfd5",
-      "latitude": -34.833758,
-      "longitude": 138.542848,
+      "id": "562e148c-2b1e-40b0-a4e5-466f7ee45d36",
+      "latitude": -34.833956,
+      "longitude": 138.538883,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:04:04Z"
+      "timestamp": "2026-02-01T06:00:16Z",
+      "reported_at": "2026-02-01T04:42:35Z"
     },
     {
-      "id": "bcb6b60b-87b8-40fc-8ec9-7163bf934677",
-      "latitude": -35.051973,
-      "longitude": 138.546565,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
+      "id": "dbc5e70b-d09a-40c7-9bdd-30820a313a3f",
+      "latitude": -35.00627,
+      "longitude": 138.774317,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:27:29Z"
-    },
-    {
-      "id": "54673221-c7cb-48f0-a8f0-f3d58e7a2c7d",
-      "latitude": -35.049186,
-      "longitude": 138.547644,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-01T05:30:16Z",
-      "reported_at": "2026-02-01T05:27:43Z"
+      "timestamp": "2026-02-01T06:00:16Z",
+      "reported_at": "2026-02-01T05:23:27Z"
     }
   ]
 }
