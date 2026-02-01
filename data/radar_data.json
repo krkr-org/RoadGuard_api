@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "c348885c-409c-493f-b3dc-8d631c23ad54",
-      "latitude": -34.857805,
-      "longitude": 138.494247,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T04:58:24Z"
-    },
-    {
       "id": "446d7289-aba4-4f89-85c3-99d2d92e45eb",
       "latitude": -34.861526,
       "longitude": 138.565337,
       "street": "Days Rd",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T06:32:30Z"
     },
     {
-      "id": "b40b7065-1691-4cde-aed0-66bb94a4144c",
-      "latitude": -34.91266,
-      "longitude": 138.514312,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
+      "id": "c348885c-409c-493f-b3dc-8d631c23ad54",
+      "latitude": -34.857805,
+      "longitude": 138.494247,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:41:51Z"
-    },
-    {
-      "id": "5bc66982-d88c-495b-bf73-51814cce6fa3",
-      "latitude": -35.135902,
-      "longitude": 138.470746,
-      "street": "Sydney Cr",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:26:25Z"
-    },
-    {
-      "id": "ba5ca6f9-7eca-433c-b2ca-12abefe296ff",
-      "latitude": -34.954144,
-      "longitude": 138.652565,
-      "street": "Sunnyside Rd",
-      "city": "St. Georges",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:19:46Z"
+      "timestamp": "2026-02-01T07:30:16Z",
+      "reported_at": "2026-02-01T04:58:24Z"
     },
     {
       "id": "141a3b50-e9b0-420b-b88e-d30aac7a0dba",
@@ -57,18 +27,28 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T05:01:51Z"
     },
     {
-      "id": "db84f191-d5f6-4238-a7e8-c5cb27b38719",
-      "latitude": -35.116625,
-      "longitude": 138.535678,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "ba5ca6f9-7eca-433c-b2ca-12abefe296ff",
+      "latitude": -34.954144,
+      "longitude": 138.652565,
+      "street": "Sunnyside Rd",
+      "city": "St. Georges",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T03:28:45Z"
+      "timestamp": "2026-02-01T07:30:16Z",
+      "reported_at": "2026-02-01T06:19:46Z"
+    },
+    {
+      "id": "485c179b-8b8f-4d14-a881-68dad24c2366",
+      "latitude": -34.824155,
+      "longitude": 138.490804,
+      "street": "Military Rd",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2026-02-01T07:30:16Z",
+      "reported_at": "2026-02-01T06:27:06Z"
     },
     {
       "id": "dc3b6573-2e2c-4c0a-b3c8-0bede44a104a",
@@ -77,28 +57,8 @@
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T06:14:11Z"
-    },
-    {
-      "id": "bc12461d-c4c0-4f06-a3e2-d36a9c2040f1",
-      "latitude": -34.921402,
-      "longitude": 138.603693,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:48:23Z"
-    },
-    {
-      "id": "077381a3-781b-4faf-87cc-9ecea74f2dbb",
-      "latitude": -34.823024,
-      "longitude": 138.4914,
-      "street": "Military Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:02:54Z"
     },
     {
       "id": "f0cfec3b-864e-4aed-b326-6575c0d73165",
@@ -107,18 +67,18 @@
       "street": "Woolnough Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T05:51:47Z"
     },
     {
-      "id": "86e898b2-e0d9-40ba-9587-50f3ec03cffe",
-      "latitude": -34.845113,
-      "longitude": 138.493767,
-      "street": "A16 - Causeway Rd",
-      "city": "Glanville",
+      "id": "db84f191-d5f6-4238-a7e8-c5cb27b38719",
+      "latitude": -35.116625,
+      "longitude": 138.535678,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T05:49:50Z"
+      "timestamp": "2026-02-01T07:30:16Z",
+      "reported_at": "2026-02-01T03:28:45Z"
     },
     {
       "id": "69325a77-04f5-4b7d-8b07-99ffbb52cef6",
@@ -127,7 +87,7 @@
       "street": "A16 - Causeway Rd",
       "city": "Exeter",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T05:26:13Z"
     },
     {
@@ -137,8 +97,18 @@
       "street": "A7 - Commercial Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T04:47:57Z"
+    },
+    {
+      "id": "86e898b2-e0d9-40ba-9587-50f3ec03cffe",
+      "latitude": -34.845113,
+      "longitude": 138.493767,
+      "street": "A16 - Causeway Rd",
+      "city": "Glanville",
+      "type": "mobile",
+      "timestamp": "2026-02-01T07:30:16Z",
+      "reported_at": "2026-02-01T05:49:50Z"
     },
     {
       "id": "3496fc8a-8bb4-4a2d-af6d-512bfee8b464",
@@ -147,38 +117,18 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T04:21:00Z"
     },
     {
-      "id": "46626e73-48cc-43ac-85ea-0c7f5b5fca15",
-      "latitude": -34.999671,
-      "longitude": 138.608155,
-      "street": "B29 - Belair Rd",
-      "city": "Lynton",
+      "id": "5df58eaa-b448-4f13-a6ae-ea2ebe0483e7",
+      "latitude": -34.850784,
+      "longitude": 138.54128,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:19:38Z"
-    },
-    {
-      "id": "936e39c8-0dfb-4465-9e9b-42d75d661c54",
-      "latitude": -34.922332,
-      "longitude": 138.515812,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:54:57Z"
-    },
-    {
-      "id": "fde64c9c-3cc4-4abe-8538-56db5d1796c6",
-      "latitude": -34.945056,
-      "longitude": 138.517655,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
-      "reported_at": "2026-02-01T06:51:18Z"
+      "timestamp": "2026-02-01T07:30:16Z",
+      "reported_at": "2026-02-01T07:23:47Z"
     },
     {
       "id": "562e148c-2b1e-40b0-a4e5-466f7ee45d36",
@@ -187,7 +137,7 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T07:00:18Z",
+      "timestamp": "2026-02-01T07:30:16Z",
       "reported_at": "2026-02-01T04:42:35Z"
     }
   ]
