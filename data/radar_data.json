@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "c6f9c1b6-b4ac-4d4b-afed-738c0d94ff9d",
-      "latitude": -34.724587,
-      "longitude": 138.641208,
+      "id": "2b5e9156-f582-4083-95a8-32f786bfcb46",
+      "latitude": -34.723006,
+      "longitude": 138.642202,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
-      "reported_at": "2026-01-31T21:54:50Z"
+      "timestamp": "2026-02-01T00:30:17Z",
+      "reported_at": "2026-01-31T23:23:26Z"
     },
     {
       "id": "b602c3b3-9cba-4550-9408-0b95c8348a58",
-      "latitude": -34.696863,
-      "longitude": 138.666287,
+      "latitude": -34.696953,
+      "longitude": 138.666262,
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
+      "timestamp": "2026-02-01T00:30:17Z",
       "reported_at": "2026-01-31T22:07:21Z"
+    },
+    {
+      "id": "e42072e6-e5b2-4e76-8e17-a63d4fe1468b",
+      "latitude": -34.7277,
+      "longitude": 138.593205,
+      "street": "Heaslip Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-02-01T00:30:17Z",
+      "reported_at": "2026-02-01T00:11:57Z"
     },
     {
       "id": "8a3d063b-5d80-479f-b99a-f7f22c3af253",
@@ -27,7 +37,7 @@
       "street": "Womma Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
+      "timestamp": "2026-02-01T00:30:17Z",
       "reported_at": "2026-01-31T22:18:31Z"
     },
     {
@@ -37,28 +47,8 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
+      "timestamp": "2026-02-01T00:30:17Z",
       "reported_at": "2026-01-31T22:52:05Z"
-    },
-    {
-      "id": "215ec1ef-53ef-485b-999e-15dd8a8644b0",
-      "latitude": -34.755269,
-      "longitude": 138.63004,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
-      "reported_at": "2026-01-31T23:03:53Z"
-    },
-    {
-      "id": "1049d9e7-1f1e-4e91-b047-aaa8ca795852",
-      "latitude": -34.937926,
-      "longitude": 138.586694,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
-      "reported_at": "2026-01-31T23:38:42Z"
     },
     {
       "id": "119e73d4-bf94-4a68-815b-c4fbfdf7fa15",
@@ -67,28 +57,28 @@
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
+      "timestamp": "2026-02-01T00:30:17Z",
       "reported_at": "2026-01-31T23:34:06Z"
     },
     {
-      "id": "23255384-4b7c-4d25-9308-d520e105479f",
-      "latitude": -35.014097,
-      "longitude": 138.697262,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Upper Sturt",
+      "id": "82acdfc3-09ba-4f3c-9f0f-43bcc28e99d9",
+      "latitude": -35.044987,
+      "longitude": 138.560778,
+      "street": "A13 - Main South Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
-      "reported_at": "2026-01-31T22:19:55Z"
+      "timestamp": "2026-02-01T00:30:17Z",
+      "reported_at": "2026-02-01T00:09:35Z"
     },
     {
-      "id": "71866b8d-1703-4bd7-a30d-8d82cb8c7433",
-      "latitude": -34.949315,
-      "longitude": 138.630205,
-      "street": "A1 - Glen Osmond Rd",
-      "city": "Fullarton",
+      "id": "1049d9e7-1f1e-4e91-b047-aaa8ca795852",
+      "latitude": -34.937926,
+      "longitude": 138.586694,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
-      "reported_at": "2026-01-31T23:50:22Z"
+      "timestamp": "2026-02-01T00:30:17Z",
+      "reported_at": "2026-01-31T23:38:42Z"
     },
     {
       "id": "fc6fbaa0-196d-4861-8e4c-c10f58591719",
@@ -97,7 +87,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-02-01T00:00:18Z",
+      "timestamp": "2026-02-01T00:30:17Z",
       "reported_at": "2026-01-31T22:22:26Z"
     }
   ]
