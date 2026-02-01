@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "c6f9c1b6-b4ac-4d4b-afed-738c0d94ff9d",
-      "latitude": -34.724587,
-      "longitude": 138.641208,
-      "street": "West Av",
-      "city": "Edinburgh",
+      "id": "564cfa94-24ab-45f6-bfcf-062a1c015412",
+      "latitude": -34.702064,
+      "longitude": 138.689294,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
-      "reported_at": "2026-01-31T21:54:50Z"
+      "timestamp": "2026-02-01T01:30:15Z",
+      "reported_at": "2026-02-01T00:37:32Z"
     },
     {
       "id": "7c432fb5-39a1-4129-a994-59511518ae26",
@@ -17,8 +17,18 @@
       "street": "Midway Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
+      "timestamp": "2026-02-01T01:30:15Z",
       "reported_at": "2026-01-31T23:58:36Z"
+    },
+    {
+      "id": "c6f9c1b6-b4ac-4d4b-afed-738c0d94ff9d",
+      "latitude": -34.724587,
+      "longitude": 138.641208,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-01T01:30:15Z",
+      "reported_at": "2026-01-31T21:54:50Z"
     },
     {
       "id": "0c977ebe-da27-430e-bda1-bbb83c4f9f6a",
@@ -27,8 +37,18 @@
       "street": "Womma Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
+      "timestamp": "2026-02-01T01:30:15Z",
       "reported_at": "2026-01-31T22:23:42Z"
+    },
+    {
+      "id": "00df3580-807b-40de-8702-054ed8c65f63",
+      "latitude": -34.996955,
+      "longitude": 138.593034,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-02-01T01:30:15Z",
+      "reported_at": "2026-02-01T01:19:17Z"
     },
     {
       "id": "9c7937f3-1b6a-44bf-b7fa-09f7105234d2",
@@ -37,28 +57,18 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
+      "timestamp": "2026-02-01T01:30:15Z",
       "reported_at": "2026-02-01T00:17:03Z"
     },
     {
-      "id": "bddb72e5-0579-4460-a57c-6504e9b879e8",
-      "latitude": -35.005081,
-      "longitude": 138.699551,
+      "id": "f5a9f16d-5942-4831-a6de-d498bfd7a049",
+      "latitude": -35.0051,
+      "longitude": 138.699535,
       "street": "B28 - Waverley Ridge Rd",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
-      "reported_at": "2026-01-31T21:07:12Z"
-    },
-    {
-      "id": "4fba7a98-628e-4a96-85d6-a4414424e5cf",
-      "latitude": -34.719814,
-      "longitude": 138.578154,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
-      "reported_at": "2026-02-01T00:38:00Z"
+      "timestamp": "2026-02-01T01:30:15Z",
+      "reported_at": "2026-01-31T20:53:38Z"
     },
     {
       "id": "fc6fbaa0-196d-4861-8e4c-c10f58591719",
@@ -67,7 +77,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:00:15Z",
+      "timestamp": "2026-02-01T01:30:15Z",
       "reported_at": "2026-01-31T22:22:26Z"
     }
   ]
