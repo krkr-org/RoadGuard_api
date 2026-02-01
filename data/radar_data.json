@@ -1,13 +1,53 @@
 {
   "radars": [
     {
+      "id": "6415a08d-81c1-445d-8358-6cf92ff8db51",
+      "latitude": -34.739896,
+      "longitude": 138.656082,
+      "street": "Grainger Rd",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-01-31T23:25:04Z"
+    },
+    {
+      "id": "bb8d1260-3e3c-4592-af1b-5896be08ea87",
+      "latitude": -34.894106,
+      "longitude": 138.492892,
+      "street": "Sportsmans Dr",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T01:35:39Z"
+    },
+    {
+      "id": "eeb85c23-243f-478a-b4d3-bf6a395856e9",
+      "latitude": -34.932437,
+      "longitude": 138.561339,
+      "street": "Brooker Tce",
+      "city": "Cowandilla",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T01:29:00Z"
+    },
+    {
+      "id": "6c198f69-6ff3-4a48-b97b-0b727955eaf0",
+      "latitude": -34.722622,
+      "longitude": 138.642443,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T00:41:19Z"
+    },
+    {
       "id": "564cfa94-24ab-45f6-bfcf-062a1c015412",
       "latitude": -34.702064,
       "longitude": 138.689294,
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
+      "timestamp": "2026-02-01T02:00:15Z",
       "reported_at": "2026-02-01T00:37:32Z"
     },
     {
@@ -17,28 +57,38 @@
       "street": "Midway Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
+      "timestamp": "2026-02-01T02:00:15Z",
       "reported_at": "2026-01-31T23:58:36Z"
     },
     {
-      "id": "c6f9c1b6-b4ac-4d4b-afed-738c0d94ff9d",
-      "latitude": -34.724587,
-      "longitude": 138.641208,
-      "street": "West Av",
-      "city": "Edinburgh",
+      "id": "e564c98b-b96b-4bba-ba66-7c0b5314eada",
+      "latitude": -34.838023,
+      "longitude": 138.48039,
+      "street": "Esplanade",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
-      "reported_at": "2026-01-31T21:54:50Z"
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T01:32:59Z"
     },
     {
-      "id": "0c977ebe-da27-430e-bda1-bbb83c4f9f6a",
-      "latitude": -34.690402,
-      "longitude": 138.639597,
-      "street": "Womma Rd",
-      "city": "Penfield",
+      "id": "dca56e28-5970-4de3-b28e-62121e331af8",
+      "latitude": -34.893408,
+      "longitude": 138.495595,
+      "street": "Trimmer Pde",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
-      "reported_at": "2026-01-31T22:23:42Z"
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T01:36:56Z"
+    },
+    {
+      "id": "f77947b5-40be-4424-87e6-2370c617cd4a",
+      "latitude": -34.855909,
+      "longitude": 138.565232,
+      "street": "South Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T01:57:02Z"
     },
     {
       "id": "00df3580-807b-40de-8702-054ed8c65f63",
@@ -47,7 +97,7 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
+      "timestamp": "2026-02-01T02:00:15Z",
       "reported_at": "2026-02-01T01:19:17Z"
     },
     {
@@ -57,18 +107,38 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
+      "timestamp": "2026-02-01T02:00:15Z",
       "reported_at": "2026-02-01T00:17:03Z"
     },
     {
-      "id": "f5a9f16d-5942-4831-a6de-d498bfd7a049",
-      "latitude": -35.0051,
-      "longitude": 138.699535,
-      "street": "B28 - Waverley Ridge Rd",
-      "city": "Crafers West",
+      "id": "f430f33f-9360-4e29-8921-319f775c9297",
+      "latitude": -35.038577,
+      "longitude": 138.688941,
+      "street": "Ironbank Rd",
+      "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
-      "reported_at": "2026-01-31T20:53:38Z"
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-02-01T01:30:01Z"
+    },
+    {
+      "id": "0c977ebe-da27-430e-bda1-bbb83c4f9f6a",
+      "latitude": -34.690402,
+      "longitude": 138.639597,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-01-31T22:23:42Z"
+    },
+    {
+      "id": "e1d0b3a6-aca4-42c6-b110-6d0016f97edb",
+      "latitude": -34.69616,
+      "longitude": 138.666469,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-02-01T02:00:15Z",
+      "reported_at": "2026-01-31T22:37:44Z"
     },
     {
       "id": "fc6fbaa0-196d-4861-8e4c-c10f58591719",
@@ -77,7 +147,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-02-01T01:30:15Z",
+      "timestamp": "2026-02-01T02:00:15Z",
       "reported_at": "2026-01-31T22:22:26Z"
     }
   ]
