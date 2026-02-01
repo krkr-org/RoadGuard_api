@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "280ffebe-761e-4a41-b68e-502b678b43e2",
+      "latitude": -35.029165,
+      "longitude": 138.620289,
+      "street": "Coromandel Pde",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-02-01T13:30:15Z",
+      "reported_at": "2026-02-01T12:17:44Z"
+    },
+    {
       "id": "c5bd9d42-9917-481f-92f2-5065ab151e7a",
       "latitude": -34.963575,
       "longitude": 138.563609,
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-01T13:00:14Z",
+      "timestamp": "2026-02-01T13:30:15Z",
       "reported_at": "2026-02-01T10:43:09Z"
     },
     {
@@ -17,8 +27,18 @@
       "street": "A16 - Causeway Rd",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-01T13:00:14Z",
+      "timestamp": "2026-02-01T13:30:15Z",
       "reported_at": "2026-02-01T09:07:36Z"
+    },
+    {
+      "id": "14e04ef9-f81c-499d-b5cb-c34af4c0037a",
+      "latitude": -34.821076,
+      "longitude": 138.561995,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-02-01T13:30:15Z",
+      "reported_at": "2026-02-01T12:58:58Z"
     }
   ]
 }
