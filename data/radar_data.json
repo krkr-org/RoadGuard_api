@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "6415a08d-81c1-445d-8358-6cf92ff8db51",
-      "latitude": -34.739896,
-      "longitude": 138.656082,
-      "street": "Grainger Rd",
-      "city": "Elizabeth South",
+      "id": "512b506c-4ffb-454a-8694-4ed190266ff2",
+      "latitude": -35.142893,
+      "longitude": 138.468045,
+      "street": "The Esplanade",
+      "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-01-31T23:25:04Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:16:31Z"
     },
     {
-      "id": "8c4efb95-c2b0-4d92-8f13-a99102b76157",
-      "latitude": -34.917442,
-      "longitude": 138.648925,
-      "street": "Beulah Rd",
-      "city": "Beulah Park",
-      "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T02:26:38Z"
-    },
-    {
-      "id": "c90e41eb-d31b-4a40-91f8-f123f4f8f0eb",
-      "latitude": -34.726459,
-      "longitude": 138.640031,
+      "id": "2b5e9156-f582-4083-95a8-32f786bfcb46",
+      "latitude": -34.723402,
+      "longitude": 138.641953,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T02:21:50Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-01-31T23:23:26Z"
     },
     {
-      "id": "564cfa94-24ab-45f6-bfcf-062a1c015412",
-      "latitude": -34.702064,
-      "longitude": 138.689294,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
+      "id": "30971e80-512a-404b-a569-3808b165cad6",
+      "latitude": -34.920909,
+      "longitude": 138.61759,
+      "street": "Rundle St",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T00:37:32Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:18:43Z"
     },
     {
       "id": "7c432fb5-39a1-4129-a994-59511518ae26",
@@ -47,28 +37,48 @@
       "street": "Midway Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
+      "timestamp": "2026-02-01T03:30:14Z",
       "reported_at": "2026-01-31T23:58:36Z"
     },
     {
-      "id": "75b4a756-6177-4c2c-b25d-f9dd2b53e59c",
-      "latitude": -34.807265,
-      "longitude": 138.6256,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "38ba4218-4c1e-4448-986f-397cd0542c50",
+      "latitude": -34.996778,
+      "longitude": 138.700687,
+      "street": "to M1 - South Eastern Fwy to Adelaide",
+      "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T02:55:01Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:08:57Z"
     },
     {
-      "id": "0ad341d2-7606-4218-9a22-5f4251af9816",
-      "latitude": -35.068943,
-      "longitude": 138.629621,
-      "street": "Cherry Gardens Rd",
-      "city": "Cherry Gardens",
+      "id": "9caba106-8382-4d76-b463-287c4aab0998",
+      "latitude": -35.138548,
+      "longitude": 138.488923,
+      "street": "Beach Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T02:11:54Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:12:50Z"
+    },
+    {
+      "id": "ff83c4e6-6e4b-4125-be1c-808916938b20",
+      "latitude": -34.928454,
+      "longitude": 138.593867,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:07:26Z"
+    },
+    {
+      "id": "16d4a56c-e17a-4dcd-89cc-0776e5af3850",
+      "latitude": -34.813393,
+      "longitude": 138.638757,
+      "street": "Maxwell Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:04:32Z"
     },
     {
       "id": "9c7937f3-1b6a-44bf-b7fa-09f7105234d2",
@@ -77,18 +87,18 @@
       "street": "Longwood Rd",
       "city": "Heathfield",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
+      "timestamp": "2026-02-01T03:30:14Z",
       "reported_at": "2026-02-01T00:17:03Z"
     },
     {
-      "id": "9391605f-ddd0-4cff-97f2-57a6508fba67",
-      "latitude": -35.057939,
-      "longitude": 138.601714,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "0ad341d2-7606-4218-9a22-5f4251af9816",
+      "latitude": -35.068943,
+      "longitude": 138.629621,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T02:46:39Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T02:11:54Z"
     },
     {
       "id": "e1d0b3a6-aca4-42c6-b110-6d0016f97edb",
@@ -97,38 +107,38 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
+      "timestamp": "2026-02-01T03:30:14Z",
       "reported_at": "2026-01-31T22:37:44Z"
     },
     {
-      "id": "eff55af5-e661-4705-86c0-f2edcf635717",
-      "latitude": -34.690483,
-      "longitude": 138.639789,
-      "street": "Womma Rd",
-      "city": "Penfield",
+      "id": "a0fcd53e-3024-482a-bfeb-d9d998d87756",
+      "latitude": -34.751288,
+      "longitude": 138.623528,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T01:20:37Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T02:59:25Z"
     },
     {
-      "id": "119e73d4-bf94-4a68-815b-c4fbfdf7fa15",
-      "latitude": -35.00344,
-      "longitude": 138.7009,
-      "street": "B28 - Waverley Ridge Rd",
+      "id": "a1252402-2458-4fde-9745-ee3ac44c03a4",
+      "latitude": -34.922279,
+      "longitude": 138.615577,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:21:41Z"
+    },
+    {
+      "id": "fc2d512f-8e8c-414d-8f14-c7ab29137008",
+      "latitude": -34.99187,
+      "longitude": 138.695196,
+      "street": "M1 - South Eastern Fwy",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-01-31T23:34:06Z"
-    },
-    {
-      "id": "5bf3fcb7-bc7a-4d5a-aaaf-effd1eb524a1",
-      "latitude": -34.803914,
-      "longitude": 138.604206,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-01T03:00:17Z",
-      "reported_at": "2026-02-01T02:34:49Z"
+      "timestamp": "2026-02-01T03:30:14Z",
+      "reported_at": "2026-02-01T03:09:31Z"
     }
   ]
 }
