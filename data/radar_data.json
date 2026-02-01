@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "446d7289-aba4-4f89-85c3-99d2d92e45eb",
-      "latitude": -34.861526,
-      "longitude": 138.565337,
-      "street": "Days Rd",
-      "city": "Angle Park",
-      "type": "mobile",
-      "timestamp": "2026-02-01T12:00:20Z",
-      "reported_at": "2026-02-01T06:32:30Z"
-    },
-    {
       "id": "c5bd9d42-9917-481f-92f2-5065ab151e7a",
       "latitude": -34.963575,
       "longitude": 138.563609,
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-01T12:00:20Z",
+      "timestamp": "2026-02-01T12:30:15Z",
       "reported_at": "2026-02-01T10:43:09Z"
-    },
-    {
-      "id": "f0cfec3b-864e-4aed-b326-6575c0d73165",
-      "latitude": -34.833593,
-      "longitude": 138.487846,
-      "street": "Woolnough Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-02-01T12:00:20Z",
-      "reported_at": "2026-02-01T05:51:47Z"
     },
     {
       "id": "a783a7da-ce37-489d-af41-4faaba499bdb",
@@ -37,7 +17,7 @@
       "street": "O'Sullivan Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-01T12:00:20Z",
+      "timestamp": "2026-02-01T12:30:15Z",
       "reported_at": "2026-02-01T08:54:39Z"
     },
     {
@@ -47,18 +27,28 @@
       "street": "A16 - Causeway Rd",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-01T12:00:20Z",
+      "timestamp": "2026-02-01T12:30:15Z",
       "reported_at": "2026-02-01T09:07:36Z"
     },
     {
-      "id": "0ab85044-b347-4031-82d2-3f3fa34edd8a",
-      "latitude": -35.082718,
-      "longitude": 138.543767,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "9a0bac47-4c9f-4865-9345-7f3a8284a462",
+      "latitude": -34.829749,
+      "longitude": 138.680163,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-01T12:00:20Z",
-      "reported_at": "2026-02-01T11:39:21Z"
+      "timestamp": "2026-02-01T12:30:15Z",
+      "reported_at": "2026-02-01T12:03:47Z"
+    },
+    {
+      "id": "1f266034-112b-402d-8850-e6dc60248dbf",
+      "latitude": -34.848644,
+      "longitude": 138.669613,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-01T12:30:15Z",
+      "reported_at": "2026-02-01T11:55:42Z"
     }
   ]
 }
