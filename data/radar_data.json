@@ -1,44 +1,44 @@
 {
   "radars": [
     {
+      "id": "45043930-57cc-43fb-98b4-c09e89d7d510",
+      "latitude": -34.857433,
+      "longitude": 138.504891,
+      "street": "Webb St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-02T22:00:17Z",
+      "reported_at": "2026-02-02T21:50:48Z"
+    },
+    {
+      "id": "3f9efefb-d330-4e3d-a426-f4f445126f3b",
+      "latitude": -34.924045,
+      "longitude": 138.553108,
+      "street": "Pearse St",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-02-02T22:00:17Z",
+      "reported_at": "2026-02-02T21:28:23Z"
+    },
+    {
+      "id": "68353bd9-6b48-448b-822b-8e87f1caf6bf",
+      "latitude": -34.861543,
+      "longitude": 138.565321,
+      "street": "Days Rd",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-02-02T22:00:17Z",
+      "reported_at": "2026-02-02T21:14:14Z"
+    },
+    {
       "id": "d86151ef-d0d3-429f-b629-dc9fe51b6277",
       "latitude": -34.913662,
       "longitude": 138.520268,
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
+      "timestamp": "2026-02-02T22:00:17Z",
       "reported_at": "2026-02-02T21:03:34Z"
-    },
-    {
-      "id": "a04b23ae-f519-4da6-be8a-d686fa718f08",
-      "latitude": -34.862392,
-      "longitude": 138.565395,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
-      "reported_at": "2026-02-02T21:12:55Z"
-    },
-    {
-      "id": "81881457-32e6-4465-a1f0-300c2d514b8d",
-      "latitude": -34.985442,
-      "longitude": 138.583179,
-      "street": "Winston Av",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
-      "reported_at": "2026-02-02T21:15:10Z"
-    },
-    {
-      "id": "aeacf96b-f19f-4666-bf26-c3c4589a6a23",
-      "latitude": -34.957663,
-      "longitude": 138.61483,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
-      "reported_at": "2026-02-02T21:02:05Z"
     },
     {
       "id": "8541d618-005b-462c-b8cd-dbfcd6f1fe1c",
@@ -47,38 +47,28 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
+      "timestamp": "2026-02-02T22:00:17Z",
       "reported_at": "2026-02-02T20:58:01Z"
     },
     {
-      "id": "5493c785-742b-459f-9a23-dfc7c0b39e0a",
-      "latitude": -34.939064,
-      "longitude": 138.594639,
-      "street": "Sir Lewis Cohen Av",
-      "city": "Adelaide",
+      "id": "65ee189a-04f9-4578-b825-4d96739d600a",
+      "latitude": -34.884559,
+      "longitude": 138.619662,
+      "street": "A10 - North East Rd",
+      "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
-      "reported_at": "2026-02-02T21:06:59Z"
+      "timestamp": "2026-02-02T22:00:17Z",
+      "reported_at": "2026-02-02T21:25:32Z"
     },
     {
-      "id": "f71c0838-ed2a-495d-beb8-e0cd4113667d",
-      "latitude": -34.865954,
-      "longitude": 138.516868,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
+      "id": "fe7fdba6-ee1d-414b-b0dd-19703be4d23f",
+      "latitude": -34.770756,
+      "longitude": 138.634009,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
-      "reported_at": "2026-02-02T21:21:51Z"
-    },
-    {
-      "id": "43a136c0-47fa-463b-bc22-4a32665ca9a7",
-      "latitude": -34.971354,
-      "longitude": 138.650385,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-02-02T21:30:15Z",
-      "reported_at": "2026-02-02T21:05:15Z"
+      "timestamp": "2026-02-02T22:00:17Z",
+      "reported_at": "2026-02-02T21:44:41Z"
     }
   ]
 }
