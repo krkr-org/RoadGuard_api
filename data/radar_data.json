@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "4465f5f1-974a-4ac3-ac44-8dcaef0c2a49",
+      "latitude": -34.795074,
+      "longitude": 138.646714,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T07:06:04Z"
+    },
+    {
+      "id": "7d278f18-10bc-440e-97b3-5a54dc22074b",
+      "latitude": -34.792065,
+      "longitude": 138.599051,
+      "street": "Martins Rd",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T07:00:57Z"
+    },
+    {
       "id": "54b8133b-d566-4df8-a4df-92f9b169c122",
       "latitude": -34.726342,
       "longitude": 138.667995,
       "street": "Judd Rd",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-02-02T07:00:15Z",
+      "timestamp": "2026-02-02T07:30:15Z",
       "reported_at": "2026-02-02T04:00:15Z"
-    },
-    {
-      "id": "1d7239c1-5758-4648-ad05-3b68948c6c82",
-      "latitude": -35.12468,
-      "longitude": 138.536278,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-02T07:00:15Z",
-      "reported_at": "2026-02-02T06:54:46Z"
     },
     {
       "id": "8f92afe0-29a7-4782-96f2-226429187ee9",
@@ -27,28 +37,58 @@
       "street": "Kensington Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-02T07:00:15Z",
+      "timestamp": "2026-02-02T07:30:15Z",
       "reported_at": "2026-02-02T04:55:41Z"
     },
     {
-      "id": "2ce64444-b66c-41fc-a208-551802919046",
-      "latitude": -34.980215,
-      "longitude": 138.562776,
-      "street": "Raglan Av",
-      "city": "South Plympton",
+      "id": "4f7c898c-f3b9-4328-a992-6cece4352867",
+      "latitude": -34.93885,
+      "longitude": 138.606645,
+      "street": "Unley Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-02T07:00:15Z",
-      "reported_at": "2026-02-02T06:41:44Z"
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T06:54:15Z"
     },
     {
-      "id": "7190587f-2d18-4ea4-8496-081d2c719257",
-      "latitude": -34.777232,
-      "longitude": 138.628052,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury Downs",
+      "id": "e5976efa-56c0-4f85-aa08-1bf1ace47781",
+      "latitude": -34.965342,
+      "longitude": 138.611483,
+      "street": "A3 - Cross Rd",
+      "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-02-02T07:00:15Z",
-      "reported_at": "2026-02-02T06:10:46Z"
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T06:58:17Z"
+    },
+    {
+      "id": "4150ffb7-f13f-4f72-bec2-ab156c7af07c",
+      "latitude": -34.937444,
+      "longitude": 138.642211,
+      "street": "A17 - Portrush Rd",
+      "city": "Toorak Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T07:27:04Z"
+    },
+    {
+      "id": "c2fa5d52-7ddf-4c25-b353-c7695c91646d",
+      "latitude": -34.762585,
+      "longitude": 138.598122,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T07:18:05Z"
+    },
+    {
+      "id": "583479ab-9a18-4878-abb4-afaf354e0762",
+      "latitude": -34.712298,
+      "longitude": 138.675273,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2026-02-02T07:30:15Z",
+      "reported_at": "2026-02-02T07:20:58Z"
     }
   ]
 }
