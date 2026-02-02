@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "37103d0d-5934-4670-8c98-6bd811d97bb5",
-      "latitude": -34.903801,
-      "longitude": 138.664918,
-      "street": "Arthur St",
-      "city": "Tranmere",
+      "id": "d8406d23-f972-42a4-a096-c8f9f44a0136",
+      "latitude": -34.899907,
+      "longitude": 138.611412,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-01T23:38:09Z"
+      "timestamp": "2026-02-02T03:30:15Z",
+      "reported_at": "2026-02-01T22:47:02Z"
+    },
+    {
+      "id": "9b584405-fe67-4d41-a0ff-745e8266fc8e",
+      "latitude": -34.879641,
+      "longitude": 138.668831,
+      "street": "Hambledon Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-02-02T03:30:15Z",
+      "reported_at": "2026-02-02T02:11:48Z"
     },
     {
       "id": "b7358d7a-469c-4c93-95c5-0e8278010038",
@@ -17,28 +27,18 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
+      "timestamp": "2026-02-02T03:30:15Z",
       "reported_at": "2026-02-02T02:01:20Z"
     },
     {
-      "id": "d8406d23-f972-42a4-a096-c8f9f44a0136",
-      "latitude": -34.899907,
-      "longitude": 138.611412,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
+      "id": "37103d0d-5934-4670-8c98-6bd811d97bb5",
+      "latitude": -34.903801,
+      "longitude": 138.664918,
+      "street": "Arthur St",
+      "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-01T22:47:02Z"
-    },
-    {
-      "id": "d4d952db-18ba-4965-a89e-b5c58f859115",
-      "latitude": -34.864053,
-      "longitude": 138.551935,
-      "street": "Ridley Gr",
-      "city": "Woodville Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-02T02:27:58Z"
+      "timestamp": "2026-02-02T03:30:15Z",
+      "reported_at": "2026-02-01T23:38:09Z"
     },
     {
       "id": "79bc4010-a472-488d-9f14-cdf3aa507d02",
@@ -47,28 +47,8 @@
       "street": "Womma West Rd",
       "city": "Penfield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
+      "timestamp": "2026-02-02T03:30:15Z",
       "reported_at": "2026-02-02T02:16:32Z"
-    },
-    {
-      "id": "9ac7108d-c02f-44b6-8689-b012f5317238",
-      "latitude": -35.016689,
-      "longitude": 138.548521,
-      "street": "Diagonal Rd",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-02T00:58:19Z"
-    },
-    {
-      "id": "a2ce835d-1b14-4999-945f-bf49be488159",
-      "latitude": -34.864973,
-      "longitude": 138.661354,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-02T02:34:44Z"
     },
     {
       "id": "9f0552b4-3aa9-431d-a85c-fca975adf3ef",
@@ -77,18 +57,18 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
+      "timestamp": "2026-02-02T03:30:15Z",
       "reported_at": "2026-02-02T02:22:29Z"
     },
     {
-      "id": "d04d3787-f0b2-472d-8284-90ff062c5fe5",
-      "latitude": -34.899959,
-      "longitude": 138.601866,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "19484b45-1c3f-48d0-9ea4-4177b44eb12b",
+      "latitude": -34.912936,
+      "longitude": 138.685274,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-01T22:00:22Z"
+      "timestamp": "2026-02-02T03:30:15Z",
+      "reported_at": "2026-02-02T01:33:51Z"
     },
     {
       "id": "e139962d-746e-433c-a5db-df7b3a7a9374",
@@ -97,18 +77,28 @@
       "street": "B27 - Old Norton Summit Rd",
       "city": "Teringie",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
+      "timestamp": "2026-02-02T03:30:15Z",
       "reported_at": "2026-02-02T00:21:42Z"
     },
     {
-      "id": "fb7f545c-2116-4726-a21c-9af35c3cbba4",
-      "latitude": -35.024,
-      "longitude": 138.559009,
-      "street": "M2 - Southern Exp",
-      "city": "Unknown City",
+      "id": "f6ac5213-ffd0-4af2-a49a-a65f687cba57",
+      "latitude": -34.941157,
+      "longitude": 138.60402,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-02-02T03:00:18Z",
-      "reported_at": "2026-02-02T02:40:41Z"
+      "timestamp": "2026-02-02T03:30:15Z",
+      "reported_at": "2026-02-02T03:10:24Z"
+    },
+    {
+      "id": "9b0c52ac-7613-4098-ab58-fe776b6d638b",
+      "latitude": -35.032743,
+      "longitude": 138.555269,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-02T03:30:15Z",
+      "reported_at": "2026-02-02T03:22:59Z"
     }
   ]
 }
