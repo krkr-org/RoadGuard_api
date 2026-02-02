@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "b7358d7a-469c-4c93-95c5-0e8278010038",
-      "latitude": -34.891409,
-      "longitude": 138.662123,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
-      "reported_at": "2026-02-02T02:01:20Z"
-    },
-    {
-      "id": "9b584405-fe67-4d41-a0ff-745e8266fc8e",
-      "latitude": -34.879641,
-      "longitude": 138.668831,
-      "street": "Hambledon Rd",
-      "city": "Campbelltown",
-      "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
-      "reported_at": "2026-02-02T02:11:48Z"
-    },
-    {
-      "id": "1c268e8d-db9d-4d17-9236-fa8428cec095",
-      "latitude": -34.9754,
-      "longitude": 138.623261,
-      "street": "Hill St",
-      "city": "Netherby",
-      "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
-      "reported_at": "2026-02-02T05:36:50Z"
-    },
-    {
       "id": "54b8133b-d566-4df8-a4df-92f9b169c122",
       "latitude": -34.726342,
       "longitude": 138.667995,
       "street": "Judd Rd",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
+      "timestamp": "2026-02-02T06:30:15Z",
       "reported_at": "2026-02-02T04:00:15Z"
     },
     {
-      "id": "6808bffd-47f8-44f2-98cc-ad3f9efc7dfc",
-      "latitude": -34.733435,
-      "longitude": 138.603703,
-      "street": "Helps Rd",
-      "city": "Burton",
+      "id": "4ac2a49a-66ce-40b9-8db3-224005775f75",
+      "latitude": -34.699391,
+      "longitude": 138.668413,
+      "street": "Heytesbury Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
-      "reported_at": "2026-02-02T05:39:09Z"
-    },
-    {
-      "id": "79bc4010-a472-488d-9f14-cdf3aa507d02",
-      "latitude": -34.674986,
-      "longitude": 138.603867,
-      "street": "Womma West Rd",
-      "city": "Penfield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
-      "reported_at": "2026-02-02T02:16:32Z"
+      "timestamp": "2026-02-02T06:30:15Z",
+      "reported_at": "2026-02-02T05:58:53Z"
     },
     {
       "id": "8f92afe0-29a7-4782-96f2-226429187ee9",
@@ -67,7 +27,7 @@
       "street": "Kensington Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
+      "timestamp": "2026-02-02T06:30:15Z",
       "reported_at": "2026-02-02T04:55:41Z"
     },
     {
@@ -77,18 +37,28 @@
       "street": "Walkleys Rd",
       "city": "Walkley Heights",
       "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
+      "timestamp": "2026-02-02T06:30:15Z",
       "reported_at": "2026-02-02T05:53:15Z"
     },
     {
-      "id": "382db4d4-ca75-4758-86fc-a4d017f774fe",
-      "latitude": -34.671677,
-      "longitude": 138.629129,
-      "street": "Heaslip Rd",
-      "city": "Penfield Gardens",
+      "id": "c628117f-b72c-4066-a144-3ac194410eee",
+      "latitude": -34.900112,
+      "longitude": 138.514231,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-02T06:00:17Z",
-      "reported_at": "2026-02-02T05:55:13Z"
+      "timestamp": "2026-02-02T06:30:15Z",
+      "reported_at": "2026-02-02T06:18:43Z"
+    },
+    {
+      "id": "53bc7784-7452-48c9-a294-06160d7c0093",
+      "latitude": -34.766614,
+      "longitude": 138.605918,
+      "street": "Unknown Street",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-02T06:30:15Z",
+      "reported_at": "2026-02-02T06:05:46Z"
     }
   ]
 }
