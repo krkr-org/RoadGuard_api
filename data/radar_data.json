@@ -7,7 +7,7 @@
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
+      "timestamp": "2026-02-03T01:00:15Z",
       "reported_at": "2026-02-02T21:29:31Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "North St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
+      "timestamp": "2026-02-03T01:00:15Z",
       "reported_at": "2026-02-02T21:04:07Z"
     },
     {
@@ -27,18 +27,8 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
+      "timestamp": "2026-02-03T01:00:15Z",
       "reported_at": "2026-02-02T22:47:38Z"
-    },
-    {
-      "id": "e4b17858-8d87-420f-b1ee-cb19252620e0",
-      "latitude": -34.86151,
-      "longitude": 138.565336,
-      "street": "Days Rd",
-      "city": "Angle Park",
-      "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
-      "reported_at": "2026-02-02T22:07:22Z"
     },
     {
       "id": "8df7d187-3242-4c77-84c6-c8628649a0c3",
@@ -47,8 +37,18 @@
       "street": "Ninth Av",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
+      "timestamp": "2026-02-03T01:00:15Z",
       "reported_at": "2026-02-02T23:14:54Z"
+    },
+    {
+      "id": "a04b23ae-f519-4da6-be8a-d686fa718f08",
+      "latitude": -34.862102,
+      "longitude": 138.565375,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-02T21:12:55Z"
     },
     {
       "id": "86b62a2a-61e0-4f69-8bc0-e48a3caa8262",
@@ -57,28 +57,78 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
+      "timestamp": "2026-02-03T01:00:15Z",
       "reported_at": "2026-02-02T21:21:09Z"
     },
     {
-      "id": "40e07206-316c-45bb-83a0-ba19fc3a7d94",
-      "latitude": -34.906889,
-      "longitude": 138.491929,
+      "id": "27730910-191b-4938-907c-4c31d006304e",
+      "latitude": -34.851234,
+      "longitude": 138.487859,
+      "street": "Bower Rd",
+      "city": "Ethelton",
+      "type": "mobile",
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-03T00:29:45Z"
+    },
+    {
+      "id": "21d9a30f-a52a-4524-ae99-e39ab060e477",
+      "latitude": -34.906015,
+      "longitude": 138.491692,
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
-      "reported_at": "2026-02-02T22:49:49Z"
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-03T00:41:05Z"
     },
     {
-      "id": "f9d5f131-62d0-4941-a788-1c320ae2266d",
-      "latitude": -34.866954,
-      "longitude": 138.51749,
+      "id": "23b5bf2e-4029-4984-9d7d-3db26706535b",
+      "latitude": -34.862359,
+      "longitude": 138.508026,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-03T00:29:43Z"
+    },
+    {
+      "id": "a5f986ba-ac23-4ce9-846d-3b41c5f2b302",
+      "latitude": -34.878295,
+      "longitude": 138.485026,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-03T00:39:17Z"
+    },
+    {
+      "id": "84353840-f232-442c-88ea-e97acaf7acf6",
+      "latitude": -34.876587,
+      "longitude": 138.484589,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-03T00:43:10Z"
+    },
+    {
+      "id": "f71c0838-ed2a-495d-beb8-e0cd4113667d",
+      "latitude": -34.865954,
+      "longitude": 138.516868,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-03T00:30:16Z",
-      "reported_at": "2026-02-02T21:01:13Z"
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-02T21:21:51Z"
+    },
+    {
+      "id": "83ab3cef-c7a2-4a93-839e-078a1226f096",
+      "latitude": -34.973177,
+      "longitude": 138.654155,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-03T01:00:15Z",
+      "reported_at": "2026-02-03T00:42:39Z"
     }
   ]
 }
