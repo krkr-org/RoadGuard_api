@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "e235b5d6-1cb7-4eff-afa4-74355391d28c",
+      "latitude": -34.952255,
+      "longitude": 138.573059,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
+      "type": "mobile",
+      "timestamp": "2026-02-03T18:30:15Z",
+      "reported_at": "2026-02-03T18:04:45Z"
+    },
+    {
       "id": "12237989-fec8-41b3-a571-d0b0a0801e66",
       "latitude": -34.857944,
       "longitude": 138.565694,
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-03T18:00:16Z",
+      "timestamp": "2026-02-03T18:30:15Z",
       "reported_at": "2026-02-03T17:17:42Z"
     }
   ]
