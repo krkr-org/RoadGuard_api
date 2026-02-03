@@ -7,7 +7,7 @@
       "street": "Varcoe St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-03T02:52:47Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-03T02:48:10Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-03T02:20:21Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Ninth Av",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-02T23:14:54Z"
     },
     {
@@ -47,18 +47,38 @@
       "street": "Unknown Street",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-03T01:18:52Z"
     },
     {
-      "id": "742faf9e-2531-4d85-acc0-8703859e0930",
-      "latitude": -34.862921,
-      "longitude": 138.528165,
+      "id": "97489ace-4aa2-42cf-b088-140080bb65ee",
+      "latitude": -34.861397,
+      "longitude": 138.525665,
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
-      "reported_at": "2026-02-03T02:02:03Z"
+      "timestamp": "2026-02-03T04:30:15Z",
+      "reported_at": "2026-02-03T00:30:14Z"
+    },
+    {
+      "id": "9a64165b-9a65-45d5-b4d8-3c7de77e2f55",
+      "latitude": -34.861709,
+      "longitude": 138.565349,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-03T04:30:15Z",
+      "reported_at": "2026-02-03T03:00:24Z"
+    },
+    {
+      "id": "9cf0ccc9-a3f2-4c05-b814-2ee7e1f7b198",
+      "latitude": -35.081282,
+      "longitude": 138.569879,
+      "street": "Chandlers Hill Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-03T04:30:15Z",
+      "reported_at": "2026-02-03T04:11:13Z"
     },
     {
       "id": "32c8380c-f290-48af-a7ef-5a538fa293e0",
@@ -67,28 +87,18 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-02T23:41:30Z"
     },
     {
-      "id": "21d9a30f-a52a-4524-ae99-e39ab060e477",
-      "latitude": -34.906015,
-      "longitude": 138.491692,
-      "street": "Military Rd",
-      "city": "Grange",
+      "id": "ed18a830-ac51-4850-bf52-7072eaeba421",
+      "latitude": -34.681972,
+      "longitude": 138.672483,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
-      "reported_at": "2026-02-03T00:41:05Z"
-    },
-    {
-      "id": "2e18f181-2065-4b0e-87ec-b402efa7f055",
-      "latitude": -34.805366,
-      "longitude": 138.602904,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
-      "reported_at": "2026-02-03T03:52:25Z"
+      "timestamp": "2026-02-03T04:30:15Z",
+      "reported_at": "2026-02-03T04:01:35Z"
     },
     {
       "id": "daf9c750-6697-4b15-a80d-b298b12a4029",
@@ -97,18 +107,28 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
+      "timestamp": "2026-02-03T04:30:15Z",
       "reported_at": "2026-02-03T03:39:20Z"
     },
     {
-      "id": "35e5dd9e-32d1-436e-9755-7482248571dd",
-      "latitude": -34.818009,
-      "longitude": 138.591701,
+      "id": "73dcdaa6-a288-409b-aa18-b68a12b79a04",
+      "latitude": -34.804946,
+      "longitude": 138.603436,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-03T04:30:15Z",
+      "reported_at": "2026-02-03T02:08:09Z"
+    },
+    {
+      "id": "b06df456-4f00-4503-a3de-d52f4883cccf",
+      "latitude": -34.81747,
+      "longitude": 138.591909,
       "street": "A9 - Salisbury Hwy",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-03T04:00:16Z",
-      "reported_at": "2026-02-03T01:21:25Z"
+      "timestamp": "2026-02-03T04:30:15Z",
+      "reported_at": "2026-02-03T02:42:46Z"
     }
   ]
 }
