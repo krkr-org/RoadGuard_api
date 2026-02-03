@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "dd55d7df-7987-4228-906d-2a44e1a2b567",
-      "latitude": -34.77446,
-      "longitude": 138.614788,
+      "id": "6d22f7d7-c213-44c1-9242-360af4e42730",
+      "latitude": -34.788572,
+      "longitude": 138.602149,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T05:16:28Z"
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:49:46Z"
+    },
+    {
+      "id": "e890a365-7f77-4d72-91cd-ac60b3b18fb8",
+      "latitude": -34.792908,
+      "longitude": 138.602808,
+      "street": "George St",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:48:22Z"
     },
     {
       "id": "bc589e0d-6a18-4664-8982-e27990296808",
@@ -17,38 +27,48 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
+      "timestamp": "2026-02-03T10:00:19Z",
       "reported_at": "2026-02-03T07:48:30Z"
     },
     {
-      "id": "6dbcdafa-2d12-456f-9cb6-6448fe34ec90",
-      "latitude": -34.790828,
-      "longitude": 138.600149,
-      "street": "Martins Rd",
-      "city": "Green Fields",
+      "id": "ac4608fb-3b4e-44fc-8ec3-12017671ad3f",
+      "latitude": -35.003832,
+      "longitude": 138.53561,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T09:13:29Z"
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:55:54Z"
     },
     {
-      "id": "e5cf85f0-b53b-46d4-b825-cf325e950d6f",
-      "latitude": -34.808679,
-      "longitude": 138.652429,
+      "id": "0c0bdead-2d49-4799-81a4-f701286554ec",
+      "latitude": -34.874768,
+      "longitude": 138.580999,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:41:41Z"
+    },
+    {
+      "id": "3afa2f07-6624-4424-9d2e-c2cabba4d5a0",
+      "latitude": -34.826194,
+      "longitude": 138.605064,
+      "street": "Montague Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T07:51:36Z"
+    },
+    {
+      "id": "c09b5215-7ddb-491b-bfdc-742e30ac24a9",
+      "latitude": -34.808047,
+      "longitude": 138.651404,
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T05:29:28Z"
-    },
-    {
-      "id": "71d40249-1f97-47c7-b5ce-5bd1156faa9a",
-      "latitude": -34.826164,
-      "longitude": 138.60607,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T07:51:15Z"
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T05:48:58Z"
     },
     {
       "id": "da968f38-7e67-4153-954a-4c31d90f40ae",
@@ -57,8 +77,18 @@
       "street": "Saints Rd",
       "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
+      "timestamp": "2026-02-03T10:00:19Z",
       "reported_at": "2026-02-03T06:06:47Z"
+    },
+    {
+      "id": "9d6c0ebe-0cf4-41fc-b34e-6fefd7196fdb",
+      "latitude": -34.784884,
+      "longitude": 138.668707,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T05:11:17Z"
     },
     {
       "id": "8a509a3e-ef5e-4a1d-ac1d-fa964eef375c",
@@ -67,28 +97,48 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
+      "timestamp": "2026-02-03T10:00:19Z",
       "reported_at": "2026-02-03T06:38:09Z"
     },
     {
-      "id": "ab8fd4b7-92e2-49f0-8a99-e20784c07797",
-      "latitude": -34.785341,
-      "longitude": 138.668297,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
+      "id": "82736209-a396-4141-b196-56fc4e2bec0f",
+      "latitude": -34.856313,
+      "longitude": 138.618064,
+      "street": "A17 - Hampstead Rd",
+      "city": "Clearview",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T05:23:17Z"
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:28:35Z"
     },
     {
-      "id": "b81f2c7f-d6b9-4409-83c7-36dc36ab97ff",
-      "latitude": -34.794447,
-      "longitude": 138.651606,
+      "id": "0fb55394-0590-443b-8a25-51a7ca3e9819",
+      "latitude": -34.787716,
+      "longitude": 138.618689,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:21:01Z"
+    },
+    {
+      "id": "d72f7b48-8544-4552-a005-055d65081f5a",
+      "latitude": -34.793792,
+      "longitude": 138.650353,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T08:51:16Z"
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T06:46:35Z"
+    },
+    {
+      "id": "c28f476c-eb21-4c94-8417-b82c4b15224c",
+      "latitude": -34.770145,
+      "longitude": 138.611295,
+      "street": "Unknown Street",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:29:33Z"
     },
     {
       "id": "070999f0-faa6-4c3e-8719-adfce12cb143",
@@ -97,18 +147,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
+      "timestamp": "2026-02-03T10:00:19Z",
       "reported_at": "2026-02-03T05:24:02Z"
     },
     {
-      "id": "d0849d05-3c13-4e56-987d-aaf5992b9953",
-      "latitude": -34.803295,
-      "longitude": 138.604758,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "e85906c1-0fb8-4ef4-b241-f488e4362775",
+      "latitude": -34.78716,
+      "longitude": 138.580598,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-02-03T09:30:22Z",
-      "reported_at": "2026-02-03T08:38:28Z"
+      "timestamp": "2026-02-03T10:00:19Z",
+      "reported_at": "2026-02-03T09:54:02Z"
     }
   ]
 }
