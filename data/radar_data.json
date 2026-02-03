@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "d033c137-7fed-4b27-aff0-3f854081845b",
+      "latitude": -34.917362,
+      "longitude": 138.502863,
+      "street": "North St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-03T00:00:16Z",
+      "reported_at": "2026-02-02T21:04:07Z"
+    },
+    {
       "id": "eecbe535-f05d-4278-9606-5e14b65e8068",
       "latitude": -34.857777,
       "longitude": 138.504502,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
+      "timestamp": "2026-02-03T00:00:16Z",
       "reported_at": "2026-02-02T21:29:31Z"
+    },
+    {
+      "id": "66ab35ca-774c-42c2-b052-07f21dd89966",
+      "latitude": -34.91296,
+      "longitude": 138.516956,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-03T00:00:16Z",
+      "reported_at": "2026-02-02T22:47:38Z"
     },
     {
       "id": "86b62a2a-61e0-4f69-8bc0-e48a3caa8262",
@@ -17,7 +37,7 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
+      "timestamp": "2026-02-03T00:00:16Z",
       "reported_at": "2026-02-02T21:21:09Z"
     },
     {
@@ -27,48 +47,28 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
+      "timestamp": "2026-02-03T00:00:16Z",
       "reported_at": "2026-02-02T21:12:55Z"
     },
     {
-      "id": "7f8ee72a-e548-49b3-8c87-1b36b94a3e78",
-      "latitude": -34.730077,
-      "longitude": 138.640671,
-      "street": "Third Av",
-      "city": "Edinburgh",
+      "id": "8df7d187-3242-4c77-84c6-c8628649a0c3",
+      "latitude": -34.862583,
+      "longitude": 138.545099,
+      "street": "Ninth Av",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
-      "reported_at": "2026-02-02T22:25:32Z"
+      "timestamp": "2026-02-03T00:00:16Z",
+      "reported_at": "2026-02-02T23:14:54Z"
     },
     {
-      "id": "8541d618-005b-462c-b8cd-dbfcd6f1fe1c",
-      "latitude": -34.906121,
-      "longitude": 138.491721,
+      "id": "40e07206-316c-45bb-83a0-ba19fc3a7d94",
+      "latitude": -34.906889,
+      "longitude": 138.491929,
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
-      "reported_at": "2026-02-02T20:58:01Z"
-    },
-    {
-      "id": "468f71d9-5e77-41e0-a78d-103623c690ae",
-      "latitude": -35.01728,
-      "longitude": 138.556534,
-      "street": "Sturt Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
-      "reported_at": "2026-02-02T22:19:45Z"
-    },
-    {
-      "id": "287ae46d-11cf-4934-825e-2cf8eaab67f8",
-      "latitude": -34.878678,
-      "longitude": 138.634952,
-      "street": "O.G Rd",
-      "city": "Klemzig",
-      "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
-      "reported_at": "2026-02-02T22:56:31Z"
+      "timestamp": "2026-02-03T00:00:16Z",
+      "reported_at": "2026-02-02T22:49:49Z"
     },
     {
       "id": "f9d5f131-62d0-4941-a788-1c320ae2266d",
@@ -77,18 +77,8 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
+      "timestamp": "2026-02-03T00:00:16Z",
       "reported_at": "2026-02-02T21:01:13Z"
-    },
-    {
-      "id": "5a988d83-f896-4d45-b08c-7274e744e2b5",
-      "latitude": -34.973154,
-      "longitude": 138.653133,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-02-02T23:30:17Z",
-      "reported_at": "2026-02-02T21:49:20Z"
     }
   ]
 }
