@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "e235b5d6-1cb7-4eff-afa4-74355391d28c",
-      "latitude": -34.952255,
-      "longitude": 138.573059,
-      "street": "A5 - Anzac Hwy",
-      "city": "Everard Park",
+      "id": "aad1e4ac-faf0-48ed-be4e-9459eaf8ca84",
+      "latitude": -34.730551,
+      "longitude": 138.601854,
+      "street": "Hawker Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-03T18:30:15Z",
-      "reported_at": "2026-02-03T18:04:45Z"
+      "timestamp": "2026-02-03T19:00:15Z",
+      "reported_at": "2026-02-03T18:26:16Z"
     },
     {
-      "id": "12237989-fec8-41b3-a571-d0b0a0801e66",
-      "latitude": -34.857944,
-      "longitude": 138.565694,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "53a25412-0716-4537-bba1-154683ce995a",
+      "latitude": -34.995427,
+      "longitude": 138.700206,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-02-03T18:30:15Z",
-      "reported_at": "2026-02-03T17:17:42Z"
+      "timestamp": "2026-02-03T19:00:15Z",
+      "reported_at": "2026-02-03T18:40:16Z"
+    },
+    {
+      "id": "f056bb69-9354-4d89-b676-c1bef18cc117",
+      "latitude": -34.970489,
+      "longitude": 138.650345,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-03T19:00:15Z",
+      "reported_at": "2026-02-03T18:36:17Z"
     }
   ]
 }
