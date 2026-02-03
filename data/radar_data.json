@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "eecbe535-f05d-4278-9606-5e14b65e8068",
-      "latitude": -34.857777,
-      "longitude": 138.504502,
-      "street": "Webb St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-02T21:29:31Z"
-    },
-    {
       "id": "d033c137-7fed-4b27-aff0-3f854081845b",
       "latitude": -34.917362,
       "longitude": 138.502863,
       "street": "North St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
+      "timestamp": "2026-02-03T02:00:18Z",
       "reported_at": "2026-02-02T21:04:07Z"
-    },
-    {
-      "id": "e4b17858-8d87-420f-b1ee-cb19252620e0",
-      "latitude": -34.86151,
-      "longitude": 138.565336,
-      "street": "Days Rd",
-      "city": "Angle Park",
-      "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-02T22:07:22Z"
     },
     {
       "id": "8df7d187-3242-4c77-84c6-c8628649a0c3",
@@ -37,18 +17,8 @@
       "street": "Ninth Av",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
+      "timestamp": "2026-02-03T02:00:18Z",
       "reported_at": "2026-02-02T23:14:54Z"
-    },
-    {
-      "id": "9128fd92-6890-476f-8b48-74628630be3f",
-      "latitude": -34.8919,
-      "longitude": 138.661489,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-03T00:57:03Z"
     },
     {
       "id": "97489ace-4aa2-42cf-b088-140080bb65ee",
@@ -57,8 +27,38 @@
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
+      "timestamp": "2026-02-03T02:00:18Z",
       "reported_at": "2026-02-03T00:30:14Z"
+    },
+    {
+      "id": "9128fd92-6890-476f-8b48-74628630be3f",
+      "latitude": -34.8919,
+      "longitude": 138.661489,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-03T00:57:03Z"
+    },
+    {
+      "id": "66ab35ca-774c-42c2-b052-07f21dd89966",
+      "latitude": -34.91296,
+      "longitude": 138.516956,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-02T22:47:38Z"
+    },
+    {
+      "id": "e4b17858-8d87-420f-b1ee-cb19252620e0",
+      "latitude": -34.86151,
+      "longitude": 138.565336,
+      "street": "Days Rd",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-02T22:07:22Z"
     },
     {
       "id": "21d9a30f-a52a-4524-ae99-e39ab060e477",
@@ -67,7 +67,7 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
+      "timestamp": "2026-02-03T02:00:18Z",
       "reported_at": "2026-02-03T00:41:05Z"
     },
     {
@@ -77,7 +77,7 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
+      "timestamp": "2026-02-03T02:00:18Z",
       "reported_at": "2026-02-03T00:29:43Z"
     },
     {
@@ -87,58 +87,48 @@
       "street": "Bower Rd",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
+      "timestamp": "2026-02-03T02:00:18Z",
       "reported_at": "2026-02-03T00:29:45Z"
     },
     {
-      "id": "bcecf86b-b278-499c-beda-b82dac3a6f74",
-      "latitude": -34.964174,
-      "longitude": 138.634841,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "32c8380c-f290-48af-a7ef-5a538fa293e0",
+      "latitude": -35.146611,
+      "longitude": 138.535576,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-03T01:18:48Z"
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-02T23:41:30Z"
     },
     {
-      "id": "cfb94f2e-ea55-439c-a161-5c3b269dd2f0",
-      "latitude": -34.94193,
-      "longitude": 138.574815,
-      "street": "R1 - Richmond Rd (City Ring Route)",
-      "city": "Mile End South",
-      "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-03T01:11:49Z"
-    },
-    {
-      "id": "1e85c3f9-6de3-4e8e-88bf-d6d5d35b4ce2",
-      "latitude": -34.806789,
-      "longitude": 138.601623,
+      "id": "263b0140-1a33-4cc9-a0aa-f002fcd131a0",
+      "latitude": -34.806438,
+      "longitude": 138.6021,
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-03T00:55:58Z"
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-03T00:46:56Z"
     },
     {
-      "id": "e809753c-b570-4070-95ab-9aa23c75c141",
-      "latitude": -34.970176,
-      "longitude": 138.650112,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "2b56ac10-284d-4609-8033-1f5b7cafce8e",
+      "latitude": -35.041354,
+      "longitude": 138.555094,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-03T00:43:05Z"
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-03T01:49:50Z"
     },
     {
-      "id": "35e5dd9e-32d1-436e-9755-7482248571dd",
-      "latitude": -34.818009,
-      "longitude": 138.591701,
+      "id": "c6b23357-fd3e-477e-a058-ff5c50c718a3",
+      "latitude": -34.815937,
+      "longitude": 138.593719,
       "street": "A9 - Salisbury Hwy",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-03T01:30:15Z",
-      "reported_at": "2026-02-03T01:21:25Z"
+      "timestamp": "2026-02-03T02:00:18Z",
+      "reported_at": "2026-02-03T01:55:54Z"
     }
   ]
 }
