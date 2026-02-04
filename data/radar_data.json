@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "b967e27e-10bb-4838-980d-16c1557b1dcf",
+      "latitude": -34.703883,
+      "longitude": 138.656358,
+      "street": "Hewittson Rd",
+      "city": "Edinburgh North",
+      "type": "mobile",
+      "timestamp": "2026-02-04T23:00:18Z",
+      "reported_at": "2026-02-04T21:09:32Z"
+    },
+    {
       "id": "ada0c547-1e8d-436b-b716-2bb293944a22",
       "latitude": -34.733492,
       "longitude": 138.678989,
       "street": "Halsey Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
+      "timestamp": "2026-02-04T23:00:18Z",
       "reported_at": "2026-02-04T21:09:26Z"
     },
     {
@@ -17,8 +27,18 @@
       "street": "Stanbel Rd",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
+      "timestamp": "2026-02-04T23:00:18Z",
       "reported_at": "2026-02-04T22:02:54Z"
+    },
+    {
+      "id": "43b64ac2-8012-4814-8ddb-aada76efcac5",
+      "latitude": -34.965566,
+      "longitude": 138.602482,
+      "street": "Grove St",
+      "city": "Unley Park",
+      "type": "mobile",
+      "timestamp": "2026-02-04T23:00:18Z",
+      "reported_at": "2026-02-04T22:12:32Z"
     },
     {
       "id": "426c7a27-5e99-4093-b3db-1be0aa8d63cf",
@@ -27,7 +47,7 @@
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
+      "timestamp": "2026-02-04T23:00:18Z",
       "reported_at": "2026-02-04T21:25:19Z"
     },
     {
@@ -37,38 +57,18 @@
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
+      "timestamp": "2026-02-04T23:00:18Z",
       "reported_at": "2026-02-04T22:09:25Z"
     },
     {
-      "id": "fd648171-eced-4aea-b1b3-c7bd4c75b398",
-      "latitude": -34.857399,
-      "longitude": 138.666961,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "d91c93f3-bdc2-4a7f-b76c-0f7cb6ac26cb",
+      "latitude": -34.808927,
+      "longitude": 138.652851,
+      "street": "Kesters Rd",
+      "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
-      "reported_at": "2026-02-04T22:16:24Z"
-    },
-    {
-      "id": "3d979743-aa5f-4977-acd6-fe529af93043",
-      "latitude": -34.852071,
-      "longitude": 138.666191,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
-      "reported_at": "2026-02-04T22:16:39Z"
-    },
-    {
-      "id": "2aa0fa0a-b8cd-40b8-bb47-e20ba17d0e8d",
-      "latitude": -34.990807,
-      "longitude": 138.695098,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-02-04T22:30:16Z",
-      "reported_at": "2026-02-04T19:50:16Z"
+      "timestamp": "2026-02-04T23:00:18Z",
+      "reported_at": "2026-02-04T21:25:41Z"
     }
   ]
 }
