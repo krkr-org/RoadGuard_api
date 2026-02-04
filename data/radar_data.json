@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "aaa91c0b-ec7c-4460-91e1-20a986d30164",
-      "latitude": -34.923094,
-      "longitude": 138.597315,
-      "street": "Hindley St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-03T23:30:19Z",
-      "reported_at": "2026-02-03T22:45:22Z"
-    },
-    {
-      "id": "2e8c02e0-950a-47b7-9de5-9d7bdff08873",
-      "latitude": -35.105311,
-      "longitude": 138.5229,
-      "street": "Sherriffs Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-03T23:30:19Z",
-      "reported_at": "2026-02-03T22:05:19Z"
-    },
-    {
-      "id": "80132c86-7fa9-4953-a659-79c9306f33c2",
-      "latitude": -35.007707,
-      "longitude": 138.633164,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Glenalta",
-      "type": "mobile",
-      "timestamp": "2026-02-03T23:30:19Z",
-      "reported_at": "2026-02-03T23:09:44Z"
-    },
-    {
       "id": "ac838300-e4ac-4cdb-9ab6-2baeb8c17e30",
       "latitude": -35.053484,
       "longitude": 138.559583,
       "street": "A13 - Main South Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-02-03T23:30:19Z",
+      "timestamp": "2026-02-04T00:00:19Z",
       "reported_at": "2026-02-03T21:56:15Z"
     },
     {
-      "id": "03aec935-9a5c-4f30-b668-613eafb0abac",
-      "latitude": -34.776399,
-      "longitude": 138.621746,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury Downs",
+      "id": "a791a351-b515-49f8-a8fb-d14846b5b9fd",
+      "latitude": -34.851342,
+      "longitude": 138.530942,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-02-03T23:30:19Z",
-      "reported_at": "2026-02-03T23:16:19Z"
+      "timestamp": "2026-02-04T00:00:19Z",
+      "reported_at": "2026-02-03T23:51:37Z"
+    },
+    {
+      "id": "04100af1-be10-4d5e-bfd8-d6a25c369e40",
+      "latitude": -34.820236,
+      "longitude": 138.56207,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-04T00:00:19Z",
+      "reported_at": "2026-02-03T23:46:37Z"
     }
   ]
 }
