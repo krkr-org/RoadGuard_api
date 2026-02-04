@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "39ecef06-3689-4e38-806f-bbeb7c3d81b7",
+      "latitude": -35.146632,
+      "longitude": 138.535183,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-02-04T03:00:15Z",
+      "reported_at": "2026-02-04T02:33:22Z"
+    },
+    {
       "id": "cc8c0ce3-ba24-4c8b-8945-3c9b8508aa21",
       "latitude": -34.752781,
       "longitude": 138.602466,
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-04T02:30:17Z",
+      "timestamp": "2026-02-04T03:00:15Z",
       "reported_at": "2026-02-04T01:41:22Z"
     },
     {
-      "id": "3464e1b0-717c-4d83-b7eb-651c68373fbf",
-      "latitude": -35.016159,
-      "longitude": 138.637807,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Belair",
+      "id": "d9759812-6241-4e03-b346-8d7224e43b4d",
+      "latitude": -34.952154,
+      "longitude": 138.573211,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
       "type": "mobile",
-      "timestamp": "2026-02-04T02:30:17Z",
-      "reported_at": "2026-02-04T02:04:37Z"
+      "timestamp": "2026-02-04T03:00:15Z",
+      "reported_at": "2026-02-04T02:54:26Z"
     },
     {
-      "id": "b0062080-8b4b-44db-bf29-93b34d82d85b",
-      "latitude": -34.843741,
-      "longitude": 138.599938,
+      "id": "c73ed040-630c-4cba-bb30-2672a07c7cbc",
+      "latitude": -34.897697,
+      "longitude": 138.58597,
+      "street": "A22 - Torrens Rd",
+      "city": "Ovingham",
+      "type": "mobile",
+      "timestamp": "2026-02-04T03:00:15Z",
+      "reported_at": "2026-02-04T02:49:15Z"
+    },
+    {
+      "id": "51ef2fe9-bd6a-4562-b58b-f83ca0a68d01",
+      "latitude": -34.842957,
+      "longitude": 138.599861,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-04T02:30:17Z",
-      "reported_at": "2026-02-04T02:17:39Z"
+      "timestamp": "2026-02-04T03:00:15Z",
+      "reported_at": "2026-02-04T02:17:34Z"
     },
     {
       "id": "44a2e9c5-13aa-40d6-b757-01441a0f841e",
@@ -37,7 +57,7 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-04T02:30:17Z",
+      "timestamp": "2026-02-04T03:00:15Z",
       "reported_at": "2026-02-04T02:04:39Z"
     },
     {
@@ -47,18 +67,8 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-02-04T02:30:17Z",
+      "timestamp": "2026-02-04T03:00:15Z",
       "reported_at": "2026-02-04T01:58:56Z"
-    },
-    {
-      "id": "10a431ad-cbab-4627-8f17-4c7b5b1053f8",
-      "latitude": -35.033874,
-      "longitude": 138.55597,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-04T02:30:17Z",
-      "reported_at": "2026-02-04T02:27:12Z"
     }
   ]
 }
