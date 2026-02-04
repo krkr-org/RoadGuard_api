@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "6cbb3f71-ff70-4633-957a-d2b9f47165ed",
+      "latitude": -34.932298,
+      "longitude": 138.625589,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:29:57Z"
+    },
+    {
       "id": "39ecef06-3689-4e38-806f-bbeb7c3d81b7",
       "latitude": -35.146632,
       "longitude": 138.535183,
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-04T04:00:16Z",
+      "timestamp": "2026-02-04T05:00:20Z",
       "reported_at": "2026-02-04T02:33:22Z"
     },
     {
-      "id": "48342159-188f-459f-9661-f39d5cd84c84",
-      "latitude": -34.940713,
-      "longitude": 138.612768,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "id": "7043a67b-89f7-46ba-b38e-9fc5a2785adf",
+      "latitude": -34.748034,
+      "longitude": 138.657582,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-04T04:00:16Z",
-      "reported_at": "2026-02-04T03:19:35Z"
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:23:48Z"
     },
     {
-      "id": "d20a3ad1-ef53-462e-9435-96b8408fb161",
-      "latitude": -34.838723,
-      "longitude": 138.594574,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
+      "id": "215664ec-9767-4450-9975-a13c14ca2fd4",
+      "latitude": -34.867802,
+      "longitude": 138.51197,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-02-04T04:00:16Z",
-      "reported_at": "2026-02-04T03:19:52Z"
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:07:08Z"
+    },
+    {
+      "id": "7f855549-2bfc-4cfa-9545-c5ad7faf0df2",
+      "latitude": -35.126137,
+      "longitude": 138.485903,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:19:58Z"
     },
     {
       "id": "51ef2fe9-bd6a-4562-b58b-f83ca0a68d01",
@@ -37,8 +57,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-04T04:00:16Z",
+      "timestamp": "2026-02-04T05:00:20Z",
       "reported_at": "2026-02-04T02:17:34Z"
+    },
+    {
+      "id": "5ec5cd31-8dcf-4e7b-8149-28d85830bd9a",
+      "latitude": -34.821239,
+      "longitude": 138.620758,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:40:49Z"
     },
     {
       "id": "0399ef7c-1202-491b-b52b-4ab5a4bebc9e",
@@ -47,8 +77,38 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-04T04:00:16Z",
+      "timestamp": "2026-02-04T05:00:20Z",
       "reported_at": "2026-02-04T03:17:15Z"
+    },
+    {
+      "id": "482dd95d-5bac-4d68-88ab-ed745b78eb42",
+      "latitude": -34.746598,
+      "longitude": 138.676198,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:28:29Z"
+    },
+    {
+      "id": "457f4476-212b-44fb-b8b5-dfaab2adae90",
+      "latitude": -34.785916,
+      "longitude": 138.69439,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:42:29Z"
+    },
+    {
+      "id": "3ff08824-f69d-43e3-9e77-2c001c353561",
+      "latitude": -34.779654,
+      "longitude": 138.627073,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:00:20Z",
+      "reported_at": "2026-02-04T04:57:01Z"
     }
   ]
 }
