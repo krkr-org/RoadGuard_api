@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "6cbb3f71-ff70-4633-957a-d2b9f47165ed",
-      "latitude": -34.932298,
-      "longitude": 138.625589,
-      "street": "Grant Av",
-      "city": "Rose Park",
+      "id": "525016e2-1627-4f0e-92fd-782d8f805c82",
+      "latitude": -34.939731,
+      "longitude": 138.566216,
+      "street": "Holder Av",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T04:29:57Z"
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T05:11:24Z"
+    },
+    {
+      "id": "ad61e4d7-49f2-4ee0-9182-267f1e772b50",
+      "latitude": -34.927331,
+      "longitude": 138.496541,
+      "street": "Seaview Rd",
+      "city": "Henley Beach South",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T04:59:07Z"
+    },
+    {
+      "id": "37f42ddc-2a15-49c9-918f-03950382e0ad",
+      "latitude": -34.898837,
+      "longitude": 138.612685,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T05:22:05Z"
+    },
+    {
+      "id": "9cf8f918-8635-4491-a088-2a24941523fc",
+      "latitude": -34.890529,
+      "longitude": 138.569508,
+      "street": "South Rd",
+      "city": "Ridleyton",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T04:01:05Z"
     },
     {
       "id": "39ecef06-3689-4e38-806f-bbeb7c3d81b7",
@@ -17,18 +47,18 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
+      "timestamp": "2026-02-04T05:30:16Z",
       "reported_at": "2026-02-04T02:33:22Z"
     },
     {
-      "id": "7043a67b-89f7-46ba-b38e-9fc5a2785adf",
-      "latitude": -34.748034,
-      "longitude": 138.657582,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "b1abe2ca-9102-425c-91fd-208ec4268b02",
+      "latitude": -35.10487,
+      "longitude": 138.795758,
+      "street": "Meadows Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T04:23:48Z"
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T05:08:43Z"
     },
     {
       "id": "215664ec-9767-4450-9975-a13c14ca2fd4",
@@ -37,18 +67,28 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
+      "timestamp": "2026-02-04T05:30:16Z",
       "reported_at": "2026-02-04T04:07:08Z"
     },
     {
-      "id": "7f855549-2bfc-4cfa-9545-c5ad7faf0df2",
-      "latitude": -35.126137,
-      "longitude": 138.485903,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "b8f36f2e-be53-4820-b9ca-920ae7e2af42",
+      "latitude": -34.965369,
+      "longitude": 138.572767,
+      "street": "A2 - South Rd",
+      "city": "Glandore",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T04:19:58Z"
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T05:04:33Z"
+    },
+    {
+      "id": "886c8615-71eb-462a-9ebe-96bc8b933d0b",
+      "latitude": -34.91919,
+      "longitude": 138.568306,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T05:18:15Z"
     },
     {
       "id": "51ef2fe9-bd6a-4562-b58b-f83ca0a68d01",
@@ -57,48 +97,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
+      "timestamp": "2026-02-04T05:30:16Z",
       "reported_at": "2026-02-04T02:17:34Z"
     },
     {
-      "id": "5ec5cd31-8dcf-4e7b-8149-28d85830bd9a",
-      "latitude": -34.821239,
-      "longitude": 138.620758,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T04:40:49Z"
-    },
-    {
-      "id": "0399ef7c-1202-491b-b52b-4ab5a4bebc9e",
-      "latitude": -34.827377,
-      "longitude": 138.702022,
-      "street": "A10 - North East Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T03:17:15Z"
-    },
-    {
-      "id": "482dd95d-5bac-4d68-88ab-ed745b78eb42",
-      "latitude": -34.746598,
-      "longitude": 138.676198,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T04:28:29Z"
-    },
-    {
-      "id": "457f4476-212b-44fb-b8b5-dfaab2adae90",
-      "latitude": -34.785916,
-      "longitude": 138.69439,
+      "id": "ac38f94b-c1f4-43f7-a511-a0ca7a5f3362",
+      "latitude": -34.786321,
+      "longitude": 138.69456,
       "street": "A11 - The Grove Way",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
-      "reported_at": "2026-02-04T04:42:29Z"
+      "timestamp": "2026-02-04T05:30:16Z",
+      "reported_at": "2026-02-04T04:59:29Z"
     },
     {
       "id": "3ff08824-f69d-43e3-9e77-2c001c353561",
@@ -107,7 +117,7 @@
       "street": "A18 - Kings Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-04T05:00:20Z",
+      "timestamp": "2026-02-04T05:30:16Z",
       "reported_at": "2026-02-04T04:57:01Z"
     }
   ]
