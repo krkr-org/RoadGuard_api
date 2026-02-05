@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "27730a41-18bd-471b-bebd-2cc1f62f341f",
-      "latitude": -34.928719,
-      "longitude": 138.545441,
-      "street": "Marshall Tce",
-      "city": "Brooklyn Park",
+      "id": "f4f7fb08-fd0b-492c-895b-4cc1335303f6",
+      "latitude": -34.928643,
+      "longitude": 138.513264,
+      "street": "Coral Sea Rd",
+      "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
-      "reported_at": "2026-02-05T04:31:57Z"
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T05:08:28Z"
     },
     {
       "id": "6dcc9904-576d-4cd2-b60a-2c3d8b597c12",
@@ -17,48 +17,28 @@
       "street": "Knightsbridge Tce",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
+      "timestamp": "2026-02-05T06:00:20Z",
       "reported_at": "2026-02-05T02:49:06Z"
     },
     {
-      "id": "ac830458-2a6c-4a94-ba15-15e3de4e270c",
-      "latitude": -34.913545,
-      "longitude": 138.519706,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
+      "id": "27730a41-18bd-471b-bebd-2cc1f62f341f",
+      "latitude": -34.928719,
+      "longitude": 138.545441,
+      "street": "Marshall Tce",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
-      "reported_at": "2026-02-05T04:45:44Z"
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T04:31:57Z"
     },
     {
-      "id": "08c15e44-14bd-44b3-86ad-e4ac450ae34e",
-      "latitude": -34.955927,
-      "longitude": 138.508773,
+      "id": "ad4e4be5-d8dd-4724-854b-b15ba360a66d",
+      "latitude": -34.956673,
+      "longitude": 138.509046,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
-      "reported_at": "2026-02-05T04:57:28Z"
-    },
-    {
-      "id": "5c8f8397-27fd-4930-b973-7867e0809bd1",
-      "latitude": -34.737614,
-      "longitude": 138.670836,
-      "street": "Haydown Rd",
-      "city": "Elizabeth Grove",
-      "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
-      "reported_at": "2026-02-05T01:52:28Z"
-    },
-    {
-      "id": "f85718d7-aee5-4f6c-bea1-2b1d3c94df05",
-      "latitude": -34.720747,
-      "longitude": 138.681934,
-      "street": "Kinkaid Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
-      "reported_at": "2026-02-05T02:16:20Z"
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T04:55:29Z"
     },
     {
       "id": "f3bd2c6b-ba06-4df9-b9a0-5b4e0f9e6dfd",
@@ -67,28 +47,98 @@
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
+      "timestamp": "2026-02-05T06:00:20Z",
       "reported_at": "2026-02-05T02:14:11Z"
     },
     {
-      "id": "ead228fa-2eeb-4b04-9023-0cabb4d55122",
-      "latitude": -35.138694,
-      "longitude": 138.486517,
-      "street": "Beach Rd",
-      "city": "Christie Downs",
+      "id": "f85718d7-aee5-4f6c-bea1-2b1d3c94df05",
+      "latitude": -34.720747,
+      "longitude": 138.681934,
+      "street": "Kinkaid Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
-      "reported_at": "2026-02-05T05:02:26Z"
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T02:16:20Z"
+    },
+    {
+      "id": "e569a527-e3c9-460b-968d-6123f207b4e9",
+      "latitude": -34.793481,
+      "longitude": 138.606399,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T04:43:59Z"
+    },
+    {
+      "id": "b682ea09-c10b-4307-8ce4-c90e3c59d95c",
+      "latitude": -34.71811,
+      "longitude": 138.645562,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T05:36:54Z"
+    },
+    {
+      "id": "cbcb299e-daf9-44e7-8be6-a36f3d52df99",
+      "latitude": -34.716456,
+      "longitude": 138.644965,
+      "street": "McNamara Dr",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T04:43:27Z"
+    },
+    {
+      "id": "5e17a247-7d03-4c2b-9bb8-4310b20dd841",
+      "latitude": -34.87677,
+      "longitude": 138.484629,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T05:36:40Z"
+    },
+    {
+      "id": "c68250ee-af3c-4e53-85fe-6e089578dd55",
+      "latitude": -34.707721,
+      "longitude": 138.698749,
+      "street": "Yorktown Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T05:45:44Z"
     },
     {
       "id": "26780519-134f-4670-8e1c-2ce67baf8d64",
-      "latitude": -34.904186,
-      "longitude": 138.569938,
+      "latitude": -34.904372,
+      "longitude": 138.570221,
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-05T05:30:16Z",
+      "timestamp": "2026-02-05T06:00:20Z",
       "reported_at": "2026-02-05T05:02:55Z"
+    },
+    {
+      "id": "c5660191-2173-439e-afb9-3684bb4f4f37",
+      "latitude": -34.827555,
+      "longitude": 138.696473,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T05:45:19Z"
+    },
+    {
+      "id": "f5139238-2197-404b-b0c0-c61ff3fd197c",
+      "latitude": -34.751668,
+      "longitude": 138.656296,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-02-05T06:00:20Z",
+      "reported_at": "2026-02-05T05:48:30Z"
     }
   ]
 }
