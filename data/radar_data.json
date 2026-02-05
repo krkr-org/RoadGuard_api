@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "33963d68-18c8-4105-86e3-3abbfd25ecfb",
+      "latitude": -34.818908,
+      "longitude": 138.639042,
+      "street": "Ween Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-02-05T01:30:17Z",
+      "reported_at": "2026-02-05T00:39:56Z"
+    },
+    {
       "id": "dcd3a540-8375-4c85-b125-f889fe9f45c8",
       "latitude": -34.703887,
       "longitude": 138.657885,
       "street": "Hewittson Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
+      "timestamp": "2026-02-05T01:30:17Z",
       "reported_at": "2026-02-04T21:25:17Z"
-    },
-    {
-      "id": "ada0c547-1e8d-436b-b716-2bb293944a22",
-      "latitude": -34.733492,
-      "longitude": 138.678989,
-      "street": "Halsey Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
-      "reported_at": "2026-02-04T21:09:26Z"
     },
     {
       "id": "7c7a155a-e382-44b5-aa7f-0b0f61941ff4",
@@ -27,7 +27,7 @@
       "street": "Hamblynn Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
+      "timestamp": "2026-02-05T01:30:17Z",
       "reported_at": "2026-02-04T22:09:25Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
+      "timestamp": "2026-02-05T01:30:17Z",
       "reported_at": "2026-02-04T22:59:28Z"
+    },
+    {
+      "id": "c3cbf587-c801-4bf3-a265-3bafb1224181",
+      "latitude": -34.880975,
+      "longitude": 138.68637,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-02-05T01:30:17Z",
+      "reported_at": "2026-02-05T00:56:20Z"
     },
     {
       "id": "d7cee18d-8017-48fe-98f4-9947b40c3365",
@@ -47,7 +57,7 @@
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
+      "timestamp": "2026-02-05T01:30:17Z",
       "reported_at": "2026-02-04T22:37:36Z"
     },
     {
@@ -57,28 +67,18 @@
       "street": "Stanbel Rd",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
+      "timestamp": "2026-02-05T01:30:17Z",
       "reported_at": "2026-02-04T22:02:54Z"
     },
     {
-      "id": "426c7a27-5e99-4093-b3db-1be0aa8d63cf",
-      "latitude": -34.737681,
-      "longitude": 138.670791,
-      "street": "Haydown Rd",
-      "city": "Elizabeth Grove",
-      "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
-      "reported_at": "2026-02-04T21:25:19Z"
-    },
-    {
-      "id": "d91c93f3-bdc2-4a7f-b76c-0f7cb6ac26cb",
-      "latitude": -34.808927,
-      "longitude": 138.652851,
+      "id": "99ddf5ad-fba1-47ee-ab4a-4090b0758d3b",
+      "latitude": -34.80857,
+      "longitude": 138.65225,
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
-      "reported_at": "2026-02-04T21:25:41Z"
+      "timestamp": "2026-02-05T01:30:17Z",
+      "reported_at": "2026-02-04T22:43:26Z"
     },
     {
       "id": "5423c527-c344-40e6-b4fa-6606005c4980",
@@ -87,18 +87,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
+      "timestamp": "2026-02-05T01:30:17Z",
       "reported_at": "2026-02-05T00:16:00Z"
     },
     {
-      "id": "67c259e1-d313-4c2d-ba0f-537184c685d1",
-      "latitude": -35.031283,
-      "longitude": 138.555169,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "82c2b8e6-ed18-4006-938d-808857b468fb",
+      "latitude": -34.876545,
+      "longitude": 138.694109,
+      "street": "B31 - Gorge Rd",
+      "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-05T01:00:17Z",
-      "reported_at": "2026-02-05T00:16:03Z"
+      "timestamp": "2026-02-05T01:30:17Z",
+      "reported_at": "2026-02-05T00:57:51Z"
     }
   ]
 }
