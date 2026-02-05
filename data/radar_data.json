@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "3a695044-08a9-4423-99c9-5ad37064fa7e",
+      "latitude": -34.79662,
+      "longitude": 138.649258,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-05T14:00:17Z",
+      "reported_at": "2026-02-05T10:00:49Z"
+    },
+    {
       "id": "c99bd0cc-7c27-4443-baa4-e60770ce4196",
       "latitude": -34.918837,
       "longitude": 138.573391,
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-02-05T13:30:15Z",
+      "timestamp": "2026-02-05T14:00:17Z",
       "reported_at": "2026-02-05T10:32:34Z"
+    },
+    {
+      "id": "8c564681-a928-4e9d-b4cb-c54cf55a4472",
+      "latitude": -34.95362,
+      "longitude": 138.507924,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-05T14:00:17Z",
+      "reported_at": "2026-02-05T10:50:17Z"
     },
     {
       "id": "d2c7ba9d-0b08-437b-9db4-5dc22280d0df",
@@ -17,18 +37,8 @@
       "street": "Unknown Street",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-05T13:30:15Z",
+      "timestamp": "2026-02-05T14:00:17Z",
       "reported_at": "2026-02-05T11:37:47Z"
-    },
-    {
-      "id": "007fe16a-d2db-4fd7-9b6e-ddf9361c3a90",
-      "latitude": -34.961906,
-      "longitude": 138.558162,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-05T13:30:15Z",
-      "reported_at": "2026-02-05T12:56:12Z"
     },
     {
       "id": "dbf1ae34-3381-4aa6-9ce4-5de810e7b763",
@@ -37,18 +47,8 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-05T13:30:15Z",
+      "timestamp": "2026-02-05T14:00:17Z",
       "reported_at": "2026-02-05T10:57:33Z"
-    },
-    {
-      "id": "a696564e-073a-44f7-b70f-36d78b0a2e5a",
-      "latitude": -34.976087,
-      "longitude": 138.573675,
-      "street": "A2 - South Rd",
-      "city": "Clarence Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-05T13:30:15Z",
-      "reported_at": "2026-02-05T13:05:43Z"
     }
   ]
 }
