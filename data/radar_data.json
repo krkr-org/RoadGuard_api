@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "cbf62fde-e6bf-4c96-b89f-6cb6c8f3152f",
+      "latitude": -34.925026,
+      "longitude": 138.618745,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-05T21:30:17Z",
+      "reported_at": "2026-02-05T20:59:52Z"
+    },
+    {
       "id": "57ddeea2-3fcd-4966-9d0c-32ebd7cfb041",
       "latitude": -34.925188,
       "longitude": 138.632481,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:00:19Z",
+      "timestamp": "2026-02-05T21:30:17Z",
       "reported_at": "2026-02-05T20:44:12Z"
     },
     {
-      "id": "6cd43ed1-6161-4be0-8382-af9568948440",
-      "latitude": -34.927577,
-      "longitude": 138.622864,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Kent Town",
+      "id": "bed5b4a4-952d-45b5-aadd-64fb33ceffda",
+      "latitude": -34.924512,
+      "longitude": 138.611296,
+      "street": "East Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:00:19Z",
-      "reported_at": "2026-02-05T20:44:12Z"
+      "timestamp": "2026-02-05T21:30:17Z",
+      "reported_at": "2026-02-05T21:11:50Z"
+    },
+    {
+      "id": "1863da92-0e87-40e4-b362-18189603c2d4",
+      "latitude": -34.810722,
+      "longitude": 138.645811,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-05T21:30:17Z",
+      "reported_at": "2026-02-05T21:22:49Z"
+    },
+    {
+      "id": "052f9093-5285-459c-a577-e3f0f3980271",
+      "latitude": -34.964219,
+      "longitude": 138.633842,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-02-05T21:30:17Z",
+      "reported_at": "2026-02-05T20:57:34Z"
+    },
+    {
+      "id": "8dc83c66-3a92-486e-8284-05a7c2be8f14",
+      "latitude": -34.848337,
+      "longitude": 138.669786,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-05T21:30:17Z",
+      "reported_at": "2026-02-05T21:06:34Z"
     }
   ]
 }
