@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "cbf62fde-e6bf-4c96-b89f-6cb6c8f3152f",
-      "latitude": -34.925026,
-      "longitude": 138.618745,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
+      "id": "ebd06736-7160-4978-8816-1dd20716502c",
+      "latitude": -34.930645,
+      "longitude": 138.651375,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:30:17Z",
-      "reported_at": "2026-02-05T20:59:52Z"
+      "timestamp": "2026-02-05T22:00:16Z",
+      "reported_at": "2026-02-05T21:24:53Z"
     },
     {
-      "id": "57ddeea2-3fcd-4966-9d0c-32ebd7cfb041",
-      "latitude": -34.925188,
-      "longitude": 138.632481,
+      "id": "9929d6a2-afa7-4a11-ae35-c48f92d104e4",
+      "latitude": -34.924855,
+      "longitude": 138.632262,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:30:17Z",
-      "reported_at": "2026-02-05T20:44:12Z"
+      "timestamp": "2026-02-05T22:00:16Z",
+      "reported_at": "2026-02-05T21:26:11Z"
     },
     {
-      "id": "bed5b4a4-952d-45b5-aadd-64fb33ceffda",
-      "latitude": -34.924512,
-      "longitude": 138.611296,
-      "street": "East Tce",
+      "id": "b786b3a2-efbf-4bff-a737-0a349b0c7676",
+      "latitude": -34.925122,
+      "longitude": 138.615125,
+      "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:30:17Z",
-      "reported_at": "2026-02-05T21:11:50Z"
-    },
-    {
-      "id": "1863da92-0e87-40e4-b362-18189603c2d4",
-      "latitude": -34.810722,
-      "longitude": 138.645811,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-02-05T21:30:17Z",
-      "reported_at": "2026-02-05T21:22:49Z"
+      "timestamp": "2026-02-05T22:00:16Z",
+      "reported_at": "2026-02-05T21:25:41Z"
     },
     {
       "id": "052f9093-5285-459c-a577-e3f0f3980271",
@@ -47,18 +37,38 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:30:17Z",
+      "timestamp": "2026-02-05T22:00:16Z",
       "reported_at": "2026-02-05T20:57:34Z"
     },
     {
-      "id": "8dc83c66-3a92-486e-8284-05a7c2be8f14",
-      "latitude": -34.848337,
-      "longitude": 138.669786,
+      "id": "77069cbf-66b9-4710-9734-01c7486ad71a",
+      "latitude": -34.852787,
+      "longitude": 138.665283,
       "street": "A10 - North East Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-05T21:30:17Z",
-      "reported_at": "2026-02-05T21:06:34Z"
+      "timestamp": "2026-02-05T22:00:16Z",
+      "reported_at": "2026-02-05T21:47:46Z"
+    },
+    {
+      "id": "827b5dc1-20a8-4140-bb14-d8d1811dfb29",
+      "latitude": -34.826265,
+      "longitude": 138.67968,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-02-05T22:00:16Z",
+      "reported_at": "2026-02-05T21:42:33Z"
+    },
+    {
+      "id": "b2955db4-df1d-492f-b129-f63d6edc386c",
+      "latitude": -35.010268,
+      "longitude": 138.782075,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-02-05T22:00:16Z",
+      "reported_at": "2026-02-05T21:37:05Z"
     }
   ]
 }
