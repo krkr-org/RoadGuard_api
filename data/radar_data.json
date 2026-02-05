@@ -1,74 +1,104 @@
 {
   "radars": [
     {
+      "id": "8829bb5f-49bd-4a0b-9ba8-044b78efeb30",
+      "latitude": -34.900751,
+      "longitude": 138.625725,
+      "street": "Sixth Av",
+      "city": "Joslin",
+      "type": "mobile",
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T21:36:13Z"
+    },
+    {
       "id": "ebd06736-7160-4978-8816-1dd20716502c",
       "latitude": -34.930645,
       "longitude": 138.651375,
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
+      "timestamp": "2026-02-05T22:30:19Z",
       "reported_at": "2026-02-05T21:24:53Z"
     },
     {
-      "id": "9929d6a2-afa7-4a11-ae35-c48f92d104e4",
-      "latitude": -34.924855,
-      "longitude": 138.632262,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "be5e6b3a-60a8-4b28-9e4c-d80292870a38",
+      "latitude": -34.971117,
+      "longitude": 138.619948,
+      "street": "Kitchener St",
+      "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
-      "reported_at": "2026-02-05T21:26:11Z"
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T22:17:42Z"
     },
     {
       "id": "b786b3a2-efbf-4bff-a737-0a349b0c7676",
-      "latitude": -34.925122,
-      "longitude": 138.615125,
+      "latitude": -34.925119,
+      "longitude": 138.614667,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
+      "timestamp": "2026-02-05T22:30:19Z",
       "reported_at": "2026-02-05T21:25:41Z"
     },
     {
-      "id": "052f9093-5285-459c-a577-e3f0f3980271",
-      "latitude": -34.964219,
-      "longitude": 138.633842,
+      "id": "57ddeea2-3fcd-4966-9d0c-32ebd7cfb041",
+      "latitude": -34.925188,
+      "longitude": 138.632481,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T20:44:12Z"
+    },
+    {
+      "id": "ab7384c9-e688-4280-8542-41e192ff978b",
+      "latitude": -34.749242,
+      "longitude": 138.620149,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T22:08:53Z"
+    },
+    {
+      "id": "5b1bf5e7-300c-4253-8290-28a162d2558e",
+      "latitude": -34.96416,
+      "longitude": 138.633678,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
-      "reported_at": "2026-02-05T20:57:34Z"
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T20:50:24Z"
     },
     {
-      "id": "77069cbf-66b9-4710-9734-01c7486ad71a",
-      "latitude": -34.852787,
-      "longitude": 138.665283,
+      "id": "2f3e4d77-4b34-4601-871d-027b2c5804b1",
+      "latitude": -34.84839,
+      "longitude": 138.593173,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T22:14:29Z"
+    },
+    {
+      "id": "d4211789-3d5e-4878-b8f3-d09a3dabff67",
+      "latitude": -34.848553,
+      "longitude": 138.669669,
       "street": "A10 - North East Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
-      "reported_at": "2026-02-05T21:47:46Z"
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T22:11:54Z"
     },
     {
-      "id": "827b5dc1-20a8-4140-bb14-d8d1811dfb29",
-      "latitude": -34.826265,
-      "longitude": 138.67968,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
+      "id": "6662be5f-b6b2-436c-b67a-4843cf1d1c9f",
+      "latitude": -35.133826,
+      "longitude": 138.505278,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
-      "reported_at": "2026-02-05T21:42:33Z"
-    },
-    {
-      "id": "b2955db4-df1d-492f-b129-f63d6edc386c",
-      "latitude": -35.010268,
-      "longitude": 138.782075,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-02-05T22:00:16Z",
-      "reported_at": "2026-02-05T21:37:05Z"
+      "timestamp": "2026-02-05T22:30:19Z",
+      "reported_at": "2026-02-05T22:18:16Z"
     }
   ]
 }
