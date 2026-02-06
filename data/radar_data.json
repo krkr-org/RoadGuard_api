@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "eaf6e114-a315-4660-a6f7-34dde86352bc",
-      "latitude": -34.897328,
-      "longitude": 138.492065,
-      "street": "Fort St",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-05T23:55:40Z"
-    },
-    {
-      "id": "dd2e17b5-817a-4051-b1ce-9f1c81d3a9cd",
-      "latitude": -34.930504,
-      "longitude": 138.651365,
+      "id": "89424dee-c5fd-469f-a4a2-d5e23f7cf635",
+      "latitude": -34.929799,
+      "longitude": 138.65131,
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-05T23:38:26Z"
+      "timestamp": "2026-02-06T04:00:16Z",
+      "reported_at": "2026-02-06T00:54:40Z"
     },
     {
       "id": "d343daf2-30e5-4a14-8c68-ceb846ae9ff8",
@@ -27,38 +17,18 @@
       "street": "Hawker St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
+      "timestamp": "2026-02-06T04:00:16Z",
       "reported_at": "2026-02-06T02:20:45Z"
     },
     {
-      "id": "70d3a5ee-8bab-4f4c-ac84-03c1bdb095ae",
-      "latitude": -34.680467,
-      "longitude": 138.680904,
-      "street": "Coventry Rd",
-      "city": "Smithfield Plains",
+      "id": "80fcf48c-285b-4740-b21e-7f5d56c4a9db",
+      "latitude": -34.700146,
+      "longitude": 138.667948,
+      "street": "Heytesbury Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T03:22:42Z"
-    },
-    {
-      "id": "4ab84d98-20e4-434f-9f6e-a71d98a4bbf7",
-      "latitude": -34.887917,
-      "longitude": 138.687731,
-      "street": "Montacute Rd",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T01:51:14Z"
-    },
-    {
-      "id": "8afb7912-76be-4f91-a346-e2dd10c3d0df",
-      "latitude": -34.92505,
-      "longitude": 138.615383,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-05T21:51:17Z"
+      "timestamp": "2026-02-06T04:00:16Z",
+      "reported_at": "2026-02-06T03:43:22Z"
     },
     {
       "id": "238c12a0-97e0-410c-802e-2e28f3b7f19b",
@@ -67,68 +37,18 @@
       "street": "Sir Edwin Smith Av",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
+      "timestamp": "2026-02-06T04:00:16Z",
       "reported_at": "2026-02-06T01:46:29Z"
     },
     {
-      "id": "788e5172-51b2-460f-a5cf-197ca46d188f",
-      "latitude": -34.747694,
-      "longitude": 138.657363,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "4ab84d98-20e4-434f-9f6e-a71d98a4bbf7",
+      "latitude": -34.887917,
+      "longitude": 138.687731,
+      "street": "Montacute Rd",
+      "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T03:08:40Z"
-    },
-    {
-      "id": "c7dbecf6-bdc6-458e-9fb5-cd8fa9276f81",
-      "latitude": -34.768106,
-      "longitude": 138.708933,
-      "street": "Golden Grove Rd",
-      "city": "Greenwith",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-05T23:29:16Z"
-    },
-    {
-      "id": "9eeb5320-3d1b-43a2-b6bc-ae89a193783a",
-      "latitude": -34.78859,
-      "longitude": 138.701052,
-      "street": "The Golden Way",
-      "city": "Golden Grove",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T03:07:06Z"
-    },
-    {
-      "id": "e83fce20-d384-4066-b562-77259e58cfc6",
-      "latitude": -34.713353,
-      "longitude": 138.667041,
-      "street": "Winterslow Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T02:54:29Z"
-    },
-    {
-      "id": "320d69b3-d082-4e5a-bd4e-b4047b8fb322",
-      "latitude": -34.923362,
-      "longitude": 138.616682,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T02:31:13Z"
-    },
-    {
-      "id": "a1c6e132-def9-41de-a8fb-e723889a3279",
-      "latitude": -34.964172,
-      "longitude": 138.633455,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-02-06T03:30:16Z",
-      "reported_at": "2026-02-06T00:09:18Z"
+      "timestamp": "2026-02-06T04:00:16Z",
+      "reported_at": "2026-02-06T01:51:14Z"
     }
   ]
 }
