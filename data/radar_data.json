@@ -7,8 +7,18 @@
       "street": "Lancaster Av",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
+      "timestamp": "2026-02-06T23:30:18Z",
       "reported_at": "2026-02-06T21:36:07Z"
+    },
+    {
+      "id": "224ecad6-4aa6-416a-a6a4-ca3a0e1e538a",
+      "latitude": -34.928695,
+      "longitude": 138.54589,
+      "street": "Marshall Tce",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T22:08:20Z"
     },
     {
       "id": "1bd17152-f294-4bde-8b97-de1f2ae173f8",
@@ -17,48 +27,48 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
+      "timestamp": "2026-02-06T23:30:18Z",
       "reported_at": "2026-02-06T21:03:12Z"
     },
     {
-      "id": "911aa093-a80b-4a1d-b1a9-0c193b26f73e",
-      "latitude": -35.011038,
-      "longitude": 138.578258,
-      "street": "to Ayliffes Rd / Goodwood Rd",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
-      "reported_at": "2026-02-06T22:43:22Z"
-    },
-    {
-      "id": "f197e26a-c0e9-40cf-a42d-dbc9c647f73a",
-      "latitude": -34.74241,
-      "longitude": 138.649388,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
-      "reported_at": "2026-02-06T22:48:46Z"
-    },
-    {
-      "id": "1d18a9b7-c98b-4fb0-8f81-6ac4390e3a9f",
-      "latitude": -34.723191,
-      "longitude": 138.682528,
+      "id": "d316c283-cfce-480d-aaed-c63206b78abb",
+      "latitude": -34.721304,
+      "longitude": 138.683767,
       "street": "Midway Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
-      "reported_at": "2026-02-06T21:47:13Z"
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T23:03:57Z"
     },
     {
-      "id": "978f625d-38fe-4296-a76d-4287bb43a526",
-      "latitude": -35.010719,
-      "longitude": 138.584261,
+      "id": "75e84b09-04ae-4e8d-aaf1-f80c9f63bcce",
+      "latitude": -35.010945,
+      "longitude": 138.579738,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
-      "reported_at": "2026-02-06T22:48:38Z"
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T22:48:27Z"
+    },
+    {
+      "id": "b6b9bc63-7122-4e8f-899e-4d1bad55cab9",
+      "latitude": -34.990446,
+      "longitude": 138.599723,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T23:24:31Z"
+    },
+    {
+      "id": "29383a9a-345e-4747-aef5-b6b0b3044de2",
+      "latitude": -34.734444,
+      "longitude": 138.661126,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T23:14:57Z"
     },
     {
       "id": "9585b046-c8af-4693-b3a1-67e788c68e68",
@@ -67,8 +77,38 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-02-06T23:00:19Z",
+      "timestamp": "2026-02-06T23:30:18Z",
       "reported_at": "2026-02-06T22:55:39Z"
+    },
+    {
+      "id": "63ff4ad1-6be5-4fa5-9b52-6bc36956bb39",
+      "latitude": -34.763702,
+      "longitude": 138.600904,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T23:09:19Z"
+    },
+    {
+      "id": "ae1e6579-d096-424b-8920-87b2d2455c0f",
+      "latitude": -35.087497,
+      "longitude": 138.79522,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T22:48:57Z"
+    },
+    {
+      "id": "83eddcaa-22cb-4169-bfd2-9bbb3ab9c70f",
+      "latitude": -34.981697,
+      "longitude": 138.611125,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
+      "type": "mobile",
+      "timestamp": "2026-02-06T23:30:18Z",
+      "reported_at": "2026-02-06T23:15:40Z"
     }
   ]
 }
