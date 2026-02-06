@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "5269692a-7898-4a87-ac60-cb3b5fb36aee",
-      "latitude": -34.891508,
-      "longitude": 138.603155,
-      "street": "Ballville St",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
-      "reported_at": "2026-02-06T11:54:41Z"
-    },
-    {
       "id": "f33a7cf4-f08f-46ba-8177-efcd81a47e3e",
       "latitude": -34.975484,
       "longitude": 138.582496,
       "street": "Narinna Av",
       "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
+      "timestamp": "2026-02-06T12:30:17Z",
       "reported_at": "2026-02-06T08:39:35Z"
     },
     {
-      "id": "9a5598aa-45d5-43ba-8af5-a781675721c2",
-      "latitude": -34.99768,
-      "longitude": 138.582457,
-      "street": "Cashel St",
-      "city": "St. Marys",
+      "id": "5269692a-7898-4a87-ac60-cb3b5fb36aee",
+      "latitude": -34.891508,
+      "longitude": 138.603155,
+      "street": "Ballville St",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
-      "reported_at": "2026-02-06T06:32:19Z"
+      "timestamp": "2026-02-06T12:30:17Z",
+      "reported_at": "2026-02-06T11:54:41Z"
     },
     {
-      "id": "f657cf02-168a-4bbc-9d28-ad3de77d553a",
-      "latitude": -34.98527,
-      "longitude": 138.592182,
-      "street": "Goodwood Rd",
-      "city": "Daw Park",
+      "id": "8bb74098-a58c-401b-8924-057de012a50a",
+      "latitude": -34.907477,
+      "longitude": 138.570695,
+      "street": "Manton St",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
-      "reported_at": "2026-02-06T10:03:58Z"
+      "timestamp": "2026-02-06T12:30:17Z",
+      "reported_at": "2026-02-06T12:06:13Z"
     },
     {
       "id": "e5b54a06-6584-44ae-a66d-8955d6cf9c78",
@@ -47,8 +37,18 @@
       "street": "Springbank Rd",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
+      "timestamp": "2026-02-06T12:30:17Z",
       "reported_at": "2026-02-06T08:59:55Z"
+    },
+    {
+      "id": "f657cf02-168a-4bbc-9d28-ad3de77d553a",
+      "latitude": -34.98527,
+      "longitude": 138.592182,
+      "street": "Goodwood Rd",
+      "city": "Daw Park",
+      "type": "mobile",
+      "timestamp": "2026-02-06T12:30:17Z",
+      "reported_at": "2026-02-06T10:03:58Z"
     },
     {
       "id": "96b92458-1e75-4ba7-8b0e-4d4079590404",
@@ -57,28 +57,8 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
+      "timestamp": "2026-02-06T12:30:17Z",
       "reported_at": "2026-02-06T11:56:28Z"
-    },
-    {
-      "id": "b9efedf3-2e92-454d-a17b-530c58eb36a7",
-      "latitude": -34.893312,
-      "longitude": 138.603408,
-      "street": "A1 - Main North Rd",
-      "city": "Medindie Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
-      "reported_at": "2026-02-06T11:42:46Z"
-    },
-    {
-      "id": "f30d062c-a700-49ec-82a9-fe40e1d1a386",
-      "latitude": -34.814985,
-      "longitude": 138.597817,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
-      "reported_at": "2026-02-06T11:11:03Z"
     },
     {
       "id": "b356bb6b-3ca1-42b0-b6ce-dbb01413e6fb",
@@ -87,18 +67,28 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
+      "timestamp": "2026-02-06T12:30:17Z",
       "reported_at": "2026-02-06T09:02:05Z"
     },
     {
-      "id": "1f68912d-fbfb-49c9-a19e-1a028927155a",
-      "latitude": -34.74982,
-      "longitude": 138.663394,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth Vale",
+      "id": "7d40dfa1-6a9a-4dae-b5ee-e8eca909c995",
+      "latitude": -34.910243,
+      "longitude": 138.627284,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
       "type": "mobile",
-      "timestamp": "2026-02-06T12:00:16Z",
-      "reported_at": "2026-02-06T11:28:35Z"
+      "timestamp": "2026-02-06T12:30:17Z",
+      "reported_at": "2026-02-06T12:03:46Z"
+    },
+    {
+      "id": "5fe20d7a-c11b-4a95-a086-96e332b8d445",
+      "latitude": -34.893258,
+      "longitude": 138.60329,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-06T12:30:17Z",
+      "reported_at": "2026-02-06T12:14:58Z"
     }
   ]
 }
