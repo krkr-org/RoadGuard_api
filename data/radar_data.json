@@ -1,34 +1,64 @@
 {
   "radars": [
     {
+      "id": "996e607e-45d3-489e-9edb-e90d08d99354",
+      "latitude": -34.976415,
+      "longitude": 138.58221,
+      "street": "Caulfield Av",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T04:58:07Z"
+    },
+    {
+      "id": "54013ad1-c5ed-4d04-b744-61e9d1aa3b07",
+      "latitude": -34.984858,
+      "longitude": 138.566367,
+      "street": "Adelaide Tce",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T04:52:47Z"
+    },
+    {
       "id": "fc7d174b-e239-40df-a11f-10d5703bc4c5",
       "latitude": -34.968377,
       "longitude": 138.543048,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:00:15Z",
+      "timestamp": "2026-02-06T05:30:16Z",
       "reported_at": "2026-02-06T04:35:52Z"
     },
     {
-      "id": "6bbcf8cb-ce04-4a19-a6c7-58db5f0f8f3d",
-      "latitude": -34.998386,
-      "longitude": 138.582513,
-      "street": "Cashel St",
-      "city": "St. Marys",
+      "id": "dc64ba95-41cc-45c7-9ea2-13158c8c3784",
+      "latitude": -34.965553,
+      "longitude": 138.635618,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:00:15Z",
-      "reported_at": "2026-02-06T04:53:38Z"
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T05:02:08Z"
     },
     {
-      "id": "39aac5fc-b939-4ca4-a270-2cb7162305fe",
-      "latitude": -34.845194,
-      "longitude": 138.481486,
-      "street": "Military Rd",
-      "city": "Semaphore South",
+      "id": "ecb3f657-899b-4a61-ab84-0871ffd16637",
+      "latitude": -34.975285,
+      "longitude": 138.582405,
+      "street": "Winston Av",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:00:15Z",
-      "reported_at": "2026-02-06T04:34:52Z"
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T05:14:04Z"
+    },
+    {
+      "id": "693168b5-6aa4-47b7-b887-fb857c584dfd",
+      "latitude": -34.921384,
+      "longitude": 138.630311,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T05:11:56Z"
     },
     {
       "id": "72464334-a368-4283-84a5-404fc76b88a5",
@@ -37,18 +67,38 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:00:15Z",
+      "timestamp": "2026-02-06T05:30:16Z",
       "reported_at": "2026-02-06T04:00:59Z"
     },
     {
-      "id": "4ab84d98-20e4-434f-9f6e-a71d98a4bbf7",
-      "latitude": -34.887917,
-      "longitude": 138.687731,
-      "street": "Montacute Rd",
-      "city": "Newton",
+      "id": "4e0cddc2-fec9-4b2f-81d1-7d361ca92751",
+      "latitude": -34.857237,
+      "longitude": 138.690956,
+      "street": "A11 - Lower North East Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:00:15Z",
-      "reported_at": "2026-02-06T01:51:14Z"
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T05:21:29Z"
+    },
+    {
+      "id": "a8992e74-2bee-47ee-be10-ff799a062365",
+      "latitude": -34.795778,
+      "longitude": 138.611499,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T05:14:39Z"
+    },
+    {
+      "id": "e5916ef7-c7df-4fd0-978a-096de46d8ab4",
+      "latitude": -35.02264,
+      "longitude": 138.561292,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-06T05:30:16Z",
+      "reported_at": "2026-02-06T05:18:02Z"
     }
   ]
 }
