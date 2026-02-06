@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "996e607e-45d3-489e-9edb-e90d08d99354",
-      "latitude": -34.976415,
-      "longitude": 138.58221,
-      "street": "Caulfield Av",
-      "city": "Clarence Gardens",
+      "id": "8e8af5f1-d670-44d2-80c3-f1458350bdff",
+      "latitude": -34.990814,
+      "longitude": 138.565077,
+      "street": "West St",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
-      "reported_at": "2026-02-06T04:58:07Z"
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:47:44Z"
+    },
+    {
+      "id": "6bbcf8cb-ce04-4a19-a6c7-58db5f0f8f3d",
+      "latitude": -34.9989,
+      "longitude": 138.582554,
+      "street": "Cashel St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T04:53:38Z"
     },
     {
       "id": "54013ad1-c5ed-4d04-b744-61e9d1aa3b07",
@@ -17,7 +27,7 @@
       "street": "Adelaide Tce",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
+      "timestamp": "2026-02-06T06:00:17Z",
       "reported_at": "2026-02-06T04:52:47Z"
     },
     {
@@ -27,8 +37,18 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
+      "timestamp": "2026-02-06T06:00:17Z",
       "reported_at": "2026-02-06T04:35:52Z"
+    },
+    {
+      "id": "45a15c79-ccda-4ea9-b56a-84a68344688a",
+      "latitude": -34.975413,
+      "longitude": 138.582411,
+      "street": "Winston Av",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:39:06Z"
     },
     {
       "id": "dc64ba95-41cc-45c7-9ea2-13158c8c3784",
@@ -37,28 +57,38 @@
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
+      "timestamp": "2026-02-06T06:00:17Z",
       "reported_at": "2026-02-06T05:02:08Z"
     },
     {
-      "id": "ecb3f657-899b-4a61-ab84-0871ffd16637",
-      "latitude": -34.975285,
-      "longitude": 138.582405,
-      "street": "Winston Av",
-      "city": "Clarence Gardens",
+      "id": "b9552733-45a9-45cc-97b3-e65f75bd9850",
+      "latitude": -34.85444,
+      "longitude": 138.529034,
+      "street": "Addison Rd",
+      "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
-      "reported_at": "2026-02-06T05:14:04Z"
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:55:02Z"
     },
     {
-      "id": "693168b5-6aa4-47b7-b887-fb857c584dfd",
-      "latitude": -34.921384,
-      "longitude": 138.630311,
-      "street": "The Parade",
-      "city": "Norwood",
+      "id": "d1ad1238-82ed-49a7-8794-8ed209807adc",
+      "latitude": -34.680883,
+      "longitude": 138.680644,
+      "street": "Coventry Rd",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
-      "reported_at": "2026-02-06T05:11:56Z"
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:53:52Z"
+    },
+    {
+      "id": "d8527759-e75a-4da6-81d2-077c72f7e9a3",
+      "latitude": -34.990632,
+      "longitude": 138.59597,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:49:00Z"
     },
     {
       "id": "72464334-a368-4283-84a5-404fc76b88a5",
@@ -67,38 +97,58 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
+      "timestamp": "2026-02-06T06:00:17Z",
       "reported_at": "2026-02-06T04:00:59Z"
     },
     {
-      "id": "4e0cddc2-fec9-4b2f-81d1-7d361ca92751",
-      "latitude": -34.857237,
-      "longitude": 138.690956,
-      "street": "A11 - Lower North East Rd",
-      "city": "Hope Valley",
+      "id": "f07bd5a9-a4cb-4e69-8737-19fe21fb3821",
+      "latitude": -34.925056,
+      "longitude": 138.54309,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
-      "reported_at": "2026-02-06T05:21:29Z"
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:33:20Z"
     },
     {
-      "id": "a8992e74-2bee-47ee-be10-ff799a062365",
-      "latitude": -34.795778,
-      "longitude": 138.611499,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "25ba5688-5149-4a4d-9cde-fdc0ddbe9280",
+      "latitude": -34.918372,
+      "longitude": 138.631989,
+      "street": "Osmond Tce",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
-      "reported_at": "2026-02-06T05:14:39Z"
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:49:18Z"
     },
     {
-      "id": "e5916ef7-c7df-4fd0-978a-096de46d8ab4",
-      "latitude": -35.02264,
-      "longitude": 138.561292,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "f425651d-2b1b-4ab6-ba66-00652daa475e",
+      "latitude": -34.747228,
+      "longitude": 138.607399,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-06T05:30:16Z",
-      "reported_at": "2026-02-06T05:18:02Z"
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:50:40Z"
+    },
+    {
+      "id": "f3fd7bba-69a7-4d57-b74c-d78250c47847",
+      "latitude": -34.793649,
+      "longitude": 138.645392,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:41:06Z"
+    },
+    {
+      "id": "3c1e8c43-bc95-4e9f-b13c-de11475f3303",
+      "latitude": -35.001726,
+      "longitude": 138.752368,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-02-06T06:00:17Z",
+      "reported_at": "2026-02-06T05:58:20Z"
     }
   ]
 }
