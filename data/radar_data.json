@@ -7,7 +7,7 @@
       "street": "Fort St",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T23:55:40Z"
     },
     {
@@ -17,18 +17,18 @@
       "street": "Sixth Av",
       "city": "Joslin",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T21:36:13Z"
     },
     {
-      "id": "6935e8c0-7a37-4fb7-9e92-97d9af4d5386",
-      "latitude": -34.919135,
-      "longitude": 138.57943,
-      "street": "Port Rd",
-      "city": "Adelaide",
+      "id": "ebd06736-7160-4978-8816-1dd20716502c",
+      "latitude": -34.930645,
+      "longitude": 138.651375,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
-      "reported_at": "2026-02-06T00:55:00Z"
+      "timestamp": "2026-02-06T01:30:16Z",
+      "reported_at": "2026-02-05T21:24:53Z"
     },
     {
       "id": "9929d6a2-afa7-4a11-ae35-c48f92d104e4",
@@ -37,7 +37,7 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T21:26:11Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T21:51:17Z"
     },
     {
@@ -57,8 +57,18 @@
       "street": "Old Port Rd",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T22:09:04Z"
+    },
+    {
+      "id": "7f3e02eb-442f-4c14-aa75-79419c3fd665",
+      "latitude": -34.749787,
+      "longitude": 138.657363,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-02-06T01:30:16Z",
+      "reported_at": "2026-02-06T01:12:10Z"
     },
     {
       "id": "e89ba547-0f69-411e-98c4-d3ab7c2364c5",
@@ -67,7 +77,7 @@
       "street": "Curtis Rd",
       "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T22:57:36Z"
     },
     {
@@ -77,8 +87,38 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-02-06T01:00:17Z",
+      "timestamp": "2026-02-06T01:30:16Z",
       "reported_at": "2026-02-05T20:50:24Z"
+    },
+    {
+      "id": "c833a578-ac19-4f76-b1f3-62205bf6292f",
+      "latitude": -34.92362,
+      "longitude": 138.617301,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-06T01:30:16Z",
+      "reported_at": "2026-02-06T01:16:48Z"
+    },
+    {
+      "id": "fa5f8c62-7413-4399-8a2d-28450adcec12",
+      "latitude": -34.860295,
+      "longitude": 138.684912,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-02-06T01:30:16Z",
+      "reported_at": "2026-02-06T01:05:04Z"
+    },
+    {
+      "id": "1076d11f-e957-483b-9638-2d7e55a6d9f7",
+      "latitude": -34.719525,
+      "longitude": 138.673014,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2026-02-06T01:30:16Z",
+      "reported_at": "2026-02-06T01:14:57Z"
     }
   ]
 }
