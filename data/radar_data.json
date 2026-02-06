@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "eaf6e114-a315-4660-a6f7-34dde86352bc",
+      "latitude": -34.897328,
+      "longitude": 138.492065,
+      "street": "Fort St",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-02-06T01:00:17Z",
+      "reported_at": "2026-02-05T23:55:40Z"
+    },
+    {
       "id": "8829bb5f-49bd-4a0b-9ba8-044b78efeb30",
       "latitude": -34.900751,
       "longitude": 138.625725,
       "street": "Sixth Av",
       "city": "Joslin",
       "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
+      "timestamp": "2026-02-06T01:00:17Z",
       "reported_at": "2026-02-05T21:36:13Z"
     },
     {
-      "id": "dd2e17b5-817a-4051-b1ce-9f1c81d3a9cd",
-      "latitude": -34.930504,
-      "longitude": 138.651365,
-      "street": "Tusmore Av",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
-      "reported_at": "2026-02-05T23:38:26Z"
-    },
-    {
-      "id": "04a956af-8953-4d1c-bb33-8313113ba2b4",
-      "latitude": -34.852026,
-      "longitude": 138.650153,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
-      "reported_at": "2026-02-05T23:58:45Z"
-    },
-    {
-      "id": "8afb7912-76be-4f91-a346-e2dd10c3d0df",
-      "latitude": -34.92505,
-      "longitude": 138.615383,
-      "street": "Bartels Rd",
+      "id": "6935e8c0-7a37-4fb7-9e92-97d9af4d5386",
+      "latitude": -34.919135,
+      "longitude": 138.57943,
+      "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
-      "reported_at": "2026-02-05T21:51:17Z"
+      "timestamp": "2026-02-06T01:00:17Z",
+      "reported_at": "2026-02-06T00:55:00Z"
     },
     {
       "id": "9929d6a2-afa7-4a11-ae35-c48f92d104e4",
@@ -47,8 +37,18 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
+      "timestamp": "2026-02-06T01:00:17Z",
       "reported_at": "2026-02-05T21:26:11Z"
+    },
+    {
+      "id": "8afb7912-76be-4f91-a346-e2dd10c3d0df",
+      "latitude": -34.92505,
+      "longitude": 138.615383,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-06T01:00:17Z",
+      "reported_at": "2026-02-05T21:51:17Z"
     },
     {
       "id": "892fa087-5249-448a-865c-f131478b8995",
@@ -57,7 +57,7 @@
       "street": "Old Port Rd",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
+      "timestamp": "2026-02-06T01:00:17Z",
       "reported_at": "2026-02-05T22:09:04Z"
     },
     {
@@ -67,28 +67,18 @@
       "street": "Curtis Rd",
       "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
+      "timestamp": "2026-02-06T01:00:17Z",
       "reported_at": "2026-02-05T22:57:36Z"
     },
     {
-      "id": "a1c6e132-def9-41de-a8fb-e723889a3279",
-      "latitude": -34.964201,
-      "longitude": 138.632838,
+      "id": "5b1bf5e7-300c-4253-8290-28a162d2558e",
+      "latitude": -34.96416,
+      "longitude": 138.633678,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
-      "reported_at": "2026-02-06T00:09:18Z"
-    },
-    {
-      "id": "51b1daa1-9296-4feb-8041-c8d94779d6d7",
-      "latitude": -34.865366,
-      "longitude": 138.601343,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-02-06T00:30:15Z",
-      "reported_at": "2026-02-05T23:51:09Z"
+      "timestamp": "2026-02-06T01:00:17Z",
+      "reported_at": "2026-02-05T20:50:24Z"
     }
   ]
 }
