@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "5269692a-7898-4a87-ac60-cb3b5fb36aee",
+      "latitude": -34.891508,
+      "longitude": 138.603155,
+      "street": "Ballville St",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-06T12:00:16Z",
+      "reported_at": "2026-02-06T11:54:41Z"
+    },
+    {
       "id": "f33a7cf4-f08f-46ba-8177-efcd81a47e3e",
       "latitude": -34.975484,
       "longitude": 138.582496,
       "street": "Narinna Av",
       "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
+      "timestamp": "2026-02-06T12:00:16Z",
       "reported_at": "2026-02-06T08:39:35Z"
     },
     {
@@ -17,28 +27,8 @@
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
+      "timestamp": "2026-02-06T12:00:16Z",
       "reported_at": "2026-02-06T06:32:19Z"
-    },
-    {
-      "id": "dcb41359-1c68-4b53-8db0-827bb1f179df",
-      "latitude": -34.925266,
-      "longitude": 138.502537,
-      "street": "Henley Beach Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
-      "reported_at": "2026-02-06T11:20:40Z"
-    },
-    {
-      "id": "e5b54a06-6584-44ae-a66d-8955d6cf9c78",
-      "latitude": -34.991183,
-      "longitude": 138.593059,
-      "street": "Springbank Rd",
-      "city": "Panorama",
-      "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
-      "reported_at": "2026-02-06T08:59:55Z"
     },
     {
       "id": "f657cf02-168a-4bbc-9d28-ad3de77d553a",
@@ -47,48 +37,38 @@
       "street": "Goodwood Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
+      "timestamp": "2026-02-06T12:00:16Z",
       "reported_at": "2026-02-06T10:03:58Z"
     },
     {
-      "id": "37adb8f7-cf0a-48af-a1eb-23341b174e15",
-      "latitude": -34.990667,
-      "longitude": 138.595309,
+      "id": "e5b54a06-6584-44ae-a66d-8955d6cf9c78",
+      "latitude": -34.991183,
+      "longitude": 138.593059,
       "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
-      "reported_at": "2026-02-06T09:57:06Z"
+      "timestamp": "2026-02-06T12:00:16Z",
+      "reported_at": "2026-02-06T08:59:55Z"
     },
     {
-      "id": "b356bb6b-3ca1-42b0-b6ce-dbb01413e6fb",
-      "latitude": -34.913106,
-      "longitude": 138.674021,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
+      "id": "96b92458-1e75-4ba7-8b0e-4d4079590404",
+      "latitude": -34.903423,
+      "longitude": 138.49103,
+      "street": "Military Rd",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
-      "reported_at": "2026-02-06T09:02:05Z"
+      "timestamp": "2026-02-06T12:00:16Z",
+      "reported_at": "2026-02-06T11:56:28Z"
     },
     {
-      "id": "dd9746ec-5629-4fd2-959c-34348e130b77",
-      "latitude": -34.850007,
-      "longitude": 138.559577,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
+      "id": "b9efedf3-2e92-454d-a17b-530c58eb36a7",
+      "latitude": -34.893312,
+      "longitude": 138.603408,
+      "street": "A1 - Main North Rd",
+      "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
-      "reported_at": "2026-02-06T11:13:52Z"
-    },
-    {
-      "id": "b31efd48-b068-443b-b1d6-74c0f13e02ad",
-      "latitude": -34.85605,
-      "longitude": 138.657206,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
-      "reported_at": "2026-02-06T10:56:00Z"
+      "timestamp": "2026-02-06T12:00:16Z",
+      "reported_at": "2026-02-06T11:42:46Z"
     },
     {
       "id": "f30d062c-a700-49ec-82a9-fe40e1d1a386",
@@ -97,8 +77,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-06T11:30:15Z",
+      "timestamp": "2026-02-06T12:00:16Z",
       "reported_at": "2026-02-06T11:11:03Z"
+    },
+    {
+      "id": "b356bb6b-3ca1-42b0-b6ce-dbb01413e6fb",
+      "latitude": -34.913106,
+      "longitude": 138.674021,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-02-06T12:00:16Z",
+      "reported_at": "2026-02-06T09:02:05Z"
+    },
+    {
+      "id": "1f68912d-fbfb-49c9-a19e-1a028927155a",
+      "latitude": -34.74982,
+      "longitude": 138.663394,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-06T12:00:16Z",
+      "reported_at": "2026-02-06T11:28:35Z"
     }
   ]
 }
