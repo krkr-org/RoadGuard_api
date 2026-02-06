@@ -1,34 +1,64 @@
 {
   "radars": [
     {
-      "id": "1b7d4301-a3e5-4d12-9e0a-01de10e1c57c",
-      "latitude": -34.798653,
-      "longitude": 138.656452,
+      "id": "0e1a67e1-2fb4-48fb-9bca-ddd920db50e3",
+      "latitude": -34.912858,
+      "longitude": 138.509471,
+      "street": "Lancaster Av",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-06T22:00:17Z",
+      "reported_at": "2026-02-06T21:36:07Z"
+    },
+    {
+      "id": "1bd17152-f294-4bde-8b97-de1f2ae173f8",
+      "latitude": -34.952916,
+      "longitude": 138.507644,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-06T22:00:17Z",
+      "reported_at": "2026-02-06T21:03:12Z"
+    },
+    {
+      "id": "1d18a9b7-c98b-4fb0-8f81-6ac4390e3a9f",
+      "latitude": -34.723191,
+      "longitude": 138.682528,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-02-06T22:00:17Z",
+      "reported_at": "2026-02-06T21:47:13Z"
+    },
+    {
+      "id": "2ce54ff4-c9c7-49f8-8a00-6d2022615012",
+      "latitude": -34.797784,
+      "longitude": 138.657197,
       "street": "Bridge Rd",
-      "city": "Para Hills West",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-06T21:30:15Z",
-      "reported_at": "2026-02-06T21:20:36Z"
+      "timestamp": "2026-02-06T22:00:17Z",
+      "reported_at": "2026-02-06T21:27:56Z"
     },
     {
-      "id": "6351d9d2-19b0-42d0-8aa8-306fdf161214",
-      "latitude": -34.96932,
-      "longitude": 138.517074,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "id": "43b8fd98-2a7b-4d88-9095-5aa88186dfaf",
+      "latitude": -34.899789,
+      "longitude": 138.601296,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "Medindie",
       "type": "mobile",
-      "timestamp": "2026-02-06T21:30:15Z",
-      "reported_at": "2026-02-06T20:40:41Z"
+      "timestamp": "2026-02-06T22:00:17Z",
+      "reported_at": "2026-02-06T21:36:21Z"
     },
     {
-      "id": "734ac1bd-7336-420e-abe6-42ea073c75e2",
-      "latitude": -35.048677,
-      "longitude": 138.547948,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "61012e6b-3b65-4924-9f48-ae4bb8aa530b",
+      "latitude": -34.966135,
+      "longitude": 138.648099,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-02-06T21:30:15Z",
-      "reported_at": "2026-02-06T21:27:58Z"
+      "timestamp": "2026-02-06T22:00:17Z",
+      "reported_at": "2026-02-06T21:44:06Z"
     }
   ]
 }
