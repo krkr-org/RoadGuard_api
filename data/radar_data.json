@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "c5a19b98-919f-4bd3-96a4-e5cf74066291",
+      "latitude": -34.815405,
+      "longitude": 138.597592,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-02-07T21:00:16Z",
+      "reported_at": "2026-02-07T20:19:06Z"
+    },
+    {
+      "id": "3f742a5d-a558-4853-9810-a6238f614da3",
+      "latitude": -34.972203,
+      "longitude": 138.573267,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-02-07T21:00:16Z",
+      "reported_at": "2026-02-07T20:52:45Z"
+    }
+  ]
 }
