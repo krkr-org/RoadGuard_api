@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "0e1a67e1-2fb4-48fb-9bca-ddd920db50e3",
-      "latitude": -34.912771,
-      "longitude": 138.509421,
-      "street": "Lancaster Av",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
-      "reported_at": "2026-02-06T21:36:07Z"
-    },
-    {
       "id": "fbac20d9-8675-451f-aa28-4c7099a5b328",
       "latitude": -34.896891,
       "longitude": 138.524228,
       "street": "Buccleuch Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
+      "timestamp": "2026-02-07T02:30:17Z",
       "reported_at": "2026-02-07T01:17:11Z"
     },
     {
-      "id": "224ecad6-4aa6-416a-a6a4-ca3a0e1e538a",
-      "latitude": -34.928695,
-      "longitude": 138.54589,
-      "street": "Marshall Tce",
-      "city": "Brooklyn Park",
+      "id": "0e1a67e1-2fb4-48fb-9bca-ddd920db50e3",
+      "latitude": -34.912771,
+      "longitude": 138.509421,
+      "street": "Lancaster Av",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
-      "reported_at": "2026-02-06T22:08:20Z"
+      "timestamp": "2026-02-07T02:30:17Z",
+      "reported_at": "2026-02-06T21:36:07Z"
     },
     {
       "id": "f85584c1-3f5e-4b7c-b7be-40298d97c1ac",
@@ -37,7 +27,7 @@
       "street": "Newhaven Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
+      "timestamp": "2026-02-07T02:30:17Z",
       "reported_at": "2026-02-07T00:19:32Z"
     },
     {
@@ -47,7 +37,7 @@
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
+      "timestamp": "2026-02-07T02:30:17Z",
       "reported_at": "2026-02-06T22:22:03Z"
     },
     {
@@ -57,18 +47,38 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
+      "timestamp": "2026-02-07T02:30:17Z",
       "reported_at": "2026-02-07T00:06:17Z"
     },
     {
-      "id": "ae1e6579-d096-424b-8920-87b2d2455c0f",
-      "latitude": -35.087497,
-      "longitude": 138.79522,
+      "id": "d8016502-8402-4b59-9e3a-f9282e53eaaf",
+      "latitude": -34.960411,
+      "longitude": 138.563365,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-07T02:30:17Z",
+      "reported_at": "2026-02-07T02:05:20Z"
+    },
+    {
+      "id": "59330e07-f377-4fd8-a444-95916db82bae",
+      "latitude": -35.089109,
+      "longitude": 138.794429,
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
-      "reported_at": "2026-02-06T22:48:57Z"
+      "timestamp": "2026-02-07T02:30:17Z",
+      "reported_at": "2026-02-07T00:05:27Z"
+    },
+    {
+      "id": "cc5fc26a-e825-4412-a7b0-cef921b1056e",
+      "latitude": -34.969808,
+      "longitude": 138.516978,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-02-07T02:30:17Z",
+      "reported_at": "2026-02-07T02:16:04Z"
     },
     {
       "id": "c0364c2a-d65a-4deb-84c9-62c0f1e0b449",
@@ -77,8 +87,28 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:00:16Z",
+      "timestamp": "2026-02-07T02:30:17Z",
       "reported_at": "2026-02-07T00:19:50Z"
+    },
+    {
+      "id": "e57fdf59-3e11-4c1f-833e-1aff67855be5",
+      "latitude": -35.034791,
+      "longitude": 138.556905,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-07T02:30:17Z",
+      "reported_at": "2026-02-07T02:29:11Z"
+    },
+    {
+      "id": "5d0617db-c8a5-46a9-b651-81f4d328f70c",
+      "latitude": -34.999219,
+      "longitude": 138.710903,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-02-07T02:30:17Z",
+      "reported_at": "2026-02-07T02:29:07Z"
     }
   ]
 }
