@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "2bdb81b6-a67a-46b2-91b3-f0099a8d5596",
-      "latitude": -34.793603,
-      "longitude": 138.692176,
-      "street": "The Golden Way",
-      "city": "Golden Grove",
-      "type": "mobile",
-      "timestamp": "2026-02-07T23:00:16Z",
-      "reported_at": "2026-02-07T22:42:13Z"
-    },
-    {
-      "id": "52fb98f6-de0d-4ddc-a765-92186e244ab1",
-      "latitude": -34.992413,
-      "longitude": 138.584917,
+      "id": "66e21f48-c1c2-4faa-8870-804a606e4ec2",
+      "latitude": -34.99232,
+      "longitude": 138.584437,
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T23:00:16Z",
-      "reported_at": "2026-02-07T21:31:55Z"
-    },
-    {
-      "id": "f3e4cde5-ab3e-4665-87d4-6f5fd68119a2",
-      "latitude": -34.753038,
-      "longitude": 138.626393,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-02-07T23:00:16Z",
-      "reported_at": "2026-02-07T22:46:31Z"
-    },
-    {
-      "id": "81bb2723-1dab-4ea4-95b0-844c8e7de16b",
-      "latitude": -34.871388,
-      "longitude": 138.592929,
-      "street": "Prospect Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-02-07T23:00:16Z",
-      "reported_at": "2026-02-07T22:27:43Z"
+      "timestamp": "2026-02-07T23:30:18Z",
+      "reported_at": "2026-02-07T21:33:05Z"
     },
     {
       "id": "25ab7139-7fd6-45c8-a5dc-68eeac91b592",
@@ -47,8 +17,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T23:00:16Z",
+      "timestamp": "2026-02-07T23:30:18Z",
       "reported_at": "2026-02-07T22:29:00Z"
+    },
+    {
+      "id": "259b54e8-f30a-4b70-a107-1b24c1b500ee",
+      "latitude": -34.968333,
+      "longitude": 138.671984,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-07T23:30:18Z",
+      "reported_at": "2026-02-07T23:25:20Z"
     }
   ]
 }
