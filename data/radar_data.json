@@ -2,13 +2,23 @@
   "radars": [
     {
       "id": "0e1a67e1-2fb4-48fb-9bca-ddd920db50e3",
-      "latitude": -34.912858,
-      "longitude": 138.509471,
+      "latitude": -34.912771,
+      "longitude": 138.509421,
       "street": "Lancaster Av",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
+      "timestamp": "2026-02-07T00:30:17Z",
       "reported_at": "2026-02-06T21:36:07Z"
+    },
+    {
+      "id": "f85584c1-3f5e-4b7c-b7be-40298d97c1ac",
+      "latitude": -34.968695,
+      "longitude": 138.516855,
+      "street": "Newhaven Av",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:19:32Z"
     },
     {
       "id": "224ecad6-4aa6-416a-a6a4-ca3a0e1e538a",
@@ -17,18 +27,18 @@
       "street": "Marshall Tce",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
+      "timestamp": "2026-02-07T00:30:17Z",
       "reported_at": "2026-02-06T22:08:20Z"
     },
     {
-      "id": "15a6f095-c2c7-4966-ae3c-fe1f14f5eac1",
-      "latitude": -34.982915,
-      "longitude": 138.567443,
-      "street": "Adelaide Tce",
-      "city": "Edwardstown",
+      "id": "1ede0817-d003-416f-861a-55f998edff55",
+      "latitude": -34.945012,
+      "longitude": 138.51222,
+      "street": "West Beach Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T23:39:27Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:13:08Z"
     },
     {
       "id": "3e7be7f5-f934-4075-807a-74b88134579a",
@@ -37,78 +47,98 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
+      "timestamp": "2026-02-07T00:30:17Z",
       "reported_at": "2026-02-06T21:25:05Z"
     },
     {
-      "id": "b62bcb85-0254-4b5d-bab0-f74933a570aa",
-      "latitude": -34.914275,
-      "longitude": 138.494116,
+      "id": "42dac982-3fdc-497e-9562-5c995e7d9e47",
+      "latitude": -34.913378,
+      "longitude": 138.494173,
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T22:16:07Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:20:39Z"
     },
     {
-      "id": "00325d5d-7fe2-4f9b-90bc-f855d15436c2",
-      "latitude": -34.722804,
-      "longitude": 138.682807,
+      "id": "7b3df7db-e50b-4a98-9ef8-c8edcfc37511",
+      "latitude": -34.72279,
+      "longitude": 138.682816,
       "street": "Midway Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T23:33:47Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:09:10Z"
     },
     {
-      "id": "f83df199-5525-4bde-92cc-6428c5902320",
-      "latitude": -34.749574,
-      "longitude": 138.621106,
-      "street": "Whites Rd",
-      "city": "Salisbury North",
+      "id": "e12e21e9-a4aa-4bda-bfae-7231f7ad69e5",
+      "latitude": -35.091918,
+      "longitude": 138.54658,
+      "street": "Panalatinga Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T23:37:32Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-06T23:59:18Z"
     },
     {
-      "id": "5b412478-91f4-4a5d-8546-27940a74150b",
-      "latitude": -35.023697,
-      "longitude": 138.562896,
-      "street": "Unknown Street",
-      "city": "Darlington",
+      "id": "4077ed93-4d33-47d7-9613-f3cc9cee3b5d",
+      "latitude": -35.063577,
+      "longitude": 138.651477,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T23:38:11Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:02:41Z"
     },
     {
-      "id": "9b528c15-4aa5-49e1-bf9d-b9bd8941b95e",
-      "latitude": -34.854934,
-      "longitude": 138.660692,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
+      "id": "9e62eb19-c973-4c43-a544-b13d73c2f648",
+      "latitude": -35.136207,
+      "longitude": 138.534181,
+      "street": "Doctors Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T23:49:29Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:19:51Z"
     },
     {
-      "id": "ae1e6579-d096-424b-8920-87b2d2455c0f",
-      "latitude": -35.087497,
-      "longitude": 138.79522,
+      "id": "c0364c2a-d65a-4deb-84c9-62c0f1e0b449",
+      "latitude": -34.932653,
+      "longitude": 138.539351,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:19:50Z"
+    },
+    {
+      "id": "59330e07-f377-4fd8-a444-95916db82bae",
+      "latitude": -35.089109,
+      "longitude": 138.794429,
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T22:48:57Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:05:27Z"
     },
     {
-      "id": "fb3997f0-500f-4f52-8ba4-24c9cbaa397b",
-      "latitude": -34.868934,
-      "longitude": 138.570605,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
+      "id": "8af3f524-5277-40d9-b7b8-37ed56fd934e",
+      "latitude": -35.139002,
+      "longitude": 138.486189,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T00:00:16Z",
-      "reported_at": "2026-02-06T23:49:22Z"
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-07T00:28:14Z"
+    },
+    {
+      "id": "639b3b22-7f18-4635-b6af-ca74768ac477",
+      "latitude": -34.845799,
+      "longitude": 138.79487,
+      "street": "B31 - Gorge Rd",
+      "city": "Millbrook",
+      "type": "mobile",
+      "timestamp": "2026-02-07T00:30:17Z",
+      "reported_at": "2026-02-06T23:56:43Z"
     }
   ]
 }
