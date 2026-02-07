@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "3d44a0d6-ef5e-459c-83c9-068298c43b17",
-      "latitude": -34.737654,
-      "longitude": 138.647505,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "4f574d3d-975e-4daa-8b46-dfd1b2bff34b",
+      "latitude": -34.80671,
+      "longitude": 138.680306,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:30:16Z",
-      "reported_at": "2026-02-07T10:39:24Z"
+      "timestamp": "2026-02-07T15:00:59Z",
+      "reported_at": "2026-02-07T14:30:09Z"
     },
     {
-      "id": "a9634ce1-014d-4ad3-bfa9-123215190cb2",
-      "latitude": -34.677319,
-      "longitude": 138.696361,
-      "street": "Unknown Street",
-      "city": "Munno Para",
+      "id": "9f576f5b-cb55-469b-b500-0bb1cfd83051",
+      "latitude": -34.892958,
+      "longitude": 138.647525,
+      "street": "A11 - Payneham Rd",
+      "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:30:16Z",
-      "reported_at": "2026-02-07T10:35:04Z"
-    },
-    {
-      "id": "7199e29e-2f18-4ba8-b1c9-72787149f944",
-      "latitude": -34.815644,
-      "longitude": 138.64172,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-07T14:30:16Z",
-      "reported_at": "2026-02-07T14:01:42Z"
+      "timestamp": "2026-02-07T15:00:59Z",
+      "reported_at": "2026-02-07T14:50:55Z"
     },
     {
       "id": "61edaa05-3dd3-49a1-b9e4-f645597f272b",
@@ -37,28 +27,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:30:16Z",
+      "timestamp": "2026-02-07T15:00:59Z",
       "reported_at": "2026-02-07T11:23:06Z"
-    },
-    {
-      "id": "0a065ce8-a2e7-4348-a771-4d1a5aac983d",
-      "latitude": -34.812942,
-      "longitude": 138.628164,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-07T14:30:16Z",
-      "reported_at": "2026-02-07T14:01:57Z"
-    },
-    {
-      "id": "b4e51896-ed68-4d1e-b4fe-6d38f9ab623a",
-      "latitude": -34.911344,
-      "longitude": 138.613092,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-07T14:30:16Z",
-      "reported_at": "2026-02-07T13:44:49Z"
     }
   ]
 }
