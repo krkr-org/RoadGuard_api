@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e3a55c91-74cf-445d-8c71-87bb0f58b13a",
-      "latitude": -34.948818,
-      "longitude": 138.722426,
-      "street": "Woods Hill Rd",
-      "city": "Ashton",
+      "id": "b50f7f83-4c94-42b2-b4fe-539c6478b7ab",
+      "latitude": -34.809208,
+      "longitude": 138.599835,
+      "street": "to A1 - Port Wakefield Rd to Gepps Cross / City",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:26:18Z"
+      "timestamp": "2026-02-07T13:30:17Z",
+      "reported_at": "2026-02-07T12:51:52Z"
     },
     {
       "id": "3d44a0d6-ef5e-459c-83c9-068298c43b17",
@@ -17,8 +17,18 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
+      "timestamp": "2026-02-07T13:30:17Z",
       "reported_at": "2026-02-07T10:39:24Z"
+    },
+    {
+      "id": "c2786bac-78ec-4771-ac3e-6741b3fd8a7e",
+      "latitude": -34.784485,
+      "longitude": 138.605797,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:30:17Z",
+      "reported_at": "2026-02-07T13:15:51Z"
     },
     {
       "id": "ca6986d1-4aeb-49df-b72a-f8882f3b489d",
@@ -27,7 +37,7 @@
       "street": "Unknown Street",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
+      "timestamp": "2026-02-07T13:30:17Z",
       "reported_at": "2026-02-07T10:11:53Z"
     },
     {
@@ -37,8 +47,28 @@
       "street": "Unknown Street",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
+      "timestamp": "2026-02-07T13:30:17Z",
       "reported_at": "2026-02-07T10:35:04Z"
+    },
+    {
+      "id": "215470bd-e8f4-4a48-814d-e78f480f550e",
+      "latitude": -34.906968,
+      "longitude": 138.65783,
+      "street": "Glynburn Rd",
+      "city": "Firle",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:30:17Z",
+      "reported_at": "2026-02-07T12:59:20Z"
+    },
+    {
+      "id": "1b5920b0-3d74-4c7e-8834-8ae2eb080bea",
+      "latitude": -34.811795,
+      "longitude": 138.644694,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:30:17Z",
+      "reported_at": "2026-02-07T13:10:31Z"
     },
     {
       "id": "c8a0d3e8-042c-488f-b975-9ca2d2ebbc3e",
@@ -47,18 +77,8 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
+      "timestamp": "2026-02-07T13:30:17Z",
       "reported_at": "2026-02-07T09:41:06Z"
-    },
-    {
-      "id": "6687170e-fb4c-470d-b0b6-19b61fa69be3",
-      "latitude": -34.87088,
-      "longitude": 138.570562,
-      "street": "South Rd",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:44:20Z"
     },
     {
       "id": "3d2a80c0-58ff-4b2d-8968-fe016a04fb93",
@@ -67,58 +87,18 @@
       "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
+      "timestamp": "2026-02-07T13:30:17Z",
       "reported_at": "2026-02-07T12:04:06Z"
     },
     {
-      "id": "0dbb3ed2-faf7-4a31-be96-4cf10624ee79",
-      "latitude": -34.913013,
-      "longitude": 138.675842,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:30:10Z"
-    },
-    {
-      "id": "9c9e2aa5-9772-4b24-ab22-b532a0e2f344",
-      "latitude": -34.964442,
-      "longitude": 138.629204,
+      "id": "bb349504-4b61-4abc-a38e-d228ac857d27",
+      "latitude": -34.965628,
+      "longitude": 138.603914,
       "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "city": "Unley Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:48:05Z"
-    },
-    {
-      "id": "71219080-9eb8-436d-9ba2-8a16cf3a42f0",
-      "latitude": -34.88919,
-      "longitude": 138.656581,
-      "street": "A11 - Lower North East Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:51:23Z"
-    },
-    {
-      "id": "bc5d0faa-3733-4ef9-8a76-525f9bcbfcf2",
-      "latitude": -34.8053,
-      "longitude": 138.603119,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:06:59Z"
-    },
-    {
-      "id": "e44fc908-d6e3-4fd6-807c-56fc905e1ac8",
-      "latitude": -34.848607,
-      "longitude": 138.600149,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:31:03Z"
+      "timestamp": "2026-02-07T13:30:17Z",
+      "reported_at": "2026-02-07T13:07:20Z"
     },
     {
       "id": "61edaa05-3dd3-49a1-b9e4-f645597f272b",
@@ -127,18 +107,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
+      "timestamp": "2026-02-07T13:30:17Z",
       "reported_at": "2026-02-07T11:23:06Z"
     },
     {
-      "id": "3decdfa3-1b2d-4b34-b4f2-c24602c98def",
-      "latitude": -34.751141,
-      "longitude": 138.65872,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth South",
+      "id": "e2328672-8d83-4868-a092-495ab56a6764",
+      "latitude": -34.887726,
+      "longitude": 138.603041,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-07T13:00:17Z",
-      "reported_at": "2026-02-07T12:54:34Z"
+      "timestamp": "2026-02-07T13:30:17Z",
+      "reported_at": "2026-02-07T13:12:25Z"
     }
   ]
 }
