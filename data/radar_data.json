@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "799cf02e-2706-48a1-ac0a-eaffdd766823",
-      "latitude": -34.931857,
-      "longitude": 138.534555,
-      "street": "May Tce",
-      "city": "Lockleys",
+      "id": "cfffa2e2-1f6d-4386-82f8-a16ae2b101c2",
+      "latitude": -34.907554,
+      "longitude": 138.490809,
+      "street": "Grange Rd",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T06:51:41Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:37:49Z"
+    },
+    {
+      "id": "fad7c030-d0e2-4389-9f96-aca534b2272b",
+      "latitude": -34.920982,
+      "longitude": 138.640312,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:39:47Z"
     },
     {
       "id": "19469996-33f1-407b-b0fb-2bf5638a6f6e",
@@ -17,18 +27,8 @@
       "street": "Kingston Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
+      "timestamp": "2026-02-07T11:00:17Z",
       "reported_at": "2026-02-07T08:25:06Z"
-    },
-    {
-      "id": "ff88f694-5154-4944-8583-a15604c745cb",
-      "latitude": -34.737146,
-      "longitude": 138.64633,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T05:43:43Z"
     },
     {
       "id": "705f71dd-87e4-4312-b477-05ac1b27de56",
@@ -37,58 +37,98 @@
       "street": "Stebonheath Rd",
       "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
+      "timestamp": "2026-02-07T11:00:17Z",
       "reported_at": "2026-02-07T06:15:32Z"
     },
     {
-      "id": "ee7bb9d7-ad2b-459e-9b4b-70086dde5aad",
-      "latitude": -34.799158,
-      "longitude": 138.639411,
+      "id": "ca6986d1-4aeb-49df-b72a-f8882f3b489d",
+      "latitude": -34.799115,
+      "longitude": 138.63945,
       "street": "Unknown Street",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T10:09:37Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:11:53Z"
     },
     {
-      "id": "16958924-ce96-4d18-a60c-e8eaeb0457af",
-      "latitude": -35.010836,
-      "longitude": 138.583679,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "5ebbbdac-6487-43c1-a971-22257f0dac99",
+      "latitude": -34.996904,
+      "longitude": 138.526732,
+      "street": "Oaklands Rd",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T10:21:58Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:20:06Z"
     },
     {
-      "id": "7f050182-f394-44c6-852c-740d6d10447f",
-      "latitude": -34.806635,
-      "longitude": 138.621911,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "4baf89f9-cbc5-42d6-a1e5-c8c31b19cc82",
+      "latitude": -34.941449,
+      "longitude": 138.617146,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T10:13:36Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:26:28Z"
     },
     {
-      "id": "1c818529-231f-44db-824b-3046fb700515",
-      "latitude": -34.674579,
-      "longitude": 138.575485,
-      "street": "Penfield Rd",
-      "city": "Virginia",
+      "id": "7ad547f2-28c7-44d9-9317-62737ce17ca7",
+      "latitude": -34.924427,
+      "longitude": 138.597657,
+      "street": "Currie St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T06:44:03Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:38:25Z"
     },
     {
-      "id": "a78a0ddd-4f1e-4e83-9cde-4bda9f086c07",
-      "latitude": -34.74215,
-      "longitude": 138.611952,
+      "id": "c7da0277-6660-416e-9c1e-3fc341787fd1",
+      "latitude": -34.930011,
+      "longitude": 138.58779,
+      "street": "West Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:56:04Z"
+    },
+    {
+      "id": "a7f45ec7-4b22-46e9-b29a-ae8e3ff5df3d",
+      "latitude": -34.740269,
+      "longitude": 138.613623,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T05:31:21Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T06:07:30Z"
+    },
+    {
+      "id": "09a90640-0456-4fb3-a4ce-c59ffe0dc0e8",
+      "latitude": -34.737808,
+      "longitude": 138.601438,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:18:03Z"
+    },
+    {
+      "id": "0f760a11-e779-4ea1-b18b-72930fa597df",
+      "latitude": -34.665089,
+      "longitude": 138.633277,
+      "street": "Heaslip Rd",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:49:00Z"
+    },
+    {
+      "id": "c9851f39-c853-46e9-a37b-f6f32c09a28e",
+      "latitude": -34.676383,
+      "longitude": 138.579649,
+      "street": "Penfield Rd",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T08:07:47Z"
     },
     {
       "id": "7107181f-236a-4b06-b705-98cf76778362",
@@ -97,28 +137,38 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
+      "timestamp": "2026-02-07T11:00:17Z",
       "reported_at": "2026-02-07T07:34:42Z"
     },
     {
-      "id": "c1c8102f-b398-4151-91ce-f717df0a769c",
-      "latitude": -34.856917,
-      "longitude": 138.600747,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "71f4fdf4-70bf-4064-a465-3921bc3ad95b",
+      "latitude": -34.775003,
+      "longitude": 138.619446,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T10:29:55Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:30:56Z"
     },
     {
-      "id": "69513ffd-fc38-4d9d-97ce-cac0f46e198e",
-      "latitude": -34.915968,
-      "longitude": 138.578391,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "dc64b9e9-d397-4466-8050-a6bda7020076",
+      "latitude": -35.055279,
+      "longitude": 138.534969,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-07T10:30:16Z",
-      "reported_at": "2026-02-07T10:11:13Z"
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:41:19Z"
+    },
+    {
+      "id": "3300bde7-4a1a-4652-87bc-7503c8ed02ef",
+      "latitude": -35.03927,
+      "longitude": 138.814132,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-02-07T11:00:17Z",
+      "reported_at": "2026-02-07T10:46:58Z"
     }
   ]
 }
