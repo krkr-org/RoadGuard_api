@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "fbac20d9-8675-451f-aa28-4c7099a5b328",
-      "latitude": -34.896891,
-      "longitude": 138.524228,
-      "street": "Buccleuch Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
-      "reported_at": "2026-02-07T01:17:11Z"
-    },
-    {
       "id": "79f41287-1a11-4e1f-ae1a-b6949edbfab4",
       "latitude": -34.912934,
       "longitude": 138.508859,
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
+      "timestamp": "2026-02-07T05:30:16Z",
       "reported_at": "2026-02-07T01:42:55Z"
     },
     {
-      "id": "7db9b926-4dfd-4d4b-a18a-4578ef3083df",
-      "latitude": -35.126771,
-      "longitude": 138.514115,
-      "street": "Flaxmill Rd",
+      "id": "e74ee640-ce19-4e5e-8810-7f2940d0de53",
+      "latitude": -34.917725,
+      "longitude": 138.493793,
+      "street": "Seaview Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:09:39Z"
+    },
+    {
+      "id": "38ed0613-4275-47cf-9580-03fbb57d593b",
+      "latitude": -34.734043,
+      "longitude": 138.639177,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:02:37Z"
+    },
+    {
+      "id": "2eb515c1-43da-461b-adc2-39d3b1f76568",
+      "latitude": -34.87865,
+      "longitude": 138.484952,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:14:39Z"
+    },
+    {
+      "id": "d29a91e1-b8af-482f-846c-4bc7561ce066",
+      "latitude": -35.125956,
+      "longitude": 138.529039,
+      "street": "Wheatsheaf Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
-      "reported_at": "2026-02-07T04:37:39Z"
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T04:57:17Z"
     },
     {
       "id": "3336e0e2-dd71-4761-a648-c52ade0b9bd8",
@@ -37,28 +57,8 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
+      "timestamp": "2026-02-07T05:30:16Z",
       "reported_at": "2026-02-07T04:14:34Z"
-    },
-    {
-      "id": "bcc0b3b4-c18f-40e6-a6e7-56bd6f69103a",
-      "latitude": -34.666743,
-      "longitude": 138.632237,
-      "street": "Heaslip Rd",
-      "city": "Penfield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
-      "reported_at": "2026-02-07T04:46:26Z"
-    },
-    {
-      "id": "5d7dcd8d-d5c9-4a0f-921f-b3adf24f81f7",
-      "latitude": -34.744451,
-      "longitude": 138.612328,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
-      "reported_at": "2026-02-07T04:40:28Z"
     },
     {
       "id": "7fe36ebe-7667-4a57-ad00-e66c66305be4",
@@ -67,8 +67,38 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
+      "timestamp": "2026-02-07T05:30:16Z",
       "reported_at": "2026-02-07T04:46:21Z"
+    },
+    {
+      "id": "2146bc31-921a-4d8b-acb3-9bdabc09b281",
+      "latitude": -34.6644,
+      "longitude": 138.633711,
+      "street": "Heaslip Rd",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T04:55:21Z"
+    },
+    {
+      "id": "0c186efb-5035-4078-a1a1-543bb56ed6ba",
+      "latitude": -35.018839,
+      "longitude": 138.523125,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:04:01Z"
+    },
+    {
+      "id": "047a5982-e5b9-40c8-9701-7fc2afd1cb78",
+      "latitude": -34.672235,
+      "longitude": 138.699995,
+      "street": "A20 - Main North Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:13:51Z"
     },
     {
       "id": "03801cc7-043a-42b5-a69d-ea38034717e1",
@@ -77,28 +107,28 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
+      "timestamp": "2026-02-07T05:30:16Z",
       "reported_at": "2026-02-07T03:30:32Z"
     },
     {
-      "id": "012ec907-9668-485e-b51f-7c128263c351",
-      "latitude": -34.812426,
-      "longitude": 138.597341,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
+      "id": "0254bbe5-9f79-4cbf-a5fb-d5aa09be5c4e",
+      "latitude": -34.750215,
+      "longitude": 138.678711,
+      "street": "A20 - Main North Rd",
+      "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
-      "reported_at": "2026-02-07T04:33:26Z"
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:17:44Z"
     },
     {
-      "id": "68966846-0e4f-4574-b7d4-297bf0cb26a8",
-      "latitude": -34.977943,
-      "longitude": 138.682733,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
+      "id": "d5fdf514-ff3a-485a-8544-0d802f7a1868",
+      "latitude": -34.948927,
+      "longitude": 138.629524,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-02-07T05:00:18Z",
-      "reported_at": "2026-02-07T04:55:11Z"
+      "timestamp": "2026-02-07T05:30:16Z",
+      "reported_at": "2026-02-07T05:14:02Z"
     }
   ]
 }
