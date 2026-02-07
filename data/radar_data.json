@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "a54654e4-d180-47f4-a774-69f15daaaf62",
-      "latitude": -34.861768,
-      "longitude": 138.600827,
-      "street": "Audrey Av",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
-      "reported_at": "2026-02-07T08:44:00Z"
-    },
-    {
       "id": "799cf02e-2706-48a1-ac0a-eaffdd766823",
       "latitude": -34.931857,
       "longitude": 138.534555,
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
+      "timestamp": "2026-02-07T10:00:18Z",
       "reported_at": "2026-02-07T06:51:41Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Kingston Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
+      "timestamp": "2026-02-07T10:00:18Z",
       "reported_at": "2026-02-07T08:25:06Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
+      "timestamp": "2026-02-07T10:00:18Z",
       "reported_at": "2026-02-07T05:19:53Z"
     },
     {
@@ -47,38 +37,68 @@
       "street": "Stebonheath Rd",
       "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
+      "timestamp": "2026-02-07T10:00:18Z",
       "reported_at": "2026-02-07T06:15:32Z"
     },
     {
-      "id": "f2f7129c-568d-41b3-a694-7a4dc784ee17",
-      "latitude": -35.127224,
-      "longitude": 138.504795,
+      "id": "398055b2-d34e-446d-af8c-2ae8af17c5fb",
+      "latitude": -34.798031,
+      "longitude": 138.640684,
+      "street": "Unknown Street",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T09:53:50Z"
+    },
+    {
+      "id": "e2e61226-610c-4b03-964c-672ad80291ce",
+      "latitude": -35.127292,
+      "longitude": 138.50132,
       "street": "Flaxmill Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
-      "reported_at": "2026-02-07T09:14:50Z"
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T09:41:10Z"
     },
     {
-      "id": "170cb1c8-9b31-45e5-ac22-504eee77f8d9",
-      "latitude": -35.010788,
-      "longitude": 138.583046,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "7934b825-0060-44cd-a362-a8c0e8c9f50e",
+      "latitude": -34.864606,
+      "longitude": 138.636645,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
-      "reported_at": "2026-02-07T08:48:10Z"
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T09:54:50Z"
     },
     {
-      "id": "2146bc31-921a-4d8b-acb3-9bdabc09b281",
-      "latitude": -34.6644,
-      "longitude": 138.633711,
+      "id": "bcc0b3b4-c18f-40e6-a6e7-56bd6f69103a",
+      "latitude": -34.666004,
+      "longitude": 138.632702,
       "street": "Heaslip Rd",
       "city": "Penfield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
-      "reported_at": "2026-02-07T04:55:21Z"
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T04:46:26Z"
+    },
+    {
+      "id": "1c818529-231f-44db-824b-3046fb700515",
+      "latitude": -34.674579,
+      "longitude": 138.575485,
+      "street": "Penfield Rd",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T06:44:03Z"
+    },
+    {
+      "id": "a7f45ec7-4b22-46e9-b29a-ae8e3ff5df3d",
+      "latitude": -34.740269,
+      "longitude": 138.613623,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T06:07:30Z"
     },
     {
       "id": "ee26bd61-84f0-42c5-8fa4-b00d42729595",
@@ -87,8 +107,18 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
+      "timestamp": "2026-02-07T10:00:18Z",
       "reported_at": "2026-02-07T05:49:05Z"
+    },
+    {
+      "id": "a78adfa8-a406-4f5d-8151-608f643fbfea",
+      "latitude": -34.975844,
+      "longitude": 138.527911,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T09:53:45Z"
     },
     {
       "id": "7107181f-236a-4b06-b705-98cf76778362",
@@ -97,28 +127,18 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
+      "timestamp": "2026-02-07T10:00:18Z",
       "reported_at": "2026-02-07T07:34:42Z"
     },
     {
-      "id": "5c97db9e-4a99-4648-9184-dc0510b3922b",
-      "latitude": -34.889286,
-      "longitude": 138.656648,
-      "street": "A11 - Lower North East Rd",
-      "city": "Campbelltown",
+      "id": "bcc563a3-3860-48d8-82e9-06cc32679242",
+      "latitude": -34.865976,
+      "longitude": 138.601385,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
-      "reported_at": "2026-02-07T08:53:03Z"
-    },
-    {
-      "id": "2032a8cd-3c96-4a60-bb40-c8fdb1397209",
-      "latitude": -34.966659,
-      "longitude": 138.585348,
-      "street": "A3 - Cross Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-02-07T09:30:16Z",
-      "reported_at": "2026-02-07T09:07:27Z"
+      "timestamp": "2026-02-07T10:00:18Z",
+      "reported_at": "2026-02-07T09:42:32Z"
     }
   ]
 }
