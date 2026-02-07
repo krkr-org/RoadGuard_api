@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "e3a55c91-74cf-445d-8c71-87bb0f58b13a",
+      "latitude": -34.948818,
+      "longitude": 138.722426,
+      "street": "Woods Hill Rd",
+      "city": "Ashton",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:26:18Z"
+    },
+    {
       "id": "3d44a0d6-ef5e-459c-83c9-068298c43b17",
       "latitude": -34.737654,
       "longitude": 138.647505,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
+      "timestamp": "2026-02-07T13:00:17Z",
       "reported_at": "2026-02-07T10:39:24Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Unknown Street",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
+      "timestamp": "2026-02-07T13:00:17Z",
       "reported_at": "2026-02-07T10:11:53Z"
     },
     {
@@ -27,28 +37,8 @@
       "street": "Unknown Street",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
+      "timestamp": "2026-02-07T13:00:17Z",
       "reported_at": "2026-02-07T10:35:04Z"
-    },
-    {
-      "id": "a0ff61c6-4ff8-45a5-b2a5-34c024e1e797",
-      "latitude": -34.808756,
-      "longitude": 138.630402,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
-      "reported_at": "2026-02-07T11:33:35Z"
-    },
-    {
-      "id": "7e2df055-b561-4e5f-a676-0512b86cf1a6",
-      "latitude": -34.818153,
-      "longitude": 138.67813,
-      "street": "Milne Rd",
-      "city": "Modbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
-      "reported_at": "2026-02-07T11:56:20Z"
     },
     {
       "id": "c8a0d3e8-042c-488f-b975-9ca2d2ebbc3e",
@@ -57,38 +47,98 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
+      "timestamp": "2026-02-07T13:00:17Z",
       "reported_at": "2026-02-07T09:41:06Z"
     },
     {
-      "id": "4ee084f5-d070-4179-8028-24bdf9506c95",
-      "latitude": -34.748397,
-      "longitude": 138.657363,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "6687170e-fb4c-470d-b0b6-19b61fa69be3",
+      "latitude": -34.87088,
+      "longitude": 138.570562,
+      "street": "South Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
-      "reported_at": "2026-02-07T12:11:20Z"
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:44:20Z"
     },
     {
-      "id": "d6b64030-f4d5-4cb7-8dca-25b8cb738f7a",
-      "latitude": -34.807015,
-      "longitude": 138.601583,
+      "id": "3d2a80c0-58ff-4b2d-8968-fe016a04fb93",
+      "latitude": -34.919044,
+      "longitude": 138.579243,
+      "street": "Port Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:04:06Z"
+    },
+    {
+      "id": "0dbb3ed2-faf7-4a31-be96-4cf10624ee79",
+      "latitude": -34.913013,
+      "longitude": 138.675842,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:30:10Z"
+    },
+    {
+      "id": "9c9e2aa5-9772-4b24-ab22-b532a0e2f344",
+      "latitude": -34.964442,
+      "longitude": 138.629204,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:48:05Z"
+    },
+    {
+      "id": "71219080-9eb8-436d-9ba2-8a16cf3a42f0",
+      "latitude": -34.88919,
+      "longitude": 138.656581,
+      "street": "A11 - Lower North East Rd",
+      "city": "Felixstow",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:51:23Z"
+    },
+    {
+      "id": "bc5d0faa-3733-4ef9-8a76-525f9bcbfcf2",
+      "latitude": -34.8053,
+      "longitude": 138.603119,
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
-      "reported_at": "2026-02-07T10:56:50Z"
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:06:59Z"
     },
     {
-      "id": "44a2d9ed-b008-4d53-89b4-929c1fc8aba2",
-      "latitude": -34.779078,
-      "longitude": 138.657878,
-      "street": "A20 - Main North Rd",
-      "city": "Brahma Lodge",
+      "id": "e44fc908-d6e3-4fd6-807c-56fc905e1ac8",
+      "latitude": -34.848607,
+      "longitude": 138.600149,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-07T12:30:17Z",
-      "reported_at": "2026-02-07T12:06:36Z"
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:31:03Z"
+    },
+    {
+      "id": "61edaa05-3dd3-49a1-b9e4-f645597f272b",
+      "latitude": -34.813296,
+      "longitude": 138.59742,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T11:23:06Z"
+    },
+    {
+      "id": "3decdfa3-1b2d-4b34-b4f2-c24602c98def",
+      "latitude": -34.751141,
+      "longitude": 138.65872,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-02-07T13:00:17Z",
+      "reported_at": "2026-02-07T12:54:34Z"
     }
   ]
 }
