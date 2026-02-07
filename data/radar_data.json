@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "2bdb81b6-a67a-46b2-91b3-f0099a8d5596",
+      "latitude": -34.793603,
+      "longitude": 138.692176,
+      "street": "The Golden Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-02-07T23:00:16Z",
+      "reported_at": "2026-02-07T22:42:13Z"
+    },
+    {
       "id": "52fb98f6-de0d-4ddc-a765-92186e244ab1",
       "latitude": -34.992413,
       "longitude": 138.584917,
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T22:30:17Z",
+      "timestamp": "2026-02-07T23:00:16Z",
       "reported_at": "2026-02-07T21:31:55Z"
     },
     {
-      "id": "34566543-feca-4d8a-9d22-78f188a627d5",
-      "latitude": -34.970927,
-      "longitude": 138.543982,
-      "street": "A5 - Anzac Hwy",
-      "city": "Camden Park",
+      "id": "f3e4cde5-ab3e-4665-87d4-6f5fd68119a2",
+      "latitude": -34.753038,
+      "longitude": 138.626393,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-07T22:30:17Z",
-      "reported_at": "2026-02-07T22:24:17Z"
+      "timestamp": "2026-02-07T23:00:16Z",
+      "reported_at": "2026-02-07T22:46:31Z"
+    },
+    {
+      "id": "81bb2723-1dab-4ea4-95b0-844c8e7de16b",
+      "latitude": -34.871388,
+      "longitude": 138.592929,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-07T23:00:16Z",
+      "reported_at": "2026-02-07T22:27:43Z"
+    },
+    {
+      "id": "25ab7139-7fd6-45c8-a5dc-68eeac91b592",
+      "latitude": -35.133415,
+      "longitude": 138.485787,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-07T23:00:16Z",
+      "reported_at": "2026-02-07T22:29:00Z"
     }
   ]
 }
