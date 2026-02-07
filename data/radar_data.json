@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "fbac20d9-8675-451f-aa28-4c7099a5b328",
-      "latitude": -34.896891,
-      "longitude": 138.524228,
-      "street": "Buccleuch Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
-      "reported_at": "2026-02-07T01:17:11Z"
-    },
-    {
       "id": "0e1a67e1-2fb4-48fb-9bca-ddd920db50e3",
       "latitude": -34.912771,
       "longitude": 138.509421,
       "street": "Lancaster Av",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
+      "timestamp": "2026-02-07T03:00:17Z",
       "reported_at": "2026-02-06T21:36:07Z"
+    },
+    {
+      "id": "fbac20d9-8675-451f-aa28-4c7099a5b328",
+      "latitude": -34.896891,
+      "longitude": 138.524228,
+      "street": "Buccleuch Av",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-02-07T03:00:17Z",
+      "reported_at": "2026-02-07T01:17:11Z"
     },
     {
       "id": "f85584c1-3f5e-4b7c-b7be-40298d97c1ac",
@@ -27,38 +27,48 @@
       "street": "Newhaven Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
+      "timestamp": "2026-02-07T03:00:17Z",
       "reported_at": "2026-02-07T00:19:32Z"
     },
     {
-      "id": "8d5698c7-9e8c-4fc0-ad25-edf2c3e6dab1",
-      "latitude": -34.912542,
-      "longitude": 138.493841,
+      "id": "1ede0817-d003-416f-861a-55f998edff55",
+      "latitude": -34.945012,
+      "longitude": 138.51222,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-07T03:00:17Z",
+      "reported_at": "2026-02-07T00:13:08Z"
+    },
+    {
+      "id": "42dac982-3fdc-497e-9562-5c995e7d9e47",
+      "latitude": -34.913378,
+      "longitude": 138.494173,
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
-      "reported_at": "2026-02-06T22:22:03Z"
+      "timestamp": "2026-02-07T03:00:17Z",
+      "reported_at": "2026-02-07T00:20:39Z"
     },
     {
-      "id": "766ca31f-8552-4990-a2a3-9f8977b97991",
-      "latitude": -34.866138,
-      "longitude": 138.621567,
-      "street": "Redward Av",
-      "city": "Lightsview",
+      "id": "66f25665-1675-4621-a3fb-c3ba33cb11e9",
+      "latitude": -35.024242,
+      "longitude": 138.558438,
+      "street": "to A14 - Marion Rd to Marion / Glenelg",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
-      "reported_at": "2026-02-07T00:06:17Z"
+      "timestamp": "2026-02-07T03:00:17Z",
+      "reported_at": "2026-02-07T02:41:26Z"
     },
     {
-      "id": "d8016502-8402-4b59-9e3a-f9282e53eaaf",
-      "latitude": -34.960411,
-      "longitude": 138.563365,
-      "street": "Beckman St",
-      "city": "Plympton",
+      "id": "ff7fa5d1-9ab0-43a8-98de-31daecd89dc1",
+      "latitude": -34.774267,
+      "longitude": 138.661063,
+      "street": "Park Tce",
+      "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
-      "reported_at": "2026-02-07T02:05:20Z"
+      "timestamp": "2026-02-07T03:00:17Z",
+      "reported_at": "2026-02-07T02:45:21Z"
     },
     {
       "id": "59330e07-f377-4fd8-a444-95916db82bae",
@@ -67,18 +77,8 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
+      "timestamp": "2026-02-07T03:00:17Z",
       "reported_at": "2026-02-07T00:05:27Z"
-    },
-    {
-      "id": "cc5fc26a-e825-4412-a7b0-cef921b1056e",
-      "latitude": -34.969808,
-      "longitude": 138.516978,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
-      "reported_at": "2026-02-07T02:16:04Z"
     },
     {
       "id": "c0364c2a-d65a-4deb-84c9-62c0f1e0b449",
@@ -87,18 +87,8 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
+      "timestamp": "2026-02-07T03:00:17Z",
       "reported_at": "2026-02-07T00:19:50Z"
-    },
-    {
-      "id": "e57fdf59-3e11-4c1f-833e-1aff67855be5",
-      "latitude": -35.034791,
-      "longitude": 138.556905,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
-      "reported_at": "2026-02-07T02:29:11Z"
     },
     {
       "id": "5d0617db-c8a5-46a9-b651-81f4d328f70c",
@@ -107,7 +97,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-02-07T02:30:17Z",
+      "timestamp": "2026-02-07T03:00:17Z",
       "reported_at": "2026-02-07T02:29:07Z"
     }
   ]
