@@ -7,8 +7,18 @@
       "street": "Margaret St",
       "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T05:13:27Z"
+    },
+    {
+      "id": "799cf02e-2706-48a1-ac0a-eaffdd766823",
+      "latitude": -34.931857,
+      "longitude": 138.534555,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T06:51:41Z"
     },
     {
       "id": "28fb0462-174f-4d5c-8d64-0c050ceda2e8",
@@ -17,7 +27,7 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T04:53:48Z"
     },
     {
@@ -27,18 +37,8 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T05:28:56Z"
-    },
-    {
-      "id": "759110ef-219a-43ed-b1f8-a9cc4a97493b",
-      "latitude": -34.738224,
-      "longitude": 138.648821,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T05:19:53Z"
     },
     {
       "id": "705f71dd-87e4-4312-b477-05ac1b27de56",
@@ -47,8 +47,18 @@
       "street": "Stebonheath Rd",
       "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T06:15:32Z"
+    },
+    {
+      "id": "ff88f694-5154-4944-8583-a15604c745cb",
+      "latitude": -34.737464,
+      "longitude": 138.647065,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T05:43:43Z"
     },
     {
       "id": "575954e1-abce-4a17-898a-f9c5d6f66a5d",
@@ -57,38 +67,8 @@
       "street": "Peerless Rd",
       "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T06:58:11Z"
-    },
-    {
-      "id": "128565e7-178c-48f6-8ccb-54736d39d887",
-      "latitude": -34.71846,
-      "longitude": 138.685573,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:46:30Z"
-    },
-    {
-      "id": "e423802d-3de2-4219-9a80-5f0bbf02e73d",
-      "latitude": -34.853934,
-      "longitude": 138.502213,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:38:26Z"
-    },
-    {
-      "id": "0a56932a-1e88-4c1d-8a05-602e8ae7135e",
-      "latitude": -35.030045,
-      "longitude": 138.527737,
-      "street": "Seacombe Rd",
-      "city": "South Brighton",
-      "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:12:57Z"
     },
     {
       "id": "9ff1268e-93e0-4a09-aedf-64087e9ca5f2",
@@ -97,18 +77,38 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T07:07:02Z"
     },
     {
-      "id": "7e493eb3-71dc-4fd4-b057-c5fef25015fe",
-      "latitude": -34.939045,
-      "longitude": 138.588717,
-      "street": "Goodwood Rd",
+      "id": "841db17a-1100-4e5f-b603-c6410c51f70e",
+      "latitude": -34.87412,
+      "longitude": 138.592512,
+      "street": "Regency Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T07:59:36Z"
+    },
+    {
+      "id": "3bd6e3f0-1e52-482b-a6bf-cd21fcb767e8",
+      "latitude": -35.010884,
+      "longitude": 138.582889,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T08:03:22Z"
+    },
+    {
+      "id": "e8a35047-5efb-4318-a5c0-b1a42178508c",
+      "latitude": -34.925168,
+      "longitude": 138.605736,
+      "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:15:33Z"
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T08:25:18Z"
     },
     {
       "id": "065c4c1d-ec84-46a2-96dc-d40308a9a24e",
@@ -117,28 +117,18 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T06:51:46Z"
     },
     {
-      "id": "388c72b9-55bd-41ec-9252-1ce7b199ef74",
-      "latitude": -34.747796,
-      "longitude": 138.606896,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
+      "id": "ee26bd61-84f0-42c5-8fa4-b00d42729595",
+      "latitude": -34.738322,
+      "longitude": 138.602278,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:31:08Z"
-    },
-    {
-      "id": "71dfd10c-2807-476f-93ec-686a325c7abb",
-      "latitude": -34.734982,
-      "longitude": 138.618423,
-      "street": "Unknown Street",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T06:21:00Z"
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T05:49:05Z"
     },
     {
       "id": "2146bc31-921a-4d8b-acb3-9bdabc09b281",
@@ -147,38 +137,58 @@
       "street": "Heaslip Rd",
       "city": "Penfield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T04:55:21Z"
     },
     {
-      "id": "d966bd1a-bbdc-4a20-9c81-f10e669a4491",
-      "latitude": -34.734464,
-      "longitude": 138.59592,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
+      "id": "84161e9a-2644-47f7-a1f3-5718619d9e31",
+      "latitude": -34.683497,
+      "longitude": 138.623893,
+      "street": "Womma Rd",
+      "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T06:42:17Z"
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T08:10:44Z"
     },
     {
-      "id": "196c51ee-460a-4ea9-b3e2-5ee93df466bd",
-      "latitude": -34.674297,
-      "longitude": 138.698999,
+      "id": "7107181f-236a-4b06-b705-98cf76778362",
+      "latitude": -34.674267,
+      "longitude": 138.699017,
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:54:09Z"
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T07:34:42Z"
     },
     {
-      "id": "5ffb629f-bbfc-4ba8-bf48-9a8b3170b98b",
-      "latitude": -34.860234,
-      "longitude": 138.583174,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
+      "id": "12b2825c-fa35-446e-b3f3-910b76f16e32",
+      "latitude": -34.865833,
+      "longitude": 138.601375,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
-      "reported_at": "2026-02-07T07:48:59Z"
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T06:30:37Z"
+    },
+    {
+      "id": "88455ab0-aa47-4ec6-8685-617ff5886802",
+      "latitude": -34.963713,
+      "longitude": 138.644395,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T08:18:53Z"
+    },
+    {
+      "id": "b229493e-f286-4072-8a5d-692f4314e92b",
+      "latitude": -34.93918,
+      "longitude": 138.642062,
+      "street": "B26 - Greenhill Rd",
+      "city": "Toorak Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T08:09:32Z"
     },
     {
       "id": "74be72b9-8b5e-4972-9722-2a89191e6083",
@@ -187,8 +197,18 @@
       "street": "B29 - Main Rd",
       "city": "Chandlers Hill",
       "type": "mobile",
-      "timestamp": "2026-02-07T08:00:18Z",
+      "timestamp": "2026-02-07T08:30:16Z",
       "reported_at": "2026-02-07T07:09:09Z"
+    },
+    {
+      "id": "3c01371e-93e0-4d49-822d-ba0bd62b4d39",
+      "latitude": -34.966259,
+      "longitude": 138.64821,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-07T08:30:16Z",
+      "reported_at": "2026-02-07T08:23:38Z"
     }
   ]
 }
