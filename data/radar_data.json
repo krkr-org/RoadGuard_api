@@ -7,7 +7,7 @@
       "street": "Buccleuch Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-07T04:00:18Z",
+      "timestamp": "2026-02-07T04:30:16Z",
       "reported_at": "2026-02-07T01:17:11Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-07T04:00:18Z",
+      "timestamp": "2026-02-07T04:30:16Z",
       "reported_at": "2026-02-07T00:20:39Z"
     },
     {
@@ -27,8 +27,18 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T04:00:18Z",
+      "timestamp": "2026-02-07T04:30:16Z",
       "reported_at": "2026-02-07T01:42:55Z"
+    },
+    {
+      "id": "3336e0e2-dd71-4761-a648-c52ade0b9bd8",
+      "latitude": -34.92386,
+      "longitude": 138.582701,
+      "street": "Glover Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-07T04:30:16Z",
+      "reported_at": "2026-02-07T04:14:34Z"
     },
     {
       "id": "12a79145-5a47-463c-8016-c17202c73bf3",
@@ -37,18 +47,8 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-02-07T04:00:18Z",
+      "timestamp": "2026-02-07T04:30:16Z",
       "reported_at": "2026-02-07T03:57:21Z"
-    },
-    {
-      "id": "e5d12fc5-c08f-4adf-85f7-458b24e6273b",
-      "latitude": -34.883455,
-      "longitude": 138.62253,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
-      "type": "mobile",
-      "timestamp": "2026-02-07T04:00:18Z",
-      "reported_at": "2026-02-07T03:42:34Z"
     },
     {
       "id": "03801cc7-043a-42b5-a69d-ea38034717e1",
@@ -57,8 +57,28 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-07T04:00:18Z",
+      "timestamp": "2026-02-07T04:30:16Z",
       "reported_at": "2026-02-07T03:30:32Z"
+    },
+    {
+      "id": "3a9a9e86-5f9c-4ffc-abfe-29a7300bfc33",
+      "latitude": -34.917544,
+      "longitude": 138.513596,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-07T04:30:16Z",
+      "reported_at": "2026-02-07T04:17:46Z"
+    },
+    {
+      "id": "5622b485-b90c-4bf1-acb2-84c065456f07",
+      "latitude": -34.833655,
+      "longitude": 138.545001,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-07T04:30:16Z",
+      "reported_at": "2026-02-07T03:59:29Z"
     }
   ]
 }
