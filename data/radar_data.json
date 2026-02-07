@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "6aa33839-7795-46a7-a1e9-f1df224e3578",
-      "latitude": -34.965572,
-      "longitude": 138.647893,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "be87ce08-59c1-4b69-b33b-5cbd9bec1a49",
+      "latitude": -34.793597,
+      "longitude": 138.606596,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-07T21:30:15Z",
-      "reported_at": "2026-02-07T20:56:04Z"
+      "timestamp": "2026-02-07T22:00:19Z",
+      "reported_at": "2026-02-07T21:35:27Z"
     },
     {
-      "id": "cbd71ced-13be-4a75-8205-8db16b480541",
-      "latitude": -35.048564,
-      "longitude": 138.548357,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "de0888f6-c823-41ed-b314-9416cb3fd534",
+      "latitude": -34.992516,
+      "longitude": 138.582827,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-07T21:30:15Z",
-      "reported_at": "2026-02-07T21:25:11Z"
+      "timestamp": "2026-02-07T22:00:19Z",
+      "reported_at": "2026-02-07T21:32:18Z"
+    },
+    {
+      "id": "b9441f2b-0954-4f7a-97d8-89c777aea899",
+      "latitude": -34.806318,
+      "longitude": 138.702541,
+      "street": "Grenfell Rd",
+      "city": "Surrey Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-07T22:00:19Z",
+      "reported_at": "2026-02-07T21:35:44Z"
+    },
+    {
+      "id": "be4990e5-1424-4550-a845-4122cb793fdd",
+      "latitude": -34.970344,
+      "longitude": 138.545135,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-07T22:00:19Z",
+      "reported_at": "2026-02-07T21:34:40Z"
     }
   ]
 }
