@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "55c303fd-fc1e-411a-ab55-40bdef433af1",
-      "latitude": -34.826584,
-      "longitude": 138.639902,
-      "street": "Pandanya Av",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
-      "reported_at": "2026-02-07T13:33:21Z"
-    },
-    {
       "id": "3d44a0d6-ef5e-459c-83c9-068298c43b17",
       "latitude": -34.737654,
       "longitude": 138.647505,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
+      "timestamp": "2026-02-07T14:30:16Z",
       "reported_at": "2026-02-07T10:39:24Z"
-    },
-    {
-      "id": "ca6986d1-4aeb-49df-b72a-f8882f3b489d",
-      "latitude": -34.799115,
-      "longitude": 138.63945,
-      "street": "Unknown Street",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
-      "reported_at": "2026-02-07T10:11:53Z"
     },
     {
       "id": "a9634ce1-014d-4ad3-bfa9-123215190cb2",
@@ -37,28 +17,18 @@
       "street": "Unknown Street",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
+      "timestamp": "2026-02-07T14:30:16Z",
       "reported_at": "2026-02-07T10:35:04Z"
     },
     {
-      "id": "98cb8014-a89b-48aa-919e-9e96b31d8c59",
-      "latitude": -34.921674,
-      "longitude": 138.598271,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "7199e29e-2f18-4ba8-b1c9-72787149f944",
+      "latitude": -34.815644,
+      "longitude": 138.64172,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
-      "reported_at": "2026-02-07T13:22:14Z"
-    },
-    {
-      "id": "05351d12-2156-4f0b-be15-60ac5e161c44",
-      "latitude": -34.920097,
-      "longitude": 138.581739,
-      "street": "Port Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
-      "reported_at": "2026-02-07T13:29:53Z"
+      "timestamp": "2026-02-07T14:30:16Z",
+      "reported_at": "2026-02-07T14:01:42Z"
     },
     {
       "id": "61edaa05-3dd3-49a1-b9e4-f645597f272b",
@@ -67,8 +37,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
+      "timestamp": "2026-02-07T14:30:16Z",
       "reported_at": "2026-02-07T11:23:06Z"
+    },
+    {
+      "id": "0a065ce8-a2e7-4348-a771-4d1a5aac983d",
+      "latitude": -34.812942,
+      "longitude": 138.628164,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-02-07T14:30:16Z",
+      "reported_at": "2026-02-07T14:01:57Z"
     },
     {
       "id": "b4e51896-ed68-4d1e-b4fe-6d38f9ab623a",
@@ -77,7 +57,7 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-07T14:00:17Z",
+      "timestamp": "2026-02-07T14:30:16Z",
       "reported_at": "2026-02-07T13:44:49Z"
     }
   ]
