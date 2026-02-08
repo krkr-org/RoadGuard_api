@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "6bbecbcd-fcb2-42e9-9b3a-aa6ae38b1ab4",
-      "latitude": -34.903404,
-      "longitude": 138.599682,
+      "id": "7a979ce4-a621-43b5-9d87-79c987a98bb2",
+      "latitude": -34.792514,
+      "longitude": 138.654457,
+      "street": "Simpson St",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-08T11:30:15Z",
+      "reported_at": "2026-02-08T08:12:44Z"
+    },
+    {
+      "id": "77f277fd-54c2-474d-9fcf-8730199fcf80",
+      "latitude": -34.890249,
+      "longitude": 138.643609,
+      "street": "Briar Rd",
+      "city": "Felixstow",
+      "type": "mobile",
+      "timestamp": "2026-02-08T11:30:15Z",
+      "reported_at": "2026-02-08T07:35:51Z"
+    },
+    {
+      "id": "53c68891-ea93-470f-8c5d-6302578bed0c",
+      "latitude": -34.906723,
+      "longitude": 138.60088,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T05:42:45Z"
-    },
-    {
-      "id": "23daeed4-ee92-452a-b5b8-a8e39aa2ac29",
-      "latitude": -34.892459,
-      "longitude": 138.660769,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T08:51:39Z"
+      "timestamp": "2026-02-08T11:30:15Z",
+      "reported_at": "2026-02-08T09:00:05Z"
     },
     {
       "id": "df746201-2cdf-4acb-959a-00ff84177b68",
@@ -27,78 +37,38 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
+      "timestamp": "2026-02-08T11:30:15Z",
       "reported_at": "2026-02-08T06:47:13Z"
     },
     {
-      "id": "b7b64bc3-5a2f-422c-8355-7e55b328df46",
-      "latitude": -34.888494,
-      "longitude": 138.64258,
-      "street": "Briar Rd",
-      "city": "Felixstow",
+      "id": "23daeed4-ee92-452a-b5b8-a8e39aa2ac29",
+      "latitude": -34.892459,
+      "longitude": 138.660769,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T08:39:35Z"
+      "timestamp": "2026-02-08T11:30:15Z",
+      "reported_at": "2026-02-08T08:51:39Z"
     },
     {
-      "id": "40fd7e51-1b79-4de1-8d26-e0b9ec4be48e",
-      "latitude": -34.834451,
-      "longitude": 138.481861,
-      "street": "Esplanade",
-      "city": "Semaphore",
+      "id": "54bf6ecb-c97f-48a2-8ba6-08c6bb8d60a9",
+      "latitude": -34.725572,
+      "longitude": 138.66676,
+      "street": "Philip Hwy",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T07:22:34Z"
+      "timestamp": "2026-02-08T11:30:15Z",
+      "reported_at": "2026-02-08T11:08:03Z"
     },
     {
-      "id": "612b2d71-a265-4c88-bbfb-0fecd93a099e",
-      "latitude": -34.868488,
-      "longitude": 138.664405,
-      "street": "Darley Rd",
-      "city": "Paradise",
+      "id": "fd7d45b9-508b-48e6-8bf7-6ba1cfc8f0b2",
+      "latitude": -34.808033,
+      "longitude": 138.632529,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T06:09:41Z"
-    },
-    {
-      "id": "730df6a7-50fa-459e-9a34-a8e656f0fce7",
-      "latitude": -34.850272,
-      "longitude": 138.668201,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T10:44:01Z"
-    },
-    {
-      "id": "1774baad-0737-4eef-b17f-8f66123d2ebd",
-      "latitude": -34.900294,
-      "longitude": 138.603383,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T09:55:18Z"
-    },
-    {
-      "id": "5e8d28a7-45ce-4506-8bfe-d5e1828fd5ee",
-      "latitude": -34.836846,
-      "longitude": 138.679166,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T10:37:56Z"
-    },
-    {
-      "id": "31c92701-fad8-4673-839f-7720411ebbe0",
-      "latitude": -34.789159,
-      "longitude": 138.642952,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury South",
-      "type": "mobile",
-      "timestamp": "2026-02-08T11:00:17Z",
-      "reported_at": "2026-02-08T09:40:07Z"
+      "timestamp": "2026-02-08T11:30:15Z",
+      "reported_at": "2026-02-08T11:15:53Z"
     }
   ]
 }
