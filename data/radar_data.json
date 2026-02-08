@@ -1,14 +1,44 @@
 {
   "radars": [
     {
+      "id": "0b4eca83-ebc2-4446-9419-4d56c41e920d",
+      "latitude": -35.013762,
+      "longitude": 138.551498,
+      "street": "Norfolk Rd",
+      "city": "Marion",
+      "type": "mobile",
+      "timestamp": "2026-02-08T05:30:15Z",
+      "reported_at": "2026-02-08T02:05:55Z"
+    },
+    {
+      "id": "5ba727bd-d0c8-4d2b-bfbc-f8c84b97e346",
+      "latitude": -34.980725,
+      "longitude": 138.513138,
+      "street": "Moseley St",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-02-08T05:30:15Z",
+      "reported_at": "2026-02-08T04:58:27Z"
+    },
+    {
       "id": "14c0604d-8838-42b4-bf3b-0489472eada8",
       "latitude": -34.886413,
       "longitude": 138.679135,
       "street": "Wessen St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
+      "timestamp": "2026-02-08T05:30:15Z",
       "reported_at": "2026-02-08T01:31:12Z"
+    },
+    {
+      "id": "8cd5e186-09fe-41c9-9b87-da416d9ca4a6",
+      "latitude": -34.893738,
+      "longitude": 138.659105,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-08T05:30:15Z",
+      "reported_at": "2026-02-08T05:04:01Z"
     },
     {
       "id": "74410917-4781-4e4f-bb97-ff7baa4cb614",
@@ -17,28 +47,8 @@
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
+      "timestamp": "2026-02-08T05:30:15Z",
       "reported_at": "2026-02-08T02:06:38Z"
-    },
-    {
-      "id": "5eec0211-4f3a-4f9f-8105-b44018da2396",
-      "latitude": -34.902049,
-      "longitude": 138.609258,
-      "street": "Unknown Street",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
-      "reported_at": "2026-02-08T00:37:14Z"
-    },
-    {
-      "id": "fd33dfbb-bf53-4cf4-bf39-3158f647679a",
-      "latitude": -34.990727,
-      "longitude": 138.583571,
-      "street": "Winston Av",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
-      "reported_at": "2026-02-08T01:43:36Z"
     },
     {
       "id": "23d1b311-5a93-403e-9a59-2bee75ba7451",
@@ -47,28 +57,18 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
+      "timestamp": "2026-02-08T05:30:15Z",
       "reported_at": "2026-02-08T03:21:20Z"
     },
     {
-      "id": "24b275d7-f6bc-4c1f-a3b2-e1762b34fe19",
-      "latitude": -34.700856,
-      "longitude": 138.667499,
-      "street": "Heytesbury Rd",
-      "city": "Davoren Park",
+      "id": "fa486c0e-9380-4c7a-83a7-5ce2a735703e",
+      "latitude": -34.903826,
+      "longitude": 138.599833,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
-      "reported_at": "2026-02-08T04:25:52Z"
-    },
-    {
-      "id": "8129b3ac-1d43-44e6-9ba4-22de5fe5c96a",
-      "latitude": -34.881389,
-      "longitude": 138.673721,
-      "street": "Newton Rd",
-      "city": "Campbelltown",
-      "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
-      "reported_at": "2026-02-08T04:59:08Z"
+      "timestamp": "2026-02-08T05:30:15Z",
+      "reported_at": "2026-02-08T04:51:45Z"
     },
     {
       "id": "75e10074-aa8b-4956-becf-77698d4cc19b",
@@ -77,18 +77,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
+      "timestamp": "2026-02-08T05:30:15Z",
       "reported_at": "2026-02-08T02:20:34Z"
     },
     {
-      "id": "ee0701c1-0e6b-47f9-b024-2cb8af0e9654",
-      "latitude": -34.795559,
-      "longitude": 138.707548,
-      "street": "A11 - The Grove Way",
-      "city": "Golden Grove",
+      "id": "ede49637-414b-4be6-9516-153f629ac57d",
+      "latitude": -34.869171,
+      "longitude": 138.664997,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
-      "reported_at": "2026-02-08T04:48:10Z"
+      "timestamp": "2026-02-08T05:30:15Z",
+      "reported_at": "2026-02-08T05:06:00Z"
     },
     {
       "id": "a0d904a7-2bf2-4ed4-9593-d0d153045142",
@@ -97,7 +97,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
+      "timestamp": "2026-02-08T05:30:15Z",
       "reported_at": "2026-02-08T02:32:08Z"
     },
     {
@@ -107,18 +107,18 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
+      "timestamp": "2026-02-08T05:30:15Z",
       "reported_at": "2026-02-08T04:55:44Z"
     },
     {
-      "id": "58747930-6a06-4e1f-9a6a-fea1e3428ed3",
-      "latitude": -34.967953,
-      "longitude": 138.649528,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "e250ddaf-b8b9-4002-ab49-9af47ca2c1d9",
+      "latitude": -34.789005,
+      "longitude": 138.642486,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2026-02-08T05:00:17Z",
-      "reported_at": "2026-02-08T04:33:38Z"
+      "timestamp": "2026-02-08T05:30:15Z",
+      "reported_at": "2026-02-08T04:41:01Z"
     }
   ]
 }
