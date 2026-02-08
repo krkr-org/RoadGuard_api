@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "3cbab979-ae52-41c6-b189-ff2400396af5",
-      "latitude": -34.955839,
-      "longitude": 138.508741,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "504a0f51-1aa9-4abc-8e6f-73d48420e088",
+      "latitude": -35.103996,
+      "longitude": 138.797508,
+      "street": "Church Hill Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T22:30:15Z",
-      "reported_at": "2026-02-08T22:10:40Z"
+      "timestamp": "2026-02-08T23:00:19Z",
+      "reported_at": "2026-02-08T21:50:19Z"
     },
     {
       "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
@@ -17,18 +17,28 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T22:30:15Z",
+      "timestamp": "2026-02-08T23:00:19Z",
       "reported_at": "2026-02-08T21:08:09Z"
     },
     {
-      "id": "ab08b545-6f9d-4ba5-ae18-5d4c8d41749b",
-      "latitude": -35.004822,
-      "longitude": 138.521979,
-      "street": "A15 - Brighton Rd",
-      "city": "North Brighton",
+      "id": "354f54d0-fff5-408d-a1c7-6dc70435399b",
+      "latitude": -35.095144,
+      "longitude": 138.787257,
+      "street": "B33 - Strathalbyn Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T22:30:15Z",
-      "reported_at": "2026-02-08T22:19:05Z"
+      "timestamp": "2026-02-08T23:00:19Z",
+      "reported_at": "2026-02-08T22:23:54Z"
+    },
+    {
+      "id": "1ab9d89e-7e78-4f96-961a-abdf75b85729",
+      "latitude": -34.884923,
+      "longitude": 138.624536,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T23:00:19Z",
+      "reported_at": "2026-02-08T22:39:25Z"
     },
     {
       "id": "017d5692-ec59-449d-844e-56dcdb97bf01",
@@ -37,18 +47,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-08T22:30:15Z",
+      "timestamp": "2026-02-08T23:00:19Z",
       "reported_at": "2026-02-08T22:23:49Z"
-    },
-    {
-      "id": "315d6fb8-2cc9-4be7-a1e5-6bc7b8a9311b",
-      "latitude": -34.768741,
-      "longitude": 138.609226,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:30:15Z",
-      "reported_at": "2026-02-08T22:17:10Z"
     }
   ]
 }
