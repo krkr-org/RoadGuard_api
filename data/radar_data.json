@@ -1,54 +1,94 @@
 {
   "radars": [
     {
+      "id": "889b1ebc-9713-469e-9fcc-84ab1a04cd9e",
+      "latitude": -35.013641,
+      "longitude": 138.553931,
+      "street": "Norfolk Rd",
+      "city": "Marion",
+      "type": "mobile",
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-07T23:46:27Z"
+    },
+    {
+      "id": "fd33dfbb-bf53-4cf4-bf39-3158f647679a",
+      "latitude": -34.990727,
+      "longitude": 138.583571,
+      "street": "Winston Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T01:43:36Z"
+    },
+    {
       "id": "03999dd4-c3d9-4731-89b6-48631e9ef554",
       "latitude": -34.984421,
       "longitude": 138.546796,
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T01:30:34Z",
+      "timestamp": "2026-02-08T02:00:15Z",
       "reported_at": "2026-02-07T23:28:51Z"
     },
     {
-      "id": "50258c95-c242-4938-af9e-1038004f649a",
-      "latitude": -34.922345,
-      "longitude": 138.612042,
-      "street": "Rundle Rd",
+      "id": "5eec0211-4f3a-4f9f-8105-b44018da2396",
+      "latitude": -34.902049,
+      "longitude": 138.609258,
+      "street": "Unknown Street",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T00:37:14Z"
+    },
+    {
+      "id": "4764c30c-42ec-4809-8115-e535d9f7ee47",
+      "latitude": -34.918782,
+      "longitude": 138.578784,
+      "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T01:30:34Z",
-      "reported_at": "2026-02-08T01:13:32Z"
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T01:54:46Z"
     },
     {
-      "id": "c64154c4-cfe7-422b-aa83-ffb79fdd5552",
-      "latitude": -34.99007,
-      "longitude": 138.583521,
-      "street": "Winston Av",
-      "city": "Melrose Park",
+      "id": "403048eb-d821-4015-a562-359011ffeaeb",
+      "latitude": -34.782911,
+      "longitude": 138.500481,
+      "street": "A16 - Victoria Rd",
+      "city": "Outer Harbor",
       "type": "mobile",
-      "timestamp": "2026-02-08T01:30:34Z",
-      "reported_at": "2026-02-08T00:32:16Z"
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T01:38:01Z"
     },
     {
-      "id": "f86f80f7-d704-4ad8-9171-f4d56c488050",
-      "latitude": -34.869704,
-      "longitude": 138.570542,
-      "street": "Unknown Street",
-      "city": "Regency Park",
+      "id": "72089086-cf72-4309-a3a3-a288e20f42fa",
+      "latitude": -34.941212,
+      "longitude": 138.599209,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-02-08T01:30:34Z",
-      "reported_at": "2026-02-08T01:01:42Z"
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T01:56:37Z"
     },
     {
-      "id": "5455e4d0-f01f-4169-98cb-03072131c796",
-      "latitude": -35.011002,
-      "longitude": 138.578807,
-      "street": "to Ayliffes Rd / Goodwood Rd",
-      "city": "Bedford Park",
+      "id": "7b8df13a-2adc-4fc5-b77f-3ced9cc71e03",
+      "latitude": -34.979872,
+      "longitude": 138.610532,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T01:30:34Z",
-      "reported_at": "2026-02-08T01:20:42Z"
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T01:43:09Z"
+    },
+    {
+      "id": "86d3dd0d-de0b-487b-970c-61d81c4a7d14",
+      "latitude": -35.018843,
+      "longitude": 138.783785,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-02-08T02:00:15Z",
+      "reported_at": "2026-02-08T01:46:34Z"
     }
   ]
 }
