@@ -1,74 +1,14 @@
 {
   "radars": [
     {
-      "id": "56d19dcc-de6c-4858-a35e-5092bc680088",
-      "latitude": -34.683438,
-      "longitude": 138.678435,
-      "street": "Davoren Rd",
-      "city": "Smithfield Plains",
+      "id": "3cbab979-ae52-41c6-b189-ff2400396af5",
+      "latitude": -34.955839,
+      "longitude": 138.508741,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:39:32Z"
-    },
-    {
-      "id": "9633a247-3c2e-4ab3-b2b3-ff9177d05906",
-      "latitude": -34.692691,
-      "longitude": 138.671577,
-      "street": "Heytesbury Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:48:38Z"
-    },
-    {
-      "id": "69080164-a904-4a47-9277-87cb3560918c",
-      "latitude": -34.783546,
-      "longitude": 138.65487,
-      "street": "Clayson Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:36:26Z"
-    },
-    {
-      "id": "3755cc45-c8dd-41de-bfc5-015c93fb23a7",
-      "latitude": -35.137477,
-      "longitude": 138.509002,
-      "street": "Beach Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:24:36Z"
-    },
-    {
-      "id": "e4172f5a-4df9-4575-bb57-9cc1941d0d8f",
-      "latitude": -35.115837,
-      "longitude": 138.521436,
-      "street": "O'Sullivan Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:39:30Z"
-    },
-    {
-      "id": "b3abd386-270a-4751-92d9-23ab4e4b4fdf",
-      "latitude": -35.017358,
-      "longitude": 138.5532,
-      "street": "Sturt Rd",
-      "city": "Sturt",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:44:58Z"
-    },
-    {
-      "id": "a8dd06f9-1a51-4906-bdf7-ca6e36018d71",
-      "latitude": -34.876583,
-      "longitude": 138.550765,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
-      "reported_at": "2026-02-08T21:39:49Z"
+      "timestamp": "2026-02-08T22:30:15Z",
+      "reported_at": "2026-02-08T22:10:40Z"
     },
     {
       "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
@@ -77,8 +17,38 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T22:00:18Z",
+      "timestamp": "2026-02-08T22:30:15Z",
       "reported_at": "2026-02-08T21:08:09Z"
+    },
+    {
+      "id": "ab08b545-6f9d-4ba5-ae18-5d4c8d41749b",
+      "latitude": -35.004822,
+      "longitude": 138.521979,
+      "street": "A15 - Brighton Rd",
+      "city": "North Brighton",
+      "type": "mobile",
+      "timestamp": "2026-02-08T22:30:15Z",
+      "reported_at": "2026-02-08T22:19:05Z"
+    },
+    {
+      "id": "017d5692-ec59-449d-844e-56dcdb97bf01",
+      "latitude": -34.787742,
+      "longitude": 138.618817,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-08T22:30:15Z",
+      "reported_at": "2026-02-08T22:23:49Z"
+    },
+    {
+      "id": "315d6fb8-2cc9-4be7-a1e5-6bc7b8a9311b",
+      "latitude": -34.768741,
+      "longitude": 138.609226,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-08T22:30:15Z",
+      "reported_at": "2026-02-08T22:17:10Z"
     }
   ]
 }
