@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "889b1ebc-9713-469e-9fcc-84ab1a04cd9e",
-      "latitude": -35.013641,
-      "longitude": 138.553931,
-      "street": "Norfolk Rd",
-      "city": "Marion",
-      "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
-      "reported_at": "2026-02-07T23:46:27Z"
-    },
-    {
       "id": "03999dd4-c3d9-4731-89b6-48631e9ef554",
       "latitude": -34.984421,
       "longitude": 138.546796,
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
+      "timestamp": "2026-02-08T03:30:15Z",
       "reported_at": "2026-02-07T23:28:51Z"
     },
     {
@@ -27,18 +17,8 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
+      "timestamp": "2026-02-08T03:30:15Z",
       "reported_at": "2026-02-08T01:43:36Z"
-    },
-    {
-      "id": "2fc6ee9b-1328-4741-935f-8a2154636d38",
-      "latitude": -35.00296,
-      "longitude": 138.560789,
-      "street": "Quick Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
-      "reported_at": "2026-02-08T02:27:39Z"
     },
     {
       "id": "5eec0211-4f3a-4f9f-8105-b44018da2396",
@@ -47,28 +27,58 @@
       "street": "Unknown Street",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
+      "timestamp": "2026-02-08T03:30:15Z",
       "reported_at": "2026-02-08T00:37:14Z"
     },
     {
-      "id": "2bc2e37b-dd59-40ba-b416-63385bf74f33",
-      "latitude": -34.919376,
-      "longitude": 138.580461,
+      "id": "bb59be6c-5db1-4ac5-9fa5-e9642ea79f97",
+      "latitude": -34.900919,
+      "longitude": 138.540427,
+      "street": "Crittenden Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-02-08T03:30:15Z",
+      "reported_at": "2026-02-08T02:10:33Z"
+    },
+    {
+      "id": "88510c69-758b-4b73-8a5b-b77a7581f4a2",
+      "latitude": -34.920686,
+      "longitude": 138.583736,
       "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
-      "reported_at": "2026-02-08T02:33:17Z"
+      "timestamp": "2026-02-08T03:30:15Z",
+      "reported_at": "2026-02-08T02:40:37Z"
     },
     {
-      "id": "8c4657e3-5f2d-4206-b3ce-e5253ad8920b",
-      "latitude": -34.877758,
-      "longitude": 138.663956,
-      "street": "Lower North East Rd",
-      "city": "Campbelltown",
+      "id": "7cd22017-8518-40a4-9230-15f347aabf9e",
+      "latitude": -34.962535,
+      "longitude": 138.556902,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-08T03:00:16Z",
-      "reported_at": "2026-02-08T02:35:18Z"
+      "timestamp": "2026-02-08T03:30:15Z",
+      "reported_at": "2026-02-08T03:11:16Z"
+    },
+    {
+      "id": "1f84bb6f-6228-4b85-b72f-f83551fae08b",
+      "latitude": -34.915459,
+      "longitude": 138.578314,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-08T03:30:15Z",
+      "reported_at": "2026-02-08T02:42:29Z"
+    },
+    {
+      "id": "0c1e186c-a342-4781-b471-0b2fee42479e",
+      "latitude": -35.12115,
+      "longitude": 138.523286,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-08T03:30:15Z",
+      "reported_at": "2026-02-08T03:17:45Z"
     }
   ]
 }
