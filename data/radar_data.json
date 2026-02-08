@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "75177e9a-0e98-467c-80c7-788fedf8ed3f",
-      "latitude": -34.696083,
-      "longitude": 138.656715,
-      "street": "Stebonheath Rd",
-      "city": "Eyre",
+      "id": "38702f8c-d826-4430-82f5-fd8cfa5720ee",
+      "latitude": -34.804166,
+      "longitude": 138.643763,
+      "street": "Codd St",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:00:16Z",
-      "reported_at": "2026-02-07T23:26:37Z"
-    },
-    {
-      "id": "d1c38564-6ef7-4853-9c1c-5019d5523046",
-      "latitude": -34.977191,
-      "longitude": 138.517519,
-      "street": "Gordon St",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-02-08T00:00:16Z",
-      "reported_at": "2026-02-07T23:34:01Z"
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-08T00:02:43Z"
     },
     {
       "id": "03999dd4-c3d9-4731-89b6-48631e9ef554",
@@ -27,38 +17,78 @@
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:00:16Z",
+      "timestamp": "2026-02-08T00:30:41Z",
       "reported_at": "2026-02-07T23:28:51Z"
     },
     {
-      "id": "66e21f48-c1c2-4faa-8870-804a606e4ec2",
-      "latitude": -34.99232,
-      "longitude": 138.584437,
-      "street": "Daws Rd",
-      "city": "Daw Park",
+      "id": "d1c38564-6ef7-4853-9c1c-5019d5523046",
+      "latitude": -34.977191,
+      "longitude": 138.517519,
+      "street": "Gordon St",
+      "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:00:16Z",
-      "reported_at": "2026-02-07T21:33:05Z"
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-07T23:34:01Z"
     },
     {
-      "id": "c0532760-88dd-44d4-809b-8e635a8a0058",
-      "latitude": -35.133014,
-      "longitude": 138.485917,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "994ef3af-65e3-4c8a-98d4-d9c005c5b5f4",
+      "latitude": -34.924007,
+      "longitude": 138.607949,
+      "street": "Grenfell St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:00:16Z",
-      "reported_at": "2026-02-07T23:47:27Z"
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-07T23:58:58Z"
     },
     {
-      "id": "8939ab49-5288-4968-95e4-b574d1a73af0",
-      "latitude": -34.800979,
-      "longitude": 138.717135,
+      "id": "83339a9f-de60-4a79-9118-1b56886ebc47",
+      "latitude": -35.134482,
+      "longitude": 138.537042,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-07T23:55:56Z"
+    },
+    {
+      "id": "befaef90-9904-4160-8602-f10ad443ec43",
+      "latitude": -34.806651,
+      "longitude": 138.696744,
+      "street": "Grenfell Rd",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-08T00:05:03Z"
+    },
+    {
+      "id": "f073a471-409c-45c1-93ff-ed98028fdf4b",
+      "latitude": -34.80218,
+      "longitude": 138.717223,
       "street": "A11 - Hancock Rd",
       "city": "Surrey Downs",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:00:16Z",
-      "reported_at": "2026-02-07T23:35:18Z"
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-08T00:06:32Z"
+    },
+    {
+      "id": "8193b26f-7d0c-4c5a-9b8b-61c4c62423b6",
+      "latitude": -34.850183,
+      "longitude": 138.564563,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-08T00:23:50Z"
+    },
+    {
+      "id": "441ae47c-5646-466a-9ece-2dcafee94fac",
+      "latitude": -34.869149,
+      "longitude": 138.570796,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T00:30:41Z",
+      "reported_at": "2026-02-08T00:14:59Z"
     }
   ]
 }
