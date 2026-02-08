@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "a3bbd010-ee46-42be-84b7-3bfcf1ab14da",
-      "latitude": -34.927252,
-      "longitude": 138.543994,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
+      "id": "14c0604d-8838-42b4-bf3b-0489472eada8",
+      "latitude": -34.886413,
+      "longitude": 138.679135,
+      "street": "Wessen St",
+      "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:00:17Z",
-      "reported_at": "2026-02-08T03:21:02Z"
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T01:31:12Z"
     },
     {
       "id": "74410917-4781-4e4f-bb97-ff7baa4cb614",
@@ -17,18 +17,8 @@
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:00:17Z",
+      "timestamp": "2026-02-08T04:30:16Z",
       "reported_at": "2026-02-08T02:06:38Z"
-    },
-    {
-      "id": "fd33dfbb-bf53-4cf4-bf39-3158f647679a",
-      "latitude": -34.990727,
-      "longitude": 138.583571,
-      "street": "Winston Av",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-08T04:00:17Z",
-      "reported_at": "2026-02-08T01:43:36Z"
     },
     {
       "id": "5eec0211-4f3a-4f9f-8105-b44018da2396",
@@ -37,28 +27,78 @@
       "street": "Unknown Street",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:00:17Z",
+      "timestamp": "2026-02-08T04:30:16Z",
       "reported_at": "2026-02-08T00:37:14Z"
     },
     {
-      "id": "427857f2-2ced-4383-91a3-1e9e0ac40b3b",
-      "latitude": -34.762646,
-      "longitude": 138.594959,
-      "street": "Unknown Street",
-      "city": "Paralowie",
+      "id": "fd33dfbb-bf53-4cf4-bf39-3158f647679a",
+      "latitude": -34.990727,
+      "longitude": 138.583571,
+      "street": "Winston Av",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:00:17Z",
-      "reported_at": "2026-02-08T03:45:26Z"
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T01:43:36Z"
     },
     {
-      "id": "e07fbe66-ef26-4155-bdc1-0f68b50ffec0",
-      "latitude": -34.72094,
-      "longitude": 138.673314,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth",
+      "id": "24b275d7-f6bc-4c1f-a3b2-e1762b34fe19",
+      "latitude": -34.700856,
+      "longitude": 138.667499,
+      "street": "Heytesbury Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:00:17Z",
-      "reported_at": "2026-02-08T03:44:03Z"
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T04:25:52Z"
+    },
+    {
+      "id": "f8f4e027-a644-4b00-a48b-de1efa12ab9a",
+      "latitude": -35.054199,
+      "longitude": 138.549773,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T04:11:48Z"
+    },
+    {
+      "id": "372dca00-4b66-4116-b366-b6693c00a589",
+      "latitude": -34.899677,
+      "longitude": 138.596376,
+      "street": "Main North Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T04:22:15Z"
+    },
+    {
+      "id": "bb59be6c-5db1-4ac5-9fa5-e9642ea79f97",
+      "latitude": -34.900919,
+      "longitude": 138.540427,
+      "street": "Crittenden Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T02:10:33Z"
+    },
+    {
+      "id": "a0d904a7-2bf2-4ed4-9593-d0d153045142",
+      "latitude": -34.984992,
+      "longitude": 138.804084,
+      "street": "B26 - Greenhill Rd",
+      "city": "Balhannah",
+      "type": "mobile",
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T02:32:08Z"
+    },
+    {
+      "id": "88aac46d-0a44-4a1a-873c-2701efb5801f",
+      "latitude": -34.845646,
+      "longitude": 138.656574,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-02-08T04:30:16Z",
+      "reported_at": "2026-02-08T04:14:48Z"
     }
   ]
 }
