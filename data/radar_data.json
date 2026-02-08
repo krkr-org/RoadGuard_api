@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "7231b0ce-9de3-4a40-ba35-e22d87a8479a",
-      "latitude": -34.891853,
-      "longitude": 138.66155,
+      "id": "267c7c5f-5183-49a2-92e6-5c330cdd90ac",
+      "latitude": -34.931677,
+      "longitude": 138.653543,
+      "street": "Rochester St",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T06:52:53Z"
+    },
+    {
+      "id": "8cd5e186-09fe-41c9-9b87-da416d9ca4a6",
+      "latitude": -34.893738,
+      "longitude": 138.659105,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:10:00Z"
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T05:04:01Z"
     },
     {
       "id": "27d6213f-e3c9-4d87-913d-48bb6d33d9b0",
@@ -17,7 +27,7 @@
       "street": "Pitman Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
+      "timestamp": "2026-02-08T07:30:15Z",
       "reported_at": "2026-02-08T05:14:43Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
+      "timestamp": "2026-02-08T07:30:15Z",
       "reported_at": "2026-02-08T05:42:45Z"
     },
     {
@@ -37,47 +47,37 @@
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
+      "timestamp": "2026-02-08T07:30:15Z",
       "reported_at": "2026-02-08T06:22:41Z"
     },
     {
-      "id": "1b969755-42cd-44be-abb8-3802355942d9",
-      "latitude": -34.85686,
-      "longitude": 138.502514,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T04:59:06Z"
-    },
-    {
-      "id": "b45acdb5-21b4-4df8-9914-095310139a33",
-      "latitude": -34.852654,
-      "longitude": 138.502171,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:23:07Z"
-    },
-    {
-      "id": "835cb5d3-9b71-4822-8848-44bb96d74828",
-      "latitude": -34.867828,
-      "longitude": 138.663881,
+      "id": "ede49637-414b-4be6-9516-153f629ac57d",
+      "latitude": -34.869171,
+      "longitude": 138.664997,
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:36:10Z"
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T05:06:00Z"
+    },
+    {
+      "id": "c4316d48-00df-43f9-9032-566237e72067",
+      "latitude": -34.998756,
+      "longitude": 138.539471,
+      "street": "Morphett Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T07:09:06Z"
     },
     {
       "id": "be51cfb3-4b2b-472b-b342-051d774bee20",
-      "latitude": -34.924359,
-      "longitude": 138.600783,
+      "latitude": -34.92434,
+      "longitude": 138.601161,
       "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
+      "timestamp": "2026-02-08T07:30:15Z",
       "reported_at": "2026-02-08T06:58:02Z"
     },
     {
@@ -87,68 +87,38 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
+      "timestamp": "2026-02-08T07:30:15Z",
       "reported_at": "2026-02-08T06:21:32Z"
     },
     {
-      "id": "1b4cd547-d209-430f-8182-c4d1c6a006bd",
-      "latitude": -34.923491,
-      "longitude": 138.578622,
-      "street": "Henley Beach Rd",
-      "city": "Mile End",
+      "id": "60b1c7a7-ddcf-4a14-a76c-ea39b88ae4d5",
+      "latitude": -34.921891,
+      "longitude": 138.587127,
+      "street": "Unknown Street",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:23:42Z"
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T07:20:10Z"
     },
     {
-      "id": "e3b27b77-2a8a-4bfb-9f85-3fb18ae3b31e",
-      "latitude": -34.997236,
-      "longitude": 138.539349,
-      "street": "Morphett Rd",
-      "city": "Warradale",
+      "id": "2a752af7-41ef-4340-8a9c-102879fc64ea",
+      "latitude": -34.850561,
+      "longitude": 138.546085,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:42:21Z"
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T07:03:32Z"
     },
     {
-      "id": "ac59f001-02ea-4981-b912-dc2a17d24205",
-      "latitude": -34.900177,
-      "longitude": 138.602599,
+      "id": "81e801e9-fa74-4f57-8206-bae29aaca3f3",
+      "latitude": -34.900577,
+      "longitude": 138.604021,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T04:55:44Z"
-    },
-    {
-      "id": "1b4f835d-f096-4056-83a0-ade706386b3a",
-      "latitude": -34.913179,
-      "longitude": 138.67253,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:54:18Z"
-    },
-    {
-      "id": "ba30f07d-03cd-40ab-899c-f133e00de4f9",
-      "latitude": -34.816268,
-      "longitude": 138.597656,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:24:48Z"
-    },
-    {
-      "id": "6e682cc5-d743-40ce-93f5-3159e245f90a",
-      "latitude": -34.931622,
-      "longitude": 138.552483,
-      "street": "A14 - Marion Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-02-08T07:00:19Z",
-      "reported_at": "2026-02-08T06:21:01Z"
+      "timestamp": "2026-02-08T07:30:15Z",
+      "reported_at": "2026-02-08T04:56:03Z"
     }
   ]
 }
