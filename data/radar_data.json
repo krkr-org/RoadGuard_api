@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "38702f8c-d826-4430-82f5-fd8cfa5720ee",
-      "latitude": -34.804166,
-      "longitude": 138.643763,
-      "street": "Codd St",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-08T00:02:43Z"
-    },
-    {
       "id": "03999dd4-c3d9-4731-89b6-48631e9ef554",
       "latitude": -34.984421,
       "longitude": 138.546796,
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
+      "timestamp": "2026-02-08T01:00:42Z",
       "reported_at": "2026-02-07T23:28:51Z"
+    },
+    {
+      "id": "c64154c4-cfe7-422b-aa83-ffb79fdd5552",
+      "latitude": -34.99007,
+      "longitude": 138.583521,
+      "street": "Winston Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:32:16Z"
     },
     {
       "id": "d1c38564-6ef7-4853-9c1c-5019d5523046",
@@ -27,68 +27,78 @@
       "street": "Gordon St",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
+      "timestamp": "2026-02-08T01:00:42Z",
       "reported_at": "2026-02-07T23:34:01Z"
     },
     {
-      "id": "994ef3af-65e3-4c8a-98d4-d9c005c5b5f4",
-      "latitude": -34.924007,
-      "longitude": 138.607949,
-      "street": "Grenfell St",
-      "city": "Adelaide",
+      "id": "922f2699-f0a6-49e8-8c52-33f8e5d9d8a3",
+      "latitude": -35.003001,
+      "longitude": 138.559208,
+      "street": "Quick Rd",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-07T23:58:58Z"
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:46:08Z"
     },
     {
-      "id": "83339a9f-de60-4a79-9118-1b56886ebc47",
-      "latitude": -35.134482,
-      "longitude": 138.537042,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "a34f0e6b-3e3e-43c8-af13-9f78523e755a",
+      "latitude": -35.081099,
+      "longitude": 138.585039,
+      "street": "Windebanks Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-07T23:55:56Z"
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:37:24Z"
     },
     {
-      "id": "befaef90-9904-4160-8602-f10ad443ec43",
-      "latitude": -34.806651,
-      "longitude": 138.696744,
+      "id": "22eab522-89df-4f53-b7a4-28a8d7e33bb1",
+      "latitude": -34.806777,
+      "longitude": 138.695956,
       "street": "Grenfell Rd",
-      "city": "Wynn Vale",
+      "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-08T00:05:03Z"
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:40:24Z"
     },
     {
-      "id": "f073a471-409c-45c1-93ff-ed98028fdf4b",
-      "latitude": -34.80218,
-      "longitude": 138.717223,
-      "street": "A11 - Hancock Rd",
-      "city": "Surrey Downs",
+      "id": "cde0a8cc-99e6-4a44-8450-9e2161504c3e",
+      "latitude": -35.011125,
+      "longitude": 138.578823,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-08T00:06:32Z"
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:44:07Z"
     },
     {
-      "id": "8193b26f-7d0c-4c5a-9b8b-61c4c62423b6",
-      "latitude": -34.850183,
-      "longitude": 138.564563,
+      "id": "fdd6b635-2728-46e1-becc-cd45c176adfb",
+      "latitude": -34.850311,
+      "longitude": 138.564572,
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-08T00:23:50Z"
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:44:18Z"
     },
     {
-      "id": "441ae47c-5646-466a-9ece-2dcafee94fac",
-      "latitude": -34.869149,
-      "longitude": 138.570796,
+      "id": "f1befe7c-779c-4b6a-b620-b5fd4ea53583",
+      "latitude": -34.871073,
+      "longitude": 138.570712,
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T00:30:41Z",
-      "reported_at": "2026-02-08T00:14:59Z"
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:57:34Z"
+    },
+    {
+      "id": "c7d0a376-644c-4462-9cf0-03c24ca3fe05",
+      "latitude": -35.01296,
+      "longitude": 138.57448,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T01:00:42Z",
+      "reported_at": "2026-02-08T00:54:26Z"
     }
   ]
 }
