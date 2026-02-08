@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "bbe172b8-1291-419c-8497-15319f202820",
-      "latitude": -34.89734,
-      "longitude": 138.660112,
-      "street": "Reid Av",
-      "city": "Hectorville",
+      "id": "70574762-0285-47d7-b483-7eee5f76ff8c",
+      "latitude": -34.939832,
+      "longitude": 138.533404,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T09:46:19Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T10:09:24Z"
     },
     {
       "id": "267c7c5f-5183-49a2-92e6-5c330cdd90ac",
@@ -17,18 +17,8 @@
       "street": "Rochester St",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
+      "timestamp": "2026-02-08T10:30:15Z",
       "reported_at": "2026-02-08T06:52:53Z"
-    },
-    {
-      "id": "576b583a-2bc9-49b9-bb72-e8b9b0d89781",
-      "latitude": -34.880954,
-      "longitude": 138.686673,
-      "street": "Graves St",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T06:04:36Z"
     },
     {
       "id": "23daeed4-ee92-452a-b5b8-a8e39aa2ac29",
@@ -37,18 +27,28 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
+      "timestamp": "2026-02-08T10:30:15Z",
       "reported_at": "2026-02-08T08:51:39Z"
     },
     {
-      "id": "6bbecbcd-fcb2-42e9-9b3a-aa6ae38b1ab4",
-      "latitude": -34.903404,
-      "longitude": 138.599682,
+      "id": "df746201-2cdf-4acb-959a-00ff84177b68",
+      "latitude": -34.899557,
+      "longitude": 138.611828,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T06:47:13Z"
+    },
+    {
+      "id": "53c68891-ea93-470f-8c5d-6302578bed0c",
+      "latitude": -34.906723,
+      "longitude": 138.60088,
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T05:42:45Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T09:00:05Z"
     },
     {
       "id": "b7b64bc3-5a2f-422c-8355-7e55b328df46",
@@ -57,18 +57,18 @@
       "street": "Briar Rd",
       "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
+      "timestamp": "2026-02-08T10:30:15Z",
       "reported_at": "2026-02-08T08:39:35Z"
     },
     {
-      "id": "612b2d71-a265-4c88-bbfb-0fecd93a099e",
-      "latitude": -34.868488,
-      "longitude": 138.664405,
-      "street": "Darley Rd",
-      "city": "Paradise",
+      "id": "8337a602-00be-47f7-85c7-c4754f5ffa1d",
+      "latitude": -34.880988,
+      "longitude": 138.686108,
+      "street": "Graves St",
+      "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T06:09:41Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T06:25:57Z"
     },
     {
       "id": "40fd7e51-1b79-4de1-8d26-e0b9ec4be48e",
@@ -77,48 +77,58 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
+      "timestamp": "2026-02-08T10:30:15Z",
       "reported_at": "2026-02-08T07:22:34Z"
     },
     {
-      "id": "81e801e9-fa74-4f57-8206-bae29aaca3f3",
-      "latitude": -34.900577,
-      "longitude": 138.604021,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "612b2d71-a265-4c88-bbfb-0fecd93a099e",
+      "latitude": -34.868488,
+      "longitude": 138.664405,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T04:56:03Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T06:09:41Z"
     },
     {
-      "id": "51dad244-2607-45c2-b10e-0dafaeac00e0",
-      "latitude": -35.001635,
-      "longitude": 138.557576,
-      "street": "A14 - Marion Rd",
-      "city": "Marion",
+      "id": "f1ce2c9a-3b56-498c-8872-40b611b9cc2f",
+      "latitude": -35.029477,
+      "longitude": 138.523846,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T09:29:25Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T10:06:53Z"
     },
     {
-      "id": "7644f513-2edf-4ef9-8b4c-d393a6ad4a90",
-      "latitude": -34.89852,
-      "longitude": 138.59754,
-      "street": "A1 - Main North Rd",
-      "city": "Medindie",
+      "id": "99812d19-4976-4ac5-abee-fab9709ec72b",
+      "latitude": -34.77561,
+      "longitude": 138.629501,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T09:45:07Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T09:55:24Z"
     },
     {
-      "id": "6c09ef92-a531-467d-996c-3fa35abda34a",
-      "latitude": -34.913677,
-      "longitude": 138.578045,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "31c92701-fad8-4673-839f-7720411ebbe0",
+      "latitude": -34.789159,
+      "longitude": 138.642952,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2026-02-08T10:00:16Z",
-      "reported_at": "2026-02-08T09:48:31Z"
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T09:40:07Z"
+    },
+    {
+      "id": "51bb129e-5399-4f60-b29c-8fce7cea2017",
+      "latitude": -34.763719,
+      "longitude": 138.640172,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-02-08T10:30:15Z",
+      "reported_at": "2026-02-08T09:57:26Z"
     }
   ]
 }
