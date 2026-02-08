@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "09527fc9-ff2a-42c4-9c62-1c855011f5c2",
+      "latitude": -34.803496,
+      "longitude": 138.491633,
+      "street": "Lady Gowrie Dr",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2026-02-08T23:30:18Z",
+      "reported_at": "2026-02-08T22:56:06Z"
+    },
+    {
       "id": "504a0f51-1aa9-4abc-8e6f-73d48420e088",
       "latitude": -35.103996,
       "longitude": 138.797508,
       "street": "Church Hill Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:00:19Z",
+      "timestamp": "2026-02-08T23:30:18Z",
       "reported_at": "2026-02-08T21:50:19Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:00:19Z",
+      "timestamp": "2026-02-08T23:30:18Z",
       "reported_at": "2026-02-08T21:08:09Z"
     },
     {
@@ -27,28 +37,38 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:00:19Z",
+      "timestamp": "2026-02-08T23:30:18Z",
       "reported_at": "2026-02-08T22:23:54Z"
     },
     {
-      "id": "1ab9d89e-7e78-4f96-961a-abdf75b85729",
-      "latitude": -34.884923,
-      "longitude": 138.624536,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
+      "id": "679ffa94-54c1-464d-a6fe-7862a9897771",
+      "latitude": -34.918044,
+      "longitude": 138.567808,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:00:19Z",
-      "reported_at": "2026-02-08T22:39:25Z"
+      "timestamp": "2026-02-08T23:30:18Z",
+      "reported_at": "2026-02-08T23:22:35Z"
     },
     {
-      "id": "017d5692-ec59-449d-844e-56dcdb97bf01",
-      "latitude": -34.787742,
-      "longitude": 138.618817,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "591f1206-9488-406d-aefe-3284458b6580",
+      "latitude": -34.790999,
+      "longitude": 138.579521,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:00:19Z",
-      "reported_at": "2026-02-08T22:23:49Z"
+      "timestamp": "2026-02-08T23:30:18Z",
+      "reported_at": "2026-02-08T22:43:06Z"
+    },
+    {
+      "id": "66a3b9eb-106d-4d34-b6e1-75f9da39b38e",
+      "latitude": -34.995421,
+      "longitude": 138.732543,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-02-08T23:30:18Z",
+      "reported_at": "2026-02-08T23:27:14Z"
     }
   ]
 }
