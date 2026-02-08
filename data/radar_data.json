@@ -7,7 +7,7 @@
       "street": "Wessen St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
+      "timestamp": "2026-02-08T05:00:17Z",
       "reported_at": "2026-02-08T01:31:12Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
+      "timestamp": "2026-02-08T05:00:17Z",
       "reported_at": "2026-02-08T02:06:38Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Unknown Street",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
+      "timestamp": "2026-02-08T05:00:17Z",
       "reported_at": "2026-02-08T00:37:14Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "Winston Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
+      "timestamp": "2026-02-08T05:00:17Z",
       "reported_at": "2026-02-08T01:43:36Z"
+    },
+    {
+      "id": "23d1b311-5a93-403e-9a59-2bee75ba7451",
+      "latitude": -34.929223,
+      "longitude": 138.542776,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T05:00:17Z",
+      "reported_at": "2026-02-08T03:21:20Z"
     },
     {
       "id": "24b275d7-f6bc-4c1f-a3b2-e1762b34fe19",
@@ -47,38 +57,38 @@
       "street": "Heytesbury Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
+      "timestamp": "2026-02-08T05:00:17Z",
       "reported_at": "2026-02-08T04:25:52Z"
     },
     {
-      "id": "f8f4e027-a644-4b00-a48b-de1efa12ab9a",
-      "latitude": -35.054199,
-      "longitude": 138.549773,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "8129b3ac-1d43-44e6-9ba4-22de5fe5c96a",
+      "latitude": -34.881389,
+      "longitude": 138.673721,
+      "street": "Newton Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
-      "reported_at": "2026-02-08T04:11:48Z"
+      "timestamp": "2026-02-08T05:00:17Z",
+      "reported_at": "2026-02-08T04:59:08Z"
     },
     {
-      "id": "372dca00-4b66-4116-b366-b6693c00a589",
-      "latitude": -34.899677,
-      "longitude": 138.596376,
-      "street": "Main North Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
-      "reported_at": "2026-02-08T04:22:15Z"
-    },
-    {
-      "id": "bb59be6c-5db1-4ac5-9fa5-e9642ea79f97",
-      "latitude": -34.900919,
-      "longitude": 138.540427,
+      "id": "75e10074-aa8b-4956-becf-77698d4cc19b",
+      "latitude": -34.900866,
+      "longitude": 138.540499,
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
-      "reported_at": "2026-02-08T02:10:33Z"
+      "timestamp": "2026-02-08T05:00:17Z",
+      "reported_at": "2026-02-08T02:20:34Z"
+    },
+    {
+      "id": "ee0701c1-0e6b-47f9-b024-2cb8af0e9654",
+      "latitude": -34.795559,
+      "longitude": 138.707548,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-02-08T05:00:17Z",
+      "reported_at": "2026-02-08T04:48:10Z"
     },
     {
       "id": "a0d904a7-2bf2-4ed4-9593-d0d153045142",
@@ -87,18 +97,28 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
+      "timestamp": "2026-02-08T05:00:17Z",
       "reported_at": "2026-02-08T02:32:08Z"
     },
     {
-      "id": "88aac46d-0a44-4a1a-873c-2701efb5801f",
-      "latitude": -34.845646,
-      "longitude": 138.656574,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Valley View",
+      "id": "ac59f001-02ea-4981-b912-dc2a17d24205",
+      "latitude": -34.900177,
+      "longitude": 138.602599,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T04:30:16Z",
-      "reported_at": "2026-02-08T04:14:48Z"
+      "timestamp": "2026-02-08T05:00:17Z",
+      "reported_at": "2026-02-08T04:55:44Z"
+    },
+    {
+      "id": "58747930-6a06-4e1f-9a6a-fea1e3428ed3",
+      "latitude": -34.967953,
+      "longitude": 138.649528,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-08T05:00:17Z",
+      "reported_at": "2026-02-08T04:33:38Z"
     }
   ]
 }
