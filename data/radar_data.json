@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "5b13a2a6-1133-417e-9874-481f107546a0",
+      "latitude": -35.002477,
+      "longitude": 138.582402,
+      "street": "Thurles St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-02-08T21:00:19Z",
+      "reported_at": "2026-02-08T20:30:30Z"
+    },
+    {
+      "id": "60b8917d-251e-4e7f-aa86-4f3074171a71",
+      "latitude": -34.858653,
+      "longitude": 138.565368,
+      "street": "Days Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-08T21:00:19Z",
+      "reported_at": "2026-02-08T20:15:36Z"
+    },
+    {
+      "id": "385b7162-2fec-459d-9810-12d4ff75d6a0",
+      "latitude": -34.831221,
+      "longitude": 138.594668,
+      "street": "Churchill Rd North",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-02-08T21:00:19Z",
+      "reported_at": "2026-02-08T20:47:06Z"
+    }
+  ]
 }
