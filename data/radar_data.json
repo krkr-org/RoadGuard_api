@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "5b13a2a6-1133-417e-9874-481f107546a0",
-      "latitude": -35.002477,
-      "longitude": 138.582402,
-      "street": "Thurles St",
-      "city": "St. Marys",
+      "id": "3755cc45-c8dd-41de-bfc5-015c93fb23a7",
+      "latitude": -35.137477,
+      "longitude": 138.509002,
+      "street": "Beach Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-02-08T21:00:19Z",
-      "reported_at": "2026-02-08T20:30:30Z"
-    },
-    {
-      "id": "60b8917d-251e-4e7f-aa86-4f3074171a71",
-      "latitude": -34.858653,
-      "longitude": 138.565368,
-      "street": "Days Rd",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-02-08T21:00:19Z",
-      "reported_at": "2026-02-08T20:15:36Z"
+      "timestamp": "2026-02-08T21:30:16Z",
+      "reported_at": "2026-02-08T21:24:36Z"
     },
     {
       "id": "385b7162-2fec-459d-9810-12d4ff75d6a0",
@@ -27,8 +17,38 @@
       "street": "Churchill Rd North",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-02-08T21:00:19Z",
+      "timestamp": "2026-02-08T21:30:16Z",
       "reported_at": "2026-02-08T20:47:06Z"
+    },
+    {
+      "id": "999acd47-c584-410f-8a6e-17cf5d5044a0",
+      "latitude": -34.674652,
+      "longitude": 138.685529,
+      "street": "Curtis Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-02-08T21:30:16Z",
+      "reported_at": "2026-02-08T21:12:20Z"
+    },
+    {
+      "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
+      "latitude": -35.089596,
+      "longitude": 138.79419,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-02-08T21:30:16Z",
+      "reported_at": "2026-02-08T21:08:09Z"
+    },
+    {
+      "id": "6c0baab7-4716-40ad-91fe-829459241871",
+      "latitude": -34.795668,
+      "longitude": 138.653518,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-08T21:30:16Z",
+      "reported_at": "2026-02-08T21:18:24Z"
     }
   ]
 }
