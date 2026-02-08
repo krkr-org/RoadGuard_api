@@ -1,64 +1,94 @@
 {
   "radars": [
     {
+      "id": "13182f2e-7b96-4539-914a-2b7cee3a10ef",
+      "latitude": -34.903687,
+      "longitude": 138.609629,
+      "street": "Mann Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T09:21:39Z"
+    },
+    {
       "id": "267c7c5f-5183-49a2-92e6-5c330cdd90ac",
       "latitude": -34.931677,
       "longitude": 138.653543,
       "street": "Rochester St",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
+      "timestamp": "2026-02-08T09:30:16Z",
       "reported_at": "2026-02-08T06:52:53Z"
     },
     {
-      "id": "7231b0ce-9de3-4a40-ba35-e22d87a8479a",
-      "latitude": -34.891853,
-      "longitude": 138.66155,
+      "id": "607f3dd2-ae2b-4079-91d8-cd5057c1d06b",
+      "latitude": -34.981634,
+      "longitude": 138.546585,
+      "street": "Hendrie St",
+      "city": "Morphettville",
+      "type": "mobile",
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T08:43:19Z"
+    },
+    {
+      "id": "576b583a-2bc9-49b9-bb72-e8b9b0d89781",
+      "latitude": -34.880954,
+      "longitude": 138.686673,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T06:04:36Z"
+    },
+    {
+      "id": "51798908-ab46-4df3-8e26-a89f79ad0674",
+      "latitude": -34.892755,
+      "longitude": 138.660388,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T06:10:00Z"
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T06:08:58Z"
     },
     {
-      "id": "77f277fd-54c2-474d-9fcf-8730199fcf80",
-      "latitude": -34.890249,
-      "longitude": 138.643609,
+      "id": "b948dfa6-5639-4cb1-9764-9fc4270608e4",
+      "latitude": -34.907857,
+      "longitude": 138.601246,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T08:59:33Z"
+    },
+    {
+      "id": "b7b64bc3-5a2f-422c-8355-7e55b328df46",
+      "latitude": -34.888494,
+      "longitude": 138.64258,
       "street": "Briar Rd",
       "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T07:35:51Z"
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T08:39:35Z"
     },
     {
-      "id": "27d6213f-e3c9-4d87-913d-48bb6d33d9b0",
-      "latitude": -34.862484,
-      "longitude": 138.65247,
-      "street": "Pitman Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T05:14:43Z"
-    },
-    {
-      "id": "ed16b82c-0be9-4aa4-921c-e718431d6967",
-      "latitude": -34.868781,
-      "longitude": 138.664657,
+      "id": "8f85dbc7-6cf5-4546-9bb5-dfa5aada2576",
+      "latitude": -34.867204,
+      "longitude": 138.663095,
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T08:38:49Z"
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T08:50:36Z"
     },
     {
-      "id": "911747cf-a90a-4f79-8820-8b8b80b8ed23",
-      "latitude": -34.858706,
-      "longitude": 138.565674,
-      "street": "South Rd",
-      "city": "Regency Park",
+      "id": "479b55ca-beac-4bc3-ad22-9efbd552a3c0",
+      "latitude": -35.05105,
+      "longitude": 138.57544,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T08:44:58Z"
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T09:20:50Z"
     },
     {
       "id": "40fd7e51-1b79-4de1-8d26-e0b9ec4be48e",
@@ -67,38 +97,38 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
+      "timestamp": "2026-02-08T09:30:16Z",
       "reported_at": "2026-02-08T07:22:34Z"
     },
     {
-      "id": "db546403-216c-4401-85a2-eb13ed70e3ef",
-      "latitude": -34.833897,
-      "longitude": 138.610355,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T08:40:18Z"
-    },
-    {
-      "id": "9bff22f9-524e-48f3-ac84-89e179905127",
-      "latitude": -34.900714,
-      "longitude": 138.604862,
+      "id": "81e801e9-fa74-4f57-8206-bae29aaca3f3",
+      "latitude": -34.900577,
+      "longitude": 138.604021,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T06:54:24Z"
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T04:56:03Z"
     },
     {
-      "id": "7aa425ca-7291-4688-bdd8-f2575b442dee",
-      "latitude": -34.887751,
-      "longitude": 138.570233,
-      "street": "M2 - North-South Mwy",
-      "city": "Renown Park",
+      "id": "fb2fe7fe-eefa-46e5-95a0-24b20049ae83",
+      "latitude": -34.899145,
+      "longitude": 138.590396,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-02-08T09:00:16Z",
-      "reported_at": "2026-02-08T08:42:04Z"
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T09:19:25Z"
+    },
+    {
+      "id": "dc4e0b58-e3fc-44b5-818a-cc4c65c05249",
+      "latitude": -34.822717,
+      "longitude": 138.587163,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-02-08T09:30:16Z",
+      "reported_at": "2026-02-08T09:20:49Z"
     }
   ]
 }
