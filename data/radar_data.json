@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "feeed0ba-d610-464a-97de-5a2e0ae1333c",
-      "latitude": -34.699074,
-      "longitude": 138.6405,
+      "id": "83eaaa2d-40bb-489e-ab55-447dc1216f31",
+      "latitude": -34.940433,
+      "longitude": 138.562137,
+      "street": "Brooker Tce",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T02:35:28Z"
+    },
+    {
+      "id": "cde4b0dd-3f62-486b-97e8-646094a804de",
+      "latitude": -34.696863,
+      "longitude": 138.641903,
       "street": "Andrews Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T00:49:18Z"
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T01:01:08Z"
     },
     {
-      "id": "0208c913-6e4d-4666-8f51-fe0b91dd84b8",
-      "latitude": -35.106665,
-      "longitude": 138.534917,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "b277841e-47fb-4b3e-9d15-fdafed38002d",
+      "latitude": -35.064772,
+      "longitude": 138.666983,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T02:04:53Z"
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T02:39:04Z"
     },
     {
       "id": "781dd308-5efd-481f-8b03-f45086d95de2",
@@ -27,18 +37,8 @@
       "street": "Grenfell Rd",
       "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
+      "timestamp": "2026-02-09T03:00:16Z",
       "reported_at": "2026-02-09T00:14:01Z"
-    },
-    {
-      "id": "cf10a129-3d47-43f6-bef5-74ea38b507ed",
-      "latitude": -34.917761,
-      "longitude": 138.592993,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T02:09:32Z"
     },
     {
       "id": "ee358834-2f14-4ee3-a73e-3ac85850aac8",
@@ -47,48 +47,48 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
+      "timestamp": "2026-02-09T03:00:16Z",
       "reported_at": "2026-02-09T00:50:45Z"
     },
     {
-      "id": "68fbc73f-8c3c-4136-909c-e55cf0b46eae",
-      "latitude": -34.943863,
-      "longitude": 138.571158,
-      "street": "A2 - South Rd",
-      "city": "Marleston",
+      "id": "ff1f1d86-b292-4c6a-86a8-291d6fc91107",
+      "latitude": -35.016978,
+      "longitude": 138.523002,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T02:09:13Z"
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T02:38:46Z"
     },
     {
-      "id": "5d00fbd8-3d09-4549-9574-33cf076634cc",
-      "latitude": -34.94699,
-      "longitude": 138.642961,
-      "street": "A17 - Portrush Rd",
-      "city": "Glenunga",
-      "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T01:22:05Z"
-    },
-    {
-      "id": "af37ac0b-0848-43b8-b4c1-805db2f0b684",
-      "latitude": -34.80507,
-      "longitude": 138.634947,
+      "id": "a973c137-3e27-4b28-a2c7-8fab8f4e7e21",
+      "latitude": -34.820038,
+      "longitude": 138.621827,
       "street": "A20 - Main North Rd",
-      "city": "Parafield",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T02:14:17Z"
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T02:41:41Z"
     },
     {
-      "id": "e3b31214-8ac9-4c3c-9184-47bf8291a573",
-      "latitude": -34.85697,
-      "longitude": 138.565332,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "ccc24c17-950f-4269-88af-ae45077ef7d9",
+      "latitude": -34.738442,
+      "longitude": 138.675837,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:30:15Z",
-      "reported_at": "2026-02-09T02:06:10Z"
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T02:50:16Z"
+    },
+    {
+      "id": "bb0ba114-02d4-480e-a1cd-1744988fb5d6",
+      "latitude": -35.032626,
+      "longitude": 138.555217,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-09T03:00:16Z",
+      "reported_at": "2026-02-09T02:27:18Z"
     }
   ]
 }
