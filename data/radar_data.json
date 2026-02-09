@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "c2d79f48-fedc-4d69-8f1d-e05940ac2a55",
-      "latitude": -34.93217,
-      "longitude": 138.534576,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T07:19:51Z"
-    },
-    {
-      "id": "5e5959d7-1a71-4860-9da0-fd8cd0375ebc",
-      "latitude": -34.862979,
-      "longitude": 138.529352,
+      "id": "827aaf0f-ea24-42d9-9236-1fc80efb9e3c",
+      "latitude": -34.861672,
+      "longitude": 138.529308,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T04:53:30Z"
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T05:19:01Z"
     },
     {
       "id": "4b63a943-231b-49a2-bc3e-5191ede4bee5",
@@ -27,7 +17,7 @@
       "street": "Marmion Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
+      "timestamp": "2026-02-09T08:30:16Z",
       "reported_at": "2026-02-09T06:53:04Z"
     },
     {
@@ -37,38 +27,8 @@
       "street": "Hawker St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
+      "timestamp": "2026-02-09T08:30:16Z",
       "reported_at": "2026-02-09T06:20:02Z"
-    },
-    {
-      "id": "b1bfd32f-2115-47b4-8bcd-65e5512afc66",
-      "latitude": -34.891925,
-      "longitude": 138.507887,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T05:10:17Z"
-    },
-    {
-      "id": "b50e2957-1d9d-4d18-9d17-4a2a868914ed",
-      "latitude": -34.828635,
-      "longitude": 138.631806,
-      "street": "Bridge Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T07:38:14Z"
-    },
-    {
-      "id": "b58e04fa-74ae-4700-8264-60999259f999",
-      "latitude": -34.924866,
-      "longitude": 138.545792,
-      "street": "Henley Beach Rd",
-      "city": "Underdale",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T07:28:23Z"
     },
     {
       "id": "0ae91437-be51-4e6a-8325-2d3d6d1fb37c",
@@ -77,18 +37,58 @@
       "street": "Sturt Rd",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
+      "timestamp": "2026-02-09T08:30:16Z",
       "reported_at": "2026-02-09T07:56:27Z"
     },
     {
-      "id": "ca8b3b01-2ffd-4c5f-8465-e50a3ac24edb",
-      "latitude": -35.020485,
-      "longitude": 138.799164,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
+      "id": "2404d379-9c03-470e-9841-961096e51742",
+      "latitude": -34.921273,
+      "longitude": 138.606029,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T07:26:59Z"
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T08:09:36Z"
+    },
+    {
+      "id": "653c7792-8b4d-4497-b7c5-59ffb37a0278",
+      "latitude": -34.926632,
+      "longitude": 138.599705,
+      "street": "King William St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T08:03:18Z"
+    },
+    {
+      "id": "b58e04fa-74ae-4700-8264-60999259f999",
+      "latitude": -34.924866,
+      "longitude": 138.545792,
+      "street": "Henley Beach Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T07:28:23Z"
+    },
+    {
+      "id": "b1bfd32f-2115-47b4-8bcd-65e5512afc66",
+      "latitude": -34.891925,
+      "longitude": 138.507887,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T05:10:17Z"
+    },
+    {
+      "id": "edbf8d7c-0f9b-4024-bf0d-4375f6ede58a",
+      "latitude": -34.8624,
+      "longitude": 138.514739,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T04:50:02Z"
     },
     {
       "id": "2d03b655-06c9-4547-b90d-1f8dbac9faef",
@@ -97,7 +97,7 @@
       "street": "A5 - Anzac Hwy",
       "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
+      "timestamp": "2026-02-09T08:30:16Z",
       "reported_at": "2026-02-09T05:41:15Z"
     },
     {
@@ -107,18 +107,8 @@
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
+      "timestamp": "2026-02-09T08:30:16Z",
       "reported_at": "2026-02-09T05:29:56Z"
-    },
-    {
-      "id": "b9cbec97-d6ef-419b-9e46-48281d08535a",
-      "latitude": -34.841951,
-      "longitude": 138.599763,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T07:00:14Z"
     },
     {
       "id": "505a25c8-16ce-4b41-b7ba-888c5c1fdb67",
@@ -127,18 +117,28 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
+      "timestamp": "2026-02-09T08:30:16Z",
       "reported_at": "2026-02-09T05:53:44Z"
     },
     {
-      "id": "88155bd4-cbd7-4eb6-9a14-aaf61df5000f",
-      "latitude": -34.763541,
-      "longitude": 138.672042,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury Heights",
+      "id": "b9cbec97-d6ef-419b-9e46-48281d08535a",
+      "latitude": -34.841951,
+      "longitude": 138.599763,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:00:18Z",
-      "reported_at": "2026-02-09T07:54:39Z"
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T07:00:14Z"
+    },
+    {
+      "id": "40f77cfd-989f-4256-9117-a43bdf1a6bfd",
+      "latitude": -35.110262,
+      "longitude": 138.509145,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-09T08:30:16Z",
+      "reported_at": "2026-02-09T08:18:19Z"
     }
   ]
 }
