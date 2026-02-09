@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "9b37dd8f-fb02-47a2-a77e-61e666d60273",
+      "latitude": -34.748972,
+      "longitude": 138.619708,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:00:15Z",
+      "reported_at": "2026-02-09T20:47:03Z"
+    },
+    {
+      "id": "70b1e77e-39d7-4915-866e-6dacf6bd4221",
+      "latitude": -35.023934,
+      "longitude": 138.552021,
+      "street": "Diagonal Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:00:15Z",
+      "reported_at": "2026-02-09T20:48:55Z"
+    },
+    {
+      "id": "0fd10e0f-d067-4142-abc9-9f3cfa44b18c",
+      "latitude": -34.844441,
+      "longitude": 138.680538,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:00:15Z",
+      "reported_at": "2026-02-09T20:39:00Z"
+    }
+  ]
 }
