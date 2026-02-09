@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "09527fc9-ff2a-42c4-9c62-1c855011f5c2",
-      "latitude": -34.803496,
-      "longitude": 138.491633,
-      "street": "Lady Gowrie Dr",
-      "city": "Taperoo",
+      "id": "498ca1b5-197e-4563-be86-8bf3fcde1217",
+      "latitude": -35.01707,
+      "longitude": 138.558667,
+      "street": "Sturt Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
-      "reported_at": "2026-02-08T22:56:06Z"
+      "timestamp": "2026-02-09T00:00:18Z",
+      "reported_at": "2026-02-08T23:28:08Z"
     },
     {
       "id": "504a0f51-1aa9-4abc-8e6f-73d48420e088",
@@ -17,8 +17,18 @@
       "street": "Church Hill Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
+      "timestamp": "2026-02-09T00:00:18Z",
       "reported_at": "2026-02-08T21:50:19Z"
+    },
+    {
+      "id": "78a8f5af-237c-4e86-85a5-3a7f63c0798c",
+      "latitude": -35.031631,
+      "longitude": 138.524017,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
+      "type": "mobile",
+      "timestamp": "2026-02-09T00:00:18Z",
+      "reported_at": "2026-02-08T23:42:41Z"
     },
     {
       "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
@@ -27,7 +37,7 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
+      "timestamp": "2026-02-09T00:00:18Z",
       "reported_at": "2026-02-08T21:08:09Z"
     },
     {
@@ -37,38 +47,18 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
+      "timestamp": "2026-02-09T00:00:18Z",
       "reported_at": "2026-02-08T22:23:54Z"
     },
     {
-      "id": "679ffa94-54c1-464d-a6fe-7862a9897771",
-      "latitude": -34.918044,
-      "longitude": 138.567808,
-      "street": "A2 - South Rd",
-      "city": "Torrensville",
+      "id": "341395c9-4526-4fd7-98e2-70d03f30cd1b",
+      "latitude": -34.805161,
+      "longitude": 138.603089,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
-      "reported_at": "2026-02-08T23:22:35Z"
-    },
-    {
-      "id": "591f1206-9488-406d-aefe-3284458b6580",
-      "latitude": -34.790999,
-      "longitude": 138.579521,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
-      "reported_at": "2026-02-08T22:43:06Z"
-    },
-    {
-      "id": "66a3b9eb-106d-4d34-b6e1-75f9da39b38e",
-      "latitude": -34.995421,
-      "longitude": 138.732543,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-02-08T23:30:18Z",
-      "reported_at": "2026-02-08T23:27:14Z"
+      "timestamp": "2026-02-09T00:00:18Z",
+      "reported_at": "2026-02-08T23:33:01Z"
     }
   ]
 }
