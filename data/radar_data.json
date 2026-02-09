@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "827aaf0f-ea24-42d9-9236-1fc80efb9e3c",
-      "latitude": -34.861672,
-      "longitude": 138.529308,
+      "id": "29113297-af41-4ff1-98e4-c9a7801ff752",
+      "latitude": -34.881972,
+      "longitude": 138.566732,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T05:56:15Z"
+    },
+    {
+      "id": "5e5959d7-1a71-4860-9da0-fd8cd0375ebc",
+      "latitude": -34.862979,
+      "longitude": 138.529352,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T05:19:01Z"
-    },
-    {
-      "id": "4b63a943-231b-49a2-bc3e-5191ede4bee5",
-      "latitude": -34.852621,
-      "longitude": 138.594165,
-      "street": "Marmion Av",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T06:53:04Z"
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T04:53:30Z"
     },
     {
       "id": "6d30fa70-50de-472a-a267-76a266f20b73",
@@ -27,18 +27,28 @@
       "street": "Hawker St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
+      "timestamp": "2026-02-09T09:00:18Z",
       "reported_at": "2026-02-09T06:20:02Z"
     },
     {
-      "id": "0ae91437-be51-4e6a-8325-2d3d6d1fb37c",
-      "latitude": -35.016577,
-      "longitude": 138.570269,
-      "street": "Sturt Rd",
-      "city": "Bedford Park",
+      "id": "9b50027c-a57b-4fa8-a95d-e1c55a8a2012",
+      "latitude": -34.924988,
+      "longitude": 138.54486,
+      "street": "Henley Beach Rd",
+      "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T07:56:27Z"
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T08:36:21Z"
+    },
+    {
+      "id": "8980fa08-3bb5-4833-a5ff-5b216b86ca8c",
+      "latitude": -34.923748,
+      "longitude": 138.605636,
+      "street": "Pulteney St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T08:41:42Z"
     },
     {
       "id": "2404d379-9c03-470e-9841-961096e51742",
@@ -47,48 +57,28 @@
       "street": "North Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
+      "timestamp": "2026-02-09T09:00:18Z",
       "reported_at": "2026-02-09T08:09:36Z"
     },
     {
-      "id": "653c7792-8b4d-4497-b7c5-59ffb37a0278",
-      "latitude": -34.926632,
-      "longitude": 138.599705,
-      "street": "King William St",
-      "city": "Adelaide",
+      "id": "f8a5df35-dcc9-4b8c-8cc8-496b2e45eb42",
+      "latitude": -34.992529,
+      "longitude": 138.582557,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T08:03:18Z"
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T08:17:59Z"
     },
     {
-      "id": "b58e04fa-74ae-4700-8264-60999259f999",
-      "latitude": -34.924866,
-      "longitude": 138.545792,
-      "street": "Henley Beach Rd",
-      "city": "Underdale",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T07:28:23Z"
-    },
-    {
-      "id": "b1bfd32f-2115-47b4-8bcd-65e5512afc66",
-      "latitude": -34.891925,
-      "longitude": 138.507887,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T05:10:17Z"
-    },
-    {
-      "id": "edbf8d7c-0f9b-4024-bf0d-4375f6ede58a",
-      "latitude": -34.8624,
-      "longitude": 138.514739,
+      "id": "9c5e152b-692b-44cf-88fd-381b54b70e4a",
+      "latitude": -34.86215,
+      "longitude": 138.514591,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T04:50:02Z"
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T06:55:26Z"
     },
     {
       "id": "2d03b655-06c9-4547-b90d-1f8dbac9faef",
@@ -97,28 +87,18 @@
       "street": "A5 - Anzac Hwy",
       "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
+      "timestamp": "2026-02-09T09:00:18Z",
       "reported_at": "2026-02-09T05:41:15Z"
     },
     {
-      "id": "4dc67ac9-6398-4305-83ed-7b057e6dc1d4",
-      "latitude": -34.893627,
-      "longitude": 138.585425,
+      "id": "dec1bfb2-65ef-4a19-b410-4fad9a02c87b",
+      "latitude": -34.89267,
+      "longitude": 138.585355,
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T05:29:56Z"
-    },
-    {
-      "id": "505a25c8-16ce-4b41-b7ba-888c5c1fdb67",
-      "latitude": -34.858245,
-      "longitude": 138.600841,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T05:53:44Z"
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T05:05:51Z"
     },
     {
       "id": "b9cbec97-d6ef-419b-9e46-48281d08535a",
@@ -127,18 +107,48 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
+      "timestamp": "2026-02-09T09:00:18Z",
       "reported_at": "2026-02-09T07:00:14Z"
     },
     {
-      "id": "40f77cfd-989f-4256-9117-a43bdf1a6bfd",
-      "latitude": -35.110262,
-      "longitude": 138.509145,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
+      "id": "4c1f6ea4-c62e-4faa-b36d-f52136be215c",
+      "latitude": -34.83149,
+      "longitude": 138.688097,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-09T08:30:16Z",
-      "reported_at": "2026-02-09T08:18:19Z"
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T08:40:12Z"
+    },
+    {
+      "id": "2d7724e8-3d39-44dc-83ba-7297064127c9",
+      "latitude": -34.851903,
+      "longitude": 138.518635,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
+      "type": "mobile",
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T08:41:28Z"
+    },
+    {
+      "id": "c18887b5-14ed-4a68-a76a-ad8aae93872a",
+      "latitude": -34.858526,
+      "longitude": 138.600971,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T05:06:13Z"
+    },
+    {
+      "id": "cbc261aa-c2fa-4e05-9e62-3f2f1caf6e7b",
+      "latitude": -34.832051,
+      "longitude": 138.582078,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-02-09T09:00:18Z",
+      "reported_at": "2026-02-09T08:51:00Z"
     }
   ]
 }
