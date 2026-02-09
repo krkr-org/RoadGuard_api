@@ -1,34 +1,104 @@
 {
   "radars": [
     {
-      "id": "9b37dd8f-fb02-47a2-a77e-61e666d60273",
-      "latitude": -34.748972,
-      "longitude": 138.619708,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "08365928-e9e6-4d04-a7f1-c7b9a9716414",
+      "latitude": -34.858122,
+      "longitude": 138.529173,
+      "street": "Addison Rd",
+      "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-09T21:00:15Z",
-      "reported_at": "2026-02-09T20:47:03Z"
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:25:46Z"
     },
     {
-      "id": "70b1e77e-39d7-4915-866e-6dacf6bd4221",
-      "latitude": -35.023934,
-      "longitude": 138.552021,
+      "id": "5c447a2e-0576-449b-80e8-5fe9a2ae060f",
+      "latitude": -34.829134,
+      "longitude": 138.607733,
       "street": "Diagonal Rd",
-      "city": "Sturt",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-09T21:00:15Z",
-      "reported_at": "2026-02-09T20:48:55Z"
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:10:39Z"
     },
     {
-      "id": "0fd10e0f-d067-4142-abc9-9f3cfa44b18c",
-      "latitude": -34.844441,
-      "longitude": 138.680538,
-      "street": "A16 - Grand Junction Rd",
+      "id": "e72455dd-f129-41e5-8025-1d037565f36e",
+      "latitude": -34.834881,
+      "longitude": 138.61739,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:00:26Z"
+    },
+    {
+      "id": "f705ed9e-01a0-436f-b15d-d7144c7b11bb",
+      "latitude": -34.735119,
+      "longitude": 138.597023,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:02:20Z"
+    },
+    {
+      "id": "49f76846-b30b-4c5c-a5e2-5a969a794e59",
+      "latitude": -35.105817,
+      "longitude": 138.512903,
+      "street": "Sherriffs Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:25:38Z"
+    },
+    {
+      "id": "4ba2f002-e0cf-477e-8576-cfc72f9d66b0",
+      "latitude": -34.85729,
+      "longitude": 138.668975,
+      "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-09T21:00:15Z",
-      "reported_at": "2026-02-09T20:39:00Z"
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:20:46Z"
+    },
+    {
+      "id": "261a2d20-7d66-4575-803d-6e96b88cc1c3",
+      "latitude": -34.945499,
+      "longitude": 138.579983,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:22:33Z"
+    },
+    {
+      "id": "eab463a5-d834-439b-8f01-edf0a70bf81b",
+      "latitude": -34.901769,
+      "longitude": 138.608099,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:25:27Z"
+    },
+    {
+      "id": "5b49d2da-9b57-4a13-a7ab-e837b1d0eb82",
+      "latitude": -34.840176,
+      "longitude": 138.714535,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:21:30Z"
+    },
+    {
+      "id": "c7208d90-5764-459e-9db5-dbd40780fcc2",
+      "latitude": -34.712302,
+      "longitude": 138.575814,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-02-09T21:30:16Z",
+      "reported_at": "2026-02-09T21:08:45Z"
     }
   ]
 }
