@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "8e9e1731-05ee-45c7-be62-fed4642256d9",
+      "latitude": -34.913437,
+      "longitude": 138.519201,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T03:46:42Z"
+    },
+    {
       "id": "cde4b0dd-3f62-486b-97e8-646094a804de",
       "latitude": -34.696863,
       "longitude": 138.641903,
       "street": "Andrews Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-02-09T03:30:15Z",
+      "timestamp": "2026-02-09T04:00:16Z",
       "reported_at": "2026-02-09T01:01:08Z"
     },
     {
@@ -17,8 +27,48 @@
       "street": "Grenfell Rd",
       "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T03:30:15Z",
+      "timestamp": "2026-02-09T04:00:16Z",
       "reported_at": "2026-02-09T00:14:01Z"
+    },
+    {
+      "id": "06f48d24-4be0-468e-aa41-273d84af8824",
+      "latitude": -35.019272,
+      "longitude": 138.549965,
+      "street": "Diagonal Rd",
+      "city": "Seacombe Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T03:55:01Z"
+    },
+    {
+      "id": "53f91ce2-7b24-40dc-9041-367fac084d89",
+      "latitude": -35.104449,
+      "longitude": 138.799257,
+      "street": "Church Hill Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T01:48:48Z"
+    },
+    {
+      "id": "d4b392cb-2416-476d-a33e-02db577d6d1b",
+      "latitude": -34.946055,
+      "longitude": 138.579721,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T03:43:44Z"
+    },
+    {
+      "id": "ccacdc19-3132-4a64-9114-ae43e612d6bf",
+      "latitude": -34.932533,
+      "longitude": 138.551492,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T02:36:14Z"
     },
     {
       "id": "ee358834-2f14-4ee3-a73e-3ac85850aac8",
@@ -27,18 +77,18 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T03:30:15Z",
+      "timestamp": "2026-02-09T04:00:16Z",
       "reported_at": "2026-02-09T00:50:45Z"
     },
     {
-      "id": "1df90697-189d-46ae-80bf-cf855c3433d5",
-      "latitude": -34.932644,
-      "longitude": 138.552319,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Brooklyn Park",
+      "id": "5a04c15b-90c6-4d92-b531-840c44bdb4df",
+      "latitude": -34.878007,
+      "longitude": 138.663801,
+      "street": "Lower North East Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-09T03:30:15Z",
-      "reported_at": "2026-02-09T02:56:35Z"
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T03:41:44Z"
     },
     {
       "id": "b95fa09c-d34c-40b3-b7c2-e8b49d86bc90",
@@ -47,18 +97,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-09T03:30:15Z",
+      "timestamp": "2026-02-09T04:00:16Z",
       "reported_at": "2026-02-09T03:14:25Z"
     },
     {
-      "id": "8ab5886a-b14f-4d11-b34c-39f24449d91f",
-      "latitude": -34.795705,
-      "longitude": 138.653376,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "8a945ebd-13ca-4f16-a9d5-a66c47da5c82",
+      "latitude": -35.022686,
+      "longitude": 138.561146,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-09T03:30:15Z",
-      "reported_at": "2026-02-09T03:01:37Z"
+      "timestamp": "2026-02-09T04:00:16Z",
+      "reported_at": "2026-02-09T03:42:31Z"
     }
   ]
 }
