@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "5e5959d7-1a71-4860-9da0-fd8cd0375ebc",
-      "latitude": -34.862979,
-      "longitude": 138.529352,
+      "id": "827aaf0f-ea24-42d9-9236-1fc80efb9e3c",
+      "latitude": -34.861672,
+      "longitude": 138.529308,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T04:53:30Z"
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T05:19:01Z"
     },
     {
-      "id": "b0a9a330-3217-4347-805f-b03bebb505fb",
-      "latitude": -34.922289,
-      "longitude": 138.613181,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
+      "id": "9ab0f4f3-f7ea-4fe1-832e-0fdf3ceedfb3",
+      "latitude": -34.9863,
+      "longitude": 138.565043,
+      "street": "Railway Tce",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:16:48Z"
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T05:50:30Z"
+    },
+    {
+      "id": "8a068adc-ab44-43ea-b557-dd8402b91667",
+      "latitude": -34.790579,
+      "longitude": 138.692968,
+      "street": "Unknown Street",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T05:59:29Z"
     },
     {
       "id": "a169e5c9-0c59-49a3-b0d7-03d36dac5c51",
@@ -27,18 +37,8 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
+      "timestamp": "2026-02-09T06:30:15Z",
       "reported_at": "2026-02-09T04:49:33Z"
-    },
-    {
-      "id": "3fc7b56d-5df4-42cf-b731-908710c3a73c",
-      "latitude": -35.121043,
-      "longitude": 138.510423,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:36:37Z"
     },
     {
       "id": "9ae07c1a-e6c5-4334-b59c-3776153f9cf7",
@@ -47,68 +47,68 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
+      "timestamp": "2026-02-09T06:30:15Z",
       "reported_at": "2026-02-09T04:07:51Z"
     },
     {
-      "id": "5ca63775-0e04-48ce-a1fd-0637f896395a",
-      "latitude": -34.824452,
-      "longitude": 138.621802,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:42:42Z"
-    },
-    {
-      "id": "4623572b-6b09-4262-9efa-e1aeee522772",
-      "latitude": -34.847949,
-      "longitude": 138.69398,
+      "id": "9af1b451-92f3-4abf-8b15-b8a34fcd398e",
+      "latitude": -34.847107,
+      "longitude": 138.694067,
       "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:29:28Z"
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T06:11:31Z"
     },
     {
-      "id": "e05345a6-55a0-4fd2-9bdc-6722781c87f4",
-      "latitude": -34.862764,
-      "longitude": 138.514908,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Unknown City",
+      "id": "d0051041-044e-4a92-b6c6-1b109b1f800d",
+      "latitude": -34.726319,
+      "longitude": 138.66629,
+      "street": "Philip Hwy",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T04:58:58Z"
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T05:47:48Z"
     },
     {
-      "id": "dec1bfb2-65ef-4a19-b410-4fad9a02c87b",
-      "latitude": -34.89267,
-      "longitude": 138.585355,
+      "id": "8b9c4627-18e0-4059-9b3d-feae02740137",
+      "latitude": -34.862883,
+      "longitude": 138.515024,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T06:06:42Z"
+    },
+    {
+      "id": "2edbfca0-709f-40f7-a564-1fc80ea3b630",
+      "latitude": -34.984592,
+      "longitude": 138.574197,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T06:15:19Z"
+    },
+    {
+      "id": "4dc67ac9-6398-4305-83ed-7b057e6dc1d4",
+      "latitude": -34.893627,
+      "longitude": 138.585425,
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:05:51Z"
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T05:29:56Z"
     },
     {
-      "id": "c18887b5-14ed-4a68-a76a-ad8aae93872a",
-      "latitude": -34.858526,
-      "longitude": 138.600971,
+      "id": "505a25c8-16ce-4b41-b7ba-888c5c1fdb67",
+      "latitude": -34.858245,
+      "longitude": 138.600841,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:06:13Z"
-    },
-    {
-      "id": "be81386c-ff71-4bdc-ad11-66ecc97ccbf6",
-      "latitude": -34.843473,
-      "longitude": 138.599711,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-09T06:00:15Z",
-      "reported_at": "2026-02-09T05:55:14Z"
+      "timestamp": "2026-02-09T06:30:15Z",
+      "reported_at": "2026-02-09T05:53:44Z"
     }
   ]
 }
