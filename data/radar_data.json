@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "3a235e6b-34de-46d7-bf9a-f7f0030d8a71",
-      "latitude": -34.962041,
-      "longitude": 138.581403,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
-      "reported_at": "2026-02-09T01:43:51Z"
-    },
-    {
       "id": "feeed0ba-d610-464a-97de-5a2e0ae1333c",
       "latitude": -34.699074,
       "longitude": 138.6405,
       "street": "Andrews Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
+      "timestamp": "2026-02-09T02:30:15Z",
       "reported_at": "2026-02-09T00:49:18Z"
     },
     {
-      "id": "504a0f51-1aa9-4abc-8e6f-73d48420e088",
-      "latitude": -35.103996,
-      "longitude": 138.797508,
-      "street": "Church Hill Rd",
-      "city": "Echunga",
+      "id": "0208c913-6e4d-4666-8f51-fe0b91dd84b8",
+      "latitude": -35.106665,
+      "longitude": 138.534917,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
-      "reported_at": "2026-02-08T21:50:19Z"
+      "timestamp": "2026-02-09T02:30:15Z",
+      "reported_at": "2026-02-09T02:04:53Z"
     },
     {
       "id": "781dd308-5efd-481f-8b03-f45086d95de2",
@@ -37,38 +27,38 @@
       "street": "Grenfell Rd",
       "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
+      "timestamp": "2026-02-09T02:30:15Z",
       "reported_at": "2026-02-09T00:14:01Z"
     },
     {
-      "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
-      "latitude": -35.089596,
-      "longitude": 138.79419,
+      "id": "cf10a129-3d47-43f6-bef5-74ea38b507ed",
+      "latitude": -34.917761,
+      "longitude": 138.592993,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-09T02:30:15Z",
+      "reported_at": "2026-02-09T02:09:32Z"
+    },
+    {
+      "id": "ee358834-2f14-4ee3-a73e-3ac85850aac8",
+      "latitude": -35.08983,
+      "longitude": 138.794076,
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
-      "reported_at": "2026-02-08T21:08:09Z"
+      "timestamp": "2026-02-09T02:30:15Z",
+      "reported_at": "2026-02-09T00:50:45Z"
     },
     {
-      "id": "354f54d0-fff5-408d-a1c7-6dc70435399b",
-      "latitude": -35.095144,
-      "longitude": 138.787257,
-      "street": "B33 - Strathalbyn Rd",
-      "city": "Echunga",
+      "id": "68fbc73f-8c3c-4136-909c-e55cf0b46eae",
+      "latitude": -34.943863,
+      "longitude": 138.571158,
+      "street": "A2 - South Rd",
+      "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
-      "reported_at": "2026-02-08T22:23:54Z"
-    },
-    {
-      "id": "c31bfc1b-f819-4dc8-b328-a28317335412",
-      "latitude": -34.902325,
-      "longitude": 138.584331,
-      "street": "R1 - Park Tce (City Ring Route)",
-      "city": "Bowden",
-      "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
-      "reported_at": "2026-02-09T01:46:31Z"
+      "timestamp": "2026-02-09T02:30:15Z",
+      "reported_at": "2026-02-09T02:09:13Z"
     },
     {
       "id": "5d00fbd8-3d09-4549-9574-33cf076634cc",
@@ -77,8 +67,28 @@
       "street": "A17 - Portrush Rd",
       "city": "Glenunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T02:00:20Z",
+      "timestamp": "2026-02-09T02:30:15Z",
       "reported_at": "2026-02-09T01:22:05Z"
+    },
+    {
+      "id": "af37ac0b-0848-43b8-b4c1-805db2f0b684",
+      "latitude": -34.80507,
+      "longitude": 138.634947,
+      "street": "A20 - Main North Rd",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-02-09T02:30:15Z",
+      "reported_at": "2026-02-09T02:14:17Z"
+    },
+    {
+      "id": "e3b31214-8ac9-4c3c-9184-47bf8291a573",
+      "latitude": -34.85697,
+      "longitude": 138.565332,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-09T02:30:15Z",
+      "reported_at": "2026-02-09T02:06:10Z"
     }
   ]
 }
