@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "7d91d476-0efb-4d36-aaaa-1583ead85ebe",
-      "latitude": -34.956541,
-      "longitude": 138.555008,
-      "street": "Laverack Rd",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:03:50Z"
-    },
-    {
-      "id": "827aaf0f-ea24-42d9-9236-1fc80efb9e3c",
-      "latitude": -34.861672,
-      "longitude": 138.529308,
+      "id": "5e5959d7-1a71-4860-9da0-fd8cd0375ebc",
+      "latitude": -34.862979,
+      "longitude": 138.529352,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:19:01Z"
-    },
-    {
-      "id": "0a0d0e7a-a50f-4103-810c-5d703f399ca2",
-      "latitude": -34.898485,
-      "longitude": 138.57906,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T04:51:53Z"
+      "timestamp": "2026-02-09T06:00:15Z",
+      "reported_at": "2026-02-09T04:53:30Z"
     },
     {
       "id": "b0a9a330-3217-4347-805f-b03bebb505fb",
@@ -37,18 +17,28 @@
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
+      "timestamp": "2026-02-09T06:00:15Z",
       "reported_at": "2026-02-09T05:16:48Z"
     },
     {
-      "id": "b1bfd32f-2115-47b4-8bcd-65e5512afc66",
-      "latitude": -34.891925,
-      "longitude": 138.507887,
+      "id": "a169e5c9-0c59-49a3-b0d7-03d36dac5c51",
+      "latitude": -34.892059,
+      "longitude": 138.506197,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:10:17Z"
+      "timestamp": "2026-02-09T06:00:15Z",
+      "reported_at": "2026-02-09T04:49:33Z"
+    },
+    {
+      "id": "3fc7b56d-5df4-42cf-b731-908710c3a73c",
+      "latitude": -35.121043,
+      "longitude": 138.510423,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-09T06:00:15Z",
+      "reported_at": "2026-02-09T05:36:37Z"
     },
     {
       "id": "9ae07c1a-e6c5-4334-b59c-3776153f9cf7",
@@ -57,28 +47,28 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
+      "timestamp": "2026-02-09T06:00:15Z",
       "reported_at": "2026-02-09T04:07:51Z"
     },
     {
-      "id": "4499a5b9-0449-4a74-9b60-04450fcc5ba7",
-      "latitude": -34.881675,
-      "longitude": 138.559143,
-      "street": "Torrens Rd",
-      "city": "Croydon Park",
+      "id": "5ca63775-0e04-48ce-a1fd-0637f896395a",
+      "latitude": -34.824452,
+      "longitude": 138.621802,
+      "street": "Montague Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:04:57Z"
+      "timestamp": "2026-02-09T06:00:15Z",
+      "reported_at": "2026-02-09T05:42:42Z"
     },
     {
-      "id": "27818f7c-978c-4e45-b35c-455a65c8b8e1",
-      "latitude": -34.888246,
-      "longitude": 138.680434,
-      "street": "Montacute Rd",
-      "city": "Newton",
+      "id": "4623572b-6b09-4262-9efa-e1aeee522772",
+      "latitude": -34.847949,
+      "longitude": 138.69398,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T04:26:53Z"
+      "timestamp": "2026-02-09T06:00:15Z",
+      "reported_at": "2026-02-09T05:29:28Z"
     },
     {
       "id": "e05345a6-55a0-4fd2-9bdc-6722781c87f4",
@@ -87,58 +77,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
+      "timestamp": "2026-02-09T06:00:15Z",
       "reported_at": "2026-02-09T04:58:58Z"
-    },
-    {
-      "id": "7dabcbcf-8c77-4d7d-bf7a-fc7d920471bc",
-      "latitude": -34.854788,
-      "longitude": 138.510205,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:11:05Z"
-    },
-    {
-      "id": "efed1b68-02f3-4b39-acf8-64e585c28b68",
-      "latitude": -35.131261,
-      "longitude": 138.485794,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:08:42Z"
-    },
-    {
-      "id": "67b332c8-852e-4286-aa67-7510a7063d7b",
-      "latitude": -34.991793,
-      "longitude": 138.574854,
-      "street": "A2 - South Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:24:18Z"
-    },
-    {
-      "id": "0802fd44-2b8b-43ef-8ce1-8f19c563c796",
-      "latitude": -34.964687,
-      "longitude": 138.553845,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:22:30Z"
-    },
-    {
-      "id": "dadf3d5c-2519-4ec3-aadc-a8c2cbfd78c0",
-      "latitude": -34.945543,
-      "longitude": 138.579944,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:25:19Z"
     },
     {
       "id": "dec1bfb2-65ef-4a19-b410-4fad9a02c87b",
@@ -147,38 +87,28 @@
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
+      "timestamp": "2026-02-09T06:00:15Z",
       "reported_at": "2026-02-09T05:05:51Z"
     },
     {
-      "id": "d3acb4c4-74c6-487a-93d2-e44ec9559144",
-      "latitude": -34.841205,
-      "longitude": 138.599493,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:08:23Z"
-    },
-    {
       "id": "c18887b5-14ed-4a68-a76a-ad8aae93872a",
-      "latitude": -34.857931,
-      "longitude": 138.600929,
+      "latitude": -34.858526,
+      "longitude": 138.600971,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
+      "timestamp": "2026-02-09T06:00:15Z",
       "reported_at": "2026-02-09T05:06:13Z"
     },
     {
-      "id": "8f70f241-84b0-491e-8e04-33689229626d",
-      "latitude": -34.754305,
-      "longitude": 138.648349,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "be81386c-ff71-4bdc-ad11-66ecc97ccbf6",
+      "latitude": -34.843473,
+      "longitude": 138.599711,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-09T05:30:16Z",
-      "reported_at": "2026-02-09T05:07:39Z"
+      "timestamp": "2026-02-09T06:00:15Z",
+      "reported_at": "2026-02-09T05:55:14Z"
     }
   ]
 }
