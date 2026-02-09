@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "cd09e84f-6f19-404e-bea4-41b30ad7aa67",
-      "latitude": -35.035233,
-      "longitude": 138.563544,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-09T00:30:16Z",
-      "reported_at": "2026-02-09T00:16:25Z"
-    },
-    {
       "id": "504a0f51-1aa9-4abc-8e6f-73d48420e088",
       "latitude": -35.103996,
       "longitude": 138.797508,
       "street": "Church Hill Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T00:30:16Z",
+      "timestamp": "2026-02-09T01:00:20Z",
       "reported_at": "2026-02-08T21:50:19Z"
+    },
+    {
+      "id": "781dd308-5efd-481f-8b03-f45086d95de2",
+      "latitude": -34.806203,
+      "longitude": 138.706731,
+      "street": "Grenfell Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2026-02-09T01:00:20Z",
+      "reported_at": "2026-02-09T00:14:01Z"
     },
     {
       "id": "354f54d0-fff5-408d-a1c7-6dc70435399b",
@@ -27,18 +27,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T00:30:16Z",
+      "timestamp": "2026-02-09T01:00:20Z",
       "reported_at": "2026-02-08T22:23:54Z"
     },
     {
-      "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
-      "latitude": -35.089596,
-      "longitude": 138.79419,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
+      "id": "632b365b-5991-45dc-81ca-2b36df78befc",
+      "latitude": -35.022493,
+      "longitude": 138.562369,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-09T00:30:16Z",
-      "reported_at": "2026-02-08T21:08:09Z"
+      "timestamp": "2026-02-09T01:00:20Z",
+      "reported_at": "2026-02-09T00:50:13Z"
+    },
+    {
+      "id": "6365748d-0371-4220-b31f-e3c4d74dc7e4",
+      "latitude": -35.026435,
+      "longitude": 138.557134,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-02-09T01:00:20Z",
+      "reported_at": "2026-02-09T00:55:05Z"
     }
   ]
 }
