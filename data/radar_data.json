@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "126b0b96-ed27-46df-a33a-036806ae1e5d",
+      "latitude": -34.852431,
+      "longitude": 138.59367,
+      "street": "Tudor St",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-09T12:16:45Z",
+      "reported_at": "2026-02-09T08:54:54Z"
+    },
+    {
       "id": "490f2781-c3be-4762-ae63-5b0f0a292667",
       "latitude": -34.861305,
       "longitude": 138.529294,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
+      "timestamp": "2026-02-09T12:16:45Z",
       "reported_at": "2026-02-09T09:12:29Z"
-    },
-    {
-      "id": "bf584141-40b1-4021-bc2e-2b1b9561de84",
-      "latitude": -34.883677,
-      "longitude": 138.56685,
-      "street": "Days Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T07:16:37Z"
-    },
-    {
-      "id": "6d30fa70-50de-472a-a267-76a266f20b73",
-      "latitude": -34.899195,
-      "longitude": 138.579501,
-      "street": "Hawker St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T06:20:02Z"
     },
     {
       "id": "bae99e20-ac7e-4e87-b8a5-0055961370bb",
@@ -37,88 +27,48 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
+      "timestamp": "2026-02-09T12:16:45Z",
       "reported_at": "2026-02-09T08:57:40Z"
     },
     {
-      "id": "8b9c4627-18e0-4059-9b3d-feae02740137",
-      "latitude": -34.862883,
-      "longitude": 138.515024,
+      "id": "9c5e152b-692b-44cf-88fd-381b54b70e4a",
+      "latitude": -34.86215,
+      "longitude": 138.514591,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T06:06:42Z"
+      "timestamp": "2026-02-09T12:16:45Z",
+      "reported_at": "2026-02-09T06:55:26Z"
     },
     {
-      "id": "352fb90e-0109-4b49-9583-b9b3685e3e3c",
-      "latitude": -34.945385,
-      "longitude": 138.580083,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T08:20:07Z"
-    },
-    {
-      "id": "4dc67ac9-6398-4305-83ed-7b057e6dc1d4",
-      "latitude": -34.893627,
-      "longitude": 138.585425,
+      "id": "86177eb7-49fb-4f38-9faf-def39cf383d3",
+      "latitude": -34.893071,
+      "longitude": 138.585384,
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T05:29:56Z"
+      "timestamp": "2026-02-09T12:16:45Z",
+      "reported_at": "2026-02-09T08:03:56Z"
     },
     {
-      "id": "4087ef69-3633-413a-aa65-d215e45563cc",
-      "latitude": -34.895661,
-      "longitude": 138.585562,
-      "street": "A22 - Churchill Rd",
-      "city": "Ovingham",
+      "id": "2f1d3e72-b307-48e1-ab02-4bcc3cf5a8bc",
+      "latitude": -34.945151,
+      "longitude": 138.580287,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T09:41:15Z"
+      "timestamp": "2026-02-09T12:16:45Z",
+      "reported_at": "2026-02-09T10:46:20Z"
     },
     {
-      "id": "505a25c8-16ce-4b41-b7ba-888c5c1fdb67",
-      "latitude": -34.858245,
-      "longitude": 138.600841,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T05:53:44Z"
-    },
-    {
-      "id": "b629c0ee-6091-416e-8e60-1f652f61cc26",
-      "latitude": -34.818168,
-      "longitude": 138.623492,
+      "id": "ab8c320b-d931-4274-8edf-b08cd82f96ae",
+      "latitude": -34.731095,
+      "longitude": 138.675679,
       "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T09:37:47Z"
-    },
-    {
-      "id": "d3acb4c4-74c6-487a-93d2-e44ec9559144",
-      "latitude": -34.841205,
-      "longitude": 138.599493,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T05:08:23Z"
-    },
-    {
-      "id": "16e83089-92f4-464f-a962-f0ef9a5f05f4",
-      "latitude": -34.800133,
-      "longitude": 138.65934,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-09T10:00:16Z",
-      "reported_at": "2026-02-09T09:06:55Z"
+      "timestamp": "2026-02-09T12:16:45Z",
+      "reported_at": "2026-02-09T12:10:46Z"
     }
   ]
 }
