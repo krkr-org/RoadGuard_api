@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "cde4b0dd-3f62-486b-97e8-646094a804de",
+      "latitude": -34.696863,
+      "longitude": 138.641903,
+      "street": "Andrews Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-02-09T01:30:16Z",
+      "reported_at": "2026-02-09T01:01:08Z"
+    },
+    {
       "id": "504a0f51-1aa9-4abc-8e6f-73d48420e088",
       "latitude": -35.103996,
       "longitude": 138.797508,
       "street": "Church Hill Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T01:00:20Z",
+      "timestamp": "2026-02-09T01:30:16Z",
       "reported_at": "2026-02-08T21:50:19Z"
     },
     {
@@ -17,8 +27,28 @@
       "street": "Grenfell Rd",
       "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-09T01:00:20Z",
+      "timestamp": "2026-02-09T01:30:16Z",
       "reported_at": "2026-02-09T00:14:01Z"
+    },
+    {
+      "id": "4842e41b-a77b-4c34-8701-93caf9d774ef",
+      "latitude": -34.804419,
+      "longitude": 138.501323,
+      "street": "A16 - Victoria Rd",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2026-02-09T01:30:16Z",
+      "reported_at": "2026-02-09T01:15:58Z"
+    },
+    {
+      "id": "4fdafeff-00b7-47bb-86e2-8d62bb4484c3",
+      "latitude": -35.089596,
+      "longitude": 138.79419,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-02-09T01:30:16Z",
+      "reported_at": "2026-02-08T21:08:09Z"
     },
     {
       "id": "354f54d0-fff5-408d-a1c7-6dc70435399b",
@@ -27,28 +57,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T01:00:20Z",
+      "timestamp": "2026-02-09T01:30:16Z",
       "reported_at": "2026-02-08T22:23:54Z"
     },
     {
-      "id": "632b365b-5991-45dc-81ca-2b36df78befc",
-      "latitude": -35.022493,
-      "longitude": 138.562369,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "5d00fbd8-3d09-4549-9574-33cf076634cc",
+      "latitude": -34.94699,
+      "longitude": 138.642961,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenunga",
       "type": "mobile",
-      "timestamp": "2026-02-09T01:00:20Z",
-      "reported_at": "2026-02-09T00:50:13Z"
+      "timestamp": "2026-02-09T01:30:16Z",
+      "reported_at": "2026-02-09T01:22:05Z"
     },
     {
-      "id": "6365748d-0371-4220-b31f-e3c4d74dc7e4",
-      "latitude": -35.026435,
-      "longitude": 138.557134,
-      "street": "M2 - Southern Exp",
-      "city": "Sturt",
+      "id": "e6eed52c-12d8-4d3d-9e23-cf14495a6b2f",
+      "latitude": -34.77581,
+      "longitude": 138.620772,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-09T01:00:20Z",
-      "reported_at": "2026-02-09T00:55:05Z"
+      "timestamp": "2026-02-09T01:30:16Z",
+      "reported_at": "2026-02-09T01:14:58Z"
     }
   ]
 }
