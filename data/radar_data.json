@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "196af356-72ec-4934-b484-6d1422e1dcea",
-      "latitude": -34.913838,
-      "longitude": 138.573923,
+      "id": "7f3e09f2-a6ca-4904-8ee0-0d133dac6c06",
+      "latitude": -34.913786,
+      "longitude": 138.574358,
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T22:18:41Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T23:14:18Z"
     },
     {
       "id": "c27931f3-1d8a-409a-a215-a5317a2ac867",
@@ -17,8 +17,18 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
+      "timestamp": "2026-02-10T23:30:15Z",
       "reported_at": "2026-02-10T22:15:47Z"
+    },
+    {
+      "id": "8e0d8684-5257-4c5d-aecc-9a92a747d1d8",
+      "latitude": -34.865839,
+      "longitude": 138.565615,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T20:55:54Z"
     },
     {
       "id": "303ce3fe-22ff-4b16-a7ba-375ed8888b6c",
@@ -27,7 +37,7 @@
       "street": "Marmion Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
+      "timestamp": "2026-02-10T23:30:15Z",
       "reported_at": "2026-02-10T20:52:48Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
+      "timestamp": "2026-02-10T23:30:15Z",
       "reported_at": "2026-02-10T21:11:49Z"
     },
     {
@@ -47,78 +57,68 @@
       "street": "Lionel Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
+      "timestamp": "2026-02-10T23:30:15Z",
       "reported_at": "2026-02-10T22:12:40Z"
     },
     {
-      "id": "0baac1cf-1fac-427a-b7e5-46a1ef24c943",
-      "latitude": -34.878457,
-      "longitude": 138.59344,
-      "street": "Prospect Rd",
-      "city": "Prospect",
+      "id": "fd0fe875-02b1-46c9-ba25-bc95de8cb863",
+      "latitude": -35.052867,
+      "longitude": 138.592994,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T20:57:04Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T22:50:58Z"
     },
     {
-      "id": "57f0ecc7-0c0c-465c-91b0-2c734e306b1c",
-      "latitude": -34.918118,
-      "longitude": 138.658621,
-      "street": "Glynburn Rd",
-      "city": "Kensington Park",
+      "id": "75e288fa-2855-4e3a-86f4-1435cedd90e9",
+      "latitude": -34.850527,
+      "longitude": 138.564491,
+      "street": "South Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T22:30:32Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T23:25:39Z"
     },
     {
-      "id": "f5f92c04-285e-49ec-95a9-64aaf629f31c",
-      "latitude": -35.088664,
-      "longitude": 138.497994,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T21:48:05Z"
-    },
-    {
-      "id": "79a818fa-a4e6-4f30-82c7-7c8f61186961",
-      "latitude": -34.906244,
-      "longitude": 138.57307,
+      "id": "0261cdd5-d5a2-40db-8854-9f79be8fccc8",
+      "latitude": -34.90525,
+      "longitude": 138.571561,
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T22:46:57Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T22:09:29Z"
     },
     {
-      "id": "edccf1d3-8365-44ec-8b35-95acb4dd6d61",
-      "latitude": -34.857658,
-      "longitude": 138.600909,
+      "id": "fd519b49-7162-40a6-8164-43b86441efee",
+      "latitude": -34.858171,
+      "longitude": 138.600835,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T22:41:55Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T22:34:12Z"
     },
     {
-      "id": "7d813098-77ae-46f9-b6c3-859a44d87c7d",
-      "latitude": -34.775417,
-      "longitude": 138.594875,
+      "id": "18a11be0-5574-4c60-b851-e80edde9665a",
+      "latitude": -34.806772,
+      "longitude": 138.596925,
       "street": "A1 - Port Wakefield Rd",
-      "city": "Parafield Gardens",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T22:35:28Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T23:23:43Z"
     },
     {
-      "id": "d9e89deb-ae81-4dca-adb2-90389c2c3f18",
-      "latitude": -34.840201,
-      "longitude": 138.517443,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "id": "77f76912-34c8-42a5-bf4d-f4fd7b94ea3d",
+      "latitude": -34.800765,
+      "longitude": 138.660125,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
       "type": "mobile",
-      "timestamp": "2026-02-10T23:00:15Z",
-      "reported_at": "2026-02-10T22:43:14Z"
+      "timestamp": "2026-02-10T23:30:15Z",
+      "reported_at": "2026-02-10T23:09:16Z"
     }
   ]
 }
