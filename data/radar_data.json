@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "4df73bb9-6fbb-4d7c-83c0-5064c5ab65a0",
-      "latitude": -34.965043,
-      "longitude": 138.563723,
-      "street": "Winifred Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T04:43:17Z"
-    },
-    {
-      "id": "5887f551-5d45-4017-a53e-c58564e6704f",
-      "latitude": -34.849947,
-      "longitude": 138.653556,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T02:19:53Z"
-    },
-    {
       "id": "bc945146-ab00-48af-abe2-5866264db7ae",
       "latitude": -34.960244,
       "longitude": 138.543794,
       "street": "Mooringe Av",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
+      "timestamp": "2026-02-10T06:00:15Z",
       "reported_at": "2026-02-10T04:36:06Z"
-    },
-    {
-      "id": "f54dd814-25ad-4879-bdc4-df4207061469",
-      "latitude": -34.968151,
-      "longitude": 138.547091,
-      "street": "Stonehouse Av",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T05:00:27Z"
     },
     {
       "id": "f986ef70-24c7-4fe7-8f2d-3fab765adbc0",
@@ -47,28 +17,28 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
+      "timestamp": "2026-02-10T06:00:15Z",
       "reported_at": "2026-02-10T04:53:22Z"
     },
     {
-      "id": "8da784ce-7d81-4b56-891a-3fc2964e3cec",
-      "latitude": -34.949516,
-      "longitude": 138.564317,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
+      "id": "5887f551-5d45-4017-a53e-c58564e6704f",
+      "latitude": -34.849947,
+      "longitude": 138.653556,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T05:23:16Z"
+      "timestamp": "2026-02-10T06:00:15Z",
+      "reported_at": "2026-02-10T02:19:53Z"
     },
     {
-      "id": "2e4d1a1a-abff-4e34-9201-3ac1ec759477",
-      "latitude": -34.766532,
-      "longitude": 138.626973,
-      "street": "Spains Rd",
-      "city": "Salisbury",
+      "id": "f54dd814-25ad-4879-bdc4-df4207061469",
+      "latitude": -34.968151,
+      "longitude": 138.547091,
+      "street": "Stonehouse Av",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T05:24:41Z"
+      "timestamp": "2026-02-10T06:00:15Z",
+      "reported_at": "2026-02-10T05:00:27Z"
     },
     {
       "id": "0a7b8d60-426f-4234-ad93-21e3860b0f80",
@@ -77,58 +47,38 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
+      "timestamp": "2026-02-10T06:00:15Z",
       "reported_at": "2026-02-10T05:23:34Z"
     },
     {
-      "id": "b008ab03-1bfb-41ce-b1bc-9ddbf55f91b2",
-      "latitude": -34.992518,
-      "longitude": 138.580352,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T05:22:13Z"
-    },
-    {
-      "id": "09a8afa4-a43e-458f-9eb3-670ed8eaa21c",
-      "latitude": -35.146633,
-      "longitude": 138.535156,
+      "id": "0a762f3c-0c20-4a21-8bda-53abc170d792",
+      "latitude": -35.146668,
+      "longitude": 138.534489,
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T00:46:01Z"
+      "timestamp": "2026-02-10T06:00:15Z",
+      "reported_at": "2026-02-10T05:28:22Z"
     },
     {
-      "id": "f3613520-9c8d-4446-99cb-172bc9f790ec",
-      "latitude": -34.954613,
-      "longitude": 138.569171,
+      "id": "77265f29-dbd9-4c11-bc34-da22f6bda4c2",
+      "latitude": -34.834224,
+      "longitude": 138.615981,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:00:15Z",
+      "reported_at": "2026-02-10T05:37:08Z"
+    },
+    {
+      "id": "23a5b392-5c38-4a62-9e9d-00482dbfaf18",
+      "latitude": -34.956213,
+      "longitude": 138.566694,
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T04:58:28Z"
-    },
-    {
-      "id": "3a4eb4ae-bcf5-4d5b-b452-5bb9c76927ab",
-      "latitude": -34.973496,
-      "longitude": 138.573355,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T04:49:53Z"
-    },
-    {
-      "id": "bb610ec2-f78c-4615-b26f-23cd25236805",
-      "latitude": -34.798859,
-      "longitude": 138.657999,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-10T05:30:15Z",
-      "reported_at": "2026-02-10T05:04:21Z"
+      "timestamp": "2026-02-10T06:00:15Z",
+      "reported_at": "2026-02-10T04:43:00Z"
     }
   ]
 }
