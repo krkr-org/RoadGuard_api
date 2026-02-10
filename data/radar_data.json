@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "18baf564-88b1-4746-b564-9dd2f25c5784",
-      "latitude": -34.878883,
-      "longitude": 138.593466,
-      "street": "Prospect Rd",
-      "city": "Prospect",
+      "id": "a7d34a10-1b46-48e7-960c-be88544d41ef",
+      "latitude": -34.804328,
+      "longitude": 138.501049,
+      "street": "Gedville Rd",
+      "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-02-10T21:00:15Z",
-      "reported_at": "2026-02-10T20:48:45Z"
+      "timestamp": "2026-02-10T21:30:15Z",
+      "reported_at": "2026-02-10T20:49:30Z"
+    },
+    {
+      "id": "567a9c87-9780-40a8-bd8c-02269913e889",
+      "latitude": -34.885943,
+      "longitude": 138.614877,
+      "street": "Galway Av",
+      "city": "Collinswood",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:30:15Z",
+      "reported_at": "2026-02-10T21:11:49Z"
+    },
+    {
+      "id": "ad539a8f-e1e7-4286-ae98-9ab0390b6510",
+      "latitude": -34.913846,
+      "longitude": 138.573845,
+      "street": "Phillips St",
+      "city": "Thebarton",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:30:15Z",
+      "reported_at": "2026-02-10T20:51:52Z"
+    },
+    {
+      "id": "303ce3fe-22ff-4b16-a7ba-375ed8888b6c",
+      "latitude": -34.852634,
+      "longitude": 138.593843,
+      "street": "Marmion Av",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:30:15Z",
+      "reported_at": "2026-02-10T20:52:48Z"
+    },
+    {
+      "id": "44be00e3-2b98-4cd0-b6cd-64d5e042197f",
+      "latitude": -34.945134,
+      "longitude": 138.580301,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:30:15Z",
+      "reported_at": "2026-02-10T21:13:03Z"
     },
     {
       "id": "d6cdc358-7c74-4cf4-a5a3-6f4c48411903",
@@ -17,8 +57,18 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-10T21:00:15Z",
+      "timestamp": "2026-02-10T21:30:15Z",
       "reported_at": "2026-02-10T20:51:11Z"
+    },
+    {
+      "id": "7f2ebeb5-caa7-4bbe-b866-009305c0d062",
+      "latitude": -34.849099,
+      "longitude": 138.582717,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:30:15Z",
+      "reported_at": "2026-02-10T21:27:29Z"
     }
   ]
 }
