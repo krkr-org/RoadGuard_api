@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "8393c054-5abd-4fc1-a06d-db81e59dea45",
-      "latitude": -34.958547,
-      "longitude": 138.527474,
-      "street": "James Melrose Rd",
-      "city": "Adelaide Airport",
+      "id": "f0ea1c37-a692-4258-9876-29b828d753ba",
+      "latitude": -34.938623,
+      "longitude": 138.561998,
+      "street": "Brooker Tce",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T22:54:49Z"
-    },
-    {
-      "id": "2256b544-ccd8-42cb-881f-4f26d0943884",
-      "latitude": -34.858453,
-      "longitude": 138.670855,
-      "street": "Parsons Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T22:26:19Z"
-    },
-    {
-      "id": "d818e849-b3fb-4c0d-a8ce-29098711b342",
-      "latitude": -34.850191,
-      "longitude": 138.653575,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T21:32:58Z"
-    },
-    {
-      "id": "b274f2ae-c5d1-4dcb-b6ca-4a79e15017e5",
-      "latitude": -34.82877,
-      "longitude": 138.633484,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T21:29:05Z"
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T23:45:15Z"
     },
     {
       "id": "5c447a2e-0576-449b-80e8-5fe9a2ae060f",
@@ -47,28 +17,68 @@
       "street": "Diagonal Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
+      "timestamp": "2026-02-10T00:00:16Z",
       "reported_at": "2026-02-09T21:10:39Z"
     },
     {
-      "id": "d465b1b3-6df5-44aa-9a70-7b8ef20c9247",
-      "latitude": -34.72866,
-      "longitude": 138.62701,
-      "street": "Edinburgh Rd",
-      "city": "Edinburgh",
+      "id": "2256b544-ccd8-42cb-881f-4f26d0943884",
+      "latitude": -34.858453,
+      "longitude": 138.670855,
+      "street": "Parsons Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T23:06:45Z"
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T22:26:19Z"
     },
     {
-      "id": "e72455dd-f129-41e5-8025-1d037565f36e",
-      "latitude": -34.834881,
-      "longitude": 138.61739,
+      "id": "b274f2ae-c5d1-4dcb-b6ca-4a79e15017e5",
+      "latitude": -34.82877,
+      "longitude": 138.633484,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T21:29:05Z"
+    },
+    {
+      "id": "d818e849-b3fb-4c0d-a8ce-29098711b342",
+      "latitude": -34.850191,
+      "longitude": 138.653575,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T21:32:58Z"
+    },
+    {
+      "id": "907ba170-2a31-4dec-9d9d-c0409647de72",
+      "latitude": -34.834203,
+      "longitude": 138.635031,
+      "street": "Dulkara Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T23:04:55Z"
+    },
+    {
+      "id": "5a1b6ba6-bc4d-475f-8159-24f3b31deffa",
+      "latitude": -34.857319,
+      "longitude": 138.668448,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T21:18:54Z"
+    },
+    {
+      "id": "35b307bf-a9ef-44e7-b809-01a41ca29797",
+      "latitude": -34.834663,
+      "longitude": 138.616923,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T21:00:26Z"
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T22:08:28Z"
     },
     {
       "id": "53e8be2d-5a3d-438f-85cd-e63293cb6f7c",
@@ -77,8 +87,18 @@
       "street": "Pulteney St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
+      "timestamp": "2026-02-10T00:00:16Z",
       "reported_at": "2026-02-09T23:10:18Z"
+    },
+    {
+      "id": "ae05d5de-dae2-4685-b0a9-b53638d14c71",
+      "latitude": -34.70599,
+      "longitude": 138.675692,
+      "street": "Womma Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:00:16Z",
+      "reported_at": "2026-02-09T23:34:35Z"
     },
     {
       "id": "5b49d2da-9b57-4a13-a7ab-e837b1d0eb82",
@@ -87,38 +107,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
+      "timestamp": "2026-02-10T00:00:16Z",
       "reported_at": "2026-02-09T21:21:30Z"
-    },
-    {
-      "id": "577da1fa-812e-4c9f-899a-9fa6c14f851a",
-      "latitude": -34.945828,
-      "longitude": 138.579696,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T22:39:14Z"
-    },
-    {
-      "id": "1f624519-8a64-498d-bc37-cc853aa82e5e",
-      "latitude": -34.938888,
-      "longitude": 138.517224,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T23:08:40Z"
-    },
-    {
-      "id": "d4335542-48bc-4a63-b58d-b4adf3216392",
-      "latitude": -35.004186,
-      "longitude": 138.766925,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-02-09T23:30:15Z",
-      "reported_at": "2026-02-09T23:18:17Z"
     }
   ]
 }
