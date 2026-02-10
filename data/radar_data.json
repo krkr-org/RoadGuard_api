@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "18baf564-88b1-4746-b564-9dd2f25c5784",
+      "latitude": -34.878883,
+      "longitude": 138.593466,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:00:15Z",
+      "reported_at": "2026-02-10T20:48:45Z"
+    },
+    {
+      "id": "d6cdc358-7c74-4cf4-a5a3-6f4c48411903",
+      "latitude": -34.857474,
+      "longitude": 138.600786,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-10T21:00:15Z",
+      "reported_at": "2026-02-10T20:51:11Z"
+    }
+  ]
 }
