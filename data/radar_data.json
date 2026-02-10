@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "bc945146-ab00-48af-abe2-5866264db7ae",
-      "latitude": -34.960244,
-      "longitude": 138.543794,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
-      "reported_at": "2026-02-10T04:36:06Z"
-    },
-    {
-      "id": "f986ef70-24c7-4fe7-8f2d-3fab765adbc0",
-      "latitude": -34.968405,
-      "longitude": 138.542494,
+      "id": "77b31e3f-31ce-48a6-a36b-cb1df2ba6880",
+      "latitude": -34.968337,
+      "longitude": 138.543852,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
-      "reported_at": "2026-02-10T04:53:22Z"
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T05:41:53Z"
     },
     {
-      "id": "5887f551-5d45-4017-a53e-c58564e6704f",
-      "latitude": -34.849947,
-      "longitude": 138.653556,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
+      "id": "f6d80ee6-0be7-45a3-a3de-dfec0e94fe4b",
+      "latitude": -34.974858,
+      "longitude": 138.582383,
+      "street": "Winston Av",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
-      "reported_at": "2026-02-10T02:19:53Z"
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T04:46:10Z"
+    },
+    {
+      "id": "666bf69f-9991-4684-906c-2fb17c23ee13",
+      "latitude": -34.959924,
+      "longitude": 138.550426,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T04:58:21Z"
+    },
+    {
+      "id": "06d7909e-612f-4fe8-b41a-be5cc1cf5b01",
+      "latitude": -34.91102,
+      "longitude": 138.53368,
+      "street": "Findon Rd",
+      "city": "Kidman Park",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T05:56:44Z"
     },
     {
       "id": "f54dd814-25ad-4879-bdc4-df4207061469",
@@ -37,18 +47,28 @@
       "street": "Stonehouse Av",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
+      "timestamp": "2026-02-10T06:30:16Z",
       "reported_at": "2026-02-10T05:00:27Z"
     },
     {
-      "id": "0a7b8d60-426f-4234-ad93-21e3860b0f80",
-      "latitude": -35.137284,
-      "longitude": 138.513599,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
+      "id": "0e474281-c715-4ced-98cb-0a8b0216d5c7",
+      "latitude": -34.965307,
+      "longitude": 138.563743,
+      "street": "Winifred Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
-      "reported_at": "2026-02-10T05:23:34Z"
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T06:08:05Z"
+    },
+    {
+      "id": "b15027b5-995d-455d-a82c-e77f740a2224",
+      "latitude": -34.917469,
+      "longitude": 138.596857,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T06:10:56Z"
     },
     {
       "id": "0a762f3c-0c20-4a21-8bda-53abc170d792",
@@ -57,18 +77,38 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
+      "timestamp": "2026-02-10T06:30:16Z",
       "reported_at": "2026-02-10T05:28:22Z"
     },
     {
-      "id": "77265f29-dbd9-4c11-bc34-da22f6bda4c2",
-      "latitude": -34.834224,
-      "longitude": 138.615981,
+      "id": "f2102bf0-744a-4fd7-8a9e-98f9e635710c",
+      "latitude": -34.834129,
+      "longitude": 138.615776,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
-      "reported_at": "2026-02-10T05:37:08Z"
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T06:11:29Z"
+    },
+    {
+      "id": "8dc6e279-16b1-4239-b8bf-52fe70569db8",
+      "latitude": -34.872725,
+      "longitude": 138.570688,
+      "street": "South Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T06:26:24Z"
+    },
+    {
+      "id": "c23bcc18-c06b-41f8-aca7-4278c821fda1",
+      "latitude": -34.974179,
+      "longitude": 138.539227,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T06:16:42Z"
     },
     {
       "id": "23a5b392-5c38-4a62-9e9d-00482dbfaf18",
@@ -77,8 +117,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-02-10T06:00:15Z",
+      "timestamp": "2026-02-10T06:30:16Z",
       "reported_at": "2026-02-10T04:43:00Z"
+    },
+    {
+      "id": "0dfcdc93-7f5e-411d-9e69-5a997ce3be5e",
+      "latitude": -34.974077,
+      "longitude": 138.573506,
+      "street": "A2 - South Rd",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T04:57:12Z"
+    },
+    {
+      "id": "2632f4c8-e774-471d-a26c-23e2a89a6863",
+      "latitude": -34.867704,
+      "longitude": 138.676862,
+      "street": "A11 - Lower North East Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-10T06:30:16Z",
+      "reported_at": "2026-02-10T06:14:05Z"
     }
   ]
 }
