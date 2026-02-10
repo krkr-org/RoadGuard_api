@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "aa443a49-4c13-45f6-8811-f7d55ebcf8e5",
-      "latitude": -34.9778,
-      "longitude": 138.517562,
-      "street": "Gordon St",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
-      "reported_at": "2026-02-10T01:47:07Z"
-    },
-    {
-      "id": "c4dc0e3f-a078-4e1f-bb19-a7d69a310c93",
-      "latitude": -34.850228,
-      "longitude": 138.653578,
+      "id": "5887f551-5d45-4017-a53e-c58564e6704f",
+      "latitude": -34.849947,
+      "longitude": 138.653556,
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
-      "reported_at": "2026-02-10T01:42:00Z"
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-10T02:19:53Z"
     },
     {
-      "id": "0c5a4811-54cc-4f12-a7a3-08d0df7e1ec0",
-      "latitude": -34.850784,
-      "longitude": 138.661731,
+      "id": "a139947a-1856-406d-8276-b152480fce59",
+      "latitude": -34.852041,
+      "longitude": 138.662558,
       "street": "Wandana Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
-      "reported_at": "2026-02-09T22:05:47Z"
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-09T21:26:15Z"
     },
     {
-      "id": "5c447a2e-0576-449b-80e8-5fe9a2ae060f",
-      "latitude": -34.829134,
-      "longitude": 138.607733,
-      "street": "Diagonal Rd",
-      "city": "Pooraka",
+      "id": "2352a5e4-526f-41de-a9f9-04ffd246a85b",
+      "latitude": -35.052791,
+      "longitude": 138.571303,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
-      "reported_at": "2026-02-09T21:10:39Z"
-    },
-    {
-      "id": "09a8afa4-a43e-458f-9eb3-670ed8eaa21c",
-      "latitude": -35.146633,
-      "longitude": 138.535156,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
-      "reported_at": "2026-02-10T00:46:01Z"
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-10T04:06:12Z"
     },
     {
       "id": "7cac01c3-f952-4b6c-a3ba-fd16071745f5",
@@ -57,8 +37,18 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
+      "timestamp": "2026-02-10T04:30:15Z",
       "reported_at": "2026-02-10T02:33:36Z"
+    },
+    {
+      "id": "09a8afa4-a43e-458f-9eb3-670ed8eaa21c",
+      "latitude": -35.146633,
+      "longitude": 138.535156,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-10T00:46:01Z"
     },
     {
       "id": "0fa49265-294f-4ff9-b629-7a6b5666e94f",
@@ -67,8 +57,38 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:00:14Z",
+      "timestamp": "2026-02-10T04:30:15Z",
       "reported_at": "2026-02-10T03:17:27Z"
+    },
+    {
+      "id": "4c6f6ddc-5fec-4d04-aabf-8d35ebc95149",
+      "latitude": -34.945617,
+      "longitude": 138.57988,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-10T04:00:04Z"
+    },
+    {
+      "id": "beaeb2a7-fb0f-4802-a764-4ebe7d66963c",
+      "latitude": -34.860856,
+      "longitude": 138.684048,
+      "street": "A11 - Lower North East Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-10T04:23:59Z"
+    },
+    {
+      "id": "d70e1383-6729-4788-842a-861adecfbca7",
+      "latitude": -34.856823,
+      "longitude": 138.691713,
+      "street": "A11 - Lower North East Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-10T04:30:15Z",
+      "reported_at": "2026-02-10T04:22:31Z"
     }
   ]
 }
