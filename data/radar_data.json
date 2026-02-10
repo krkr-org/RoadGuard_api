@@ -1,34 +1,34 @@
 {
   "radars": [
     {
+      "id": "be053823-f6ca-4833-a340-5572c2c7bed9",
+      "latitude": -34.977461,
+      "longitude": 138.582564,
+      "street": "Winston Av",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:41:40Z"
+    },
+    {
+      "id": "f986ef70-24c7-4fe7-8f2d-3fab765adbc0",
+      "latitude": -34.968405,
+      "longitude": 138.542494,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:53:22Z"
+    },
+    {
       "id": "5887f551-5d45-4017-a53e-c58564e6704f",
       "latitude": -34.849947,
       "longitude": 138.653556,
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
+      "timestamp": "2026-02-10T05:00:16Z",
       "reported_at": "2026-02-10T02:19:53Z"
-    },
-    {
-      "id": "a139947a-1856-406d-8276-b152480fce59",
-      "latitude": -34.852041,
-      "longitude": 138.662558,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
-      "reported_at": "2026-02-09T21:26:15Z"
-    },
-    {
-      "id": "2352a5e4-526f-41de-a9f9-04ffd246a85b",
-      "latitude": -35.052791,
-      "longitude": 138.571303,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
-      "reported_at": "2026-02-10T04:06:12Z"
     },
     {
       "id": "7cac01c3-f952-4b6c-a3ba-fd16071745f5",
@@ -37,7 +37,7 @@
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
+      "timestamp": "2026-02-10T05:00:16Z",
       "reported_at": "2026-02-10T02:33:36Z"
     },
     {
@@ -47,48 +47,58 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
+      "timestamp": "2026-02-10T05:00:16Z",
       "reported_at": "2026-02-10T00:46:01Z"
     },
     {
-      "id": "0fa49265-294f-4ff9-b629-7a6b5666e94f",
-      "latitude": -34.827568,
-      "longitude": 138.698641,
+      "id": "c5ca3945-7f69-4c72-9653-94d133b345d2",
+      "latitude": -34.679504,
+      "longitude": 138.674323,
+      "street": "Peachey Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:33:49Z"
+    },
+    {
+      "id": "f80588d6-37e3-4a70-920e-3efcd8469afa",
+      "latitude": -35.143165,
+      "longitude": 138.486611,
+      "street": "Unknown Street",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:51:26Z"
+    },
+    {
+      "id": "9acf527f-7f9b-4619-8a7c-e8668dab8bd7",
+      "latitude": -34.904913,
+      "longitude": 138.571893,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:54:09Z"
+    },
+    {
+      "id": "0dfcdc93-7f5e-411d-9e69-5a997ce3be5e",
+      "latitude": -34.974077,
+      "longitude": 138.573506,
+      "street": "A2 - South Rd",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:57:12Z"
+    },
+    {
+      "id": "bfcfb7e9-a7ae-4cba-9e73-976d754af8dd",
+      "latitude": -34.827437,
+      "longitude": 138.698517,
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
-      "reported_at": "2026-02-10T03:17:27Z"
-    },
-    {
-      "id": "4c6f6ddc-5fec-4d04-aabf-8d35ebc95149",
-      "latitude": -34.945617,
-      "longitude": 138.57988,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
-      "reported_at": "2026-02-10T04:00:04Z"
-    },
-    {
-      "id": "beaeb2a7-fb0f-4802-a764-4ebe7d66963c",
-      "latitude": -34.860856,
-      "longitude": 138.684048,
-      "street": "A11 - Lower North East Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
-      "reported_at": "2026-02-10T04:23:59Z"
-    },
-    {
-      "id": "d70e1383-6729-4788-842a-861adecfbca7",
-      "latitude": -34.856823,
-      "longitude": 138.691713,
-      "street": "A11 - Lower North East Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-10T04:30:15Z",
-      "reported_at": "2026-02-10T04:22:31Z"
+      "timestamp": "2026-02-10T05:00:16Z",
+      "reported_at": "2026-02-10T04:23:32Z"
     }
   ]
 }
