@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "b48864ed-3ad9-4f85-a429-5cec1b833c99",
-      "latitude": -34.917163,
-      "longitude": 138.599516,
-      "street": "Victoria Dr",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T07:25:25Z"
-    },
-    {
       "id": "14655e52-1aee-40e8-bff7-651293c1450e",
       "latitude": -34.992647,
       "longitude": 138.580885,
       "street": "St. Marys St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
+      "timestamp": "2026-02-10T08:30:16Z",
       "reported_at": "2026-02-10T05:54:21Z"
     },
     {
-      "id": "5be8e0db-ac61-4adf-b7b0-653176f124bf",
-      "latitude": -35.094043,
-      "longitude": 138.488072,
-      "street": "Chrysler Rd",
-      "city": "Lonsdale",
+      "id": "543b5803-f7de-4f5a-99a3-6e2151c4b0df",
+      "latitude": -34.954744,
+      "longitude": 138.568896,
+      "street": "Selby St",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T03:42:20Z"
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T07:32:58Z"
     },
     {
-      "id": "f986ef70-24c7-4fe7-8f2d-3fab765adbc0",
-      "latitude": -34.968405,
-      "longitude": 138.542494,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "0531f679-dac9-4ac0-a930-7c37374499d6",
+      "latitude": -34.680427,
+      "longitude": 138.701439,
+      "street": "Village Tce",
+      "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T04:53:22Z"
-    },
-    {
-      "id": "f8cd9c6f-5d62-4162-b65a-6277eccc6f31",
-      "latitude": -34.960172,
-      "longitude": 138.545217,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T06:33:39Z"
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T08:02:52Z"
     },
     {
       "id": "779732fd-9d6d-4300-8dec-62313d8a12c0",
@@ -57,8 +37,38 @@
       "street": "Winston Av",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
+      "timestamp": "2026-02-10T08:30:16Z",
       "reported_at": "2026-02-10T06:05:40Z"
+    },
+    {
+      "id": "bc945146-ab00-48af-abe2-5866264db7ae",
+      "latitude": -34.960244,
+      "longitude": 138.543794,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T04:36:06Z"
+    },
+    {
+      "id": "77b31e3f-31ce-48a6-a36b-cb1df2ba6880",
+      "latitude": -34.968337,
+      "longitude": 138.543852,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T05:41:53Z"
+    },
+    {
+      "id": "6130f3dd-5891-4495-9b2f-04dd6333950c",
+      "latitude": -34.95938,
+      "longitude": 138.563294,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T08:25:45Z"
     },
     {
       "id": "820701c7-fd32-456b-8e54-2f27a617527c",
@@ -67,7 +77,7 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
+      "timestamp": "2026-02-10T08:30:16Z",
       "reported_at": "2026-02-10T07:55:21Z"
     },
     {
@@ -77,48 +87,38 @@
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
+      "timestamp": "2026-02-10T08:30:16Z",
       "reported_at": "2026-02-10T07:46:28Z"
     },
     {
-      "id": "180bc03b-5b8a-4066-80e8-106885d2afe0",
-      "latitude": -34.992686,
-      "longitude": 138.578476,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "989cfe94-db29-49c6-bf32-d8e6da81949e",
+      "latitude": -34.921453,
+      "longitude": 138.599958,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T07:41:20Z"
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T08:02:19Z"
     },
     {
-      "id": "d7a163bd-52c5-435f-b734-94ce0bb91f61",
-      "latitude": -35.054894,
-      "longitude": 138.537863,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "1b34a80b-3af6-4ea3-b2ad-6ff04bf0aaca",
+      "latitude": -34.706321,
+      "longitude": 138.676461,
+      "street": "Womma Rd",
+      "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T07:22:30Z"
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T07:58:31Z"
     },
     {
-      "id": "2cf3bf43-e917-4d28-b563-f26d7bba9c3b",
-      "latitude": -34.7335,
-      "longitude": 138.661716,
+      "id": "8beb2b22-fcd2-4ce6-8068-dc00556b0b28",
+      "latitude": -34.750486,
+      "longitude": 138.65737,
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T07:08:03Z"
-    },
-    {
-      "id": "bc50b9e4-7071-4c42-b9bc-cb1a7fe4f78f",
-      "latitude": -34.955528,
-      "longitude": 138.567754,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T04:56:10Z"
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T07:42:05Z"
     },
     {
       "id": "c892c13e-1acb-44e7-a496-fcc166dba008",
@@ -127,28 +127,18 @@
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
+      "timestamp": "2026-02-10T08:30:16Z",
       "reported_at": "2026-02-10T05:27:08Z"
     },
     {
-      "id": "20c2e1df-d71c-4ade-b330-99ba8ca10daf",
-      "latitude": -34.852483,
-      "longitude": 138.707974,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T07:26:42Z"
-    },
-    {
-      "id": "16c50e9f-812a-4482-897e-7a3882169f60",
-      "latitude": -35.040773,
-      "longitude": 138.555648,
-      "street": "M2 - Southern Exp",
+      "id": "efe0ee83-a044-4c01-a289-a207cefcbad3",
+      "latitude": -35.027269,
+      "longitude": 138.558294,
+      "street": "A13 - Main South Rd",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-10T08:00:16Z",
-      "reported_at": "2026-02-10T07:57:20Z"
+      "timestamp": "2026-02-10T08:30:16Z",
+      "reported_at": "2026-02-10T08:13:46Z"
     }
   ]
 }
