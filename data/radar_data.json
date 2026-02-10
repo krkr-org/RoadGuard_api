@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "f0ea1c37-a692-4258-9876-29b828d753ba",
-      "latitude": -34.938623,
-      "longitude": 138.561998,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T23:45:15Z"
-    },
-    {
-      "id": "5c447a2e-0576-449b-80e8-5fe9a2ae060f",
-      "latitude": -34.829042,
-      "longitude": 138.60796,
-      "street": "Diagonal Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T21:10:39Z"
-    },
-    {
       "id": "2256b544-ccd8-42cb-881f-4f26d0943884",
       "latitude": -34.858453,
       "longitude": 138.670855,
       "street": "Parsons Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
+      "timestamp": "2026-02-10T00:30:16Z",
       "reported_at": "2026-02-09T22:26:19Z"
+    },
+    {
+      "id": "c7b64215-5b3e-4df3-bc5c-b6de9794cebb",
+      "latitude": -34.828432,
+      "longitude": 138.609462,
+      "street": "Diagonal Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:30:16Z",
+      "reported_at": "2026-02-09T23:48:26Z"
+    },
+    {
+      "id": "907ba170-2a31-4dec-9d9d-c0409647de72",
+      "latitude": -34.834203,
+      "longitude": 138.635031,
+      "street": "Dulkara Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-10T00:30:16Z",
+      "reported_at": "2026-02-09T23:04:55Z"
     },
     {
       "id": "b274f2ae-c5d1-4dcb-b6ca-4a79e15017e5",
@@ -37,7 +37,7 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
+      "timestamp": "2026-02-10T00:30:16Z",
       "reported_at": "2026-02-09T21:29:05Z"
     },
     {
@@ -47,58 +47,38 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
+      "timestamp": "2026-02-10T00:30:16Z",
       "reported_at": "2026-02-09T21:32:58Z"
     },
     {
-      "id": "907ba170-2a31-4dec-9d9d-c0409647de72",
-      "latitude": -34.834203,
-      "longitude": 138.635031,
-      "street": "Dulkara Rd",
+      "id": "eb084d9d-b325-47b5-a50d-48a6dd3337b3",
+      "latitude": -34.826503,
+      "longitude": 138.659502,
+      "street": "Baldock Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T23:04:55Z"
+      "timestamp": "2026-02-10T00:30:16Z",
+      "reported_at": "2026-02-09T23:03:01Z"
     },
     {
-      "id": "5a1b6ba6-bc4d-475f-8159-24f3b31deffa",
-      "latitude": -34.857319,
-      "longitude": 138.668448,
+      "id": "73d99e82-3a89-4063-b12e-f43a057d1451",
+      "latitude": -34.857405,
+      "longitude": 138.66684,
       "street": "Lyons Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T21:18:54Z"
+      "timestamp": "2026-02-10T00:30:16Z",
+      "reported_at": "2026-02-09T23:11:43Z"
     },
     {
-      "id": "35b307bf-a9ef-44e7-b809-01a41ca29797",
-      "latitude": -34.834663,
-      "longitude": 138.616923,
+      "id": "e72455dd-f129-41e5-8025-1d037565f36e",
+      "latitude": -34.834881,
+      "longitude": 138.61739,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T22:08:28Z"
-    },
-    {
-      "id": "53e8be2d-5a3d-438f-85cd-e63293cb6f7c",
-      "latitude": -34.923396,
-      "longitude": 138.605609,
-      "street": "Pulteney St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T23:10:18Z"
-    },
-    {
-      "id": "ae05d5de-dae2-4685-b0a9-b53638d14c71",
-      "latitude": -34.70599,
-      "longitude": 138.675692,
-      "street": "Womma Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
-      "reported_at": "2026-02-09T23:34:35Z"
+      "timestamp": "2026-02-10T00:30:16Z",
+      "reported_at": "2026-02-09T21:00:26Z"
     },
     {
       "id": "5b49d2da-9b57-4a13-a7ab-e837b1d0eb82",
@@ -107,7 +87,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-10T00:00:16Z",
+      "timestamp": "2026-02-10T00:30:16Z",
       "reported_at": "2026-02-09T21:21:30Z"
     }
   ]
