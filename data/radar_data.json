@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "c27931f3-1d8a-409a-a215-a5317a2ac867",
+      "latitude": -34.897949,
+      "longitude": 138.579587,
+      "street": "Chief St",
+      "city": "Brompton",
+      "type": "mobile",
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-10T22:15:47Z"
+    },
+    {
       "id": "7f3e09f2-a6ca-4904-8ee0-0d133dac6c06",
       "latitude": -34.913786,
       "longitude": 138.574358,
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
+      "timestamp": "2026-02-11T01:00:16Z",
       "reported_at": "2026-02-10T23:14:18Z"
     },
     {
-      "id": "dd407e87-182e-4619-bcbe-fd08f0409711",
-      "latitude": -34.898291,
-      "longitude": 138.579251,
-      "street": "Chief St",
-      "city": "Brompton",
+      "id": "3cdb914b-ecd3-4d4f-bc43-1d3d12394864",
+      "latitude": -34.925092,
+      "longitude": 138.611681,
+      "street": "Pirie St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T22:01:46Z"
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-11T00:14:55Z"
     },
     {
-      "id": "6869afc6-7d40-4338-8cbb-07114ab2a8f5",
-      "latitude": -34.85868,
-      "longitude": 138.597636,
-      "street": "Lionel Av",
-      "city": "Blair Athol",
+      "id": "56bca3e6-45be-4ebf-be10-f93834c92c82",
+      "latitude": -34.920737,
+      "longitude": 138.646418,
+      "street": "The Parade",
+      "city": "Beulah Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T22:12:40Z"
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-10T23:46:47Z"
     },
     {
       "id": "cc5f8c2c-3227-4038-a28f-5adc19a527bd",
@@ -37,8 +47,28 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
+      "timestamp": "2026-02-11T01:00:16Z",
       "reported_at": "2026-02-10T21:49:27Z"
+    },
+    {
+      "id": "e40da95b-7f77-4858-bf04-443bebd8bceb",
+      "latitude": -34.862618,
+      "longitude": 138.544334,
+      "street": "Ninth Av",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-10T23:18:02Z"
+    },
+    {
+      "id": "6869afc6-7d40-4338-8cbb-07114ab2a8f5",
+      "latitude": -34.85868,
+      "longitude": 138.597636,
+      "street": "Lionel Av",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-10T22:12:40Z"
     },
     {
       "id": "567a9c87-9780-40a8-bd8c-02269913e889",
@@ -47,7 +77,7 @@
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
+      "timestamp": "2026-02-11T01:00:16Z",
       "reported_at": "2026-02-10T21:11:49Z"
     },
     {
@@ -57,38 +87,48 @@
       "street": "Marmion Av",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
+      "timestamp": "2026-02-11T01:00:16Z",
       "reported_at": "2026-02-10T20:52:48Z"
     },
     {
-      "id": "e40da95b-7f77-4858-bf04-443bebd8bceb",
-      "latitude": -34.862618,
-      "longitude": 138.544334,
-      "street": "Ninth Av",
-      "city": "Woodville North",
+      "id": "47bbd884-c64b-41ca-b387-5678ceedc6a4",
+      "latitude": -34.878251,
+      "longitude": 138.593427,
+      "street": "Prospect Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T23:18:02Z"
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-10T21:28:55Z"
     },
     {
-      "id": "0325373d-7a81-436f-b841-f6c210b6854b",
-      "latitude": -34.837359,
-      "longitude": 138.502319,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
+      "id": "295303f9-9001-4ae3-a0b9-eb8a051385ee",
+      "latitude": -34.926218,
+      "longitude": 138.524655,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T23:48:25Z"
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-11T00:37:00Z"
     },
     {
-      "id": "3b884c88-187c-4f59-9d78-d0ae4fcf6080",
-      "latitude": -34.945719,
-      "longitude": 138.579791,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
+      "id": "3df1636b-a88a-4db1-8aea-f7c5ad0dc7cc",
+      "latitude": -35.143775,
+      "longitude": 138.525035,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T23:45:04Z"
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-11T00:43:53Z"
+    },
+    {
+      "id": "129dfd3c-7520-46ea-81c0-212c23caf722",
+      "latitude": -34.859797,
+      "longitude": 138.600954,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-10T23:11:23Z"
     },
     {
       "id": "f95311ce-3bfe-4be2-8c0f-20c1c448c321",
@@ -97,38 +137,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
+      "timestamp": "2026-02-11T01:00:16Z",
       "reported_at": "2026-02-11T00:28:27Z"
     },
     {
-      "id": "594f4b0f-d5c8-4c43-8790-66ffcef6dac4",
-      "latitude": -34.857103,
-      "longitude": 138.600867,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "60a5828f-e086-49a0-a918-f88d23108cac",
+      "latitude": -34.775426,
+      "longitude": 138.594876,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T23:48:47Z"
-    },
-    {
-      "id": "4c7b7f4d-e19a-4f47-8548-367058e0e66a",
-      "latitude": -34.832705,
-      "longitude": 138.575739,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-11T00:22:51Z"
-    },
-    {
-      "id": "01b72b41-0347-4079-9bf7-c80912d3b5ad",
-      "latitude": -34.869103,
-      "longitude": 138.570613,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-02-11T00:30:14Z",
-      "reported_at": "2026-02-10T23:38:18Z"
+      "timestamp": "2026-02-11T01:00:16Z",
+      "reported_at": "2026-02-11T00:26:55Z"
     }
   ]
 }
