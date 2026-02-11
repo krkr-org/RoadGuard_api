@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "2c2f8acd-88f1-499d-9e2f-83fd5428b047",
-      "latitude": -34.727287,
-      "longitude": 138.661803,
-      "street": "Goodman Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T22:34:47Z"
-    },
-    {
       "id": "9a79046e-ac0c-404b-9190-2354cf27444a",
       "latitude": -35.062651,
       "longitude": 138.514083,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
+      "timestamp": "2026-02-11T23:30:24Z",
       "reported_at": "2026-02-11T21:35:27Z"
-    },
-    {
-      "id": "096930c0-f9f9-4a50-aa09-a550cd7972a6",
-      "latitude": -34.881527,
-      "longitude": 138.503691,
-      "street": "Brebner Dr",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T22:49:18Z"
     },
     {
       "id": "411e1eef-a021-4a99-83fb-60785e17f84b",
@@ -37,8 +17,18 @@
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
+      "timestamp": "2026-02-11T23:30:24Z",
       "reported_at": "2026-02-11T22:06:47Z"
+    },
+    {
+      "id": "096930c0-f9f9-4a50-aa09-a550cd7972a6",
+      "latitude": -34.881552,
+      "longitude": 138.503582,
+      "street": "Brebner Dr",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T22:49:18Z"
     },
     {
       "id": "60363e66-5837-47b1-ba28-7be0f53cd53b",
@@ -47,8 +37,18 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
+      "timestamp": "2026-02-11T23:30:24Z",
       "reported_at": "2026-02-11T22:09:57Z"
+    },
+    {
+      "id": "8b951366-4a3e-47c4-88f6-53a36e83a075",
+      "latitude": -34.986022,
+      "longitude": 138.535527,
+      "street": "Cliff St",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T23:06:45Z"
     },
     {
       "id": "1bb6cf63-3ddd-4f49-899d-978d7e374b81",
@@ -57,68 +57,78 @@
       "street": "Unknown Street",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
+      "timestamp": "2026-02-11T23:30:24Z",
       "reported_at": "2026-02-11T22:15:20Z"
     },
     {
-      "id": "d4e3abba-75e8-41be-919a-5621aa084206",
-      "latitude": -34.867468,
-      "longitude": 138.480428,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T22:47:57Z"
-    },
-    {
-      "id": "6fb79fd6-3f0a-4055-90dd-cda41a74ac6e",
-      "latitude": -35.082254,
-      "longitude": 138.564617,
-      "street": "Kenihans Rd",
+      "id": "84670a24-8d7b-423d-9aa5-96155311b98c",
+      "latitude": -35.077204,
+      "longitude": 138.563481,
+      "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T22:01:46Z"
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T23:24:27Z"
     },
     {
-      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
-      "latitude": -35.05544,
-      "longitude": 138.577061,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T21:29:14Z"
-    },
-    {
-      "id": "cebc77c8-2fb6-4a7f-a1a6-7b4e2c09a71f",
-      "latitude": -35.070859,
-      "longitude": 138.599213,
+      "id": "bc0319cf-bf39-47bd-971d-49a8413c9c3a",
+      "latitude": -35.070203,
+      "longitude": 138.599144,
       "street": "Hub Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T21:04:18Z"
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T21:53:55Z"
     },
     {
-      "id": "fa7b62bb-d8bb-48e1-b3f0-86b39e77ca18",
-      "latitude": -35.081708,
-      "longitude": 138.513161,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "3919b8b6-29ab-4369-9f12-6e4197235397",
+      "latitude": -35.053879,
+      "longitude": 138.575765,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T21:56:05Z"
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T21:32:55Z"
     },
     {
-      "id": "8d58c862-6e58-4ab7-9cc5-67e9144dc040",
-      "latitude": -34.792038,
-      "longitude": 138.596546,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Globe Derby Park",
+      "id": "7389ba6d-44fa-49ad-91c6-4cf0fb25d51b",
+      "latitude": -34.956223,
+      "longitude": 138.515037,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-11T23:00:19Z",
-      "reported_at": "2026-02-11T22:25:40Z"
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T23:14:43Z"
+    },
+    {
+      "id": "2d2da1e5-b2eb-4a5e-99f9-55bc6b7a5923",
+      "latitude": -34.978885,
+      "longitude": 138.623967,
+      "street": "B28 - Taylors Rd",
+      "city": "Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T23:21:05Z"
+    },
+    {
+      "id": "85f90c73-1618-4ea1-89c2-6706dbc67fd4",
+      "latitude": -34.820868,
+      "longitude": 138.620791,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T23:26:23Z"
+    },
+    {
+      "id": "afd1ef74-8926-4ae2-8a31-341043d20fe6",
+      "latitude": -35.046989,
+      "longitude": 138.549752,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:30:24Z",
+      "reported_at": "2026-02-11T23:20:07Z"
     }
   ]
 }
