@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "74a3c9ef-5af0-4f9b-a75d-e3bb7919993b",
-      "latitude": -34.88016,
-      "longitude": 138.691469,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:47:42Z"
-    },
-    {
-      "id": "45cedeac-99f2-45a4-ba3a-091d42eba1f5",
-      "latitude": -34.737852,
-      "longitude": 138.652353,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:32:12Z"
-    },
-    {
       "id": "d3411749-8ec7-430c-ad47-3a8d1f61799b",
       "latitude": -34.696443,
       "longitude": 138.708555,
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
+      "timestamp": "2026-02-11T07:30:15Z",
       "reported_at": "2026-02-11T06:01:43Z"
     },
     {
-      "id": "0ecd889f-3661-4517-be29-433a32e8468b",
-      "latitude": -34.699954,
-      "longitude": 138.677598,
-      "street": "Woodford Rd",
-      "city": "Elizabeth North",
+      "id": "388f15e0-2d3b-4af8-b724-347e6d0dc32b",
+      "latitude": -34.700484,
+      "longitude": 138.690382,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T05:17:19Z"
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T06:56:41Z"
     },
     {
       "id": "7755f9d5-a54b-4798-aa2b-e4bd211b43ef",
@@ -47,38 +27,28 @@
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
+      "timestamp": "2026-02-11T07:30:15Z",
       "reported_at": "2026-02-11T05:29:03Z"
     },
     {
-      "id": "587c2f46-11e4-4bc6-83d9-13f6c8344a0c",
-      "latitude": -34.998146,
-      "longitude": 138.539424,
-      "street": "Morphett Rd",
-      "city": "Warradale",
+      "id": "0ecd889f-3661-4517-be29-433a32e8468b",
+      "latitude": -34.699954,
+      "longitude": 138.677598,
+      "street": "Woodford Rd",
+      "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:50:28Z"
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T05:17:19Z"
     },
     {
-      "id": "899360ab-678e-4609-85ff-39c045d16ea3",
-      "latitude": -35.016646,
-      "longitude": 138.568575,
-      "street": "Sturt Rd",
-      "city": "Tonsley",
+      "id": "8724d4a1-ad88-4b24-a66a-e0080acabcdb",
+      "latitude": -34.679391,
+      "longitude": 138.681586,
+      "street": "Coventry Rd",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:10:03Z"
-    },
-    {
-      "id": "95b50b8e-5d4d-4d7d-8c70-1c6556e29365",
-      "latitude": -34.98033,
-      "longitude": 138.561923,
-      "street": "Raglan Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:20:57Z"
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T07:06:51Z"
     },
     {
       "id": "d141822b-3185-4e86-bd8e-b9e594cfa125",
@@ -87,8 +57,18 @@
       "street": "Melbourne St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
+      "timestamp": "2026-02-11T07:30:15Z",
       "reported_at": "2026-02-11T06:53:48Z"
+    },
+    {
+      "id": "2c6530a0-342f-4d37-a5f2-c592a667d17f",
+      "latitude": -34.890997,
+      "longitude": 138.656684,
+      "street": "Glynburn Rd",
+      "city": "Glynde",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T07:12:05Z"
     },
     {
       "id": "61c264f2-298c-41da-9fc2-c61b24b09383",
@@ -97,38 +77,28 @@
       "street": "Grenfell Rd",
       "city": "Fairview Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
+      "timestamp": "2026-02-11T07:30:15Z",
       "reported_at": "2026-02-11T05:50:00Z"
     },
     {
-      "id": "2983dec3-65ba-4cb4-ae92-f1c20a8ff949",
-      "latitude": -34.696135,
-      "longitude": 138.70691,
-      "street": "Adams Rd",
-      "city": "Elizabeth Downs",
+      "id": "01972033-683e-4293-8ed1-2d6b1cc0ee8d",
+      "latitude": -34.804151,
+      "longitude": 138.688136,
+      "street": "Grenfell Rd",
+      "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:35:50Z"
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T07:16:06Z"
     },
     {
-      "id": "ed00a79e-af25-4ec8-afe2-76462830cd81",
-      "latitude": -34.824966,
-      "longitude": 138.708649,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
-      "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:29:17Z"
-    },
-    {
-      "id": "e9d725a4-3828-47ee-bbb4-c7faceaf05ed",
-      "latitude": -34.845885,
-      "longitude": 138.717207,
+      "id": "625466e0-1fb7-4a04-b9ea-1b227b1fe128",
+      "latitude": -34.844315,
+      "longitude": 138.718009,
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
-      "reported_at": "2026-02-11T06:38:23Z"
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T07:13:20Z"
     },
     {
       "id": "8840693c-d9a4-40b9-8ff2-57b89284fa58",
@@ -137,8 +107,18 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
+      "timestamp": "2026-02-11T07:30:15Z",
       "reported_at": "2026-02-11T06:02:05Z"
+    },
+    {
+      "id": "21479843-47ec-47ea-a2ae-227e2f1c5d5f",
+      "latitude": -34.782453,
+      "longitude": 138.65492,
+      "street": "A20 - Main North Rd",
+      "city": "Brahma Lodge",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:30:15Z",
+      "reported_at": "2026-02-11T06:53:53Z"
     },
     {
       "id": "df16ad3a-93ab-4f28-8675-1873c2f5c052",
@@ -147,7 +127,7 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-11T07:00:18Z",
+      "timestamp": "2026-02-11T07:30:15Z",
       "reported_at": "2026-02-11T05:23:48Z"
     }
   ]
