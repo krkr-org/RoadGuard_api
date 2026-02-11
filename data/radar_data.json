@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "9618d3fd-1267-4900-afa6-d23ef6427e0f",
-      "latitude": -34.97334,
-      "longitude": 138.604557,
-      "street": "Llewelyn Tce",
-      "city": "Hawthorn",
+      "id": "2c2f8acd-88f1-499d-9e2f-83fd5428b047",
+      "latitude": -34.727287,
+      "longitude": 138.661803,
+      "street": "Goodman Rd",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
-      "reported_at": "2026-02-11T22:01:22Z"
-    },
-    {
-      "id": "c3a69c01-af01-4a4f-b2f2-4614693a58c9",
-      "latitude": -34.930925,
-      "longitude": 138.534489,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
-      "reported_at": "2026-02-11T20:18:45Z"
-    },
-    {
-      "id": "36d46b60-6bbb-4e74-beef-05be788ccf6b",
-      "latitude": -35.134396,
-      "longitude": 138.47329,
-      "street": "Roy Tce",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
-      "reported_at": "2026-02-11T21:55:38Z"
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T22:34:47Z"
     },
     {
       "id": "9a79046e-ac0c-404b-9190-2354cf27444a",
@@ -37,8 +17,28 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
+      "timestamp": "2026-02-11T23:00:19Z",
       "reported_at": "2026-02-11T21:35:27Z"
+    },
+    {
+      "id": "096930c0-f9f9-4a50-aa09-a550cd7972a6",
+      "latitude": -34.881527,
+      "longitude": 138.503691,
+      "street": "Brebner Dr",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T22:49:18Z"
+    },
+    {
+      "id": "411e1eef-a021-4a99-83fb-60785e17f84b",
+      "latitude": -35.131548,
+      "longitude": 138.498474,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T22:06:47Z"
     },
     {
       "id": "60363e66-5837-47b1-ba28-7be0f53cd53b",
@@ -47,18 +47,48 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
+      "timestamp": "2026-02-11T23:00:19Z",
       "reported_at": "2026-02-11T22:09:57Z"
     },
     {
-      "id": "43c080f4-cc58-4c0d-b671-81942272dbbf",
-      "latitude": -35.05794,
-      "longitude": 138.578572,
+      "id": "1bb6cf63-3ddd-4f49-899d-978d7e374b81",
+      "latitude": -35.08258,
+      "longitude": 138.562628,
+      "street": "Unknown Street",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T22:15:20Z"
+    },
+    {
+      "id": "d4e3abba-75e8-41be-919a-5621aa084206",
+      "latitude": -34.867468,
+      "longitude": 138.480428,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T22:47:57Z"
+    },
+    {
+      "id": "6fb79fd6-3f0a-4055-90dd-cda41a74ac6e",
+      "latitude": -35.082254,
+      "longitude": 138.564617,
+      "street": "Kenihans Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T22:01:46Z"
+    },
+    {
+      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
+      "latitude": -35.05544,
+      "longitude": 138.577061,
       "street": "Happy Valley Dr",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
-      "reported_at": "2026-02-11T22:09:09Z"
+      "timestamp": "2026-02-11T23:00:19Z",
+      "reported_at": "2026-02-11T21:29:14Z"
     },
     {
       "id": "cebc77c8-2fb6-4a7f-a1a6-7b4e2c09a71f",
@@ -67,7 +97,7 @@
       "street": "Hub Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
+      "timestamp": "2026-02-11T23:00:19Z",
       "reported_at": "2026-02-11T21:04:18Z"
     },
     {
@@ -77,7 +107,7 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
+      "timestamp": "2026-02-11T23:00:19Z",
       "reported_at": "2026-02-11T21:56:05Z"
     },
     {
@@ -87,28 +117,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Globe Derby Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
+      "timestamp": "2026-02-11T23:00:19Z",
       "reported_at": "2026-02-11T22:25:40Z"
-    },
-    {
-      "id": "8dd182bb-dfad-46da-80d1-50d02d1f7459",
-      "latitude": -34.776609,
-      "longitude": 138.595008,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
-      "reported_at": "2026-02-11T22:01:12Z"
-    },
-    {
-      "id": "af30b13b-19fb-40ae-a8bc-439ab9bd0c0e",
-      "latitude": -35.012827,
-      "longitude": 138.783105,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-02-11T22:30:16Z",
-      "reported_at": "2026-02-11T22:23:28Z"
     }
   ]
 }
