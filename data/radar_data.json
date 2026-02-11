@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "860b9be6-5545-4a7a-98e1-21bcfed215d3",
+      "latitude": -34.817624,
+      "longitude": 138.641078,
+      "street": "Unknown Street",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:47:06Z"
+    },
+    {
+      "id": "f203277e-82c4-4c70-b092-038f5975f508",
+      "latitude": -34.867883,
+      "longitude": 138.565757,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T01:47:14Z"
+    },
+    {
       "id": "f40a81e2-a685-4c16-8523-4aeb8267fec8",
       "latitude": -34.885663,
       "longitude": 138.614859,
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
+      "timestamp": "2026-02-11T04:00:16Z",
       "reported_at": "2026-02-11T02:08:50Z"
     },
     {
-      "id": "7f3e09f2-a6ca-4904-8ee0-0d133dac6c06",
-      "latitude": -34.913724,
-      "longitude": 138.574911,
-      "street": "Phillips St",
-      "city": "Thebarton",
+      "id": "75e17ca5-aca4-4edf-9238-bfcc21c37c1b",
+      "latitude": -34.800921,
+      "longitude": 138.695577,
+      "street": "Avalon Dr",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
-      "reported_at": "2026-02-10T23:14:18Z"
-    },
-    {
-      "id": "691fa3af-4291-40f2-8ffb-d598d9255f91",
-      "latitude": -34.72062,
-      "longitude": 138.643701,
-      "street": "West Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
-      "reported_at": "2026-02-11T03:14:42Z"
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:48:46Z"
     },
     {
       "id": "9d712698-d6f8-4590-b7d8-8394087f564c",
@@ -37,48 +47,58 @@
       "street": "Fisher Bvd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
+      "timestamp": "2026-02-11T04:00:16Z",
       "reported_at": "2026-02-11T02:07:21Z"
     },
     {
-      "id": "0baac1cf-1fac-427a-b7e5-46a1ef24c943",
-      "latitude": -34.878457,
-      "longitude": 138.59344,
-      "street": "Prospect Rd",
-      "city": "Prospect",
+      "id": "127cda42-9aa6-4453-a7da-327653645b1a",
+      "latitude": -34.928589,
+      "longitude": 138.58792,
+      "street": "West Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
-      "reported_at": "2026-02-10T20:57:04Z"
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:58:37Z"
     },
     {
-      "id": "fc9d2d3f-29a4-487b-81c5-503a26850009",
-      "latitude": -34.86721,
-      "longitude": 138.535149,
-      "street": "Torrens Rd",
-      "city": "Woodville North",
+      "id": "b84a23f3-13b1-42ed-976c-7c8451cec2fd",
+      "latitude": -34.823437,
+      "longitude": 138.636423,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
-      "reported_at": "2026-02-11T02:56:49Z"
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:46:19Z"
     },
     {
-      "id": "b22f1247-a8ea-4533-9260-6b3d1264a624",
-      "latitude": -34.856131,
-      "longitude": 138.600692,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "64786b65-6b94-42d5-b010-f70deeb363da",
+      "latitude": -34.742446,
+      "longitude": 138.609036,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
-      "reported_at": "2026-02-11T01:03:08Z"
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:47:41Z"
     },
     {
-      "id": "5883a686-9e6e-43ad-89f2-85503bf9861e",
-      "latitude": -34.923521,
-      "longitude": 138.569826,
-      "street": "A2 - South Rd",
-      "city": "Torrensville",
+      "id": "ece010da-a787-486e-bd08-9c4b7e4fb5d6",
+      "latitude": -34.847289,
+      "longitude": 138.61493,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:30:17Z",
-      "reported_at": "2026-02-11T03:10:02Z"
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:34:02Z"
+    },
+    {
+      "id": "dc42a8f6-e49b-4609-b821-a1b10fc4ce24",
+      "latitude": -34.800985,
+      "longitude": 138.606806,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-11T04:00:16Z",
+      "reported_at": "2026-02-11T03:52:25Z"
     }
   ]
 }
