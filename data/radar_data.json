@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "860b9be6-5545-4a7a-98e1-21bcfed215d3",
-      "latitude": -34.817624,
-      "longitude": 138.641078,
-      "street": "Unknown Street",
-      "city": "Unknown City",
+      "id": "e560c34a-416c-47e7-9808-891783ce2985",
+      "latitude": -34.91114,
+      "longitude": 138.581913,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T03:47:06Z"
-    },
-    {
-      "id": "f203277e-82c4-4c70-b092-038f5975f508",
-      "latitude": -34.867883,
-      "longitude": 138.565757,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T01:47:14Z"
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T02:45:51Z"
     },
     {
       "id": "f40a81e2-a685-4c16-8523-4aeb8267fec8",
@@ -27,18 +17,28 @@
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
+      "timestamp": "2026-02-11T04:30:14Z",
       "reported_at": "2026-02-11T02:08:50Z"
     },
     {
-      "id": "75e17ca5-aca4-4edf-9238-bfcc21c37c1b",
-      "latitude": -34.800921,
-      "longitude": 138.695577,
-      "street": "Avalon Dr",
-      "city": "Wynn Vale",
+      "id": "f203277e-82c4-4c70-b092-038f5975f508",
+      "latitude": -34.867883,
+      "longitude": 138.565757,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T03:48:46Z"
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T01:47:14Z"
+    },
+    {
+      "id": "9b1ebedf-403c-44fb-96c5-37f97d83d204",
+      "latitude": -34.863748,
+      "longitude": 138.558846,
+      "street": "Ridley Gr",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T01:34:25Z"
     },
     {
       "id": "9d712698-d6f8-4590-b7d8-8394087f564c",
@@ -47,28 +47,18 @@
       "street": "Fisher Bvd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
+      "timestamp": "2026-02-11T04:30:14Z",
       "reported_at": "2026-02-11T02:07:21Z"
     },
     {
-      "id": "127cda42-9aa6-4453-a7da-327653645b1a",
-      "latitude": -34.928589,
-      "longitude": 138.58792,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "5d99d7dd-5b9c-4aa7-ad7e-c1bc7821d9a2",
+      "latitude": -34.927524,
+      "longitude": 138.630244,
+      "street": "Kensington Rd",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T03:58:37Z"
-    },
-    {
-      "id": "b84a23f3-13b1-42ed-976c-7c8451cec2fd",
-      "latitude": -34.823437,
-      "longitude": 138.636423,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T03:46:19Z"
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T04:15:01Z"
     },
     {
       "id": "64786b65-6b94-42d5-b010-f70deeb363da",
@@ -77,28 +67,48 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
+      "timestamp": "2026-02-11T04:30:14Z",
       "reported_at": "2026-02-11T03:47:41Z"
     },
     {
-      "id": "ece010da-a787-486e-bd08-9c4b7e4fb5d6",
-      "latitude": -34.847289,
-      "longitude": 138.61493,
+      "id": "a17272cd-a415-49eb-b905-64bd2e28a5aa",
+      "latitude": -34.804071,
+      "longitude": 138.684415,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T04:16:22Z"
+    },
+    {
+      "id": "fae87562-6577-4659-bebf-b29f421a544b",
+      "latitude": -34.924042,
+      "longitude": 138.641163,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T04:04:18Z"
+    },
+    {
+      "id": "80cf0417-a982-43e8-8790-f22591f63920",
+      "latitude": -34.847431,
+      "longitude": 138.614831,
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T03:34:02Z"
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T04:12:56Z"
     },
     {
-      "id": "dc42a8f6-e49b-4609-b821-a1b10fc4ce24",
-      "latitude": -34.800985,
-      "longitude": 138.606806,
+      "id": "e457997a-e78b-41d4-acb1-6a254fcd2fa5",
+      "latitude": -34.800604,
+      "longitude": 138.607404,
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:00:16Z",
-      "reported_at": "2026-02-11T03:52:25Z"
+      "timestamp": "2026-02-11T04:30:14Z",
+      "reported_at": "2026-02-11T03:55:35Z"
     }
   ]
 }
