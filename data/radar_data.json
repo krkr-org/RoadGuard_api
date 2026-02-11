@@ -1,3 +1,44 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "dbd85456-cc4e-4ce4-9d3a-a7bab4ff9e62",
+      "latitude": -34.932049,
+      "longitude": 138.565263,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Hilton",
+      "type": "mobile",
+      "timestamp": "2026-02-11T20:00:16Z",
+      "reported_at": "2026-02-11T19:38:39Z"
+    },
+    {
+      "id": "837b0bab-2207-4e94-a32d-dedb6861135c",
+      "latitude": -34.960341,
+      "longitude": 138.641528,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-02-11T20:00:16Z",
+      "reported_at": "2026-02-11T19:49:53Z"
+    },
+    {
+      "id": "01abbe9d-dfd6-4062-976e-43ac4c4647bc",
+      "latitude": -34.985745,
+      "longitude": 138.620219,
+      "street": "B28 - Old Belair Rd",
+      "city": "Belair",
+      "type": "mobile",
+      "timestamp": "2026-02-11T20:00:16Z",
+      "reported_at": "2026-02-11T19:35:09Z"
+    },
+    {
+      "id": "4dcef2e2-069e-4c26-92e5-536dcedd96b0",
+      "latitude": -35.02716,
+      "longitude": 138.797351,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-02-11T20:00:16Z",
+      "reported_at": "2026-02-11T19:37:02Z"
+    }
+  ]
 }
