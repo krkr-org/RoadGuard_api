@@ -1,74 +1,34 @@
 {
   "radars": [
     {
-      "id": "5f9873cd-c166-43c1-ac5e-6ebfdae565b9",
-      "latitude": -34.907471,
-      "longitude": 138.491025,
-      "street": "Unknown Street",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-11T02:38:43Z"
-    },
-    {
-      "id": "196af356-72ec-4934-b484-6d1422e1dcea",
-      "latitude": -34.913838,
-      "longitude": 138.573923,
-      "street": "Phillips St",
-      "city": "Thebarton",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-10T22:18:41Z"
-    },
-    {
-      "id": "c27931f3-1d8a-409a-a215-a5317a2ac867",
-      "latitude": -34.897949,
-      "longitude": 138.579587,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-10T22:15:47Z"
-    },
-    {
-      "id": "56bca3e6-45be-4ebf-be10-f93834c92c82",
-      "latitude": -34.920737,
-      "longitude": 138.646418,
-      "street": "The Parade",
-      "city": "Beulah Park",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-10T23:46:47Z"
-    },
-    {
-      "id": "419aa34e-9b53-44be-9852-c2b8180493d1",
-      "latitude": -34.868093,
-      "longitude": 138.565772,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-10T21:53:54Z"
-    },
-    {
       "id": "f40a81e2-a685-4c16-8523-4aeb8267fec8",
       "latitude": -34.885663,
       "longitude": 138.614859,
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
+      "timestamp": "2026-02-11T03:30:17Z",
       "reported_at": "2026-02-11T02:08:50Z"
     },
     {
-      "id": "e40da95b-7f77-4858-bf04-443bebd8bceb",
-      "latitude": -34.862618,
-      "longitude": 138.544334,
-      "street": "Ninth Av",
-      "city": "Woodville North",
+      "id": "7f3e09f2-a6ca-4904-8ee0-0d133dac6c06",
+      "latitude": -34.913724,
+      "longitude": 138.574911,
+      "street": "Phillips St",
+      "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-10T23:18:02Z"
+      "timestamp": "2026-02-11T03:30:17Z",
+      "reported_at": "2026-02-10T23:14:18Z"
+    },
+    {
+      "id": "691fa3af-4291-40f2-8ffb-d598d9255f91",
+      "latitude": -34.72062,
+      "longitude": 138.643701,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-11T03:30:17Z",
+      "reported_at": "2026-02-11T03:14:42Z"
     },
     {
       "id": "9d712698-d6f8-4590-b7d8-8394087f564c",
@@ -77,7 +37,7 @@
       "street": "Fisher Bvd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
+      "timestamp": "2026-02-11T03:30:17Z",
       "reported_at": "2026-02-11T02:07:21Z"
     },
     {
@@ -87,48 +47,38 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
+      "timestamp": "2026-02-11T03:30:17Z",
       "reported_at": "2026-02-10T20:57:04Z"
     },
     {
-      "id": "4c8b362b-0bf3-4cef-915b-cf0837bea641",
-      "latitude": -34.840156,
-      "longitude": 138.572645,
-      "street": "Cormack Rd",
-      "city": "Wingfield",
+      "id": "fc9d2d3f-29a4-487b-81c5-503a26850009",
+      "latitude": -34.86721,
+      "longitude": 138.535149,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-11T02:30:15Z"
+      "timestamp": "2026-02-11T03:30:17Z",
+      "reported_at": "2026-02-11T02:56:49Z"
     },
     {
-      "id": "edccf1d3-8365-44ec-8b35-95acb4dd6d61",
-      "latitude": -34.857901,
-      "longitude": 138.600927,
+      "id": "b22f1247-a8ea-4533-9260-6b3d1264a624",
+      "latitude": -34.856131,
+      "longitude": 138.600692,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-10T22:41:55Z"
+      "timestamp": "2026-02-11T03:30:17Z",
+      "reported_at": "2026-02-11T01:03:08Z"
     },
     {
-      "id": "72e5c31c-995e-4830-83a5-7625654ea703",
-      "latitude": -34.90634,
-      "longitude": 138.573215,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "id": "5883a686-9e6e-43ad-89f2-85503bf9861e",
+      "latitude": -34.923521,
+      "longitude": 138.569826,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-11T02:29:36Z"
-    },
-    {
-      "id": "1aef8751-a4c5-45a1-afac-7ea9353b9662",
-      "latitude": -34.913058,
-      "longitude": 138.54818,
-      "street": "A14 - Holbrooks Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-02-11T03:00:16Z",
-      "reported_at": "2026-02-11T02:15:47Z"
+      "timestamp": "2026-02-11T03:30:17Z",
+      "reported_at": "2026-02-11T03:10:02Z"
     }
   ]
 }
