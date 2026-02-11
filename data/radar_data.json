@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "87e6913a-06ae-4e81-af9c-8e6b8b0f5625",
-      "latitude": -34.9965,
-      "longitude": 138.532889,
-      "street": "Oaklands Rd",
-      "city": "Glengowrie",
+      "id": "8312bda0-6a3d-473d-aa43-b490f079c38b",
+      "latitude": -34.914714,
+      "longitude": 138.641895,
+      "street": "B27 - Magill Rd",
+      "city": "Beulah Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T20:30:14Z",
-      "reported_at": "2026-02-11T20:10:35Z"
+      "timestamp": "2026-02-11T21:00:15Z",
+      "reported_at": "2026-02-11T20:29:24Z"
+    },
+    {
+      "id": "fff91d82-46a8-4271-94f0-4cb629b495d3",
+      "latitude": -34.914804,
+      "longitude": 138.64013,
+      "street": "B27 - Magill Rd",
+      "city": "Maylands",
+      "type": "mobile",
+      "timestamp": "2026-02-11T21:00:15Z",
+      "reported_at": "2026-02-11T20:29:40Z"
+    },
+    {
+      "id": "8cce7c18-5173-42e5-832c-138918d2e2cc",
+      "latitude": -34.79012,
+      "longitude": 138.596554,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-02-11T21:00:15Z",
+      "reported_at": "2026-02-11T20:37:21Z"
+    },
+    {
+      "id": "3af77a1d-0130-48a4-9a0b-9d677d593343",
+      "latitude": -34.767599,
+      "longitude": 138.594044,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-02-11T21:00:15Z",
+      "reported_at": "2026-02-11T20:38:52Z"
     }
   ]
 }
