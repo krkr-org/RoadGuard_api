@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "e560c34a-416c-47e7-9808-891783ce2985",
-      "latitude": -34.91114,
-      "longitude": 138.581913,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T02:45:51Z"
-    },
-    {
       "id": "f40a81e2-a685-4c16-8523-4aeb8267fec8",
       "latitude": -34.885663,
       "longitude": 138.614859,
       "street": "Galway Av",
       "city": "Collinswood",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
+      "timestamp": "2026-02-11T05:00:16Z",
       "reported_at": "2026-02-11T02:08:50Z"
     },
     {
-      "id": "f203277e-82c4-4c70-b092-038f5975f508",
-      "latitude": -34.867883,
-      "longitude": 138.565757,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
+      "id": "27aa6a07-a21a-4877-ae6f-3bbc79e2939c",
+      "latitude": -34.977149,
+      "longitude": 138.592453,
+      "street": "Grange Rd",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T01:47:14Z"
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T04:31:03Z"
     },
     {
       "id": "9b1ebedf-403c-44fb-96c5-37f97d83d204",
@@ -37,48 +27,68 @@
       "street": "Ridley Gr",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
+      "timestamp": "2026-02-11T05:00:16Z",
       "reported_at": "2026-02-11T01:34:25Z"
     },
     {
-      "id": "9d712698-d6f8-4590-b7d8-8394087f564c",
-      "latitude": -34.721503,
-      "longitude": 138.627757,
-      "street": "Fisher Bvd",
-      "city": "Edinburgh",
+      "id": "f203277e-82c4-4c70-b092-038f5975f508",
+      "latitude": -34.867883,
+      "longitude": 138.565757,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T02:07:21Z"
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T01:47:14Z"
     },
     {
-      "id": "5d99d7dd-5b9c-4aa7-ad7e-c1bc7821d9a2",
-      "latitude": -34.927524,
-      "longitude": 138.630244,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "aea4f171-1bb2-4f34-aff7-d993eb2315f3",
+      "latitude": -35.105566,
+      "longitude": 138.517521,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T04:15:01Z"
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T04:53:32Z"
     },
     {
-      "id": "64786b65-6b94-42d5-b010-f70deeb363da",
-      "latitude": -34.742446,
-      "longitude": 138.609036,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
+      "id": "8dc34751-2535-4da7-bf56-16465ef4d6c1",
+      "latitude": -35.017289,
+      "longitude": 138.568243,
+      "street": "Main South Rd",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T03:47:41Z"
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T04:47:41Z"
     },
     {
-      "id": "a17272cd-a415-49eb-b905-64bd2e28a5aa",
-      "latitude": -34.804071,
-      "longitude": 138.684415,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
+      "id": "bd66590f-54a8-4009-875c-cc23fef0398a",
+      "latitude": -34.845725,
+      "longitude": 138.6941,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T04:16:22Z"
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T04:39:58Z"
+    },
+    {
+      "id": "e5d16e1f-c43c-4cfc-a4df-2d9ed301f3cc",
+      "latitude": -34.766441,
+      "longitude": 138.710343,
+      "street": "Golden Grove Rd",
+      "city": "Greenwith",
+      "type": "mobile",
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T04:23:44Z"
+    },
+    {
+      "id": "77d777b5-8f69-435c-ab2f-80ffc84c6274",
+      "latitude": -34.940882,
+      "longitude": 138.605748,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2026-02-11T05:00:16Z",
+      "reported_at": "2026-02-11T04:39:45Z"
     },
     {
       "id": "fae87562-6577-4659-bebf-b29f421a544b",
@@ -87,28 +97,8 @@
       "street": "A17 - Portrush Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
+      "timestamp": "2026-02-11T05:00:16Z",
       "reported_at": "2026-02-11T04:04:18Z"
-    },
-    {
-      "id": "80cf0417-a982-43e8-8790-f22591f63920",
-      "latitude": -34.847431,
-      "longitude": 138.614831,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T04:12:56Z"
-    },
-    {
-      "id": "e457997a-e78b-41d4-acb1-6a254fcd2fa5",
-      "latitude": -34.800604,
-      "longitude": 138.607404,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-11T04:30:14Z",
-      "reported_at": "2026-02-11T03:55:35Z"
     }
   ]
 }
