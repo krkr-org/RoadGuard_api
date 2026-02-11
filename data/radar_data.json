@@ -1,44 +1,74 @@
 {
   "radars": [
     {
-      "id": "8312bda0-6a3d-473d-aa43-b490f079c38b",
-      "latitude": -34.914714,
-      "longitude": 138.641895,
-      "street": "B27 - Magill Rd",
-      "city": "Beulah Park",
+      "id": "c3a69c01-af01-4a4f-b2f2-4614693a58c9",
+      "latitude": -34.930925,
+      "longitude": 138.534489,
+      "street": "May Tce",
+      "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-02-11T21:00:15Z",
-      "reported_at": "2026-02-11T20:29:24Z"
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T20:18:45Z"
     },
     {
-      "id": "fff91d82-46a8-4271-94f0-4cb629b495d3",
-      "latitude": -34.914804,
-      "longitude": 138.64013,
-      "street": "B27 - Magill Rd",
-      "city": "Maylands",
+      "id": "e5734d90-28ae-4dbe-9e27-1d69c1fc3a7d",
+      "latitude": -35.129984,
+      "longitude": 138.498353,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-11T21:00:15Z",
-      "reported_at": "2026-02-11T20:29:40Z"
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T21:03:11Z"
     },
     {
-      "id": "8cce7c18-5173-42e5-832c-138918d2e2cc",
-      "latitude": -34.79012,
-      "longitude": 138.596554,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Green Fields",
+      "id": "c0c5c090-a828-4b8d-816a-38f19fb1553f",
+      "latitude": -35.059495,
+      "longitude": 138.530793,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-11T21:00:15Z",
-      "reported_at": "2026-02-11T20:37:21Z"
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T21:03:53Z"
     },
     {
-      "id": "3af77a1d-0130-48a4-9a0b-9d677d593343",
-      "latitude": -34.767599,
-      "longitude": 138.594044,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Bolivar",
+      "id": "b878ca6d-d461-43af-8dd8-862094e16506",
+      "latitude": -35.121934,
+      "longitude": 138.5105,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-11T21:00:15Z",
-      "reported_at": "2026-02-11T20:38:52Z"
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T21:12:45Z"
+    },
+    {
+      "id": "8479edbb-be61-4a59-8505-0b382550dca0",
+      "latitude": -34.733747,
+      "longitude": 138.59464,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T21:14:00Z"
+    },
+    {
+      "id": "32d6bfd6-43a5-4855-891e-088b7216333f",
+      "latitude": -34.81906,
+      "longitude": 138.79457,
+      "street": "B10 - North East Rd",
+      "city": "Inglewood",
+      "type": "mobile",
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T20:55:43Z"
+    },
+    {
+      "id": "f402374f-b79f-463e-9d58-b7b3208201b8",
+      "latitude": -34.943022,
+      "longitude": 138.582332,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-02-11T21:30:15Z",
+      "reported_at": "2026-02-11T21:27:16Z"
     }
   ]
 }
