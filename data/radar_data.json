@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "74a3c9ef-5af0-4f9b-a75d-e3bb7919993b",
+      "latitude": -34.88016,
+      "longitude": 138.691469,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:47:42Z"
+    },
+    {
+      "id": "45cedeac-99f2-45a4-ba3a-091d42eba1f5",
+      "latitude": -34.737852,
+      "longitude": 138.652353,
+      "street": "Kettering Rd",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:32:12Z"
+    },
+    {
       "id": "d3411749-8ec7-430c-ad47-3a8d1f61799b",
       "latitude": -34.696443,
       "longitude": 138.708555,
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
+      "timestamp": "2026-02-11T07:00:18Z",
       "reported_at": "2026-02-11T06:01:43Z"
     },
     {
@@ -17,7 +37,7 @@
       "street": "Woodford Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
+      "timestamp": "2026-02-11T07:00:18Z",
       "reported_at": "2026-02-11T05:17:19Z"
     },
     {
@@ -27,8 +47,18 @@
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
+      "timestamp": "2026-02-11T07:00:18Z",
       "reported_at": "2026-02-11T05:29:03Z"
+    },
+    {
+      "id": "587c2f46-11e4-4bc6-83d9-13f6c8344a0c",
+      "latitude": -34.998146,
+      "longitude": 138.539424,
+      "street": "Morphett Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:50:28Z"
     },
     {
       "id": "899360ab-678e-4609-85ff-39c045d16ea3",
@@ -37,8 +67,28 @@
       "street": "Sturt Rd",
       "city": "Tonsley",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
+      "timestamp": "2026-02-11T07:00:18Z",
       "reported_at": "2026-02-11T06:10:03Z"
+    },
+    {
+      "id": "95b50b8e-5d4d-4d7d-8c70-1c6556e29365",
+      "latitude": -34.98033,
+      "longitude": 138.561923,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:20:57Z"
+    },
+    {
+      "id": "d141822b-3185-4e86-bd8e-b9e594cfa125",
+      "latitude": -34.906286,
+      "longitude": 138.608698,
+      "street": "Melbourne St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:53:48Z"
     },
     {
       "id": "61c264f2-298c-41da-9fc2-c61b24b09383",
@@ -47,98 +97,58 @@
       "street": "Grenfell Rd",
       "city": "Fairview Park",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
+      "timestamp": "2026-02-11T07:00:18Z",
       "reported_at": "2026-02-11T05:50:00Z"
     },
     {
-      "id": "b3b7bab0-ba24-4798-a962-11acf5a6648a",
-      "latitude": -34.858213,
-      "longitude": 138.656998,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
+      "id": "2983dec3-65ba-4cb4-ae92-f1c20a8ff949",
+      "latitude": -34.696135,
+      "longitude": 138.70691,
+      "street": "Adams Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T06:14:04Z"
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:35:50Z"
     },
     {
-      "id": "c7350193-6559-4607-9c81-5596c5ca5327",
-      "latitude": -34.980431,
-      "longitude": 138.560034,
-      "street": "Raglan Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T06:16:05Z"
-    },
-    {
-      "id": "e5d16e1f-c43c-4cfc-a4df-2d9ed301f3cc",
-      "latitude": -34.766441,
-      "longitude": 138.710343,
-      "street": "Golden Grove Rd",
-      "city": "Greenwith",
-      "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T04:23:44Z"
-    },
-    {
-      "id": "dfe43d42-7ebc-4756-b987-076f5065dba6",
-      "latitude": -34.789542,
-      "longitude": 138.501405,
-      "street": "A16 - Victoria Rd",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T05:57:27Z"
-    },
-    {
-      "id": "85e49e9a-0df0-40fa-bae9-df445a5ccb94",
-      "latitude": -35.142987,
-      "longitude": 138.524837,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T06:05:49Z"
-    },
-    {
-      "id": "ff0c6afa-8ee0-4564-8d6a-4fe63fd201a3",
-      "latitude": -34.966512,
-      "longitude": 138.586674,
-      "street": "A3 - Cross Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T06:01:42Z"
-    },
-    {
-      "id": "0a9dd017-b3ab-4bfa-be54-d0a399ea21a7",
-      "latitude": -34.824882,
-      "longitude": 138.70874,
+      "id": "ed00a79e-af25-4ec8-afe2-76462830cd81",
+      "latitude": -34.824966,
+      "longitude": 138.708649,
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T05:46:33Z"
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:29:17Z"
     },
     {
-      "id": "6511a412-d0ce-44ea-8601-49585952672b",
-      "latitude": -34.793112,
-      "longitude": 138.649225,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "e9d725a4-3828-47ee-bbb4-c7faceaf05ed",
+      "latitude": -34.845885,
+      "longitude": 138.717207,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T05:23:14Z"
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:38:23Z"
     },
     {
-      "id": "9711fdf3-d9a4-4f62-9001-a973fd4eab34",
-      "latitude": -34.767572,
-      "longitude": 138.673258,
+      "id": "8840693c-d9a4-40b9-8ff2-57b89284fa58",
+      "latitude": -34.767004,
+      "longitude": 138.671682,
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-11T06:30:20Z",
-      "reported_at": "2026-02-11T05:36:20Z"
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T06:02:05Z"
+    },
+    {
+      "id": "df16ad3a-93ab-4f28-8675-1873c2f5c052",
+      "latitude": -34.79367,
+      "longitude": 138.650341,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-11T07:00:18Z",
+      "reported_at": "2026-02-11T05:23:48Z"
     }
   ]
 }
