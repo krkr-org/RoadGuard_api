@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "bea54892-0573-4de2-bbc0-07de3dd4aeda",
-      "latitude": -34.861917,
-      "longitude": 138.513876,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
+      "id": "e3af2c80-163d-430d-ac72-79eae9d4cd18",
+      "latitude": -34.876696,
+      "longitude": 138.484613,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-02-12T21:00:18Z",
-      "reported_at": "2026-02-12T20:45:00Z"
+      "timestamp": "2026-02-12T21:30:14Z",
+      "reported_at": "2026-02-12T21:17:41Z"
+    },
+    {
+      "id": "628b11af-56eb-41b4-8958-9604005c4b47",
+      "latitude": -34.996332,
+      "longitude": 138.593125,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-02-12T21:30:14Z",
+      "reported_at": "2026-02-12T21:16:41Z"
+    },
+    {
+      "id": "564394ad-d488-4f02-8e12-9a92c112e0b2",
+      "latitude": -34.826097,
+      "longitude": 138.641417,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-12T21:30:14Z",
+      "reported_at": "2026-02-12T21:19:12Z"
+    },
+    {
+      "id": "33252f2c-2a7c-4022-9ba4-f93df7a641c1",
+      "latitude": -34.890998,
+      "longitude": 138.674412,
+      "street": "St. Bernards Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-12T21:30:14Z",
+      "reported_at": "2026-02-12T21:15:53Z"
     }
   ]
 }
