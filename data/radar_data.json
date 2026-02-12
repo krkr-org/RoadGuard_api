@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "79151528-dc2a-47f0-809f-c8ad762031a2",
+      "latitude": -34.885102,
+      "longitude": 138.663574,
+      "street": "Clairville Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T05:43:26Z"
+    },
+    {
       "id": "051c3c47-3108-482b-ba46-72d55c32774d",
       "latitude": -35.062771,
       "longitude": 138.512724,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
+      "timestamp": "2026-02-12T06:30:15Z",
       "reported_at": "2026-02-12T02:55:49Z"
     },
     {
-      "id": "e5c1d81e-0318-4ea2-888f-3fb04ce632d7",
-      "latitude": -35.072615,
-      "longitude": 138.603686,
-      "street": "Homestead Dr",
-      "city": "Aberfoyle Park",
+      "id": "cd510d19-36c8-43f3-9669-275876c36625",
+      "latitude": -34.849661,
+      "longitude": 138.660984,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
-      "reported_at": "2026-02-12T02:42:24Z"
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T06:17:18Z"
     },
     {
       "id": "e1389270-7281-45fc-aad4-76fb4cd9a01c",
@@ -27,18 +37,28 @@
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
+      "timestamp": "2026-02-12T06:30:15Z",
       "reported_at": "2026-02-12T05:46:46Z"
     },
     {
-      "id": "bc6c6af3-de83-46b7-ab83-25007c74ddd4",
-      "latitude": -34.859059,
-      "longitude": 138.529209,
-      "street": "Addison Rd",
-      "city": "Pennington",
+      "id": "1e6ef0ba-299e-42e2-866a-586afb629615",
+      "latitude": -34.885184,
+      "longitude": 138.504018,
+      "street": "Frederick Rd",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
-      "reported_at": "2026-02-12T05:42:01Z"
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T06:21:44Z"
+    },
+    {
+      "id": "1439ec9b-7c71-4ec2-8421-d6b3cdd74fec",
+      "latitude": -34.832709,
+      "longitude": 138.675117,
+      "street": "Kelly Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T05:21:12Z"
     },
     {
       "id": "522b0648-6b0d-4aff-9b07-e4042a56f98b",
@@ -47,28 +67,18 @@
       "street": "South Rd",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
+      "timestamp": "2026-02-12T06:30:15Z",
       "reported_at": "2026-02-12T05:40:11Z"
     },
     {
-      "id": "1439ec9b-7c71-4ec2-8421-d6b3cdd74fec",
-      "latitude": -34.83267,
-      "longitude": 138.675114,
+      "id": "5c9c64bb-93ed-4104-a075-70e09d019ac4",
+      "latitude": -34.835096,
+      "longitude": 138.675303,
       "street": "Kelly Rd",
-      "city": "Modbury",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
-      "reported_at": "2026-02-12T05:21:12Z"
-    },
-    {
-      "id": "28ba00f9-be0b-448c-88e7-3d70bd40cdcb",
-      "latitude": -34.870134,
-      "longitude": 138.665847,
-      "street": "Darley Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
-      "reported_at": "2026-02-12T05:35:46Z"
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T06:25:24Z"
     },
     {
       "id": "c30141a3-ef59-4cd9-a13d-590d789a69d0",
@@ -77,28 +87,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Aldgate",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
+      "timestamp": "2026-02-12T06:30:15Z",
       "reported_at": "2026-02-12T03:09:48Z"
     },
     {
-      "id": "b11796aa-fb57-4742-b79b-f2aa883182ad",
-      "latitude": -34.943453,
-      "longitude": 138.642718,
-      "street": "A17 - Portrush Rd",
-      "city": "Glenside",
+      "id": "abdbe871-394c-4b5a-b4d9-5e3dbce9a672",
+      "latitude": -34.827276,
+      "longitude": 138.703786,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
-      "reported_at": "2026-02-12T05:41:45Z"
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T05:30:21Z"
     },
     {
-      "id": "8c450ed4-890d-4fdc-90e5-f2a32ddb606e",
-      "latitude": -34.942065,
-      "longitude": 138.572217,
-      "street": "R1 - Richmond Rd (City Ring Route)",
-      "city": "Mile End South",
+      "id": "7fc0f64f-4b19-4167-8e82-0f53bac6be73",
+      "latitude": -34.870668,
+      "longitude": 138.570689,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T06:00:16Z",
-      "reported_at": "2026-02-12T04:08:33Z"
+      "timestamp": "2026-02-12T06:30:15Z",
+      "reported_at": "2026-02-12T06:22:36Z"
     }
   ]
 }
