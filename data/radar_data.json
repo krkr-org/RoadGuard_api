@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "77696975-a3bf-4dfb-a0c3-6bff7b89bc9c",
-      "latitude": -35.133856,
-      "longitude": 138.473255,
-      "street": "Roy Tce",
-      "city": "Christies Beach",
+      "id": "051c3c47-3108-482b-ba46-72d55c32774d",
+      "latitude": -35.062771,
+      "longitude": 138.512724,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-11T23:29:46Z"
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-12T02:55:49Z"
     },
     {
       "id": "f5d2daa3-3986-4a7b-8b81-1d7e3b215e37",
@@ -17,8 +17,18 @@
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
+      "timestamp": "2026-02-12T04:00:17Z",
       "reported_at": "2026-02-12T00:44:30Z"
+    },
+    {
+      "id": "280fda4d-fa74-4a48-b9a7-16afe245d01d",
+      "latitude": -34.860369,
+      "longitude": 138.565264,
+      "street": "Days Rd",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-12T03:34:56Z"
     },
     {
       "id": "e5c1d81e-0318-4ea2-888f-3fb04ce632d7",
@@ -27,88 +37,48 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
+      "timestamp": "2026-02-12T04:00:17Z",
       "reported_at": "2026-02-12T02:42:24Z"
     },
     {
-      "id": "8d8676da-85ea-413b-bec4-eb87993927f0",
-      "latitude": -34.862931,
-      "longitude": 138.565431,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
+      "id": "4670dab8-e97c-4ba6-9124-6501c3d7b42c",
+      "latitude": -34.669356,
+      "longitude": 138.666915,
+      "street": "President Av",
+      "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-12T03:23:41Z"
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-12T03:40:37Z"
     },
     {
-      "id": "eccf4820-66f3-4b34-99ba-003c3270db79",
-      "latitude": -35.082367,
-      "longitude": 138.562726,
+      "id": "c73c1a19-3878-438e-9635-834b9faf1f4f",
+      "latitude": -35.082345,
+      "longitude": 138.563223,
       "street": "Kenihans Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-11T23:44:19Z"
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-11T22:16:40Z"
     },
     {
-      "id": "48a5457e-8678-42fd-97c0-4691bda6bd70",
-      "latitude": -34.992473,
-      "longitude": 138.583711,
-      "street": "Daws Rd",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-12T02:47:16Z"
-    },
-    {
-      "id": "84670a24-8d7b-423d-9aa5-96155311b98c",
-      "latitude": -35.077204,
-      "longitude": 138.563481,
+      "id": "a4184648-3356-4be0-918a-bb1c98b42758",
+      "latitude": -35.077347,
+      "longitude": 138.563492,
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-11T23:24:27Z"
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-11T23:17:05Z"
     },
     {
-      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
-      "latitude": -35.05544,
-      "longitude": 138.577061,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
+      "id": "0d88321c-16ed-4490-894d-9cc77760483b",
+      "latitude": -34.811986,
+      "longitude": 138.501377,
+      "street": "A16 - Victoria Rd",
+      "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-11T21:29:14Z"
-    },
-    {
-      "id": "f45de8e7-3b92-4a21-9ded-c855780b63db",
-      "latitude": -34.852275,
-      "longitude": 138.666078,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-12T03:06:11Z"
-    },
-    {
-      "id": "bf813254-575e-494e-b547-a371f0deb8f1",
-      "latitude": -34.839769,
-      "longitude": 138.675706,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-12T03:21:01Z"
-    },
-    {
-      "id": "b6aab429-d02b-41ee-910b-44b62bd69d7c",
-      "latitude": -34.966982,
-      "longitude": 138.577397,
-      "street": "A3 - Cross Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-12T02:33:31Z"
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-12T03:53:14Z"
     },
     {
       "id": "c30141a3-ef59-4cd9-a13d-590d789a69d0",
@@ -117,18 +87,28 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Aldgate",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
+      "timestamp": "2026-02-12T04:00:17Z",
       "reported_at": "2026-02-12T03:09:48Z"
     },
     {
-      "id": "2f623cd0-96ce-4560-aa38-8e5b6f189a0a",
-      "latitude": -35.032666,
-      "longitude": 138.555235,
+      "id": "b0a53bfa-d0a1-49aa-ae02-90a1a0a675eb",
+      "latitude": -35.083555,
+      "longitude": 138.543287,
       "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:30:15Z",
-      "reported_at": "2026-02-12T03:19:44Z"
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-12T03:49:52Z"
+    },
+    {
+      "id": "0421c1cc-bf39-4101-b8b0-34c5467a154a",
+      "latitude": -34.861214,
+      "longitude": 138.567876,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T04:00:17Z",
+      "reported_at": "2026-02-12T03:48:57Z"
     }
   ]
 }
