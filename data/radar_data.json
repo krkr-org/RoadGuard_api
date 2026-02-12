@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "43b55c4e-22a4-474d-8cfd-47250e1c16ca",
-      "latitude": -34.852476,
-      "longitude": 138.662699,
-      "street": "Burman Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T06:25:55Z"
-    },
-    {
       "id": "79151528-dc2a-47f0-809f-c8ad762031a2",
       "latitude": -34.885102,
       "longitude": 138.663574,
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
+      "timestamp": "2026-02-12T08:00:16Z",
       "reported_at": "2026-02-12T05:43:26Z"
+    },
+    {
+      "id": "97fd7cb9-df54-4859-8699-e51db3202749",
+      "latitude": -34.796997,
+      "longitude": 138.649877,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:39:34Z"
+    },
+    {
+      "id": "43b55c4e-22a4-474d-8cfd-47250e1c16ca",
+      "latitude": -34.852476,
+      "longitude": 138.662699,
+      "street": "Burman Av",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T06:25:55Z"
+    },
+    {
+      "id": "8a08dc81-b7c0-49b4-8d2a-e8c72c65a512",
+      "latitude": -34.679198,
+      "longitude": 138.690824,
+      "street": "Charlotte St",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:36:59Z"
     },
     {
       "id": "a8fc7eb2-a784-4ab2-8178-3981f5016568",
@@ -27,28 +47,8 @@
       "street": "Barracks Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
+      "timestamp": "2026-02-12T08:00:16Z",
       "reported_at": "2026-02-12T06:26:34Z"
-    },
-    {
-      "id": "e1389270-7281-45fc-aad4-76fb4cd9a01c",
-      "latitude": -34.880992,
-      "longitude": 138.686022,
-      "street": "Graves St",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T05:46:46Z"
-    },
-    {
-      "id": "a4eb33cf-9bec-47a5-9328-9ecffee4ccc6",
-      "latitude": -34.8506,
-      "longitude": 138.66161,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T07:06:31Z"
     },
     {
       "id": "b5ed6a39-e5db-4572-b849-ba3baa3d4a90",
@@ -57,78 +57,68 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
+      "timestamp": "2026-02-12T08:00:16Z",
       "reported_at": "2026-02-12T06:20:46Z"
     },
     {
-      "id": "1e6ef0ba-299e-42e2-866a-586afb629615",
-      "latitude": -34.885184,
-      "longitude": 138.504018,
-      "street": "Frederick Rd",
-      "city": "Grange",
+      "id": "cd510d19-36c8-43f3-9669-275876c36625",
+      "latitude": -34.849661,
+      "longitude": 138.660984,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T06:21:44Z"
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T06:17:18Z"
     },
     {
-      "id": "31d79e1a-ec57-4a52-a776-195b110384c7",
-      "latitude": -34.89214,
-      "longitude": 138.501668,
-      "street": "Trimmer Pde",
-      "city": "Grange",
+      "id": "4cbc0e48-c41c-46d0-aac9-e16a19c3db2f",
+      "latitude": -35.017516,
+      "longitude": 138.550154,
+      "street": "Sturt Rd",
+      "city": "Oaklands Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T06:42:23Z"
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:43:36Z"
     },
     {
-      "id": "3fea577e-bae5-416a-8978-d7bd7b365198",
-      "latitude": -34.844751,
-      "longitude": 138.502915,
-      "street": "St. Vincent St",
-      "city": "Port Adelaide",
+      "id": "ccccb3e7-652d-4806-b787-ce981da63a13",
+      "latitude": -35.021179,
+      "longitude": 138.609412,
+      "street": "Shepherds Hill Rd",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T07:10:15Z"
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:24:02Z"
     },
     {
-      "id": "01932cb8-e7e5-49a6-a0e7-7d535a515801",
-      "latitude": -35.061285,
-      "longitude": 138.560034,
-      "street": "Chandlers Hill Rd",
-      "city": "O'Halloran Hill",
+      "id": "4443aa66-ed96-4de3-8b96-15d5c877bef8",
+      "latitude": -34.833034,
+      "longitude": 138.707078,
+      "street": "Tolley Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T07:20:02Z"
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:46:20Z"
     },
     {
-      "id": "b5455aed-03a1-465a-89ca-bb91b82f6cdf",
-      "latitude": -35.104886,
-      "longitude": 138.53081,
-      "street": "Pimpala Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T07:25:16Z"
-    },
-    {
-      "id": "28ba00f9-be0b-448c-88e7-3d70bd40cdcb",
-      "latitude": -34.870251,
-      "longitude": 138.665951,
-      "street": "Darley Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T05:35:46Z"
-    },
-    {
-      "id": "3a15699b-cfab-4c02-a256-08adf8556f8c",
-      "latitude": -34.832105,
-      "longitude": 138.675062,
+      "id": "1439ec9b-7c71-4ec2-8421-d6b3cdd74fec",
+      "latitude": -34.832709,
+      "longitude": 138.675117,
       "street": "Kelly Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T06:42:46Z"
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T05:21:12Z"
+    },
+    {
+      "id": "97f93fff-7c16-4a81-8d93-f510afb2119a",
+      "latitude": -34.85659,
+      "longitude": 138.654827,
+      "street": "Sudholz Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:49:17Z"
     },
     {
       "id": "5c9c64bb-93ed-4104-a075-70e09d019ac4",
@@ -137,8 +127,18 @@
       "street": "Kelly Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
+      "timestamp": "2026-02-12T08:00:16Z",
       "reported_at": "2026-02-12T06:25:24Z"
+    },
+    {
+      "id": "28ba00f9-be0b-448c-88e7-3d70bd40cdcb",
+      "latitude": -34.870251,
+      "longitude": 138.665951,
+      "street": "Darley Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T05:35:46Z"
     },
     {
       "id": "ec3a6460-c32c-445b-9196-524fcfaece09",
@@ -147,18 +147,28 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
+      "timestamp": "2026-02-12T08:00:16Z",
       "reported_at": "2026-02-12T05:53:11Z"
     },
     {
-      "id": "985b03d7-82e4-4ff4-8575-f4ae7cf839f6",
-      "latitude": -34.83999,
-      "longitude": 138.716481,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
+      "id": "3e451e66-5c4e-4fe0-8838-ec357cba94dd",
+      "latitude": -34.944563,
+      "longitude": 138.553319,
+      "street": "A14 - Marion Rd",
+      "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-02-12T07:30:15Z",
-      "reported_at": "2026-02-12T06:00:15Z"
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:41:11Z"
+    },
+    {
+      "id": "de94f0a2-84e7-472f-9bd4-79d521e54eb7",
+      "latitude": -34.682936,
+      "longitude": 138.693648,
+      "street": "A20 - Main North Rd",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-02-12T08:00:16Z",
+      "reported_at": "2026-02-12T07:48:23Z"
     }
   ]
 }
