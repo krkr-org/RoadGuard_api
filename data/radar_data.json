@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "9a79046e-ac0c-404b-9190-2354cf27444a",
-      "latitude": -35.062619,
-      "longitude": 138.514783,
+      "id": "9b405290-dfb1-43cf-86af-39b522a9d683",
+      "latitude": -35.062609,
+      "longitude": 138.515015,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-11T21:35:27Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-12T01:05:19Z"
+    },
+    {
+      "id": "411e1eef-a021-4a99-83fb-60785e17f84b",
+      "latitude": -35.131548,
+      "longitude": 138.498474,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-11T22:06:47Z"
     },
     {
       "id": "7fe56538-ff01-4fc2-b93d-2047ad15002b",
@@ -17,18 +27,18 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
+      "timestamp": "2026-02-12T01:30:16Z",
       "reported_at": "2026-02-11T21:36:00Z"
     },
     {
-      "id": "5d5bbec9-0c07-4b42-b728-963f2bfd90f4",
-      "latitude": -34.778333,
-      "longitude": 138.611533,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
+      "id": "1a22c493-4743-4fcd-a85e-1a779def82af",
+      "latitude": -34.922062,
+      "longitude": 138.615222,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-12T00:39:03Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-12T01:24:41Z"
     },
     {
       "id": "1bb6cf63-3ddd-4f49-899d-978d7e374b81",
@@ -37,8 +47,18 @@
       "street": "Unknown Street",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
+      "timestamp": "2026-02-12T01:30:16Z",
       "reported_at": "2026-02-11T22:15:20Z"
+    },
+    {
+      "id": "bc0319cf-bf39-47bd-971d-49a8413c9c3a",
+      "latitude": -35.070203,
+      "longitude": 138.599144,
+      "street": "Hub Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-11T21:53:55Z"
     },
     {
       "id": "a4184648-3356-4be0-918a-bb1c98b42758",
@@ -47,7 +67,7 @@
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
+      "timestamp": "2026-02-12T01:30:16Z",
       "reported_at": "2026-02-11T23:17:05Z"
     },
     {
@@ -57,48 +77,48 @@
       "street": "Happy Valley Dr",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
+      "timestamp": "2026-02-12T01:30:16Z",
       "reported_at": "2026-02-11T21:32:55Z"
     },
     {
-      "id": "bc0319cf-bf39-47bd-971d-49a8413c9c3a",
-      "latitude": -35.070203,
-      "longitude": 138.599144,
-      "street": "Hub Dr",
-      "city": "Aberfoyle Park",
+      "id": "6fb79fd6-3f0a-4055-90dd-cda41a74ac6e",
+      "latitude": -35.082254,
+      "longitude": 138.564617,
+      "street": "Kenihans Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-11T21:53:55Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-11T22:01:46Z"
     },
     {
-      "id": "0624ff6c-b975-4310-abbc-78a87b8187e1",
-      "latitude": -34.831693,
-      "longitude": 138.594086,
-      "street": "Churchill Rd North",
-      "city": "Cavan",
+      "id": "299f7dbe-cff6-4ae1-ac61-693948a52099",
+      "latitude": -35.070834,
+      "longitude": 138.562929,
+      "street": "Chandlers Hill Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-12T00:36:41Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-12T00:57:03Z"
     },
     {
-      "id": "86244504-1171-4185-9220-cc197e00dc7f",
-      "latitude": -34.754155,
-      "longitude": 138.601264,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
+      "id": "ec9a4546-72cd-4b6a-af74-9eb4fdb78b9e",
+      "latitude": -34.875781,
+      "longitude": 138.555627,
+      "street": "Regency Rd",
+      "city": "Kilkenny",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-11T23:41:59Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-12T00:15:14Z"
     },
     {
-      "id": "c74740ec-1590-4896-948d-df2e035f4a02",
-      "latitude": -35.085095,
-      "longitude": 138.507835,
+      "id": "1ff34fdf-4569-407b-9e92-cb9ab1c2b66b",
+      "latitude": -35.080024,
+      "longitude": 138.51549,
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-12T00:43:14Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-12T00:17:33Z"
     },
     {
       "id": "a4ade114-b526-4046-ab50-e48e1f03bc7e",
@@ -107,18 +127,18 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
+      "timestamp": "2026-02-12T01:30:16Z",
       "reported_at": "2026-02-11T23:29:59Z"
     },
     {
-      "id": "f116d7b4-d42b-499c-8542-1fe7cc1f892d",
-      "latitude": -35.045913,
-      "longitude": 138.550507,
+      "id": "0b6d9892-51ea-4a51-9a90-b023c9f869c9",
+      "latitude": -35.047533,
+      "longitude": 138.548977,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:00:15Z",
-      "reported_at": "2026-02-11T23:53:07Z"
+      "timestamp": "2026-02-12T01:30:16Z",
+      "reported_at": "2026-02-12T00:52:02Z"
     }
   ]
 }
