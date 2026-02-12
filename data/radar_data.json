@@ -1,44 +1,44 @@
 {
   "radars": [
     {
-      "id": "9b405290-dfb1-43cf-86af-39b522a9d683",
-      "latitude": -35.062609,
-      "longitude": 138.515015,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-12T01:05:19Z"
-    },
-    {
-      "id": "411e1eef-a021-4a99-83fb-60785e17f84b",
-      "latitude": -35.131548,
-      "longitude": 138.498474,
+      "id": "f5d2daa3-3986-4a7b-8b81-1d7e3b215e37",
+      "latitude": -35.128517,
+      "longitude": 138.498239,
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-11T22:06:47Z"
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T00:44:30Z"
     },
     {
-      "id": "7fe56538-ff01-4fc2-b93d-2047ad15002b",
-      "latitude": -35.072879,
-      "longitude": 138.599572,
+      "id": "9a350a8c-5748-4665-8054-e976481cbe8a",
+      "latitude": -35.134663,
+      "longitude": 138.47331,
+      "street": "Roy Tce",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-11T22:18:07Z"
+    },
+    {
+      "id": "60363e66-5837-47b1-ba28-7be0f53cd53b",
+      "latitude": -35.072611,
+      "longitude": 138.603742,
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-11T21:36:00Z"
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-11T22:09:57Z"
     },
     {
-      "id": "1a22c493-4743-4fcd-a85e-1a779def82af",
-      "latitude": -34.922062,
-      "longitude": 138.615222,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
+      "id": "6ed551ba-e2b4-4839-b59d-463ddf2bb167",
+      "latitude": -34.886269,
+      "longitude": 138.57186,
+      "street": "South Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-12T01:24:41Z"
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:41:08Z"
     },
     {
       "id": "1bb6cf63-3ddd-4f49-899d-978d7e374b81",
@@ -47,8 +47,28 @@
       "street": "Unknown Street",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
+      "timestamp": "2026-02-12T02:00:18Z",
       "reported_at": "2026-02-11T22:15:20Z"
+    },
+    {
+      "id": "5c93d84a-00f9-44b3-b9aa-a4d9608b08b9",
+      "latitude": -34.85545,
+      "longitude": 138.50242,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:37:49Z"
+    },
+    {
+      "id": "3bdef132-70ac-4d8d-a55f-fc8da063dd8b",
+      "latitude": -34.858503,
+      "longitude": 138.502472,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:54:35Z"
     },
     {
       "id": "bc0319cf-bf39-47bd-971d-49a8413c9c3a",
@@ -57,28 +77,8 @@
       "street": "Hub Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
+      "timestamp": "2026-02-12T02:00:18Z",
       "reported_at": "2026-02-11T21:53:55Z"
-    },
-    {
-      "id": "a4184648-3356-4be0-918a-bb1c98b42758",
-      "latitude": -35.077347,
-      "longitude": 138.563492,
-      "street": "Chandlers Hill Rd",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-11T23:17:05Z"
-    },
-    {
-      "id": "3919b8b6-29ab-4369-9f12-6e4197235397",
-      "latitude": -35.05658,
-      "longitude": 138.57775,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-11T21:32:55Z"
     },
     {
       "id": "6fb79fd6-3f0a-4055-90dd-cda41a74ac6e",
@@ -87,7 +87,7 @@
       "street": "Kenihans Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
+      "timestamp": "2026-02-12T02:00:18Z",
       "reported_at": "2026-02-11T22:01:46Z"
     },
     {
@@ -97,8 +97,28 @@
       "street": "Chandlers Hill Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
+      "timestamp": "2026-02-12T02:00:18Z",
       "reported_at": "2026-02-12T00:57:03Z"
+    },
+    {
+      "id": "84670a24-8d7b-423d-9aa5-96155311b98c",
+      "latitude": -35.077204,
+      "longitude": 138.563481,
+      "street": "Chandlers Hill Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-11T23:24:27Z"
+    },
+    {
+      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
+      "latitude": -35.05544,
+      "longitude": 138.577061,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-11T21:29:14Z"
     },
     {
       "id": "ec9a4546-72cd-4b6a-af74-9eb4fdb78b9e",
@@ -107,18 +127,38 @@
       "street": "Regency Rd",
       "city": "Kilkenny",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
+      "timestamp": "2026-02-12T02:00:18Z",
       "reported_at": "2026-02-12T00:15:14Z"
     },
     {
-      "id": "1ff34fdf-4569-407b-9e92-cb9ab1c2b66b",
-      "latitude": -35.080024,
-      "longitude": 138.51549,
+      "id": "2f88bd5f-1a5c-4cbb-b01a-ef2992eb1424",
+      "latitude": -34.852421,
+      "longitude": 138.500075,
+      "street": "A16 - Bower Rd",
+      "city": "New Port",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:33:07Z"
+    },
+    {
+      "id": "fa7b62bb-d8bb-48e1-b3f0-86b39e77ca18",
+      "latitude": -35.081771,
+      "longitude": 138.513074,
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-12T00:17:33Z"
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-11T21:56:05Z"
+    },
+    {
+      "id": "194e9b67-8fcc-4a51-a8dd-adde825659fc",
+      "latitude": -34.91297,
+      "longitude": 138.513405,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:36:59Z"
     },
     {
       "id": "a4ade114-b526-4046-ab50-e48e1f03bc7e",
@@ -127,18 +167,38 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
+      "timestamp": "2026-02-12T02:00:18Z",
       "reported_at": "2026-02-11T23:29:59Z"
     },
     {
-      "id": "0b6d9892-51ea-4a51-9a90-b023c9f869c9",
-      "latitude": -35.047533,
-      "longitude": 138.548977,
+      "id": "78f8b666-b8e7-46df-9b1d-f6ec968cb97f",
+      "latitude": -34.84652,
+      "longitude": 138.640554,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:40:03Z"
+    },
+    {
+      "id": "8e3fe089-98c5-4f38-a78f-98526fae6806",
+      "latitude": -35.046798,
+      "longitude": 138.549668,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-12T01:30:16Z",
-      "reported_at": "2026-02-12T00:52:02Z"
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-11T23:18:26Z"
+    },
+    {
+      "id": "8dc84dfa-d8af-4f35-8640-8544a7e7da7a",
+      "latitude": -35.068858,
+      "longitude": 138.545149,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T02:00:18Z",
+      "reported_at": "2026-02-12T01:50:59Z"
     }
   ]
 }
