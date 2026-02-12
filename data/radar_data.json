@@ -1,23 +1,33 @@
 {
   "radars": [
     {
+      "id": "fa4f6b4b-aadc-43d9-8632-0d46df346726",
+      "latitude": -34.805191,
+      "longitude": 138.614421,
+      "street": "Central Link",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-12T00:30:16Z",
+      "reported_at": "2026-02-12T00:14:09Z"
+    },
+    {
       "id": "411e1eef-a021-4a99-83fb-60785e17f84b",
       "latitude": -35.131548,
       "longitude": 138.498474,
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T22:06:47Z"
     },
     {
       "id": "9a79046e-ac0c-404b-9190-2354cf27444a",
-      "latitude": -35.062572,
-      "longitude": 138.515823,
+      "latitude": -35.062619,
+      "longitude": 138.514783,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T21:35:27Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T22:09:57Z"
     },
     {
@@ -37,68 +47,28 @@
       "street": "Unknown Street",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T22:15:20Z"
     },
     {
-      "id": "821c7111-f9be-4413-8b54-3e07d8bb770e",
-      "latitude": -34.880132,
-      "longitude": 138.503674,
-      "street": "Frederick Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:42:45Z"
-    },
-    {
-      "id": "051b3b7e-7a74-4197-8bec-2ed2f627d77f",
-      "latitude": -34.891984,
-      "longitude": 138.504359,
-      "street": "Trimmer Pde",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:42:16Z"
-    },
-    {
-      "id": "bc0319cf-bf39-47bd-971d-49a8413c9c3a",
-      "latitude": -35.070203,
-      "longitude": 138.599144,
-      "street": "Hub Dr",
-      "city": "Aberfoyle Park",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T21:53:55Z"
-    },
-    {
-      "id": "6fb79fd6-3f0a-4055-90dd-cda41a74ac6e",
-      "latitude": -35.082254,
-      "longitude": 138.564617,
-      "street": "Kenihans Rd",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T22:01:46Z"
-    },
-    {
-      "id": "84670a24-8d7b-423d-9aa5-96155311b98c",
-      "latitude": -35.077204,
-      "longitude": 138.563481,
+      "id": "a4184648-3356-4be0-918a-bb1c98b42758",
+      "latitude": -35.077347,
+      "longitude": 138.563492,
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:24:27Z"
+      "timestamp": "2026-02-12T00:30:16Z",
+      "reported_at": "2026-02-11T23:17:05Z"
     },
     {
-      "id": "0e24db32-9993-444a-9480-b9ddda2c58a7",
-      "latitude": -34.924375,
-      "longitude": 138.600457,
-      "street": "Grenfell St",
-      "city": "Adelaide",
+      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
+      "latitude": -35.05544,
+      "longitude": 138.577061,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:26:55Z"
+      "timestamp": "2026-02-12T00:30:16Z",
+      "reported_at": "2026-02-11T21:29:14Z"
     },
     {
       "id": "86244504-1171-4185-9220-cc197e00dc7f",
@@ -107,38 +77,18 @@
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T23:41:59Z"
     },
     {
       "id": "fa7b62bb-d8bb-48e1-b3f0-86b39e77ca18",
-      "latitude": -35.081708,
-      "longitude": 138.513161,
+      "latitude": -35.081771,
+      "longitude": 138.513074,
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T21:56:05Z"
-    },
-    {
-      "id": "01faff94-1bf1-47e5-9f34-56d490039cb2",
-      "latitude": -34.942919,
-      "longitude": 138.571082,
-      "street": "A2 - South Rd",
-      "city": "Marleston",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:28:27Z"
-    },
-    {
-      "id": "e9b4aa50-f49d-478f-867a-d0470ede5339",
-      "latitude": -34.911118,
-      "longitude": 138.577552,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:52:53Z"
     },
     {
       "id": "a4ade114-b526-4046-ab50-e48e1f03bc7e",
@@ -147,38 +97,28 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
+      "timestamp": "2026-02-12T00:30:16Z",
       "reported_at": "2026-02-11T23:29:59Z"
     },
     {
-      "id": "afd1ef74-8926-4ae2-8a31-341043d20fe6",
-      "latitude": -35.046989,
-      "longitude": 138.549752,
+      "id": "68844b00-cdfa-491a-a911-ed8a42bb0642",
+      "latitude": -34.768497,
+      "longitude": 138.675552,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-02-12T00:30:16Z",
+      "reported_at": "2026-02-12T00:11:05Z"
+    },
+    {
+      "id": "f116d7b4-d42b-499c-8542-1fe7cc1f892d",
+      "latitude": -35.046806,
+      "longitude": 138.549661,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:20:07Z"
-    },
-    {
-      "id": "625aec1c-0ee0-4238-b703-e26676d0550e",
-      "latitude": -34.804073,
-      "longitude": 138.574383,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:40:48Z"
-    },
-    {
-      "id": "bc8ab040-e626-4f45-9f07-e099240cb1a2",
-      "latitude": -34.971433,
-      "longitude": 138.657505,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:00:15Z",
-      "reported_at": "2026-02-11T23:55:47Z"
+      "timestamp": "2026-02-12T00:30:16Z",
+      "reported_at": "2026-02-11T23:53:07Z"
     }
   ]
 }
