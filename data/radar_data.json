@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "79151528-dc2a-47f0-809f-c8ad762031a2",
-      "latitude": -34.885102,
-      "longitude": 138.663574,
-      "street": "Clairville Rd",
-      "city": "Campbelltown",
-      "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T05:43:26Z"
-    },
-    {
       "id": "97fd7cb9-df54-4859-8699-e51db3202749",
       "latitude": -34.796997,
       "longitude": 138.649877,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T07:39:34Z"
-    },
-    {
-      "id": "43b55c4e-22a4-474d-8cfd-47250e1c16ca",
-      "latitude": -34.852476,
-      "longitude": 138.662699,
-      "street": "Burman Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T06:25:55Z"
     },
     {
       "id": "55cb6afb-5176-4150-b1e8-fda84b848f2a",
@@ -37,18 +17,18 @@
       "street": "Brandreth St",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T09:10:26Z"
     },
     {
-      "id": "48fce59f-8ced-48b5-a000-fa59c2bbe58e",
-      "latitude": -34.883057,
-      "longitude": 138.691695,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
+      "id": "43b55c4e-22a4-474d-8cfd-47250e1c16ca",
+      "latitude": -34.852476,
+      "longitude": 138.662699,
+      "street": "Burman Av",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T08:26:26Z"
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T06:25:55Z"
     },
     {
       "id": "12033806-8f9a-42d2-b768-27ea5f741d90",
@@ -57,18 +37,8 @@
       "street": "Barracks Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T07:04:17Z"
-    },
-    {
-      "id": "a4eb33cf-9bec-47a5-9328-9ecffee4ccc6",
-      "latitude": -34.8506,
-      "longitude": 138.66161,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T07:06:31Z"
     },
     {
       "id": "b5ed6a39-e5db-4572-b849-ba3baa3d4a90",
@@ -77,8 +47,28 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T06:20:46Z"
+    },
+    {
+      "id": "48fce59f-8ced-48b5-a000-fa59c2bbe58e",
+      "latitude": -34.883057,
+      "longitude": 138.691695,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T08:26:26Z"
+    },
+    {
+      "id": "df957804-7022-483b-a1bd-05233fac982f",
+      "latitude": -34.746224,
+      "longitude": 138.645989,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T09:34:00Z"
     },
     {
       "id": "d107bf9a-b922-42b7-a947-c78cccea18d2",
@@ -87,7 +77,7 @@
       "street": "Henley Beach Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T08:59:14Z"
     },
     {
@@ -97,7 +87,7 @@
       "street": "Kelly Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T06:42:46Z"
     },
     {
@@ -107,58 +97,48 @@
       "street": "Wright Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
+      "timestamp": "2026-02-12T10:00:17Z",
       "reported_at": "2026-02-12T08:29:40Z"
     },
     {
-      "id": "5c9c64bb-93ed-4104-a075-70e09d019ac4",
-      "latitude": -34.835096,
-      "longitude": 138.675303,
-      "street": "Kelly Rd",
-      "city": "Valley View",
+      "id": "f7f00184-14cf-4d59-9f00-5c411c467a2d",
+      "latitude": -35.01899,
+      "longitude": 138.527392,
+      "street": "Sturt Rd",
+      "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T06:25:24Z"
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T09:47:48Z"
     },
     {
-      "id": "99a9c7ed-41a6-4d99-a26e-dd3332bb4cbc",
-      "latitude": -34.891398,
-      "longitude": 138.513729,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
+      "id": "c437e2b4-39e9-4665-8f54-2e5ece36da27",
+      "latitude": -34.845116,
+      "longitude": 138.493768,
+      "street": "A16 - Causeway Rd",
+      "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T08:53:20Z"
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T09:14:33Z"
     },
     {
-      "id": "f8765f46-4835-4a05-864c-36549886a6b5",
-      "latitude": -34.827211,
-      "longitude": 138.704766,
+      "id": "10d9e341-179e-4970-8496-bc20ac710201",
+      "latitude": -34.827387,
+      "longitude": 138.701844,
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T07:54:48Z"
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T05:41:23Z"
     },
     {
-      "id": "9aa58d52-a5fe-4030-b281-6da61a984176",
-      "latitude": -34.950247,
-      "longitude": 138.576048,
-      "street": "A5 - Anzac Hwy",
-      "city": "Everard Park",
+      "id": "39d6af11-37b7-4f67-957b-a8b004a41068",
+      "latitude": -34.895635,
+      "longitude": 138.557065,
+      "street": "A7 - Port Rd",
+      "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T08:05:16Z"
-    },
-    {
-      "id": "265d3c75-5886-4bd4-bfb0-2e63a01943b4",
-      "latitude": -34.970008,
-      "longitude": 138.608915,
-      "street": "B29 - Belair Rd",
-      "city": "Hawthorn",
-      "type": "mobile",
-      "timestamp": "2026-02-12T09:30:15Z",
-      "reported_at": "2026-02-12T09:10:43Z"
+      "timestamp": "2026-02-12T10:00:17Z",
+      "reported_at": "2026-02-12T09:42:34Z"
     }
   ]
 }
