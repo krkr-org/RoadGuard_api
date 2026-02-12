@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "55cb6afb-5176-4150-b1e8-fda84b848f2a",
-      "latitude": -34.935491,
-      "longitude": 138.64498,
-      "street": "Brandreth St",
-      "city": "Tusmore",
-      "type": "mobile",
-      "timestamp": "2026-02-12T13:00:15Z",
-      "reported_at": "2026-02-12T09:10:26Z"
-    },
-    {
       "id": "480dcc03-8512-46c0-8023-0ca061a49f5f",
       "latitude": -34.995144,
       "longitude": 138.529434,
       "street": "Diagonal Rd",
       "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T13:00:15Z",
+      "timestamp": "2026-02-12T13:30:15Z",
       "reported_at": "2026-02-12T10:52:18Z"
-    },
-    {
-      "id": "ba8b115b-98c4-49b0-ac4c-e75a6357e41b",
-      "latitude": -34.834061,
-      "longitude": 138.676941,
-      "street": "Wright Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-02-12T13:00:15Z",
-      "reported_at": "2026-02-12T09:12:07Z"
     },
     {
       "id": "c437e2b4-39e9-4665-8f54-2e5ece36da27",
@@ -37,7 +17,7 @@
       "street": "A16 - Causeway Rd",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-12T13:00:15Z",
+      "timestamp": "2026-02-12T13:30:15Z",
       "reported_at": "2026-02-12T09:14:33Z"
     },
     {
@@ -47,18 +27,8 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-12T13:00:15Z",
+      "timestamp": "2026-02-12T13:30:15Z",
       "reported_at": "2026-02-12T10:32:08Z"
-    },
-    {
-      "id": "8d9a40b1-05b0-4782-8ad5-0c84b718e618",
-      "latitude": -34.799873,
-      "longitude": 138.576859,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-02-12T13:00:15Z",
-      "reported_at": "2026-02-12T12:36:52Z"
     }
   ]
 }
