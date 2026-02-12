@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "97fd7cb9-df54-4859-8699-e51db3202749",
-      "latitude": -34.796997,
-      "longitude": 138.649877,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T07:39:34Z"
-    },
-    {
       "id": "55cb6afb-5176-4150-b1e8-fda84b848f2a",
       "latitude": -34.935491,
       "longitude": 138.64498,
       "street": "Brandreth St",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
+      "timestamp": "2026-02-12T12:00:23Z",
       "reported_at": "2026-02-12T09:10:26Z"
-    },
-    {
-      "id": "b527dc0e-bec4-45fe-93aa-2a89a3bc9648",
-      "latitude": -34.852975,
-      "longitude": 138.663203,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T08:30:40Z"
-    },
-    {
-      "id": "1203b86e-24c4-4ca5-9155-c921f78434b1",
-      "latitude": -34.907058,
-      "longitude": 138.581832,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T11:07:59Z"
     },
     {
       "id": "48fce59f-8ced-48b5-a000-fa59c2bbe58e",
@@ -47,8 +17,18 @@
       "street": "Stradbroke Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
+      "timestamp": "2026-02-12T12:00:23Z",
       "reported_at": "2026-02-12T08:26:26Z"
+    },
+    {
+      "id": "b527dc0e-bec4-45fe-93aa-2a89a3bc9648",
+      "latitude": -34.852975,
+      "longitude": 138.663203,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-02-12T12:00:23Z",
+      "reported_at": "2026-02-12T08:30:40Z"
     },
     {
       "id": "ba0fe972-a46c-442f-8aa6-392d9386e0d5",
@@ -57,28 +37,18 @@
       "street": "Wright Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
+      "timestamp": "2026-02-12T12:00:23Z",
       "reported_at": "2026-02-12T08:29:40Z"
     },
     {
-      "id": "56f8e0b1-3fe7-4a7e-90e2-664793a401a0",
-      "latitude": -34.95714,
-      "longitude": 138.600251,
-      "street": "King William Rd",
-      "city": "Hyde Park",
+      "id": "480dcc03-8512-46c0-8023-0ca061a49f5f",
+      "latitude": -34.995144,
+      "longitude": 138.529434,
+      "street": "Diagonal Rd",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T11:09:51Z"
-    },
-    {
-      "id": "deb8dcac-bd89-46db-9849-c61d66e6c85e",
-      "latitude": -34.815066,
-      "longitude": 138.642019,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T11:20:11Z"
+      "timestamp": "2026-02-12T12:00:23Z",
+      "reported_at": "2026-02-12T10:52:18Z"
     },
     {
       "id": "c437e2b4-39e9-4665-8f54-2e5ece36da27",
@@ -87,38 +57,18 @@
       "street": "A16 - Causeway Rd",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
+      "timestamp": "2026-02-12T12:00:23Z",
       "reported_at": "2026-02-12T09:14:33Z"
     },
     {
-      "id": "309847f4-5813-4134-9fe2-343bb6e9c26a",
-      "latitude": -34.891563,
-      "longitude": 138.513741,
+      "id": "3dffce16-b7b0-4089-ba15-ec0dc6b60796",
+      "latitude": -34.883637,
+      "longitude": 138.51304,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T09:47:45Z"
-    },
-    {
-      "id": "310068db-cae7-4688-b3f5-888d42702796",
-      "latitude": -34.982684,
-      "longitude": 138.574164,
-      "street": "A2 - South Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T10:56:40Z"
-    },
-    {
-      "id": "80a19fa1-7545-4e1c-8672-508f8b264fd6",
-      "latitude": -34.83991,
-      "longitude": 138.717249,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T07:37:23Z"
+      "timestamp": "2026-02-12T12:00:23Z",
+      "reported_at": "2026-02-12T11:12:30Z"
     },
     {
       "id": "701392ed-de4e-4e85-b499-655278ffdefd",
@@ -127,18 +77,38 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
+      "timestamp": "2026-02-12T12:00:23Z",
       "reported_at": "2026-02-12T10:32:08Z"
     },
     {
-      "id": "a7dfdcda-7a6f-4fa4-8ad7-3e78fc0460c7",
-      "latitude": -34.961491,
-      "longitude": 138.642429,
-      "street": "A1 - Glen Osmond Rd",
-      "city": "Myrtle Bank",
+      "id": "555d9090-edfc-4a6f-b8af-fc2ce70dbfe9",
+      "latitude": -34.970593,
+      "longitude": 138.544498,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T11:30:14Z",
-      "reported_at": "2026-02-12T11:23:38Z"
+      "timestamp": "2026-02-12T12:00:23Z",
+      "reported_at": "2026-02-12T11:49:57Z"
+    },
+    {
+      "id": "9b6d10ce-c711-4faa-95ad-b5c9ad48f4a4",
+      "latitude": -34.785988,
+      "longitude": 138.637531,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-02-12T12:00:23Z",
+      "reported_at": "2026-02-12T11:45:47Z"
+    },
+    {
+      "id": "cc35e848-97f9-40f5-91c7-e203bb5ec850",
+      "latitude": -34.791555,
+      "longitude": 138.64727,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-12T12:00:23Z",
+      "reported_at": "2026-02-12T11:23:52Z"
     }
   ]
 }
