@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "f5d2daa3-3986-4a7b-8b81-1d7e3b215e37",
-      "latitude": -35.128517,
-      "longitude": 138.498239,
-      "street": "Morton Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-12T00:44:30Z"
-    },
-    {
       "id": "77696975-a3bf-4dfb-a0c3-6bff7b89bc9c",
       "latitude": -35.133856,
       "longitude": 138.473255,
       "street": "Roy Tce",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
+      "timestamp": "2026-02-12T03:30:15Z",
       "reported_at": "2026-02-11T23:29:46Z"
+    },
+    {
+      "id": "f5d2daa3-3986-4a7b-8b81-1d7e3b215e37",
+      "latitude": -35.128517,
+      "longitude": 138.498239,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T00:44:30Z"
     },
     {
       "id": "e5c1d81e-0318-4ea2-888f-3fb04ce632d7",
@@ -27,38 +27,28 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
+      "timestamp": "2026-02-12T03:30:15Z",
       "reported_at": "2026-02-12T02:42:24Z"
     },
     {
-      "id": "24f263fa-4542-4edd-be20-7ab2a2f9f047",
-      "latitude": -34.858678,
-      "longitude": 138.502779,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
+      "id": "8d8676da-85ea-413b-bec4-eb87993927f0",
+      "latitude": -34.862931,
+      "longitude": 138.565431,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-12T01:51:13Z"
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T03:23:41Z"
     },
     {
-      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
-      "latitude": -35.05544,
-      "longitude": 138.577061,
-      "street": "Happy Valley Dr",
+      "id": "eccf4820-66f3-4b34-99ba-003c3270db79",
+      "latitude": -35.082367,
+      "longitude": 138.562726,
+      "street": "Kenihans Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-11T21:29:14Z"
-    },
-    {
-      "id": "58f4c7fd-6bb4-4b1c-8f9c-a8e09f874ebf",
-      "latitude": -35.073805,
-      "longitude": 138.563212,
-      "street": "Chandlers Hill Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-12T02:40:32Z"
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-11T23:44:19Z"
     },
     {
       "id": "48a5457e-8678-42fd-97c0-4691bda6bd70",
@@ -67,48 +57,78 @@
       "street": "Daws Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
+      "timestamp": "2026-02-12T03:30:15Z",
       "reported_at": "2026-02-12T02:47:16Z"
     },
     {
-      "id": "c73c1a19-3878-438e-9635-834b9faf1f4f",
-      "latitude": -35.082345,
-      "longitude": 138.563223,
-      "street": "Kenihans Rd",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-11T22:16:40Z"
-    },
-    {
-      "id": "a4184648-3356-4be0-918a-bb1c98b42758",
-      "latitude": -35.077347,
-      "longitude": 138.563492,
+      "id": "84670a24-8d7b-423d-9aa5-96155311b98c",
+      "latitude": -35.077204,
+      "longitude": 138.563481,
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-11T23:17:05Z"
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-11T23:24:27Z"
     },
     {
-      "id": "fa7b62bb-d8bb-48e1-b3f0-86b39e77ca18",
-      "latitude": -35.081771,
-      "longitude": 138.513074,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
+      "latitude": -35.05544,
+      "longitude": 138.577061,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-11T21:56:05Z"
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-11T21:29:14Z"
     },
     {
-      "id": "152e1503-3b20-4dd2-89d6-cf23dfbcd1d3",
-      "latitude": -34.756846,
-      "longitude": 138.646077,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "f45de8e7-3b92-4a21-9ded-c855780b63db",
+      "latitude": -34.852275,
+      "longitude": 138.666078,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-12T03:00:23Z",
-      "reported_at": "2026-02-12T02:25:22Z"
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T03:06:11Z"
+    },
+    {
+      "id": "bf813254-575e-494e-b547-a371f0deb8f1",
+      "latitude": -34.839769,
+      "longitude": 138.675706,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T03:21:01Z"
+    },
+    {
+      "id": "b6aab429-d02b-41ee-910b-44b62bd69d7c",
+      "latitude": -34.966982,
+      "longitude": 138.577397,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T02:33:31Z"
+    },
+    {
+      "id": "c30141a3-ef59-4cd9-a13d-590d789a69d0",
+      "latitude": -35.025145,
+      "longitude": 138.754971,
+      "street": "B33 - Strathalbyn Rd",
+      "city": "Aldgate",
+      "type": "mobile",
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T03:09:48Z"
+    },
+    {
+      "id": "2f623cd0-96ce-4560-aa38-8e5b6f189a0a",
+      "latitude": -35.032666,
+      "longitude": 138.555235,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-12T03:30:15Z",
+      "reported_at": "2026-02-12T03:19:44Z"
     }
   ]
 }
