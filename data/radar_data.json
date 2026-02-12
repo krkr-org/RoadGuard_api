@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e3af2c80-163d-430d-ac72-79eae9d4cd18",
-      "latitude": -34.876696,
-      "longitude": 138.484613,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
+      "id": "57add58b-24ae-4a7b-a476-359fff2c60a6",
+      "latitude": -34.92214,
+      "longitude": 138.495028,
+      "street": "Seaview Rd",
+      "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-12T22:00:16Z",
-      "reported_at": "2026-02-12T21:17:41Z"
+      "timestamp": "2026-02-12T22:30:16Z",
+      "reported_at": "2026-02-12T22:17:45Z"
     },
     {
       "id": "fda54fcf-4588-40d2-99fc-ff5b9eeaca3c",
@@ -17,28 +17,48 @@
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-02-12T22:00:16Z",
+      "timestamp": "2026-02-12T22:30:16Z",
       "reported_at": "2026-02-12T21:51:46Z"
     },
     {
-      "id": "283bcc16-d772-4aae-82d0-6d0b153b8de1",
-      "latitude": -34.996523,
-      "longitude": 138.592995,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "8e49f8d1-bd07-42d7-af58-fe583ee78750",
+      "latitude": -34.88222,
+      "longitude": 138.503924,
+      "street": "Frederick Rd",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-12T22:00:16Z",
-      "reported_at": "2026-02-12T21:40:11Z"
+      "timestamp": "2026-02-12T22:30:16Z",
+      "reported_at": "2026-02-12T22:13:59Z"
     },
     {
-      "id": "f409c308-363b-41a3-964b-25fcd0b555aa",
-      "latitude": -34.938618,
-      "longitude": 138.517207,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "8c8d81b3-1932-4c03-b44f-5c217b2ed7e9",
+      "latitude": -34.800242,
+      "longitude": 138.705948,
+      "street": "Golden Grove Rd",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-02-12T22:00:16Z",
-      "reported_at": "2026-02-12T21:51:15Z"
+      "timestamp": "2026-02-12T22:30:16Z",
+      "reported_at": "2026-02-12T22:16:06Z"
+    },
+    {
+      "id": "197cc825-24b7-48ce-a486-e4c442e01cb1",
+      "latitude": -34.886247,
+      "longitude": 138.584928,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-12T22:30:16Z",
+      "reported_at": "2026-02-12T21:55:45Z"
+    },
+    {
+      "id": "b1b3af29-f038-4f28-83cd-4869646e5820",
+      "latitude": -34.940697,
+      "longitude": 138.613003,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
+      "type": "mobile",
+      "timestamp": "2026-02-12T22:30:16Z",
+      "reported_at": "2026-02-12T22:23:40Z"
     }
   ]
 }
