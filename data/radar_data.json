@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "fc2d526a-7229-4d70-9935-d78a340c05d7",
-      "latitude": -34.930926,
-      "longitude": 138.626759,
-      "street": "Alexandra Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2026-02-12T05:30:16Z",
-      "reported_at": "2026-02-12T01:40:19Z"
-    },
-    {
       "id": "051c3c47-3108-482b-ba46-72d55c32774d",
       "latitude": -35.062771,
       "longitude": 138.512724,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T05:30:16Z",
+      "timestamp": "2026-02-12T06:00:16Z",
       "reported_at": "2026-02-12T02:55:49Z"
     },
     {
@@ -27,8 +17,58 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T05:30:16Z",
+      "timestamp": "2026-02-12T06:00:16Z",
       "reported_at": "2026-02-12T02:42:24Z"
+    },
+    {
+      "id": "e1389270-7281-45fc-aad4-76fb4cd9a01c",
+      "latitude": -34.880992,
+      "longitude": 138.686022,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:00:16Z",
+      "reported_at": "2026-02-12T05:46:46Z"
+    },
+    {
+      "id": "bc6c6af3-de83-46b7-ab83-25007c74ddd4",
+      "latitude": -34.859059,
+      "longitude": 138.529209,
+      "street": "Addison Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:00:16Z",
+      "reported_at": "2026-02-12T05:42:01Z"
+    },
+    {
+      "id": "522b0648-6b0d-4aff-9b07-e4042a56f98b",
+      "latitude": -34.874587,
+      "longitude": 138.57103,
+      "street": "South Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:00:16Z",
+      "reported_at": "2026-02-12T05:40:11Z"
+    },
+    {
+      "id": "1439ec9b-7c71-4ec2-8421-d6b3cdd74fec",
+      "latitude": -34.83267,
+      "longitude": 138.675114,
+      "street": "Kelly Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:00:16Z",
+      "reported_at": "2026-02-12T05:21:12Z"
+    },
+    {
+      "id": "28ba00f9-be0b-448c-88e7-3d70bd40cdcb",
+      "latitude": -34.870134,
+      "longitude": 138.665847,
+      "street": "Darley Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:00:16Z",
+      "reported_at": "2026-02-12T05:35:46Z"
     },
     {
       "id": "c30141a3-ef59-4cd9-a13d-590d789a69d0",
@@ -37,8 +77,18 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Aldgate",
       "type": "mobile",
-      "timestamp": "2026-02-12T05:30:16Z",
+      "timestamp": "2026-02-12T06:00:16Z",
       "reported_at": "2026-02-12T03:09:48Z"
+    },
+    {
+      "id": "b11796aa-fb57-4742-b79b-f2aa883182ad",
+      "latitude": -34.943453,
+      "longitude": 138.642718,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenside",
+      "type": "mobile",
+      "timestamp": "2026-02-12T06:00:16Z",
+      "reported_at": "2026-02-12T05:41:45Z"
     },
     {
       "id": "8c450ed4-890d-4fdc-90e5-f2a32ddb606e",
@@ -47,18 +97,8 @@
       "street": "R1 - Richmond Rd (City Ring Route)",
       "city": "Mile End South",
       "type": "mobile",
-      "timestamp": "2026-02-12T05:30:16Z",
+      "timestamp": "2026-02-12T06:00:16Z",
       "reported_at": "2026-02-12T04:08:33Z"
-    },
-    {
-      "id": "2c3888ab-f0ae-49a2-b1ce-eb9ffb4439bb",
-      "latitude": -34.769063,
-      "longitude": 138.677224,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-12T05:30:16Z",
-      "reported_at": "2026-02-12T05:22:54Z"
     }
   ]
 }
