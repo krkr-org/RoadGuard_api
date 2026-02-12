@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "fc2d526a-7229-4d70-9935-d78a340c05d7",
+      "latitude": -34.930926,
+      "longitude": 138.626759,
+      "street": "Alexandra Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T05:00:16Z",
+      "reported_at": "2026-02-12T01:40:19Z"
+    },
+    {
       "id": "051c3c47-3108-482b-ba46-72d55c32774d",
       "latitude": -35.062771,
       "longitude": 138.512724,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
+      "timestamp": "2026-02-12T05:00:16Z",
       "reported_at": "2026-02-12T02:55:49Z"
-    },
-    {
-      "id": "f5d2daa3-3986-4a7b-8b81-1d7e3b215e37",
-      "latitude": -35.128517,
-      "longitude": 138.498239,
-      "street": "Morton Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-12T00:44:30Z"
     },
     {
       "id": "e5c1d81e-0318-4ea2-888f-3fb04ce632d7",
@@ -27,38 +27,18 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
+      "timestamp": "2026-02-12T05:00:16Z",
       "reported_at": "2026-02-12T02:42:24Z"
     },
     {
-      "id": "84670a24-8d7b-423d-9aa5-96155311b98c",
-      "latitude": -35.077204,
-      "longitude": 138.563481,
+      "id": "a4184648-3356-4be0-918a-bb1c98b42758",
+      "latitude": -35.077347,
+      "longitude": 138.563492,
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-11T23:24:27Z"
-    },
-    {
-      "id": "0d88321c-16ed-4490-894d-9cc77760483b",
-      "latitude": -34.811986,
-      "longitude": 138.501377,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-12T03:53:14Z"
-    },
-    {
-      "id": "12a670b1-a2f0-4f34-9631-65bc85a986ee",
-      "latitude": -34.83566,
-      "longitude": 138.501746,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
-      "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-12T04:18:11Z"
+      "timestamp": "2026-02-12T05:00:16Z",
+      "reported_at": "2026-02-11T23:17:05Z"
     },
     {
       "id": "c30141a3-ef59-4cd9-a13d-590d789a69d0",
@@ -67,7 +47,7 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Aldgate",
       "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
+      "timestamp": "2026-02-12T05:00:16Z",
       "reported_at": "2026-02-12T03:09:48Z"
     },
     {
@@ -77,38 +57,8 @@
       "street": "R1 - Richmond Rd (City Ring Route)",
       "city": "Mile End South",
       "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
+      "timestamp": "2026-02-12T05:00:16Z",
       "reported_at": "2026-02-12T04:08:33Z"
-    },
-    {
-      "id": "48caddaf-e9ca-4287-b4aa-779cd8f080b2",
-      "latitude": -34.921468,
-      "longitude": 138.579128,
-      "street": "R1 - James Congdon Dr (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-12T04:01:17Z"
-    },
-    {
-      "id": "ae80a879-124a-4c50-b211-12271d97a4fe",
-      "latitude": -34.994134,
-      "longitude": 138.697424,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-12T04:26:42Z"
-    },
-    {
-      "id": "e2ee76a5-33c8-4a4b-b7bd-95311a32e0b1",
-      "latitude": -35.085716,
-      "longitude": 138.541704,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-12T04:30:14Z",
-      "reported_at": "2026-02-12T03:38:33Z"
     }
   ]
 }
