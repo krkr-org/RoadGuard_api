@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "fa4f6b4b-aadc-43d9-8632-0d46df346726",
-      "latitude": -34.805191,
-      "longitude": 138.614421,
-      "street": "Central Link",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
-      "reported_at": "2026-02-12T00:14:09Z"
-    },
-    {
-      "id": "411e1eef-a021-4a99-83fb-60785e17f84b",
-      "latitude": -35.131548,
-      "longitude": 138.498474,
-      "street": "Morton Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
-      "reported_at": "2026-02-11T22:06:47Z"
-    },
-    {
       "id": "9a79046e-ac0c-404b-9190-2354cf27444a",
       "latitude": -35.062619,
       "longitude": 138.514783,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
+      "timestamp": "2026-02-12T01:00:15Z",
       "reported_at": "2026-02-11T21:35:27Z"
     },
     {
-      "id": "60363e66-5837-47b1-ba28-7be0f53cd53b",
-      "latitude": -35.072611,
-      "longitude": 138.603742,
+      "id": "7fe56538-ff01-4fc2-b93d-2047ad15002b",
+      "latitude": -35.072879,
+      "longitude": 138.599572,
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
-      "reported_at": "2026-02-11T22:09:57Z"
+      "timestamp": "2026-02-12T01:00:15Z",
+      "reported_at": "2026-02-11T21:36:00Z"
+    },
+    {
+      "id": "5d5bbec9-0c07-4b42-b728-963f2bfd90f4",
+      "latitude": -34.778333,
+      "longitude": 138.611533,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-12T01:00:15Z",
+      "reported_at": "2026-02-12T00:39:03Z"
     },
     {
       "id": "1bb6cf63-3ddd-4f49-899d-978d7e374b81",
@@ -47,7 +37,7 @@
       "street": "Unknown Street",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
+      "timestamp": "2026-02-12T01:00:15Z",
       "reported_at": "2026-02-11T22:15:20Z"
     },
     {
@@ -57,18 +47,38 @@
       "street": "Chandlers Hill Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
+      "timestamp": "2026-02-12T01:00:15Z",
       "reported_at": "2026-02-11T23:17:05Z"
     },
     {
-      "id": "0d8e2f73-fd94-42ba-be7a-6d609ff08e50",
-      "latitude": -35.05544,
-      "longitude": 138.577061,
+      "id": "3919b8b6-29ab-4369-9f12-6e4197235397",
+      "latitude": -35.05658,
+      "longitude": 138.57775,
       "street": "Happy Valley Dr",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
-      "reported_at": "2026-02-11T21:29:14Z"
+      "timestamp": "2026-02-12T01:00:15Z",
+      "reported_at": "2026-02-11T21:32:55Z"
+    },
+    {
+      "id": "bc0319cf-bf39-47bd-971d-49a8413c9c3a",
+      "latitude": -35.070203,
+      "longitude": 138.599144,
+      "street": "Hub Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-02-12T01:00:15Z",
+      "reported_at": "2026-02-11T21:53:55Z"
+    },
+    {
+      "id": "0624ff6c-b975-4310-abbc-78a87b8187e1",
+      "latitude": -34.831693,
+      "longitude": 138.594086,
+      "street": "Churchill Rd North",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-02-12T01:00:15Z",
+      "reported_at": "2026-02-12T00:36:41Z"
     },
     {
       "id": "86244504-1171-4185-9220-cc197e00dc7f",
@@ -77,18 +87,18 @@
       "street": "Bolivar Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
+      "timestamp": "2026-02-12T01:00:15Z",
       "reported_at": "2026-02-11T23:41:59Z"
     },
     {
-      "id": "fa7b62bb-d8bb-48e1-b3f0-86b39e77ca18",
-      "latitude": -35.081771,
-      "longitude": 138.513074,
+      "id": "c74740ec-1590-4896-948d-df2e035f4a02",
+      "latitude": -35.085095,
+      "longitude": 138.507835,
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
-      "reported_at": "2026-02-11T21:56:05Z"
+      "timestamp": "2026-02-12T01:00:15Z",
+      "reported_at": "2026-02-12T00:43:14Z"
     },
     {
       "id": "a4ade114-b526-4046-ab50-e48e1f03bc7e",
@@ -97,27 +107,17 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
+      "timestamp": "2026-02-12T01:00:15Z",
       "reported_at": "2026-02-11T23:29:59Z"
     },
     {
-      "id": "68844b00-cdfa-491a-a911-ed8a42bb0642",
-      "latitude": -34.768497,
-      "longitude": 138.675552,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
-      "reported_at": "2026-02-12T00:11:05Z"
-    },
-    {
       "id": "f116d7b4-d42b-499c-8542-1fe7cc1f892d",
-      "latitude": -35.046806,
-      "longitude": 138.549661,
+      "latitude": -35.045913,
+      "longitude": 138.550507,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-12T00:30:16Z",
+      "timestamp": "2026-02-12T01:00:15Z",
       "reported_at": "2026-02-11T23:53:07Z"
     }
   ]
