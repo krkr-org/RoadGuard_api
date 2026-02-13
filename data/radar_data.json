@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "47ff6ecf-1f75-42b7-bebd-041968b0ec9d",
-      "latitude": -34.876893,
-      "longitude": 138.551077,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2026-02-13T14:30:15Z",
-      "reported_at": "2026-02-13T11:43:48Z"
-    },
-    {
       "id": "8cf0a6af-7b79-45e8-bef2-1721e77da99a",
       "latitude": -34.992525,
       "longitude": 138.582637,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-13T14:30:15Z",
+      "timestamp": "2026-02-13T15:00:17Z",
       "reported_at": "2026-02-13T11:46:08Z"
-    },
-    {
-      "id": "4136d8c8-100a-47ee-9b10-e0dfb6b6660c",
-      "latitude": -34.993955,
-      "longitude": 138.521154,
-      "street": "A15 - Brighton Rd",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-02-13T14:30:15Z",
-      "reported_at": "2026-02-13T14:00:06Z"
-    },
-    {
-      "id": "785b4ec1-8df1-4a36-b676-a85763466ce5",
-      "latitude": -34.847975,
-      "longitude": 138.603766,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-13T14:30:15Z",
-      "reported_at": "2026-02-13T14:08:36Z"
-    },
-    {
-      "id": "1712a9c5-c782-46aa-b482-6817aaa768e7",
-      "latitude": -34.790123,
-      "longitude": 138.596554,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-02-13T14:30:15Z",
-      "reported_at": "2026-02-13T10:18:00Z"
     }
   ]
 }
