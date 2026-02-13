@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "864d934f-d000-4727-a249-76b8581196f5",
+      "latitude": -34.8494,
+      "longitude": 138.508027,
+      "street": "Unknown Street",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-13T00:00:15Z",
+      "reported_at": "2026-02-12T22:46:18Z"
+    },
+    {
       "id": "384bd840-9b15-41d5-89c1-7f4dba6f46fa",
       "latitude": -34.891841,
       "longitude": 138.504594,
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
+      "timestamp": "2026-02-13T00:00:15Z",
       "reported_at": "2026-02-12T22:16:10Z"
-    },
-    {
-      "id": "35bbd6f9-696d-4a69-b635-55a995448327",
-      "latitude": -35.106398,
-      "longitude": 138.794581,
-      "street": "Meadows Rd",
-      "city": "Echunga",
-      "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
-      "reported_at": "2026-02-12T22:10:21Z"
-    },
-    {
-      "id": "2ca079fa-02be-450f-bff3-c93abdb0ec65",
-      "latitude": -34.906105,
-      "longitude": 138.520671,
-      "street": "Grange Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
-      "reported_at": "2026-02-12T22:35:47Z"
     },
     {
       "id": "95617102-1873-4344-b108-aa93b5a21a09",
@@ -37,8 +27,18 @@
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
+      "timestamp": "2026-02-13T00:00:15Z",
       "reported_at": "2026-02-12T22:09:20Z"
+    },
+    {
+      "id": "35bbd6f9-696d-4a69-b635-55a995448327",
+      "latitude": -35.106398,
+      "longitude": 138.794581,
+      "street": "Meadows Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-02-13T00:00:15Z",
+      "reported_at": "2026-02-12T22:10:21Z"
     },
     {
       "id": "3c961bbd-5a90-4f5b-959e-22ee107079ed",
@@ -47,18 +47,8 @@
       "street": "A16 - Victoria Rd",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
+      "timestamp": "2026-02-13T00:00:15Z",
       "reported_at": "2026-02-12T23:24:38Z"
-    },
-    {
-      "id": "13ac303a-a680-430e-9ae5-290e616a1d18",
-      "latitude": -34.985126,
-      "longitude": 138.806857,
-      "street": "B26 - Greenhill Rd",
-      "city": "Balhannah",
-      "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
-      "reported_at": "2026-02-12T22:25:51Z"
     },
     {
       "id": "fdabb9c3-244a-493e-81ce-ee6fedaff6e9",
@@ -67,18 +57,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
+      "timestamp": "2026-02-13T00:00:15Z",
       "reported_at": "2026-02-12T23:23:37Z"
     },
     {
-      "id": "81a5efe5-19a4-44e5-9390-d828cfac1c35",
-      "latitude": -34.732675,
-      "longitude": 138.576581,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
+      "id": "13ac303a-a680-430e-9ae5-290e616a1d18",
+      "latitude": -34.985126,
+      "longitude": 138.806857,
+      "street": "B26 - Greenhill Rd",
+      "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-12T23:30:15Z",
-      "reported_at": "2026-02-12T22:56:45Z"
+      "timestamp": "2026-02-13T00:00:15Z",
+      "reported_at": "2026-02-12T22:25:51Z"
     }
   ]
 }
