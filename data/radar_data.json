@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "d7a1508a-4bd5-4355-a278-83a67455e100",
-      "latitude": -34.912718,
-      "longitude": 138.513009,
-      "street": "Marlborough St",
-      "city": "Fulham Gardens",
+      "id": "6b792779-9b65-4199-9707-776027f0e8a9",
+      "latitude": -34.861741,
+      "longitude": 138.52623,
+      "street": "Torrens Rd",
+      "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:40:55Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:26:54Z"
     },
     {
-      "id": "e44e4ae6-ae3d-4545-a5a4-ec156f2e0ccf",
-      "latitude": -34.851329,
-      "longitude": 138.516893,
-      "street": "Gray Tce",
-      "city": "Rosewater",
+      "id": "5b0c9564-ad6f-4ddb-8dd7-291b341980cd",
+      "latitude": -34.794624,
+      "longitude": 138.491419,
+      "street": "Unknown Street",
+      "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:18:03Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T04:33:55Z"
     },
     {
-      "id": "d866207c-41a4-4104-bdf7-f8c5c3b44cc7",
-      "latitude": -34.79671,
-      "longitude": 138.491706,
-      "street": "Lady Gowrie Dr",
-      "city": "Osborne",
+      "id": "8e4c0cf7-661e-47f5-84fc-bafbf14d8a55",
+      "latitude": -34.890625,
+      "longitude": 138.487513,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:09:15Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:25:31Z"
+    },
+    {
+      "id": "0a2e86ba-7d8b-419e-bfe8-32ab357022ce",
+      "latitude": -34.845888,
+      "longitude": 138.49047,
+      "street": "Hart St",
+      "city": "Glanville",
+      "type": "mobile",
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T04:45:21Z"
     },
     {
       "id": "163777b4-9c89-43c8-b9a6-1ed45610abef",
@@ -37,8 +47,18 @@
       "street": "Lady Gowrie Dr",
       "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
+      "timestamp": "2026-02-13T05:30:16Z",
       "reported_at": "2026-02-13T03:33:38Z"
+    },
+    {
+      "id": "d866207c-41a4-4104-bdf7-f8c5c3b44cc7",
+      "latitude": -34.79671,
+      "longitude": 138.491706,
+      "street": "Lady Gowrie Dr",
+      "city": "Osborne",
+      "type": "mobile",
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T04:09:15Z"
     },
     {
       "id": "15eb0235-067b-4a7f-aa94-2392bbfb475d",
@@ -47,18 +67,18 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
+      "timestamp": "2026-02-13T05:30:16Z",
       "reported_at": "2026-02-13T03:45:19Z"
     },
     {
-      "id": "f86c2073-7ad8-4eae-b9f4-f65e5ede097f",
-      "latitude": -34.818542,
-      "longitude": 138.670656,
+      "id": "10a25b54-18ff-4bbf-97f0-d7704785cb8b",
+      "latitude": -34.818466,
+      "longitude": 138.672098,
       "street": "Milne Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T00:58:25Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T02:29:30Z"
     },
     {
       "id": "b412a1cc-4015-40da-8a06-450182226212",
@@ -67,28 +87,28 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
+      "timestamp": "2026-02-13T05:30:16Z",
       "reported_at": "2026-02-13T04:46:07Z"
     },
     {
-      "id": "ef2cff51-5528-4d10-bc02-34ff33a1be64",
-      "latitude": -34.773294,
-      "longitude": 138.714636,
-      "street": "Target Hill Rd",
-      "city": "Greenwith",
+      "id": "f3742110-60da-4433-844c-03d002f99f9a",
+      "latitude": -34.924447,
+      "longitude": 138.597253,
+      "street": "Currie St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:18:40Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:03:52Z"
     },
     {
-      "id": "205fe74b-75ae-4c74-93fe-a7170e34008c",
-      "latitude": -34.772212,
-      "longitude": 138.657662,
-      "street": "Park Tce",
-      "city": "Salisbury Plain",
+      "id": "f115647d-d6ab-4d5c-b698-19fbdecf2734",
+      "latitude": -34.753276,
+      "longitude": 138.648163,
+      "street": "Commercial Rd",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:32:19Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:04:16Z"
     },
     {
       "id": "2b47ec3d-8e17-4176-95b6-186bb96f9fa9",
@@ -97,48 +117,68 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
+      "timestamp": "2026-02-13T05:30:16Z",
       "reported_at": "2026-02-13T04:14:06Z"
     },
     {
-      "id": "d5986c0f-dd58-4eba-ab87-48a215f21167",
-      "latitude": -34.842874,
-      "longitude": 138.672658,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
+      "id": "c6090958-cbc1-47e2-a4ff-e0028beeaab3",
+      "latitude": -35.038323,
+      "longitude": 138.52495,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:57:50Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:14:07Z"
     },
     {
-      "id": "4b484eb2-0bf3-48bb-8013-fadb5d5755b1",
-      "latitude": -34.782594,
-      "longitude": 138.654797,
-      "street": "A20 - Main North Rd",
-      "city": "Brahma Lodge",
-      "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T02:57:16Z"
-    },
-    {
-      "id": "a3a45e20-c4fd-47eb-858d-240563d48381",
-      "latitude": -34.753437,
-      "longitude": 138.589694,
+      "id": "844f346f-5b86-4ed9-9550-374e12437b7c",
+      "latitude": -34.846843,
+      "longitude": 138.600185,
       "street": "A1 - Port Wakefield Rd",
-      "city": "Paralowie",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:40:35Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T04:45:18Z"
     },
     {
-      "id": "a33ab9b0-c47b-4aff-a462-bbd387e11e8f",
-      "latitude": -35.083595,
-      "longitude": 138.543578,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "b3efe424-bcfb-4801-bea2-5df30e150602",
+      "latitude": -34.86598,
+      "longitude": 138.516884,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-13T05:00:16Z",
-      "reported_at": "2026-02-13T04:54:16Z"
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:20:51Z"
+    },
+    {
+      "id": "a4e6a4f8-0fba-4df1-ba93-05ece04309bf",
+      "latitude": -34.898825,
+      "longitude": 138.561914,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:00:28Z"
+    },
+    {
+      "id": "c9c66da5-ef49-484b-bec5-ed38aefd2416",
+      "latitude": -34.999414,
+      "longitude": 138.725104,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:26:59Z"
+    },
+    {
+      "id": "f8021f7b-984e-479b-80ca-f09c09d9cd04",
+      "latitude": -35.0337,
+      "longitude": 138.555835,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-13T05:30:16Z",
+      "reported_at": "2026-02-13T05:25:59Z"
     }
   ]
 }
