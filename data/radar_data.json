@@ -1,13 +1,53 @@
 {
   "radars": [
     {
+      "id": "9d7bebda-88a1-4051-9306-634bae7832bf",
+      "latitude": -34.89454,
+      "longitude": 138.679482,
+      "street": "Koonga Av",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T22:02:29Z"
+    },
+    {
+      "id": "2dd4ceb9-7edd-4b47-b176-172a70ef8456",
+      "latitude": -34.804028,
+      "longitude": 138.643756,
+      "street": "Afton Cr",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T22:55:32Z"
+    },
+    {
+      "id": "0e792138-a64f-44ac-a36b-5dfca96adbcf",
+      "latitude": -34.905858,
+      "longitude": 138.490044,
+      "street": "Esplanade",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T23:27:23Z"
+    },
+    {
+      "id": "9590f142-e945-47ca-851a-75fe878ebdfd",
+      "latitude": -34.858558,
+      "longitude": 138.565506,
+      "street": "Days Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T23:07:06Z"
+    },
+    {
       "id": "e8092dc5-2e3c-4041-95ff-0fee5e0c4b51",
       "latitude": -34.934127,
       "longitude": 138.668763,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
+      "timestamp": "2026-02-13T23:30:16Z",
       "reported_at": "2026-02-13T21:25:47Z"
     },
     {
@@ -17,18 +57,8 @@
       "street": "Dashwood Rd",
       "city": "Beaumont",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
+      "timestamp": "2026-02-13T23:30:16Z",
       "reported_at": "2026-02-13T20:57:55Z"
-    },
-    {
-      "id": "c6c072c6-5500-40fe-8484-dcae2193ace5",
-      "latitude": -34.71271,
-      "longitude": 138.689175,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
-      "reported_at": "2026-02-13T22:38:36Z"
     },
     {
       "id": "50a7284c-b293-4a1a-83ac-9908853b4c6f",
@@ -37,28 +67,28 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
+      "timestamp": "2026-02-13T23:30:16Z",
       "reported_at": "2026-02-13T22:19:48Z"
     },
     {
-      "id": "5dcdf325-abaa-4a4d-b4c7-b8675ece6e87",
-      "latitude": -34.925814,
-      "longitude": 138.66328,
+      "id": "a7b9f8d6-570b-4db6-9ddd-7957c0897fed",
+      "latitude": -34.925864,
+      "longitude": 138.662265,
       "street": "Kensington Rd",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
-      "reported_at": "2026-02-13T22:11:17Z"
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T21:03:10Z"
     },
     {
-      "id": "03ab3c1f-de98-4f9f-8bbb-ff8e680d8d2c",
-      "latitude": -35.101855,
-      "longitude": 138.61028,
-      "street": "Grants Gully Rd",
-      "city": "Clarendon",
+      "id": "2083f5d4-02d6-4e1f-a9c8-a86f38e9679e",
+      "latitude": -34.710813,
+      "longitude": 138.662489,
+      "street": "Winterslow Rd",
+      "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
-      "reported_at": "2026-02-13T22:40:35Z"
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T23:14:11Z"
     },
     {
       "id": "68073884-6ff7-4211-943f-8ae6d61a706a",
@@ -67,18 +97,28 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
+      "timestamp": "2026-02-13T23:30:16Z",
       "reported_at": "2026-02-13T21:01:43Z"
     },
     {
-      "id": "c618a118-d0de-4309-970a-65b33fbc3135",
-      "latitude": -34.922791,
-      "longitude": 138.616206,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "0770ca32-0d29-4ffb-9c9e-77cc3f549610",
+      "latitude": -34.787865,
+      "longitude": 138.618703,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
-      "reported_at": "2026-02-13T22:10:05Z"
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T23:25:30Z"
+    },
+    {
+      "id": "b73c8d5c-5301-4919-9395-e3d1ba384594",
+      "latitude": -34.966166,
+      "longitude": 138.648127,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-13T23:30:16Z",
+      "reported_at": "2026-02-13T23:24:23Z"
     },
     {
       "id": "45b3c016-b9cf-4b40-87b4-34ae1533adfb",
@@ -87,7 +127,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:00:15Z",
+      "timestamp": "2026-02-13T23:30:16Z",
       "reported_at": "2026-02-13T22:58:12Z"
     }
   ]
