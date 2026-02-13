@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "e49fae13-591b-4acf-9443-1a1cffa714fc",
-      "latitude": -34.794067,
-      "longitude": 138.601773,
-      "street": "George St",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-02-13T21:30:15Z",
-      "reported_at": "2026-02-13T21:10:10Z"
-    },
-    {
       "id": "e8092dc5-2e3c-4041-95ff-0fee5e0c4b51",
       "latitude": -34.934127,
       "longitude": 138.668763,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-13T21:30:15Z",
+      "timestamp": "2026-02-13T22:00:17Z",
       "reported_at": "2026-02-13T21:25:47Z"
+    },
+    {
+      "id": "97d4851b-0a0a-45e6-b22b-aecacbea7fc3",
+      "latitude": -34.933248,
+      "longitude": 138.651578,
+      "street": "Tusmore Av",
+      "city": "Tusmore",
+      "type": "mobile",
+      "timestamp": "2026-02-13T22:00:17Z",
+      "reported_at": "2026-02-13T20:45:05Z"
+    },
+    {
+      "id": "a7b9f8d6-570b-4db6-9ddd-7957c0897fed",
+      "latitude": -34.925864,
+      "longitude": 138.662265,
+      "street": "Kensington Rd",
+      "city": "Kensington Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-13T22:00:17Z",
+      "reported_at": "2026-02-13T21:03:10Z"
     },
     {
       "id": "2c121360-b64f-46e8-8622-8ac9bbe0bd67",
@@ -27,18 +37,8 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-13T21:30:15Z",
+      "timestamp": "2026-02-13T22:00:17Z",
       "reported_at": "2026-02-13T20:59:46Z"
-    },
-    {
-      "id": "130042d2-4cf6-484e-8027-592e80d66645",
-      "latitude": -34.862994,
-      "longitude": 138.601183,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-02-13T21:30:15Z",
-      "reported_at": "2026-02-13T21:09:27Z"
     }
   ]
 }
