@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "33e3b877-aa05-45dd-8ec6-3a14f809bbe9",
+      "latitude": -34.953568,
+      "longitude": 138.507908,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-13T01:00:17Z",
+      "reported_at": "2026-02-13T00:36:18Z"
+    },
+    {
       "id": "864d934f-d000-4727-a249-76b8581196f5",
       "latitude": -34.8494,
       "longitude": 138.508027,
       "street": "Unknown Street",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-13T00:30:14Z",
+      "timestamp": "2026-02-13T01:00:17Z",
       "reported_at": "2026-02-12T22:46:18Z"
     },
     {
@@ -17,28 +27,8 @@
       "street": "Meadows Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-02-13T00:30:14Z",
+      "timestamp": "2026-02-13T01:00:17Z",
       "reported_at": "2026-02-12T22:10:21Z"
-    },
-    {
-      "id": "4c4408e2-f11b-43f5-a64f-604aaf58e425",
-      "latitude": -34.912549,
-      "longitude": 138.630022,
-      "street": "Nelson St",
-      "city": "Stepney",
-      "type": "mobile",
-      "timestamp": "2026-02-13T00:30:14Z",
-      "reported_at": "2026-02-13T00:05:00Z"
-    },
-    {
-      "id": "95617102-1873-4344-b108-aa93b5a21a09",
-      "latitude": -34.818479,
-      "longitude": 138.671839,
-      "street": "Milne Rd",
-      "city": "Modbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-13T00:30:14Z",
-      "reported_at": "2026-02-12T22:09:20Z"
     },
     {
       "id": "3c961bbd-5a90-4f5b-959e-22ee107079ed",
@@ -47,18 +37,38 @@
       "street": "A16 - Victoria Rd",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-02-13T00:30:14Z",
+      "timestamp": "2026-02-13T01:00:17Z",
       "reported_at": "2026-02-12T23:24:38Z"
     },
     {
-      "id": "53a986ca-1201-4057-bde3-e3c014031860",
-      "latitude": -34.985086,
-      "longitude": 138.806027,
+      "id": "13ac303a-a680-430e-9ae5-290e616a1d18",
+      "latitude": -34.985126,
+      "longitude": 138.806857,
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-13T00:30:14Z",
-      "reported_at": "2026-02-12T23:09:39Z"
+      "timestamp": "2026-02-13T01:00:17Z",
+      "reported_at": "2026-02-12T22:25:51Z"
+    },
+    {
+      "id": "b0606135-ae94-4076-b23c-68edd20b478b",
+      "latitude": -34.928164,
+      "longitude": 138.517585,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-02-13T01:00:17Z",
+      "reported_at": "2026-02-13T00:54:23Z"
+    },
+    {
+      "id": "f452406d-b875-4fd3-a4c8-49569a3976c5",
+      "latitude": -34.724473,
+      "longitude": 138.579753,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-02-13T01:00:17Z",
+      "reported_at": "2026-02-13T00:11:32Z"
     }
   ]
 }
