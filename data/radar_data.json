@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "8caaa85f-28bb-472b-88f2-3902f41b8233",
-      "latitude": -34.901945,
-      "longitude": 138.57565,
-      "street": "Chief St",
-      "city": "Brompton",
+      "id": "ad377d7a-1d9d-4c72-9f8e-af59c4d7cf41",
+      "latitude": -34.825658,
+      "longitude": 138.497112,
+      "street": "Jetty Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T06:15:34Z"
-    },
-    {
-      "id": "6b792779-9b65-4199-9707-776027f0e8a9",
-      "latitude": -34.861741,
-      "longitude": 138.52623,
-      "street": "Torrens Rd",
-      "city": "Pennington",
-      "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T05:26:54Z"
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T06:49:16Z"
     },
     {
       "id": "bd198dda-ff0d-4c3f-8bf3-d9afabbf6fd4",
@@ -27,8 +17,28 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
+      "timestamp": "2026-02-13T07:30:16Z",
       "reported_at": "2026-02-13T06:35:06Z"
+    },
+    {
+      "id": "6b792779-9b65-4199-9707-776027f0e8a9",
+      "latitude": -34.861741,
+      "longitude": 138.52623,
+      "street": "Torrens Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T05:26:54Z"
+    },
+    {
+      "id": "f67aa751-b468-45a5-8e07-feba3cedcf36",
+      "latitude": -34.901617,
+      "longitude": 138.575975,
+      "street": "Chief St",
+      "city": "Brompton",
+      "type": "mobile",
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T05:45:19Z"
     },
     {
       "id": "5b0c9564-ad6f-4ddb-8dd7-291b341980cd",
@@ -37,18 +47,8 @@
       "street": "Unknown Street",
       "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
+      "timestamp": "2026-02-13T07:30:16Z",
       "reported_at": "2026-02-13T04:33:55Z"
-    },
-    {
-      "id": "d79fab96-8fa2-438c-b283-c75622e1e250",
-      "latitude": -34.891705,
-      "longitude": 138.487885,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T06:40:47Z"
     },
     {
       "id": "0a2e86ba-7d8b-419e-bfe8-32ab357022ce",
@@ -57,18 +57,8 @@
       "street": "Hart St",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
+      "timestamp": "2026-02-13T07:30:16Z",
       "reported_at": "2026-02-13T04:45:21Z"
-    },
-    {
-      "id": "163777b4-9c89-43c8-b9a6-1ed45610abef",
-      "latitude": -34.795774,
-      "longitude": 138.491595,
-      "street": "Lady Gowrie Dr",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T03:33:38Z"
     },
     {
       "id": "d866207c-41a4-4104-bdf7-f8c5c3b44cc7",
@@ -77,8 +67,28 @@
       "street": "Lady Gowrie Dr",
       "city": "Osborne",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
+      "timestamp": "2026-02-13T07:30:16Z",
       "reported_at": "2026-02-13T04:09:15Z"
+    },
+    {
+      "id": "163777b4-9c89-43c8-b9a6-1ed45610abef",
+      "latitude": -34.795774,
+      "longitude": 138.491595,
+      "street": "Lady Gowrie Dr",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T03:33:38Z"
+    },
+    {
+      "id": "90e6a878-a646-4fae-8814-acf927ac3254",
+      "latitude": -34.891609,
+      "longitude": 138.518903,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T06:44:11Z"
     },
     {
       "id": "15eb0235-067b-4a7f-aa94-2392bbfb475d",
@@ -87,28 +97,18 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
+      "timestamp": "2026-02-13T07:30:16Z",
       "reported_at": "2026-02-13T03:45:19Z"
     },
     {
-      "id": "e5000035-9376-4559-9c0c-95e544638f49",
-      "latitude": -34.891465,
-      "longitude": 138.521915,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
+      "id": "3416c8c6-40f6-47b7-8a4f-5c748d2e7503",
+      "latitude": -35.099504,
+      "longitude": 138.5327,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T05:55:19Z"
-    },
-    {
-      "id": "a8cfa5ee-811f-46af-92f6-2799a61a4a18",
-      "latitude": -34.684988,
-      "longitude": 138.627142,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T06:20:24Z"
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T06:57:25Z"
     },
     {
       "id": "2b47ec3d-8e17-4176-95b6-186bb96f9fa9",
@@ -117,48 +117,28 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
+      "timestamp": "2026-02-13T07:30:16Z",
       "reported_at": "2026-02-13T04:14:06Z"
     },
     {
-      "id": "febf712c-6157-46c9-8411-a77ec31c155a",
-      "latitude": -35.073452,
-      "longitude": 138.524068,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
+      "id": "025922f4-a8b5-4a90-ac35-a570abeced8e",
+      "latitude": -34.820333,
+      "longitude": 138.67802,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T06:50:05Z"
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T07:22:15Z"
     },
     {
-      "id": "0336fd25-7120-4554-869b-719ac1e65f39",
-      "latitude": -34.898094,
-      "longitude": 138.560806,
+      "id": "a4e6a4f8-0fba-4df1-ba93-05ece04309bf",
+      "latitude": -34.898825,
+      "longitude": 138.561914,
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T05:26:12Z"
-    },
-    {
-      "id": "3101e951-d0ed-4d54-b3e7-810a062badeb",
-      "latitude": -34.932332,
-      "longitude": 138.641926,
-      "street": "A17 - Portrush Rd",
-      "city": "Toorak Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T06:45:40Z"
-    },
-    {
-      "id": "c04b5ed6-f84f-4193-aa77-2a04f6513c27",
-      "latitude": -34.684605,
-      "longitude": 138.692851,
-      "street": "A20 - Main North Rd",
-      "city": "Blakeview",
-      "type": "mobile",
-      "timestamp": "2026-02-13T07:00:17Z",
-      "reported_at": "2026-02-13T06:47:31Z"
+      "timestamp": "2026-02-13T07:30:16Z",
+      "reported_at": "2026-02-13T05:00:28Z"
     }
   ]
 }
