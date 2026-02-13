@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "767f1db7-4ef7-46ff-8fc8-60372d092fec",
-      "latitude": -34.844114,
-      "longitude": 138.619995,
-      "street": "Laing St",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
-      "reported_at": "2026-02-13T07:46:28Z"
-    },
-    {
       "id": "7b7a1e93-5969-4052-88a0-8ef124499e0f",
       "latitude": -34.746606,
       "longitude": 138.613388,
       "street": "Sandown Av",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T10:05:45Z"
+    },
+    {
+      "id": "24f06f0a-2743-4f62-9773-a412f40eea31",
+      "latitude": -34.796409,
+      "longitude": 138.648911,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-13T12:00:16Z",
+      "reported_at": "2026-02-13T09:31:56Z"
     },
     {
       "id": "d5d20b2a-8a54-4fb3-9566-8e5f5b9b725d",
@@ -27,7 +27,7 @@
       "street": "Carlisle St",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T08:25:11Z"
     },
     {
@@ -37,8 +37,48 @@
       "street": "Clark Tce",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T08:39:47Z"
+    },
+    {
+      "id": "b132c217-8d9b-4cc9-b4de-ce9dacc95411",
+      "latitude": -34.935161,
+      "longitude": 138.538061,
+      "street": "James Schofield Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-02-13T12:00:16Z",
+      "reported_at": "2026-02-13T11:36:39Z"
+    },
+    {
+      "id": "8a28f158-1218-463d-9c56-a0ec9385b1c2",
+      "latitude": -34.726396,
+      "longitude": 138.67927,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-02-13T12:00:16Z",
+      "reported_at": "2026-02-13T11:29:41Z"
+    },
+    {
+      "id": "8cf0a6af-7b79-45e8-bef2-1721e77da99a",
+      "latitude": -34.992525,
+      "longitude": 138.582637,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-13T12:00:16Z",
+      "reported_at": "2026-02-13T11:46:08Z"
+    },
+    {
+      "id": "47ff6ecf-1f75-42b7-bebd-041968b0ec9d",
+      "latitude": -34.876893,
+      "longitude": 138.551077,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2026-02-13T12:00:16Z",
+      "reported_at": "2026-02-13T11:43:48Z"
     },
     {
       "id": "0e9286cd-55c5-4971-9e2b-ce8cd893044d",
@@ -47,28 +87,8 @@
       "street": "Grote St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T11:21:58Z"
-    },
-    {
-      "id": "89815048-3caf-48c2-ae20-aacd3f4fcf11",
-      "latitude": -34.890831,
-      "longitude": 138.487585,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
-      "reported_at": "2026-02-13T07:06:33Z"
-    },
-    {
-      "id": "27c1f5db-615a-42bd-9199-b7b365f4967e",
-      "latitude": -34.868932,
-      "longitude": 138.516995,
-      "street": "Old Port Rd",
-      "city": "Albert Park",
-      "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
-      "reported_at": "2026-02-13T10:57:36Z"
     },
     {
       "id": "5ac75eef-8036-44b1-8137-dd1501d7394e",
@@ -77,7 +97,7 @@
       "street": "Esplanade",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T09:37:40Z"
     },
     {
@@ -87,8 +107,18 @@
       "street": "A11 - Hancock Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T08:01:47Z"
+    },
+    {
+      "id": "4c91caa6-8cc2-4fb1-96f8-67fbbbca54ee",
+      "latitude": -34.806148,
+      "longitude": 138.666994,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2026-02-13T12:00:16Z",
+      "reported_at": "2026-02-13T11:41:18Z"
     },
     {
       "id": "1712a9c5-c782-46aa-b482-6817aaa768e7",
@@ -97,7 +127,7 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Green Fields",
       "type": "mobile",
-      "timestamp": "2026-02-13T11:30:14Z",
+      "timestamp": "2026-02-13T12:00:16Z",
       "reported_at": "2026-02-13T10:18:00Z"
     }
   ]
