@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "ad377d7a-1d9d-4c72-9f8e-af59c4d7cf41",
+      "latitude": -34.825658,
+      "longitude": 138.497112,
+      "street": "Jetty Rd",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T06:49:16Z"
+    },
+    {
       "id": "2a47aff7-df8b-497a-86bd-0eb5fb06f9a5",
       "latitude": -34.848665,
       "longitude": 138.485404,
       "street": "Swan Tce",
       "city": "Semaphore South",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T06:32:56Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Carlisle St",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T08:25:11Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T05:26:54Z"
     },
     {
@@ -37,18 +47,8 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T05:45:19Z"
-    },
-    {
-      "id": "25b74341-da87-412f-ad4e-6cbb585e838f",
-      "latitude": -34.904103,
-      "longitude": 138.658583,
-      "street": "Arthur St",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
-      "reported_at": "2026-02-13T07:26:16Z"
     },
     {
       "id": "bd198dda-ff0d-4c3f-8bf3-d9afabbf6fd4",
@@ -57,38 +57,8 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T06:35:06Z"
-    },
-    {
-      "id": "9444ad7c-8a76-4ae9-97e1-dc04cceadcbe",
-      "latitude": -34.724385,
-      "longitude": 138.681361,
-      "street": "Midway Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
-      "reported_at": "2026-02-13T08:05:16Z"
-    },
-    {
-      "id": "5b0c9564-ad6f-4ddb-8dd7-291b341980cd",
-      "latitude": -34.794624,
-      "longitude": 138.491419,
-      "street": "Unknown Street",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
-      "reported_at": "2026-02-13T04:33:55Z"
-    },
-    {
-      "id": "0a2e86ba-7d8b-419e-bfe8-32ab357022ce",
-      "latitude": -34.845888,
-      "longitude": 138.49047,
-      "street": "Hart St",
-      "city": "Glanville",
-      "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
-      "reported_at": "2026-02-13T04:45:21Z"
     },
     {
       "id": "aa4125d3-fbe2-4690-b5c6-2641be277075",
@@ -97,28 +67,48 @@
       "street": "Esplanade",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T07:10:17Z"
     },
     {
-      "id": "b966e0f0-058f-40f6-a5d1-2c1ae65c3d0b",
-      "latitude": -34.891194,
-      "longitude": 138.487833,
+      "id": "d79fab96-8fa2-438c-b283-c75622e1e250",
+      "latitude": -34.891705,
+      "longitude": 138.487885,
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
-      "reported_at": "2026-02-13T07:21:48Z"
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T06:40:47Z"
     },
     {
-      "id": "35aede99-9e39-4ade-9ab2-8a8005c03e07",
-      "latitude": -35.13665,
-      "longitude": 138.524851,
-      "street": "Doctors Rd",
-      "city": "Morphett Vale",
+      "id": "0a2e86ba-7d8b-419e-bfe8-32ab357022ce",
+      "latitude": -34.845888,
+      "longitude": 138.49047,
+      "street": "Hart St",
+      "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
-      "reported_at": "2026-02-13T08:21:12Z"
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T04:45:21Z"
+    },
+    {
+      "id": "311572aa-a2fa-4c6f-b4f4-0dc8fb2b9a09",
+      "latitude": -34.79517,
+      "longitude": 138.491532,
+      "street": "Lady Gowrie Dr",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T07:20:33Z"
+    },
+    {
+      "id": "b5883dd6-1a8a-41d4-80aa-649085940a48",
+      "latitude": -34.836101,
+      "longitude": 138.64527,
+      "street": "Walkleys Rd",
+      "city": "Walkley Heights",
+      "type": "mobile",
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T08:44:00Z"
     },
     {
       "id": "33d18d6f-f7b2-4458-8101-11548ca6b04d",
@@ -127,8 +117,28 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T07:30:31Z"
+    },
+    {
+      "id": "ad0aa2f5-0ac5-4336-b2ce-281f244f6279",
+      "latitude": -35.104857,
+      "longitude": 138.531397,
+      "street": "Pimpala Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T08:21:28Z"
+    },
+    {
+      "id": "9fe518f8-14aa-49e6-b4f0-47548d9f8e8c",
+      "latitude": -34.827971,
+      "longitude": 138.719304,
+      "street": "A11 - Hancock Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T08:01:47Z"
     },
     {
       "id": "18199b2c-d699-435d-b6c1-429265bb3401",
@@ -137,8 +147,18 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-02-13T08:30:14Z",
+      "timestamp": "2026-02-13T09:00:18Z",
       "reported_at": "2026-02-13T08:19:30Z"
+    },
+    {
+      "id": "3adc60fd-f904-438d-b2ed-ffe51626d3eb",
+      "latitude": -34.923524,
+      "longitude": 138.617167,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-13T09:00:18Z",
+      "reported_at": "2026-02-13T08:51:51Z"
     }
   ]
 }
