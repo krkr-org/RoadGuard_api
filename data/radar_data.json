@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "5fc82e11-7a3d-457d-9726-e2c4343b843e",
-      "latitude": -34.904356,
-      "longitude": 138.595237,
-      "street": "O'Connell St",
-      "city": "North Adelaide",
+      "id": "2a6bf853-4eb4-4e24-ad8d-2722606fc3cc",
+      "latitude": -34.800191,
+      "longitude": 138.639525,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-14T22:00:18Z",
-      "reported_at": "2026-02-14T21:41:05Z"
+      "timestamp": "2026-02-14T22:30:14Z",
+      "reported_at": "2026-02-14T22:03:59Z"
     },
     {
-      "id": "6221a282-9137-49ff-950a-4e0fa59ef71e",
-      "latitude": -34.891537,
-      "longitude": 138.513739,
+      "id": "42c49173-b78e-48eb-aa4e-74a72aad17c1",
+      "latitude": -34.892,
+      "longitude": 138.513773,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-14T22:00:18Z",
-      "reported_at": "2026-02-14T20:24:22Z"
+      "timestamp": "2026-02-14T22:30:14Z",
+      "reported_at": "2026-02-14T21:01:36Z"
     },
     {
-      "id": "2a590c26-81a9-4413-af1e-c24aa3228fdd",
-      "latitude": -34.892769,
-      "longitude": 138.552752,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
+      "id": "8eac8fef-b67d-4f41-9ea3-f3a0bc3853bb",
+      "latitude": -34.691509,
+      "longitude": 138.566639,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-02-14T22:00:18Z",
-      "reported_at": "2026-02-14T16:29:25Z"
+      "timestamp": "2026-02-14T22:30:14Z",
+      "reported_at": "2026-02-14T21:55:48Z"
+    },
+    {
+      "id": "1c3a26f1-8430-41a2-a915-c79d068310c6",
+      "latitude": -34.840311,
+      "longitude": 138.516781,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-14T22:30:14Z",
+      "reported_at": "2026-02-14T22:13:45Z"
     }
   ]
 }
