@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e6590412-f99e-4bd6-a612-d0db9c8f9f72",
-      "latitude": -34.979776,
-      "longitude": 138.513858,
-      "street": "Sussex St",
-      "city": "Glenelg",
+      "id": "6136e4eb-326e-49c5-a8ed-531c7949e1b3",
+      "latitude": -34.995064,
+      "longitude": 138.513568,
+      "street": "Tarlton St",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:08:12Z"
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T06:03:33Z"
     },
     {
       "id": "09e6a4b7-1a95-4465-b5af-26dbafe02954",
@@ -17,18 +17,8 @@
       "street": "Sheoak Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T05:57:05Z"
-    },
-    {
-      "id": "6136e4eb-326e-49c5-a8ed-531c7949e1b3",
-      "latitude": -34.995064,
-      "longitude": 138.513568,
-      "street": "Tarlton St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T06:03:33Z"
     },
     {
       "id": "75e3bcf2-e64e-49db-afdf-d61a03ed0112",
@@ -37,18 +27,8 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T05:10:02Z"
-    },
-    {
-      "id": "0e1ffa49-beb7-4e38-8e12-6ff687700924",
-      "latitude": -35.024455,
-      "longitude": 138.550315,
-      "street": "Miller St",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T05:34:42Z"
     },
     {
       "id": "3171921e-4d5a-48ab-92d4-df50fba895cd",
@@ -57,7 +37,7 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T06:36:07Z"
     },
     {
@@ -67,7 +47,7 @@
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T06:03:02Z"
     },
     {
@@ -77,18 +57,48 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T06:35:24Z"
     },
     {
-      "id": "be6572eb-d52c-4b4a-b506-ed39d1a7c013",
-      "latitude": -35.014556,
-      "longitude": 138.576473,
+      "id": "016d34d4-f4fe-4f87-a9aa-5160cd16470a",
+      "latitude": -35.024696,
+      "longitude": 138.550336,
+      "street": "Miller St",
+      "city": "Seacombe Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T07:01:15Z"
+    },
+    {
+      "id": "a6dc16ae-b58c-4f62-b149-486a953c3071",
+      "latitude": -34.701526,
+      "longitude": 138.653299,
+      "street": "Stebonheath Rd",
+      "city": "Edinburgh North",
+      "type": "mobile",
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T07:26:59Z"
+    },
+    {
+      "id": "2ea57c7e-df87-4ed6-9df1-a057eb783d54",
+      "latitude": -35.015457,
+      "longitude": 138.576544,
       "street": "Shepherds Hill Rd",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T06:32:13Z"
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T07:38:36Z"
+    },
+    {
+      "id": "aacc161c-1322-486b-903a-c1654f864ddf",
+      "latitude": -35.01628,
+      "longitude": 138.574931,
+      "street": "Sturt Rd",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T07:25:43Z"
     },
     {
       "id": "8b60d9ce-86bb-469b-abcf-ebddc44c12a2",
@@ -97,88 +107,18 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T06:17:41Z"
     },
     {
-      "id": "b45f513c-d151-4888-8df3-ff309fc07e5a",
-      "latitude": -34.751373,
-      "longitude": 138.635294,
-      "street": "Bagster Rd",
-      "city": "Salisbury North",
+      "id": "82f6f077-9e8d-413b-a320-0418a90b8350",
+      "latitude": -34.796437,
+      "longitude": 138.654784,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:25:00Z"
-    },
-    {
-      "id": "67954b70-39ae-4f62-afa0-af46c0726eda",
-      "latitude": -34.92528,
-      "longitude": 138.504214,
-      "street": "Henley Beach Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:08:41Z"
-    },
-    {
-      "id": "b882a409-a17f-4cca-82e1-f0aaf629167a",
-      "latitude": -35.045252,
-      "longitude": 138.570628,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:10:46Z"
-    },
-    {
-      "id": "51ee335e-3aa5-4756-94dd-bd7347a55757",
-      "latitude": -35.069107,
-      "longitude": 138.630166,
-      "street": "Cherry Gardens Rd",
-      "city": "Cherry Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:02:54Z"
-    },
-    {
-      "id": "df369550-ed31-402a-b8ea-8937d9a33635",
-      "latitude": -35.068471,
-      "longitude": 138.529381,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:09:11Z"
-    },
-    {
-      "id": "7915f9ea-ed8e-42d5-b70d-c708652300aa",
-      "latitude": -34.877507,
-      "longitude": 138.628767,
-      "street": "A10 - North East Rd",
-      "city": "Klemzig",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:10:30Z"
-    },
-    {
-      "id": "3bdeebb2-340e-4e82-8b04-f79be1fededa",
-      "latitude": -34.898997,
-      "longitude": 138.59091,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:09:36Z"
-    },
-    {
-      "id": "818881ae-9d72-46c4-b6f2-909c311e7cc1",
-      "latitude": -34.896259,
-      "longitude": 138.551419,
-      "street": "A14 - East Av",
-      "city": "Beverley",
-      "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
-      "reported_at": "2026-02-14T07:13:24Z"
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T07:43:23Z"
     },
     {
       "id": "247325f8-9ec8-4035-9ac3-2bc94b2f0207",
@@ -187,8 +127,18 @@
       "street": "B29 - Main Rd",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-02-14T07:30:15Z",
+      "timestamp": "2026-02-14T08:00:15Z",
       "reported_at": "2026-02-14T04:59:13Z"
+    },
+    {
+      "id": "f61f1ed3-0ee2-4c07-b89d-f393b8a0e8ae",
+      "latitude": -34.899015,
+      "longitude": 138.592452,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-02-14T08:00:15Z",
+      "reported_at": "2026-02-14T07:26:50Z"
     }
   ]
 }
