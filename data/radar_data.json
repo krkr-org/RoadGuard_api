@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "2a590c26-81a9-4413-af1e-c24aa3228fdd",
-      "latitude": -34.892769,
-      "longitude": 138.552752,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
+      "id": "32364ce7-d637-4cbd-8a97-abf49ee5d3dd",
+      "latitude": -34.938098,
+      "longitude": 138.588645,
+      "street": "Goodwood Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-14T21:00:16Z",
-      "reported_at": "2026-02-14T16:29:25Z"
+      "timestamp": "2026-02-14T21:30:14Z",
+      "reported_at": "2026-02-14T21:12:39Z"
+    },
+    {
+      "id": "4505002c-8ab2-4754-b200-2e31f1e489f7",
+      "latitude": -34.921597,
+      "longitude": 138.596833,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-14T21:30:14Z",
+      "reported_at": "2026-02-14T20:58:55Z"
     },
     {
       "id": "6221a282-9137-49ff-950a-4e0fa59ef71e",
@@ -17,8 +27,28 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-14T21:00:16Z",
+      "timestamp": "2026-02-14T21:30:14Z",
       "reported_at": "2026-02-14T20:24:22Z"
+    },
+    {
+      "id": "cd8b50ae-72fe-4548-a05f-9b25d24eb9a5",
+      "latitude": -34.777395,
+      "longitude": 138.623397,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-14T21:30:14Z",
+      "reported_at": "2026-02-14T21:20:17Z"
+    },
+    {
+      "id": "2a590c26-81a9-4413-af1e-c24aa3228fdd",
+      "latitude": -34.892769,
+      "longitude": 138.552752,
+      "street": "A7 - Port Rd",
+      "city": "Allenby Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-14T21:30:14Z",
+      "reported_at": "2026-02-14T16:29:25Z"
     }
   ]
 }
