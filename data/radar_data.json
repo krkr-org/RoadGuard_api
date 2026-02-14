@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "50dfb7db-42bc-4989-9e71-f1736c5b4036",
-      "latitude": -34.933652,
-      "longitude": 138.651827,
-      "street": "Knightsbridge Rd",
-      "city": "Hazelwood Park",
-      "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
-      "reported_at": "2026-02-13T22:55:03Z"
-    },
-    {
       "id": "5f6a0211-36fc-4b28-974d-535ae30e1a03",
       "latitude": -34.894716,
       "longitude": 138.676223,
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
+      "timestamp": "2026-02-14T03:00:16Z",
       "reported_at": "2026-02-13T23:13:22Z"
     },
     {
@@ -27,18 +17,8 @@
       "street": "Lockwood Rd",
       "city": "Erindale",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
+      "timestamp": "2026-02-14T03:00:16Z",
       "reported_at": "2026-02-14T00:03:56Z"
-    },
-    {
-      "id": "468783c8-9a0f-4f16-a927-f9a7fd9e29e9",
-      "latitude": -35.090986,
-      "longitude": 138.575464,
-      "street": "Fraser Av",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
-      "reported_at": "2026-02-14T01:41:25Z"
     },
     {
       "id": "e8092dc5-2e3c-4041-95ff-0fee5e0c4b51",
@@ -47,8 +27,38 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
+      "timestamp": "2026-02-14T03:00:16Z",
       "reported_at": "2026-02-13T21:25:47Z"
+    },
+    {
+      "id": "b33c74e3-7210-4c1c-8044-6cd92ba87b62",
+      "latitude": -34.950971,
+      "longitude": 138.65352,
+      "street": "Dashwood Rd",
+      "city": "Beaumont",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:42:06Z"
+    },
+    {
+      "id": "a716201a-8e8a-4bf0-9863-fa878c978013",
+      "latitude": -34.93314,
+      "longitude": 138.651569,
+      "street": "Tusmore Av",
+      "city": "Tusmore",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-13T22:20:31Z"
+    },
+    {
+      "id": "468783c8-9a0f-4f16-a927-f9a7fd9e29e9",
+      "latitude": -35.090986,
+      "longitude": 138.575464,
+      "street": "Fraser Av",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T01:41:25Z"
     },
     {
       "id": "93d174cd-d409-40d5-8b80-59766dcd0d8b",
@@ -57,18 +67,48 @@
       "street": "Gilles Rd",
       "city": "Glen Osmond",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
+      "timestamp": "2026-02-14T03:00:16Z",
       "reported_at": "2026-02-13T23:24:14Z"
     },
     {
-      "id": "2b4bd883-b8bd-4421-81d4-21f115fef311",
-      "latitude": -35.125602,
-      "longitude": 138.486292,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
+      "id": "91f3d133-d575-4d70-900b-0f539203dbee",
+      "latitude": -34.941251,
+      "longitude": 138.61682,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
-      "reported_at": "2026-02-14T01:52:03Z"
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:40:44Z"
+    },
+    {
+      "id": "e95763f4-7a26-4e19-9c17-4b6479dc5195",
+      "latitude": -35.113122,
+      "longitude": 138.53543,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:53:51Z"
+    },
+    {
+      "id": "b821039c-fabd-4f19-9958-b0731ff1e802",
+      "latitude": -35.125881,
+      "longitude": 138.48618,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:37:13Z"
+    },
+    {
+      "id": "a98ff7dc-e11c-4a8d-b5ad-61022f373da7",
+      "latitude": -35.124625,
+      "longitude": 138.523388,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:29:48Z"
     },
     {
       "id": "dccac838-06fb-4129-8396-d57d0b9b3eac",
@@ -77,18 +117,28 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
+      "timestamp": "2026-02-14T03:00:16Z",
       "reported_at": "2026-02-14T00:59:06Z"
     },
     {
-      "id": "80670a99-b17c-40b8-86c8-bda6e5a25dc0",
-      "latitude": -34.926367,
-      "longitude": 138.621153,
+      "id": "a97c1bb0-f845-4959-9d0f-4f0f3de48f5b",
+      "latitude": -34.925717,
+      "longitude": 138.620236,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-14T02:30:15Z",
-      "reported_at": "2026-02-13T22:47:31Z"
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:09:49Z"
+    },
+    {
+      "id": "9e2bbc97-9a61-4ce6-8434-8ca22958273e",
+      "latitude": -34.818311,
+      "longitude": 138.71849,
+      "street": "A11 - Hancock Rd",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:00:16Z",
+      "reported_at": "2026-02-14T02:41:02Z"
     }
   ]
 }
