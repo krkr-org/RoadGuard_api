@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "6136e4eb-326e-49c5-a8ed-531c7949e1b3",
-      "latitude": -34.995064,
-      "longitude": 138.513568,
-      "street": "Tarlton St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T06:03:33Z"
-    },
-    {
       "id": "09e6a4b7-1a95-4465-b5af-26dbafe02954",
       "latitude": -34.999826,
       "longitude": 138.655047,
       "street": "Sheoak Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
+      "timestamp": "2026-02-14T09:30:15Z",
       "reported_at": "2026-02-14T05:57:05Z"
     },
     {
@@ -27,18 +17,18 @@
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
+      "timestamp": "2026-02-14T09:30:15Z",
       "reported_at": "2026-02-14T08:27:24Z"
     },
     {
-      "id": "5ad90aca-dfd7-433a-aded-bb72c240bb28",
-      "latitude": -35.094472,
-      "longitude": 138.529318,
+      "id": "a873da2d-3ef3-4300-aeb7-529651a31420",
+      "latitude": -35.09449,
+      "longitude": 138.528935,
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T06:35:24Z"
+      "timestamp": "2026-02-14T09:30:15Z",
+      "reported_at": "2026-02-14T07:44:45Z"
     },
     {
       "id": "3171921e-4d5a-48ab-92d4-df50fba895cd",
@@ -47,18 +37,18 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
+      "timestamp": "2026-02-14T09:30:15Z",
       "reported_at": "2026-02-14T06:36:07Z"
     },
     {
-      "id": "016d34d4-f4fe-4f87-a9aa-5160cd16470a",
-      "latitude": -35.024696,
-      "longitude": 138.550336,
-      "street": "Miller St",
-      "city": "Seacombe Gardens",
+      "id": "6424e3df-a953-4e5f-b51e-a6443d1d17fb",
+      "latitude": -35.107773,
+      "longitude": 138.507029,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T07:01:15Z"
+      "timestamp": "2026-02-14T09:30:15Z",
+      "reported_at": "2026-02-14T07:28:30Z"
     },
     {
       "id": "75e3bcf2-e64e-49db-afdf-d61a03ed0112",
@@ -67,28 +57,28 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
+      "timestamp": "2026-02-14T09:30:15Z",
       "reported_at": "2026-02-14T05:10:02Z"
     },
     {
-      "id": "4cdd7303-7732-4db3-acab-76dd7ca232f0",
-      "latitude": -35.109809,
-      "longitude": 138.507186,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
+      "id": "016d34d4-f4fe-4f87-a9aa-5160cd16470a",
+      "latitude": -35.024696,
+      "longitude": 138.550336,
+      "street": "Miller St",
+      "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T06:03:02Z"
+      "timestamp": "2026-02-14T09:30:15Z",
+      "reported_at": "2026-02-14T07:01:15Z"
     },
     {
-      "id": "36dc3d7b-b17c-497b-a2d5-3e3b89e0302e",
-      "latitude": -35.049295,
-      "longitude": 138.581706,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "9c0cc8ee-0157-4506-8d38-6acb33cf0057",
+      "latitude": -35.139273,
+      "longitude": 138.487424,
+      "street": "Unknown Street",
+      "city": "Noarlunga Centre",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T06:49:09Z"
+      "timestamp": "2026-02-14T09:30:15Z",
+      "reported_at": "2026-02-14T09:02:19Z"
     },
     {
       "id": "aacc161c-1322-486b-903a-c1654f864ddf",
@@ -97,18 +87,28 @@
       "street": "Sturt Rd",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
+      "timestamp": "2026-02-14T09:30:15Z",
       "reported_at": "2026-02-14T07:25:43Z"
     },
     {
-      "id": "42bc552c-2d1d-4e2c-83f6-2d07e0f0e408",
-      "latitude": -35.018493,
-      "longitude": 138.616158,
-      "street": "B29 - Main Rd",
-      "city": "Blackwood",
+      "id": "8b60d9ce-86bb-469b-abcf-ebddc44c12a2",
+      "latitude": -35.049652,
+      "longitude": 138.58074,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T05:23:12Z"
+      "timestamp": "2026-02-14T09:30:15Z",
+      "reported_at": "2026-02-14T06:17:41Z"
+    },
+    {
+      "id": "f7803855-6f80-49fb-9839-c25781b9aafe",
+      "latitude": -34.86617,
+      "longitude": 138.516998,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-14T09:30:15Z",
+      "reported_at": "2026-02-14T09:02:24Z"
     },
     {
       "id": "f1d22b73-77e5-49bb-b937-4d54b238cfa9",
@@ -117,18 +117,8 @@
       "street": "A2 - South Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
+      "timestamp": "2026-02-14T09:30:15Z",
       "reported_at": "2026-02-14T08:57:59Z"
-    },
-    {
-      "id": "7c39cc86-d839-4d98-8032-51be78150ab6",
-      "latitude": -34.66741,
-      "longitude": 138.652824,
-      "street": "M2 - Northern Exp",
-      "city": "Andrews Farm",
-      "type": "mobile",
-      "timestamp": "2026-02-14T09:00:16Z",
-      "reported_at": "2026-02-14T08:43:39Z"
     }
   ]
 }
