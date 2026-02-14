@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "5f6a0211-36fc-4b28-974d-535ae30e1a03",
-      "latitude": -34.894716,
-      "longitude": 138.676223,
-      "street": "Koonga Av",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-13T23:13:22Z"
-    },
-    {
       "id": "ee75eb8f-c54f-4ccb-8cec-9d85219569a2",
       "latitude": -34.925971,
       "longitude": 138.663849,
       "street": "Lockwood Rd",
       "city": "Erindale",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
+      "timestamp": "2026-02-14T03:30:14Z",
       "reported_at": "2026-02-14T00:03:56Z"
     },
     {
-      "id": "e8092dc5-2e3c-4041-95ff-0fee5e0c4b51",
-      "latitude": -34.934127,
-      "longitude": 138.668763,
+      "id": "86314e8b-242a-493d-b038-8e85c29113f3",
+      "latitude": -35.025537,
+      "longitude": 138.534535,
+      "street": "Folkestone Rd",
+      "city": "Dover Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T03:02:54Z"
+    },
+    {
+      "id": "68cafb57-9cd6-46a2-b423-1668677b307f",
+      "latitude": -34.934824,
+      "longitude": 138.668831,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-13T21:25:47Z"
-    },
-    {
-      "id": "b33c74e3-7210-4c1c-8044-6cd92ba87b62",
-      "latitude": -34.950971,
-      "longitude": 138.65352,
-      "street": "Dashwood Rd",
-      "city": "Beaumont",
-      "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-14T02:42:06Z"
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T00:18:08Z"
     },
     {
       "id": "a716201a-8e8a-4bf0-9863-fa878c978013",
@@ -47,8 +37,18 @@
       "street": "Tusmore Av",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
+      "timestamp": "2026-02-14T03:30:14Z",
       "reported_at": "2026-02-13T22:20:31Z"
+    },
+    {
+      "id": "b33c74e3-7210-4c1c-8044-6cd92ba87b62",
+      "latitude": -34.950971,
+      "longitude": 138.65352,
+      "street": "Dashwood Rd",
+      "city": "Beaumont",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T02:42:06Z"
     },
     {
       "id": "468783c8-9a0f-4f16-a927-f9a7fd9e29e9",
@@ -57,48 +57,48 @@
       "street": "Fraser Av",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
+      "timestamp": "2026-02-14T03:30:14Z",
       "reported_at": "2026-02-14T01:41:25Z"
     },
     {
-      "id": "93d174cd-d409-40d5-8b80-59766dcd0d8b",
-      "latitude": -34.957525,
-      "longitude": 138.644014,
-      "street": "Gilles Rd",
-      "city": "Glen Osmond",
+      "id": "56441453-1220-4180-bafd-c61836e4a587",
+      "latitude": -34.993281,
+      "longitude": 138.566069,
+      "street": "Daws Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-13T23:24:14Z"
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T03:02:57Z"
     },
     {
-      "id": "91f3d133-d575-4d70-900b-0f539203dbee",
-      "latitude": -34.941251,
-      "longitude": 138.61682,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
+      "id": "a5a7d57b-a759-4335-92ea-5fcb71aa7868",
+      "latitude": -35.10606,
+      "longitude": 138.508664,
+      "street": "Sherriffs Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-14T02:40:44Z"
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T03:12:56Z"
     },
     {
-      "id": "e95763f4-7a26-4e19-9c17-4b6479dc5195",
-      "latitude": -35.113122,
-      "longitude": 138.53543,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-14T02:53:51Z"
-    },
-    {
-      "id": "b821039c-fabd-4f19-9958-b0731ff1e802",
-      "latitude": -35.125881,
-      "longitude": 138.48618,
+      "id": "04564433-e70f-4c67-bb23-494f698021f6",
+      "latitude": -35.126281,
+      "longitude": 138.485862,
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-14T02:37:13Z"
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T02:20:03Z"
+    },
+    {
+      "id": "26be4a14-9f18-43d1-84cc-12158ead76b2",
+      "latitude": -35.065597,
+      "longitude": 138.554848,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T03:08:00Z"
     },
     {
       "id": "a98ff7dc-e11c-4a8d-b5ad-61022f373da7",
@@ -107,7 +107,7 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
+      "timestamp": "2026-02-14T03:30:14Z",
       "reported_at": "2026-02-14T02:29:48Z"
     },
     {
@@ -117,7 +117,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
+      "timestamp": "2026-02-14T03:30:14Z",
       "reported_at": "2026-02-14T00:59:06Z"
     },
     {
@@ -127,18 +127,18 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
+      "timestamp": "2026-02-14T03:30:14Z",
       "reported_at": "2026-02-14T02:09:49Z"
     },
     {
-      "id": "9e2bbc97-9a61-4ce6-8434-8ca22958273e",
-      "latitude": -34.818311,
-      "longitude": 138.71849,
-      "street": "A11 - Hancock Rd",
-      "city": "Ridgehaven",
+      "id": "56b96079-f26f-4150-9a51-e9fe25078324",
+      "latitude": -34.949051,
+      "longitude": 138.60736,
+      "street": "B29 - Unley Rd",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-02-14T03:00:16Z",
-      "reported_at": "2026-02-14T02:41:02Z"
+      "timestamp": "2026-02-14T03:30:14Z",
+      "reported_at": "2026-02-14T03:17:08Z"
     }
   ]
 }
