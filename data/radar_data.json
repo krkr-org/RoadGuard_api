@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "ee75eb8f-c54f-4ccb-8cec-9d85219569a2",
-      "latitude": -34.925971,
-      "longitude": 138.663849,
-      "street": "Lockwood Rd",
-      "city": "Erindale",
-      "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
-      "reported_at": "2026-02-14T00:03:56Z"
-    },
-    {
       "id": "86314e8b-242a-493d-b038-8e85c29113f3",
       "latitude": -35.025537,
       "longitude": 138.534535,
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
+      "timestamp": "2026-02-14T04:30:15Z",
       "reported_at": "2026-02-14T03:02:54Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Dashwood Rd",
       "city": "Beaumont",
       "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
+      "timestamp": "2026-02-14T04:30:15Z",
       "reported_at": "2026-02-14T02:42:06Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Fraser Av",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
+      "timestamp": "2026-02-14T04:30:15Z",
       "reported_at": "2026-02-14T01:41:25Z"
     },
     {
@@ -47,48 +37,18 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
+      "timestamp": "2026-02-14T04:30:15Z",
       "reported_at": "2026-02-14T00:18:08Z"
     },
     {
-      "id": "0c25a9ca-9e9c-4aee-849a-c257396ddf2e",
-      "latitude": -34.837829,
-      "longitude": 138.624132,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
+      "id": "0b21e84f-ba85-4d46-a74c-470907d04be9",
+      "latitude": -34.975223,
+      "longitude": 138.626871,
+      "street": "Hill St",
+      "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
-      "reported_at": "2026-02-14T03:24:46Z"
-    },
-    {
-      "id": "aefbfe74-0025-4b15-a527-8c8e2ab4924c",
-      "latitude": -34.940896,
-      "longitude": 138.616238,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
-      "reported_at": "2026-02-14T03:46:00Z"
-    },
-    {
-      "id": "662423a7-eda1-4bf7-8d24-0a254fcccbb2",
-      "latitude": -34.868556,
-      "longitude": 138.480758,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
-      "reported_at": "2026-02-14T03:55:49Z"
-    },
-    {
-      "id": "a98ff7dc-e11c-4a8d-b5ad-61022f373da7",
-      "latitude": -35.124625,
-      "longitude": 138.523388,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
-      "reported_at": "2026-02-14T02:29:48Z"
+      "timestamp": "2026-02-14T04:30:15Z",
+      "reported_at": "2026-02-14T01:23:22Z"
     },
     {
       "id": "dccac838-06fb-4129-8396-d57d0b9b3eac",
@@ -97,18 +57,8 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
+      "timestamp": "2026-02-14T04:30:15Z",
       "reported_at": "2026-02-14T00:59:06Z"
-    },
-    {
-      "id": "56b96079-f26f-4150-9a51-e9fe25078324",
-      "latitude": -34.949051,
-      "longitude": 138.60736,
-      "street": "B29 - Unley Rd",
-      "city": "Unley",
-      "type": "mobile",
-      "timestamp": "2026-02-14T04:00:16Z",
-      "reported_at": "2026-02-14T03:17:08Z"
     }
   ]
 }
