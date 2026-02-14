@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "30cdcc6f-7618-41d0-b9f0-40f93e178635",
-      "latitude": -34.948185,
-      "longitude": 138.552272,
-      "street": "Watson Av",
-      "city": "Netley",
-      "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T10:39:39Z"
-    },
-    {
       "id": "d4134bb1-8624-4a71-85bd-5f9a73a84056",
       "latitude": -35.025332,
       "longitude": 138.618829,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
+      "timestamp": "2026-02-14T11:30:14Z",
       "reported_at": "2026-02-14T08:27:24Z"
-    },
-    {
-      "id": "6424e3df-a953-4e5f-b51e-a6443d1d17fb",
-      "latitude": -35.107773,
-      "longitude": 138.507029,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T07:28:30Z"
     },
     {
       "id": "a873da2d-3ef3-4300-aeb7-529651a31420",
@@ -37,8 +17,18 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
+      "timestamp": "2026-02-14T11:30:14Z",
       "reported_at": "2026-02-14T07:44:45Z"
+    },
+    {
+      "id": "ba186297-d419-4b06-a692-48cc3e26eaaa",
+      "latitude": -34.890199,
+      "longitude": 138.663686,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T10:43:25Z"
     },
     {
       "id": "3171921e-4d5a-48ab-92d4-df50fba895cd",
@@ -47,48 +37,18 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
+      "timestamp": "2026-02-14T11:30:14Z",
       "reported_at": "2026-02-14T06:36:07Z"
     },
     {
-      "id": "016d34d4-f4fe-4f87-a9aa-5160cd16470a",
-      "latitude": -35.024696,
-      "longitude": 138.550336,
-      "street": "Miller St",
-      "city": "Seacombe Gardens",
+      "id": "6424e3df-a953-4e5f-b51e-a6443d1d17fb",
+      "latitude": -35.107773,
+      "longitude": 138.507029,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T07:01:15Z"
-    },
-    {
-      "id": "613fba08-6501-43d0-9877-e764d82cf44a",
-      "latitude": -34.931474,
-      "longitude": 138.587898,
-      "street": "West Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T10:45:14Z"
-    },
-    {
-      "id": "36dc3d7b-b17c-497b-a2d5-3e3b89e0302e",
-      "latitude": -35.049295,
-      "longitude": 138.581706,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T06:49:09Z"
-    },
-    {
-      "id": "7d1deea4-9019-4fe3-b990-99298abede42",
-      "latitude": -34.873055,
-      "longitude": 138.542691,
-      "street": "Woodville Rd",
-      "city": "St. Clair",
-      "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T10:45:38Z"
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T07:28:30Z"
     },
     {
       "id": "aacc161c-1322-486b-903a-c1654f864ddf",
@@ -97,18 +57,38 @@
       "street": "Sturt Rd",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
+      "timestamp": "2026-02-14T11:30:14Z",
       "reported_at": "2026-02-14T07:25:43Z"
     },
     {
-      "id": "47a5e866-174d-4bb2-88f0-7aebcd0f5166",
-      "latitude": -35.003262,
-      "longitude": 138.624529,
-      "street": "B29 - Main Rd",
-      "city": "Belair",
+      "id": "52a5ce61-04fc-442c-9b13-db01bdd0d3c1",
+      "latitude": -34.8777,
+      "longitude": 138.48482,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T09:50:29Z"
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T11:06:31Z"
+    },
+    {
+      "id": "95bff2c9-5baf-42ef-ba25-8d174b01e6db",
+      "latitude": -34.904078,
+      "longitude": 138.56078,
+      "street": "Grange Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T11:02:30Z"
+    },
+    {
+      "id": "d25a0428-365a-4f4c-b570-02c77ba587d1",
+      "latitude": -34.931813,
+      "longitude": 138.587925,
+      "street": "West Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T10:45:04Z"
     },
     {
       "id": "bcb4c195-2e6f-41e3-b753-662a2fe5cc70",
@@ -117,18 +97,28 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
+      "timestamp": "2026-02-14T11:30:14Z",
       "reported_at": "2026-02-14T08:55:01Z"
     },
     {
-      "id": "9ee31ee2-0ff0-48da-83f4-81fbc94d41a3",
-      "latitude": -34.846582,
-      "longitude": 138.50692,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
+      "id": "c658c6ba-9917-4156-8756-806ff7dac2b6",
+      "latitude": -34.805903,
+      "longitude": 138.596863,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-14T11:00:16Z",
-      "reported_at": "2026-02-14T10:53:23Z"
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T11:21:53Z"
+    },
+    {
+      "id": "47a5e866-174d-4bb2-88f0-7aebcd0f5166",
+      "latitude": -35.003262,
+      "longitude": 138.624529,
+      "street": "B29 - Main Rd",
+      "city": "Belair",
+      "type": "mobile",
+      "timestamp": "2026-02-14T11:30:14Z",
+      "reported_at": "2026-02-14T09:50:29Z"
     }
   ]
 }
