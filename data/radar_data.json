@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "5f6a0211-36fc-4b28-974d-535ae30e1a03",
+      "latitude": -34.894716,
+      "longitude": 138.676223,
+      "street": "Koonga Av",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-02-14T01:00:15Z",
+      "reported_at": "2026-02-13T23:13:22Z"
+    },
+    {
       "id": "ee75eb8f-c54f-4ccb-8cec-9d85219569a2",
       "latitude": -34.925971,
       "longitude": 138.663849,
       "street": "Lockwood Rd",
       "city": "Erindale",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
+      "timestamp": "2026-02-14T01:00:15Z",
       "reported_at": "2026-02-14T00:03:56Z"
     },
     {
@@ -17,18 +27,8 @@
       "street": "Knightsbridge Rd",
       "city": "Hazelwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
+      "timestamp": "2026-02-14T01:00:15Z",
       "reported_at": "2026-02-13T22:55:03Z"
-    },
-    {
-      "id": "5f6a0211-36fc-4b28-974d-535ae30e1a03",
-      "latitude": -34.894716,
-      "longitude": 138.676223,
-      "street": "Koonga Av",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
-      "reported_at": "2026-02-13T23:13:22Z"
     },
     {
       "id": "b23b47d6-1057-470f-8082-d7f748a61aa7",
@@ -37,7 +37,7 @@
       "street": "Dashwood Rd",
       "city": "Beaumont",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
+      "timestamp": "2026-02-14T01:00:15Z",
       "reported_at": "2026-02-13T20:57:55Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
+      "timestamp": "2026-02-14T01:00:15Z",
       "reported_at": "2026-02-13T21:25:47Z"
     },
     {
@@ -57,38 +57,28 @@
       "street": "Gilles Rd",
       "city": "Glen Osmond",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
+      "timestamp": "2026-02-14T01:00:15Z",
       "reported_at": "2026-02-13T23:24:14Z"
     },
     {
-      "id": "8656e761-024f-4dc1-a7c2-bf8ee101f883",
-      "latitude": -34.876188,
-      "longitude": 138.528125,
-      "street": "Unknown Street",
-      "city": "Unknown City",
+      "id": "5ed2d15c-b829-4f4d-9066-85da8eaf5477",
+      "latitude": -34.677409,
+      "longitude": 138.693196,
+      "street": "Curtis Rd",
+      "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
-      "reported_at": "2026-02-14T00:18:50Z"
+      "timestamp": "2026-02-14T01:00:15Z",
+      "reported_at": "2026-02-14T00:31:16Z"
     },
     {
-      "id": "68073884-6ff7-4211-943f-8ae6d61a706a",
-      "latitude": -34.939751,
-      "longitude": 138.671656,
-      "street": "B26 - Greenhill Rd",
-      "city": "Burnside",
+      "id": "296692f0-737f-4124-b375-5c85b7f2f4ff",
+      "latitude": -34.925822,
+      "longitude": 138.620153,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
-      "reported_at": "2026-02-13T21:01:43Z"
-    },
-    {
-      "id": "b1e5530f-b764-4225-8ce1-507d79586344",
-      "latitude": -34.886852,
-      "longitude": 138.616657,
-      "street": "A10 - North East Rd",
-      "city": "Walkerville",
-      "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
-      "reported_at": "2026-02-14T00:04:12Z"
+      "timestamp": "2026-02-14T01:00:15Z",
+      "reported_at": "2026-02-13T23:31:41Z"
     },
     {
       "id": "c42a2785-c9a1-43c5-9369-e9a3006ce8e7",
@@ -97,18 +87,8 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
+      "timestamp": "2026-02-14T01:00:15Z",
       "reported_at": "2026-02-13T22:51:37Z"
-    },
-    {
-      "id": "af2c826f-4913-4cab-87a4-7f1e79287991",
-      "latitude": -34.797223,
-      "longitude": 138.655879,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-02-14T00:30:15Z",
-      "reported_at": "2026-02-13T23:35:39Z"
     }
   ]
 }
