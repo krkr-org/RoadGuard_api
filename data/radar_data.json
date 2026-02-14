@@ -7,18 +7,8 @@
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T22:02:29Z"
-    },
-    {
-      "id": "2dd4ceb9-7edd-4b47-b176-172a70ef8456",
-      "latitude": -34.804028,
-      "longitude": 138.643756,
-      "street": "Afton Cr",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
-      "reported_at": "2026-02-13T22:55:32Z"
     },
     {
       "id": "0e792138-a64f-44ac-a36b-5dfca96adbcf",
@@ -27,18 +17,8 @@
       "street": "Esplanade",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T23:27:23Z"
-    },
-    {
-      "id": "9590f142-e945-47ca-851a-75fe878ebdfd",
-      "latitude": -34.858558,
-      "longitude": 138.565506,
-      "street": "Days Rd",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
-      "reported_at": "2026-02-13T23:07:06Z"
     },
     {
       "id": "e8092dc5-2e3c-4041-95ff-0fee5e0c4b51",
@@ -47,7 +27,7 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T21:25:47Z"
     },
     {
@@ -57,8 +37,18 @@
       "street": "Dashwood Rd",
       "city": "Beaumont",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T20:57:55Z"
+    },
+    {
+      "id": "f2b3755c-c057-4962-80b1-61f055aea83e",
+      "latitude": -34.806395,
+      "longitude": 138.648628,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-14T00:00:14Z",
+      "reported_at": "2026-02-13T23:35:01Z"
     },
     {
       "id": "50a7284c-b293-4a1a-83ac-9908853b4c6f",
@@ -67,7 +57,7 @@
       "street": "Springbank Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T22:19:48Z"
     },
     {
@@ -77,17 +67,27 @@
       "street": "Kensington Rd",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T21:03:10Z"
     },
     {
+      "id": "b9c52425-a04d-4747-b4ae-feee1e15ef93",
+      "latitude": -34.892012,
+      "longitude": 138.506035,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-02-14T00:00:14Z",
+      "reported_at": "2026-02-13T23:53:23Z"
+    },
+    {
       "id": "2083f5d4-02d6-4e1f-a9c8-a86f38e9679e",
-      "latitude": -34.710813,
-      "longitude": 138.662489,
+      "latitude": -34.710681,
+      "longitude": 138.662197,
       "street": "Winterslow Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T23:14:11Z"
     },
     {
@@ -97,8 +97,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T21:01:43Z"
+    },
+    {
+      "id": "605411cb-37c2-40b1-a076-6a812d7a79c3",
+      "latitude": -34.964219,
+      "longitude": 138.645177,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-02-14T00:00:14Z",
+      "reported_at": "2026-02-13T23:30:17Z"
     },
     {
       "id": "0770ca32-0d29-4ffb-9c9e-77cc3f549610",
@@ -107,28 +117,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
+      "timestamp": "2026-02-14T00:00:14Z",
       "reported_at": "2026-02-13T23:25:30Z"
     },
     {
-      "id": "b73c8d5c-5301-4919-9395-e3d1ba384594",
-      "latitude": -34.966166,
-      "longitude": 138.648127,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "af2c826f-4913-4cab-87a4-7f1e79287991",
+      "latitude": -34.797223,
+      "longitude": 138.655879,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
-      "reported_at": "2026-02-13T23:24:23Z"
-    },
-    {
-      "id": "45b3c016-b9cf-4b40-87b4-34ae1533adfb",
-      "latitude": -34.975255,
-      "longitude": 138.678172,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-13T23:30:16Z",
-      "reported_at": "2026-02-13T22:58:12Z"
+      "timestamp": "2026-02-14T00:00:14Z",
+      "reported_at": "2026-02-13T23:35:39Z"
     }
   ]
 }
