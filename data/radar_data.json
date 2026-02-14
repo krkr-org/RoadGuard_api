@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "5f6a0211-36fc-4b28-974d-535ae30e1a03",
-      "latitude": -34.894716,
-      "longitude": 138.676223,
-      "street": "Koonga Av",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
-      "reported_at": "2026-02-13T23:13:22Z"
-    },
-    {
       "id": "ee75eb8f-c54f-4ccb-8cec-9d85219569a2",
       "latitude": -34.925971,
       "longitude": 138.663849,
       "street": "Lockwood Rd",
       "city": "Erindale",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
+      "timestamp": "2026-02-14T01:30:14Z",
       "reported_at": "2026-02-14T00:03:56Z"
+    },
+    {
+      "id": "9d7bebda-88a1-4051-9306-634bae7832bf",
+      "latitude": -34.89454,
+      "longitude": 138.679482,
+      "street": "Koonga Av",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-13T22:02:29Z"
     },
     {
       "id": "50dfb7db-42bc-4989-9e71-f1736c5b4036",
@@ -27,18 +27,8 @@
       "street": "Knightsbridge Rd",
       "city": "Hazelwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
+      "timestamp": "2026-02-14T01:30:14Z",
       "reported_at": "2026-02-13T22:55:03Z"
-    },
-    {
-      "id": "b23b47d6-1057-470f-8082-d7f748a61aa7",
-      "latitude": -34.95097,
-      "longitude": 138.653542,
-      "street": "Dashwood Rd",
-      "city": "Beaumont",
-      "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
-      "reported_at": "2026-02-13T20:57:55Z"
     },
     {
       "id": "e8092dc5-2e3c-4041-95ff-0fee5e0c4b51",
@@ -47,7 +37,7 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
+      "timestamp": "2026-02-14T01:30:14Z",
       "reported_at": "2026-02-13T21:25:47Z"
     },
     {
@@ -57,38 +47,78 @@
       "street": "Gilles Rd",
       "city": "Glen Osmond",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
+      "timestamp": "2026-02-14T01:30:14Z",
       "reported_at": "2026-02-13T23:24:14Z"
     },
     {
-      "id": "5ed2d15c-b829-4f4d-9066-85da8eaf5477",
-      "latitude": -34.677409,
-      "longitude": 138.693196,
-      "street": "Curtis Rd",
-      "city": "Munno Para",
+      "id": "b54c8416-fee4-4054-b960-49a8d004f8bf",
+      "latitude": -34.874729,
+      "longitude": 138.581653,
+      "street": "Regency Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
-      "reported_at": "2026-02-14T00:31:16Z"
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-14T01:19:49Z"
     },
     {
-      "id": "296692f0-737f-4124-b375-5c85b7f2f4ff",
-      "latitude": -34.925822,
-      "longitude": 138.620153,
+      "id": "c4f609cd-fa83-47da-a49a-5c1b4664a488",
+      "latitude": -35.123989,
+      "longitude": 138.486863,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-14T01:17:32Z"
+    },
+    {
+      "id": "91714a94-0304-43e5-aeff-946c03eda49e",
+      "latitude": -35.126486,
+      "longitude": 138.48595,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-14T01:18:38Z"
+    },
+    {
+      "id": "68073884-6ff7-4211-943f-8ae6d61a706a",
+      "latitude": -34.939751,
+      "longitude": 138.671656,
+      "street": "B26 - Greenhill Rd",
+      "city": "Burnside",
+      "type": "mobile",
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-13T21:01:43Z"
+    },
+    {
+      "id": "80670a99-b17c-40b8-86c8-bda6e5a25dc0",
+      "latitude": -34.926367,
+      "longitude": 138.621153,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
-      "reported_at": "2026-02-13T23:31:41Z"
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-13T22:47:31Z"
     },
     {
-      "id": "c42a2785-c9a1-43c5-9369-e9a3006ce8e7",
-      "latitude": -35.004204,
-      "longitude": 138.807569,
-      "street": "B34 - Onkaparinga Valley Rd",
-      "city": "Balhannah",
+      "id": "56827845-d11a-4f71-a100-f1171656e9a8",
+      "latitude": -34.767768,
+      "longitude": 138.607642,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-14T01:00:15Z",
-      "reported_at": "2026-02-13T22:51:37Z"
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-14T01:06:42Z"
+    },
+    {
+      "id": "48479639-aba3-47fe-acb4-41c9f6202982",
+      "latitude": -34.792295,
+      "longitude": 138.614767,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-14T01:30:14Z",
+      "reported_at": "2026-02-14T01:19:41Z"
     }
   ]
 }
