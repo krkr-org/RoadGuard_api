@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "24bd28f6-9db0-4194-b6ae-aeed7ef1458f",
-      "latitude": -34.892978,
-      "longitude": 138.553069,
-      "street": "A7 - Port Rd",
-      "city": "Allenby Gardens",
+      "id": "d25985fc-3a34-426b-b924-7758850f4c6f",
+      "latitude": -35.001498,
+      "longitude": 138.533731,
+      "street": "Bowker St",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-02-15T20:30:14Z",
-      "reported_at": "2026-02-15T19:45:53Z"
+      "timestamp": "2026-02-15T21:00:16Z",
+      "reported_at": "2026-02-15T20:32:12Z"
+    },
+    {
+      "id": "0ad8daf4-a079-41be-a771-989687166ed4",
+      "latitude": -34.96934,
+      "longitude": 138.673566,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-15T21:00:16Z",
+      "reported_at": "2026-02-15T20:57:50Z"
+    },
+    {
+      "id": "9132d0f7-c842-4adc-9958-e82194894ba7",
+      "latitude": -35.040264,
+      "longitude": 138.814468,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-02-15T21:00:16Z",
+      "reported_at": "2026-02-15T20:53:05Z"
+    },
+    {
+      "id": "f8bdadcc-a034-41b4-b663-96b71223ecfd",
+      "latitude": -34.969283,
+      "longitude": 138.661042,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-15T21:00:16Z",
+      "reported_at": "2026-02-15T20:41:17Z"
     }
   ]
 }
