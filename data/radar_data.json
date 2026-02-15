@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "1f8bdae1-1042-46bc-8aed-9e6e46e71d7b",
-      "latitude": -34.829375,
-      "longitude": 138.613601,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "66068606-234d-4541-8709-d1bb7fd66953",
+      "latitude": -34.872971,
+      "longitude": 138.570732,
+      "street": "South Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-15T02:00:15Z",
-      "reported_at": "2026-02-15T01:37:20Z"
+      "timestamp": "2026-02-15T02:30:14Z",
+      "reported_at": "2026-02-15T02:08:17Z"
+    },
+    {
+      "id": "9aa4c9b8-981f-4afd-9627-65c90fa156dd",
+      "latitude": -34.97056,
+      "longitude": 138.658979,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-15T02:30:14Z",
+      "reported_at": "2026-02-14T22:53:22Z"
     }
   ]
 }
