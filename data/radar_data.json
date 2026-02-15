@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "052de45c-2de0-4d7d-8763-84da1da975d6",
-      "latitude": -34.698167,
-      "longitude": 138.655401,
+      "id": "2a8c10d0-d5bc-4b7c-b6ff-a524f7434288",
+      "latitude": -34.951889,
+      "longitude": 138.59226,
+      "street": "Lily St",
+      "city": "Goodwood",
+      "type": "mobile",
+      "timestamp": "2026-02-15T12:00:19Z",
+      "reported_at": "2026-02-15T09:51:42Z"
+    },
+    {
+      "id": "c7c2bcc8-b53e-4fe4-a295-30de0f5c0500",
+      "latitude": -34.700712,
+      "longitude": 138.653811,
       "street": "Stebonheath Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T10:43:11Z"
-    },
-    {
-      "id": "eb07ce8b-9eb3-4b62-9f68-279378715e98",
-      "latitude": -34.693398,
-      "longitude": 138.692626,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T07:30:05Z"
-    },
-    {
-      "id": "f8b00ab1-d71f-4c90-97c0-9d064df00122",
-      "latitude": -34.681944,
-      "longitude": 138.688718,
-      "street": "Anderson Walk",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T07:54:46Z"
+      "timestamp": "2026-02-15T12:00:19Z",
+      "reported_at": "2026-02-15T08:30:19Z"
     },
     {
       "id": "8eef0db8-2182-44dc-90eb-c7f84f4234c5",
@@ -37,7 +27,7 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
+      "timestamp": "2026-02-15T12:00:19Z",
       "reported_at": "2026-02-15T08:02:13Z"
     },
     {
@@ -47,38 +37,18 @@
       "street": "Petherton Rd",
       "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
+      "timestamp": "2026-02-15T12:00:19Z",
       "reported_at": "2026-02-15T10:44:57Z"
     },
     {
-      "id": "9b254ca5-5b10-4cb2-8e6e-0b6e8a103c75",
-      "latitude": -34.700959,
-      "longitude": 138.703876,
-      "street": "Adams Rd",
-      "city": "Elizabeth Downs",
+      "id": "2861a24a-cdee-4918-a117-78dfd54cc988",
+      "latitude": -34.948818,
+      "longitude": 138.722426,
+      "street": "Woods Hill Rd",
+      "city": "Ashton",
       "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T07:50:39Z"
-    },
-    {
-      "id": "0462401b-c2ee-429c-99e6-3884533b139c",
-      "latitude": -34.743825,
-      "longitude": 138.632691,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T06:58:26Z"
-    },
-    {
-      "id": "2144c724-2bf6-488b-a126-6e30f6673f92",
-      "latitude": -34.908831,
-      "longitude": 138.628462,
-      "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
-      "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T11:09:07Z"
+      "timestamp": "2026-02-15T12:00:19Z",
+      "reported_at": "2026-02-15T11:24:17Z"
     },
     {
       "id": "43854408-fba6-4dcc-bdce-39f61bb134f1",
@@ -87,18 +57,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
+      "timestamp": "2026-02-15T12:00:19Z",
       "reported_at": "2026-02-15T09:52:35Z"
-    },
-    {
-      "id": "ac1947a2-c8cd-491c-b73f-09f4c813b3ad",
-      "latitude": -34.685045,
-      "longitude": 138.692337,
-      "street": "A20 - Main North Rd",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
-      "reported_at": "2026-02-15T09:06:36Z"
     },
     {
       "id": "db8fea57-6bfb-410e-b064-ca3bbada1999",
@@ -107,8 +67,18 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-15T11:30:14Z",
+      "timestamp": "2026-02-15T12:00:19Z",
       "reported_at": "2026-02-15T10:49:58Z"
+    },
+    {
+      "id": "b26d7e90-88ac-414c-a5fd-e6501096635e",
+      "latitude": -35.090585,
+      "longitude": 138.527538,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-15T12:00:19Z",
+      "reported_at": "2026-02-15T11:47:34Z"
     }
   ]
 }
