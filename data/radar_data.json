@@ -1,64 +1,44 @@
 {
   "radars": [
     {
+      "id": "6b065821-3b3e-4edb-818b-b731b25d5900",
+      "latitude": -34.796624,
+      "longitude": 138.649264,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:00:16Z",
+      "reported_at": "2026-02-15T05:46:12Z"
+    },
+    {
       "id": "e0d7c627-c466-484e-99a2-e613234d2d10",
       "latitude": -34.682558,
       "longitude": 138.690172,
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
+      "timestamp": "2026-02-15T07:00:16Z",
       "reported_at": "2026-02-15T05:36:53Z"
     },
     {
-      "id": "6af13cf7-1585-410b-a503-b2f05d3c9d99",
-      "latitude": -34.700601,
-      "longitude": 138.65388,
-      "street": "Stebonheath Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T05:39:40Z"
-    },
-    {
-      "id": "b8046344-7cce-469e-ac07-3fd36b8d0509",
-      "latitude": -34.762476,
-      "longitude": 138.663336,
+      "id": "1bdd23c0-3f04-47fe-94f9-77adde37f187",
+      "latitude": -34.763739,
+      "longitude": 138.665413,
       "street": "Saints Rd",
       "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T05:51:10Z"
+      "timestamp": "2026-02-15T07:00:16Z",
+      "reported_at": "2026-02-15T05:29:32Z"
     },
     {
-      "id": "2d8debd8-3f1b-405c-99b1-0f34c6d0df7a",
-      "latitude": -34.881234,
-      "longitude": 138.503853,
-      "street": "Frederick Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T06:12:03Z"
-    },
-    {
-      "id": "7071f494-081e-40b5-903b-ba2de5f94b61",
-      "latitude": -34.892231,
-      "longitude": 138.504538,
+      "id": "b2df2072-b156-45fb-b9e4-85e4ed9d8a3a",
+      "latitude": -34.892157,
+      "longitude": 138.504533,
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T06:08:41Z"
-    },
-    {
-      "id": "3c5741a9-d9d1-46d4-8bdb-301ec8235155",
-      "latitude": -35.127658,
-      "longitude": 138.494229,
-      "street": "Flaxmill Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T06:08:40Z"
+      "timestamp": "2026-02-15T07:00:16Z",
+      "reported_at": "2026-02-15T02:44:22Z"
     },
     {
       "id": "afa6c3fc-547a-4719-809d-f6cf23e3d738",
@@ -67,48 +47,18 @@
       "street": "Adams Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
+      "timestamp": "2026-02-15T07:00:16Z",
       "reported_at": "2026-02-15T05:23:14Z"
     },
     {
-      "id": "2f78bc7a-e2a7-41ac-a3db-06d883035664",
-      "latitude": -34.947471,
-      "longitude": 138.643,
-      "street": "A17 - Portrush Rd",
-      "city": "Glenunga",
-      "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T05:58:04Z"
-    },
-    {
-      "id": "f6eac3b2-90da-4473-92d0-875dedec5af8",
-      "latitude": -34.97974,
-      "longitude": 138.520264,
-      "street": "A15 - Brighton Rd",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T06:12:03Z"
-    },
-    {
-      "id": "ea0215b4-976c-4805-a741-cf09e09a037a",
-      "latitude": -34.909419,
-      "longitude": 138.640075,
-      "street": "A17 - Portrush Rd",
-      "city": "Maylands",
-      "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T06:03:56Z"
-    },
-    {
-      "id": "815992de-a8a7-406a-9623-fc682206dd2f",
-      "latitude": -34.794191,
-      "longitude": 138.651193,
+      "id": "da7fecec-b05a-4bab-aa8e-0a62844ef838",
+      "latitude": -34.794047,
+      "longitude": 138.650959,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
-      "reported_at": "2026-02-15T05:08:19Z"
+      "timestamp": "2026-02-15T07:00:16Z",
+      "reported_at": "2026-02-15T05:09:58Z"
     },
     {
       "id": "9ede2352-833f-41b0-b811-0bbf5576186b",
@@ -117,7 +67,7 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T06:30:15Z",
+      "timestamp": "2026-02-15T07:00:16Z",
       "reported_at": "2026-02-15T05:19:41Z"
     }
   ]
