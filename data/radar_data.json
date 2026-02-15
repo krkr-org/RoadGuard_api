@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "cd3cb712-d93a-42dd-b9ab-4d9860e70756",
-      "latitude": -34.958415,
-      "longitude": 138.528316,
-      "street": "James Melrose Rd",
-      "city": "Adelaide Airport",
+      "id": "afed4572-58b4-435d-b9ff-3a2a46c8f672",
+      "latitude": -34.796924,
+      "longitude": 138.649753,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-15T22:00:17Z",
-      "reported_at": "2026-02-15T21:39:02Z"
+      "timestamp": "2026-02-15T22:30:16Z",
+      "reported_at": "2026-02-15T21:31:43Z"
     },
     {
-      "id": "5cbadb16-da2b-405f-980e-75cb2670a216",
-      "latitude": -34.945131,
-      "longitude": 138.599339,
-      "street": "King William Rd",
-      "city": "Wayville",
+      "id": "0e8ca870-90fc-4be9-901f-b4f02dceacfb",
+      "latitude": -34.92531,
+      "longitude": 138.608595,
+      "street": "Pirie St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-15T22:00:17Z",
-      "reported_at": "2026-02-15T21:13:27Z"
+      "timestamp": "2026-02-15T22:30:16Z",
+      "reported_at": "2026-02-15T22:00:16Z"
     },
     {
-      "id": "7d47054e-f7e5-4fe2-bb46-e575243f1867",
-      "latitude": -34.86245,
-      "longitude": 138.64869,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "6c1691b9-2078-4abb-9798-7343809ec9bb",
+      "latitude": -34.914335,
+      "longitude": 138.613945,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-15T22:00:17Z",
-      "reported_at": "2026-02-15T21:39:56Z"
+      "timestamp": "2026-02-15T22:30:16Z",
+      "reported_at": "2026-02-15T22:09:18Z"
+    },
+    {
+      "id": "f3da7e4a-19aa-4949-a230-d6886b2bca93",
+      "latitude": -34.970862,
+      "longitude": 138.658196,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-02-15T22:30:16Z",
+      "reported_at": "2026-02-15T21:31:54Z"
+    },
+    {
+      "id": "577a14e2-833a-46cc-be78-56fcd8a8ac98",
+      "latitude": -34.969286,
+      "longitude": 138.673492,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-15T22:30:16Z",
+      "reported_at": "2026-02-15T22:06:30Z"
     }
   ]
 }
