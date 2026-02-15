@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "6e1f90c0-0fab-4576-8bd7-048714fa24bf",
-      "latitude": -34.810466,
-      "longitude": 138.614893,
-      "street": "Garden Tce",
-      "city": "Mawson Lakes",
+      "id": "e0d7c627-c466-484e-99a2-e613234d2d10",
+      "latitude": -34.682558,
+      "longitude": 138.690172,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:04:58Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:36:53Z"
     },
     {
-      "id": "34468917-c57d-4af1-8da1-bec60ab3e7ce",
-      "latitude": -34.857339,
-      "longitude": 138.668085,
-      "street": "Lyons Rd",
-      "city": "Holden Hill",
+      "id": "62580e39-dcd0-4c8b-957b-9c343d94da70",
+      "latitude": -35.029049,
+      "longitude": 138.543361,
+      "street": "Seacombe Rd",
+      "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:04:31Z"
-    },
-    {
-      "id": "09b71c9e-0f17-48b5-ac9f-5c537e2ea245",
-      "latitude": -34.941308,
-      "longitude": 138.616914,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
-      "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:11:29Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:41:05Z"
     },
     {
       "id": "b2df2072-b156-45fb-b9e4-85e4ed9d8a3a",
@@ -37,8 +27,28 @@
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
+      "timestamp": "2026-02-15T06:00:17Z",
       "reported_at": "2026-02-15T02:44:22Z"
+    },
+    {
+      "id": "3788d863-9ad8-44af-9235-36a0894afd86",
+      "latitude": -34.781161,
+      "longitude": 138.640397,
+      "street": "Cross Keys Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:26:21Z"
+    },
+    {
+      "id": "0e50fa8c-9b6c-4cf5-b00f-bcd34b4936c9",
+      "latitude": -34.876798,
+      "longitude": 138.484769,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:47:56Z"
     },
     {
       "id": "066d0899-7a14-4d2d-b4f4-602625bc2c59",
@@ -47,58 +57,78 @@
       "street": "Park Tce",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
+      "timestamp": "2026-02-15T06:00:17Z",
       "reported_at": "2026-02-15T05:05:50Z"
     },
     {
-      "id": "63e89479-3c5f-44e3-8458-d3517a23324e",
-      "latitude": -34.876018,
-      "longitude": 138.571792,
-      "street": "South Rd",
-      "city": "Croydon Park",
+      "id": "afa6c3fc-547a-4719-809d-f6cf23e3d738",
+      "latitude": -34.702534,
+      "longitude": 138.702879,
+      "street": "Adams Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:14:47Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:23:14Z"
     },
     {
-      "id": "0f0c0f36-dfce-4f4b-bd09-cab86c54689d",
-      "latitude": -34.685925,
-      "longitude": 138.691778,
-      "street": "A20 - Main North Rd",
-      "city": "Smithfield",
+      "id": "eaf3a8f4-e940-4031-b0a4-d6f28b73aeaa",
+      "latitude": -34.857049,
+      "longitude": 138.673349,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:27:07Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:56:03Z"
     },
     {
-      "id": "d09e597d-57b2-462d-bfd4-0527e15f1cc0",
-      "latitude": -34.846425,
-      "longitude": 138.644048,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
+      "id": "9ede2352-833f-41b0-b811-0bbf5576186b",
+      "latitude": -34.77458,
+      "longitude": 138.630573,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:13:01Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:19:41Z"
     },
     {
-      "id": "ca7c5a3c-200e-4d8f-9330-cc4934247808",
-      "latitude": -34.849714,
-      "longitude": 138.577069,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Regency Park",
+      "id": "815992de-a8a7-406a-9623-fc682206dd2f",
+      "latitude": -34.794191,
+      "longitude": 138.651193,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:25:21Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:08:19Z"
     },
     {
-      "id": "9090bc5b-ab96-4a87-a51f-6733c108f061",
-      "latitude": -34.870544,
-      "longitude": 138.583786,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
+      "id": "ccf59fd8-8829-4c9e-b17f-9d81c608a642",
+      "latitude": -34.896522,
+      "longitude": 138.639265,
+      "street": "A11 - Payneham Rd",
+      "city": "Payneham",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:30:16Z",
-      "reported_at": "2026-02-15T05:09:13Z"
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:32:36Z"
+    },
+    {
+      "id": "e0b83541-95a1-41b3-9f8c-82131fed94ba",
+      "latitude": -34.827131,
+      "longitude": 138.705672,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:30:55Z"
+    },
+    {
+      "id": "8477d3e6-399e-40f2-9b02-8ae97688404a",
+      "latitude": -34.857761,
+      "longitude": 138.690309,
+      "street": "A11 - Lower North East Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-02-15T06:00:17Z",
+      "reported_at": "2026-02-15T05:40:52Z"
     }
   ]
 }
