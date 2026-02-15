@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "6b065821-3b3e-4edb-818b-b731b25d5900",
-      "latitude": -34.796624,
-      "longitude": 138.649264,
+      "id": "db2f84da-88c7-487c-953d-dc960a20ac3d",
+      "latitude": -34.796418,
+      "longitude": 138.648926,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
-      "reported_at": "2026-02-15T05:46:12Z"
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T06:14:45Z"
+    },
+    {
+      "id": "d3f2f385-c275-4a3a-90d1-7bcdea2f1aa7",
+      "latitude": -34.781222,
+      "longitude": 138.662691,
+      "street": "Jasper St",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T05:52:26Z"
+    },
+    {
+      "id": "481e97c6-bb8b-417b-9014-d28c48b4d919",
+      "latitude": -34.694829,
+      "longitude": 138.692198,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T06:01:54Z"
+    },
+    {
+      "id": "b35c0ef1-3936-454b-a47f-c6f09ff08d94",
+      "latitude": -34.699052,
+      "longitude": 138.654848,
+      "street": "Stebonheath Rd",
+      "city": "Edinburgh North",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T06:53:11Z"
     },
     {
       "id": "e0d7c627-c466-484e-99a2-e613234d2d10",
@@ -17,28 +47,18 @@
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
+      "timestamp": "2026-02-15T07:30:14Z",
       "reported_at": "2026-02-15T05:36:53Z"
     },
     {
-      "id": "1bdd23c0-3f04-47fe-94f9-77adde37f187",
-      "latitude": -34.763739,
-      "longitude": 138.665413,
-      "street": "Saints Rd",
-      "city": "Salisbury Park",
+      "id": "20090872-df1c-49bc-a580-17ca66811d8c",
+      "latitude": -34.689482,
+      "longitude": 138.692403,
+      "street": "Uley Rd",
+      "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
-      "reported_at": "2026-02-15T05:29:32Z"
-    },
-    {
-      "id": "b2df2072-b156-45fb-b9e4-85e4ed9d8a3a",
-      "latitude": -34.892157,
-      "longitude": 138.504533,
-      "street": "Frederick Rd",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
-      "reported_at": "2026-02-15T02:44:22Z"
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T07:08:51Z"
     },
     {
       "id": "afa6c3fc-547a-4719-809d-f6cf23e3d738",
@@ -47,18 +67,28 @@
       "street": "Adams Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
+      "timestamp": "2026-02-15T07:30:14Z",
       "reported_at": "2026-02-15T05:23:14Z"
     },
     {
-      "id": "da7fecec-b05a-4bab-aa8e-0a62844ef838",
-      "latitude": -34.794047,
-      "longitude": 138.650959,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "986a9b51-e3c0-42e1-bc86-452206ec61f1",
+      "latitude": -34.708451,
+      "longitude": 138.681418,
+      "street": "Tolmer Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
-      "reported_at": "2026-02-15T05:09:58Z"
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T07:15:58Z"
+    },
+    {
+      "id": "8765a68b-7acd-42ee-b04a-175e587a7032",
+      "latitude": -34.829832,
+      "longitude": 138.655686,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T07:02:23Z"
     },
     {
       "id": "9ede2352-833f-41b0-b811-0bbf5576186b",
@@ -67,8 +97,28 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-15T07:00:16Z",
+      "timestamp": "2026-02-15T07:30:14Z",
       "reported_at": "2026-02-15T05:19:41Z"
+    },
+    {
+      "id": "93211952-30b4-48ac-8df5-10b6c805a00c",
+      "latitude": -34.795521,
+      "longitude": 138.653277,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T05:51:32Z"
+    },
+    {
+      "id": "1d13dfd7-04fd-42b3-8842-002c48645e2e",
+      "latitude": -34.798089,
+      "longitude": 138.657167,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2026-02-15T07:30:14Z",
+      "reported_at": "2026-02-15T07:28:04Z"
     }
   ]
 }
