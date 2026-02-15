@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "42c5f383-65fe-407e-9a63-d2db54d7ab7c",
-      "latitude": -35.072226,
-      "longitude": 138.627561,
-      "street": "Cherry Gardens Rd",
-      "city": "Cherry Gardens",
+      "id": "6e1f90c0-0fab-4576-8bd7-048714fa24bf",
+      "latitude": -34.810466,
+      "longitude": 138.614893,
+      "street": "Garden Tce",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
-      "reported_at": "2026-02-15T04:45:37Z"
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:04:58Z"
     },
     {
-      "id": "b67dfbb6-3140-4452-a749-5597f0764362",
-      "latitude": -35.013335,
-      "longitude": 138.576368,
-      "street": "Shepherds Hill Rd",
-      "city": "Bedford Park",
+      "id": "34468917-c57d-4af1-8da1-bec60ab3e7ce",
+      "latitude": -34.857339,
+      "longitude": 138.668085,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
-      "reported_at": "2026-02-15T04:26:51Z"
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:04:31Z"
+    },
+    {
+      "id": "09b71c9e-0f17-48b5-ac9f-5c537e2ea245",
+      "latitude": -34.941308,
+      "longitude": 138.616914,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:11:29Z"
     },
     {
       "id": "b2df2072-b156-45fb-b9e4-85e4ed9d8a3a",
@@ -27,48 +37,68 @@
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
+      "timestamp": "2026-02-15T05:30:16Z",
       "reported_at": "2026-02-15T02:44:22Z"
     },
     {
-      "id": "1d265c2a-17da-4272-be15-71f207b081dd",
-      "latitude": -34.941107,
-      "longitude": 138.616584,
-      "street": "Glen Osmond Rd",
-      "city": "Eastwood",
+      "id": "066d0899-7a14-4d2d-b4f4-602625bc2c59",
+      "latitude": -34.768374,
+      "longitude": 138.651411,
+      "street": "Park Tce",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
-      "reported_at": "2026-02-15T04:33:01Z"
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:05:50Z"
     },
     {
-      "id": "07a61633-b88b-4d37-a6bd-d5c234c05f18",
-      "latitude": -34.985896,
-      "longitude": 138.520554,
-      "street": "A15 - Brighton Rd",
-      "city": "Glenelg South",
+      "id": "63e89479-3c5f-44e3-8458-d3517a23324e",
+      "latitude": -34.876018,
+      "longitude": 138.571792,
+      "street": "South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
-      "reported_at": "2026-02-15T04:46:04Z"
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:14:47Z"
     },
     {
-      "id": "fedf7edc-1218-4ea7-8bfb-520d6f319534",
-      "latitude": -34.94516,
-      "longitude": 138.517835,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
+      "id": "0f0c0f36-dfce-4f4b-bd09-cab86c54689d",
+      "latitude": -34.685925,
+      "longitude": 138.691778,
+      "street": "A20 - Main North Rd",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
-      "reported_at": "2026-02-15T04:56:08Z"
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:27:07Z"
     },
     {
-      "id": "ad52247b-a85d-4d4c-918a-2f79881e8d35",
-      "latitude": -34.789399,
-      "longitude": 138.61719,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "d09e597d-57b2-462d-bfd4-0527e15f1cc0",
+      "latitude": -34.846425,
+      "longitude": 138.644048,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
       "type": "mobile",
-      "timestamp": "2026-02-15T05:00:19Z",
-      "reported_at": "2026-02-15T04:49:34Z"
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:13:01Z"
+    },
+    {
+      "id": "ca7c5a3c-200e-4d8f-9330-cc4934247808",
+      "latitude": -34.849714,
+      "longitude": 138.577069,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:25:21Z"
+    },
+    {
+      "id": "9090bc5b-ab96-4a87-a51f-6733c108f061",
+      "latitude": -34.870544,
+      "longitude": 138.583786,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:30:16Z",
+      "reported_at": "2026-02-15T05:09:13Z"
     }
   ]
 }
