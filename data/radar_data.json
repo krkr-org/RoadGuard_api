@@ -1,34 +1,74 @@
 {
   "radars": [
     {
+      "id": "42c5f383-65fe-407e-9a63-d2db54d7ab7c",
+      "latitude": -35.072226,
+      "longitude": 138.627561,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:00:19Z",
+      "reported_at": "2026-02-15T04:45:37Z"
+    },
+    {
+      "id": "b67dfbb6-3140-4452-a749-5597f0764362",
+      "latitude": -35.013335,
+      "longitude": 138.576368,
+      "street": "Shepherds Hill Rd",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:00:19Z",
+      "reported_at": "2026-02-15T04:26:51Z"
+    },
+    {
       "id": "b2df2072-b156-45fb-b9e4-85e4ed9d8a3a",
       "latitude": -34.892157,
       "longitude": 138.504533,
       "street": "Frederick Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-15T04:30:14Z",
+      "timestamp": "2026-02-15T05:00:19Z",
       "reported_at": "2026-02-15T02:44:22Z"
     },
     {
-      "id": "8b4dc4e0-29e7-4a2b-a951-6112fc197805",
-      "latitude": -35.017078,
-      "longitude": 138.558525,
-      "street": "Sturt Rd",
-      "city": "Sturt",
+      "id": "1d265c2a-17da-4272-be15-71f207b081dd",
+      "latitude": -34.941107,
+      "longitude": 138.616584,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-02-15T04:30:14Z",
-      "reported_at": "2026-02-15T04:14:16Z"
+      "timestamp": "2026-02-15T05:00:19Z",
+      "reported_at": "2026-02-15T04:33:01Z"
     },
     {
-      "id": "a7e9dac1-75be-436d-af8b-bfe160cd72a0",
-      "latitude": -34.846323,
-      "longitude": 138.64426,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
+      "id": "07a61633-b88b-4d37-a6bd-d5c234c05f18",
+      "latitude": -34.985896,
+      "longitude": 138.520554,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-02-15T04:30:14Z",
-      "reported_at": "2026-02-15T04:22:24Z"
+      "timestamp": "2026-02-15T05:00:19Z",
+      "reported_at": "2026-02-15T04:46:04Z"
+    },
+    {
+      "id": "fedf7edc-1218-4ea7-8bfb-520d6f319534",
+      "latitude": -34.94516,
+      "longitude": 138.517835,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:00:19Z",
+      "reported_at": "2026-02-15T04:56:08Z"
+    },
+    {
+      "id": "ad52247b-a85d-4d4c-918a-2f79881e8d35",
+      "latitude": -34.789399,
+      "longitude": 138.61719,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-15T05:00:19Z",
+      "reported_at": "2026-02-15T04:49:34Z"
     }
   ]
 }
