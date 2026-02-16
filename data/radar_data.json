@@ -7,7 +7,7 @@
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T08:06:53Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Wakefield St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T09:10:51Z"
     },
     {
@@ -27,8 +27,18 @@
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T09:18:35Z"
+    },
+    {
+      "id": "04d764c5-9285-4eae-a504-026a8ac2cd28",
+      "latitude": -34.861027,
+      "longitude": 138.680153,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-02-16T11:30:15Z",
+      "reported_at": "2026-02-16T10:39:41Z"
     },
     {
       "id": "d4b4f43f-4fdb-452d-b154-a7e3749a0849",
@@ -37,18 +47,8 @@
       "street": "Hambledon Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T08:11:34Z"
-    },
-    {
-      "id": "08eaaa12-5b40-4d9b-83f7-0f4a604c5c2f",
-      "latitude": -34.861597,
-      "longitude": 138.679849,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
-      "reported_at": "2026-02-16T05:15:05Z"
     },
     {
       "id": "eca2f46d-eadc-4fe6-a5a8-2345c77e7dd4",
@@ -57,7 +57,7 @@
       "street": "East Pwy",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T06:52:05Z"
     },
     {
@@ -67,18 +67,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T05:19:19Z"
-    },
-    {
-      "id": "4886712d-6986-4c45-890d-9150db759e28",
-      "latitude": -34.809723,
-      "longitude": 138.491373,
-      "street": "Lady Gowrie Dr",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
-      "reported_at": "2026-02-16T10:26:39Z"
     },
     {
       "id": "24f849f3-6090-429b-b58e-cf6389b41c22",
@@ -87,8 +77,18 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T04:41:12Z"
+    },
+    {
+      "id": "5b21fe90-81f1-43cd-9382-c90a184166b6",
+      "latitude": -34.943858,
+      "longitude": 138.589047,
+      "street": "Goodwood Rd",
+      "city": "Wayville",
+      "type": "mobile",
+      "timestamp": "2026-02-16T11:30:15Z",
+      "reported_at": "2026-02-16T10:57:01Z"
     },
     {
       "id": "44f42da5-4636-4433-a76a-d0b38cb202ec",
@@ -97,7 +97,7 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T09:57:18Z"
     },
     {
@@ -107,18 +107,28 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
+      "timestamp": "2026-02-16T11:30:15Z",
       "reported_at": "2026-02-16T07:33:41Z"
     },
     {
-      "id": "9a770542-018d-4122-aaae-d2ef7a3228af",
-      "latitude": -34.719921,
-      "longitude": 138.673097,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth",
+      "id": "f012601d-f147-4bc5-925c-a8b222353d3a",
+      "latitude": -34.892848,
+      "longitude": 138.648093,
+      "street": "A11 - Payneham Rd",
+      "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2026-02-16T11:00:15Z",
-      "reported_at": "2026-02-16T10:42:22Z"
+      "timestamp": "2026-02-16T11:30:15Z",
+      "reported_at": "2026-02-16T11:05:58Z"
+    },
+    {
+      "id": "22917a7b-6656-4bae-a9fc-4b900beb517c",
+      "latitude": -34.859808,
+      "longitude": 138.566743,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-16T11:30:15Z",
+      "reported_at": "2026-02-16T11:07:56Z"
     }
   ]
 }
