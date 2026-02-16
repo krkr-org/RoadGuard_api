@@ -7,7 +7,7 @@
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T05:23:12Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Holder Rd",
       "city": "North Brighton",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T04:04:57Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Hambledon Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T05:15:06Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T05:19:19Z"
     },
     {
@@ -47,8 +47,18 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T05:15:05Z"
+    },
+    {
+      "id": "2e90d569-7004-4518-85e0-bc02c229980d",
+      "latitude": -34.682364,
+      "longitude": 138.667943,
+      "street": "Whitington Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-02-16T08:30:14Z",
+      "reported_at": "2026-02-16T05:35:35Z"
     },
     {
       "id": "eca2f46d-eadc-4fe6-a5a8-2345c77e7dd4",
@@ -57,28 +67,18 @@
       "street": "East Pwy",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T06:52:05Z"
     },
     {
-      "id": "2265adbe-2202-430f-9f66-2f0591e77579",
-      "latitude": -34.904837,
-      "longitude": 138.491383,
-      "street": "Military Rd",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
-      "reported_at": "2026-02-16T07:45:52Z"
-    },
-    {
-      "id": "24f849f3-6090-429b-b58e-cf6389b41c22",
-      "latitude": -34.925122,
-      "longitude": 138.615106,
+      "id": "4c634962-ceef-4223-b559-a4ab1e2c44a3",
+      "latitude": -34.925053,
+      "longitude": 138.614971,
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
-      "reported_at": "2026-02-16T04:41:12Z"
+      "timestamp": "2026-02-16T08:30:14Z",
+      "reported_at": "2026-02-16T06:12:07Z"
     },
     {
       "id": "10890c46-c99b-4246-9cb6-2b09584495c7",
@@ -87,7 +87,7 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T04:58:09Z"
     },
     {
@@ -97,18 +97,8 @@
       "street": "Sir Lewis Cohen Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T05:14:24Z"
-    },
-    {
-      "id": "7e61d2f0-df8a-4615-a2e3-6b6e513af31f",
-      "latitude": -34.81807,
-      "longitude": 138.680566,
-      "street": "Milne Rd",
-      "city": "Modbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
-      "reported_at": "2026-02-16T07:29:48Z"
     },
     {
       "id": "09819010-ca00-4446-8d5b-bde3e451ef9f",
@@ -117,8 +107,38 @@
       "street": "Seacombe Rd",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T06:41:13Z"
+    },
+    {
+      "id": "cd3d2bc3-8caa-4808-9de9-2f41aa264c9a",
+      "latitude": -34.92559,
+      "longitude": 138.620057,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-16T08:30:14Z",
+      "reported_at": "2026-02-16T07:43:17Z"
+    },
+    {
+      "id": "5854c449-9d17-49a2-ab23-d171151fa51b",
+      "latitude": -34.848881,
+      "longitude": 138.583498,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-02-16T08:30:14Z",
+      "reported_at": "2026-02-16T07:54:13Z"
+    },
+    {
+      "id": "67c56abe-e162-4247-8f6c-b861aee5d700",
+      "latitude": -34.858782,
+      "longitude": 138.582982,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-02-16T08:30:14Z",
+      "reported_at": "2026-02-16T08:10:18Z"
     },
     {
       "id": "d626d312-fa22-48a3-8018-c8c2bbb3ea46",
@@ -127,8 +147,18 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-02-16T08:00:19Z",
+      "timestamp": "2026-02-16T08:30:14Z",
       "reported_at": "2026-02-16T07:40:45Z"
+    },
+    {
+      "id": "1469248c-d88b-4df1-bc5a-349019e5f34e",
+      "latitude": -35.042813,
+      "longitude": 138.553704,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-16T08:30:14Z",
+      "reported_at": "2026-02-16T08:28:54Z"
     }
   ]
 }
