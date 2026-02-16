@@ -1,44 +1,64 @@
 {
   "radars": [
     {
+      "id": "8e92eb9b-715b-46d5-9960-9585028592d8",
+      "latitude": -34.760231,
+      "longitude": 138.611643,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T20:55:30Z"
+    },
+    {
+      "id": "d820ec0a-30fe-4385-a048-d607e5cb41f1",
+      "latitude": -34.866147,
+      "longitude": 138.621382,
+      "street": "Redward Av",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T21:43:03Z"
+    },
+    {
       "id": "17f46c8a-3474-4536-b105-9361dbf4036b",
       "latitude": -34.775846,
       "longitude": 138.598444,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
+      "timestamp": "2026-02-16T22:00:15Z",
       "reported_at": "2026-02-16T21:20:15Z"
     },
     {
-      "id": "38e963c3-5a99-4d79-989c-56dce0fd0b09",
-      "latitude": -34.766132,
-      "longitude": 138.66361,
-      "street": "Barndioota Rd",
-      "city": "Salisbury Plain",
+      "id": "1fc378b7-a99f-4a29-b53d-a3140a823d43",
+      "latitude": -34.998821,
+      "longitude": 138.593158,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
-      "reported_at": "2026-02-16T20:56:33Z"
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T21:36:42Z"
     },
     {
-      "id": "db063e58-9cb9-4001-89e4-e9f16e1164ee",
-      "latitude": -35.129748,
-      "longitude": 138.536656,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "7cd8b873-a524-4496-842a-17a31aabaa60",
+      "latitude": -34.74305,
+      "longitude": 138.631417,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
-      "reported_at": "2026-02-16T21:15:38Z"
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T20:58:28Z"
     },
     {
-      "id": "5e09dc7c-0bc4-42d2-b08f-54597a91fc8c",
-      "latitude": -34.801658,
-      "longitude": 138.65392,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
+      "id": "5cc9bc03-a219-45d7-99af-f583377e55af",
+      "latitude": -35.131936,
+      "longitude": 138.485836,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
-      "reported_at": "2026-02-16T21:16:11Z"
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T21:57:00Z"
     },
     {
       "id": "157e1420-601e-4f98-a120-ffc6bb150d33",
@@ -47,7 +67,7 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
+      "timestamp": "2026-02-16T22:00:15Z",
       "reported_at": "2026-02-16T21:19:29Z"
     },
     {
@@ -57,27 +77,37 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
+      "timestamp": "2026-02-16T22:00:15Z",
       "reported_at": "2026-02-16T20:54:26Z"
     },
     {
-      "id": "fc0c1d48-4e84-4f34-b09d-bd63eed8e542",
-      "latitude": -34.968206,
-      "longitude": 138.671709,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
+      "id": "65cbd8b1-38c0-411a-ad5b-177e0983c671",
+      "latitude": -34.777269,
+      "longitude": 138.623189,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
-      "reported_at": "2026-02-16T20:55:19Z"
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T21:45:16Z"
+    },
+    {
+      "id": "c4638af9-c2f8-460d-bc1e-04a41b1b9c62",
+      "latitude": -34.680763,
+      "longitude": 138.630992,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-16T22:00:15Z",
+      "reported_at": "2026-02-16T21:58:07Z"
     },
     {
       "id": "3bfd7f70-51bd-418f-8bb6-85ec78380c27",
-      "latitude": -34.775774,
-      "longitude": 138.588398,
+      "latitude": -34.775981,
+      "longitude": 138.588245,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-02-16T21:30:15Z",
+      "timestamp": "2026-02-16T22:00:15Z",
       "reported_at": "2026-02-16T21:04:17Z"
     }
   ]
