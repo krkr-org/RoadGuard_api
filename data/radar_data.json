@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "9b73e4d7-2ba3-4e8a-82c8-71bc554ee221",
-      "latitude": -34.925265,
-      "longitude": 138.621123,
-      "street": "Wakefield St",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
-      "reported_at": "2026-02-16T09:10:51Z"
-    },
-    {
       "id": "262dcae5-453f-4672-8ba9-2bb5d04468b3",
       "latitude": -34.881934,
       "longitude": 138.66871,
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
+      "timestamp": "2026-02-16T13:00:17Z",
       "reported_at": "2026-02-16T09:18:35Z"
+    },
+    {
+      "id": "9b73e4d7-2ba3-4e8a-82c8-71bc554ee221",
+      "latitude": -34.925265,
+      "longitude": 138.621123,
+      "street": "Wakefield St",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2026-02-16T13:00:17Z",
+      "reported_at": "2026-02-16T09:10:51Z"
     },
     {
       "id": "04d764c5-9285-4eae-a504-026a8ac2cd28",
@@ -27,18 +27,18 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
+      "timestamp": "2026-02-16T13:00:17Z",
       "reported_at": "2026-02-16T10:39:41Z"
     },
     {
-      "id": "d98bfe40-6f85-4962-bb7c-0ac2a4dd0b40",
-      "latitude": -34.734393,
-      "longitude": 138.665731,
-      "street": "Fairfield Rd",
-      "city": "Elizabeth Grove",
+      "id": "3e8ce96a-c8e2-4752-b067-35468267d734",
+      "latitude": -34.937192,
+      "longitude": 138.594512,
+      "street": "Sir Lewis Cohen Av",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
-      "reported_at": "2026-02-16T12:04:43Z"
+      "timestamp": "2026-02-16T13:00:17Z",
+      "reported_at": "2026-02-16T10:59:11Z"
     },
     {
       "id": "44f42da5-4636-4433-a76a-d0b38cb202ec",
@@ -47,28 +47,8 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
+      "timestamp": "2026-02-16T13:00:17Z",
       "reported_at": "2026-02-16T09:57:18Z"
-    },
-    {
-      "id": "cd3d2bc3-8caa-4808-9de9-2f41aa264c9a",
-      "latitude": -34.92559,
-      "longitude": 138.620057,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
-      "reported_at": "2026-02-16T07:43:17Z"
-    },
-    {
-      "id": "b95348b6-9e90-4d4b-88c2-a43c934eb24e",
-      "latitude": -34.686782,
-      "longitude": 138.691238,
-      "street": "A20 - Main North Rd",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
-      "reported_at": "2026-02-16T12:11:28Z"
     },
     {
       "id": "22917a7b-6656-4bae-a9fc-4b900beb517c",
@@ -77,7 +57,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-16T12:30:14Z",
+      "timestamp": "2026-02-16T13:00:17Z",
       "reported_at": "2026-02-16T11:07:56Z"
     }
   ]
