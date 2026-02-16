@@ -1,14 +1,44 @@
 {
   "radars": [
     {
+      "id": "3e80d865-4e79-45bf-a090-a36662bbbd32",
+      "latitude": -34.935227,
+      "longitude": 138.536422,
+      "street": "James Schofield Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-02-16T20:30:15Z",
+      "reported_at": "2026-02-16T20:22:29Z"
+    },
+    {
+      "id": "b77bf572-0b22-495f-9e84-c0ae204fbef6",
+      "latitude": -34.712071,
+      "longitude": 138.634929,
+      "street": "McNamara Dr",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-16T20:30:15Z",
+      "reported_at": "2026-02-16T20:10:05Z"
+    },
+    {
       "id": "d9944c51-6fb5-41d0-a066-c62c29347424",
       "latitude": -35.027111,
       "longitude": 138.601049,
       "street": "Shepherds Hill Rd",
       "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2026-02-16T20:00:19Z",
+      "timestamp": "2026-02-16T20:30:15Z",
       "reported_at": "2026-02-16T19:48:56Z"
+    },
+    {
+      "id": "4194379e-cf86-4bd1-a173-d08720228dba",
+      "latitude": -34.867674,
+      "longitude": 138.570533,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-16T20:30:15Z",
+      "reported_at": "2026-02-16T20:17:04Z"
     }
   ]
 }
