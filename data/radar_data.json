@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "84823ae9-912c-465f-b723-a11fc8d7fb2a",
-      "latitude": -34.958202,
-      "longitude": 138.532657,
-      "street": "James Melrose Rd",
-      "city": "Adelaide Airport",
+      "id": "08eaaa12-5b40-4d9b-83f7-0f4a604c5c2f",
+      "latitude": -34.861405,
+      "longitude": 138.679831,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:53:05Z"
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T05:15:05Z"
+    },
+    {
+      "id": "20ffb67e-3892-4f1f-8dab-45a1ec4f22e1",
+      "latitude": -34.87975,
+      "longitude": 138.668289,
+      "street": "Hambledon Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T05:15:06Z"
+    },
+    {
+      "id": "d42ace82-8e93-44fe-bd5a-978559a3248a",
+      "latitude": -34.932249,
+      "longitude": 138.626502,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T05:19:18Z"
+    },
+    {
+      "id": "d12729bc-c6c4-44de-bcd7-17b21ea2aa55",
+      "latitude": -34.914566,
+      "longitude": 138.585735,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T05:04:45Z"
+    },
+    {
+      "id": "ff0a2bc7-3ea0-498e-b5ba-08831fd6e559",
+      "latitude": -34.938219,
+      "longitude": 138.594582,
+      "street": "Sir Lewis Cohen Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T05:14:24Z"
     },
     {
       "id": "02a7fcf7-d808-4f5d-8f3f-310909f51942",
@@ -17,48 +57,18 @@
       "street": "O.G Rd",
       "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
+      "timestamp": "2026-02-16T05:30:15Z",
       "reported_at": "2026-02-16T03:16:24Z"
     },
     {
-      "id": "9895e94f-8d30-4f64-8e80-4678152ffd9f",
-      "latitude": -34.92116,
-      "longitude": 138.607965,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "40f595bd-dae4-468e-ade6-44243da980cb",
+      "latitude": -34.925477,
+      "longitude": 138.632503,
+      "street": "Osmond Tce",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:31:49Z"
-    },
-    {
-      "id": "5dec7869-e587-4aa4-97e9-8a360b0fa438",
-      "latitude": -34.997002,
-      "longitude": 138.593037,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:34:05Z"
-    },
-    {
-      "id": "9164b007-b1c4-4e76-a4f3-adf001b87d2d",
-      "latitude": -34.896077,
-      "longitude": 138.59464,
-      "street": "Prospect Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T03:24:13Z"
-    },
-    {
-      "id": "2296e078-9a79-49e5-b922-17891cbf44c1",
-      "latitude": -35.032893,
-      "longitude": 138.56296,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:47:18Z"
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T04:55:46Z"
     },
     {
       "id": "24f849f3-6090-429b-b58e-cf6389b41c22",
@@ -67,68 +77,18 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
+      "timestamp": "2026-02-16T05:30:15Z",
       "reported_at": "2026-02-16T04:41:12Z"
     },
     {
-      "id": "7b45b907-4354-4689-b8b0-0693d211629f",
-      "latitude": -35.104297,
-      "longitude": 138.528175,
+      "id": "defe9c33-6e6d-4605-b6e9-b03bf1c4e96c",
+      "latitude": -35.120888,
+      "longitude": 138.523264,
       "street": "A13 - Main South Rd",
-      "city": "Reynella",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:30:50Z"
-    },
-    {
-      "id": "7754b650-6d91-4159-be75-bad33acb43ed",
-      "latitude": -35.015974,
-      "longitude": 138.689799,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Upper Sturt",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:32:24Z"
-    },
-    {
-      "id": "592675b7-00e0-4efb-923a-9464859a91fe",
-      "latitude": -34.936918,
-      "longitude": 138.517221,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:48:55Z"
-    },
-    {
-      "id": "cc20cc4d-0e30-4176-86a5-e175345565db",
-      "latitude": -34.829775,
-      "longitude": 138.61354,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:49:13Z"
-    },
-    {
-      "id": "88517dc0-e5b9-4c66-9f43-249392dd4fe7",
-      "latitude": -34.8168,
-      "longitude": 138.597916,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:50:43Z"
-    },
-    {
-      "id": "a8f0535a-a7a6-4297-868c-e44e9e61ce08",
-      "latitude": -34.816523,
-      "longitude": 138.676827,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-02-16T05:00:17Z",
-      "reported_at": "2026-02-16T04:35:45Z"
+      "timestamp": "2026-02-16T05:30:15Z",
+      "reported_at": "2026-02-16T05:16:15Z"
     }
   ]
 }
