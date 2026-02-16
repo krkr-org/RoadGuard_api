@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "4ec72b29-909a-4cb7-b173-307814de1fc6",
-      "latitude": -34.797058,
-      "longitude": 138.649986,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-02-16T15:00:16Z",
-      "reported_at": "2026-02-16T10:27:27Z"
-    },
-    {
-      "id": "3e8ce96a-c8e2-4752-b067-35468267d734",
-      "latitude": -34.937192,
-      "longitude": 138.594512,
-      "street": "Sir Lewis Cohen Av",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-16T15:00:16Z",
-      "reported_at": "2026-02-16T10:59:11Z"
-    },
-    {
       "id": "6a69974d-9345-4a20-a1d9-96668b2d25f9",
       "latitude": -34.813937,
       "longitude": 138.627,
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-16T15:00:16Z",
+      "timestamp": "2026-02-16T15:30:14Z",
       "reported_at": "2026-02-16T12:34:06Z"
+    },
+    {
+      "id": "ea0fc3da-4bc2-4555-8d12-7ef4bbf80251",
+      "latitude": -35.008383,
+      "longitude": 138.575662,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-02-16T15:30:14Z",
+      "reported_at": "2026-02-16T13:01:22Z"
     },
     {
       "id": "22917a7b-6656-4bae-a9fc-4b900beb517c",
@@ -37,7 +27,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-16T15:00:16Z",
+      "timestamp": "2026-02-16T15:30:14Z",
       "reported_at": "2026-02-16T11:07:56Z"
     }
   ]
