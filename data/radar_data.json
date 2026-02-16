@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "4ec72b29-909a-4cb7-b173-307814de1fc6",
+      "latitude": -34.797058,
+      "longitude": 138.649986,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-16T14:30:13Z",
+      "reported_at": "2026-02-16T10:27:27Z"
+    },
+    {
       "id": "04d764c5-9285-4eae-a504-026a8ac2cd28",
       "latitude": -34.861027,
       "longitude": 138.680153,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-02-16T14:00:14Z",
+      "timestamp": "2026-02-16T14:30:13Z",
       "reported_at": "2026-02-16T10:39:41Z"
     },
     {
@@ -17,18 +27,28 @@
       "street": "Sir Lewis Cohen Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T14:00:14Z",
+      "timestamp": "2026-02-16T14:30:13Z",
       "reported_at": "2026-02-16T10:59:11Z"
     },
     {
-      "id": "44f42da5-4636-4433-a76a-d0b38cb202ec",
-      "latitude": -34.925571,
-      "longitude": 138.632318,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "644526c5-58b9-4a72-85c6-e405a3f77254",
+      "latitude": -34.872399,
+      "longitude": 138.571129,
+      "street": "South Rd",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-16T14:00:14Z",
-      "reported_at": "2026-02-16T09:57:18Z"
+      "timestamp": "2026-02-16T14:30:13Z",
+      "reported_at": "2026-02-16T13:54:34Z"
+    },
+    {
+      "id": "488b9d94-b277-426b-9f0e-56d14f7d4948",
+      "latitude": -34.801477,
+      "longitude": 138.653946,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-16T14:30:13Z",
+      "reported_at": "2026-02-16T13:47:47Z"
     },
     {
       "id": "6a69974d-9345-4a20-a1d9-96668b2d25f9",
@@ -37,7 +57,7 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-16T14:00:14Z",
+      "timestamp": "2026-02-16T14:30:13Z",
       "reported_at": "2026-02-16T12:34:06Z"
     },
     {
@@ -47,7 +67,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-16T14:00:14Z",
+      "timestamp": "2026-02-16T14:30:13Z",
       "reported_at": "2026-02-16T11:07:56Z"
     }
   ]
