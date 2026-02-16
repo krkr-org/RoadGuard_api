@@ -7,7 +7,7 @@
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
+      "timestamp": "2026-02-16T10:32:20Z",
       "reported_at": "2026-02-16T08:06:53Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "Wakefield St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
+      "timestamp": "2026-02-16T10:32:20Z",
       "reported_at": "2026-02-16T09:10:51Z"
+    },
+    {
+      "id": "262dcae5-453f-4672-8ba9-2bb5d04468b3",
+      "latitude": -34.881934,
+      "longitude": 138.66871,
+      "street": "Clairville Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T09:18:35Z"
     },
     {
       "id": "43438b4f-67c8-4fce-bf32-2c6f95063477",
@@ -27,18 +37,28 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
+      "timestamp": "2026-02-16T10:32:20Z",
       "reported_at": "2026-02-16T05:19:19Z"
     },
     {
-      "id": "8142878b-b994-4c31-88f0-d8134c413cc2",
-      "latitude": -34.879758,
-      "longitude": 138.668311,
+      "id": "08eaaa12-5b40-4d9b-83f7-0f4a604c5c2f",
+      "latitude": -34.861597,
+      "longitude": 138.679849,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T05:15:05Z"
+    },
+    {
+      "id": "d4b4f43f-4fdb-452d-b154-a7e3749a0849",
+      "latitude": -34.879876,
+      "longitude": 138.667706,
       "street": "Hambledon Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
-      "reported_at": "2026-02-16T06:05:59Z"
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T08:11:34Z"
     },
     {
       "id": "eca2f46d-eadc-4fe6-a5a8-2345c77e7dd4",
@@ -47,7 +67,7 @@
       "street": "East Pwy",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
+      "timestamp": "2026-02-16T10:32:20Z",
       "reported_at": "2026-02-16T06:52:05Z"
     },
     {
@@ -57,18 +77,8 @@
       "street": "Seacombe Rd",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
+      "timestamp": "2026-02-16T10:32:20Z",
       "reported_at": "2026-02-16T06:41:13Z"
-    },
-    {
-      "id": "4c634962-ceef-4223-b559-a4ab1e2c44a3",
-      "latitude": -34.925053,
-      "longitude": 138.614971,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
-      "reported_at": "2026-02-16T06:12:07Z"
     },
     {
       "id": "6e7e437b-29a9-4bf0-a2ae-5599ba632b01",
@@ -77,38 +87,58 @@
       "street": "Sir Lewis Cohen Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
+      "timestamp": "2026-02-16T10:32:20Z",
       "reported_at": "2026-02-16T05:51:11Z"
     },
     {
-      "id": "96dae127-2524-4e9a-8e24-61401f55f288",
-      "latitude": -34.808699,
-      "longitude": 138.491328,
+      "id": "24f849f3-6090-429b-b58e-cf6389b41c22",
+      "latitude": -34.925122,
+      "longitude": 138.615106,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T04:41:12Z"
+    },
+    {
+      "id": "4886712d-6986-4c45-890d-9150db759e28",
+      "latitude": -34.809723,
+      "longitude": 138.491373,
       "street": "Lady Gowrie Dr",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
-      "reported_at": "2026-02-16T09:35:18Z"
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T10:26:39Z"
     },
     {
-      "id": "3cff2a31-80c0-423e-958d-53a83ee65cd5",
-      "latitude": -34.926553,
-      "longitude": 138.621166,
+      "id": "40f595bd-dae4-468e-ade6-44243da980cb",
+      "latitude": -34.925477,
+      "longitude": 138.632503,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T04:55:46Z"
+    },
+    {
+      "id": "75092994-7439-4ad1-a1b2-0bc075a5b3d0",
+      "latitude": -35.014953,
+      "longitude": 138.558597,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T10:03:30Z"
+    },
+    {
+      "id": "5e65cd2a-1c3e-4d3d-81d8-ce5bb3cbb0d8",
+      "latitude": -34.927043,
+      "longitude": 138.622069,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
-      "reported_at": "2026-02-16T08:00:23Z"
-    },
-    {
-      "id": "80730bdf-7db4-491c-a5bb-7b0c78496c1b",
-      "latitude": -34.908374,
-      "longitude": 138.514279,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-16T10:00:19Z",
-      "reported_at": "2026-02-16T09:34:17Z"
+      "timestamp": "2026-02-16T10:32:20Z",
+      "reported_at": "2026-02-16T07:33:41Z"
     }
   ]
 }
