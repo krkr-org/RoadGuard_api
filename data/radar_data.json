@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "9164b007-b1c4-4e76-a4f3-adf001b87d2d",
-      "latitude": -34.896077,
-      "longitude": 138.59464,
-      "street": "Prospect Rd",
-      "city": "Prospect",
+      "id": "84823ae9-912c-465f-b723-a11fc8d7fb2a",
+      "latitude": -34.958202,
+      "longitude": 138.532657,
+      "street": "James Melrose Rd",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-16T04:30:15Z",
-      "reported_at": "2026-02-16T03:24:13Z"
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:53:05Z"
     },
     {
       "id": "02a7fcf7-d808-4f5d-8f3f-310909f51942",
@@ -17,18 +17,118 @@
       "street": "O.G Rd",
       "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2026-02-16T04:30:15Z",
+      "timestamp": "2026-02-16T05:00:17Z",
       "reported_at": "2026-02-16T03:16:24Z"
     },
     {
-      "id": "f2798772-9188-4a0e-a72a-6180c6b20713",
-      "latitude": -34.831349,
-      "longitude": 138.612398,
+      "id": "9895e94f-8d30-4f64-8e80-4678152ffd9f",
+      "latitude": -34.92116,
+      "longitude": 138.607965,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:31:49Z"
+    },
+    {
+      "id": "5dec7869-e587-4aa4-97e9-8a360b0fa438",
+      "latitude": -34.997002,
+      "longitude": 138.593037,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:34:05Z"
+    },
+    {
+      "id": "9164b007-b1c4-4e76-a4f3-adf001b87d2d",
+      "latitude": -34.896077,
+      "longitude": 138.59464,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T03:24:13Z"
+    },
+    {
+      "id": "2296e078-9a79-49e5-b922-17891cbf44c1",
+      "latitude": -35.032893,
+      "longitude": 138.56296,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:47:18Z"
+    },
+    {
+      "id": "24f849f3-6090-429b-b58e-cf6389b41c22",
+      "latitude": -34.925124,
+      "longitude": 138.615406,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:41:12Z"
+    },
+    {
+      "id": "7b45b907-4354-4689-b8b0-0693d211629f",
+      "latitude": -35.104297,
+      "longitude": 138.528175,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:30:50Z"
+    },
+    {
+      "id": "7754b650-6d91-4159-be75-bad33acb43ed",
+      "latitude": -35.015974,
+      "longitude": 138.689799,
+      "street": "B28 - Upper Sturt Rd",
+      "city": "Upper Sturt",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:32:24Z"
+    },
+    {
+      "id": "592675b7-00e0-4efb-923a-9464859a91fe",
+      "latitude": -34.936918,
+      "longitude": 138.517221,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:48:55Z"
+    },
+    {
+      "id": "cc20cc4d-0e30-4176-86a5-e175345565db",
+      "latitude": -34.829775,
+      "longitude": 138.61354,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-16T04:30:15Z",
-      "reported_at": "2026-02-16T03:34:50Z"
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:49:13Z"
+    },
+    {
+      "id": "88517dc0-e5b9-4c66-9f43-249392dd4fe7",
+      "latitude": -34.8168,
+      "longitude": 138.597916,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:50:43Z"
+    },
+    {
+      "id": "a8f0535a-a7a6-4297-868c-e44e9e61ce08",
+      "latitude": -34.816523,
+      "longitude": 138.676827,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-02-16T05:00:17Z",
+      "reported_at": "2026-02-16T04:35:45Z"
     }
   ]
 }
