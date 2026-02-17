@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "9921bbd8-962f-4e89-b0c5-cf1a8563234d",
-      "latitude": -34.85563,
-      "longitude": 138.506977,
-      "street": "Webb St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
-      "reported_at": "2026-02-17T05:28:09Z"
-    },
-    {
       "id": "c90d5df0-a4c0-4406-962a-70b2c255ca24",
       "latitude": -34.912046,
       "longitude": 138.539834,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T06:54:40Z"
     },
     {
@@ -27,28 +17,28 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T05:38:12Z"
     },
     {
-      "id": "bd651ace-45e8-421a-8105-984778bf9d04",
-      "latitude": -34.91779,
-      "longitude": 138.501064,
-      "street": "Cudmore Tce",
-      "city": "Henley Beach",
+      "id": "5821463e-390c-451a-976a-84382a880282",
+      "latitude": -34.857505,
+      "longitude": 138.504809,
+      "street": "Webb St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
-      "reported_at": "2026-02-17T05:13:30Z"
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T05:53:38Z"
     },
     {
-      "id": "3a26b811-11dc-46f4-941d-4a9bbece0ef9",
-      "latitude": -34.86053,
-      "longitude": 138.490049,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
+      "id": "a0be1c6e-3360-4b1c-95be-36bed4d78027",
+      "latitude": -34.862642,
+      "longitude": 138.543491,
+      "street": "Ninth Av",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
-      "reported_at": "2026-02-17T06:57:51Z"
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T05:16:55Z"
     },
     {
       "id": "a9c03633-f04f-4b04-9fde-2500091e88f1",
@@ -57,8 +47,18 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T05:57:32Z"
+    },
+    {
+      "id": "80b0a2b6-204d-4f97-9914-1011f61ac265",
+      "latitude": -34.918198,
+      "longitude": 138.501207,
+      "street": "Cudmore Tce",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T05:58:10Z"
     },
     {
       "id": "61595a1d-db1c-4cd4-ba03-aa4b653c88a0",
@@ -67,7 +67,7 @@
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T06:30:02Z"
     },
     {
@@ -77,8 +77,18 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T05:09:47Z"
+    },
+    {
+      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
+      "latitude": -34.860131,
+      "longitude": 138.490859,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T05:04:00Z"
     },
     {
       "id": "1736d2eb-dd23-45a1-ae22-61847641cb13",
@@ -87,8 +97,28 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T07:04:59Z"
+    },
+    {
+      "id": "4fedf7c4-b698-418d-a8a5-4061197aaf66",
+      "latitude": -34.859056,
+      "longitude": 138.503115,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T07:38:31Z"
+    },
+    {
+      "id": "349f5003-354e-4715-86bf-31ad4a2ce983",
+      "latitude": -34.891837,
+      "longitude": 138.509823,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T07:40:30Z"
     },
     {
       "id": "1c92edd9-bd6a-426e-980e-024f22b480f2",
@@ -97,7 +127,7 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T06:54:56Z"
     },
     {
@@ -107,18 +137,8 @@
       "street": "Grange Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T07:10:13Z"
-    },
-    {
-      "id": "4cf730fb-d449-440f-b933-a37788e48abd",
-      "latitude": -34.891854,
-      "longitude": 138.511931,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
-      "reported_at": "2026-02-17T05:31:49Z"
     },
     {
       "id": "3910c37d-7579-4526-948d-646b7e809454",
@@ -127,28 +147,28 @@
       "street": "Grote St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
+      "timestamp": "2026-02-17T08:00:16Z",
       "reported_at": "2026-02-17T07:21:05Z"
     },
     {
-      "id": "4f62f119-d286-4ea0-9691-108983208afa",
-      "latitude": -35.143952,
-      "longitude": 138.48666,
-      "street": "A15 - Dyson Rd",
-      "city": "Port Noarlunga",
-      "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
-      "reported_at": "2026-02-17T06:42:32Z"
-    },
-    {
-      "id": "57a2c69c-e3d4-418c-9a51-64ed92fbf9e7",
-      "latitude": -34.868842,
-      "longitude": 138.518688,
+      "id": "2de8eef2-3f8d-496f-8d5b-3fa3a2cc5f0d",
+      "latitude": -34.867308,
+      "longitude": 138.517715,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:30:14Z",
-      "reported_at": "2026-02-17T05:42:11Z"
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T06:24:34Z"
+    },
+    {
+      "id": "a6fb00fe-4741-44ad-8b2f-98a271f18572",
+      "latitude": -34.689534,
+      "longitude": 138.689875,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-17T08:00:16Z",
+      "reported_at": "2026-02-17T07:47:01Z"
     }
   ]
 }
