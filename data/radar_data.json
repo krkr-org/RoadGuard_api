@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "ca406236-3d1e-4563-be76-8fd0d78e3854",
+      "latitude": -34.954198,
+      "longitude": 138.618525,
+      "street": "Wattle St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-02-17T21:30:14Z",
+      "reported_at": "2026-02-17T21:05:22Z"
+    },
+    {
+      "id": "88fd251b-01cb-4994-8e0c-32cbd31b36d0",
+      "latitude": -34.961933,
+      "longitude": 138.534087,
+      "street": "Bonython Av",
+      "city": "Novar Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-17T21:30:14Z",
+      "reported_at": "2026-02-17T21:02:17Z"
+    },
+    {
+      "id": "5dfe006e-9895-43bd-83ef-13de4ee6101c",
+      "latitude": -34.903882,
+      "longitude": 138.599853,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-17T21:30:14Z",
+      "reported_at": "2026-02-17T20:55:36Z"
+    },
+    {
       "id": "241a77b3-3a5e-4428-b37c-62e3294a4d7d",
       "latitude": -34.900794,
       "longitude": 138.532228,
       "street": "Findon Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-17T21:00:18Z",
+      "timestamp": "2026-02-17T21:30:14Z",
       "reported_at": "2026-02-17T20:42:03Z"
     },
     {
-      "id": "02315e9b-d2fb-42be-b76d-aa90e3255245",
-      "latitude": -34.927413,
-      "longitude": 138.632191,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "a09f53cd-3fef-4a0c-a315-6dad3fdbf0e9",
+      "latitude": -34.964235,
+      "longitude": 138.633493,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-02-17T21:00:18Z",
-      "reported_at": "2026-02-17T20:15:52Z"
-    },
-    {
-      "id": "66a5d449-17c4-4f08-b60a-cbafd5af01e1",
-      "latitude": -34.843177,
-      "longitude": 138.493235,
-      "street": "A16 - Causeway Rd",
-      "city": "Glanville",
-      "type": "mobile",
-      "timestamp": "2026-02-17T21:00:18Z",
-      "reported_at": "2026-02-17T20:03:28Z"
+      "timestamp": "2026-02-17T21:30:14Z",
+      "reported_at": "2026-02-17T21:07:20Z"
     }
   ]
 }
