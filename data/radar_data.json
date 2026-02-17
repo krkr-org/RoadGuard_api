@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "0968f618-8d0f-439d-9f81-dc9931fbe74b",
-      "latitude": -34.952194,
-      "longitude": 138.581188,
-      "street": "Everard Tce",
-      "city": "Forestville",
+      "id": "9921bbd8-962f-4e89-b0c5-cf1a8563234d",
+      "latitude": -34.85563,
+      "longitude": 138.506977,
+      "street": "Webb St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:03:00Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:28:09Z"
     },
     {
-      "id": "8333006e-5c0e-4b0e-a8d0-219189e169de",
-      "latitude": -34.943401,
-      "longitude": 138.503768,
+      "id": "143ab985-c0f9-4a2b-9b65-07aba924b794",
+      "latitude": -34.911806,
+      "longitude": 138.544407,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:40:04Z"
+    },
+    {
+      "id": "1f6d75a8-7285-44eb-ab67-ec37805884b1",
+      "latitude": -34.942724,
+      "longitude": 138.503508,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:09:47Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T04:53:27Z"
     },
     {
-      "id": "ce354934-9584-45bb-9399-ef56a605ae0b",
-      "latitude": -34.851126,
-      "longitude": 138.483755,
-      "street": "Sansom Rd",
-      "city": "Semaphore Park",
+      "id": "419d0b88-d20e-4b88-a8bd-a4e12789cabc",
+      "latitude": -34.894877,
+      "longitude": 138.573043,
+      "street": "Hawker St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:09:46Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:51:00Z"
     },
     {
       "id": "bd651ace-45e8-421a-8105-984778bf9d04",
@@ -37,108 +47,78 @@
       "street": "Cudmore Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
+      "timestamp": "2026-02-17T06:00:16Z",
       "reported_at": "2026-02-17T05:13:30Z"
     },
     {
-      "id": "5eb46408-206c-4654-9b30-1ae5cc1baae8",
-      "latitude": -34.945758,
-      "longitude": 138.503255,
-      "street": "West Beach Rd",
-      "city": "West Beach",
+      "id": "4cf730fb-d449-440f-b933-a37788e48abd",
+      "latitude": -34.891854,
+      "longitude": 138.511931,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:06:39Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:31:49Z"
     },
     {
-      "id": "c6f180e8-4da9-4cc4-b559-b3773768ce20",
-      "latitude": -35.016453,
-      "longitude": 138.632617,
-      "street": "Hawthorndene Dr",
-      "city": "Glenalta",
+      "id": "b3f7cb41-cc0e-4030-bf2d-02cc78db5153",
+      "latitude": -34.932392,
+      "longitude": 138.587969,
+      "street": "West Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:02:30Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:44:43Z"
     },
     {
-      "id": "a0be1c6e-3360-4b1c-95be-36bed4d78027",
-      "latitude": -34.862642,
-      "longitude": 138.543491,
-      "street": "Ninth Av",
-      "city": "Woodville North",
+      "id": "76255816-13c4-4312-87f8-5377e022ef0e",
+      "latitude": -34.834944,
+      "longitude": 138.617526,
+      "street": "South Tce",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:16:55Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:53:59Z"
     },
     {
-      "id": "15b4868d-1fe1-4c8d-9d81-8e78999c1476",
-      "latitude": -34.854533,
-      "longitude": 138.502369,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T04:50:52Z"
-    },
-    {
-      "id": "2ffb6fdf-64b5-40b5-ab32-2fd5300dacab",
-      "latitude": -34.903353,
-      "longitude": 138.491013,
-      "street": "Military Rd",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T04:57:15Z"
-    },
-    {
-      "id": "129ebc01-fb59-4f22-81a3-8ae8a6284602",
-      "latitude": -35.017619,
-      "longitude": 138.550018,
-      "street": "Sturt Rd",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:02:23Z"
-    },
-    {
-      "id": "53263dc7-4ff5-45f4-aabf-72e4e6968676",
-      "latitude": -34.707892,
-      "longitude": 138.701023,
-      "street": "Yorktown Rd",
-      "city": "Craigmore",
-      "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T04:58:52Z"
-    },
-    {
-      "id": "9e9e7f9b-1132-4884-bb79-325b20051e53",
-      "latitude": -34.718756,
-      "longitude": 138.765034,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:05:30Z"
-    },
-    {
-      "id": "9796ecee-2236-47fc-a689-1b89695486d6",
-      "latitude": -35.126704,
-      "longitude": 138.523675,
+      "id": "30fa77b2-e32b-42d4-988f-ab5e5af6cbed",
+      "latitude": -35.147192,
+      "longitude": 138.525303,
       "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T05:07:38Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:39:54Z"
     },
     {
-      "id": "89ec2c5d-17be-42ac-a76f-2e4b7b22f449",
-      "latitude": -34.852921,
-      "longitude": 138.664768,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
+      "id": "6320ec8e-f2c4-4bcf-a9d4-95d567afb3d7",
+      "latitude": -34.933577,
+      "longitude": 138.532626,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-17T05:30:15Z",
-      "reported_at": "2026-02-17T04:59:46Z"
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:51:59Z"
+    },
+    {
+      "id": "57a2c69c-e3d4-418c-9a51-64ed92fbf9e7",
+      "latitude": -34.868842,
+      "longitude": 138.518688,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:42:11Z"
+    },
+    {
+      "id": "ff6fa571-a0a2-4d42-8f17-b0b0425a2f81",
+      "latitude": -35.084838,
+      "longitude": 138.542252,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-17T06:00:16Z",
+      "reported_at": "2026-02-17T05:41:29Z"
     }
   ]
 }
