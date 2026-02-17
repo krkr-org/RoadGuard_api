@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "5821463e-390c-451a-976a-84382a880282",
-      "latitude": -34.857505,
-      "longitude": 138.504809,
-      "street": "Webb St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T05:53:38Z"
-    },
-    {
       "id": "c90d5df0-a4c0-4406-962a-70b2c255ca24",
       "latitude": -34.912046,
       "longitude": 138.539834,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
+      "timestamp": "2026-02-17T11:30:13Z",
       "reported_at": "2026-02-17T06:54:40Z"
     },
     {
@@ -27,38 +17,8 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
+      "timestamp": "2026-02-17T11:30:13Z",
       "reported_at": "2026-02-17T05:09:47Z"
-    },
-    {
-      "id": "a949c03f-6332-44d9-a074-dc3522f42421",
-      "latitude": -34.880802,
-      "longitude": 138.566654,
-      "street": "Days Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T06:42:02Z"
-    },
-    {
-      "id": "3a26b811-11dc-46f4-941d-4a9bbece0ef9",
-      "latitude": -34.86053,
-      "longitude": 138.490049,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T06:57:51Z"
-    },
-    {
-      "id": "9d1efb86-9a4f-469f-874a-ba20e80d308b",
-      "latitude": -34.895431,
-      "longitude": 138.526442,
-      "street": "Balcombe Av",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T06:39:05Z"
     },
     {
       "id": "89179624-5bf4-4833-9cd3-a1875c7142a4",
@@ -67,28 +27,18 @@
       "street": "Bentley Rd",
       "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
+      "timestamp": "2026-02-17T11:30:13Z",
       "reported_at": "2026-02-17T08:45:34Z"
     },
     {
-      "id": "9231dc23-6373-4e35-97e4-7bbdf820c885",
-      "latitude": -34.86719,
-      "longitude": 138.547795,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
+      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
+      "latitude": -34.860131,
+      "longitude": 138.490859,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T09:43:44Z"
-    },
-    {
-      "id": "78bd4cab-ad89-4fa4-b697-c1759fe23b4d",
-      "latitude": -34.891876,
-      "longitude": 138.511123,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T09:12:43Z"
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T05:04:00Z"
     },
     {
       "id": "1c92edd9-bd6a-426e-980e-024f22b480f2",
@@ -97,48 +47,28 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
+      "timestamp": "2026-02-17T11:30:13Z",
       "reported_at": "2026-02-17T06:54:56Z"
     },
     {
-      "id": "2b609939-c466-43d0-95d7-fb4790ba5efc",
-      "latitude": -34.76811,
-      "longitude": 138.621032,
-      "street": "Unknown Street",
-      "city": "Salisbury Downs",
+      "id": "e7871774-fe6a-4743-abba-61d8eec86eb2",
+      "latitude": -34.865358,
+      "longitude": 138.547667,
+      "street": "Hanson Rd",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T10:41:06Z"
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T09:42:42Z"
     },
     {
-      "id": "9daa1380-7411-48cc-997a-49f5ccd9b4f5",
-      "latitude": -34.704045,
-      "longitude": 138.663576,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
+      "id": "78bd4cab-ad89-4fa4-b697-c1759fe23b4d",
+      "latitude": -34.891876,
+      "longitude": 138.511123,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T10:46:00Z"
-    },
-    {
-      "id": "c9982692-bc3d-4466-941d-d600f8458dba",
-      "latitude": -35.105234,
-      "longitude": 138.522154,
-      "street": "Sherriffs Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T10:52:35Z"
-    },
-    {
-      "id": "2450da21-5f5a-4c61-8030-43a4228110c1",
-      "latitude": -34.913344,
-      "longitude": 138.548146,
-      "street": "A14 - Holbrooks Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
-      "reported_at": "2026-02-17T10:38:04Z"
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T09:12:43Z"
     },
     {
       "id": "13b53031-9801-4d30-844c-ac929ef06a44",
@@ -147,8 +77,48 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-17T11:00:15Z",
+      "timestamp": "2026-02-17T11:30:13Z",
       "reported_at": "2026-02-17T10:53:42Z"
+    },
+    {
+      "id": "f9a40012-b42b-46d1-8603-d673a66767e1",
+      "latitude": -34.84855,
+      "longitude": 138.58973,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T10:57:23Z"
+    },
+    {
+      "id": "3baa3e30-1508-4362-aaac-8f608f39e2a4",
+      "latitude": -34.905346,
+      "longitude": 138.611361,
+      "street": "R1 - Mann Rd (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T11:23:03Z"
+    },
+    {
+      "id": "2450da21-5f5a-4c61-8030-43a4228110c1",
+      "latitude": -34.913344,
+      "longitude": 138.548146,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T10:38:04Z"
+    },
+    {
+      "id": "9a808e82-d5c3-4a8a-a832-19517ef6f904",
+      "latitude": -34.773974,
+      "longitude": 138.617769,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-17T11:30:13Z",
+      "reported_at": "2026-02-17T11:10:08Z"
     }
   ]
 }
