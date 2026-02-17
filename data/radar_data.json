@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "fad2bb14-ba25-421e-a230-ff25f11bc52f",
-      "latitude": -34.713004,
-      "longitude": 138.668304,
-      "street": "Pewsey St",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-17T01:45:50Z"
-    },
-    {
-      "id": "7c7e40e3-2935-4c31-9e92-845e126b3443",
-      "latitude": -34.703883,
-      "longitude": 138.654689,
-      "street": "Hewittson Rd",
-      "city": "Edinburgh North",
-      "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-16T22:30:10Z"
-    },
-    {
       "id": "34d002db-641a-4d11-aefc-8eac398d7fc8",
       "latitude": -34.813849,
       "longitude": 138.607841,
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
+      "timestamp": "2026-02-17T03:00:16Z",
       "reported_at": "2026-02-16T21:45:28Z"
-    },
-    {
-      "id": "8dd9afc9-fc65-423c-b2e1-2c39ce83d212",
-      "latitude": -34.930776,
-      "longitude": 138.497625,
-      "street": "Seaview Rd",
-      "city": "Henley Beach South",
-      "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-17T01:21:22Z"
-    },
-    {
-      "id": "31a1b5ff-4b44-471c-982a-e875720ffa59",
-      "latitude": -34.867304,
-      "longitude": 138.693498,
-      "street": "George St",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-16T23:40:44Z"
     },
     {
       "id": "8e92eb9b-715b-46d5-9960-9585028592d8",
@@ -57,18 +17,48 @@
       "street": "Whites Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
+      "timestamp": "2026-02-17T03:00:16Z",
       "reported_at": "2026-02-16T20:55:30Z"
     },
     {
-      "id": "c2673df6-ca2f-46d6-993f-ba5f960f439e",
-      "latitude": -34.807044,
-      "longitude": 138.649698,
+      "id": "31a1b5ff-4b44-471c-982a-e875720ffa59",
+      "latitude": -34.867304,
+      "longitude": 138.693498,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-17T03:00:16Z",
+      "reported_at": "2026-02-16T23:40:44Z"
+    },
+    {
+      "id": "81cd3c0f-6dbf-43ee-ba75-72b500d8e0da",
+      "latitude": -35.005484,
+      "longitude": 138.565708,
+      "street": "Bradley Gr",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T03:00:16Z",
+      "reported_at": "2026-02-17T02:50:20Z"
+    },
+    {
+      "id": "1d09e5a8-34be-480e-99ae-471662555b43",
+      "latitude": -35.146616,
+      "longitude": 138.535481,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-02-17T03:00:16Z",
+      "reported_at": "2026-02-17T02:29:48Z"
+    },
+    {
+      "id": "c1357439-8f45-4467-9e6c-10e3a6c136cf",
+      "latitude": -34.808216,
+      "longitude": 138.651678,
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-16T21:54:21Z"
+      "timestamp": "2026-02-17T03:00:16Z",
+      "reported_at": "2026-02-16T21:11:25Z"
     },
     {
       "id": "f2b8ed61-ceb1-40fc-b6f8-31d6e929353f",
@@ -77,8 +67,18 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
+      "timestamp": "2026-02-17T03:00:16Z",
       "reported_at": "2026-02-16T22:44:58Z"
+    },
+    {
+      "id": "30f420bb-55b8-4344-ad6b-1c03925eeb94",
+      "latitude": -35.143456,
+      "longitude": 138.486628,
+      "street": "A15 - Dyson Rd",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-02-17T03:00:16Z",
+      "reported_at": "2026-02-17T02:28:04Z"
     },
     {
       "id": "1fda4ab0-248c-4cd7-b9f2-deac382ad4ce",
@@ -87,7 +87,7 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
+      "timestamp": "2026-02-17T03:00:16Z",
       "reported_at": "2026-02-16T20:54:26Z"
     },
     {
@@ -97,18 +97,8 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
+      "timestamp": "2026-02-17T03:00:16Z",
       "reported_at": "2026-02-17T02:09:46Z"
-    },
-    {
-      "id": "7c61138b-ca4f-412b-97d4-f9c04db62958",
-      "latitude": -34.795083,
-      "longitude": 138.612269,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-17T02:09:25Z"
     },
     {
       "id": "b36b437c-b15d-4828-a9fb-79fdb5ceb136",
@@ -117,18 +107,8 @@
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
+      "timestamp": "2026-02-17T03:00:16Z",
       "reported_at": "2026-02-17T00:50:10Z"
-    },
-    {
-      "id": "b748bcfb-9186-4c02-8c68-b440d60ca9a9",
-      "latitude": -34.971423,
-      "longitude": 138.657522,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-02-17T02:30:15Z",
-      "reported_at": "2026-02-17T01:59:33Z"
     }
   ]
 }
