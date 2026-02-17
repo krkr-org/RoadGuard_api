@@ -1,124 +1,84 @@
 {
   "radars": [
     {
-      "id": "9921bbd8-962f-4e89-b0c5-cf1a8563234d",
-      "latitude": -34.85563,
-      "longitude": 138.506977,
-      "street": "Webb St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:28:09Z"
-    },
-    {
       "id": "143ab985-c0f9-4a2b-9b65-07aba924b794",
       "latitude": -34.911806,
       "longitude": 138.544407,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
+      "timestamp": "2026-02-17T06:30:13Z",
       "reported_at": "2026-02-17T05:40:04Z"
     },
     {
-      "id": "1f6d75a8-7285-44eb-ab67-ec37805884b1",
-      "latitude": -34.942724,
-      "longitude": 138.503508,
-      "street": "Military Rd",
-      "city": "West Beach",
+      "id": "9921bbd8-962f-4e89-b0c5-cf1a8563234d",
+      "latitude": -34.85563,
+      "longitude": 138.506977,
+      "street": "Webb St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T04:53:27Z"
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T05:28:09Z"
     },
     {
-      "id": "419d0b88-d20e-4b88-a8bd-a4e12789cabc",
-      "latitude": -34.894877,
-      "longitude": 138.573043,
-      "street": "Hawker St",
-      "city": "Brompton",
+      "id": "3d49b7b1-c3ea-4d29-b050-04009299667c",
+      "latitude": -34.669787,
+      "longitude": 138.685575,
+      "street": "Douglas Dr",
+      "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:51:00Z"
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T06:02:51Z"
     },
     {
-      "id": "bd651ace-45e8-421a-8105-984778bf9d04",
-      "latitude": -34.91779,
-      "longitude": 138.501064,
+      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
+      "latitude": -34.860131,
+      "longitude": 138.490859,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T05:04:00Z"
+    },
+    {
+      "id": "a9c03633-f04f-4b04-9fde-2500091e88f1",
+      "latitude": -34.895443,
+      "longitude": 138.526165,
+      "street": "Balcombe Av",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T05:57:32Z"
+    },
+    {
+      "id": "80b0a2b6-204d-4f97-9914-1011f61ac265",
+      "latitude": -34.918198,
+      "longitude": 138.501207,
       "street": "Cudmore Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:13:30Z"
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T05:58:10Z"
     },
     {
-      "id": "4cf730fb-d449-440f-b933-a37788e48abd",
-      "latitude": -34.891854,
-      "longitude": 138.511931,
+      "id": "86044ff8-3730-46e9-908d-75ea6c55faca",
+      "latitude": -34.89173,
+      "longitude": 138.513266,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:31:49Z"
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T05:27:50Z"
     },
     {
-      "id": "b3f7cb41-cc0e-4030-bf2d-02cc78db5153",
-      "latitude": -34.932392,
-      "longitude": 138.587969,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "2c57098e-6fcb-4047-aa1c-21cab975aaa8",
+      "latitude": -34.678917,
+      "longitude": 138.617768,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:44:43Z"
-    },
-    {
-      "id": "76255816-13c4-4312-87f8-5377e022ef0e",
-      "latitude": -34.834944,
-      "longitude": 138.617526,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:53:59Z"
-    },
-    {
-      "id": "30fa77b2-e32b-42d4-988f-ab5e5af6cbed",
-      "latitude": -35.147192,
-      "longitude": 138.525303,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:39:54Z"
-    },
-    {
-      "id": "6320ec8e-f2c4-4bcf-a9d4-95d567afb3d7",
-      "latitude": -34.933577,
-      "longitude": 138.532626,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:51:59Z"
-    },
-    {
-      "id": "57a2c69c-e3d4-418c-9a51-64ed92fbf9e7",
-      "latitude": -34.868842,
-      "longitude": 138.518688,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:42:11Z"
-    },
-    {
-      "id": "ff6fa571-a0a2-4d42-8f17-b0b0425a2f81",
-      "latitude": -35.084838,
-      "longitude": 138.542252,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:00:16Z",
-      "reported_at": "2026-02-17T05:41:29Z"
+      "timestamp": "2026-02-17T06:30:13Z",
+      "reported_at": "2026-02-17T06:26:06Z"
     }
   ]
 }
