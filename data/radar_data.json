@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "ed12d0ad-df9c-42d2-98e3-9c9d1c856472",
-      "latitude": -34.913905,
-      "longitude": 138.526361,
-      "street": "Valetta Rd",
-      "city": "Kidman Park",
+      "id": "b5beba04-035e-4041-b477-6de5859c7df9",
+      "latitude": -34.733811,
+      "longitude": 138.638654,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:00:15Z",
-      "reported_at": "2026-02-17T03:28:01Z"
-    },
-    {
-      "id": "a35e4770-f2e1-4137-ab8a-ca977ea36329",
-      "latitude": -34.814245,
-      "longitude": 138.607827,
-      "street": "Mawson Lakes Bvd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-17T04:00:15Z",
-      "reported_at": "2026-02-17T00:21:50Z"
+      "timestamp": "2026-02-17T04:30:15Z",
+      "reported_at": "2026-02-17T03:56:00Z"
     },
     {
       "id": "1d09e5a8-34be-480e-99ae-471662555b43",
@@ -27,18 +17,18 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:00:15Z",
+      "timestamp": "2026-02-17T04:30:15Z",
       "reported_at": "2026-02-17T02:29:48Z"
     },
     {
-      "id": "18a10c0d-7ab8-4774-8f6f-3773ff327d18",
-      "latitude": -34.717005,
-      "longitude": 138.600428,
-      "street": "Heaslip Rd",
-      "city": "Waterloo Corner",
+      "id": "a7ee2dfc-03d2-48f1-a5ab-594da9d694bf",
+      "latitude": -35.081364,
+      "longitude": 138.570135,
+      "street": "Chandlers Hill Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:00:15Z",
-      "reported_at": "2026-02-17T03:28:04Z"
+      "timestamp": "2026-02-17T04:30:15Z",
+      "reported_at": "2026-02-17T03:56:42Z"
     },
     {
       "id": "82c33ec8-62fa-4300-b44a-ec4e9d4db4ab",
@@ -47,18 +37,38 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:00:15Z",
+      "timestamp": "2026-02-17T04:30:15Z",
       "reported_at": "2026-02-17T01:11:52Z"
     },
     {
-      "id": "b1af4545-f778-4b04-9b72-f03e6902530d",
-      "latitude": -34.765619,
-      "longitude": 138.604066,
-      "street": "A18 - Kings Rd",
-      "city": "Paralowie",
+      "id": "d83bdb0f-09ea-4598-bafe-2b108f9f6429",
+      "latitude": -34.773653,
+      "longitude": 138.647284,
+      "street": "Cross Keys Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:00:15Z",
-      "reported_at": "2026-02-17T01:06:59Z"
+      "timestamp": "2026-02-17T04:30:15Z",
+      "reported_at": "2026-02-17T04:08:39Z"
+    },
+    {
+      "id": "18a10c0d-7ab8-4774-8f6f-3773ff327d18",
+      "latitude": -34.717005,
+      "longitude": 138.600428,
+      "street": "Heaslip Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-02-17T04:30:15Z",
+      "reported_at": "2026-02-17T03:28:04Z"
+    },
+    {
+      "id": "441e49f0-ec13-440f-8d03-b1f8725deb1f",
+      "latitude": -34.924948,
+      "longitude": 138.618882,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-17T04:30:15Z",
+      "reported_at": "2026-02-17T04:20:33Z"
     }
   ]
 }
