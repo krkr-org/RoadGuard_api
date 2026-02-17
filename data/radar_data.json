@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "b5beba04-035e-4041-b477-6de5859c7df9",
-      "latitude": -34.733811,
-      "longitude": 138.638654,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "1f6d75a8-7285-44eb-ab67-ec37805884b1",
+      "latitude": -34.942724,
+      "longitude": 138.503508,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
-      "reported_at": "2026-02-17T03:56:00Z"
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:53:27Z"
+    },
+    {
+      "id": "15b4868d-1fe1-4c8d-9d81-8e78999c1476",
+      "latitude": -34.854533,
+      "longitude": 138.502369,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:50:52Z"
     },
     {
       "id": "1d09e5a8-34be-480e-99ae-471662555b43",
@@ -17,58 +27,58 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
+      "timestamp": "2026-02-17T05:00:15Z",
       "reported_at": "2026-02-17T02:29:48Z"
     },
     {
-      "id": "a7ee2dfc-03d2-48f1-a5ab-594da9d694bf",
-      "latitude": -35.081364,
-      "longitude": 138.570135,
-      "street": "Chandlers Hill Rd",
-      "city": "Happy Valley",
+      "id": "fc567081-db3f-4929-a099-caa5790962cb",
+      "latitude": -34.819171,
+      "longitude": 138.501112,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
-      "reported_at": "2026-02-17T03:56:42Z"
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:48:12Z"
     },
     {
-      "id": "82c33ec8-62fa-4300-b44a-ec4e9d4db4ab",
-      "latitude": -34.742222,
-      "longitude": 138.630051,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "72a93203-0630-43e2-bbec-d83b7c788d62",
+      "latitude": -34.977325,
+      "longitude": 138.626982,
+      "street": "B28 - Maitland St",
+      "city": "Mitcham",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
-      "reported_at": "2026-02-17T01:11:52Z"
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:43:17Z"
     },
     {
-      "id": "d83bdb0f-09ea-4598-bafe-2b108f9f6429",
-      "latitude": -34.773653,
-      "longitude": 138.647284,
-      "street": "Cross Keys Rd",
-      "city": "Salisbury",
+      "id": "0760d997-a4b2-4d7d-a7bf-98a7d2a1f1c1",
+      "latitude": -34.849077,
+      "longitude": 138.715535,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
-      "reported_at": "2026-02-17T04:08:39Z"
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:25:39Z"
     },
     {
-      "id": "18a10c0d-7ab8-4774-8f6f-3773ff327d18",
-      "latitude": -34.717005,
-      "longitude": 138.600428,
-      "street": "Heaslip Rd",
-      "city": "Waterloo Corner",
+      "id": "03e293bb-0fa5-4f80-aec2-973fc546cf0c",
+      "latitude": -34.760876,
+      "longitude": 138.674355,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
-      "reported_at": "2026-02-17T03:28:04Z"
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:59:01Z"
     },
     {
-      "id": "441e49f0-ec13-440f-8d03-b1f8725deb1f",
-      "latitude": -34.924948,
-      "longitude": 138.618882,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "d2879fec-efc9-4425-9f85-607105da736e",
+      "latitude": -34.995768,
+      "longitude": 138.740166,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2026-02-17T04:30:15Z",
-      "reported_at": "2026-02-17T04:20:33Z"
+      "timestamp": "2026-02-17T05:00:15Z",
+      "reported_at": "2026-02-17T04:50:25Z"
     }
   ]
 }
