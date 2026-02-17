@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "143ab985-c0f9-4a2b-9b65-07aba924b794",
-      "latitude": -34.911806,
-      "longitude": 138.544407,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
-      "reported_at": "2026-02-17T05:40:04Z"
-    },
-    {
-      "id": "9921bbd8-962f-4e89-b0c5-cf1a8563234d",
-      "latitude": -34.85563,
-      "longitude": 138.506977,
-      "street": "Webb St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
-      "reported_at": "2026-02-17T05:28:09Z"
-    },
-    {
-      "id": "3d49b7b1-c3ea-4d29-b050-04009299667c",
-      "latitude": -34.669787,
-      "longitude": 138.685575,
-      "street": "Douglas Dr",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
-      "reported_at": "2026-02-17T06:02:51Z"
-    },
-    {
-      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
-      "latitude": -34.860131,
-      "longitude": 138.490859,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
-      "reported_at": "2026-02-17T05:04:00Z"
-    },
-    {
       "id": "a9c03633-f04f-4b04-9fde-2500091e88f1",
       "latitude": -34.895443,
       "longitude": 138.526165,
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
+      "timestamp": "2026-02-17T07:00:15Z",
       "reported_at": "2026-02-17T05:57:32Z"
+    },
+    {
+      "id": "61595a1d-db1c-4cd4-ba03-aa4b653c88a0",
+      "latitude": -34.880715,
+      "longitude": 138.566648,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T06:30:02Z"
     },
     {
       "id": "80b0a2b6-204d-4f97-9914-1011f61ac265",
@@ -57,28 +27,88 @@
       "street": "Cudmore Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
+      "timestamp": "2026-02-17T07:00:15Z",
       "reported_at": "2026-02-17T05:58:10Z"
     },
     {
-      "id": "86044ff8-3730-46e9-908d-75ea6c55faca",
-      "latitude": -34.89173,
-      "longitude": 138.513266,
+      "id": "8333006e-5c0e-4b0e-a8d0-219189e169de",
+      "latitude": -34.943401,
+      "longitude": 138.503768,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T05:09:47Z"
+    },
+    {
+      "id": "5f5e67e6-01b1-4e6f-bf6d-b8bd79fc8ac6",
+      "latitude": -34.862721,
+      "longitude": 138.541364,
+      "street": "Ninth Av",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T06:10:33Z"
+    },
+    {
+      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
+      "latitude": -34.860131,
+      "longitude": 138.490859,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T05:04:00Z"
+    },
+    {
+      "id": "4cf730fb-d449-440f-b933-a37788e48abd",
+      "latitude": -34.891854,
+      "longitude": 138.511931,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
-      "reported_at": "2026-02-17T05:27:50Z"
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T05:31:49Z"
     },
     {
-      "id": "2c57098e-6fcb-4047-aa1c-21cab975aaa8",
-      "latitude": -34.678917,
-      "longitude": 138.617768,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
+      "id": "99c5aacc-ea37-49e4-a4ba-58e71022abc5",
+      "latitude": -34.879343,
+      "longitude": 138.635279,
+      "street": "O.G Rd",
+      "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2026-02-17T06:30:13Z",
-      "reported_at": "2026-02-17T06:26:06Z"
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T06:23:36Z"
+    },
+    {
+      "id": "d22c5cd7-0256-4e89-bc3a-6e1606610507",
+      "latitude": -34.978218,
+      "longitude": 138.591659,
+      "street": "Goodwood Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T06:27:08Z"
+    },
+    {
+      "id": "4f62f119-d286-4ea0-9691-108983208afa",
+      "latitude": -35.143952,
+      "longitude": 138.48666,
+      "street": "A15 - Dyson Rd",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T06:42:32Z"
+    },
+    {
+      "id": "87a91bb3-5567-4553-8119-b1219fbd2144",
+      "latitude": -34.867269,
+      "longitude": 138.517691,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:00:15Z",
+      "reported_at": "2026-02-17T06:11:14Z"
     }
   ]
 }
