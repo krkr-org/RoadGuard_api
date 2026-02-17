@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "72b87989-bb42-486e-8ecb-621e68c1224f",
-      "latitude": -34.79691,
-      "longitude": 138.649713,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "c90d5df0-a4c0-4406-962a-70b2c255ca24",
+      "latitude": -34.912046,
+      "longitude": 138.539834,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T05:38:12Z"
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T06:54:40Z"
     },
     {
       "id": "5821463e-390c-451a-976a-84382a880282",
@@ -17,18 +17,18 @@
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
+      "timestamp": "2026-02-17T10:00:16Z",
       "reported_at": "2026-02-17T05:53:38Z"
     },
     {
-      "id": "c90d5df0-a4c0-4406-962a-70b2c255ca24",
-      "latitude": -34.912046,
-      "longitude": 138.539834,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
+      "id": "a949c03f-6332-44d9-a074-dc3522f42421",
+      "latitude": -34.880802,
+      "longitude": 138.566654,
+      "street": "Days Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T06:54:40Z"
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T06:42:02Z"
     },
     {
       "id": "89179624-5bf4-4833-9cd3-a1875c7142a4",
@@ -37,28 +37,8 @@
       "street": "Bentley Rd",
       "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
+      "timestamp": "2026-02-17T10:00:16Z",
       "reported_at": "2026-02-17T08:45:34Z"
-    },
-    {
-      "id": "61595a1d-db1c-4cd4-ba03-aa4b653c88a0",
-      "latitude": -34.880715,
-      "longitude": 138.566648,
-      "street": "Days Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T06:30:02Z"
-    },
-    {
-      "id": "396f9002-0a6a-4b6e-a0b9-619bec36c9b3",
-      "latitude": -34.860183,
-      "longitude": 138.490755,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T07:34:20Z"
     },
     {
       "id": "a9c03633-f04f-4b04-9fde-2500091e88f1",
@@ -67,28 +47,18 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
+      "timestamp": "2026-02-17T10:00:16Z",
       "reported_at": "2026-02-17T05:57:32Z"
     },
     {
-      "id": "884bfcd2-c75b-4782-9fa3-ac2dfad3938c",
-      "latitude": -34.843395,
-      "longitude": 138.514855,
-      "street": "Perkins Dr",
-      "city": "Port Adelaide",
+      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
+      "latitude": -34.860131,
+      "longitude": 138.490859,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T08:44:24Z"
-    },
-    {
-      "id": "80b0a2b6-204d-4f97-9914-1011f61ac265",
-      "latitude": -34.918198,
-      "longitude": 138.501207,
-      "street": "Cudmore Tce",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T05:58:10Z"
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T05:04:00Z"
     },
     {
       "id": "8333006e-5c0e-4b0e-a8d0-219189e169de",
@@ -97,8 +67,38 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
+      "timestamp": "2026-02-17T10:00:16Z",
       "reported_at": "2026-02-17T05:09:47Z"
+    },
+    {
+      "id": "80b0a2b6-204d-4f97-9914-1011f61ac265",
+      "latitude": -34.918198,
+      "longitude": 138.501207,
+      "street": "Cudmore Tce",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T05:58:10Z"
+    },
+    {
+      "id": "66b5ed06-e74f-47d0-9029-96cfdcd10a89",
+      "latitude": -34.925151,
+      "longitude": 138.543717,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T09:54:24Z"
+    },
+    {
+      "id": "349f5003-354e-4715-86bf-31ad4a2ce983",
+      "latitude": -34.891837,
+      "longitude": 138.509823,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T07:40:30Z"
     },
     {
       "id": "1c92edd9-bd6a-426e-980e-024f22b480f2",
@@ -107,78 +107,48 @@
       "street": "Military Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
+      "timestamp": "2026-02-17T10:00:16Z",
       "reported_at": "2026-02-17T06:54:56Z"
     },
     {
-      "id": "2123c937-f7cb-4529-8f1d-719f74b57185",
-      "latitude": -34.905345,
-      "longitude": 138.53563,
-      "street": "Grange Rd",
-      "city": "Flinders Park",
+      "id": "2ef3d3b7-312d-406d-bfac-69e623c616b6",
+      "latitude": -34.841347,
+      "longitude": 138.673862,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T09:16:58Z"
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T09:51:58Z"
     },
     {
-      "id": "78bd4cab-ad89-4fa4-b697-c1759fe23b4d",
-      "latitude": -34.891876,
-      "longitude": 138.511123,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T09:12:43Z"
-    },
-    {
-      "id": "b29fc30a-816b-44fe-af31-e447435a65fd",
-      "latitude": -34.865858,
-      "longitude": 138.547703,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T08:24:44Z"
-    },
-    {
-      "id": "6d1eef3e-ada5-4746-b97f-018451ca9946",
-      "latitude": -34.917498,
-      "longitude": 138.619142,
-      "street": "A11 - North Tce",
-      "city": "Kent Town",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T09:10:07Z"
-    },
-    {
-      "id": "e6853a29-46ab-4e91-8026-c307ed6c9fda",
-      "latitude": -34.914689,
-      "longitude": 138.548218,
-      "street": "A14 - Holbrooks Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T09:02:50Z"
-    },
-    {
-      "id": "87a91bb3-5567-4553-8119-b1219fbd2144",
-      "latitude": -34.867269,
-      "longitude": 138.517691,
+      "id": "57a2c69c-e3d4-418c-9a51-64ed92fbf9e7",
+      "latitude": -34.868842,
+      "longitude": 138.518688,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T06:11:14Z"
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T05:42:11Z"
     },
     {
-      "id": "3b5b5561-30e9-4379-bc83-6f61a2d7240b",
-      "latitude": -34.880447,
-      "longitude": 138.619768,
-      "street": "A17 - Hampstead Rd",
-      "city": "Broadview",
+      "id": "f9fa4345-6945-42c9-8cb3-b0ee76bf3dc9",
+      "latitude": -34.791487,
+      "longitude": 138.646812,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2026-02-17T09:30:14Z",
-      "reported_at": "2026-02-17T08:48:27Z"
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T09:29:57Z"
+    },
+    {
+      "id": "5b21cedb-7775-4770-8155-e7226da77c94",
+      "latitude": -34.998343,
+      "longitude": 138.706974,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-02-17T10:00:16Z",
+      "reported_at": "2026-02-17T09:22:58Z"
     }
   ]
 }
