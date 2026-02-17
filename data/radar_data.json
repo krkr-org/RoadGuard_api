@@ -1,74 +1,24 @@
 {
   "radars": [
     {
-      "id": "2da7351e-ac58-4edd-9723-b56def02bebc",
-      "latitude": -34.989352,
-      "longitude": 138.513847,
-      "street": "Moseley St",
-      "city": "Glenelg South",
-      "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T21:51:52Z"
-    },
-    {
       "id": "7c7e40e3-2935-4c31-9e92-845e126b3443",
       "latitude": -34.703883,
       "longitude": 138.654689,
       "street": "Hewittson Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
+      "timestamp": "2026-02-17T02:00:15Z",
       "reported_at": "2026-02-16T22:30:10Z"
     },
     {
-      "id": "8e92eb9b-715b-46d5-9960-9585028592d8",
-      "latitude": -34.760231,
-      "longitude": 138.611643,
-      "street": "Whites Rd",
-      "city": "Paralowie",
+      "id": "b7e85445-dca3-45bb-9cab-668cf7664a32",
+      "latitude": -34.776872,
+      "longitude": 138.600132,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T20:55:30Z"
-    },
-    {
-      "id": "a35e4770-f2e1-4137-ab8a-ca977ea36329",
-      "latitude": -34.814245,
-      "longitude": 138.607827,
-      "street": "Mawson Lakes Bvd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-17T00:21:50Z"
-    },
-    {
-      "id": "f7fef8e7-df52-47fb-8d01-f14ead8064fd",
-      "latitude": -34.888363,
-      "longitude": 138.490472,
-      "street": "Sportsmans Dr",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T22:58:56Z"
-    },
-    {
-      "id": "8dd9afc9-fc65-423c-b2e1-2c39ce83d212",
-      "latitude": -34.930776,
-      "longitude": 138.497625,
-      "street": "Seaview Rd",
-      "city": "Henley Beach South",
-      "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-17T01:21:22Z"
-    },
-    {
-      "id": "d820ec0a-30fe-4385-a048-d607e5cb41f1",
-      "latitude": -34.866147,
-      "longitude": 138.621382,
-      "street": "Redward Av",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T21:43:03Z"
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T01:30:36Z"
     },
     {
       "id": "31a1b5ff-4b44-471c-982a-e875720ffa59",
@@ -77,18 +27,38 @@
       "street": "George St",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
+      "timestamp": "2026-02-17T02:00:15Z",
       "reported_at": "2026-02-16T23:40:44Z"
     },
     {
-      "id": "c1357439-8f45-4467-9e6c-10e3a6c136cf",
-      "latitude": -34.808216,
-      "longitude": 138.651678,
-      "street": "Kesters Rd",
-      "city": "Para Hills",
+      "id": "a35e4770-f2e1-4137-ab8a-ca977ea36329",
+      "latitude": -34.814245,
+      "longitude": 138.607827,
+      "street": "Mawson Lakes Bvd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T21:11:25Z"
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T00:21:50Z"
+    },
+    {
+      "id": "8dd9afc9-fc65-423c-b2e1-2c39ce83d212",
+      "latitude": -34.930776,
+      "longitude": 138.497625,
+      "street": "Seaview Rd",
+      "city": "Henley Beach South",
+      "type": "mobile",
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T01:21:22Z"
+    },
+    {
+      "id": "8e92eb9b-715b-46d5-9960-9585028592d8",
+      "latitude": -34.760231,
+      "longitude": 138.611643,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-16T20:55:30Z"
     },
     {
       "id": "cfdbbadf-46c3-49cb-b7c3-4b6b693c84c5",
@@ -97,8 +67,48 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
+      "timestamp": "2026-02-17T02:00:15Z",
       "reported_at": "2026-02-17T01:10:41Z"
+    },
+    {
+      "id": "d013b5ba-b47a-41dc-893a-df2e91162b04",
+      "latitude": -34.827331,
+      "longitude": 138.661666,
+      "street": "Nelson Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T01:31:56Z"
+    },
+    {
+      "id": "c1357439-8f45-4467-9e6c-10e3a6c136cf",
+      "latitude": -34.808216,
+      "longitude": 138.651678,
+      "street": "Kesters Rd",
+      "city": "Para Hills",
+      "type": "mobile",
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-16T21:11:25Z"
+    },
+    {
+      "id": "5fe713ad-414a-43ec-aca8-20362dab0bb7",
+      "latitude": -34.669244,
+      "longitude": 138.673035,
+      "street": "Curtis Rd",
+      "city": "Munno Para West",
+      "type": "mobile",
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T01:36:51Z"
+    },
+    {
+      "id": "0e9c0c04-b40b-4a5b-b841-6692b5ffb790",
+      "latitude": -34.956721,
+      "longitude": 138.566168,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T01:01:02Z"
     },
     {
       "id": "863fd328-a622-4ddd-a1ec-75c4dc9fb1cc",
@@ -107,18 +117,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
+      "timestamp": "2026-02-17T02:00:15Z",
       "reported_at": "2026-02-17T01:21:40Z"
     },
     {
-      "id": "1fda4ab0-248c-4cd7-b9f2-deac382ad4ce",
-      "latitude": -34.842941,
-      "longitude": 138.589335,
+      "id": "f5b3301a-0f33-4aa5-b0eb-1c856bfb6c85",
+      "latitude": -34.843724,
+      "longitude": 138.588371,
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T20:54:26Z"
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-17T01:42:23Z"
     },
     {
       "id": "b1af4545-f778-4b04-9b72-f03e6902530d",
@@ -127,28 +137,18 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
+      "timestamp": "2026-02-17T02:00:15Z",
       "reported_at": "2026-02-17T01:06:59Z"
     },
     {
-      "id": "4f0e8bd4-3e9b-463b-885b-5d83b9e97783",
-      "latitude": -34.763022,
-      "longitude": 138.672155,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-17T00:53:57Z"
-    },
-    {
-      "id": "58810c79-dd57-4b34-9501-020612d5d002",
-      "latitude": -34.775073,
-      "longitude": 138.588892,
+      "id": "fe6ef08c-210f-40d1-8371-30c078c6d410",
+      "latitude": -34.775799,
+      "longitude": 138.588379,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-02-17T01:30:15Z",
-      "reported_at": "2026-02-16T22:32:41Z"
+      "timestamp": "2026-02-17T02:00:15Z",
+      "reported_at": "2026-02-16T23:48:52Z"
     }
   ]
 }
