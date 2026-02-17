@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "881429ac-f4f1-4808-be4a-19f4f577ccae",
+      "latitude": -34.926937,
+      "longitude": 138.641001,
+      "street": "Kensington Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-02-17T20:30:15Z",
+      "reported_at": "2026-02-17T20:17:17Z"
+    },
+    {
+      "id": "66a5d449-17c4-4f08-b60a-cbafd5af01e1",
+      "latitude": -34.843177,
+      "longitude": 138.493235,
+      "street": "A16 - Causeway Rd",
+      "city": "Glanville",
+      "type": "mobile",
+      "timestamp": "2026-02-17T20:30:15Z",
+      "reported_at": "2026-02-17T20:03:28Z"
+    }
+  ]
 }
