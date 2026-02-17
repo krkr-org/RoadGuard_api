@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "2da7351e-ac58-4edd-9723-b56def02bebc",
-      "latitude": -34.989352,
-      "longitude": 138.513847,
-      "street": "Moseley St",
-      "city": "Glenelg South",
-      "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T21:51:52Z"
-    },
-    {
       "id": "7c7e40e3-2935-4c31-9e92-845e126b3443",
       "latitude": -34.703883,
       "longitude": 138.654689,
       "street": "Hewittson Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T22:30:10Z"
     },
     {
-      "id": "17f46c8a-3474-4536-b105-9361dbf4036b",
-      "latitude": -34.775846,
-      "longitude": 138.598444,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
+      "id": "2da7351e-ac58-4edd-9723-b56def02bebc",
+      "latitude": -34.989352,
+      "longitude": 138.513847,
+      "street": "Moseley St",
+      "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T21:20:15Z"
-    },
-    {
-      "id": "8e92eb9b-715b-46d5-9960-9585028592d8",
-      "latitude": -34.760231,
-      "longitude": 138.611643,
-      "street": "Whites Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T20:55:30Z"
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-16T21:51:52Z"
     },
     {
       "id": "34d002db-641a-4d11-aefc-8eac398d7fc8",
@@ -47,7 +27,7 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T21:45:28Z"
     },
     {
@@ -57,8 +37,18 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T20:28:23Z"
+    },
+    {
+      "id": "7cb1938b-f2b3-4168-9bbd-58d5f517e626",
+      "latitude": -34.759251,
+      "longitude": 138.612506,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-16T23:31:16Z"
     },
     {
       "id": "c821eed9-9d64-4d86-ac7d-7bebd8f90643",
@@ -67,18 +57,48 @@
       "street": "Newland Av",
       "city": "Marino",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T21:20:22Z"
     },
     {
+      "id": "31a1b5ff-4b44-471c-982a-e875720ffa59",
+      "latitude": -34.867304,
+      "longitude": 138.693498,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-16T23:40:44Z"
+    },
+    {
+      "id": "c996d5b5-ad26-4e6f-96ca-4e674ad284ec",
+      "latitude": -34.682749,
+      "longitude": 138.676841,
+      "street": "Davoren Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-17T00:13:55Z"
+    },
+    {
       "id": "c1357439-8f45-4467-9e6c-10e3a6c136cf",
-      "latitude": -34.80783,
-      "longitude": 138.65105,
+      "latitude": -34.808216,
+      "longitude": 138.651678,
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T21:11:25Z"
+    },
+    {
+      "id": "6e7e9f0d-b932-4efa-b702-d29c664909b7",
+      "latitude": -34.896045,
+      "longitude": 138.594638,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-17T00:25:23Z"
     },
     {
       "id": "f2b8ed61-ceb1-40fc-b6f8-31d6e929353f",
@@ -87,38 +107,48 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T22:44:58Z"
     },
     {
-      "id": "b9b5c6b6-7354-4a47-b3a8-b2bb9362d6c7",
-      "latitude": -35.057036,
-      "longitude": 138.559697,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
+      "id": "b6dd4dc9-12de-4609-8de7-959d7c0768c1",
+      "latitude": -34.748145,
+      "longitude": 138.639788,
+      "street": "Commercial Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T23:05:59Z"
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-16T23:59:24Z"
+    },
+    {
+      "id": "446eda0d-d3ab-40e4-a847-0c33329d6c85",
+      "latitude": -35.104126,
+      "longitude": 138.499765,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-17T00:13:19Z"
     },
     {
       "id": "1fda4ab0-248c-4cd7-b9f2-deac382ad4ce",
-      "latitude": -34.843586,
-      "longitude": 138.588537,
+      "latitude": -34.842943,
+      "longitude": 138.589334,
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T20:54:26Z"
     },
     {
-      "id": "1fc655d6-dd49-442f-8cec-0e8d7bbd89c1",
-      "latitude": -34.889058,
-      "longitude": 138.548045,
-      "street": "A7 - Port Rd",
-      "city": "Woodville Park",
+      "id": "fe6ef08c-210f-40d1-8371-30c078c6d410",
+      "latitude": -34.775799,
+      "longitude": 138.588379,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T23:33:39Z"
+      "timestamp": "2026-02-17T00:30:14Z",
+      "reported_at": "2026-02-16T23:48:52Z"
     },
     {
       "id": "ebbde7bb-6bfe-41bd-8c23-62ffc9c1c025",
@@ -127,28 +157,8 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
+      "timestamp": "2026-02-17T00:30:14Z",
       "reported_at": "2026-02-16T23:37:39Z"
-    },
-    {
-      "id": "a9706336-d222-4362-911a-121c16212728",
-      "latitude": -34.774079,
-      "longitude": 138.589293,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T22:07:02Z"
-    },
-    {
-      "id": "11ed9789-4f1f-4136-addc-fd1fb471549a",
-      "latitude": -35.030157,
-      "longitude": 138.555392,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-17T00:00:15Z",
-      "reported_at": "2026-02-16T23:50:59Z"
     }
   ]
 }
