@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "881429ac-f4f1-4808-be4a-19f4f577ccae",
-      "latitude": -34.926937,
-      "longitude": 138.641001,
+      "id": "241a77b3-3a5e-4428-b37c-62e3294a4d7d",
+      "latitude": -34.900794,
+      "longitude": 138.532228,
+      "street": "Findon Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-02-17T21:00:18Z",
+      "reported_at": "2026-02-17T20:42:03Z"
+    },
+    {
+      "id": "02315e9b-d2fb-42be-b76d-aa90e3255245",
+      "latitude": -34.927413,
+      "longitude": 138.632191,
       "street": "Kensington Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-02-17T20:30:15Z",
-      "reported_at": "2026-02-17T20:17:17Z"
+      "timestamp": "2026-02-17T21:00:18Z",
+      "reported_at": "2026-02-17T20:15:52Z"
     },
     {
       "id": "66a5d449-17c4-4f08-b60a-cbafd5af01e1",
@@ -17,7 +27,7 @@
       "street": "A16 - Causeway Rd",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-02-17T20:30:15Z",
+      "timestamp": "2026-02-17T21:00:18Z",
       "reported_at": "2026-02-17T20:03:28Z"
     }
   ]
