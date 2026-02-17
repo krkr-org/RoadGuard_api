@@ -1,13 +1,63 @@
 {
   "radars": [
     {
+      "id": "9921bbd8-962f-4e89-b0c5-cf1a8563234d",
+      "latitude": -34.85563,
+      "longitude": 138.506977,
+      "street": "Webb St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T05:28:09Z"
+    },
+    {
+      "id": "c90d5df0-a4c0-4406-962a-70b2c255ca24",
+      "latitude": -34.912046,
+      "longitude": 138.539834,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T06:54:40Z"
+    },
+    {
+      "id": "72b87989-bb42-486e-8ecb-621e68c1224f",
+      "latitude": -34.79691,
+      "longitude": 138.649713,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T05:38:12Z"
+    },
+    {
+      "id": "bd651ace-45e8-421a-8105-984778bf9d04",
+      "latitude": -34.91779,
+      "longitude": 138.501064,
+      "street": "Cudmore Tce",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T05:13:30Z"
+    },
+    {
+      "id": "3a26b811-11dc-46f4-941d-4a9bbece0ef9",
+      "latitude": -34.86053,
+      "longitude": 138.490049,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T06:57:51Z"
+    },
+    {
       "id": "a9c03633-f04f-4b04-9fde-2500091e88f1",
       "latitude": -34.895443,
       "longitude": 138.526165,
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
+      "timestamp": "2026-02-17T07:30:14Z",
       "reported_at": "2026-02-17T05:57:32Z"
     },
     {
@@ -17,18 +67,8 @@
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
+      "timestamp": "2026-02-17T07:30:14Z",
       "reported_at": "2026-02-17T06:30:02Z"
-    },
-    {
-      "id": "80b0a2b6-204d-4f97-9914-1011f61ac265",
-      "latitude": -34.918198,
-      "longitude": 138.501207,
-      "street": "Cudmore Tce",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
-      "reported_at": "2026-02-17T05:58:10Z"
     },
     {
       "id": "8333006e-5c0e-4b0e-a8d0-219189e169de",
@@ -37,28 +77,38 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
+      "timestamp": "2026-02-17T07:30:14Z",
       "reported_at": "2026-02-17T05:09:47Z"
     },
     {
-      "id": "5f5e67e6-01b1-4e6f-bf6d-b8bd79fc8ac6",
-      "latitude": -34.862721,
-      "longitude": 138.541364,
-      "street": "Ninth Av",
-      "city": "Woodville North",
+      "id": "1736d2eb-dd23-45a1-ae22-61847641cb13",
+      "latitude": -34.861013,
+      "longitude": 138.506004,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
-      "reported_at": "2026-02-17T06:10:33Z"
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T07:04:59Z"
     },
     {
-      "id": "7b49cd35-1956-49ca-a724-ad7d12b3ecce",
-      "latitude": -34.860131,
-      "longitude": 138.490859,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
+      "id": "1c92edd9-bd6a-426e-980e-024f22b480f2",
+      "latitude": -34.904228,
+      "longitude": 138.491231,
+      "street": "Military Rd",
+      "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
-      "reported_at": "2026-02-17T05:04:00Z"
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T06:54:56Z"
+    },
+    {
+      "id": "b13c1b74-d0b4-4a07-b38a-100180906274",
+      "latitude": -34.906757,
+      "longitude": 138.505364,
+      "street": "Grange Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T07:10:13Z"
     },
     {
       "id": "4cf730fb-d449-440f-b933-a37788e48abd",
@@ -67,28 +117,18 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
+      "timestamp": "2026-02-17T07:30:14Z",
       "reported_at": "2026-02-17T05:31:49Z"
     },
     {
-      "id": "99c5aacc-ea37-49e4-a4ba-58e71022abc5",
-      "latitude": -34.879343,
-      "longitude": 138.635279,
-      "street": "O.G Rd",
-      "city": "Klemzig",
+      "id": "3910c37d-7579-4526-948d-646b7e809454",
+      "latitude": -34.928753,
+      "longitude": 138.596614,
+      "street": "Grote St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
-      "reported_at": "2026-02-17T06:23:36Z"
-    },
-    {
-      "id": "d22c5cd7-0256-4e89-bc3a-6e1606610507",
-      "latitude": -34.978218,
-      "longitude": 138.591659,
-      "street": "Goodwood Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
-      "reported_at": "2026-02-17T06:27:08Z"
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T07:21:05Z"
     },
     {
       "id": "4f62f119-d286-4ea0-9691-108983208afa",
@@ -97,18 +137,18 @@
       "street": "A15 - Dyson Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
+      "timestamp": "2026-02-17T07:30:14Z",
       "reported_at": "2026-02-17T06:42:32Z"
     },
     {
-      "id": "87a91bb3-5567-4553-8119-b1219fbd2144",
-      "latitude": -34.867269,
-      "longitude": 138.517691,
+      "id": "57a2c69c-e3d4-418c-9a51-64ed92fbf9e7",
+      "latitude": -34.868842,
+      "longitude": 138.518688,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-02-17T07:00:15Z",
-      "reported_at": "2026-02-17T06:11:14Z"
+      "timestamp": "2026-02-17T07:30:14Z",
+      "reported_at": "2026-02-17T05:42:11Z"
     }
   ]
 }
