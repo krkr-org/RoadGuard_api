@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "29d6afe0-76e9-4dc3-a552-9bbd33dc76c3",
-      "latitude": -34.811198,
-      "longitude": 138.617063,
+      "id": "ed12d0ad-df9c-42d2-98e3-9c9d1c856472",
+      "latitude": -34.913905,
+      "longitude": 138.526361,
+      "street": "Valetta Rd",
+      "city": "Kidman Park",
+      "type": "mobile",
+      "timestamp": "2026-02-17T04:00:15Z",
+      "reported_at": "2026-02-17T03:28:01Z"
+    },
+    {
+      "id": "a35e4770-f2e1-4137-ab8a-ca977ea36329",
+      "latitude": -34.814245,
+      "longitude": 138.607827,
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
-      "reported_at": "2026-02-17T03:04:19Z"
-    },
-    {
-      "id": "c34662fa-a20c-41ee-b56c-7f10376f9252",
-      "latitude": -34.986747,
-      "longitude": 138.567256,
-      "street": "Dunorlan Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
-      "reported_at": "2026-02-17T03:08:12Z"
-    },
-    {
-      "id": "7cb1938b-f2b3-4168-9bbd-58d5f517e626",
-      "latitude": -34.759251,
-      "longitude": 138.612506,
-      "street": "Whites Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
-      "reported_at": "2026-02-16T23:31:16Z"
-    },
-    {
-      "id": "544f398b-88de-44ec-8386-f30f4bb2dcc5",
-      "latitude": -34.883495,
-      "longitude": 138.566838,
-      "street": "Days Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
-      "reported_at": "2026-02-17T03:02:41Z"
-    },
-    {
-      "id": "c1357439-8f45-4467-9e6c-10e3a6c136cf",
-      "latitude": -34.808216,
-      "longitude": 138.651678,
-      "street": "Kesters Rd",
-      "city": "Para Hills",
-      "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
-      "reported_at": "2026-02-16T21:11:25Z"
+      "timestamp": "2026-02-17T04:00:15Z",
+      "reported_at": "2026-02-17T00:21:50Z"
     },
     {
       "id": "1d09e5a8-34be-480e-99ae-471662555b43",
@@ -57,8 +27,18 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
+      "timestamp": "2026-02-17T04:00:15Z",
       "reported_at": "2026-02-17T02:29:48Z"
+    },
+    {
+      "id": "18a10c0d-7ab8-4774-8f6f-3773ff327d18",
+      "latitude": -34.717005,
+      "longitude": 138.600428,
+      "street": "Heaslip Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-02-17T04:00:15Z",
+      "reported_at": "2026-02-17T03:28:04Z"
     },
     {
       "id": "82c33ec8-62fa-4300-b44a-ec4e9d4db4ab",
@@ -67,7 +47,7 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
+      "timestamp": "2026-02-17T04:00:15Z",
       "reported_at": "2026-02-17T01:11:52Z"
     },
     {
@@ -77,18 +57,8 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
+      "timestamp": "2026-02-17T04:00:15Z",
       "reported_at": "2026-02-17T01:06:59Z"
-    },
-    {
-      "id": "1f673c8e-ebcd-471b-9789-7f90baec4781",
-      "latitude": -35.094514,
-      "longitude": 138.520735,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-17T03:30:15Z",
-      "reported_at": "2026-02-17T03:14:02Z"
     }
   ]
 }
