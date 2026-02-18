@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "f2c79def-e72a-4f15-9ae4-73dcb253e7f1",
-      "latitude": -34.954163,
-      "longitude": 138.619155,
+      "id": "ca406236-3d1e-4563-be76-8fd0d78e3854",
+      "latitude": -34.954198,
+      "longitude": 138.618525,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:07:50Z"
+      "timestamp": "2026-02-18T00:30:15Z",
+      "reported_at": "2026-02-17T21:05:22Z"
+    },
+    {
+      "id": "66b84da7-dbb1-4763-b485-2b8eda9c733c",
+      "latitude": -34.957755,
+      "longitude": 138.509478,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-18T00:30:15Z",
+      "reported_at": "2026-02-17T23:36:33Z"
     },
     {
       "id": "279fba32-535e-42ac-9538-686b63415bec",
@@ -17,18 +27,8 @@
       "street": "Second St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
+      "timestamp": "2026-02-18T00:30:15Z",
       "reported_at": "2026-02-17T21:22:32Z"
-    },
-    {
-      "id": "d19767d2-7669-4e63-b45c-5fb4798e753e",
-      "latitude": -34.928511,
-      "longitude": 138.668243,
-      "street": "Hallett Rd",
-      "city": "Erindale",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T21:00:45Z"
     },
     {
       "id": "c1b5d884-6586-4f6e-84f3-ba2c56e57b7c",
@@ -37,7 +37,7 @@
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
+      "timestamp": "2026-02-18T00:30:15Z",
       "reported_at": "2026-02-17T21:25:20Z"
     },
     {
@@ -47,38 +47,18 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
+      "timestamp": "2026-02-18T00:30:15Z",
       "reported_at": "2026-02-17T20:55:36Z"
     },
     {
-      "id": "ff2aff9a-16e7-496c-9f9e-d26ee1ed24e8",
-      "latitude": -34.998885,
-      "longitude": 138.73069,
-      "street": "Old Mount Barker Rd",
-      "city": "Stirling",
+      "id": "a85be6c5-08cb-4ead-a90a-aad01437618c",
+      "latitude": -35.05488,
+      "longitude": 138.559819,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:32:31Z"
-    },
-    {
-      "id": "1cba2420-2b55-45b7-b406-5feb241cc425",
-      "latitude": -34.82973,
-      "longitude": 138.657176,
-      "street": "Montague Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:48:02Z"
-    },
-    {
-      "id": "026d1c4f-ef1a-4205-b080-fee0594fdfa6",
-      "latitude": -34.83412,
-      "longitude": 138.707178,
-      "street": "Tolley Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:25:47Z"
+      "timestamp": "2026-02-18T00:30:15Z",
+      "reported_at": "2026-02-18T00:15:21Z"
     },
     {
       "id": "70193da9-dcff-4637-9cbc-3208f15dbe3d",
@@ -87,28 +67,8 @@
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
+      "timestamp": "2026-02-18T00:30:15Z",
       "reported_at": "2026-02-17T22:47:05Z"
-    },
-    {
-      "id": "a9ba1466-24e2-4615-a2b7-63660bc2726f",
-      "latitude": -34.937444,
-      "longitude": 138.552915,
-      "street": "A14 - Marion Rd",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:35:31Z"
-    },
-    {
-      "id": "6de39d72-bb20-4d6e-841d-f4e3d07c1e61",
-      "latitude": -34.900387,
-      "longitude": 138.603331,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:21:35Z"
     },
     {
       "id": "bc2719e0-8d52-463a-a667-229f03de909a",
@@ -117,28 +77,18 @@
       "street": "R1 - Fitzroy Tce (City Ring Route)",
       "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
+      "timestamp": "2026-02-18T00:30:15Z",
       "reported_at": "2026-02-17T21:30:13Z"
     },
     {
-      "id": "47b3dd97-0f15-4f6b-9227-d9d4548b4e9b",
-      "latitude": -34.964087,
-      "longitude": 138.635002,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "73c683ce-1303-4bb1-83a7-19d55c49d583",
+      "latitude": -34.900225,
+      "longitude": 138.603142,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T21:00:16Z"
-    },
-    {
-      "id": "b7d57bd3-fe83-46c8-93de-b613f434e4d5",
-      "latitude": -34.961672,
-      "longitude": 138.644204,
-      "street": "A17 - Portrush Rd",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:39:26Z"
+      "timestamp": "2026-02-18T00:30:15Z",
+      "reported_at": "2026-02-17T23:41:48Z"
     },
     {
       "id": "0cfdd62f-742e-4982-941b-8fac07dceed3",
@@ -147,18 +97,8 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
+      "timestamp": "2026-02-18T00:30:15Z",
       "reported_at": "2026-02-17T21:30:29Z"
-    },
-    {
-      "id": "9ade3c87-2da3-4f9c-8240-92bb778c7814",
-      "latitude": -34.888309,
-      "longitude": 138.546932,
-      "street": "A7 - Port Rd",
-      "city": "Woodville Park",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:00:17Z",
-      "reported_at": "2026-02-17T23:44:56Z"
     }
   ]
 }
