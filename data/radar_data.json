@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "0594cb65-6b66-4451-a0d2-848231a1c511",
+      "latitude": -35.07847,
+      "longitude": 138.509093,
+      "street": "Pavana Av",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-17T22:01:41Z"
+    },
+    {
       "id": "ca406236-3d1e-4563-be76-8fd0d78e3854",
       "latitude": -34.954198,
       "longitude": 138.618525,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
+      "timestamp": "2026-02-18T01:00:14Z",
       "reported_at": "2026-02-17T21:05:22Z"
-    },
-    {
-      "id": "66b84da7-dbb1-4763-b485-2b8eda9c733c",
-      "latitude": -34.957755,
-      "longitude": 138.509478,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
-      "reported_at": "2026-02-17T23:36:33Z"
     },
     {
       "id": "279fba32-535e-42ac-9538-686b63415bec",
@@ -27,18 +27,28 @@
       "street": "Second St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
+      "timestamp": "2026-02-18T01:00:14Z",
       "reported_at": "2026-02-17T21:22:32Z"
     },
     {
-      "id": "c1b5d884-6586-4f6e-84f3-ba2c56e57b7c",
-      "latitude": -34.920341,
-      "longitude": 138.653619,
+      "id": "d19767d2-7669-4e63-b45c-5fb4798e753e",
+      "latitude": -34.928511,
+      "longitude": 138.668243,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-17T21:00:45Z"
+    },
+    {
+      "id": "d73fc90f-eb73-4bc7-bb1d-e876de7c14b5",
+      "latitude": -34.920211,
+      "longitude": 138.655906,
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
-      "reported_at": "2026-02-17T21:25:20Z"
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-17T21:10:08Z"
     },
     {
       "id": "5dfe006e-9895-43bd-83ef-13de4ee6101c",
@@ -47,18 +57,68 @@
       "street": "LeFevre Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
+      "timestamp": "2026-02-18T01:00:14Z",
       "reported_at": "2026-02-17T20:55:36Z"
     },
     {
-      "id": "a85be6c5-08cb-4ead-a90a-aad01437618c",
-      "latitude": -35.05488,
-      "longitude": 138.559819,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "ae5c6857-990d-48e0-84e3-63d1adcb17f0",
+      "latitude": -34.67938,
+      "longitude": 138.682887,
+      "street": "Anderson Walk",
+      "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
-      "reported_at": "2026-02-18T00:15:21Z"
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:35:53Z"
+    },
+    {
+      "id": "a943b8b3-fd38-477c-8b32-f7c0a33ba181",
+      "latitude": -34.839386,
+      "longitude": 138.501924,
+      "street": "Nelson St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:49:39Z"
+    },
+    {
+      "id": "a455a6b0-7e68-49c2-a97d-3702b12c9590",
+      "latitude": -34.861859,
+      "longitude": 138.507266,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:30:58Z"
+    },
+    {
+      "id": "ba885bf0-8479-44b5-8702-59cf971c08d4",
+      "latitude": -34.829778,
+      "longitude": 138.658348,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:29:11Z"
+    },
+    {
+      "id": "451b527a-da93-403a-94d0-68abab82f622",
+      "latitude": -35.146714,
+      "longitude": 138.533594,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:04:26Z"
+    },
+    {
+      "id": "f02b52d5-d23d-425e-a06b-76ad5a559c2a",
+      "latitude": -34.995069,
+      "longitude": 138.539293,
+      "street": "Morphett Rd",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:48:40Z"
     },
     {
       "id": "70193da9-dcff-4637-9cbc-3208f15dbe3d",
@@ -67,7 +127,7 @@
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
+      "timestamp": "2026-02-18T01:00:14Z",
       "reported_at": "2026-02-17T22:47:05Z"
     },
     {
@@ -77,18 +137,8 @@
       "street": "R1 - Fitzroy Tce (City Ring Route)",
       "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
+      "timestamp": "2026-02-18T01:00:14Z",
       "reported_at": "2026-02-17T21:30:13Z"
-    },
-    {
-      "id": "73c683ce-1303-4bb1-83a7-19d55c49d583",
-      "latitude": -34.900225,
-      "longitude": 138.603142,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
-      "reported_at": "2026-02-17T23:41:48Z"
     },
     {
       "id": "0cfdd62f-742e-4982-941b-8fac07dceed3",
@@ -97,8 +147,28 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-18T00:30:15Z",
+      "timestamp": "2026-02-18T01:00:14Z",
       "reported_at": "2026-02-17T21:30:29Z"
+    },
+    {
+      "id": "2b433b59-dc8a-4a72-acf1-f08ff42ca75e",
+      "latitude": -34.90051,
+      "longitude": 138.603779,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:13:57Z"
+    },
+    {
+      "id": "04f58166-ec71-450c-883a-ce9784baa32b",
+      "latitude": -34.846801,
+      "longitude": 138.716899,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-02-18T01:00:14Z",
+      "reported_at": "2026-02-18T00:35:05Z"
     }
   ]
 }
