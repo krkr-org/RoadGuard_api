@@ -1,34 +1,34 @@
 {
   "radars": [
     {
+      "id": "4b6eecef-6fec-4910-82a3-18c9f933dd1f",
+      "latitude": -34.929856,
+      "longitude": 138.534403,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T22:03:21Z"
+    },
+    {
       "id": "23eed0bf-7536-44d0-9a9c-a9f7180821bc",
       "latitude": -34.966653,
       "longitude": 138.635691,
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:30:15Z",
+      "timestamp": "2026-02-19T23:00:17Z",
       "reported_at": "2026-02-19T22:04:06Z"
     },
     {
-      "id": "0b9e96d1-caf0-4c96-97f0-83707c376b0b",
-      "latitude": -34.856749,
-      "longitude": 138.478373,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
+      "id": "dd7de4c2-a5c0-4506-8d51-d0003a678879",
+      "latitude": -34.968475,
+      "longitude": 138.541106,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:30:15Z",
-      "reported_at": "2026-02-19T22:21:06Z"
-    },
-    {
-      "id": "111caa1f-9f32-4307-a141-0d2f6535a3dd",
-      "latitude": -35.054759,
-      "longitude": 138.541526,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-19T22:30:15Z",
-      "reported_at": "2026-02-19T22:14:36Z"
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T20:40:15Z"
     },
     {
       "id": "d34372a0-f6eb-4511-a8e0-4a2193db9ebd",
@@ -37,28 +37,58 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:30:15Z",
+      "timestamp": "2026-02-19T23:00:17Z",
       "reported_at": "2026-02-19T21:32:05Z"
     },
     {
-      "id": "f0c3f161-d21a-435d-ab5a-3f3ee0a8a57e",
-      "latitude": -34.743889,
-      "longitude": 138.632797,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "51f76865-a49b-4db1-80f2-80b027a3f7ae",
+      "latitude": -34.959931,
+      "longitude": 138.590174,
+      "street": "Goodwood Rd",
+      "city": "Millswood",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:30:15Z",
-      "reported_at": "2026-02-19T22:01:32Z"
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T22:24:39Z"
     },
     {
-      "id": "4958a1a1-9b5f-4f76-af53-a39c02abc392",
-      "latitude": -34.790545,
-      "longitude": 138.716446,
-      "street": "Hancock Rd",
-      "city": "Surrey Downs",
+      "id": "8a1a6425-64e1-48c6-a460-0b7df15e39bb",
+      "latitude": -34.833434,
+      "longitude": 138.687261,
+      "street": "Smart Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:30:15Z",
-      "reported_at": "2026-02-19T21:56:27Z"
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T22:40:09Z"
+    },
+    {
+      "id": "d827bc7b-35ad-41c3-92ec-9fb4ba6ceb5f",
+      "latitude": -35.083714,
+      "longitude": 138.510371,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T22:35:00Z"
+    },
+    {
+      "id": "21d560ff-5f09-492a-accd-c65a421e671e",
+      "latitude": -34.864671,
+      "longitude": 138.570077,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T22:53:41Z"
+    },
+    {
+      "id": "be0253c0-8b61-4255-b070-ddb787526466",
+      "latitude": -34.832864,
+      "longitude": 138.575228,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-19T23:00:17Z",
+      "reported_at": "2026-02-19T22:47:17Z"
     }
   ]
 }
