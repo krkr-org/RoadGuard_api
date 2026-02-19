@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "dd7de4c2-a5c0-4506-8d51-d0003a678879",
-      "latitude": -34.968475,
-      "longitude": 138.541106,
+      "id": "74b5a204-f24a-4d47-84e9-ef0555e2a13b",
+      "latitude": -34.96845,
+      "longitude": 138.541601,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-19T21:30:14Z",
-      "reported_at": "2026-02-19T20:40:15Z"
+      "timestamp": "2026-02-19T22:00:16Z",
+      "reported_at": "2026-02-19T21:01:38Z"
+    },
+    {
+      "id": "d3350b3e-b1ee-45c8-a6fb-cfa23d18ba42",
+      "latitude": -34.979918,
+      "longitude": 138.56689,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-02-19T22:00:16Z",
+      "reported_at": "2026-02-19T21:30:20Z"
     }
   ]
 }
