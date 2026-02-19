@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "4b6eecef-6fec-4910-82a3-18c9f933dd1f",
-      "latitude": -34.929856,
-      "longitude": 138.534403,
-      "street": "May Tce",
-      "city": "Lockleys",
+      "id": "379f57d1-d8cc-45a3-921b-f7bc2f3d5954",
+      "latitude": -34.797035,
+      "longitude": 138.649943,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
-      "reported_at": "2026-02-19T22:03:21Z"
+      "timestamp": "2026-02-19T23:30:15Z",
+      "reported_at": "2026-02-19T23:09:40Z"
     },
     {
       "id": "23eed0bf-7536-44d0-9a9c-a9f7180821bc",
@@ -17,7 +17,7 @@
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
+      "timestamp": "2026-02-19T23:30:15Z",
       "reported_at": "2026-02-19T22:04:06Z"
     },
     {
@@ -27,8 +27,28 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
+      "timestamp": "2026-02-19T23:30:15Z",
       "reported_at": "2026-02-19T20:40:15Z"
+    },
+    {
+      "id": "5d64fbed-1d00-4420-8f7d-e985146b633a",
+      "latitude": -34.957529,
+      "longitude": 138.612048,
+      "street": "Fisher St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-02-19T23:30:15Z",
+      "reported_at": "2026-02-19T22:18:33Z"
+    },
+    {
+      "id": "d38330a1-f02a-4df0-8ccc-e19ed9b08c2d",
+      "latitude": -34.832546,
+      "longitude": 138.571093,
+      "street": "to A9 - Salisbury Hwy to Salisbury",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-19T23:30:15Z",
+      "reported_at": "2026-02-19T22:51:11Z"
     },
     {
       "id": "d34372a0-f6eb-4511-a8e0-4a2193db9ebd",
@@ -37,28 +57,8 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
+      "timestamp": "2026-02-19T23:30:15Z",
       "reported_at": "2026-02-19T21:32:05Z"
-    },
-    {
-      "id": "51f76865-a49b-4db1-80f2-80b027a3f7ae",
-      "latitude": -34.959931,
-      "longitude": 138.590174,
-      "street": "Goodwood Rd",
-      "city": "Millswood",
-      "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
-      "reported_at": "2026-02-19T22:24:39Z"
-    },
-    {
-      "id": "8a1a6425-64e1-48c6-a460-0b7df15e39bb",
-      "latitude": -34.833434,
-      "longitude": 138.687261,
-      "street": "Smart Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
-      "reported_at": "2026-02-19T22:40:09Z"
     },
     {
       "id": "d827bc7b-35ad-41c3-92ec-9fb4ba6ceb5f",
@@ -67,28 +67,18 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
+      "timestamp": "2026-02-19T23:30:15Z",
       "reported_at": "2026-02-19T22:35:00Z"
     },
     {
-      "id": "21d560ff-5f09-492a-accd-c65a421e671e",
-      "latitude": -34.864671,
-      "longitude": 138.570077,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
-      "reported_at": "2026-02-19T22:53:41Z"
-    },
-    {
-      "id": "be0253c0-8b61-4255-b070-ddb787526466",
-      "latitude": -34.832864,
-      "longitude": 138.575228,
+      "id": "b20aa3ec-087c-405c-a247-497778adf41b",
+      "latitude": -34.832848,
+      "longitude": 138.574339,
       "street": "A9 - Salisbury Hwy",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-19T23:00:17Z",
-      "reported_at": "2026-02-19T22:47:17Z"
+      "timestamp": "2026-02-19T23:30:15Z",
+      "reported_at": "2026-02-19T23:05:19Z"
     }
   ]
 }
