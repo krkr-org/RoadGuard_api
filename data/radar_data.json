@@ -1,84 +1,114 @@
 {
   "radars": [
     {
+      "id": "75530a66-1b9c-441d-be4a-64c9ade84b8e",
+      "latitude": -34.836978,
+      "longitude": 138.606031,
+      "street": "Matthews Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:49:33Z"
+    },
+    {
+      "id": "d514ced2-a682-439b-8f51-621b7ef2a91c",
+      "latitude": -34.806296,
+      "longitude": 138.614867,
+      "street": "Metro Pde",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:24:28Z"
+    },
+    {
       "id": "8cafed1e-c865-4937-aa7c-2244ca3f37b5",
       "latitude": -34.922003,
       "longitude": 138.564644,
       "street": "Carlton Pde",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
+      "timestamp": "2026-02-19T06:00:17Z",
       "reported_at": "2026-02-19T02:10:11Z"
     },
     {
-      "id": "c4881fa3-a5c2-4dd8-ba60-09e32e1bbb75",
-      "latitude": -34.674714,
-      "longitude": 138.667236,
-      "street": "Crittenden Rd",
-      "city": "Andrews Farm",
+      "id": "42f40bed-6d69-4668-a9e8-0d0573fe94cb",
+      "latitude": -34.863785,
+      "longitude": 138.565487,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T05:00:09Z"
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:33:16Z"
     },
     {
-      "id": "1b947749-8dee-43a6-be18-95ecf91061f1",
-      "latitude": -35.146584,
-      "longitude": 138.536091,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
+      "id": "93f0151d-01b0-419e-96ab-7414d055550a",
+      "latitude": -34.73884,
+      "longitude": 138.670045,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T04:42:28Z"
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:24:30Z"
     },
     {
-      "id": "fc99354b-bbdd-40d3-993d-7744aed11f99",
-      "latitude": -34.918995,
-      "longitude": 138.63203,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "2b2ab565-374d-4b84-8faf-fff64746d89a",
+      "latitude": -34.770909,
+      "longitude": 138.61795,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T05:05:31Z"
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:39:52Z"
     },
     {
-      "id": "2f7b21f4-3930-4d8d-84cd-8cbcd688081c",
-      "latitude": -34.882137,
-      "longitude": 138.534056,
-      "street": "Woodville Rd",
-      "city": "Woodville South",
-      "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T04:55:52Z"
-    },
-    {
-      "id": "bb2299e9-9931-4f0f-8ae5-2f7ce868064c",
-      "latitude": -34.764657,
-      "longitude": 138.627891,
+      "id": "293a3298-7276-4a8b-8b9c-ab57edeac196",
+      "latitude": -34.763782,
+      "longitude": 138.62916,
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T05:07:57Z"
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:42:08Z"
     },
     {
-      "id": "596af52f-19a5-4a2b-b3c5-95b02d5595d6",
-      "latitude": -34.752033,
-      "longitude": 138.654494,
+      "id": "3456447d-dd3c-448e-94cd-954010e8809d",
+      "latitude": -34.707373,
+      "longitude": 138.691518,
+      "street": "Unknown Street",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:44:23Z"
+    },
+    {
+      "id": "d2fd27d9-74e5-4d8c-825e-7c96666ca926",
+      "latitude": -34.752093,
+      "longitude": 138.654155,
       "street": "A9 - John Rice Av",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T05:21:42Z"
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:49:22Z"
     },
     {
-      "id": "09b6e141-223d-455e-b5d2-87ce30352af3",
-      "latitude": -34.828715,
-      "longitude": 138.562881,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
+      "id": "5aaa4daf-64f1-4e2a-8d2e-f45c8a9faac4",
+      "latitude": -34.75352,
+      "longitude": 138.649797,
+      "street": "A9 - John Rice Av",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-19T05:30:16Z",
-      "reported_at": "2026-02-19T05:03:14Z"
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:37:56Z"
+    },
+    {
+      "id": "69be1a12-1959-42aa-8005-aba7fce166a2",
+      "latitude": -35.094898,
+      "longitude": 138.520427,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-19T06:00:17Z",
+      "reported_at": "2026-02-19T05:58:07Z"
     }
   ]
 }
