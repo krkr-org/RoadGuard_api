@@ -1,24 +1,64 @@
 {
   "radars": [
     {
-      "id": "74b5a204-f24a-4d47-84e9-ef0555e2a13b",
-      "latitude": -34.96845,
-      "longitude": 138.541601,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
+      "id": "23eed0bf-7536-44d0-9a9c-a9f7180821bc",
+      "latitude": -34.966653,
+      "longitude": 138.635691,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:00:16Z",
-      "reported_at": "2026-02-19T21:01:38Z"
+      "timestamp": "2026-02-19T22:30:15Z",
+      "reported_at": "2026-02-19T22:04:06Z"
     },
     {
-      "id": "d3350b3e-b1ee-45c8-a6fb-cfa23d18ba42",
-      "latitude": -34.979918,
-      "longitude": 138.56689,
+      "id": "0b9e96d1-caf0-4c96-97f0-83707c376b0b",
+      "latitude": -34.856749,
+      "longitude": 138.478373,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2026-02-19T22:30:15Z",
+      "reported_at": "2026-02-19T22:21:06Z"
+    },
+    {
+      "id": "111caa1f-9f32-4307-a141-0d2f6535a3dd",
+      "latitude": -35.054759,
+      "longitude": 138.541526,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-19T22:30:15Z",
+      "reported_at": "2026-02-19T22:14:36Z"
+    },
+    {
+      "id": "d34372a0-f6eb-4511-a8e0-4a2193db9ebd",
+      "latitude": -34.979856,
+      "longitude": 138.568194,
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-19T22:00:16Z",
-      "reported_at": "2026-02-19T21:30:20Z"
+      "timestamp": "2026-02-19T22:30:15Z",
+      "reported_at": "2026-02-19T21:32:05Z"
+    },
+    {
+      "id": "f0c3f161-d21a-435d-ab5a-3f3ee0a8a57e",
+      "latitude": -34.743889,
+      "longitude": 138.632797,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-02-19T22:30:15Z",
+      "reported_at": "2026-02-19T22:01:32Z"
+    },
+    {
+      "id": "4958a1a1-9b5f-4f76-af53-a39c02abc392",
+      "latitude": -34.790545,
+      "longitude": 138.716446,
+      "street": "Hancock Rd",
+      "city": "Surrey Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-19T22:30:15Z",
+      "reported_at": "2026-02-19T21:56:27Z"
     }
   ]
 }
