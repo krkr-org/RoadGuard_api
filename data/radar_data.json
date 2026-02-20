@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "e8260c08-8028-4835-8918-4ef7e7dfda88",
-      "latitude": -34.930352,
-      "longitude": 138.595278,
-      "street": "Gouger St",
-      "city": "Adelaide",
+      "id": "d4d3d1d2-5b64-46c9-84dc-274c65e00f24",
+      "latitude": -34.795546,
+      "longitude": 138.647496,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T08:43:33Z"
-    },
-    {
-      "id": "5686e5ce-342c-458a-875d-d060b14035ad",
-      "latitude": -34.899699,
-      "longitude": 138.611658,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T05:58:16Z"
-    },
-    {
-      "id": "58d61ba1-52d2-4f6e-8e5a-cac3c51dc6d9",
-      "latitude": -34.914657,
-      "longitude": 138.58588,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T04:38:30Z"
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T05:49:38Z"
     },
     {
       "id": "9c67341d-2a8b-4365-a826-c02d3badee19",
@@ -37,8 +17,18 @@
       "street": "Barton Tce East",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
+      "timestamp": "2026-02-20T09:30:16Z",
       "reported_at": "2026-02-20T05:42:25Z"
+    },
+    {
+      "id": "58d61ba1-52d2-4f6e-8e5a-cac3c51dc6d9",
+      "latitude": -34.914657,
+      "longitude": 138.58588,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T04:38:30Z"
     },
     {
       "id": "d6051e90-56be-4fd6-8377-1c32709e9a58",
@@ -47,18 +37,8 @@
       "street": "Tusmore Av",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
+      "timestamp": "2026-02-20T09:30:16Z",
       "reported_at": "2026-02-20T08:39:53Z"
-    },
-    {
-      "id": "3ed5ec24-6421-40a5-b668-256b9638ec0a",
-      "latitude": -34.906255,
-      "longitude": 138.684584,
-      "street": "Glen Stuart Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T04:47:20Z"
     },
     {
       "id": "4b7f09d8-0efa-491d-82ce-40fd6c1989ae",
@@ -67,38 +47,48 @@
       "street": "Shakespeare Av",
       "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
+      "timestamp": "2026-02-20T09:30:16Z",
       "reported_at": "2026-02-20T07:41:26Z"
     },
     {
-      "id": "79e72a43-75e9-4b58-8f83-3050d20e060e",
-      "latitude": -34.893438,
-      "longitude": 138.605844,
+      "id": "3ed5ec24-6421-40a5-b668-256b9638ec0a",
+      "latitude": -34.906255,
+      "longitude": 138.684584,
+      "street": "Glen Stuart Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T04:47:20Z"
+    },
+    {
+      "id": "5686e5ce-342c-458a-875d-d060b14035ad",
+      "latitude": -34.899699,
+      "longitude": 138.611658,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T05:58:16Z"
+    },
+    {
+      "id": "e8260c08-8028-4835-8918-4ef7e7dfda88",
+      "latitude": -34.930352,
+      "longitude": 138.595278,
+      "street": "Gouger St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T08:43:33Z"
+    },
+    {
+      "id": "eb7639f1-3ff9-4e1e-96de-113ffe1fc399",
+      "latitude": -34.893466,
+      "longitude": 138.605184,
       "street": "Nottage Tce",
       "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T05:26:21Z"
-    },
-    {
-      "id": "acfb825c-a31f-4d49-ac69-e6b82e9db85c",
-      "latitude": -34.856106,
-      "longitude": 138.654185,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T07:36:51Z"
-    },
-    {
-      "id": "ca575b97-1c5a-43cb-8958-2e4c2f97547c",
-      "latitude": -34.813422,
-      "longitude": 138.501359,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
-      "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T08:18:02Z"
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T05:57:40Z"
     },
     {
       "id": "9a2d10f0-31e5-472f-9f49-59f11820af47",
@@ -107,28 +97,28 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
+      "timestamp": "2026-02-20T09:30:16Z",
       "reported_at": "2026-02-20T06:54:38Z"
     },
     {
-      "id": "3b9b5740-b1ee-4e41-953b-f262864454be",
-      "latitude": -34.912897,
-      "longitude": 138.684962,
+      "id": "c2c86730-afa4-4b33-8d7a-05215a444525",
+      "latitude": -34.91292,
+      "longitude": 138.685217,
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T06:58:31Z"
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T06:08:16Z"
     },
     {
-      "id": "6caa406a-d6c6-47fc-aa38-9df82f3f6aef",
-      "latitude": -34.790576,
-      "longitude": 138.648147,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury East",
+      "id": "9be7cb4a-f80a-4c51-851a-22bc71b84cf7",
+      "latitude": -35.003029,
+      "longitude": 138.757033,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-02-20T09:00:15Z",
-      "reported_at": "2026-02-20T08:30:48Z"
+      "timestamp": "2026-02-20T09:30:16Z",
+      "reported_at": "2026-02-20T08:56:21Z"
     }
   ]
 }
