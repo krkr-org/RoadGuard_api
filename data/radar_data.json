@@ -1,13 +1,53 @@
 {
   "radars": [
     {
+      "id": "23eed0bf-7536-44d0-9a9c-a9f7180821bc",
+      "latitude": -34.966155,
+      "longitude": 138.635655,
+      "street": "Waite Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-19T22:04:06Z"
+    },
+    {
+      "id": "5d64fbed-1d00-4420-8f7d-e985146b633a",
+      "latitude": -34.957529,
+      "longitude": 138.612048,
+      "street": "Fisher St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-19T22:18:33Z"
+    },
+    {
+      "id": "81dea265-126a-4e3e-aa9f-83a796890411",
+      "latitude": -34.715227,
+      "longitude": 138.647273,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:37:45Z"
+    },
+    {
+      "id": "9c05a6d8-62fa-4ec7-b934-e18d0d7a590d",
+      "latitude": -34.968365,
+      "longitude": 138.543291,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:23:17Z"
+    },
+    {
       "id": "90a5be83-7213-4540-9b0c-74132a352ee0",
       "latitude": -34.991485,
       "longitude": 138.562365,
       "street": "Charles St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
+      "timestamp": "2026-02-20T02:00:16Z",
       "reported_at": "2026-02-20T00:43:09Z"
     },
     {
@@ -17,28 +57,18 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
+      "timestamp": "2026-02-20T02:00:16Z",
       "reported_at": "2026-02-20T00:42:09Z"
     },
     {
-      "id": "5d64fbed-1d00-4420-8f7d-e985146b633a",
-      "latitude": -34.957529,
-      "longitude": 138.612048,
-      "street": "Fisher St",
-      "city": "Malvern",
+      "id": "7174c5d1-c56f-41b8-aaf6-1db7d49fb125",
+      "latitude": -35.139006,
+      "longitude": 138.479159,
+      "street": "Beach Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
-      "reported_at": "2026-02-19T22:18:33Z"
-    },
-    {
-      "id": "740624ea-7693-4d1e-a9f6-ff2fb328cd69",
-      "latitude": -34.750174,
-      "longitude": 138.656895,
-      "street": "Unknown Street",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
-      "reported_at": "2026-02-20T01:18:04Z"
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:11:38Z"
     },
     {
       "id": "8d850d11-c18e-4002-9ee4-532135bd0937",
@@ -47,38 +77,58 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
+      "timestamp": "2026-02-20T02:00:16Z",
       "reported_at": "2026-02-19T22:06:42Z"
     },
     {
-      "id": "5a0970e8-bd6d-4d09-821a-f475843b4082",
-      "latitude": -34.765707,
-      "longitude": 138.647051,
-      "street": "Park Tce",
-      "city": "Salisbury",
+      "id": "09bb15e7-fa16-47a4-90db-7987cb9e74a1",
+      "latitude": -34.930727,
+      "longitude": 138.594038,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
-      "reported_at": "2026-02-20T01:07:23Z"
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:33:37Z"
     },
     {
-      "id": "233af5de-e94d-4b3b-a3b0-2ff6e321dd23",
-      "latitude": -34.964317,
-      "longitude": 138.630522,
+      "id": "b62e2e10-776a-4b15-8fef-d233d02e6bc8",
+      "latitude": -35.016941,
+      "longitude": 138.561944,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:46:24Z"
+    },
+    {
+      "id": "05436f2e-567d-4d57-9f65-3956485a4da1",
+      "latitude": -35.040454,
+      "longitude": 138.527628,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:41:37Z"
+    },
+    {
+      "id": "a83445db-a7fa-49c9-b397-598b33942e53",
+      "latitude": -34.963236,
+      "longitude": 138.556091,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:20:07Z"
+    },
+    {
+      "id": "da8408b1-cb42-4f22-8cdc-d0acb0731813",
+      "latitude": -34.964496,
+      "longitude": 138.628611,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
-      "reported_at": "2026-02-20T00:58:31Z"
-    },
-    {
-      "id": "eeaaa535-4e54-49e0-84e2-b891e211d4ea",
-      "latitude": -34.803252,
-      "longitude": 138.636584,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-02-20T01:30:15Z",
-      "reported_at": "2026-02-20T01:12:27Z"
+      "timestamp": "2026-02-20T02:00:16Z",
+      "reported_at": "2026-02-20T01:41:47Z"
     }
   ]
 }
