@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "9735eeae-815b-402e-864d-e22cd1e0aca6",
+      "latitude": -34.857004,
+      "longitude": 138.505376,
+      "street": "Webb St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-20T22:30:16Z",
+      "reported_at": "2026-02-20T22:08:48Z"
+    },
+    {
+      "id": "2769ab3f-949c-4ff9-a277-95c30eef910e",
+      "latitude": -34.751726,
+      "longitude": 138.619241,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-02-20T22:30:16Z",
+      "reported_at": "2026-02-20T19:21:28Z"
+    },
+    {
+      "id": "a3fa2dd9-a306-416a-9ebf-bb2974590117",
+      "latitude": -34.924869,
+      "longitude": 138.545714,
+      "street": "Henley Beach Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-02-20T22:30:16Z",
+      "reported_at": "2026-02-20T22:24:06Z"
+    },
+    {
+      "id": "9e10e7fc-6479-40c0-8081-d0984e327138",
+      "latitude": -34.875103,
+      "longitude": 138.69593,
+      "street": "B31 - Gorge Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2026-02-20T22:30:16Z",
+      "reported_at": "2026-02-20T22:17:31Z"
+    },
+    {
+      "id": "38eb7276-55ce-4ae0-bfd8-c0c22ca95404",
+      "latitude": -35.051668,
+      "longitude": 138.546644,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-20T22:30:16Z",
+      "reported_at": "2026-02-20T22:25:16Z"
+    }
+  ]
 }
