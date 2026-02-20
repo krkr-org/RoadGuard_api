@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "e427fce8-24f0-441d-a66e-8f8ef45086e8",
-      "latitude": -34.716901,
-      "longitude": 138.645991,
+      "id": "34d7e965-ebe7-41ae-882e-c3a1a1e8d7f6",
+      "latitude": -34.7167,
+      "longitude": 138.645525,
       "street": "Taranaki Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
-      "reported_at": "2026-02-20T03:15:34Z"
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T02:17:15Z"
+    },
+    {
+      "id": "616ad84e-472c-4ee5-afb4-0609ba7171d3",
+      "latitude": -34.991629,
+      "longitude": 138.562376,
+      "street": "Charles St",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T01:17:43Z"
+    },
+    {
+      "id": "fc3417c0-1355-4566-82b2-33d0d0d4b840",
+      "latitude": -34.745068,
+      "longitude": 138.625191,
+      "street": "Whites Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T03:49:27Z"
+    },
+    {
+      "id": "16ce6467-aaea-45f2-99ac-e3023c1a2396",
+      "latitude": -34.715422,
+      "longitude": 138.64721,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T03:29:01Z"
     },
     {
       "id": "ed97fc31-e2b7-40fd-a916-6a0709d788c2",
@@ -17,8 +47,18 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
+      "timestamp": "2026-02-20T04:00:17Z",
       "reported_at": "2026-02-20T00:42:09Z"
+    },
+    {
+      "id": "82c99ab1-29bf-4c60-8301-c8c1f29bbdbe",
+      "latitude": -34.86048,
+      "longitude": 138.679759,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T03:54:02Z"
     },
     {
       "id": "634bf965-1318-485a-94fd-fa5ce4a3245f",
@@ -27,38 +67,18 @@
       "street": "Waite Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
+      "timestamp": "2026-02-20T04:00:17Z",
       "reported_at": "2026-02-20T02:51:35Z"
     },
     {
-      "id": "90a5be83-7213-4540-9b0c-74132a352ee0",
-      "latitude": -34.991485,
-      "longitude": 138.562365,
-      "street": "Charles St",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
-      "reported_at": "2026-02-20T00:43:09Z"
-    },
-    {
-      "id": "cb0afbb0-3630-4458-a4e5-7575d5286a06",
-      "latitude": -34.702558,
-      "longitude": 138.638303,
-      "street": "Fisher Bvd",
+      "id": "3c096819-53ed-44ba-aa6d-4f196f564800",
+      "latitude": -34.733384,
+      "longitude": 138.637688,
+      "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
-      "reported_at": "2026-02-20T02:59:31Z"
-    },
-    {
-      "id": "7174c5d1-c56f-41b8-aaf6-1db7d49fb125",
-      "latitude": -35.139006,
-      "longitude": 138.479159,
-      "street": "Beach Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
-      "reported_at": "2026-02-20T01:11:38Z"
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T03:48:17Z"
     },
     {
       "id": "1388f5d1-928e-4c49-a959-ad6859eb8199",
@@ -67,8 +87,18 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-02-20T03:30:14Z",
+      "timestamp": "2026-02-20T04:00:17Z",
       "reported_at": "2026-02-20T02:43:49Z"
+    },
+    {
+      "id": "52e52350-0e73-4016-91bc-e65a6f15b006",
+      "latitude": -34.901113,
+      "longitude": 138.605941,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-20T04:00:17Z",
+      "reported_at": "2026-02-20T03:39:14Z"
     }
   ]
 }
