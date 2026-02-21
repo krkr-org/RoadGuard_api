@@ -1,44 +1,44 @@
 {
   "radars": [
     {
-      "id": "28d29dd4-c195-4b39-a02f-302e1167e1f1",
-      "latitude": -34.980207,
-      "longitude": 138.56062,
-      "street": "John St",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T05:36:16Z"
-    },
-    {
       "id": "c91afea9-091c-463e-80df-b940f40e2578",
       "latitude": -34.917748,
       "longitude": 138.503046,
       "street": "North St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
+      "timestamp": "2026-02-21T10:00:16Z",
       "reported_at": "2026-02-21T08:32:30Z"
     },
     {
-      "id": "23673c30-b64a-4ea9-b3a9-66fe35a6c9d8",
-      "latitude": -34.940274,
-      "longitude": 138.500331,
-      "street": "Seaview Rd",
-      "city": "West Beach",
+      "id": "a425e063-4c4a-4547-a8a2-8d56811111d1",
+      "latitude": -34.97614,
+      "longitude": 138.525465,
+      "street": "Fourth Av",
+      "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T05:18:47Z"
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T07:19:57Z"
     },
     {
-      "id": "94f72eae-4933-49c8-a12d-65f97f7adbc4",
-      "latitude": -34.913505,
-      "longitude": 138.519523,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
+      "id": "7e4c082b-6df4-42d6-9fda-f17f0c4ceb07",
+      "latitude": -34.945136,
+      "longitude": 138.509742,
+      "street": "West Beach Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T08:13:28Z"
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T08:49:36Z"
+    },
+    {
+      "id": "3b14cc7c-816c-43b1-b561-b41f6332fbec",
+      "latitude": -34.89149,
+      "longitude": 138.662018,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T07:00:12Z"
     },
     {
       "id": "212fbc79-8458-44c0-84bf-1a183a7e31e8",
@@ -47,18 +47,18 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
+      "timestamp": "2026-02-21T10:00:16Z",
       "reported_at": "2026-02-21T05:19:11Z"
     },
     {
-      "id": "b86ce844-a7c7-44cf-8b7f-2af07b2aa21b",
-      "latitude": -34.889226,
-      "longitude": 138.664869,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "94f72eae-4933-49c8-a12d-65f97f7adbc4",
+      "latitude": -34.913505,
+      "longitude": 138.519523,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T07:37:21Z"
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T08:13:28Z"
     },
     {
       "id": "fa6605b3-f1cd-4d32-8d10-7256d9868608",
@@ -67,68 +67,38 @@
       "street": "Sudholz Rd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
+      "timestamp": "2026-02-21T10:00:16Z",
       "reported_at": "2026-02-21T09:25:08Z"
     },
     {
-      "id": "426cd99d-5480-4ab7-b15d-2a29f7d9b9a7",
-      "latitude": -34.93373,
-      "longitude": 138.588065,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "006e6e44-42f4-407b-a9b6-025cf15807f7",
+      "latitude": -34.840297,
+      "longitude": 138.491777,
+      "street": "Semaphore Rd",
+      "city": "Exeter",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T09:27:16Z"
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T09:27:50Z"
     },
     {
-      "id": "592b6c26-be4a-4512-8f3c-0850171c9d8a",
-      "latitude": -34.889197,
-      "longitude": 138.66147,
-      "street": "Montacute Rd",
-      "city": "Campbelltown",
+      "id": "530feff2-e48b-4f9c-9cd4-711ca8c06fc4",
+      "latitude": -34.981253,
+      "longitude": 138.538168,
+      "street": "Morphett Rd",
+      "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T08:07:26Z"
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T09:33:46Z"
     },
     {
-      "id": "4e96c84f-2b8b-43f9-93d5-31d79172e4ac",
-      "latitude": -34.963933,
-      "longitude": 138.516557,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "id": "3401f2fa-54a7-4627-ae07-8f5451e207ca",
+      "latitude": -35.141022,
+      "longitude": 138.486408,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T09:11:35Z"
-    },
-    {
-      "id": "4b8b45b5-f65f-4335-8ed1-42533d3d249d",
-      "latitude": -34.980223,
-      "longitude": 138.520137,
-      "street": "A15 - Brighton Rd",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T09:18:54Z"
-    },
-    {
-      "id": "15f9c131-0f73-45a0-a0f2-df09d5e95a8d",
-      "latitude": -34.899067,
-      "longitude": 138.591642,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T09:01:32Z"
-    },
-    {
-      "id": "9beb1ba6-4947-46e8-a367-e4a44ba3e5ef",
-      "latitude": -34.850032,
-      "longitude": 138.559043,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-02-21T09:30:15Z",
-      "reported_at": "2026-02-21T09:02:26Z"
+      "timestamp": "2026-02-21T10:00:16Z",
+      "reported_at": "2026-02-21T09:28:01Z"
     }
   ]
 }
