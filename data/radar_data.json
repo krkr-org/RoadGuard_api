@@ -1,14 +1,64 @@
 {
   "radars": [
     {
-      "id": "bc190a34-d864-4f4a-a091-d7c7e1b074c8",
-      "latitude": -34.943008,
-      "longitude": 138.503619,
+      "id": "28d29dd4-c195-4b39-a02f-302e1167e1f1",
+      "latitude": -34.980207,
+      "longitude": 138.56062,
+      "street": "John St",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:36:16Z"
+    },
+    {
+      "id": "23673c30-b64a-4ea9-b3a9-66fe35a6c9d8",
+      "latitude": -34.940274,
+      "longitude": 138.500331,
+      "street": "Seaview Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:18:47Z"
+    },
+    {
+      "id": "27ce73b2-2e09-46e3-98a1-7781f10e7227",
+      "latitude": -34.945074,
+      "longitude": 138.509421,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:15:41Z"
+    },
+    {
+      "id": "1b9405c6-72ae-4845-abd0-9f248834e5b1",
+      "latitude": -34.943597,
+      "longitude": 138.503842,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
-      "reported_at": "2026-02-21T05:06:18Z"
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T04:22:32Z"
+    },
+    {
+      "id": "bda6596d-9d85-4a26-9b54-f0ef059f3329",
+      "latitude": -34.889833,
+      "longitude": 138.664171,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:10:33Z"
+    },
+    {
+      "id": "116a61bd-83ec-4418-8d2a-7898f43f5a19",
+      "latitude": -34.913233,
+      "longitude": 138.518245,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:43:15Z"
     },
     {
       "id": "69ba0061-a4e7-4481-a6c6-0e4f9504cfb8",
@@ -17,58 +67,138 @@
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
+      "timestamp": "2026-02-21T06:00:17Z",
       "reported_at": "2026-02-21T04:49:38Z"
     },
     {
-      "id": "9d99b1c6-dbe8-4d77-9a59-30ac0aef3bc2",
-      "latitude": -35.105674,
-      "longitude": 138.515209,
+      "id": "05bdd969-1a0d-4453-bde8-61028c132210",
+      "latitude": -34.85622,
+      "longitude": 138.502466,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:36:15Z"
+    },
+    {
+      "id": "fad4af04-e950-40f6-92c9-1d28cdb3bc6a",
+      "latitude": -35.105632,
+      "longitude": 138.514,
       "street": "Sherriffs Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
-      "reported_at": "2026-02-21T05:13:19Z"
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:31:59Z"
     },
     {
-      "id": "e477363d-6788-4760-8ea1-fb37e4ea4abd",
-      "latitude": -34.976074,
-      "longitude": 138.526036,
+      "id": "d1d47458-321f-4080-9c4d-3d5aca379edb",
+      "latitude": -34.907116,
+      "longitude": 138.497972,
+      "street": "Grange Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:29:41Z"
+    },
+    {
+      "id": "2fd486f5-5597-4f86-8843-9595dfb5791f",
+      "latitude": -34.980462,
+      "longitude": 138.559438,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:44:46Z"
+    },
+    {
+      "id": "4b9e2644-1980-4ba4-b2bd-4130758e3fd6",
+      "latitude": -35.028428,
+      "longitude": 138.555865,
+      "street": "Seacombe Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:35:50Z"
+    },
+    {
+      "id": "1e12178d-2fc7-4779-94b8-3635718ba384",
+      "latitude": -34.769023,
+      "longitude": 138.619632,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:44:54Z"
+    },
+    {
+      "id": "89d0c986-d012-4cf8-bc91-9fadde7cf0b8",
+      "latitude": -34.857759,
+      "longitude": 138.502412,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:21:09Z"
+    },
+    {
+      "id": "8449b8bb-6f9f-4130-9992-9bb610bdc001",
+      "latitude": -34.845786,
+      "longitude": 138.506398,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:41:39Z"
+    },
+    {
+      "id": "a522ab94-bccd-4519-9a91-b032dd6a2582",
+      "latitude": -35.024294,
+      "longitude": 138.668062,
+      "street": "B28 - Upper Sturt Rd",
+      "city": "Belair",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:30:18Z"
+    },
+    {
+      "id": "1100a392-1ef1-405b-9beb-29844b133859",
+      "latitude": -34.976077,
+      "longitude": 138.525992,
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
-      "reported_at": "2026-02-21T05:18:46Z"
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:02:42Z"
     },
     {
-      "id": "ef677817-2388-49f4-8f0a-ce8c677e6525",
-      "latitude": -34.932485,
-      "longitude": 138.544618,
+      "id": "51ad617d-9a51-4a9d-add1-3bbaa6f16615",
+      "latitude": -34.976005,
+      "longitude": 138.524324,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:40:23Z"
+    },
+    {
+      "id": "39646723-6b3b-4532-b354-02d0c4921b84",
+      "latitude": -34.932343,
+      "longitude": 138.545116,
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
-      "reported_at": "2026-02-21T04:16:40Z"
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T04:29:33Z"
     },
     {
-      "id": "ec8fb4f5-1ee6-47ce-8ad2-fadae439a123",
-      "latitude": -34.806613,
-      "longitude": 138.717692,
-      "street": "A11 - Hancock Rd",
-      "city": "Redwood Park",
+      "id": "b00bc947-9e21-4a11-bb28-d9e88a163923",
+      "latitude": -34.83935,
+      "longitude": 138.676201,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
-      "reported_at": "2026-02-21T04:58:51Z"
-    },
-    {
-      "id": "f4509e51-8043-4a2e-b2ec-892b82498598",
-      "latitude": -34.741007,
-      "longitude": 138.579263,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-02-21T05:30:13Z",
-      "reported_at": "2026-02-21T05:09:08Z"
+      "timestamp": "2026-02-21T06:00:17Z",
+      "reported_at": "2026-02-21T05:49:50Z"
     }
   ]
 }
