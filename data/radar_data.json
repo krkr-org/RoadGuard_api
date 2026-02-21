@@ -1,54 +1,44 @@
 {
   "radars": [
     {
-      "id": "a425e063-4c4a-4547-a8a2-8d56811111d1",
-      "latitude": -34.97614,
-      "longitude": 138.525465,
-      "street": "Fourth Av",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
-      "reported_at": "2026-02-21T07:19:57Z"
-    },
-    {
       "id": "c91afea9-091c-463e-80df-b940f40e2578",
       "latitude": -34.917748,
       "longitude": 138.503046,
       "street": "North St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
+      "timestamp": "2026-02-21T11:00:17Z",
       "reported_at": "2026-02-21T08:32:30Z"
     },
     {
-      "id": "e06fb803-9d65-40ec-9d6a-8a9ce13b474c",
-      "latitude": -34.940177,
-      "longitude": 138.500318,
+      "id": "a425e063-4c4a-4547-a8a2-8d56811111d1",
+      "latitude": -34.97614,
+      "longitude": 138.525465,
+      "street": "Fourth Av",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T07:19:57Z"
+    },
+    {
+      "id": "23673c30-b64a-4ea9-b3a9-66fe35a6c9d8",
+      "latitude": -34.940353,
+      "longitude": 138.500342,
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
-      "reported_at": "2026-02-21T05:10:23Z"
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T05:18:47Z"
     },
     {
-      "id": "94f72eae-4933-49c8-a12d-65f97f7adbc4",
-      "latitude": -34.913505,
-      "longitude": 138.519523,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
-      "reported_at": "2026-02-21T08:13:28Z"
-    },
-    {
-      "id": "b7b59060-634d-4c2a-a0c9-34c37a6d2ff9",
-      "latitude": -34.929263,
-      "longitude": 138.542492,
+      "id": "d2a5361d-6aae-40be-8fbb-d58e5dab7216",
+      "latitude": -34.930201,
+      "longitude": 138.542193,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
-      "reported_at": "2026-02-21T04:23:53Z"
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T07:44:10Z"
     },
     {
       "id": "b86ce844-a7c7-44cf-8b7f-2af07b2aa21b",
@@ -57,28 +47,88 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
+      "timestamp": "2026-02-21T11:00:17Z",
       "reported_at": "2026-02-21T07:37:21Z"
     },
     {
-      "id": "bfdc4323-d05c-47be-9220-2285b9aca95a",
-      "latitude": -34.886834,
-      "longitude": 138.486785,
+      "id": "05c20fc6-28b8-4f36-ba44-9565a5a84194",
+      "latitude": -34.886979,
+      "longitude": 138.486936,
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
-      "reported_at": "2026-02-21T10:11:55Z"
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:11:27Z"
     },
     {
-      "id": "bd162205-ca5f-4cf2-ade1-6b129040e77c",
-      "latitude": -34.888717,
-      "longitude": 138.546699,
-      "street": "A7 - Port Rd",
-      "city": "Beverley",
+      "id": "4b7f149e-0c32-40c9-a8e0-4699447c1878",
+      "latitude": -35.017776,
+      "longitude": 138.546829,
+      "street": "Sturt Rd",
+      "city": "Oaklands Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:30:15Z",
-      "reported_at": "2026-02-21T10:05:26Z"
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:48:26Z"
+    },
+    {
+      "id": "a203a9e6-457d-4ce5-898e-8856d2c1e6a8",
+      "latitude": -34.992708,
+      "longitude": 138.70921,
+      "street": "B28 - Mount Lofty Summit Rd",
+      "city": "Crafers",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:39:25Z"
+    },
+    {
+      "id": "091c2985-dd65-415d-a32c-8482e52eaa27",
+      "latitude": -34.963634,
+      "longitude": 138.554797,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:42:24Z"
+    },
+    {
+      "id": "82cc392d-fbe8-4f6e-bfad-1725020770a4",
+      "latitude": -34.932642,
+      "longitude": 138.552555,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Cowandilla",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:47:13Z"
+    },
+    {
+      "id": "18d94e80-b788-4770-89a5-f32b11f80255",
+      "latitude": -34.93245,
+      "longitude": 138.545289,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T07:37:39Z"
+    },
+    {
+      "id": "3976a69b-149b-42f7-9c38-c5ed9fff2dd4",
+      "latitude": -34.85593,
+      "longitude": 138.657526,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:53:55Z"
+    },
+    {
+      "id": "d15b9dee-ca2f-4827-8918-b0d260070874",
+      "latitude": -34.777013,
+      "longitude": 138.622761,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-21T11:00:17Z",
+      "reported_at": "2026-02-21T10:47:19Z"
     }
   ]
 }
