@@ -1,44 +1,74 @@
 {
   "radars": [
     {
-      "id": "939e7a75-1770-456c-a5f4-397ce79364ba",
-      "latitude": -34.887359,
-      "longitude": 138.592787,
-      "street": "Myrtle St",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-02-21T04:30:15Z",
-      "reported_at": "2026-02-21T04:01:31Z"
-    },
-    {
       "id": "1b9405c6-72ae-4845-abd0-9f248834e5b1",
       "latitude": -34.943597,
       "longitude": 138.503842,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T04:30:15Z",
+      "timestamp": "2026-02-21T05:00:14Z",
       "reported_at": "2026-02-21T04:22:32Z"
     },
     {
-      "id": "a971dff1-f1dc-4060-be91-ac64a4ea51a7",
-      "latitude": -34.702117,
-      "longitude": 138.689397,
-      "street": "Midway Rd",
-      "city": "Elizabeth Downs",
+      "id": "852e2f29-3e86-4f36-b190-9e103ca4e5df",
+      "latitude": -34.929609,
+      "longitude": 138.542642,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T04:30:15Z",
-      "reported_at": "2026-02-21T04:19:49Z"
+      "timestamp": "2026-02-21T05:00:14Z",
+      "reported_at": "2026-02-21T04:21:03Z"
     },
     {
-      "id": "ef677817-2388-49f4-8f0a-ce8c677e6525",
-      "latitude": -34.932472,
-      "longitude": 138.544863,
+      "id": "69ba0061-a4e7-4481-a6c6-0e4f9504cfb8",
+      "latitude": -34.913886,
+      "longitude": 138.521301,
+      "street": "Valetta Rd",
+      "city": "Kidman Park",
+      "type": "mobile",
+      "timestamp": "2026-02-21T05:00:14Z",
+      "reported_at": "2026-02-21T04:49:38Z"
+    },
+    {
+      "id": "a2a47b95-e221-4708-b571-54071ee1cbe4",
+      "latitude": -34.773697,
+      "longitude": 138.679439,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-21T05:00:14Z",
+      "reported_at": "2026-02-21T04:32:54Z"
+    },
+    {
+      "id": "39646723-6b3b-4532-b354-02d0c4921b84",
+      "latitude": -34.932343,
+      "longitude": 138.545116,
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T04:30:15Z",
-      "reported_at": "2026-02-21T04:16:40Z"
+      "timestamp": "2026-02-21T05:00:14Z",
+      "reported_at": "2026-02-21T04:29:33Z"
+    },
+    {
+      "id": "b21f95ed-7c42-4eda-9805-1b64efddb00f",
+      "latitude": -34.975908,
+      "longitude": 138.526453,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-02-21T05:00:14Z",
+      "reported_at": "2026-02-21T04:43:07Z"
+    },
+    {
+      "id": "5a54c811-a587-4dfa-a641-8d0c0ae280b6",
+      "latitude": -34.846687,
+      "longitude": 138.639202,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-02-21T05:00:14Z",
+      "reported_at": "2026-02-21T04:08:35Z"
     }
   ]
 }
