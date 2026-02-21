@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "d8f992f0-853c-4b30-85c6-c8df59959715",
-      "latitude": -34.912362,
-      "longitude": 138.58272,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "3df8c83e-a410-40be-a60e-17bf6ed308f1",
+      "latitude": -34.905991,
+      "longitude": 138.521345,
+      "street": "Grange Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-21T03:00:16Z",
-      "reported_at": "2026-02-21T02:47:34Z"
+      "timestamp": "2026-02-21T03:30:15Z",
+      "reported_at": "2026-02-21T03:13:11Z"
     },
     {
-      "id": "208f081c-bf2e-40cc-92b1-f23a54cec1fb",
-      "latitude": -34.880431,
-      "longitude": 138.625079,
-      "street": "A10 - North East Rd",
-      "city": "Manningham",
+      "id": "06fe3826-ba60-44b3-af2b-cc22b4157435",
+      "latitude": -34.905708,
+      "longitude": 138.526997,
+      "street": "Grange Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-21T03:00:16Z",
-      "reported_at": "2026-02-21T02:45:59Z"
+      "timestamp": "2026-02-21T03:30:15Z",
+      "reported_at": "2026-02-21T03:18:39Z"
+    },
+    {
+      "id": "0a447c97-8cee-4f5d-aef4-b116ecb0a332",
+      "latitude": -34.875351,
+      "longitude": 138.566432,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-21T03:30:15Z",
+      "reported_at": "2026-02-21T03:16:46Z"
+    },
+    {
+      "id": "8fc0f19a-0104-4a6f-b19d-73847e154303",
+      "latitude": -35.020163,
+      "longitude": 138.559116,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-02-21T03:30:15Z",
+      "reported_at": "2026-02-21T03:07:56Z"
+    },
+    {
+      "id": "6bb425d2-b299-4054-aec3-f949ef41c542",
+      "latitude": -34.851491,
+      "longitude": 138.711224,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-02-21T03:30:15Z",
+      "reported_at": "2026-02-21T03:25:50Z"
     }
   ]
 }
