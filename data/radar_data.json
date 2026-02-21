@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "1b9405c6-72ae-4845-abd0-9f248834e5b1",
-      "latitude": -34.943597,
-      "longitude": 138.503842,
+      "id": "bc190a34-d864-4f4a-a091-d7c7e1b074c8",
+      "latitude": -34.943008,
+      "longitude": 138.503619,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
-      "reported_at": "2026-02-21T04:22:32Z"
-    },
-    {
-      "id": "852e2f29-3e86-4f36-b190-9e103ca4e5df",
-      "latitude": -34.929609,
-      "longitude": 138.542642,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
-      "reported_at": "2026-02-21T04:21:03Z"
+      "timestamp": "2026-02-21T05:30:13Z",
+      "reported_at": "2026-02-21T05:06:18Z"
     },
     {
       "id": "69ba0061-a4e7-4481-a6c6-0e4f9504cfb8",
@@ -27,48 +17,58 @@
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
+      "timestamp": "2026-02-21T05:30:13Z",
       "reported_at": "2026-02-21T04:49:38Z"
     },
     {
-      "id": "a2a47b95-e221-4708-b571-54071ee1cbe4",
-      "latitude": -34.773697,
-      "longitude": 138.679439,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
+      "id": "9d99b1c6-dbe8-4d77-9a59-30ac0aef3bc2",
+      "latitude": -35.105674,
+      "longitude": 138.515209,
+      "street": "Sherriffs Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
-      "reported_at": "2026-02-21T04:32:54Z"
+      "timestamp": "2026-02-21T05:30:13Z",
+      "reported_at": "2026-02-21T05:13:19Z"
     },
     {
-      "id": "39646723-6b3b-4532-b354-02d0c4921b84",
-      "latitude": -34.932343,
-      "longitude": 138.545116,
+      "id": "e477363d-6788-4760-8ea1-fb37e4ea4abd",
+      "latitude": -34.976074,
+      "longitude": 138.526036,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-02-21T05:30:13Z",
+      "reported_at": "2026-02-21T05:18:46Z"
+    },
+    {
+      "id": "ef677817-2388-49f4-8f0a-ce8c677e6525",
+      "latitude": -34.932485,
+      "longitude": 138.544618,
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
-      "reported_at": "2026-02-21T04:29:33Z"
+      "timestamp": "2026-02-21T05:30:13Z",
+      "reported_at": "2026-02-21T04:16:40Z"
     },
     {
-      "id": "b21f95ed-7c42-4eda-9805-1b64efddb00f",
-      "latitude": -34.975908,
-      "longitude": 138.526453,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg North",
+      "id": "ec8fb4f5-1ee6-47ce-8ad2-fadae439a123",
+      "latitude": -34.806613,
+      "longitude": 138.717692,
+      "street": "A11 - Hancock Rd",
+      "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
-      "reported_at": "2026-02-21T04:43:07Z"
+      "timestamp": "2026-02-21T05:30:13Z",
+      "reported_at": "2026-02-21T04:58:51Z"
     },
     {
-      "id": "5a54c811-a587-4dfa-a641-8d0c0ae280b6",
-      "latitude": -34.846687,
-      "longitude": 138.639202,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
+      "id": "f4509e51-8043-4a2e-b2ec-892b82498598",
+      "latitude": -34.741007,
+      "longitude": 138.579263,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-02-21T05:00:14Z",
-      "reported_at": "2026-02-21T04:08:35Z"
+      "timestamp": "2026-02-21T05:30:13Z",
+      "reported_at": "2026-02-21T05:09:08Z"
     }
   ]
 }
