@@ -1,24 +1,64 @@
 {
   "radars": [
     {
-      "id": "ef4ab728-9c72-4815-8344-deb57e2edfe1",
-      "latitude": -34.920727,
-      "longitude": 138.601786,
-      "street": "Kintore Av",
-      "city": "Adelaide",
+      "id": "060b0fa1-9c7d-4806-9c92-23e0e04dc388",
+      "latitude": -34.728849,
+      "longitude": 138.675586,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-02-21T01:30:13Z",
-      "reported_at": "2026-02-21T01:18:20Z"
+      "timestamp": "2026-02-21T02:00:15Z",
+      "reported_at": "2026-02-21T01:39:27Z"
     },
     {
-      "id": "279c8c10-eeb6-4755-b226-4289cfc9fa8f",
-      "latitude": -35.014834,
-      "longitude": 138.576497,
-      "street": "Shepherds Hill Rd",
-      "city": "Bedford Park",
+      "id": "20f2f758-f501-4b53-8fd5-d65e54452376",
+      "latitude": -34.694723,
+      "longitude": 138.657567,
+      "street": "Stebonheath Rd",
+      "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2026-02-21T01:30:13Z",
-      "reported_at": "2026-02-21T01:05:11Z"
+      "timestamp": "2026-02-21T02:00:15Z",
+      "reported_at": "2026-02-21T01:47:18Z"
+    },
+    {
+      "id": "70f11851-09d4-4944-b871-0ece210a4171",
+      "latitude": -34.695648,
+      "longitude": 138.651783,
+      "street": "Womma Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-02-21T02:00:15Z",
+      "reported_at": "2026-02-21T01:27:40Z"
+    },
+    {
+      "id": "156d55bd-f0d3-4b38-ae80-1805e2c84223",
+      "latitude": -35.137025,
+      "longitude": 138.518861,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-21T02:00:15Z",
+      "reported_at": "2026-02-21T01:43:51Z"
+    },
+    {
+      "id": "df682597-466f-4a10-8516-a37f754aeefb",
+      "latitude": -34.924295,
+      "longitude": 138.602055,
+      "street": "Grenfell St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-21T02:00:15Z",
+      "reported_at": "2026-02-21T01:56:01Z"
+    },
+    {
+      "id": "9afd0d73-eee5-42d1-b021-0443420df4e1",
+      "latitude": -34.9379,
+      "longitude": 138.62426,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-21T02:00:15Z",
+      "reported_at": "2026-02-21T01:54:05Z"
     }
   ]
 }
