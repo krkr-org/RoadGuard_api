@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "c91afea9-091c-463e-80df-b940f40e2578",
-      "latitude": -34.917748,
-      "longitude": 138.503046,
-      "street": "North St",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T08:32:30Z"
-    },
-    {
       "id": "a425e063-4c4a-4547-a8a2-8d56811111d1",
       "latitude": -34.97614,
       "longitude": 138.525465,
       "street": "Fourth Av",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
+      "timestamp": "2026-02-21T10:30:15Z",
       "reported_at": "2026-02-21T07:19:57Z"
     },
     {
-      "id": "7e4c082b-6df4-42d6-9fda-f17f0c4ceb07",
-      "latitude": -34.945136,
-      "longitude": 138.509742,
-      "street": "West Beach Rd",
+      "id": "c91afea9-091c-463e-80df-b940f40e2578",
+      "latitude": -34.917748,
+      "longitude": 138.503046,
+      "street": "North St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-21T10:30:15Z",
+      "reported_at": "2026-02-21T08:32:30Z"
+    },
+    {
+      "id": "e06fb803-9d65-40ec-9d6a-8a9ce13b474c",
+      "latitude": -34.940177,
+      "longitude": 138.500318,
+      "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T08:49:36Z"
-    },
-    {
-      "id": "3b14cc7c-816c-43b1-b561-b41f6332fbec",
-      "latitude": -34.89149,
-      "longitude": 138.662018,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T07:00:12Z"
-    },
-    {
-      "id": "212fbc79-8458-44c0-84bf-1a183a7e31e8",
-      "latitude": -34.927863,
-      "longitude": 138.54333,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T05:19:11Z"
+      "timestamp": "2026-02-21T10:30:15Z",
+      "reported_at": "2026-02-21T05:10:23Z"
     },
     {
       "id": "94f72eae-4933-49c8-a12d-65f97f7adbc4",
@@ -57,48 +37,48 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
+      "timestamp": "2026-02-21T10:30:15Z",
       "reported_at": "2026-02-21T08:13:28Z"
     },
     {
-      "id": "fa6605b3-f1cd-4d32-8d10-7256d9868608",
-      "latitude": -34.846629,
-      "longitude": 138.649552,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
+      "id": "b7b59060-634d-4c2a-a0c9-34c37a6d2ff9",
+      "latitude": -34.929263,
+      "longitude": 138.542492,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T09:25:08Z"
+      "timestamp": "2026-02-21T10:30:15Z",
+      "reported_at": "2026-02-21T04:23:53Z"
     },
     {
-      "id": "006e6e44-42f4-407b-a9b6-025cf15807f7",
-      "latitude": -34.840297,
-      "longitude": 138.491777,
-      "street": "Semaphore Rd",
-      "city": "Exeter",
+      "id": "b86ce844-a7c7-44cf-8b7f-2af07b2aa21b",
+      "latitude": -34.889226,
+      "longitude": 138.664869,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T09:27:50Z"
+      "timestamp": "2026-02-21T10:30:15Z",
+      "reported_at": "2026-02-21T07:37:21Z"
     },
     {
-      "id": "530feff2-e48b-4f9c-9cd4-711ca8c06fc4",
-      "latitude": -34.981253,
-      "longitude": 138.538168,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
+      "id": "bfdc4323-d05c-47be-9220-2285b9aca95a",
+      "latitude": -34.886834,
+      "longitude": 138.486785,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T09:33:46Z"
+      "timestamp": "2026-02-21T10:30:15Z",
+      "reported_at": "2026-02-21T10:11:55Z"
     },
     {
-      "id": "3401f2fa-54a7-4627-ae07-8f5451e207ca",
-      "latitude": -35.141022,
-      "longitude": 138.486408,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "bd162205-ca5f-4cf2-ade1-6b129040e77c",
+      "latitude": -34.888717,
+      "longitude": 138.546699,
+      "street": "A7 - Port Rd",
+      "city": "Beverley",
       "type": "mobile",
-      "timestamp": "2026-02-21T10:00:16Z",
-      "reported_at": "2026-02-21T09:28:01Z"
+      "timestamp": "2026-02-21T10:30:15Z",
+      "reported_at": "2026-02-21T10:05:26Z"
     }
   ]
 }
