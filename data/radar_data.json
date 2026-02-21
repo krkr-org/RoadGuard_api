@@ -7,7 +7,7 @@
       "street": "John St",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T05:36:16Z"
     },
     {
@@ -17,28 +17,8 @@
       "street": "HMAS Australia Rd",
       "city": "Henley Beach South",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T05:23:16Z"
-    },
-    {
-      "id": "e06fb803-9d65-40ec-9d6a-8a9ce13b474c",
-      "latitude": -34.940177,
-      "longitude": 138.500318,
-      "street": "Seaview Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T05:10:23Z"
-    },
-    {
-      "id": "0063ef92-cc12-4c14-bd2c-790cd3089b3b",
-      "latitude": -34.942139,
-      "longitude": 138.5033,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T05:39:28Z"
     },
     {
       "id": "3ef510bc-e3a6-4a4c-b294-aaee65c98b15",
@@ -47,8 +27,28 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T05:15:22Z"
+    },
+    {
+      "id": "23673c30-b64a-4ea9-b3a9-66fe35a6c9d8",
+      "latitude": -34.940274,
+      "longitude": 138.500331,
+      "street": "Seaview Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T05:18:47Z"
+    },
+    {
+      "id": "b7b59060-634d-4c2a-a0c9-34c37a6d2ff9",
+      "latitude": -34.929242,
+      "longitude": 138.542498,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T04:23:53Z"
     },
     {
       "id": "116a61bd-83ec-4418-8d2a-7898f43f5a19",
@@ -57,7 +57,7 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T05:43:15Z"
     },
     {
@@ -67,18 +67,8 @@
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T04:49:38Z"
-    },
-    {
-      "id": "3b14cc7c-816c-43b1-b561-b41f6332fbec",
-      "latitude": -34.89149,
-      "longitude": 138.662018,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T07:00:12Z"
     },
     {
       "id": "4ae26f21-f590-4876-90c3-12adc663c924",
@@ -87,18 +77,8 @@
       "street": "Bonython Av",
       "city": "Novar Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T04:57:35Z"
-    },
-    {
-      "id": "b7b59060-634d-4c2a-a0c9-34c37a6d2ff9",
-      "latitude": -34.929242,
-      "longitude": 138.542498,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T04:23:53Z"
     },
     {
       "id": "01e9ca3b-1f7a-44d5-b1f4-780abc798d6c",
@@ -107,8 +87,18 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T06:14:54Z"
+    },
+    {
+      "id": "3b14cc7c-816c-43b1-b561-b41f6332fbec",
+      "latitude": -34.89149,
+      "longitude": 138.662018,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:00:12Z"
     },
     {
       "id": "2532e3dd-53ad-4ffa-83bc-53918b215b28",
@@ -117,58 +107,88 @@
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
+      "timestamp": "2026-02-21T08:00:16Z",
       "reported_at": "2026-02-21T05:34:45Z"
     },
     {
-      "id": "43def459-d68e-4723-9fec-5c0a2bf505d4",
-      "latitude": -34.997333,
-      "longitude": 138.703745,
-      "street": "Main St",
-      "city": "Crafers",
+      "id": "38679ed8-a063-45c4-b446-395bbca7da7f",
+      "latitude": -35.05637,
+      "longitude": 138.598719,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T07:08:34Z"
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:34:42Z"
     },
     {
-      "id": "69a18f85-debf-4f15-b403-dc71a4602ef5",
-      "latitude": -34.886398,
-      "longitude": 138.486675,
-      "street": "Military Rd",
-      "city": "Tennyson",
+      "id": "90d7cd71-7705-4f7e-8226-0664daf80f16",
+      "latitude": -34.840191,
+      "longitude": 138.491289,
+      "street": "Semaphore Rd",
+      "city": "Exeter",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T06:30:35Z"
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:47:56Z"
     },
     {
-      "id": "4ef07ad2-6bc7-481f-9e55-7f7988bd1010",
-      "latitude": -34.840124,
-      "longitude": 138.510802,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "id": "aa14bfb7-2356-4039-8c1b-77a4936830f4",
+      "latitude": -34.906119,
+      "longitude": 138.520346,
+      "street": "Grange Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T06:49:22Z"
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:56:03Z"
     },
     {
-      "id": "2b08cd7b-133e-45fd-91e1-a712423d0435",
-      "latitude": -35.023854,
-      "longitude": 138.562272,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
+      "id": "e0338f17-aa28-4411-ab03-8980d3fdc19f",
+      "latitude": -34.976333,
+      "longitude": 138.520164,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T07:12:45Z"
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:40:09Z"
     },
     {
-      "id": "20bdfa14-4b20-4f77-8e79-16b68042b15c",
-      "latitude": -34.932314,
-      "longitude": 138.545654,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Brooklyn Park",
+      "id": "785e3bcb-0e60-4b6a-9f22-e305853a8e65",
+      "latitude": -34.898873,
+      "longitude": 138.592898,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-02-21T07:30:16Z",
-      "reported_at": "2026-02-21T05:30:37Z"
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:36:51Z"
+    },
+    {
+      "id": "c04ee721-42bb-4d8f-99a6-0db0fffd681f",
+      "latitude": -34.785034,
+      "longitude": 138.636179,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:46:16Z"
+    },
+    {
+      "id": "fe4785f9-b4cc-4651-ba3d-55f77c43f36d",
+      "latitude": -34.795116,
+      "longitude": 138.652454,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:49:17Z"
+    },
+    {
+      "id": "efcee19c-a618-4f6a-b812-de7c91df54aa",
+      "latitude": -34.780898,
+      "longitude": 138.629367,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-21T08:00:16Z",
+      "reported_at": "2026-02-21T07:39:53Z"
     }
   ]
 }
