@@ -1,14 +1,94 @@
 {
   "radars": [
     {
-      "id": "0e1479ea-0f0f-4c02-9315-1c469d687aee",
-      "latitude": -34.926416,
-      "longitude": 138.517757,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
+      "id": "353f702c-be96-4f0e-81f1-7e87d1aa473b",
+      "latitude": -34.887375,
+      "longitude": 138.57605,
+      "street": "Harrison Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-02-21T17:00:14Z",
-      "reported_at": "2026-02-21T15:19:18Z"
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T07:30:20Z"
+    },
+    {
+      "id": "2dd590d3-2831-4c9e-907d-c4d90d359543",
+      "latitude": -34.912881,
+      "longitude": 138.516575,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T05:36:09Z"
+    },
+    {
+      "id": "309bed0a-862a-4d92-be95-0c87940f3974",
+      "latitude": -34.899597,
+      "longitude": 138.538596,
+      "street": "Crittenden Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T09:42:26Z"
+    },
+    {
+      "id": "089d89e9-0ad1-499a-b11d-ac4b53cb7144",
+      "latitude": -34.897578,
+      "longitude": 138.585481,
+      "street": "Torrens Rd",
+      "city": "Ovingham",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T11:19:18Z"
+    },
+    {
+      "id": "c9c14c43-4565-4563-8d6b-392e5b8f0624",
+      "latitude": -34.941287,
+      "longitude": 138.594798,
+      "street": "Sir Lewis Cohen Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T10:57:17Z"
+    },
+    {
+      "id": "3b153da8-3645-4645-b6c5-ed1a3b778609",
+      "latitude": -34.986429,
+      "longitude": 138.556535,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T11:17:00Z"
+    },
+    {
+      "id": "1c6ca930-a64c-4aa1-b348-50c197f61eda",
+      "latitude": -35.005497,
+      "longitude": 138.557971,
+      "street": "A14 - Marion Rd",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T10:46:23Z"
+    },
+    {
+      "id": "e6e33a0f-51d0-427b-8dfb-1fd01771df13",
+      "latitude": -34.858282,
+      "longitude": 138.600954,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T05:20:04Z"
+    },
+    {
+      "id": "5a5a5eb3-2880-4c82-9646-a5e29954cf32",
+      "latitude": -34.848935,
+      "longitude": 138.564484,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-25T11:30:16Z",
+      "reported_at": "2026-02-25T11:25:21Z"
     }
   ]
 }
