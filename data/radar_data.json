@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "353f702c-be96-4f0e-81f1-7e87d1aa473b",
-      "latitude": -34.887375,
-      "longitude": 138.57605,
-      "street": "Harrison Rd",
-      "city": "Renown Park",
+      "id": "76d7ec78-f164-4856-bb0e-070f5c2ce2f3",
+      "latitude": -34.884018,
+      "longitude": 138.566872,
+      "street": "Days Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
-      "reported_at": "2026-02-25T07:30:20Z"
+      "timestamp": "2026-02-25T12:00:17Z",
+      "reported_at": "2026-02-25T08:49:06Z"
     },
     {
-      "id": "2dd590d3-2831-4c9e-907d-c4d90d359543",
-      "latitude": -34.912881,
-      "longitude": 138.516575,
+      "id": "063eb9fd-db65-477b-8eab-32e2cb8dae19",
+      "latitude": -34.868846,
+      "longitude": 138.575134,
+      "street": "Naweena Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-02-25T12:00:17Z",
+      "reported_at": "2026-02-25T07:56:49Z"
+    },
+    {
+      "id": "62260d7a-32bf-49be-ad32-8ef35e606a09",
+      "latitude": -34.912884,
+      "longitude": 138.516592,
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
-      "reported_at": "2026-02-25T05:36:09Z"
-    },
-    {
-      "id": "309bed0a-862a-4d92-be95-0c87940f3974",
-      "latitude": -34.899597,
-      "longitude": 138.538596,
-      "street": "Crittenden Rd",
-      "city": "Findon",
-      "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
-      "reported_at": "2026-02-25T09:42:26Z"
+      "timestamp": "2026-02-25T12:00:17Z",
+      "reported_at": "2026-02-25T08:03:23Z"
     },
     {
       "id": "089d89e9-0ad1-499a-b11d-ac4b53cb7144",
@@ -37,28 +37,18 @@
       "street": "Torrens Rd",
       "city": "Ovingham",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
+      "timestamp": "2026-02-25T12:00:17Z",
       "reported_at": "2026-02-25T11:19:18Z"
     },
     {
-      "id": "c9c14c43-4565-4563-8d6b-392e5b8f0624",
-      "latitude": -34.941287,
-      "longitude": 138.594798,
-      "street": "Sir Lewis Cohen Av",
-      "city": "Adelaide",
+      "id": "309bed0a-862a-4d92-be95-0c87940f3974",
+      "latitude": -34.899597,
+      "longitude": 138.538596,
+      "street": "Crittenden Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
-      "reported_at": "2026-02-25T10:57:17Z"
-    },
-    {
-      "id": "3b153da8-3645-4645-b6c5-ed1a3b778609",
-      "latitude": -34.986429,
-      "longitude": 138.556535,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
-      "reported_at": "2026-02-25T11:17:00Z"
+      "timestamp": "2026-02-25T12:00:17Z",
+      "reported_at": "2026-02-25T09:42:26Z"
     },
     {
       "id": "1c6ca930-a64c-4aa1-b348-50c197f61eda",
@@ -67,8 +57,18 @@
       "street": "A14 - Marion Rd",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
+      "timestamp": "2026-02-25T12:00:17Z",
       "reported_at": "2026-02-25T10:46:23Z"
+    },
+    {
+      "id": "4986c812-ab32-421d-a76d-b2a0c1cc66e7",
+      "latitude": -34.941158,
+      "longitude": 138.600275,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
+      "type": "mobile",
+      "timestamp": "2026-02-25T12:00:17Z",
+      "reported_at": "2026-02-25T11:41:04Z"
     },
     {
       "id": "e6e33a0f-51d0-427b-8dfb-1fd01771df13",
@@ -77,8 +77,18 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
+      "timestamp": "2026-02-25T12:00:17Z",
       "reported_at": "2026-02-25T05:20:04Z"
+    },
+    {
+      "id": "9a102032-e6a4-4f4f-a066-f43c952a5359",
+      "latitude": -34.680538,
+      "longitude": 138.629876,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-25T12:00:17Z",
+      "reported_at": "2026-02-25T11:38:03Z"
     },
     {
       "id": "5a5a5eb3-2880-4c82-9646-a5e29954cf32",
@@ -87,7 +97,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-02-25T11:30:16Z",
+      "timestamp": "2026-02-25T12:00:17Z",
       "reported_at": "2026-02-25T11:25:21Z"
     }
   ]
