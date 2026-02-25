@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "8de4fcc0-7aed-4c57-860e-b3ebfbf8432d",
+      "latitude": -34.798136,
+      "longitude": 138.65722,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2026-02-25T19:30:15Z",
+      "reported_at": "2026-02-25T19:27:30Z"
+    },
+    {
+      "id": "539214ae-8692-4e18-9e45-6ac2f9ac6a94",
+      "latitude": -34.850153,
+      "longitude": 138.554736,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-25T19:30:15Z",
+      "reported_at": "2026-02-25T19:13:13Z"
+    }
+  ]
 }
