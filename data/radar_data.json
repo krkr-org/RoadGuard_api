@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "35121c18-8e5a-4d4b-b1f0-16a14eebe417",
+      "latitude": -34.919129,
+      "longitude": 138.501387,
+      "street": "Cudmore Tce",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-25T21:00:17Z",
+      "reported_at": "2026-02-25T20:44:09Z"
+    },
+    {
+      "id": "7ce7bb79-c91f-4f4a-9c18-2d17c5cf4fb0",
+      "latitude": -34.869639,
+      "longitude": 138.619013,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-02-25T21:00:17Z",
+      "reported_at": "2026-02-25T20:55:26Z"
+    }
+  ]
 }
