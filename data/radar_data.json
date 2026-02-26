@@ -1,104 +1,74 @@
 {
   "radars": [
     {
-      "id": "0826da5b-77a2-4c95-b0c6-ff13a1291824",
-      "latitude": -34.914636,
-      "longitude": 138.496841,
-      "street": "East Tce",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T01:53:27Z"
-    },
-    {
-      "id": "4f20e2f2-dc04-4f80-a549-29477bae3c7f",
-      "latitude": -34.912677,
-      "longitude": 138.681296,
-      "street": "Norton Summit Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T02:13:53Z"
-    },
-    {
       "id": "46036035-dbff-44a7-93b3-ed9962108800",
       "latitude": -34.928494,
       "longitude": 138.651201,
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
+      "timestamp": "2026-02-26T06:00:16Z",
       "reported_at": "2026-02-26T01:57:34Z"
     },
     {
-      "id": "01ca3dda-9705-46da-b010-085e0ac653a8",
-      "latitude": -34.688326,
-      "longitude": 138.675931,
-      "street": "Coventry Rd",
-      "city": "Davoren Park",
+      "id": "1b440728-0a07-43bd-9385-dd4a36b1838a",
+      "latitude": -34.927188,
+      "longitude": 138.574727,
+      "street": "Unknown Street",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T05:17:45Z"
+      "timestamp": "2026-02-26T06:00:16Z",
+      "reported_at": "2026-02-26T05:31:40Z"
     },
     {
-      "id": "a390f5f6-fb40-4f80-8be6-0982b25894ee",
-      "latitude": -35.054651,
-      "longitude": 138.56478,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "4d10ed16-0486-4cbe-8417-1421b6250056",
+      "latitude": -35.019135,
+      "longitude": 138.524584,
+      "street": "Sturt Rd",
+      "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T04:41:07Z"
+      "timestamp": "2026-02-26T06:00:16Z",
+      "reported_at": "2026-02-26T05:24:51Z"
     },
     {
-      "id": "11eee647-ee25-4cc8-8b47-03482bd718f1",
-      "latitude": -34.874231,
-      "longitude": 138.588558,
-      "street": "Regency Rd",
-      "city": "Prospect",
+      "id": "c4382aa0-36d1-4c90-91d9-29764c21c203",
+      "latitude": -35.133424,
+      "longitude": 138.485948,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T04:55:08Z"
-    },
-    {
-      "id": "699ed483-67ab-4159-a20d-ce0d01e151d9",
-      "latitude": -34.900723,
-      "longitude": 138.657384,
-      "street": "Glynburn Rd",
-      "city": "Glynde",
-      "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T04:51:09Z"
+      "timestamp": "2026-02-26T06:00:16Z",
+      "reported_at": "2026-02-26T05:04:01Z"
     },
     {
       "id": "af45feec-b4b8-47d2-9f61-a1e0ca218a66",
-      "latitude": -35.047881,
-      "longitude": 138.532382,
+      "latitude": -35.049193,
+      "longitude": 138.533228,
       "street": "A15 - Ocean Bvd",
       "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
+      "timestamp": "2026-02-26T06:00:16Z",
       "reported_at": "2026-02-26T04:55:57Z"
     },
     {
-      "id": "bac9625c-4540-4bc8-a52c-073f6bd08711",
-      "latitude": -35.046087,
-      "longitude": 138.550591,
+      "id": "225be9cb-b2b3-4072-b2a8-204aab585f07",
+      "latitude": -34.932437,
+      "longitude": 138.545448,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-02-26T06:00:16Z",
+      "reported_at": "2026-02-26T05:29:52Z"
+    },
+    {
+      "id": "e871cdeb-8aae-4b74-ae67-b88d5c15b638",
+      "latitude": -35.046508,
+      "longitude": 138.550191,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T05:17:00Z"
-    },
-    {
-      "id": "bf003876-93b6-4440-bcbd-5799bc3387ea",
-      "latitude": -35.054233,
-      "longitude": 138.546297,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-26T05:30:16Z",
-      "reported_at": "2026-02-26T05:29:26Z"
+      "timestamp": "2026-02-26T06:00:16Z",
+      "reported_at": "2026-02-26T05:57:19Z"
     }
   ]
 }
