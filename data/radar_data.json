@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "c2182501-4e5e-46d8-8aa2-de9ad77c6858",
-      "latitude": -34.965916,
-      "longitude": 138.590805,
-      "street": "Goodwood Rd",
-      "city": "Clarence Park",
+      "id": "c4b149da-ed5d-4ff0-8eb5-edcbb812bca3",
+      "latitude": -35.013113,
+      "longitude": 138.576446,
+      "street": "Shepherds Hill Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-02-26T23:00:18Z",
-      "reported_at": "2026-02-26T22:36:37Z"
+      "timestamp": "2026-02-26T23:30:15Z",
+      "reported_at": "2026-02-26T23:11:43Z"
     },
     {
       "id": "455c4a6b-eaf6-4d99-81e3-532f6194425d",
@@ -17,18 +17,28 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-02-26T23:00:18Z",
+      "timestamp": "2026-02-26T23:30:15Z",
       "reported_at": "2026-02-26T21:16:09Z"
     },
     {
-      "id": "bd58bc74-9079-4469-8a74-d67deac501e2",
-      "latitude": -34.966233,
-      "longitude": 138.648187,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "e7cd45a2-ac28-483d-ad24-a29f08fb4a42",
+      "latitude": -35.018525,
+      "longitude": 138.559113,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-02-26T23:00:18Z",
-      "reported_at": "2026-02-26T22:04:38Z"
+      "timestamp": "2026-02-26T23:30:15Z",
+      "reported_at": "2026-02-26T23:19:32Z"
+    },
+    {
+      "id": "f74d42ae-6881-4d68-a893-74939bc9b570",
+      "latitude": -34.942174,
+      "longitude": 138.584065,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
+      "type": "mobile",
+      "timestamp": "2026-02-26T23:30:15Z",
+      "reported_at": "2026-02-26T23:20:20Z"
     }
   ]
 }
