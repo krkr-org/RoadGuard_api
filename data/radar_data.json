@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "904863b0-aacb-4fd6-8ca9-e910cf874a4c",
-      "latitude": -35.062976,
-      "longitude": 138.544417,
+      "id": "8deef847-05d7-4f19-b32a-9483b43e1950",
+      "latitude": -34.896402,
+      "longitude": 138.590209,
+      "street": "Braund Rd",
+      "city": "Fitzroy",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T07:00:15Z"
+    },
+    {
+      "id": "dd1fba5a-1def-4b6f-ac8a-09d430f4866a",
+      "latitude": -35.06379,
+      "longitude": 138.544477,
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
-      "reported_at": "2026-02-26T06:35:21Z"
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T05:31:17Z"
     },
     {
       "id": "795400d8-1488-4746-bcf0-b6df33de7b6c",
@@ -17,68 +27,98 @@
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
+      "timestamp": "2026-02-26T08:00:20Z",
       "reported_at": "2026-02-26T05:49:32Z"
     },
     {
-      "id": "87e00138-6a78-409a-bf0a-5a5bfda13f85",
-      "latitude": -34.702814,
-      "longitude": 138.690497,
-      "street": "Midway Rd",
-      "city": "Elizabeth Downs",
+      "id": "12abffe4-a22f-4b1d-ad9e-423483fa6c6f",
+      "latitude": -34.893787,
+      "longitude": 138.659041,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
-      "reported_at": "2026-02-26T07:06:46Z"
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T07:20:25Z"
     },
     {
-      "id": "3c02eaae-d0de-4912-924c-3c5eb7a0fa10",
-      "latitude": -34.858389,
-      "longitude": 138.592069,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
+      "id": "c086db33-846a-4734-b585-6425d2797b89",
+      "latitude": -34.772874,
+      "longitude": 138.647985,
+      "street": "Cross Keys Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
-      "reported_at": "2026-02-26T06:53:22Z"
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T07:01:24Z"
     },
     {
-      "id": "7985cb57-4834-48ed-9c2c-3385806a35fb",
-      "latitude": -35.135511,
-      "longitude": 138.486096,
+      "id": "4a36f6d8-9640-41fa-b9d9-b82e580fb0b7",
+      "latitude": -35.134401,
+      "longitude": 138.485858,
       "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
-      "reported_at": "2026-02-26T06:01:09Z"
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T05:19:34Z"
     },
     {
-      "id": "6edb5c73-6ddc-4df2-a219-5f873d035847",
-      "latitude": -34.916152,
-      "longitude": 138.621757,
-      "street": "A11 - North Tce",
-      "city": "College Park",
+      "id": "3dccd538-e2cb-42e6-84c3-4d0db5ece39e",
+      "latitude": -34.935867,
+      "longitude": 138.508242,
+      "street": "A6 - Burbridge Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
-      "reported_at": "2026-02-26T07:12:40Z"
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T07:33:44Z"
     },
     {
-      "id": "351df131-0375-44ac-8862-87478126e368",
-      "latitude": -34.777109,
-      "longitude": 138.628163,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury Downs",
+      "id": "bfde29d5-0899-4b32-bb0f-627f7a47cad2",
+      "latitude": -34.980804,
+      "longitude": 138.556115,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
-      "reported_at": "2026-02-26T07:01:46Z"
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T07:59:00Z"
+    },
+    {
+      "id": "20c392e2-87c2-4369-b3a3-5549e780334c",
+      "latitude": -35.050553,
+      "longitude": 138.534272,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T05:53:10Z"
+    },
+    {
+      "id": "a9365494-51f6-49da-8189-bc1cd04a7e6e",
+      "latitude": -35.138844,
+      "longitude": 138.524491,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T07:35:22Z"
     },
     {
       "id": "ab0847ab-495a-412f-8fd8-e5b1ad2d02e0",
-      "latitude": -35.089532,
-      "longitude": 138.529536,
+      "latitude": -35.089645,
+      "longitude": 138.529258,
       "street": "M2 - Southern Exp",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-26T07:30:16Z",
+      "timestamp": "2026-02-26T08:00:20Z",
       "reported_at": "2026-02-26T06:55:01Z"
+    },
+    {
+      "id": "b7fcbd10-8913-4018-9256-71576ab30b84",
+      "latitude": -35.046022,
+      "longitude": 138.550403,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:00:20Z",
+      "reported_at": "2026-02-26T05:12:35Z"
     }
   ]
 }
