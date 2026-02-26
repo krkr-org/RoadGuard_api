@@ -7,7 +7,7 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
+      "timestamp": "2026-02-26T04:30:16Z",
       "reported_at": "2026-02-26T03:10:49Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Hillier Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
+      "timestamp": "2026-02-26T04:30:16Z",
       "reported_at": "2026-02-26T02:49:59Z"
     },
     {
@@ -27,18 +27,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
+      "timestamp": "2026-02-26T04:30:16Z",
       "reported_at": "2026-02-26T01:50:18Z"
-    },
-    {
-      "id": "540a4ff2-8747-4e64-b06b-3e2f6ebbac24",
-      "latitude": -34.928951,
-      "longitude": 138.668276,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
-      "reported_at": "2026-02-26T02:02:42Z"
     },
     {
       "id": "db3710e0-18b8-490f-81f5-eb62e0fdc253",
@@ -47,38 +37,48 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
+      "timestamp": "2026-02-26T04:30:16Z",
       "reported_at": "2026-02-26T00:57:09Z"
     },
     {
-      "id": "36c4bb30-3053-4b2c-a907-0e16afa6f3c8",
-      "latitude": -34.837256,
-      "longitude": 138.622394,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
-      "reported_at": "2026-02-26T03:46:10Z"
-    },
-    {
-      "id": "cda442d7-e598-4a44-a999-6b1bbed334eb",
-      "latitude": -34.916533,
-      "longitude": 138.676321,
-      "street": "Penfold Rd",
+      "id": "4f20e2f2-dc04-4f80-a549-29477bae3c7f",
+      "latitude": -34.912677,
+      "longitude": 138.681296,
+      "street": "Norton Summit Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
-      "reported_at": "2026-02-26T03:37:44Z"
+      "timestamp": "2026-02-26T04:30:16Z",
+      "reported_at": "2026-02-26T02:13:53Z"
     },
     {
-      "id": "01fc2b6a-ec22-43a6-8005-18ac71d1159b",
-      "latitude": -34.958368,
-      "longitude": 138.563651,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
+      "id": "4d4d5ab6-af1c-4f64-8789-0a3bf4e98343",
+      "latitude": -35.021208,
+      "longitude": 138.610453,
+      "street": "Shepherds Hill Rd",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
-      "reported_at": "2026-02-26T03:34:16Z"
+      "timestamp": "2026-02-26T04:30:16Z",
+      "reported_at": "2026-02-26T04:23:17Z"
+    },
+    {
+      "id": "4510774a-2178-47ab-bc46-134be08eec42",
+      "latitude": -35.119753,
+      "longitude": 138.489146,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-02-26T04:30:16Z",
+      "reported_at": "2026-02-26T04:04:57Z"
+    },
+    {
+      "id": "5765d8a9-2050-4d9c-b9ce-37d359fd0058",
+      "latitude": -34.966275,
+      "longitude": 138.554878,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-26T04:30:16Z",
+      "reported_at": "2026-02-26T04:09:13Z"
     },
     {
       "id": "e2f45572-4f9e-489d-b372-f488738231b1",
@@ -87,8 +87,18 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T04:00:18Z",
+      "timestamp": "2026-02-26T04:30:16Z",
       "reported_at": "2026-02-26T00:41:06Z"
+    },
+    {
+      "id": "8547b58c-275a-4108-97aa-18224ac977d2",
+      "latitude": -34.794245,
+      "longitude": 138.61284,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-26T04:30:16Z",
+      "reported_at": "2026-02-26T03:58:00Z"
     }
   ]
 }
