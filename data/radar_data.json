@@ -7,18 +7,18 @@
       "street": "Braund Rd",
       "city": "Fitzroy",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T07:00:15Z"
     },
     {
-      "id": "dd1fba5a-1def-4b6f-ac8a-09d430f4866a",
-      "latitude": -35.06379,
-      "longitude": 138.544477,
+      "id": "c58adda1-bd41-48f9-a3e5-80ab2eb2805e",
+      "latitude": -35.062564,
+      "longitude": 138.544386,
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
-      "reported_at": "2026-02-26T05:31:17Z"
+      "timestamp": "2026-02-26T08:30:16Z",
+      "reported_at": "2026-02-26T05:23:29Z"
     },
     {
       "id": "795400d8-1488-4746-bcf0-b6df33de7b6c",
@@ -27,7 +27,7 @@
       "street": "Hendrie St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T05:49:32Z"
     },
     {
@@ -37,8 +37,28 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T07:20:25Z"
+    },
+    {
+      "id": "bb6541db-60f3-4ad0-a32d-ce83233445b6",
+      "latitude": -34.925052,
+      "longitude": 138.615129,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:30:16Z",
+      "reported_at": "2026-02-26T07:14:54Z"
+    },
+    {
+      "id": "81e55e47-c2e5-4587-a335-c267db20fe1c",
+      "latitude": -34.77014,
+      "longitude": 138.618631,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:30:16Z",
+      "reported_at": "2026-02-26T07:56:02Z"
     },
     {
       "id": "c086db33-846a-4734-b585-6425d2797b89",
@@ -47,38 +67,8 @@
       "street": "Cross Keys Rd",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T07:01:24Z"
-    },
-    {
-      "id": "4a36f6d8-9640-41fa-b9d9-b82e580fb0b7",
-      "latitude": -35.134401,
-      "longitude": 138.485858,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
-      "reported_at": "2026-02-26T05:19:34Z"
-    },
-    {
-      "id": "3dccd538-e2cb-42e6-84c3-4d0db5ece39e",
-      "latitude": -34.935867,
-      "longitude": 138.508242,
-      "street": "A6 - Burbridge Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
-      "reported_at": "2026-02-26T07:33:44Z"
-    },
-    {
-      "id": "bfde29d5-0899-4b32-bb0f-627f7a47cad2",
-      "latitude": -34.980804,
-      "longitude": 138.556115,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton Park",
-      "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
-      "reported_at": "2026-02-26T07:59:00Z"
     },
     {
       "id": "20c392e2-87c2-4369-b3a3-5549e780334c",
@@ -87,7 +77,7 @@
       "street": "A15 - Ocean Bvd",
       "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T05:53:10Z"
     },
     {
@@ -97,8 +87,38 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T07:35:22Z"
+    },
+    {
+      "id": "6e6b54b8-ba91-492a-9565-32339a5a0808",
+      "latitude": -34.899159,
+      "longitude": 138.590189,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:30:16Z",
+      "reported_at": "2026-02-26T07:53:09Z"
+    },
+    {
+      "id": "1f199f07-c236-4a1a-a1aa-efb13f9edb3e",
+      "latitude": -34.919341,
+      "longitude": 138.615558,
+      "street": "A11 - North Tce",
+      "city": "Hackney",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:30:16Z",
+      "reported_at": "2026-02-26T07:59:04Z"
+    },
+    {
+      "id": "7a30e7c7-7811-4e62-9a51-7366059fcc40",
+      "latitude": -35.047118,
+      "longitude": 138.549638,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-26T08:30:16Z",
+      "reported_at": "2026-02-26T07:20:18Z"
     },
     {
       "id": "ab0847ab-495a-412f-8fd8-e5b1ad2d02e0",
@@ -107,18 +127,8 @@
       "street": "M2 - Southern Exp",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
+      "timestamp": "2026-02-26T08:30:16Z",
       "reported_at": "2026-02-26T06:55:01Z"
-    },
-    {
-      "id": "b7fcbd10-8913-4018-9256-71576ab30b84",
-      "latitude": -35.046022,
-      "longitude": 138.550403,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-26T08:00:20Z",
-      "reported_at": "2026-02-26T05:12:35Z"
     }
   ]
 }
