@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "1b2959ba-67db-4fb2-92ee-2d9bed07920c",
+      "latitude": -34.998403,
+      "longitude": 138.557327,
+      "street": "A14 - Marion Rd",
+      "city": "Marion",
+      "type": "mobile",
+      "timestamp": "2026-02-26T21:00:16Z",
+      "reported_at": "2026-02-26T20:41:49Z"
+    },
+    {
+      "id": "09a309bb-24fc-413b-b2ee-6b64d1487b5b",
+      "latitude": -34.983918,
+      "longitude": 138.556241,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-02-26T21:00:16Z",
+      "reported_at": "2026-02-26T20:55:08Z"
+    }
+  ]
 }
