@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "3ff8304e-3763-4eb1-864b-393e98323169",
-      "latitude": -34.928235,
-      "longitude": 138.677164,
+      "id": "0f136a2f-9b32-4c6f-8a85-ec4d527644eb",
+      "latitude": -34.926844,
+      "longitude": 138.67706,
       "street": "Penfold Rd",
       "city": "Wattle Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
-      "reported_at": "2026-02-25T21:47:34Z"
-    },
-    {
-      "id": "30320bb5-a89e-43a4-ab1b-2a74dfdf2741",
-      "latitude": -34.915859,
-      "longitude": 138.587792,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
-      "reported_at": "2026-02-25T21:19:02Z"
+      "timestamp": "2026-02-26T02:30:15Z",
+      "reported_at": "2026-02-25T22:34:32Z"
     },
     {
       "id": "f94294f1-2102-44ef-88f3-7d24b35da39a",
@@ -27,18 +17,18 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
+      "timestamp": "2026-02-26T02:30:15Z",
       "reported_at": "2026-02-25T21:49:52Z"
     },
     {
-      "id": "4b178ba7-9449-4da6-adb3-41129bca39d9",
-      "latitude": -34.931972,
-      "longitude": 138.631806,
-      "street": "Grant Av",
-      "city": "Rose Park",
+      "id": "30320bb5-a89e-43a4-ab1b-2a74dfdf2741",
+      "latitude": -34.915859,
+      "longitude": 138.587792,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
-      "reported_at": "2026-02-25T21:09:23Z"
+      "timestamp": "2026-02-26T02:30:15Z",
+      "reported_at": "2026-02-25T21:19:02Z"
     },
     {
       "id": "eef54462-15ba-4a41-8766-e7a912cbeb1e",
@@ -47,18 +37,28 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
+      "timestamp": "2026-02-26T02:30:15Z",
       "reported_at": "2026-02-25T21:48:39Z"
     },
     {
-      "id": "ba6eba92-adb5-4408-939e-e1d60304d3d1",
-      "latitude": -35.010877,
-      "longitude": 138.581118,
+      "id": "4b178ba7-9449-4da6-adb3-41129bca39d9",
+      "latitude": -34.931972,
+      "longitude": 138.631806,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-02-26T02:30:15Z",
+      "reported_at": "2026-02-25T21:09:23Z"
+    },
+    {
+      "id": "9e04f040-aa90-4f05-a932-27042b45e785",
+      "latitude": -35.010878,
+      "longitude": 138.581098,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
-      "reported_at": "2026-02-26T01:47:42Z"
+      "timestamp": "2026-02-26T02:30:15Z",
+      "reported_at": "2026-02-26T01:53:10Z"
     },
     {
       "id": "044fa7ab-f2e3-42b9-a4af-a8a9ee87d6f8",
@@ -67,28 +67,28 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
+      "timestamp": "2026-02-26T02:30:15Z",
       "reported_at": "2026-02-26T01:57:49Z"
     },
     {
-      "id": "4450d14d-6ad4-410c-9b04-b285f21bfc6b",
-      "latitude": -34.91275,
-      "longitude": 138.681178,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
+      "id": "f0dad288-40eb-4922-bb27-f4cf64b6eb15",
+      "latitude": -34.934747,
+      "longitude": 138.552727,
+      "street": "A14 - Marion Rd",
+      "city": "Cowandilla",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
-      "reported_at": "2026-02-25T22:43:02Z"
+      "timestamp": "2026-02-26T02:30:15Z",
+      "reported_at": "2026-02-26T01:58:50Z"
     },
     {
-      "id": "909a92d3-c843-4463-945e-abe6a9d1d487",
-      "latitude": -34.826378,
-      "longitude": 138.70706,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
+      "id": "b7e326c7-7ace-45bb-8c14-8e5d729aa11f",
+      "latitude": -34.681368,
+      "longitude": 138.606276,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-26T02:00:18Z",
-      "reported_at": "2026-02-26T01:50:35Z"
+      "timestamp": "2026-02-26T02:30:15Z",
+      "reported_at": "2026-02-26T02:19:08Z"
     }
   ]
 }
