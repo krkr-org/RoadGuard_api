@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "de27fe99-0d88-44a7-9890-3d84195aa870",
-      "latitude": -34.843968,
-      "longitude": 138.507149,
-      "street": "St. Vincent St",
-      "city": "Port Adelaide",
+      "id": "286e41a1-4d1d-4880-90bc-c5e640a78fbb",
+      "latitude": -34.908466,
+      "longitude": 138.609916,
+      "street": "Bundeys Rd",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T22:00:16Z",
-      "reported_at": "2026-02-26T21:34:48Z"
+      "timestamp": "2026-02-26T22:30:16Z",
+      "reported_at": "2026-02-26T22:15:55Z"
+    },
+    {
+      "id": "71b808ac-0f7c-4bb5-bcde-06a96b4975f7",
+      "latitude": -35.117152,
+      "longitude": 138.495543,
+      "street": "O'Sullivan Beach Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-02-26T22:30:16Z",
+      "reported_at": "2026-02-26T22:15:20Z"
     },
     {
       "id": "455c4a6b-eaf6-4d99-81e3-532f6194425d",
@@ -17,47 +27,27 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-02-26T22:00:16Z",
+      "timestamp": "2026-02-26T22:30:16Z",
       "reported_at": "2026-02-26T21:16:09Z"
     },
     {
-      "id": "ad74fefa-e17b-4281-ba86-a5b4f0f0097c",
-      "latitude": -34.853038,
-      "longitude": 138.617797,
-      "street": "A17 - Hampstead Rd",
-      "city": "Clearview",
+      "id": "e4188dfd-23e3-4d3d-ab9a-89db7afc76a5",
+      "latitude": -34.873314,
+      "longitude": 138.601877,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-02-26T22:00:16Z",
-      "reported_at": "2026-02-26T21:45:48Z"
-    },
-    {
-      "id": "e53bafba-c585-4bfb-94ae-077963a34fb1",
-      "latitude": -34.871627,
-      "longitude": 138.671763,
-      "street": "A11 - Lower North East Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-02-26T22:00:16Z",
-      "reported_at": "2026-02-26T21:18:52Z"
-    },
-    {
-      "id": "052d1ef7-523e-4634-9e06-1c28eaf169b8",
-      "latitude": -34.782438,
-      "longitude": 138.595576,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Globe Derby Park",
-      "type": "mobile",
-      "timestamp": "2026-02-26T22:00:16Z",
-      "reported_at": "2026-02-26T21:47:26Z"
+      "timestamp": "2026-02-26T22:30:16Z",
+      "reported_at": "2026-02-26T21:45:16Z"
     },
     {
       "id": "74736090-aecb-4c39-a89d-a7f460b9753d",
-      "latitude": -35.025844,
-      "longitude": 138.792221,
+      "latitude": -35.025685,
+      "longitude": 138.791587,
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-02-26T22:00:16Z",
+      "timestamp": "2026-02-26T22:30:16Z",
       "reported_at": "2026-02-26T21:52:49Z"
     }
   ]
