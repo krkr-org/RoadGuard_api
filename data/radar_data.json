@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "8deef847-05d7-4f19-b32a-9483b43e1950",
-      "latitude": -34.896402,
-      "longitude": 138.590209,
-      "street": "Braund Rd",
-      "city": "Fitzroy",
-      "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T07:00:15Z"
-    },
-    {
       "id": "198514c5-9c55-47bb-a824-99cb0d387df7",
       "latitude": -34.954907,
       "longitude": 138.5084,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
+      "timestamp": "2026-02-26T11:30:16Z",
       "reported_at": "2026-02-26T09:40:51Z"
     },
     {
-      "id": "12abffe4-a22f-4b1d-ad9e-423483fa6c6f",
-      "latitude": -34.893787,
-      "longitude": 138.659041,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "3f468778-96eb-4f23-9400-c4830fcd0b72",
+      "latitude": -34.926573,
+      "longitude": 138.539592,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T07:20:25Z"
+      "timestamp": "2026-02-26T11:30:16Z",
+      "reported_at": "2026-02-26T11:00:37Z"
     },
     {
       "id": "bb6541db-60f3-4ad0-a32d-ce83233445b6",
@@ -37,18 +27,38 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
+      "timestamp": "2026-02-26T11:30:16Z",
       "reported_at": "2026-02-26T07:14:54Z"
     },
     {
-      "id": "ec08cee9-59e9-4cf7-96ba-acb8275da6d1",
-      "latitude": -35.133089,
-      "longitude": 138.485764,
-      "street": "A15 - Dyson Rd",
-      "city": "Christies Beach",
+      "id": "49504bca-3ca2-48c0-82a2-b30672c0b889",
+      "latitude": -34.827165,
+      "longitude": 138.645448,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T07:02:28Z"
+      "timestamp": "2026-02-26T11:30:16Z",
+      "reported_at": "2026-02-26T10:58:14Z"
+    },
+    {
+      "id": "162e3755-3003-4505-bd99-36959d14eb8c",
+      "latitude": -35.105188,
+      "longitude": 138.523101,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-26T11:30:16Z",
+      "reported_at": "2026-02-26T11:04:07Z"
+    },
+    {
+      "id": "70406d73-3e3c-45ca-8974-602568bd42d4",
+      "latitude": -35.132793,
+      "longitude": 138.4859,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-02-26T11:30:16Z",
+      "reported_at": "2026-02-26T07:58:12Z"
     },
     {
       "id": "a9365494-51f6-49da-8189-bc1cd04a7e6e",
@@ -57,28 +67,8 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
+      "timestamp": "2026-02-26T11:30:16Z",
       "reported_at": "2026-02-26T07:35:22Z"
-    },
-    {
-      "id": "2e2886ce-c511-433b-a963-21e4d09d9473",
-      "latitude": -35.055057,
-      "longitude": 138.534952,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
-      "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T10:32:12Z"
-    },
-    {
-      "id": "9e523b13-9a33-4b6a-be7d-9792a21eab6d",
-      "latitude": -34.927406,
-      "longitude": 138.641449,
-      "street": "A17 - Portrush Rd",
-      "city": "Toorak Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T10:48:29Z"
     },
     {
       "id": "c6b17f2f-d144-4c2e-a3da-4308b4f167d9",
@@ -87,38 +77,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Northfield",
       "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
+      "timestamp": "2026-02-26T11:30:16Z",
       "reported_at": "2026-02-26T08:33:59Z"
-    },
-    {
-      "id": "53c6dfa4-4d59-4630-87b6-5aa865b3e4d7",
-      "latitude": -34.817253,
-      "longitude": 138.597945,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T10:08:50Z"
-    },
-    {
-      "id": "0864c8eb-a121-44cf-9688-76d268f4f06c",
-      "latitude": -34.838895,
-      "longitude": 138.59952,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T10:51:05Z"
-    },
-    {
-      "id": "ade7fd4f-8c11-4f5c-be0b-25d6a344ec77",
-      "latitude": -35.046841,
-      "longitude": 138.549576,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-26T11:00:17Z",
-      "reported_at": "2026-02-26T08:15:02Z"
     }
   ]
 }
