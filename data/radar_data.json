@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "88b8e50c-9013-4cdb-8bf8-611ab2fb38fb",
+      "latitude": -34.859524,
+      "longitude": 138.600934,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-02-26T19:30:16Z",
+      "reported_at": "2026-02-26T19:13:05Z"
+    },
+    {
+      "id": "acf21bcc-a117-4375-a9c3-39dd95e3a109",
+      "latitude": -34.840863,
+      "longitude": 138.51539,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-26T19:30:16Z",
+      "reported_at": "2026-02-26T19:02:23Z"
+    }
+  ]
 }
