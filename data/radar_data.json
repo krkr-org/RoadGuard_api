@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "1b2959ba-67db-4fb2-92ee-2d9bed07920c",
-      "latitude": -34.998403,
-      "longitude": 138.557327,
-      "street": "A14 - Marion Rd",
-      "city": "Marion",
-      "type": "mobile",
-      "timestamp": "2026-02-26T21:00:16Z",
-      "reported_at": "2026-02-26T20:41:49Z"
-    },
-    {
-      "id": "09a309bb-24fc-413b-b2ee-6b64d1487b5b",
-      "latitude": -34.983918,
-      "longitude": 138.556241,
+      "id": "b8224891-3c89-47e2-b7ac-02f65b0efd6a",
+      "latitude": -34.984352,
+      "longitude": 138.556273,
       "street": "A14 - Marion Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T21:00:16Z",
-      "reported_at": "2026-02-26T20:55:08Z"
+      "timestamp": "2026-02-26T21:30:14Z",
+      "reported_at": "2026-02-26T20:58:24Z"
+    },
+    {
+      "id": "f5209319-4255-4b0c-991d-1615903be0d4",
+      "latitude": -34.924299,
+      "longitude": 138.617981,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-26T21:30:14Z",
+      "reported_at": "2026-02-26T21:06:19Z"
+    },
+    {
+      "id": "e53bafba-c585-4bfb-94ae-077963a34fb1",
+      "latitude": -34.871627,
+      "longitude": 138.671763,
+      "street": "A11 - Lower North East Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-26T21:30:14Z",
+      "reported_at": "2026-02-26T21:18:52Z"
+    },
+    {
+      "id": "464a00d9-2bf5-4cca-b7e2-5cd61ffc00b3",
+      "latitude": -35.046784,
+      "longitude": 138.549933,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-26T21:30:14Z",
+      "reported_at": "2026-02-26T21:18:47Z"
     }
   ]
 }
