@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "284c3058-6ede-4db8-8413-e7516ff057e0",
-      "latitude": -34.916856,
-      "longitude": 138.589565,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "f3c5545f-c7d9-4cb7-beda-242130438dd9",
+      "latitude": -34.942682,
+      "longitude": 138.503492,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T01:50:18Z"
-    },
-    {
-      "id": "f94294f1-2102-44ef-88f3-7d24b35da39a",
-      "latitude": -34.891991,
-      "longitude": 138.661372,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-25T21:49:52Z"
-    },
-    {
-      "id": "540a4ff2-8747-4e64-b06b-3e2f6ebbac24",
-      "latitude": -34.928951,
-      "longitude": 138.668276,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:02:42Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-26T03:10:49Z"
     },
     {
       "id": "c54026dd-4467-462c-8fb6-bb10e09bbb2a",
@@ -37,78 +17,58 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
+      "timestamp": "2026-02-26T03:30:15Z",
       "reported_at": "2026-02-25T23:00:07Z"
     },
     {
-      "id": "4b178ba7-9449-4da6-adb3-41129bca39d9",
-      "latitude": -34.931972,
-      "longitude": 138.631806,
-      "street": "Grant Av",
-      "city": "Rose Park",
+      "id": "f94294f1-2102-44ef-88f3-7d24b35da39a",
+      "latitude": -34.891991,
+      "longitude": 138.661372,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-25T21:09:23Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-25T21:49:52Z"
     },
     {
-      "id": "3072dba1-90b6-46c9-8372-c59c3381c262",
-      "latitude": -35.016505,
-      "longitude": 138.548092,
-      "street": "Diagonal Rd",
-      "city": "Oaklands Park",
+      "id": "284c3058-6ede-4db8-8413-e7516ff057e0",
+      "latitude": -34.916856,
+      "longitude": 138.589565,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:26:32Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-26T01:50:18Z"
     },
     {
-      "id": "2dada16b-0390-41e1-b117-4f20327ed400",
-      "latitude": -34.965672,
-      "longitude": 138.59079,
-      "street": "Goodwood Rd",
-      "city": "Clarence Park",
+      "id": "540a4ff2-8747-4e64-b06b-3e2f6ebbac24",
+      "latitude": -34.928951,
+      "longitude": 138.668276,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:43:14Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-26T02:02:42Z"
     },
     {
-      "id": "d8fc75d0-cba9-40a8-8901-d952c5553364",
-      "latitude": -34.921219,
-      "longitude": 138.604917,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "dba238a3-bd81-4031-a139-4d795bb439de",
+      "latitude": -34.771037,
+      "longitude": 138.718434,
+      "street": "The Golden Way",
+      "city": "Greenwith",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:38:48Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-26T03:03:27Z"
     },
     {
-      "id": "fb47696a-af95-4063-addb-32b95a345fa9",
-      "latitude": -35.104444,
-      "longitude": 138.528037,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:21:50Z"
-    },
-    {
-      "id": "72e99191-e55a-4be9-83ec-df457c737629",
-      "latitude": -34.898947,
-      "longitude": 138.59171,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:48:05Z"
-    },
-    {
-      "id": "044fa7ab-f2e3-42b9-a4af-a8a9ee87d6f8",
-      "latitude": -34.900301,
-      "longitude": 138.603407,
+      "id": "6347cab8-21c6-47b9-935d-2f0818421b3a",
+      "latitude": -34.900275,
+      "longitude": 138.602933,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T01:57:49Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-25T22:50:11Z"
     },
     {
       "id": "09b2cc96-eb91-499f-b084-e9c5f8a0e16c",
@@ -117,18 +77,18 @@
       "street": "M1 - Mount Barker Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
+      "timestamp": "2026-02-26T03:30:15Z",
       "reported_at": "2026-02-26T02:44:15Z"
     },
     {
-      "id": "c72dd4cd-ec25-4ae6-a3da-3aeed4fc3d0e",
-      "latitude": -35.026346,
-      "longitude": 138.79432,
+      "id": "0f7ce76a-907d-49b1-9978-e5c8c7a1a448",
+      "latitude": -35.025897,
+      "longitude": 138.791391,
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-02-26T03:00:16Z",
-      "reported_at": "2026-02-26T02:46:34Z"
+      "timestamp": "2026-02-26T03:30:15Z",
+      "reported_at": "2026-02-26T02:51:29Z"
     }
   ]
 }
