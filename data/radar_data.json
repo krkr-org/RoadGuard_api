@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "c58adda1-bd41-48f9-a3e5-80ab2eb2805e",
-      "latitude": -35.063691,
-      "longitude": 138.54447,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
-      "reported_at": "2026-02-26T05:23:29Z"
-    },
-    {
-      "id": "5fdc1ef3-edcd-4cdc-99f5-d4e53a426b97",
-      "latitude": -35.014472,
-      "longitude": 138.57297,
-      "street": "Main South Rd",
+      "id": "e51a4969-f61b-4b06-afb1-8d5208152d8d",
+      "latitude": -35.016684,
+      "longitude": 138.573243,
+      "street": "University Dr",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
-      "reported_at": "2026-02-26T06:01:35Z"
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T06:39:50Z"
     },
     {
       "id": "f79bde9c-5b00-4f98-8db8-f415bbe56b0a",
@@ -27,18 +17,18 @@
       "street": "Regency Rd",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
+      "timestamp": "2026-02-26T07:00:17Z",
       "reported_at": "2026-02-26T05:52:08Z"
     },
     {
-      "id": "ebbddb26-775b-4cf3-96e0-d72f27364a0b",
-      "latitude": -34.756418,
-      "longitude": 138.64913,
-      "street": "Commercial Rd",
-      "city": "Salisbury",
+      "id": "4c254de8-d5f3-4845-8821-f9cf2f35c9ec",
+      "latitude": -34.699897,
+      "longitude": 138.661573,
+      "street": "Womma Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
-      "reported_at": "2026-02-26T05:49:22Z"
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T06:45:51Z"
     },
     {
       "id": "7985cb57-4834-48ed-9c2c-3385806a35fb",
@@ -47,7 +37,7 @@
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
+      "timestamp": "2026-02-26T07:00:17Z",
       "reported_at": "2026-02-26T06:01:09Z"
     },
     {
@@ -57,38 +47,58 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
+      "timestamp": "2026-02-26T07:00:17Z",
       "reported_at": "2026-02-26T05:19:34Z"
     },
     {
-      "id": "af45feec-b4b8-47d2-9f61-a1e0ca218a66",
-      "latitude": -35.049597,
-      "longitude": 138.533489,
+      "id": "30e5bcda-0f92-4416-94ba-242d307fb80b",
+      "latitude": -35.050051,
+      "longitude": 138.533782,
       "street": "A15 - Ocean Bvd",
       "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
-      "reported_at": "2026-02-26T04:55:57Z"
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T05:58:22Z"
     },
     {
-      "id": "e41f50a9-ebfe-426b-be42-74960ab96dfa",
-      "latitude": -34.850723,
-      "longitude": 138.542604,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Ottoway",
+      "id": "e41c7057-50fc-4ee3-8388-b9357dd687e8",
+      "latitude": -34.677489,
+      "longitude": 138.697369,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
-      "reported_at": "2026-02-26T06:28:19Z"
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T06:51:10Z"
     },
     {
-      "id": "bac9625c-4540-4bc8-a52c-073f6bd08711",
-      "latitude": -35.046789,
-      "longitude": 138.549929,
+      "id": "f3263b84-e15e-49c7-b853-fff54be6028e",
+      "latitude": -34.781108,
+      "longitude": 138.624596,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T06:16:53Z"
+    },
+    {
+      "id": "ab0847ab-495a-412f-8fd8-e5b1ad2d02e0",
+      "latitude": -35.089532,
+      "longitude": 138.529536,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T06:55:01Z"
+    },
+    {
+      "id": "b7fcbd10-8913-4018-9256-71576ab30b84",
+      "latitude": -35.046022,
+      "longitude": 138.550403,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-02-26T06:30:16Z",
-      "reported_at": "2026-02-26T05:17:00Z"
+      "timestamp": "2026-02-26T07:00:17Z",
+      "reported_at": "2026-02-26T05:12:35Z"
     }
   ]
 }
