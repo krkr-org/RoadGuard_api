@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "4189ad7d-9461-4f8c-82cd-b4e22f6e343c",
-      "latitude": -34.954077,
-      "longitude": 138.507721,
+      "id": "e70d8386-affa-4f86-adec-00c68792965f",
+      "latitude": -34.956343,
+      "longitude": 138.508926,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
-      "reported_at": "2026-02-27T01:10:16Z"
+      "timestamp": "2026-02-27T02:00:17Z",
+      "reported_at": "2026-02-27T00:48:42Z"
+    },
+    {
+      "id": "d7e6a551-a5c8-440f-bf73-665c12058d59",
+      "latitude": -34.683948,
+      "longitude": 138.652129,
+      "street": "Petherton Rd",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-02-27T02:00:17Z",
+      "reported_at": "2026-02-27T01:44:23Z"
     },
     {
       "id": "a44d2308-528b-4b74-a97c-f5782cb35c04",
@@ -17,18 +27,8 @@
       "street": "St. Vincent St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
+      "timestamp": "2026-02-27T02:00:17Z",
       "reported_at": "2026-02-27T01:22:01Z"
-    },
-    {
-      "id": "7fab9735-ad3b-4c65-beef-9fbc54f61bd4",
-      "latitude": -34.99236,
-      "longitude": 138.585941,
-      "street": "Daws Rd",
-      "city": "Daw Park",
-      "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
-      "reported_at": "2026-02-27T01:10:01Z"
     },
     {
       "id": "d271f4d5-c0bf-4f19-aa23-e0bff747a1c8",
@@ -37,18 +37,18 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
+      "timestamp": "2026-02-27T02:00:17Z",
       "reported_at": "2026-02-27T00:07:38Z"
     },
     {
-      "id": "4c7e509e-715a-4dbd-ad5c-320d023fdb1d",
-      "latitude": -35.097325,
-      "longitude": 138.546926,
-      "street": "Panalatinga Rd",
-      "city": "Old Reynella",
+      "id": "75b73795-f68d-4db3-9494-fe96b06ec060",
+      "latitude": -35.146794,
+      "longitude": 138.532062,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
-      "reported_at": "2026-02-27T01:02:19Z"
+      "timestamp": "2026-02-27T02:00:17Z",
+      "reported_at": "2026-02-27T01:17:44Z"
     },
     {
       "id": "7a6364e7-a5f4-4d07-bc3b-d2f277dee25d",
@@ -57,7 +57,7 @@
       "street": "Piccadilly Rd",
       "city": "Piccadilly",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
+      "timestamp": "2026-02-27T02:00:17Z",
       "reported_at": "2026-02-26T22:23:33Z"
     },
     {
@@ -67,8 +67,28 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
+      "timestamp": "2026-02-27T02:00:17Z",
       "reported_at": "2026-02-26T21:16:09Z"
+    },
+    {
+      "id": "72bd1d14-8908-41b2-beaa-cc2fa1730f4c",
+      "latitude": -35.025659,
+      "longitude": 138.559883,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-02-27T02:00:17Z",
+      "reported_at": "2026-02-27T01:38:11Z"
+    },
+    {
+      "id": "c2929b2e-8718-4d1c-b330-daeb99179854",
+      "latitude": -34.850462,
+      "longitude": 138.548219,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-27T02:00:17Z",
+      "reported_at": "2026-02-27T01:58:52Z"
     },
     {
       "id": "71cbcd29-0531-46a9-ad57-aa79ecf06525",
@@ -77,7 +97,7 @@
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:30:15Z",
+      "timestamp": "2026-02-27T02:00:17Z",
       "reported_at": "2026-02-27T00:35:58Z"
     }
   ]
