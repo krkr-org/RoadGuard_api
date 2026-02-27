@@ -1,54 +1,74 @@
 {
   "radars": [
     {
-      "id": "d271f4d5-c0bf-4f19-aa23-e0bff747a1c8",
-      "latitude": -35.112626,
-      "longitude": 138.535395,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "8643e763-7715-4250-a6b7-a1dcc0de6a97",
+      "latitude": -35.070612,
+      "longitude": 138.554496,
+      "street": "Main South Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
-      "reported_at": "2026-02-27T00:07:38Z"
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:12:06Z"
     },
     {
-      "id": "75b73795-f68d-4db3-9494-fe96b06ec060",
-      "latitude": -35.146794,
-      "longitude": 138.532062,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
+      "id": "ae726988-2884-4189-bd49-67df816d847d",
+      "latitude": -34.90888,
+      "longitude": 138.533232,
+      "street": "Findon Rd",
+      "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
-      "reported_at": "2026-02-27T01:17:44Z"
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:00:07Z"
     },
     {
-      "id": "3f906107-f8e7-40dd-bca1-f0300951172d",
-      "latitude": -35.12024,
-      "longitude": 138.523067,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "id": "3fd71238-3b69-4948-a7e6-c44d3e601612",
+      "latitude": -34.858203,
+      "longitude": 138.502444,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
-      "reported_at": "2026-02-27T04:51:16Z"
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:21:47Z"
     },
     {
-      "id": "e7c30059-fc74-4a0e-9618-55103cc174ec",
-      "latitude": -34.940193,
-      "longitude": 138.584733,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "id": "61cfde21-39d6-4f14-bb6f-efe89c4288a5",
+      "latitude": -34.840215,
+      "longitude": 138.57141,
+      "street": "Cormack Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
-      "reported_at": "2026-02-27T04:35:09Z"
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:24:11Z"
     },
     {
-      "id": "e7e9ce04-2986-45ae-af7a-51748aa307c3",
-      "latitude": -34.957727,
-      "longitude": 138.564632,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
+      "id": "e8b065b8-fadc-48b0-bd0f-b614b219ce28",
+      "latitude": -34.742685,
+      "longitude": 138.657366,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
-      "reported_at": "2026-02-27T04:49:08Z"
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:11:03Z"
+    },
+    {
+      "id": "cb0abd90-c74b-4e73-ab1e-4681909d7174",
+      "latitude": -34.714425,
+      "longitude": 138.783509,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Yattalunga",
+      "type": "mobile",
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:20:40Z"
+    },
+    {
+      "id": "9af083d7-da9f-4549-aba6-4d3ed7d1c9b9",
+      "latitude": -34.852133,
+      "longitude": 138.50949,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-27T05:30:16Z",
+      "reported_at": "2026-02-27T05:24:37Z"
     },
     {
       "id": "be5f7b1d-a6c5-41e5-9e63-81e69764bed7",
@@ -57,18 +77,8 @@
       "street": "A5 - Anzac Hwy",
       "city": "Novar Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
+      "timestamp": "2026-02-27T05:30:16Z",
       "reported_at": "2026-02-27T04:34:33Z"
-    },
-    {
-      "id": "8c5c3558-8f27-45f8-b92d-df2afbc8e7a1",
-      "latitude": -35.046591,
-      "longitude": 138.549862,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-27T05:00:17Z",
-      "reported_at": "2026-02-27T04:38:59Z"
     }
   ]
 }
