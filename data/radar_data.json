@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "f4bae14b-0a2d-496c-b973-4f12d43c95a0",
-      "latitude": -34.935068,
-      "longitude": 138.534851,
-      "street": "Unknown Street",
-      "city": "Adelaide Airport",
+      "id": "4189ad7d-9461-4f8c-82cd-b4e22f6e343c",
+      "latitude": -34.954077,
+      "longitude": 138.507721,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
-      "reported_at": "2026-02-27T00:38:17Z"
+      "timestamp": "2026-02-27T01:30:15Z",
+      "reported_at": "2026-02-27T01:10:16Z"
     },
     {
-      "id": "e6638475-d7f9-4f5b-8032-7070bdb2a5ac",
-      "latitude": -34.682461,
-      "longitude": 138.689947,
-      "street": "Anderson Walk",
-      "city": "Smithfield",
+      "id": "a44d2308-528b-4b74-a97c-f5782cb35c04",
+      "latitude": -34.84474,
+      "longitude": 138.503424,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
-      "reported_at": "2026-02-27T00:28:25Z"
+      "timestamp": "2026-02-27T01:30:15Z",
+      "reported_at": "2026-02-27T01:22:01Z"
+    },
+    {
+      "id": "7fab9735-ad3b-4c65-beef-9fbc54f61bd4",
+      "latitude": -34.99236,
+      "longitude": 138.585941,
+      "street": "Daws Rd",
+      "city": "Daw Park",
+      "type": "mobile",
+      "timestamp": "2026-02-27T01:30:15Z",
+      "reported_at": "2026-02-27T01:10:01Z"
     },
     {
       "id": "d271f4d5-c0bf-4f19-aa23-e0bff747a1c8",
@@ -27,28 +37,18 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
+      "timestamp": "2026-02-27T01:30:15Z",
       "reported_at": "2026-02-27T00:07:38Z"
     },
     {
-      "id": "8d0230fc-26e3-4a3e-ab81-8104fe1428c1",
-      "latitude": -35.017116,
-      "longitude": 138.560484,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
+      "id": "4c7e509e-715a-4dbd-ad5c-320d023fdb1d",
+      "latitude": -35.097325,
+      "longitude": 138.546926,
+      "street": "Panalatinga Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
-      "reported_at": "2026-02-27T00:30:23Z"
-    },
-    {
-      "id": "9161310b-77ab-4bfa-a623-e49bb1058d30",
-      "latitude": -34.924807,
-      "longitude": 138.586672,
-      "street": "Glover Av",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
-      "reported_at": "2026-02-26T23:28:41Z"
+      "timestamp": "2026-02-27T01:30:15Z",
+      "reported_at": "2026-02-27T01:02:19Z"
     },
     {
       "id": "7a6364e7-a5f4-4d07-bc3b-d2f277dee25d",
@@ -57,7 +57,7 @@
       "street": "Piccadilly Rd",
       "city": "Piccadilly",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
+      "timestamp": "2026-02-27T01:30:15Z",
       "reported_at": "2026-02-26T22:23:33Z"
     },
     {
@@ -67,7 +67,7 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
+      "timestamp": "2026-02-27T01:30:15Z",
       "reported_at": "2026-02-26T21:16:09Z"
     },
     {
@@ -77,7 +77,7 @@
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-27T01:00:16Z",
+      "timestamp": "2026-02-27T01:30:15Z",
       "reported_at": "2026-02-27T00:35:58Z"
     }
   ]
