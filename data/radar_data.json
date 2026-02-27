@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "5fde07aa-3136-47c2-8cc7-ed3287bd3023",
+      "latitude": -35.025362,
+      "longitude": 138.550397,
+      "street": "Miller St",
+      "city": "Seacombe Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-27T21:30:15Z",
+      "reported_at": "2026-02-27T20:57:20Z"
+    },
+    {
       "id": "adda6440-bd96-474d-acb4-9b81c5dd9897",
       "latitude": -34.936601,
       "longitude": 138.538362,
       "street": "Sir Richard Williams Av",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-27T21:00:17Z",
+      "timestamp": "2026-02-27T21:30:15Z",
       "reported_at": "2026-02-27T20:48:07Z"
-    },
-    {
-      "id": "ac7447f3-b602-4eb5-add1-ed3ee36243f7",
-      "latitude": -34.851572,
-      "longitude": 138.64992,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-02-27T21:00:17Z",
-      "reported_at": "2026-02-27T20:35:03Z"
     }
   ]
 }
