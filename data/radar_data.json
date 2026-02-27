@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "bbbd2954-99ed-4bcc-86db-b97c54a7764e",
+      "latitude": -34.795723,
+      "longitude": 138.611827,
+      "street": "Taylor St",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-27T22:30:16Z",
+      "reported_at": "2026-02-27T21:00:04Z"
+    },
+    {
+      "id": "25f36b6d-a65e-4c12-869e-78bdbe7762a3",
+      "latitude": -35.062471,
+      "longitude": 138.517924,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-02-27T22:30:16Z",
+      "reported_at": "2026-02-27T21:52:46Z"
+    },
+    {
       "id": "5fde07aa-3136-47c2-8cc7-ed3287bd3023",
       "latitude": -35.025362,
       "longitude": 138.550397,
       "street": "Miller St",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
+      "timestamp": "2026-02-27T22:30:16Z",
       "reported_at": "2026-02-27T20:57:20Z"
     },
     {
-      "id": "adda6440-bd96-474d-acb4-9b81c5dd9897",
-      "latitude": -34.936601,
-      "longitude": 138.538362,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
+      "id": "d5c08735-514e-41e7-8153-49ff205da5f0",
+      "latitude": -35.063268,
+      "longitude": 138.654673,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
-      "reported_at": "2026-02-27T20:48:07Z"
+      "timestamp": "2026-02-27T22:30:16Z",
+      "reported_at": "2026-02-27T21:30:02Z"
     },
     {
-      "id": "ac009b79-38c3-40ae-aafe-1c2e8f72238e",
-      "latitude": -35.083974,
-      "longitude": 138.580074,
-      "street": "Chandlers Hill Rd",
-      "city": "Happy Valley",
+      "id": "4dfe1b79-0267-4b5b-a955-ae1e6f1c0d47",
+      "latitude": -34.865114,
+      "longitude": 138.583401,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
-      "reported_at": "2026-02-27T21:38:02Z"
+      "timestamp": "2026-02-27T22:30:16Z",
+      "reported_at": "2026-02-27T22:09:08Z"
     },
     {
       "id": "cd22c80b-ce78-471a-959a-676dfff09e55",
@@ -37,38 +57,28 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
+      "timestamp": "2026-02-27T22:30:16Z",
       "reported_at": "2026-02-27T21:32:10Z"
     },
     {
-      "id": "2d73cb0d-1a12-41fb-aa52-3b3fabb8ab9f",
-      "latitude": -34.798458,
-      "longitude": 138.609237,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
+      "id": "cf3c89f6-fef6-4829-b7f3-2eb7eb4ee461",
+      "latitude": -34.76573,
+      "longitude": 138.604247,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
-      "reported_at": "2026-02-27T21:48:55Z"
+      "timestamp": "2026-02-27T22:30:16Z",
+      "reported_at": "2026-02-27T22:01:46Z"
     },
     {
-      "id": "63026f12-8a89-441b-a2da-38bb6019da77",
-      "latitude": -35.137358,
-      "longitude": 138.524365,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
+      "id": "c9c4773e-f822-4e4a-9c66-d6c8ce5aeaeb",
+      "latitude": -34.796012,
+      "longitude": 138.643275,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
-      "reported_at": "2026-02-27T21:37:24Z"
-    },
-    {
-      "id": "8cbe964d-723f-4e65-a5d7-83b60550a82e",
-      "latitude": -35.089005,
-      "longitude": 138.531063,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-02-27T22:00:15Z",
-      "reported_at": "2026-02-27T21:52:02Z"
+      "timestamp": "2026-02-27T22:30:16Z",
+      "reported_at": "2026-02-27T22:13:10Z"
     }
   ]
 }
