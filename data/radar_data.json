@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "b2613de2-35d0-43ac-b13d-ee5df7a36be9",
-      "latitude": -34.976724,
-      "longitude": 138.680043,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
+      "id": "adda6440-bd96-474d-acb4-9b81c5dd9897",
+      "latitude": -34.936601,
+      "longitude": 138.538362,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-02-27T20:30:16Z",
-      "reported_at": "2026-02-27T19:51:29Z"
+      "timestamp": "2026-02-27T21:00:17Z",
+      "reported_at": "2026-02-27T20:48:07Z"
+    },
+    {
+      "id": "ac7447f3-b602-4eb5-add1-ed3ee36243f7",
+      "latitude": -34.851572,
+      "longitude": 138.64992,
+      "street": "Sudholz Rd",
+      "city": "Oakden",
+      "type": "mobile",
+      "timestamp": "2026-02-27T21:00:17Z",
+      "reported_at": "2026-02-27T20:35:03Z"
     }
   ]
 }
