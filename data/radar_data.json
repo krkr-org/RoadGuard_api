@@ -7,7 +7,7 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
+      "timestamp": "2026-02-27T11:00:18Z",
       "reported_at": "2026-02-27T07:12:11Z"
     },
     {
@@ -17,38 +17,8 @@
       "street": "Seaborough Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
+      "timestamp": "2026-02-27T11:00:18Z",
       "reported_at": "2026-02-27T06:13:16Z"
-    },
-    {
-      "id": "eb8bfe44-e1af-4f37-bdbc-e43f24d0cec0",
-      "latitude": -34.993436,
-      "longitude": 138.592881,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
-      "reported_at": "2026-02-27T10:02:35Z"
-    },
-    {
-      "id": "00ffe0a7-5e40-4712-9637-da5c3fa55107",
-      "latitude": -34.996412,
-      "longitude": 138.53927,
-      "street": "Morphett Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
-      "reported_at": "2026-02-27T09:13:13Z"
-    },
-    {
-      "id": "6ab88129-d454-43b2-afb0-fb56b0ab5312",
-      "latitude": -34.928719,
-      "longitude": 138.587788,
-      "street": "West Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
-      "reported_at": "2026-02-27T09:55:30Z"
     },
     {
       "id": "ee05d3da-5430-4017-a5f0-d4caad5ba5be",
@@ -57,8 +27,18 @@
       "street": "Unley Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
+      "timestamp": "2026-02-27T11:00:18Z",
       "reported_at": "2026-02-27T08:40:35Z"
+    },
+    {
+      "id": "889b96fb-bf29-4d4b-ac27-1382e384d19b",
+      "latitude": -34.92381,
+      "longitude": 138.582487,
+      "street": "Glover Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-27T11:00:18Z",
+      "reported_at": "2026-02-27T10:48:22Z"
     },
     {
       "id": "fbdac6a4-d50e-48ba-b43c-b150d51bb123",
@@ -67,28 +47,8 @@
       "street": "Bridge Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
+      "timestamp": "2026-02-27T11:00:18Z",
       "reported_at": "2026-02-27T08:02:05Z"
-    },
-    {
-      "id": "3593893c-fcfa-4019-bc95-b8f9c1285d5e",
-      "latitude": -34.86419,
-      "longitude": 138.529375,
-      "street": "Cheltenham Pde",
-      "city": "Cheltenham",
-      "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
-      "reported_at": "2026-02-27T10:06:45Z"
-    },
-    {
-      "id": "bd3545a5-86d5-431a-8522-599691083a4e",
-      "latitude": -34.743558,
-      "longitude": 138.657365,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
-      "reported_at": "2026-02-27T06:04:35Z"
     },
     {
       "id": "332dfd32-0453-4a2b-97c0-c49e0be8c579",
@@ -97,18 +57,58 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
+      "timestamp": "2026-02-27T11:00:18Z",
       "reported_at": "2026-02-27T05:43:07Z"
     },
     {
-      "id": "e29481be-2101-4541-86e2-d19e79049bba",
-      "latitude": -34.846917,
-      "longitude": 138.506976,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
+      "id": "e8d8d774-80af-4eb1-a175-3cc984449270",
+      "latitude": -34.734678,
+      "longitude": 138.59628,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-02-27T10:30:17Z",
-      "reported_at": "2026-02-27T10:05:40Z"
+      "timestamp": "2026-02-27T11:00:18Z",
+      "reported_at": "2026-02-27T10:30:05Z"
+    },
+    {
+      "id": "3f2fec10-1a51-46a7-840c-2a6473a6d45b",
+      "latitude": -34.941078,
+      "longitude": 138.517392,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-02-27T11:00:18Z",
+      "reported_at": "2026-02-27T10:53:40Z"
+    },
+    {
+      "id": "9b3b0372-ce11-497e-a5a5-87425d25b283",
+      "latitude": -34.824197,
+      "longitude": 138.598432,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-02-27T11:00:18Z",
+      "reported_at": "2026-02-27T10:31:36Z"
+    },
+    {
+      "id": "b9ec5025-224f-490a-a39c-ae17a6d2fd46",
+      "latitude": -34.968696,
+      "longitude": 138.713704,
+      "street": "B28 - Mount Lofty Summit Rd",
+      "city": "Cleland",
+      "type": "mobile",
+      "timestamp": "2026-02-27T11:00:18Z",
+      "reported_at": "2026-02-27T10:09:31Z"
+    },
+    {
+      "id": "261b4f0a-0610-4949-a281-e020ecff0ed7",
+      "latitude": -34.834154,
+      "longitude": 138.535284,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-02-27T11:00:18Z",
+      "reported_at": "2026-02-27T10:50:59Z"
     }
   ]
 }
