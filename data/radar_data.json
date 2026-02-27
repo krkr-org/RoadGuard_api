@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "f4bae14b-0a2d-496c-b973-4f12d43c95a0",
+      "latitude": -34.935068,
+      "longitude": 138.534851,
+      "street": "Unknown Street",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-02-27T01:00:16Z",
+      "reported_at": "2026-02-27T00:38:17Z"
+    },
+    {
+      "id": "e6638475-d7f9-4f5b-8032-7070bdb2a5ac",
+      "latitude": -34.682461,
+      "longitude": 138.689947,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-02-27T01:00:16Z",
+      "reported_at": "2026-02-27T00:28:25Z"
+    },
+    {
+      "id": "d271f4d5-c0bf-4f19-aa23-e0bff747a1c8",
+      "latitude": -35.112626,
+      "longitude": 138.535395,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-27T01:00:16Z",
+      "reported_at": "2026-02-27T00:07:38Z"
+    },
+    {
+      "id": "8d0230fc-26e3-4a3e-ab81-8104fe1428c1",
+      "latitude": -35.017116,
+      "longitude": 138.560484,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-02-27T01:00:16Z",
+      "reported_at": "2026-02-27T00:30:23Z"
+    },
+    {
       "id": "9161310b-77ab-4bfa-a623-e49bb1058d30",
       "latitude": -34.924807,
       "longitude": 138.586672,
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-27T00:30:15Z",
+      "timestamp": "2026-02-27T01:00:16Z",
       "reported_at": "2026-02-26T23:28:41Z"
     },
     {
-      "id": "d756dae3-eaf0-4954-8889-a09be62f8934",
-      "latitude": -35.116036,
-      "longitude": 138.522869,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "id": "7a6364e7-a5f4-4d07-bc3b-d2f277dee25d",
+      "latitude": -34.9804,
+      "longitude": 138.728364,
+      "street": "Piccadilly Rd",
+      "city": "Piccadilly",
       "type": "mobile",
-      "timestamp": "2026-02-27T00:30:15Z",
-      "reported_at": "2026-02-27T00:14:09Z"
+      "timestamp": "2026-02-27T01:00:16Z",
+      "reported_at": "2026-02-26T22:23:33Z"
     },
     {
       "id": "455c4a6b-eaf6-4d99-81e3-532f6194425d",
@@ -27,28 +67,18 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-02-27T00:30:15Z",
+      "timestamp": "2026-02-27T01:00:16Z",
       "reported_at": "2026-02-26T21:16:09Z"
     },
     {
-      "id": "c7760058-6405-45f4-9c10-a1238187739d",
-      "latitude": -35.131991,
-      "longitude": 138.504977,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
+      "id": "71cbcd29-0531-46a9-ad57-aa79ecf06525",
+      "latitude": -34.869357,
+      "longitude": 138.704231,
+      "street": "B31 - Gorge Rd",
+      "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-27T00:30:15Z",
-      "reported_at": "2026-02-27T00:10:46Z"
-    },
-    {
-      "id": "23cfd856-2597-401e-9c1e-4adc7f0b09b3",
-      "latitude": -35.13356,
-      "longitude": 138.505088,
-      "street": "M2 - Southern Exp",
-      "city": "Noarlunga Centre",
-      "type": "mobile",
-      "timestamp": "2026-02-27T00:30:15Z",
-      "reported_at": "2026-02-27T00:08:10Z"
+      "timestamp": "2026-02-27T01:00:16Z",
+      "reported_at": "2026-02-27T00:35:58Z"
     }
   ]
 }
