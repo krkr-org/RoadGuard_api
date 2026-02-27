@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "6a668ef4-581d-4cbc-b7ff-5c0d33fde6f3",
+      "latitude": -34.926974,
+      "longitude": 138.668137,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-02-27T03:00:17Z",
+      "reported_at": "2026-02-27T02:29:37Z"
+    },
+    {
       "id": "d271f4d5-c0bf-4f19-aa23-e0bff747a1c8",
       "latitude": -35.112626,
       "longitude": 138.535395,
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
+      "timestamp": "2026-02-27T03:00:17Z",
       "reported_at": "2026-02-27T00:07:38Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
+      "timestamp": "2026-02-27T03:00:17Z",
       "reported_at": "2026-02-27T01:17:44Z"
     },
     {
@@ -27,48 +37,18 @@
       "street": "Piccadilly Rd",
       "city": "Piccadilly",
       "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
+      "timestamp": "2026-02-27T03:00:17Z",
       "reported_at": "2026-02-26T22:23:33Z"
     },
     {
-      "id": "f9f2f5e3-6f79-4241-8a4d-17fa055855b3",
-      "latitude": -35.105728,
-      "longitude": 138.526577,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "id": "4432ca42-59ec-479d-aa01-a3ce3043935e",
+      "latitude": -35.025715,
+      "longitude": 138.791705,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
-      "reported_at": "2026-02-27T01:56:26Z"
-    },
-    {
-      "id": "af4b90a6-76ea-4123-920c-260e0c1aec4d",
-      "latitude": -35.007956,
-      "longitude": 138.791139,
-      "street": "B34 - Onkaparinga Valley Rd",
-      "city": "Verdun",
-      "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
-      "reported_at": "2026-02-26T23:14:30Z"
-    },
-    {
-      "id": "c2929b2e-8718-4d1c-b330-daeb99179854",
-      "latitude": -34.850462,
-      "longitude": 138.548219,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
-      "reported_at": "2026-02-27T01:58:52Z"
-    },
-    {
-      "id": "4cc8fc1b-df95-4db6-8147-2cccc410a19c",
-      "latitude": -34.713016,
-      "longitude": 138.67482,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-02-27T02:30:15Z",
-      "reported_at": "2026-02-27T02:18:49Z"
+      "timestamp": "2026-02-27T03:00:17Z",
+      "reported_at": "2026-02-27T02:28:48Z"
     }
   ]
 }
