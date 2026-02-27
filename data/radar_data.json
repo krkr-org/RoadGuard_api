@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "9169e165-05a8-4cd1-beb3-89a52bf33cf3",
-      "latitude": -34.917533,
-      "longitude": 138.676395,
-      "street": "Penfold Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-02-27T00:00:16Z",
-      "reported_at": "2026-02-26T23:48:40Z"
-    },
-    {
       "id": "9161310b-77ab-4bfa-a623-e49bb1058d30",
       "latitude": -34.924807,
       "longitude": 138.586672,
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-02-27T00:00:16Z",
+      "timestamp": "2026-02-27T00:30:15Z",
       "reported_at": "2026-02-26T23:28:41Z"
     },
     {
-      "id": "af4b90a6-76ea-4123-920c-260e0c1aec4d",
-      "latitude": -35.007956,
-      "longitude": 138.791139,
+      "id": "d756dae3-eaf0-4954-8889-a09be62f8934",
+      "latitude": -35.116036,
+      "longitude": 138.522869,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-27T00:30:15Z",
+      "reported_at": "2026-02-27T00:14:09Z"
+    },
+    {
+      "id": "455c4a6b-eaf6-4d99-81e3-532f6194425d",
+      "latitude": -35.008267,
+      "longitude": 138.789037,
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-02-27T00:00:16Z",
-      "reported_at": "2026-02-26T23:14:30Z"
+      "timestamp": "2026-02-27T00:30:15Z",
+      "reported_at": "2026-02-26T21:16:09Z"
+    },
+    {
+      "id": "c7760058-6405-45f4-9c10-a1238187739d",
+      "latitude": -35.131991,
+      "longitude": 138.504977,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-02-27T00:30:15Z",
+      "reported_at": "2026-02-27T00:10:46Z"
+    },
+    {
+      "id": "23cfd856-2597-401e-9c1e-4adc7f0b09b3",
+      "latitude": -35.13356,
+      "longitude": 138.505088,
+      "street": "M2 - Southern Exp",
+      "city": "Noarlunga Centre",
+      "type": "mobile",
+      "timestamp": "2026-02-27T00:30:15Z",
+      "reported_at": "2026-02-27T00:08:10Z"
     }
   ]
 }
