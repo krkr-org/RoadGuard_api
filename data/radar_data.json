@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "0dc57579-4c8b-4fae-9a24-713d0e7db04c",
-      "latitude": -34.799391,
-      "longitude": 138.639784,
+      "id": "eaeaf38c-038e-49a3-99bf-d77ffc08a102",
+      "latitude": -34.802476,
+      "longitude": 138.6053,
       "street": "Unknown Street",
-      "city": "Parafield",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-27T14:00:16Z",
-      "reported_at": "2026-02-27T10:18:37Z"
+      "timestamp": "2026-02-27T14:30:15Z",
+      "reported_at": "2026-02-27T14:22:46Z"
     },
     {
-      "id": "a1ff4264-7438-4d5b-9f22-4ba73be70262",
-      "latitude": -34.928749,
-      "longitude": 138.596672,
-      "street": "Grote St",
-      "city": "Adelaide",
+      "id": "5a17566c-7555-4e6e-9bf4-30c0843795b4",
+      "latitude": -34.868776,
+      "longitude": 138.664652,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-27T14:00:16Z",
-      "reported_at": "2026-02-27T13:44:36Z"
+      "timestamp": "2026-02-27T14:30:15Z",
+      "reported_at": "2026-02-27T14:09:32Z"
+    },
+    {
+      "id": "61a4edfa-db2b-415c-a204-0c2d76e7c551",
+      "latitude": -34.8958,
+      "longitude": 138.582763,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-02-27T14:30:15Z",
+      "reported_at": "2026-02-27T14:00:29Z"
+    },
+    {
+      "id": "b7420ae7-e2f9-4381-b329-eac3cae7a822",
+      "latitude": -34.848004,
+      "longitude": 138.600155,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-02-27T14:30:15Z",
+      "reported_at": "2026-02-27T14:11:47Z"
     }
   ]
 }
