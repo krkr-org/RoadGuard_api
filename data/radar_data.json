@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "409df3aa-2963-41f3-8016-1b32cef5ea62",
-      "latitude": -34.776431,
-      "longitude": 138.599405,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-28T23:00:16Z",
-      "reported_at": "2026-02-28T22:30:36Z"
-    },
-    {
       "id": "aba09c2c-dc6b-4d12-b6fa-354b95483d80",
-      "latitude": -34.736303,
-      "longitude": 138.644381,
+      "latitude": -34.735964,
+      "longitude": 138.643598,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-02-28T23:00:16Z",
+      "timestamp": "2026-02-28T23:30:18Z",
       "reported_at": "2026-02-28T21:54:04Z"
+    },
+    {
+      "id": "f9be9672-7388-4253-98c6-1831dccc09f0",
+      "latitude": -34.751716,
+      "longitude": 138.634986,
+      "street": "Bagster Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-02-28T23:30:18Z",
+      "reported_at": "2026-02-28T21:21:36Z"
     },
     {
       "id": "ef59ef66-a758-45d3-ac42-949df51f04cf",
@@ -27,38 +27,18 @@
       "street": "A22 - Cavan Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-02-28T23:00:16Z",
+      "timestamp": "2026-02-28T23:30:18Z",
       "reported_at": "2026-02-28T21:16:09Z"
     },
     {
-      "id": "788cec03-38da-469f-8d73-a14b68e9fe25",
-      "latitude": -34.838856,
-      "longitude": 138.563524,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
+      "id": "7a18c14e-ada9-4be8-9377-105714bc3606",
+      "latitude": -34.843379,
+      "longitude": 138.589065,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-28T23:00:16Z",
-      "reported_at": "2026-02-28T22:29:30Z"
-    },
-    {
-      "id": "cca05c95-245f-4ac3-9a88-c29b2ea8ffa1",
-      "latitude": -35.049112,
-      "longitude": 138.547966,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-02-28T23:00:16Z",
-      "reported_at": "2026-02-28T22:29:40Z"
-    },
-    {
-      "id": "1c797346-6a79-4b93-b423-0c6f6b5502b6",
-      "latitude": -35.044342,
-      "longitude": 138.552007,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-28T23:00:16Z",
-      "reported_at": "2026-02-28T22:23:59Z"
+      "timestamp": "2026-02-28T23:30:18Z",
+      "reported_at": "2026-02-28T23:10:12Z"
     }
   ]
 }
