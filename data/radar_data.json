@@ -1,64 +1,34 @@
 {
   "radars": [
     {
-      "id": "768faaa1-5cef-478a-b81a-ab9ffa21469a",
-      "latitude": -34.87371,
-      "longitude": 138.682991,
-      "street": "Silkes Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T04:54:45Z"
-    },
-    {
       "id": "841ae907-c605-4d65-a4ac-5202f5e55eca",
       "latitude": -34.884441,
       "longitude": 138.628539,
       "street": "Ilford St",
       "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
+      "timestamp": "2026-02-28T09:00:15Z",
       "reported_at": "2026-02-28T06:41:22Z"
     },
     {
-      "id": "1bc6345e-424d-409d-87a8-07a20bfe3ddd",
-      "latitude": -34.807849,
-      "longitude": 138.496597,
-      "street": "Military Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T08:07:59Z"
-    },
-    {
-      "id": "eef1df5e-3997-4f2c-8665-2ec388471a18",
-      "latitude": -34.889157,
-      "longitude": 138.692163,
+      "id": "155e03e3-75fe-4983-9eb7-4b6f6bedba0b",
+      "latitude": -34.890048,
+      "longitude": 138.69223,
       "street": "Stradbroke Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T06:56:40Z"
+      "timestamp": "2026-02-28T09:00:15Z",
+      "reported_at": "2026-02-28T05:18:43Z"
     },
     {
-      "id": "1806b894-1b91-4ec8-b623-1e72cd0b652d",
-      "latitude": -34.858895,
-      "longitude": 138.679647,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
+      "id": "f5176d29-689b-4bb9-8913-552479cbfe54",
+      "latitude": -34.797161,
+      "longitude": 138.707769,
+      "street": "Golden Grove Rd",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T08:03:49Z"
-    },
-    {
-      "id": "750074b3-e60a-48b6-8a18-9fe324ee32b1",
-      "latitude": -34.927225,
-      "longitude": 138.636081,
-      "street": "Kensington Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T07:36:55Z"
+      "timestamp": "2026-02-28T09:00:15Z",
+      "reported_at": "2026-02-28T08:20:55Z"
     },
     {
       "id": "b5a7bdd4-cab8-48c5-8bb0-514aec31dfb8",
@@ -67,38 +37,28 @@
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
+      "timestamp": "2026-02-28T09:00:15Z",
       "reported_at": "2026-02-28T05:44:09Z"
     },
     {
-      "id": "98e92f11-5136-4cdb-83dc-db7cd3d71eab",
-      "latitude": -34.847179,
-      "longitude": 138.507148,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T07:49:55Z"
-    },
-    {
-      "id": "e8a23615-9b07-4d32-a217-968a9a892f91",
-      "latitude": -35.138562,
-      "longitude": 138.524467,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T01:34:31Z"
-    },
-    {
-      "id": "8c6d92b5-f73c-4ca5-a84b-d19663b3baaf",
-      "latitude": -34.877051,
-      "longitude": 138.693321,
+      "id": "4c87eaa3-93b2-49ac-952c-03a82a11670a",
+      "latitude": -34.876091,
+      "longitude": 138.694688,
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-28T08:30:15Z",
-      "reported_at": "2026-02-28T05:09:29Z"
+      "timestamp": "2026-02-28T09:00:15Z",
+      "reported_at": "2026-02-28T06:52:46Z"
+    },
+    {
+      "id": "a8fc8902-604f-460b-a519-37294a8bbbdc",
+      "latitude": -35.141413,
+      "longitude": 138.524709,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
+      "type": "mobile",
+      "timestamp": "2026-02-28T09:00:15Z",
+      "reported_at": "2026-02-28T08:44:28Z"
     }
   ]
 }
