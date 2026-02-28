@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "978f9fba-7a17-4db1-8070-2f81b8eb6799",
-      "latitude": -35.025609,
-      "longitude": 138.533345,
+      "id": "b55ee6b5-f9c9-437d-a4aa-e0e1eb744b0d",
+      "latitude": -35.025436,
+      "longitude": 138.536316,
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-27T23:02:25Z"
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-27T22:46:33Z"
     },
     {
-      "id": "4ab51f65-9806-4655-8d76-d138081207c0",
-      "latitude": -35.127722,
-      "longitude": 138.481626,
+      "id": "ef318700-4df9-483a-a17f-3b440c1a989c",
+      "latitude": -35.129368,
+      "longitude": 138.481757,
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-27T23:13:08Z"
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-28T00:38:52Z"
     },
     {
-      "id": "568fd401-064b-4660-bfbb-4ddca98e8af1",
-      "latitude": -35.095889,
-      "longitude": 138.534147,
-      "street": "Young St",
-      "city": "Reynella",
+      "id": "050f4a1c-0e19-433e-8eca-bf441daa046c",
+      "latitude": -35.133771,
+      "longitude": 138.498635,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-27T22:09:03Z"
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-28T01:18:01Z"
     },
     {
       "id": "25f36b6d-a65e-4c12-869e-78bdbe7762a3",
@@ -37,8 +37,18 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
+      "timestamp": "2026-02-28T01:30:17Z",
       "reported_at": "2026-02-27T21:52:46Z"
+    },
+    {
+      "id": "baf6e563-c1d6-4221-abd4-01a198796c04",
+      "latitude": -35.096664,
+      "longitude": 138.534199,
+      "street": "Young St",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-27T22:08:34Z"
     },
     {
       "id": "5fde07aa-3136-47c2-8cc7-ed3287bd3023",
@@ -47,18 +57,38 @@
       "street": "Miller St",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
+      "timestamp": "2026-02-28T01:30:17Z",
       "reported_at": "2026-02-27T20:57:20Z"
     },
     {
-      "id": "18bb3a70-7c9f-4f51-b2dd-71ef38bc0458",
-      "latitude": -35.063255,
-      "longitude": 138.655179,
+      "id": "d5c08735-514e-41e7-8153-49ff205da5f0",
+      "latitude": -35.063268,
+      "longitude": 138.654673,
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-27T23:04:17Z"
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-27T21:30:02Z"
+    },
+    {
+      "id": "e3551d1a-c5b4-4f47-8f8e-c5ede351a500",
+      "latitude": -34.937361,
+      "longitude": 138.606591,
+      "street": "Unley Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-28T01:04:03Z"
+    },
+    {
+      "id": "5e1b710d-a794-4982-99e0-3be1be8159db",
+      "latitude": -34.688845,
+      "longitude": 138.690856,
+      "street": "Uley Rd",
+      "city": "Blakeview",
+      "type": "mobile",
+      "timestamp": "2026-02-28T01:30:17Z",
+      "reported_at": "2026-02-28T01:23:35Z"
     },
     {
       "id": "5cad9210-0ff9-4716-8e4c-8154a97af15f",
@@ -67,28 +97,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
+      "timestamp": "2026-02-28T01:30:17Z",
       "reported_at": "2026-02-28T00:59:06Z"
-    },
-    {
-      "id": "f9300c14-2eb2-4142-ac4b-6e09296b0c9a",
-      "latitude": -34.95526,
-      "longitude": 138.568169,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-28T00:51:56Z"
-    },
-    {
-      "id": "63026f12-8a89-441b-a2da-38bb6019da77",
-      "latitude": -35.137358,
-      "longitude": 138.524365,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-27T21:37:24Z"
     },
     {
       "id": "cd22c80b-ce78-471a-959a-676dfff09e55",
@@ -97,38 +107,8 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
+      "timestamp": "2026-02-28T01:30:17Z",
       "reported_at": "2026-02-27T21:32:10Z"
-    },
-    {
-      "id": "ef8ed3e7-206f-4b9b-aad6-ca58aa97bf36",
-      "latitude": -34.671511,
-      "longitude": 138.700401,
-      "street": "A20 - Main North Rd",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-28T00:32:07Z"
-    },
-    {
-      "id": "681305f4-b5f1-4a55-8de9-a9708eb480a6",
-      "latitude": -34.767129,
-      "longitude": 138.637144,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-28T00:49:11Z"
-    },
-    {
-      "id": "dff14305-b57a-44bb-9951-61284b5cd8a8",
-      "latitude": -35.04209,
-      "longitude": 138.554393,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-02-28T01:00:19Z",
-      "reported_at": "2026-02-28T00:50:57Z"
     }
   ]
 }
