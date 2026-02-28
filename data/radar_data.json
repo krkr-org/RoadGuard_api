@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "bbbd2954-99ed-4bcc-86db-b97c54a7764e",
-      "latitude": -34.795723,
-      "longitude": 138.611827,
-      "street": "Taylor St",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
-      "reported_at": "2026-02-27T21:00:04Z"
-    },
-    {
       "id": "b55ee6b5-f9c9-437d-a4aa-e0e1eb744b0d",
       "latitude": -35.025436,
       "longitude": 138.536316,
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
+      "timestamp": "2026-02-28T00:30:16Z",
       "reported_at": "2026-02-27T22:46:33Z"
     },
     {
-      "id": "568fd401-064b-4660-bfbb-4ddca98e8af1",
-      "latitude": -35.095889,
-      "longitude": 138.534147,
+      "id": "bbbd2954-99ed-4bcc-86db-b97c54a7764e",
+      "latitude": -34.795723,
+      "longitude": 138.611827,
+      "street": "Taylor St",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-28T00:30:16Z",
+      "reported_at": "2026-02-27T21:00:04Z"
+    },
+    {
+      "id": "baf6e563-c1d6-4221-abd4-01a198796c04",
+      "latitude": -35.096664,
+      "longitude": 138.534199,
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
-      "reported_at": "2026-02-27T22:09:03Z"
+      "timestamp": "2026-02-28T00:30:16Z",
+      "reported_at": "2026-02-27T22:08:34Z"
     },
     {
       "id": "5fde07aa-3136-47c2-8cc7-ed3287bd3023",
@@ -37,7 +37,7 @@
       "street": "Miller St",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
+      "timestamp": "2026-02-28T00:30:16Z",
       "reported_at": "2026-02-27T20:57:20Z"
     },
     {
@@ -47,18 +47,8 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
+      "timestamp": "2026-02-28T00:30:16Z",
       "reported_at": "2026-02-27T21:52:46Z"
-    },
-    {
-      "id": "bd7f90fc-61eb-470d-9c1c-4fe01662fc7d",
-      "latitude": -34.751943,
-      "longitude": 138.624583,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
-      "reported_at": "2026-02-27T23:39:28Z"
     },
     {
       "id": "18bb3a70-7c9f-4f51-b2dd-71ef38bc0458",
@@ -67,18 +57,18 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
+      "timestamp": "2026-02-28T00:30:16Z",
       "reported_at": "2026-02-27T23:04:17Z"
     },
     {
-      "id": "e5e1d278-495d-4773-bd58-ad6e95b798cd",
-      "latitude": -34.717289,
-      "longitude": 138.665931,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
+      "id": "bd7f90fc-61eb-470d-9c1c-4fe01662fc7d",
+      "latitude": -34.751943,
+      "longitude": 138.624583,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
-      "reported_at": "2026-02-27T23:40:30Z"
+      "timestamp": "2026-02-28T00:30:16Z",
+      "reported_at": "2026-02-27T23:39:28Z"
     },
     {
       "id": "63026f12-8a89-441b-a2da-38bb6019da77",
@@ -87,28 +77,8 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
+      "timestamp": "2026-02-28T00:30:16Z",
       "reported_at": "2026-02-27T21:37:24Z"
-    },
-    {
-      "id": "48b46e44-49fd-49cb-95c2-0a64e64487d9",
-      "latitude": -34.858825,
-      "longitude": 138.582985,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
-      "reported_at": "2026-02-27T22:49:18Z"
-    },
-    {
-      "id": "cd22c80b-ce78-471a-959a-676dfff09e55",
-      "latitude": -35.015693,
-      "longitude": 138.641594,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Belair",
-      "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
-      "reported_at": "2026-02-27T21:32:10Z"
     },
     {
       "id": "ac494a6c-062d-4e63-8b71-95c46db90546",
@@ -117,7 +87,7 @@
       "street": "A20 - Main North Rd",
       "city": "Evanston South",
       "type": "mobile",
-      "timestamp": "2026-02-28T00:00:18Z",
+      "timestamp": "2026-02-28T00:30:16Z",
       "reported_at": "2026-02-27T23:14:50Z"
     }
   ]
