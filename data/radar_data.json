@@ -7,8 +7,18 @@
       "street": "Folkestone Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
+      "timestamp": "2026-02-28T02:30:15Z",
       "reported_at": "2026-02-27T23:02:25Z"
+    },
+    {
+      "id": "df09c2e1-f73f-4c5f-be07-58194055d985",
+      "latitude": -34.800961,
+      "longitude": 138.643985,
+      "street": "Ceafield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T01:55:19Z"
     },
     {
       "id": "ef318700-4df9-483a-a17f-3b440c1a989c",
@@ -17,8 +27,18 @@
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
+      "timestamp": "2026-02-28T02:30:15Z",
       "reported_at": "2026-02-28T00:38:52Z"
+    },
+    {
+      "id": "03e9c71d-a294-40da-b48b-973f7cff4a27",
+      "latitude": -35.009518,
+      "longitude": 138.758978,
+      "street": "Carey Gully Rd",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T01:52:11Z"
     },
     {
       "id": "baf6e563-c1d6-4221-abd4-01a198796c04",
@@ -27,7 +47,7 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
+      "timestamp": "2026-02-28T02:30:15Z",
       "reported_at": "2026-02-27T22:08:34Z"
     },
     {
@@ -37,48 +57,28 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
+      "timestamp": "2026-02-28T02:30:15Z",
       "reported_at": "2026-02-27T21:52:46Z"
     },
     {
-      "id": "d5c08735-514e-41e7-8153-49ff205da5f0",
-      "latitude": -35.063268,
-      "longitude": 138.654673,
+      "id": "18bb3a70-7c9f-4f51-b2dd-71ef38bc0458",
+      "latitude": -35.063255,
+      "longitude": 138.655179,
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
-      "reported_at": "2026-02-27T21:30:02Z"
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-27T23:04:17Z"
     },
     {
-      "id": "00ba556a-848d-49f2-af86-8400d4176ba7",
-      "latitude": -34.905503,
-      "longitude": 138.531031,
-      "street": "Grange Rd",
-      "city": "Findon",
+      "id": "a7713541-ec98-4df9-94d4-b0ee79ad95d3",
+      "latitude": -35.104552,
+      "longitude": 138.537051,
+      "street": "Pimpala Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
-      "reported_at": "2026-02-28T01:16:41Z"
-    },
-    {
-      "id": "5e1b710d-a794-4982-99e0-3be1be8159db",
-      "latitude": -34.688845,
-      "longitude": 138.690856,
-      "street": "Uley Rd",
-      "city": "Blakeview",
-      "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
-      "reported_at": "2026-02-28T01:23:35Z"
-    },
-    {
-      "id": "e8a23615-9b07-4d32-a217-968a9a892f91",
-      "latitude": -35.138562,
-      "longitude": 138.524467,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
-      "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
-      "reported_at": "2026-02-28T01:34:31Z"
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T01:41:17Z"
     },
     {
       "id": "cd22c80b-ce78-471a-959a-676dfff09e55",
@@ -87,8 +87,58 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-02-28T02:00:16Z",
+      "timestamp": "2026-02-28T02:30:15Z",
       "reported_at": "2026-02-27T21:32:10Z"
+    },
+    {
+      "id": "e8a23615-9b07-4d32-a217-968a9a892f91",
+      "latitude": -35.138562,
+      "longitude": 138.524467,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T01:34:31Z"
+    },
+    {
+      "id": "0344a9fe-1972-4950-9de1-218fc692fc26",
+      "latitude": -34.935826,
+      "longitude": 138.642078,
+      "street": "A17 - Portrush Rd",
+      "city": "Toorak Gardens",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T02:13:05Z"
+    },
+    {
+      "id": "d9c00649-33a1-4f13-8318-510b2b9459c6",
+      "latitude": -34.947619,
+      "longitude": 138.64301,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenunga",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T02:15:43Z"
+    },
+    {
+      "id": "220aaebe-615d-45e2-abb5-deeea6d8c691",
+      "latitude": -34.961731,
+      "longitude": 138.558138,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T02:20:34Z"
+    },
+    {
+      "id": "30c26767-f03a-48ef-9eb9-60dbee33f337",
+      "latitude": -34.958449,
+      "longitude": 138.625982,
+      "street": "B28 - Fullarton Rd",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-02-28T02:30:15Z",
+      "reported_at": "2026-02-28T02:15:11Z"
     }
   ]
 }
