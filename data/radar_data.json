@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "68b4723f-abdb-459b-a13e-a2e4fd99dc05",
-      "latitude": -34.923456,
-      "longitude": 138.580566,
-      "street": "Glover Av",
-      "city": "Adelaide",
+      "id": "fda37e2b-f29d-49db-9c11-a51ee2d6cfeb",
+      "latitude": -34.860883,
+      "longitude": 138.648887,
+      "street": "Ramsay Av",
+      "city": "Hillcrest",
       "type": "mobile",
-      "timestamp": "2026-02-28T14:00:15Z",
-      "reported_at": "2026-02-28T12:30:53Z"
+      "timestamp": "2026-02-28T14:30:14Z",
+      "reported_at": "2026-02-28T13:55:33Z"
     },
     {
-      "id": "b8aa1134-d5f1-49c0-8a33-4b047dc70054",
-      "latitude": -34.806492,
-      "longitude": 138.601889,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "7bf63caa-28ab-4958-a228-0342f85c18c7",
+      "latitude": -34.923492,
+      "longitude": 138.579127,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-02-28T14:00:15Z",
-      "reported_at": "2026-02-28T13:57:29Z"
+      "timestamp": "2026-02-28T14:30:14Z",
+      "reported_at": "2026-02-28T14:11:12Z"
     },
     {
       "id": "d02fff84-972d-4220-90ab-1f30df730d4c",
@@ -27,8 +27,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-28T14:00:15Z",
+      "timestamp": "2026-02-28T14:30:14Z",
       "reported_at": "2026-02-28T13:23:14Z"
+    },
+    {
+      "id": "0559cbb4-6ac6-48e1-90ec-76c04b872b33",
+      "latitude": -34.866667,
+      "longitude": 138.64316,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2026-02-28T14:30:14Z",
+      "reported_at": "2026-02-28T13:50:54Z"
     }
   ]
 }
