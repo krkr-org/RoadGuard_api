@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "e5a05c41-deb3-43d3-98c3-02679d340f56",
+      "latitude": -34.872699,
+      "longitude": 138.683124,
+      "street": "Silkes Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-02-28T09:30:15Z",
+      "reported_at": "2026-02-28T05:45:17Z"
+    },
+    {
       "id": "841ae907-c605-4d65-a4ac-5202f5e55eca",
       "latitude": -34.884441,
       "longitude": 138.628539,
       "street": "Ilford St",
       "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2026-02-28T09:00:15Z",
+      "timestamp": "2026-02-28T09:30:15Z",
       "reported_at": "2026-02-28T06:41:22Z"
-    },
-    {
-      "id": "155e03e3-75fe-4983-9eb7-4b6f6bedba0b",
-      "latitude": -34.890048,
-      "longitude": 138.69223,
-      "street": "Stradbroke Rd",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2026-02-28T09:00:15Z",
-      "reported_at": "2026-02-28T05:18:43Z"
-    },
-    {
-      "id": "f5176d29-689b-4bb9-8913-552479cbfe54",
-      "latitude": -34.797161,
-      "longitude": 138.707769,
-      "street": "Golden Grove Rd",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2026-02-28T09:00:15Z",
-      "reported_at": "2026-02-28T08:20:55Z"
     },
     {
       "id": "b5a7bdd4-cab8-48c5-8bb0-514aec31dfb8",
@@ -37,7 +27,7 @@
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-28T09:00:15Z",
+      "timestamp": "2026-02-28T09:30:15Z",
       "reported_at": "2026-02-28T05:44:09Z"
     },
     {
@@ -47,8 +37,18 @@
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-28T09:00:15Z",
+      "timestamp": "2026-02-28T09:30:15Z",
       "reported_at": "2026-02-28T06:52:46Z"
+    },
+    {
+      "id": "c116bbb5-b00a-4f24-b357-d76ac2bb598c",
+      "latitude": -34.908787,
+      "longitude": 138.628499,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
+      "type": "mobile",
+      "timestamp": "2026-02-28T09:30:15Z",
+      "reported_at": "2026-02-28T09:26:48Z"
     },
     {
       "id": "a8fc8902-604f-460b-a519-37294a8bbbdc",
@@ -57,8 +57,18 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-02-28T09:00:15Z",
+      "timestamp": "2026-02-28T09:30:15Z",
       "reported_at": "2026-02-28T08:44:28Z"
+    },
+    {
+      "id": "82f72dba-ca65-4202-9f8d-49114919dea2",
+      "latitude": -34.939445,
+      "longitude": 138.642403,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenside",
+      "type": "mobile",
+      "timestamp": "2026-02-28T09:30:15Z",
+      "reported_at": "2026-02-28T09:14:42Z"
     }
   ]
 }
