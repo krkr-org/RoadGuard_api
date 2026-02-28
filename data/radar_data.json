@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "cdf063d2-7344-4efc-b9d1-8b0a0ec6d6e7",
-      "latitude": -34.874972,
-      "longitude": 138.682882,
+      "id": "5536ba27-8eaf-4d39-b19f-cf8990332892",
+      "latitude": -34.874434,
+      "longitude": 138.682931,
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
-      "reported_at": "2026-02-28T06:34:22Z"
-    },
-    {
-      "id": "2b274ea8-e850-4b0b-84d6-841abd7c01cb",
-      "latitude": -34.872955,
-      "longitude": 138.683142,
-      "street": "Unknown Street",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
-      "reported_at": "2026-02-28T06:05:16Z"
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T07:06:28Z"
     },
     {
       "id": "841ae907-c605-4d65-a4ac-5202f5e55eca",
@@ -27,38 +17,68 @@
       "street": "Ilford St",
       "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
+      "timestamp": "2026-02-28T11:00:15Z",
       "reported_at": "2026-02-28T06:41:22Z"
     },
     {
-      "id": "eef1df5e-3997-4f2c-8665-2ec388471a18",
-      "latitude": -34.889466,
-      "longitude": 138.692193,
-      "street": "Stradbroke Rd",
-      "city": "Rostrevor",
+      "id": "aafffb6c-82f1-4701-912d-cc55028b3402",
+      "latitude": -34.88866,
+      "longitude": 138.672105,
+      "street": "Montacute Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
-      "reported_at": "2026-02-28T06:56:40Z"
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T10:09:33Z"
     },
     {
-      "id": "95b555b0-d89d-47e4-bb58-05448d24cf76",
-      "latitude": -34.783009,
-      "longitude": 138.607123,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
+      "id": "8e0abc34-4da9-48de-856b-e61eb263c3ab",
+      "latitude": -34.852964,
+      "longitude": 138.478778,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
-      "reported_at": "2026-02-28T10:15:51Z"
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T10:36:30Z"
     },
     {
-      "id": "b8ec7258-3a77-44ee-acaf-71f971f36a94",
-      "latitude": -34.888313,
-      "longitude": 138.680669,
+      "id": "e260b82a-4dcf-4614-ae0c-f8183f99c5de",
+      "latitude": -35.021156,
+      "longitude": 138.609537,
+      "street": "Shepherds Hill Rd",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T10:28:19Z"
+    },
+    {
+      "id": "9f068f2d-ee98-4d9f-92fe-67f07b91980e",
+      "latitude": -35.028004,
+      "longitude": 138.597149,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T10:59:07Z"
+    },
+    {
+      "id": "b6a9067f-8925-46a8-9dfb-6f7acc82a1cf",
+      "latitude": -34.926506,
+      "longitude": 138.513279,
+      "street": "Henley Beach Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T10:31:30Z"
+    },
+    {
+      "id": "b5a7bdd4-cab8-48c5-8bb0-514aec31dfb8",
+      "latitude": -34.88823,
+      "longitude": 138.682493,
       "street": "Montacute Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
-      "reported_at": "2026-02-28T09:56:23Z"
+      "timestamp": "2026-02-28T11:00:15Z",
+      "reported_at": "2026-02-28T05:44:09Z"
     },
     {
       "id": "388c026b-2eaf-4ffd-a3cb-37700ab3587d",
@@ -67,18 +87,8 @@
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
+      "timestamp": "2026-02-28T11:00:15Z",
       "reported_at": "2026-02-28T08:21:33Z"
-    },
-    {
-      "id": "07383d64-2b94-4bc3-b7b9-8484420c5c39",
-      "latitude": -34.847363,
-      "longitude": 138.617582,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-02-28T10:30:16Z",
-      "reported_at": "2026-02-28T09:42:27Z"
     }
   ]
 }
