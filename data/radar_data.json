@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "40bca190-3f5e-4c7e-b5ef-44a7bbb7ed78",
+      "latitude": -34.775076,
+      "longitude": 138.598377,
+      "street": "Whites Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-01T01:30:15Z",
+      "reported_at": "2026-02-28T23:13:10Z"
+    },
+    {
+      "id": "8c6aa02d-9ab5-4d78-b4e0-2acc4acc4537",
+      "latitude": -34.926998,
+      "longitude": 138.602114,
+      "street": "Gawler Pl",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T01:30:15Z",
+      "reported_at": "2026-03-01T01:09:18Z"
+    },
+    {
       "id": "13e94b7a-d94f-4b4c-8dad-22538e27f607",
       "latitude": -34.817769,
       "longitude": 138.609813,
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-01T01:00:17Z",
+      "timestamp": "2026-03-01T01:30:15Z",
       "reported_at": "2026-02-28T23:01:07Z"
     },
     {
-      "id": "f0f08d61-6374-4931-b19e-abe107acbcbb",
-      "latitude": -34.735934,
-      "longitude": 138.643526,
+      "id": "aba09c2c-dc6b-4d12-b6fa-354b95483d80",
+      "latitude": -34.735964,
+      "longitude": 138.643598,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-01T01:00:17Z",
-      "reported_at": "2026-02-28T23:33:55Z"
+      "timestamp": "2026-03-01T01:30:15Z",
+      "reported_at": "2026-02-28T21:54:04Z"
     },
     {
       "id": "2253ddb0-585e-418c-b442-2d90b581046d",
@@ -27,8 +47,18 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T01:00:17Z",
+      "timestamp": "2026-03-01T01:30:15Z",
       "reported_at": "2026-03-01T00:20:42Z"
+    },
+    {
+      "id": "1838e1c1-baeb-4828-89aa-7c482d2a2fca",
+      "latitude": -35.049527,
+      "longitude": 138.581078,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-01T01:30:15Z",
+      "reported_at": "2026-03-01T01:22:51Z"
     },
     {
       "id": "7e0946da-210b-4d8c-a124-b33fa09e1416",
@@ -37,18 +67,18 @@
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T01:00:17Z",
+      "timestamp": "2026-03-01T01:30:15Z",
       "reported_at": "2026-02-28T23:37:43Z"
     },
     {
-      "id": "67bd7982-4958-420e-b660-fbcd102d2394",
-      "latitude": -34.898855,
-      "longitude": 138.595183,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "15db8580-ef05-4437-9847-df5c81d8c08e",
+      "latitude": -34.838467,
+      "longitude": 138.595225,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-01T01:00:17Z",
-      "reported_at": "2026-03-01T00:42:18Z"
+      "timestamp": "2026-03-01T01:30:15Z",
+      "reported_at": "2026-03-01T01:09:09Z"
     }
   ]
 }
