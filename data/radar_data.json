@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "aba09c2c-dc6b-4d12-b6fa-354b95483d80",
-      "latitude": -34.735964,
-      "longitude": 138.643598,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "13e94b7a-d94f-4b4c-8dad-22538e27f607",
+      "latitude": -34.817769,
+      "longitude": 138.609813,
+      "street": "Mawson Lakes Bvd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-02-28T23:30:18Z",
-      "reported_at": "2026-02-28T21:54:04Z"
+      "timestamp": "2026-03-01T00:00:17Z",
+      "reported_at": "2026-02-28T23:01:07Z"
     },
     {
       "id": "f9be9672-7388-4253-98c6-1831dccc09f0",
@@ -17,18 +17,8 @@
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-02-28T23:30:18Z",
+      "timestamp": "2026-03-01T00:00:17Z",
       "reported_at": "2026-02-28T21:21:36Z"
-    },
-    {
-      "id": "ef59ef66-a758-45d3-ac42-949df51f04cf",
-      "latitude": -34.841463,
-      "longitude": 138.591162,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-02-28T23:30:18Z",
-      "reported_at": "2026-02-28T21:16:09Z"
     },
     {
       "id": "7a18c14e-ada9-4be8-9377-105714bc3606",
@@ -37,8 +27,18 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-02-28T23:30:18Z",
+      "timestamp": "2026-03-01T00:00:17Z",
       "reported_at": "2026-02-28T23:10:12Z"
+    },
+    {
+      "id": "ef59ef66-a758-45d3-ac42-949df51f04cf",
+      "latitude": -34.841463,
+      "longitude": 138.591162,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-01T00:00:17Z",
+      "reported_at": "2026-02-28T21:16:09Z"
     }
   ]
 }
