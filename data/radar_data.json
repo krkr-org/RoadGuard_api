@@ -1,44 +1,64 @@
 {
   "radars": [
     {
+      "id": "8f336083-299a-4ceb-8656-34ea117f669b",
+      "latitude": -34.935917,
+      "longitude": 138.595473,
+      "street": "South Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T21:03:45Z"
+    },
+    {
+      "id": "4cc0799f-0ef8-4921-b14f-86da13f30e69",
+      "latitude": -34.924811,
+      "longitude": 138.608089,
+      "street": "Frome St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T21:05:32Z"
+    },
+    {
       "id": "e0cec759-0387-43e0-9549-19c713646e18",
-      "latitude": -34.914339,
-      "longitude": 138.585379,
+      "latitude": -34.914995,
+      "longitude": 138.586417,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T21:00:15Z",
+      "timestamp": "2026-03-01T21:30:15Z",
       "reported_at": "2026-03-01T20:40:05Z"
     },
     {
-      "id": "fe606cf2-3504-42e0-a624-68b69289e11b",
-      "latitude": -34.875009,
-      "longitude": 138.548142,
-      "street": "Torrens Rd",
-      "city": "Woodville North",
+      "id": "96246d1e-fa40-4ee9-bb99-78a379457b25",
+      "latitude": -34.925438,
+      "longitude": 138.632492,
+      "street": "Osmond Tce",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-01T21:00:15Z",
-      "reported_at": "2026-03-01T20:43:11Z"
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T20:55:28Z"
     },
     {
-      "id": "956d7266-d863-4569-9ada-970dbda6aca6",
-      "latitude": -34.875555,
-      "longitude": 138.56042,
-      "street": "Regency Rd",
-      "city": "Ferryden Park",
+      "id": "a07ae4ba-579b-474a-b5e8-1a05ee536167",
+      "latitude": -34.925134,
+      "longitude": 138.617168,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T21:00:15Z",
-      "reported_at": "2026-03-01T20:44:38Z"
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T20:55:31Z"
     },
     {
-      "id": "a49543ac-6f52-4843-a323-64534423b994",
-      "latitude": -34.901213,
-      "longitude": 138.6063,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "d150629a-a69c-431b-ba72-f054b00f6601",
+      "latitude": -35.118563,
+      "longitude": 138.523074,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-01T21:00:15Z",
-      "reported_at": "2026-03-01T20:43:58Z"
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T21:07:19Z"
     },
     {
       "id": "22e8bce0-003c-47da-bbaf-7382bb3b5264",
@@ -47,18 +67,38 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-03-01T21:00:15Z",
+      "timestamp": "2026-03-01T21:30:15Z",
       "reported_at": "2026-03-01T20:50:37Z"
     },
     {
-      "id": "bd636ae7-966b-410a-8d22-b224290ac1d9",
-      "latitude": -34.964292,
-      "longitude": 138.626481,
-      "street": "B28 - Fullarton Rd",
-      "city": "Highgate",
+      "id": "0538932b-c685-479c-bb06-acf936ee05b8",
+      "latitude": -34.900521,
+      "longitude": 138.603817,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T21:00:15Z",
-      "reported_at": "2026-03-01T20:31:00Z"
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T20:49:33Z"
+    },
+    {
+      "id": "aa5d7958-677e-4f97-bd9c-f17bb8be7557",
+      "latitude": -34.835946,
+      "longitude": 138.609264,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T21:21:55Z"
+    },
+    {
+      "id": "3f5d636b-dc4d-4cbb-82a6-eae631d7ee60",
+      "latitude": -34.834137,
+      "longitude": 138.61048,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:30:15Z",
+      "reported_at": "2026-03-01T21:09:14Z"
     }
   ]
 }
