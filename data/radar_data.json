@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "0c99c9f0-ca4c-4013-aaf0-f384c6a2ae75",
-      "latitude": -34.860451,
-      "longitude": 138.490218,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T07:38:45Z"
-    },
-    {
       "id": "cd34917c-7065-4519-b175-8a2dabed8b9a",
       "latitude": -34.853521,
       "longitude": 138.483698,
       "street": "Sansom Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
+      "timestamp": "2026-03-01T11:00:17Z",
       "reported_at": "2026-03-01T07:29:19Z"
+    },
+    {
+      "id": "0c99c9f0-ca4c-4013-aaf0-f384c6a2ae75",
+      "latitude": -34.860451,
+      "longitude": 138.490218,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-03-01T11:00:17Z",
+      "reported_at": "2026-03-01T07:38:45Z"
     },
     {
       "id": "66e4aa29-4e2e-4b5d-9e3d-2eb93f0f2e60",
@@ -27,68 +27,28 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
+      "timestamp": "2026-03-01T11:00:17Z",
       "reported_at": "2026-03-01T05:56:16Z"
     },
     {
-      "id": "345ad738-9ea0-4eee-8a7a-3aa8e2f30bca",
-      "latitude": -35.027643,
-      "longitude": 138.598348,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "d79a7d7b-b20c-4ab0-a35c-74d1efef355e",
+      "latitude": -34.888513,
+      "longitude": 138.570227,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T10:07:16Z"
+      "timestamp": "2026-03-01T11:00:17Z",
+      "reported_at": "2026-03-01T10:37:13Z"
     },
     {
-      "id": "91477d09-0b83-4ea9-9078-3cdc771f5d8e",
-      "latitude": -34.829513,
-      "longitude": 138.664884,
-      "street": "Montague Rd",
-      "city": "Para Vista",
+      "id": "cef362f8-6e99-43b4-9274-838d717b2c29",
+      "latitude": -35.048097,
+      "longitude": 138.54845,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T09:56:55Z"
-    },
-    {
-      "id": "22286f67-87b4-43d5-980d-364be1f4a1ae",
-      "latitude": -35.075665,
-      "longitude": 138.583375,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T09:55:08Z"
-    },
-    {
-      "id": "55146f3d-18fe-44de-abe2-f8c14a1d8775",
-      "latitude": -34.74399,
-      "longitude": 138.632964,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T10:08:53Z"
-    },
-    {
-      "id": "dddea43a-e9bf-4d12-bfa0-6c5b2b3cf183",
-      "latitude": -35.135235,
-      "longitude": 138.524331,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T09:59:38Z"
-    },
-    {
-      "id": "3bf18203-9b40-49cf-987f-6dc516af1b4d",
-      "latitude": -34.796346,
-      "longitude": 138.61113,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-03-01T10:30:15Z",
-      "reported_at": "2026-03-01T09:26:53Z"
+      "timestamp": "2026-03-01T11:00:17Z",
+      "reported_at": "2026-03-01T10:29:07Z"
     }
   ]
 }
