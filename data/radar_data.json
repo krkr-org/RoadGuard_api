@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "b0ea0c45-c8ae-43fe-8145-5273959cbbdb",
+      "latitude": -34.777008,
+      "longitude": 138.65028,
+      "street": "Kent Av",
+      "city": "Brahma Lodge",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T06:08:50Z"
+    },
+    {
       "id": "92f816db-c868-4b26-be4e-ac812956e040",
       "latitude": -34.854,
       "longitude": 138.483556,
       "street": "Beachway Av",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T09:30:15Z",
+      "timestamp": "2026-03-01T10:00:16Z",
       "reported_at": "2026-03-01T06:00:38Z"
     },
     {
-      "id": "6400afec-6fc1-4183-8879-66749d841128",
-      "latitude": -34.86053,
-      "longitude": 138.490052,
+      "id": "0c99c9f0-ca4c-4013-aaf0-f384c6a2ae75",
+      "latitude": -34.860451,
+      "longitude": 138.490218,
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-01T09:30:15Z",
-      "reported_at": "2026-03-01T05:32:33Z"
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T07:38:45Z"
     },
     {
-      "id": "66e4aa29-4e2e-4b5d-9e3d-2eb93f0f2e60",
-      "latitude": -34.864034,
-      "longitude": 138.509715,
-      "street": "Old Port Rd",
-      "city": "Royal Park",
+      "id": "f67cec92-f515-43b0-bd77-406e696f334c",
+      "latitude": -34.855594,
+      "longitude": 138.654636,
+      "street": "Unknown Street",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-01T09:30:15Z",
-      "reported_at": "2026-03-01T05:56:16Z"
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:27:28Z"
     },
     {
       "id": "64503ea1-cdb5-4715-b7cf-c58ce2e3db7c",
@@ -37,28 +47,118 @@
       "street": "Esplanade",
       "city": "Semaphore South",
       "type": "mobile",
-      "timestamp": "2026-03-01T09:30:15Z",
+      "timestamp": "2026-03-01T10:00:16Z",
       "reported_at": "2026-03-01T05:09:40Z"
     },
     {
-      "id": "0f008c6c-16a8-49c5-b80a-f10d91cc6c5a",
-      "latitude": -35.026213,
-      "longitude": 138.559429,
-      "street": "Flagstaff Rd",
-      "city": "Darlington",
+      "id": "66e4aa29-4e2e-4b5d-9e3d-2eb93f0f2e60",
+      "latitude": -34.864034,
+      "longitude": 138.509715,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T09:30:15Z",
-      "reported_at": "2026-03-01T09:22:09Z"
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T05:56:16Z"
     },
     {
-      "id": "83a9d6e2-631b-43ac-a4b6-8a3c6517e63e",
-      "latitude": -34.721682,
-      "longitude": 138.578795,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
+      "id": "c06323e2-2ec4-48aa-b1bd-4e380b3fe227",
+      "latitude": -34.897469,
+      "longitude": 138.614782,
+      "street": "Stephen Tce",
+      "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-03-01T09:30:15Z",
-      "reported_at": "2026-03-01T09:00:45Z"
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:48:39Z"
+    },
+    {
+      "id": "22286f67-87b4-43d5-980d-364be1f4a1ae",
+      "latitude": -35.075665,
+      "longitude": 138.583375,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:55:08Z"
+    },
+    {
+      "id": "22d903cc-5a38-42a8-b62c-d8395ae199d2",
+      "latitude": -34.874786,
+      "longitude": 138.576282,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:53:28Z"
+    },
+    {
+      "id": "0e525212-f5d5-4e04-97b3-b7198ee6796f",
+      "latitude": -34.771523,
+      "longitude": 138.617414,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:19:27Z"
+    },
+    {
+      "id": "a08de4e8-6243-4f0e-8cb9-16ff477dab60",
+      "latitude": -34.818906,
+      "longitude": 138.677703,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:16:54Z"
+    },
+    {
+      "id": "91b5257e-7ed6-4292-a89c-35af37054a57",
+      "latitude": -34.900217,
+      "longitude": 138.564785,
+      "street": "A7 - Port Rd",
+      "city": "Croydon",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:35:37Z"
+    },
+    {
+      "id": "55b3e3aa-477e-4ac3-88ac-ccc9e88eb767",
+      "latitude": -34.961493,
+      "longitude": 138.642431,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:28:36Z"
+    },
+    {
+      "id": "8614dfca-ed56-4ee3-8d12-8a0090108ad1",
+      "latitude": -35.025727,
+      "longitude": 138.559794,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:23:11Z"
+    },
+    {
+      "id": "3bf18203-9b40-49cf-987f-6dc516af1b4d",
+      "latitude": -34.796346,
+      "longitude": 138.61113,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:26:53Z"
+    },
+    {
+      "id": "8c7110a0-b1c8-4632-a2ee-18c9b9e6d015",
+      "latitude": -35.024886,
+      "longitude": 138.55813,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-01T10:00:16Z",
+      "reported_at": "2026-03-01T09:46:12Z"
     }
   ]
 }
