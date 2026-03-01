@@ -7,7 +7,7 @@
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
+      "timestamp": "2026-03-01T08:30:15Z",
       "reported_at": "2026-03-01T04:05:38Z"
     },
     {
@@ -17,18 +17,8 @@
       "street": "Beachway Av",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
+      "timestamp": "2026-03-01T08:30:15Z",
       "reported_at": "2026-03-01T06:00:38Z"
-    },
-    {
-      "id": "21b56c37-226b-49a6-ab7c-aac1ca65be88",
-      "latitude": -34.801605,
-      "longitude": 138.496557,
-      "street": "Military Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
-      "reported_at": "2026-03-01T05:14:38Z"
     },
     {
       "id": "057d1058-4a6f-484b-b4aa-8df8084e9c2a",
@@ -37,18 +27,28 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
+      "timestamp": "2026-03-01T08:30:15Z",
       "reported_at": "2026-03-01T05:02:27Z"
     },
     {
-      "id": "3c416afe-6984-4951-8dc4-60ea33029c17",
-      "latitude": -34.845456,
-      "longitude": 138.478106,
-      "street": "Esplanade",
-      "city": "Semaphore South",
+      "id": "82a49caa-943c-41f8-8ba2-681d23527a09",
+      "latitude": -34.80359,
+      "longitude": 138.496501,
+      "street": "Military Rd",
+      "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
-      "reported_at": "2026-03-01T05:09:58Z"
+      "timestamp": "2026-03-01T08:30:15Z",
+      "reported_at": "2026-03-01T05:02:47Z"
+    },
+    {
+      "id": "ea7d634f-aa76-4963-a953-1c6bf2e2157b",
+      "latitude": -35.079994,
+      "longitude": 138.544609,
+      "street": "to M2 - Southern Exp to City",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-01T08:30:15Z",
+      "reported_at": "2026-03-01T08:04:55Z"
     },
     {
       "id": "0c884431-8779-4d8a-980f-50eb64722a6d",
@@ -57,7 +57,7 @@
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
+      "timestamp": "2026-03-01T08:30:15Z",
       "reported_at": "2026-03-01T05:43:43Z"
     },
     {
@@ -67,28 +67,38 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
+      "timestamp": "2026-03-01T08:30:15Z",
       "reported_at": "2026-03-01T05:56:16Z"
     },
     {
-      "id": "68bb0655-1abb-4251-aa1a-ac78cadb8009",
-      "latitude": -34.874409,
-      "longitude": 138.584553,
-      "street": "Regency Rd",
-      "city": "Prospect",
+      "id": "3c416afe-6984-4951-8dc4-60ea33029c17",
+      "latitude": -34.845456,
+      "longitude": 138.478106,
+      "street": "Esplanade",
+      "city": "Semaphore South",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
-      "reported_at": "2026-03-01T07:58:59Z"
+      "timestamp": "2026-03-01T08:30:15Z",
+      "reported_at": "2026-03-01T05:09:58Z"
     },
     {
-      "id": "dac93ede-48ac-4a73-aecb-a85246554f5f",
-      "latitude": -34.825425,
-      "longitude": 138.611308,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
+      "id": "3b62e9e3-fcb6-4137-b587-43d7c9d7fa95",
+      "latitude": -34.891126,
+      "longitude": 138.603282,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-01T08:00:16Z",
-      "reported_at": "2026-03-01T07:20:13Z"
+      "timestamp": "2026-03-01T08:30:15Z",
+      "reported_at": "2026-03-01T07:59:03Z"
+    },
+    {
+      "id": "240e5fb8-86f4-48b3-9ef2-912edd5b8d5d",
+      "latitude": -35.034886,
+      "longitude": 138.556753,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-01T08:30:15Z",
+      "reported_at": "2026-03-01T08:08:39Z"
     }
   ]
 }
