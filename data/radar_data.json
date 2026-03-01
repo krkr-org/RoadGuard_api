@@ -1,3 +1,64 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "e0cec759-0387-43e0-9549-19c713646e18",
+      "latitude": -34.914339,
+      "longitude": 138.585379,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:00:15Z",
+      "reported_at": "2026-03-01T20:40:05Z"
+    },
+    {
+      "id": "fe606cf2-3504-42e0-a624-68b69289e11b",
+      "latitude": -34.875009,
+      "longitude": 138.548142,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:00:15Z",
+      "reported_at": "2026-03-01T20:43:11Z"
+    },
+    {
+      "id": "956d7266-d863-4569-9ada-970dbda6aca6",
+      "latitude": -34.875555,
+      "longitude": 138.56042,
+      "street": "Regency Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:00:15Z",
+      "reported_at": "2026-03-01T20:44:38Z"
+    },
+    {
+      "id": "a49543ac-6f52-4843-a323-64534423b994",
+      "latitude": -34.901213,
+      "longitude": 138.6063,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:00:15Z",
+      "reported_at": "2026-03-01T20:43:58Z"
+    },
+    {
+      "id": "22e8bce0-003c-47da-bbaf-7382bb3b5264",
+      "latitude": -34.964501,
+      "longitude": 138.628559,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:00:15Z",
+      "reported_at": "2026-03-01T20:50:37Z"
+    },
+    {
+      "id": "bd636ae7-966b-410a-8d22-b224290ac1d9",
+      "latitude": -34.964292,
+      "longitude": 138.626481,
+      "street": "B28 - Fullarton Rd",
+      "city": "Highgate",
+      "type": "mobile",
+      "timestamp": "2026-03-01T21:00:15Z",
+      "reported_at": "2026-03-01T20:31:00Z"
+    }
+  ]
 }
