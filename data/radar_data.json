@@ -7,7 +7,7 @@
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T04:05:38Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Whites Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T01:59:39Z"
     },
     {
@@ -27,48 +27,8 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T05:02:27Z"
-    },
-    {
-      "id": "998b7d12-7265-4f8e-977c-0eb00dda8a37",
-      "latitude": -34.983218,
-      "longitude": 138.575092,
-      "street": "Unknown Street",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
-      "reported_at": "2026-03-01T01:24:41Z"
-    },
-    {
-      "id": "cd7d9333-7996-4cfe-82e7-b82e58403bbb",
-      "latitude": -34.921559,
-      "longitude": 138.605469,
-      "street": "Pulteney St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
-      "reported_at": "2026-03-01T05:06:31Z"
-    },
-    {
-      "id": "baa7c228-6e24-4827-be17-cb2d070022b8",
-      "latitude": -34.921226,
-      "longitude": 138.606817,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
-      "reported_at": "2026-03-01T05:06:45Z"
-    },
-    {
-      "id": "230c651c-fef8-4f18-934c-971cc6357f8f",
-      "latitude": -34.861967,
-      "longitude": 138.506587,
-      "street": "Old Port Rd",
-      "city": "Royal Park",
-      "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
-      "reported_at": "2026-03-01T05:07:10Z"
     },
     {
       "id": "3c416afe-6984-4951-8dc4-60ea33029c17",
@@ -77,8 +37,18 @@
       "street": "Esplanade",
       "city": "Semaphore South",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T05:09:58Z"
+    },
+    {
+      "id": "0c884431-8779-4d8a-980f-50eb64722a6d",
+      "latitude": -34.860673,
+      "longitude": 138.479102,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T05:43:43Z"
     },
     {
       "id": "d7c2f6d5-e146-425b-adf1-42e0b1031767",
@@ -87,18 +57,38 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T04:52:44Z"
     },
     {
-      "id": "46c178df-75ef-4911-8c95-2a7d2479682f",
-      "latitude": -34.859909,
-      "longitude": 138.478845,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
+      "id": "230c651c-fef8-4f18-934c-971cc6357f8f",
+      "latitude": -34.861967,
+      "longitude": 138.506587,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
-      "reported_at": "2026-03-01T04:54:54Z"
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T05:07:10Z"
+    },
+    {
+      "id": "86a1f59b-d309-4e3f-9c5f-4a474ac88cd3",
+      "latitude": -34.849898,
+      "longitude": 138.535943,
+      "street": "Eastern Pde",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T05:27:22Z"
+    },
+    {
+      "id": "da6ab83f-ddd0-4e82-a5ec-c2a77ab0d7e5",
+      "latitude": -34.921319,
+      "longitude": 138.602837,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T05:46:27Z"
     },
     {
       "id": "f2f9c1e6-135a-4bb3-b1b4-4c5ea547d0c8",
@@ -107,7 +97,7 @@
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T00:55:45Z"
     },
     {
@@ -117,8 +107,38 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-01T05:30:15Z",
+      "timestamp": "2026-03-01T06:00:15Z",
       "reported_at": "2026-03-01T02:21:02Z"
+    },
+    {
+      "id": "28082b01-409d-406a-ac05-e606eec8d4b1",
+      "latitude": -34.795969,
+      "longitude": 138.611454,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T03:01:09Z"
+    },
+    {
+      "id": "b7b7a292-4ba0-4b43-9ed0-ade4ea1a0a80",
+      "latitude": -34.68081,
+      "longitude": 138.69525,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T05:39:11Z"
+    },
+    {
+      "id": "bfb8b32a-8f60-46f7-8a7d-bf0d92d0905e",
+      "latitude": -35.006933,
+      "longitude": 138.777279,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-03-01T06:00:15Z",
+      "reported_at": "2026-03-01T05:37:42Z"
     }
   ]
 }
