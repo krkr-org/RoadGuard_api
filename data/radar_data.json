@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "6a39c0bb-d396-479d-a44c-4bd17707a002",
+      "latitude": -34.956531,
+      "longitude": 138.632389,
+      "street": "Fisher St",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T21:47:47Z"
+    },
+    {
       "id": "c52ce4dc-e9e0-41cc-8921-2b04444c95e1",
       "latitude": -34.935887,
       "longitude": 138.596065,
       "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
+      "timestamp": "2026-03-01T23:00:16Z",
       "reported_at": "2026-03-01T22:18:44Z"
     },
     {
@@ -17,48 +27,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
+      "timestamp": "2026-03-01T23:00:16Z",
       "reported_at": "2026-03-01T20:40:05Z"
     },
     {
-      "id": "6a39c0bb-d396-479d-a44c-4bd17707a002",
-      "latitude": -34.956531,
-      "longitude": 138.632389,
-      "street": "Fisher St",
-      "city": "Fullarton",
+      "id": "45b4e779-9255-475a-a4f1-b0c2a3641852",
+      "latitude": -34.999041,
+      "longitude": 138.593223,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T21:47:47Z"
-    },
-    {
-      "id": "0d13fbac-ede6-4fd7-bae8-2e21a16fe863",
-      "latitude": -34.783239,
-      "longitude": 138.606916,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T21:51:02Z"
-    },
-    {
-      "id": "b6e6adfb-0cec-4072-b0aa-6e64b9316d83",
-      "latitude": -34.843336,
-      "longitude": 138.514266,
-      "street": "St. Vincent St East",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T22:04:02Z"
-    },
-    {
-      "id": "a07ae4ba-579b-474a-b5e8-1a05ee536167",
-      "latitude": -34.925126,
-      "longitude": 138.615759,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T20:55:31Z"
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T22:41:07Z"
     },
     {
       "id": "96246d1e-fa40-4ee9-bb99-78a379457b25",
@@ -67,38 +47,28 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
+      "timestamp": "2026-03-01T23:00:16Z",
       "reported_at": "2026-03-01T20:55:28Z"
     },
     {
-      "id": "ada7d889-11e0-4705-a36f-c49a46a2d3f4",
-      "latitude": -34.839271,
-      "longitude": 138.675795,
-      "street": "Kelly Rd",
-      "city": "Modbury",
+      "id": "32211c1f-0e5d-4ed7-bc8c-70a459e8c63d",
+      "latitude": -34.745216,
+      "longitude": 138.613571,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T22:16:02Z"
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T22:33:42Z"
     },
     {
-      "id": "7e7d51cd-adec-4833-9bd0-d9139e3468a4",
-      "latitude": -34.824321,
-      "longitude": 138.625103,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T22:10:34Z"
-    },
-    {
-      "id": "54e98aec-0eb7-4649-a633-a401ca81ec3c",
-      "latitude": -34.939913,
-      "longitude": 138.584783,
+      "id": "feb3f2f8-649c-49f3-8e77-721408e3598b",
+      "latitude": -34.940357,
+      "longitude": 138.584594,
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T21:24:22Z"
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T22:26:57Z"
     },
     {
       "id": "5c6b3848-5f60-467b-b542-5c5acf807f01",
@@ -107,7 +77,7 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
+      "timestamp": "2026-03-01T23:00:16Z",
       "reported_at": "2026-03-01T20:46:56Z"
     },
     {
@@ -117,7 +87,7 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
+      "timestamp": "2026-03-01T23:00:16Z",
       "reported_at": "2026-03-01T20:36:36Z"
     },
     {
@@ -127,28 +97,38 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
+      "timestamp": "2026-03-01T23:00:16Z",
       "reported_at": "2026-03-01T21:37:39Z"
     },
     {
-      "id": "219108dc-c7e4-4c9e-b76c-6ccd017bb63a",
-      "latitude": -34.866405,
-      "longitude": 138.601419,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "17fc784f-2d33-4a52-8b2c-3dd1443f6b04",
+      "latitude": -34.838291,
+      "longitude": 138.677453,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T22:11:35Z"
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T22:25:54Z"
     },
     {
-      "id": "0a6e1774-e090-48d0-a2b1-f554c5d8b25f",
-      "latitude": -34.820992,
-      "longitude": 138.719372,
-      "street": "A10 - North East Rd",
-      "city": "Tea Tree Gully",
+      "id": "5166569d-47a9-4773-b1f6-302fc765f9a2",
+      "latitude": -34.696321,
+      "longitude": 138.570242,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-01T22:30:15Z",
-      "reported_at": "2026-03-01T22:07:07Z"
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T22:50:30Z"
+    },
+    {
+      "id": "ebf31723-a3f5-492e-9ca6-6bd104fc6deb",
+      "latitude": -35.07324,
+      "longitude": 138.543888,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-01T23:00:16Z",
+      "reported_at": "2026-03-01T22:38:28Z"
     }
   ]
 }
