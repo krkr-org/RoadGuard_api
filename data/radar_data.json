@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "d4754f6e-b032-4621-a34c-6e486099cb06",
-      "latitude": -34.796989,
-      "longitude": 138.649863,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T00:49:02Z"
-    },
-    {
       "id": "838b34a8-372c-49ee-a2c1-6796dd2e89bf",
       "latitude": -34.774143,
       "longitude": 138.59921,
       "street": "Whites Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
+      "timestamp": "2026-03-01T03:30:15Z",
       "reported_at": "2026-03-01T01:59:39Z"
     },
     {
@@ -27,28 +17,18 @@
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
+      "timestamp": "2026-03-01T03:30:15Z",
       "reported_at": "2026-02-28T23:01:07Z"
     },
     {
-      "id": "336c6726-8b1c-4538-afb7-a7a261f2e209",
-      "latitude": -34.906053,
-      "longitude": 138.65066,
-      "street": "Gage St",
-      "city": "Firle",
+      "id": "5e77ca7e-ca9e-4a62-aaae-f5618fa398ad",
+      "latitude": -34.785992,
+      "longitude": 138.658894,
+      "street": "Clayson Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T02:51:44Z"
-    },
-    {
-      "id": "2253ddb0-585e-418c-b442-2d90b581046d",
-      "latitude": -34.793828,
-      "longitude": 138.606972,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T00:20:42Z"
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T03:09:50Z"
     },
     {
       "id": "f2ace965-0ca4-4994-a8fc-51e71fa75314",
@@ -57,7 +37,7 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
+      "timestamp": "2026-03-01T03:30:15Z",
       "reported_at": "2026-03-01T01:52:28Z"
     },
     {
@@ -67,8 +47,38 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
+      "timestamp": "2026-03-01T03:30:15Z",
       "reported_at": "2026-02-28T23:33:55Z"
+    },
+    {
+      "id": "2253ddb0-585e-418c-b442-2d90b581046d",
+      "latitude": -34.793828,
+      "longitude": 138.606972,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T00:20:42Z"
+    },
+    {
+      "id": "9d9df640-980f-4955-a91d-65c4becac0c5",
+      "latitude": -34.870649,
+      "longitude": 138.540973,
+      "street": "Torrens Rd",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T00:00:40Z"
+    },
+    {
+      "id": "256c6904-059e-4e8b-b85e-6e400b31bd30",
+      "latitude": -34.847462,
+      "longitude": 138.694023,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T03:20:39Z"
     },
     {
       "id": "362fdc2d-3d3c-4405-b394-be594663050f",
@@ -77,18 +87,8 @@
       "street": "Bray St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
+      "timestamp": "2026-03-01T03:30:15Z",
       "reported_at": "2026-03-01T01:49:59Z"
-    },
-    {
-      "id": "7bd168af-f983-4683-9c70-091185b1fa05",
-      "latitude": -34.922036,
-      "longitude": 138.591114,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T02:36:35Z"
     },
     {
       "id": "867c1065-6743-4f9d-ba9c-2833417b21c1",
@@ -97,38 +97,48 @@
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
+      "timestamp": "2026-03-01T03:30:15Z",
       "reported_at": "2026-03-01T00:05:20Z"
     },
     {
-      "id": "e2c2bb34-b096-428b-9516-f58a93e2811f",
-      "latitude": -34.839745,
-      "longitude": 138.675734,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
+      "id": "686db2fd-9c98-4dab-9ce3-0dfc67bd5e24",
+      "latitude": -34.844407,
+      "longitude": 138.603084,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T02:29:02Z"
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T03:09:44Z"
     },
     {
-      "id": "23697680-40e9-4f27-9b76-389c925ac45d",
-      "latitude": -34.839848,
-      "longitude": 138.593142,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
+      "id": "132c0c48-5302-4049-9222-880b608b1524",
+      "latitude": -34.883375,
+      "longitude": 138.660391,
+      "street": "A11 - Lower North East Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T00:24:24Z"
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T03:14:14Z"
     },
     {
-      "id": "3288dbd6-d4a6-4aa4-a8be-5a72655cb7b6",
-      "latitude": -34.888466,
-      "longitude": 138.628336,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
+      "id": "7075f00e-b386-4731-bbe4-245b23a7373f",
+      "latitude": -34.834042,
+      "longitude": 138.562686,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-01T03:00:16Z",
-      "reported_at": "2026-03-01T02:54:32Z"
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T03:14:09Z"
+    },
+    {
+      "id": "e7198b0f-4a77-4af2-aa7a-c3254a4b8e2d",
+      "latitude": -35.089046,
+      "longitude": 138.530935,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:30:15Z",
+      "reported_at": "2026-03-01T03:17:24Z"
     }
   ]
 }
