@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "92f816db-c868-4b26-be4e-ac812956e040",
+      "latitude": -34.854,
+      "longitude": 138.483556,
+      "street": "Beachway Av",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2026-03-01T07:30:16Z",
+      "reported_at": "2026-03-01T06:00:38Z"
+    },
+    {
       "id": "5d39439f-1032-4e9e-a91f-f7cc6cd46ec2",
       "latitude": -34.874045,
       "longitude": 138.682965,
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
+      "timestamp": "2026-03-01T07:30:16Z",
       "reported_at": "2026-03-01T04:05:38Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
+      "timestamp": "2026-03-01T07:30:16Z",
       "reported_at": "2026-03-01T05:02:27Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Military Rd",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
+      "timestamp": "2026-03-01T07:30:16Z",
       "reported_at": "2026-03-01T05:02:47Z"
     },
     {
@@ -37,18 +47,18 @@
       "street": "Esplanade",
       "city": "Semaphore South",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
+      "timestamp": "2026-03-01T07:30:16Z",
       "reported_at": "2026-03-01T05:09:58Z"
     },
     {
-      "id": "46c178df-75ef-4911-8c95-2a7d2479682f",
-      "latitude": -34.859909,
-      "longitude": 138.478845,
+      "id": "0c884431-8779-4d8a-980f-50eb64722a6d",
+      "latitude": -34.860673,
+      "longitude": 138.479102,
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T04:54:54Z"
+      "timestamp": "2026-03-01T07:30:16Z",
+      "reported_at": "2026-03-01T05:43:43Z"
     },
     {
       "id": "66e4aa29-4e2e-4b5d-9e3d-2eb93f0f2e60",
@@ -57,38 +67,38 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
+      "timestamp": "2026-03-01T07:30:16Z",
       "reported_at": "2026-03-01T05:56:16Z"
     },
     {
-      "id": "9daa62fb-980f-43da-9170-774b279213b0",
-      "latitude": -34.866731,
-      "longitude": 138.592644,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
+      "id": "b17825be-f841-4f9d-8276-a72e5c9dba77",
+      "latitude": -34.851247,
+      "longitude": 138.487987,
+      "street": "Bower Rd",
+      "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T06:39:24Z"
+      "timestamp": "2026-03-01T07:30:16Z",
+      "reported_at": "2026-03-01T07:08:27Z"
     },
     {
-      "id": "da6ab83f-ddd0-4e82-a5ec-c2a77ab0d7e5",
-      "latitude": -34.921319,
-      "longitude": 138.602837,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "690ed356-1dce-411d-976f-c284808836b2",
+      "latitude": -35.018826,
+      "longitude": 138.528979,
+      "street": "Sturt Rd",
+      "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T05:46:27Z"
+      "timestamp": "2026-03-01T07:30:16Z",
+      "reported_at": "2026-03-01T07:00:56Z"
     },
     {
-      "id": "0c829f4a-c98a-43dc-b0ec-5b19ecacb570",
-      "latitude": -34.868301,
-      "longitude": 138.664245,
-      "street": "Darley Rd",
-      "city": "Paradise",
+      "id": "fc2a31ac-1ba7-48a4-9c5c-4477eba196fd",
+      "latitude": -35.129011,
+      "longitude": 138.536606,
+      "street": "States Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T06:43:02Z"
+      "timestamp": "2026-03-01T07:30:16Z",
+      "reported_at": "2026-03-01T07:02:30Z"
     },
     {
       "id": "f2f9c1e6-135a-4bb3-b1b4-4c5ea547d0c8",
@@ -97,48 +107,8 @@
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
+      "timestamp": "2026-03-01T07:30:16Z",
       "reported_at": "2026-03-01T00:55:45Z"
-    },
-    {
-      "id": "7d74d224-5b39-4163-86ca-72ff2ad54c1c",
-      "latitude": -34.79431,
-      "longitude": 138.612785,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T06:39:06Z"
-    },
-    {
-      "id": "28082b01-409d-406a-ac05-e606eec8d4b1",
-      "latitude": -34.795969,
-      "longitude": 138.611454,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
-      "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T03:01:09Z"
-    },
-    {
-      "id": "93bb3393-ebca-44bf-987e-aa4ca0dfddac",
-      "latitude": -34.702144,
-      "longitude": 138.574099,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T06:47:48Z"
-    },
-    {
-      "id": "929f2da2-87b0-425a-81c7-be7c36520218",
-      "latitude": -34.810618,
-      "longitude": 138.565484,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-03-01T07:00:17Z",
-      "reported_at": "2026-03-01T06:32:48Z"
     }
   ]
 }
