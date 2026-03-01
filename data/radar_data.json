@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "d4754f6e-b032-4621-a34c-6e486099cb06",
+      "latitude": -34.796989,
+      "longitude": 138.649863,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T00:49:02Z"
+    },
+    {
+      "id": "838b34a8-372c-49ee-a2c1-6796dd2e89bf",
+      "latitude": -34.774143,
+      "longitude": 138.59921,
+      "street": "Whites Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T01:59:39Z"
+    },
+    {
       "id": "13e94b7a-d94f-4b4c-8dad-22538e27f607",
       "latitude": -34.817769,
       "longitude": 138.609813,
       "street": "Mawson Lakes Bvd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
+      "timestamp": "2026-03-01T03:00:16Z",
       "reported_at": "2026-02-28T23:01:07Z"
     },
     {
-      "id": "d39708df-704e-43e5-85fe-221429b6d07d",
-      "latitude": -34.775783,
-      "longitude": 138.598341,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
+      "id": "336c6726-8b1c-4538-afb7-a7a261f2e209",
+      "latitude": -34.906053,
+      "longitude": 138.65066,
+      "street": "Gage St",
+      "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-03-01T00:08:42Z"
-    },
-    {
-      "id": "f0f08d61-6374-4931-b19e-abe107acbcbb",
-      "latitude": -34.735934,
-      "longitude": 138.643526,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-02-28T23:33:55Z"
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T02:51:44Z"
     },
     {
       "id": "2253ddb0-585e-418c-b442-2d90b581046d",
@@ -37,8 +47,28 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
+      "timestamp": "2026-03-01T03:00:16Z",
       "reported_at": "2026-03-01T00:20:42Z"
+    },
+    {
+      "id": "f2ace965-0ca4-4994-a8fc-51e71fa75314",
+      "latitude": -34.776369,
+      "longitude": 138.599283,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T01:52:28Z"
+    },
+    {
+      "id": "f0f08d61-6374-4931-b19e-abe107acbcbb",
+      "latitude": -34.735934,
+      "longitude": 138.643526,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-02-28T23:33:55Z"
     },
     {
       "id": "362fdc2d-3d3c-4405-b394-be594663050f",
@@ -47,48 +77,28 @@
       "street": "Bray St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
+      "timestamp": "2026-03-01T03:00:16Z",
       "reported_at": "2026-03-01T01:49:59Z"
     },
     {
-      "id": "7e0946da-210b-4d8c-a124-b33fa09e1416",
-      "latitude": -34.75189,
-      "longitude": 138.634821,
+      "id": "7bd168af-f983-4683-9c70-091185b1fa05",
+      "latitude": -34.922036,
+      "longitude": 138.591114,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T02:36:35Z"
+    },
+    {
+      "id": "867c1065-6743-4f9d-ba9c-2833417b21c1",
+      "latitude": -34.752249,
+      "longitude": 138.634487,
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-02-28T23:37:43Z"
-    },
-    {
-      "id": "41497671-3c13-4042-ad0f-6032d14d9b31",
-      "latitude": -34.748197,
-      "longitude": 138.639873,
-      "street": "Commercial Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-03-01T01:55:21Z"
-    },
-    {
-      "id": "ef59ef66-a758-45d3-ac42-949df51f04cf",
-      "latitude": -34.841463,
-      "longitude": 138.591162,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-02-28T21:16:09Z"
-    },
-    {
-      "id": "a1cd642f-8935-40b4-b484-6b299dccf2e5",
-      "latitude": -34.813517,
-      "longitude": 138.597739,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-03-01T02:21:38Z"
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T00:05:20Z"
     },
     {
       "id": "e2c2bb34-b096-428b-9516-f58a93e2811f",
@@ -97,28 +107,28 @@
       "street": "A10 - North East Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
+      "timestamp": "2026-03-01T03:00:16Z",
       "reported_at": "2026-03-01T02:29:02Z"
     },
     {
-      "id": "11708f8f-a377-4cb8-9dd3-e0f92da87066",
-      "latitude": -35.001806,
-      "longitude": 138.632662,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Belair",
+      "id": "23697680-40e9-4f27-9b76-389c925ac45d",
+      "latitude": -34.839848,
+      "longitude": 138.593142,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-03-01T02:12:39Z"
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T00:24:24Z"
     },
     {
-      "id": "60cc1fe7-0c14-42c1-8cd1-82f1caba0106",
-      "latitude": -35.089389,
-      "longitude": 138.537885,
-      "street": "A13 - Main South Rd",
-      "city": "Old Reynella",
+      "id": "3288dbd6-d4a6-4aa4-a8be-5a72655cb7b6",
+      "latitude": -34.888466,
+      "longitude": 138.628336,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T02:30:17Z",
-      "reported_at": "2026-03-01T02:25:35Z"
+      "timestamp": "2026-03-01T03:00:16Z",
+      "reported_at": "2026-03-01T02:54:32Z"
     }
   ]
 }
