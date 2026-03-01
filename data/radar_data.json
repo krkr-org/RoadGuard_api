@@ -1,34 +1,34 @@
 {
   "radars": [
     {
+      "id": "5d39439f-1032-4e9e-a91f-f7cc6cd46ec2",
+      "latitude": -34.874045,
+      "longitude": 138.682965,
+      "street": "Silkes Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-01T04:30:15Z",
+      "reported_at": "2026-03-01T04:05:38Z"
+    },
+    {
       "id": "838b34a8-372c-49ee-a2c1-6796dd2e89bf",
       "latitude": -34.774143,
       "longitude": 138.59921,
       "street": "Whites Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
+      "timestamp": "2026-03-01T04:30:15Z",
       "reported_at": "2026-03-01T01:59:39Z"
     },
     {
-      "id": "2253ddb0-585e-418c-b442-2d90b581046d",
-      "latitude": -34.793828,
-      "longitude": 138.606972,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
-      "reported_at": "2026-03-01T00:20:42Z"
-    },
-    {
-      "id": "d39708df-704e-43e5-85fe-221429b6d07d",
-      "latitude": -34.775783,
-      "longitude": 138.598341,
+      "id": "f2ace965-0ca4-4994-a8fc-51e71fa75314",
+      "latitude": -34.776369,
+      "longitude": 138.599283,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
-      "reported_at": "2026-03-01T00:08:42Z"
+      "timestamp": "2026-03-01T04:30:15Z",
+      "reported_at": "2026-03-01T01:52:28Z"
     },
     {
       "id": "9d9df640-980f-4955-a91d-65c4becac0c5",
@@ -37,7 +37,7 @@
       "street": "Torrens Rd",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
+      "timestamp": "2026-03-01T04:30:15Z",
       "reported_at": "2026-03-01T00:00:40Z"
     },
     {
@@ -47,18 +47,8 @@
       "street": "Bray St",
       "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
+      "timestamp": "2026-03-01T04:30:15Z",
       "reported_at": "2026-03-01T01:49:59Z"
-    },
-    {
-      "id": "867c1065-6743-4f9d-ba9c-2833417b21c1",
-      "latitude": -34.752249,
-      "longitude": 138.634487,
-      "street": "Bagster Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
-      "reported_at": "2026-03-01T00:05:20Z"
     },
     {
       "id": "ab4e5851-d597-4f51-89d9-913378f13a2d",
@@ -67,18 +57,18 @@
       "street": "Waterloo Corner Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
+      "timestamp": "2026-03-01T04:30:15Z",
       "reported_at": "2026-03-01T03:45:25Z"
     },
     {
-      "id": "e0fa4fe3-078c-4d50-badc-e40cb7419d93",
-      "latitude": -35.111474,
-      "longitude": 138.493288,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
+      "id": "f2f9c1e6-135a-4bb3-b1b4-4c5ea547d0c8",
+      "latitude": -34.751997,
+      "longitude": 138.634717,
+      "street": "Bagster Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
-      "reported_at": "2026-03-01T03:29:27Z"
+      "timestamp": "2026-03-01T04:30:15Z",
+      "reported_at": "2026-03-01T00:55:45Z"
     },
     {
       "id": "a23d47f2-05ff-48c6-a579-b165bb4033b8",
@@ -87,18 +77,8 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
+      "timestamp": "2026-03-01T04:30:15Z",
       "reported_at": "2026-03-01T03:53:26Z"
-    },
-    {
-      "id": "686db2fd-9c98-4dab-9ce3-0dfc67bd5e24",
-      "latitude": -34.844407,
-      "longitude": 138.603084,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-01T04:00:16Z",
-      "reported_at": "2026-03-01T03:09:44Z"
     }
   ]
 }
