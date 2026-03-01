@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "88d205f7-2e7a-46f5-8d95-ac786f1d0525",
-      "latitude": -34.930636,
-      "longitude": 138.589672,
-      "street": "Gouger St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T12:30:14Z",
-      "reported_at": "2026-03-01T11:59:51Z"
-    },
-    {
       "id": "e42d7087-ff0f-4cee-8a2d-af27703c6752",
       "latitude": -34.862763,
       "longitude": 138.479441,
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T12:30:14Z",
+      "timestamp": "2026-03-01T13:00:17Z",
       "reported_at": "2026-03-01T09:12:07Z"
+    },
+    {
+      "id": "1f0b7926-ab64-48be-ae4b-f96a1917324a",
+      "latitude": -34.904003,
+      "longitude": 138.595109,
+      "street": "O'Connell St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T13:00:17Z",
+      "reported_at": "2026-03-01T12:30:41Z"
     },
     {
       "id": "d7520a7a-88ed-4cf9-a5e2-c399229488aa",
@@ -27,7 +27,7 @@
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-01T12:30:14Z",
+      "timestamp": "2026-03-01T13:00:17Z",
       "reported_at": "2026-03-01T10:47:50Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T12:30:14Z",
+      "timestamp": "2026-03-01T13:00:17Z",
       "reported_at": "2026-03-01T12:22:05Z"
     }
   ]
