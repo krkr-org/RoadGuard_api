@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "8f336083-299a-4ceb-8656-34ea117f669b",
+      "latitude": -34.935917,
+      "longitude": 138.595473,
+      "street": "South Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T23:30:15Z",
+      "reported_at": "2026-03-01T21:03:45Z"
+    },
+    {
+      "id": "c831e5e0-7be6-4e66-8277-67060d9375a4",
+      "latitude": -34.914262,
+      "longitude": 138.585264,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-01T23:30:15Z",
+      "reported_at": "2026-03-01T20:42:47Z"
+    },
+    {
       "id": "6a39c0bb-d396-479d-a44c-4bd17707a002",
       "latitude": -34.956531,
       "longitude": 138.632389,
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
+      "timestamp": "2026-03-01T23:30:15Z",
       "reported_at": "2026-03-01T21:47:47Z"
-    },
-    {
-      "id": "c52ce4dc-e9e0-41cc-8921-2b04444c95e1",
-      "latitude": -34.935887,
-      "longitude": 138.596065,
-      "street": "South Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T22:18:44Z"
-    },
-    {
-      "id": "e0cec759-0387-43e0-9549-19c713646e18",
-      "latitude": -34.914995,
-      "longitude": 138.586417,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T20:40:05Z"
-    },
-    {
-      "id": "45b4e779-9255-475a-a4f1-b0c2a3641852",
-      "latitude": -34.999041,
-      "longitude": 138.593223,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T22:41:07Z"
     },
     {
       "id": "96246d1e-fa40-4ee9-bb99-78a379457b25",
@@ -47,18 +37,8 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
+      "timestamp": "2026-03-01T23:30:15Z",
       "reported_at": "2026-03-01T20:55:28Z"
-    },
-    {
-      "id": "32211c1f-0e5d-4ed7-bc8c-70a459e8c63d",
-      "latitude": -34.745216,
-      "longitude": 138.613571,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T22:33:42Z"
     },
     {
       "id": "feb3f2f8-649c-49f3-8e77-721408e3598b",
@@ -67,7 +47,7 @@
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
+      "timestamp": "2026-03-01T23:30:15Z",
       "reported_at": "2026-03-01T22:26:57Z"
     },
     {
@@ -77,18 +57,18 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
+      "timestamp": "2026-03-01T23:30:15Z",
       "reported_at": "2026-03-01T20:46:56Z"
     },
     {
-      "id": "789f1a1f-96ce-465c-b07b-fa0ec8e49760",
-      "latitude": -34.900712,
-      "longitude": 138.604505,
+      "id": "0538932b-c685-479c-bb06-acf936ee05b8",
+      "latitude": -34.900521,
+      "longitude": 138.603817,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T20:36:36Z"
+      "timestamp": "2026-03-01T23:30:15Z",
+      "reported_at": "2026-03-01T20:49:33Z"
     },
     {
       "id": "75b8e10f-b323-4b2d-aa83-b4b327d68d67",
@@ -97,38 +77,18 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
+      "timestamp": "2026-03-01T23:30:15Z",
       "reported_at": "2026-03-01T21:37:39Z"
     },
     {
-      "id": "17fc784f-2d33-4a52-8b2c-3dd1443f6b04",
-      "latitude": -34.838291,
-      "longitude": 138.677453,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "f85589e7-a62d-4824-be84-cee29d557e9a",
+      "latitude": -34.794034,
+      "longitude": 138.650938,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T22:25:54Z"
-    },
-    {
-      "id": "5166569d-47a9-4773-b1f6-302fc765f9a2",
-      "latitude": -34.696321,
-      "longitude": 138.570242,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T22:50:30Z"
-    },
-    {
-      "id": "ebf31723-a3f5-492e-9ca6-6bd104fc6deb",
-      "latitude": -35.07324,
-      "longitude": 138.543888,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:00:16Z",
-      "reported_at": "2026-03-01T22:38:28Z"
+      "timestamp": "2026-03-01T23:30:15Z",
+      "reported_at": "2026-03-01T23:02:13Z"
     }
   ]
 }
