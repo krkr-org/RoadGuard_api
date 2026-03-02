@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "6f9b39f3-5e7c-435d-a77d-414ae21d202a",
-      "latitude": -34.81465,
-      "longitude": 138.622797,
-      "street": "Mawson Lakes Bvd",
-      "city": "Mawson Lakes",
+      "id": "ad394c23-ecbf-4069-933f-ca46e26194cd",
+      "latitude": -34.695991,
+      "longitude": 138.666202,
+      "street": "Fordingbridge Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
-      "reported_at": "2026-03-02T08:29:31Z"
+      "timestamp": "2026-03-02T09:30:16Z",
+      "reported_at": "2026-03-02T09:01:09Z"
     },
     {
       "id": "dbec4fc2-bc50-42dc-ad0e-47e83a7a9591",
@@ -17,18 +17,8 @@
       "street": "Burton Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
+      "timestamp": "2026-03-02T09:30:16Z",
       "reported_at": "2026-03-02T08:44:24Z"
-    },
-    {
-      "id": "e2f77142-378f-4787-9d78-c36f714942ac",
-      "latitude": -34.92307,
-      "longitude": 138.593491,
-      "street": "Morphett St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
-      "reported_at": "2026-03-02T08:40:06Z"
     },
     {
       "id": "b37f1715-3d46-4b69-bb2c-391233073d2c",
@@ -37,48 +27,58 @@
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
+      "timestamp": "2026-03-02T09:30:16Z",
       "reported_at": "2026-03-02T05:31:16Z"
     },
     {
-      "id": "f2e84593-94af-4688-9329-857ee8283ed4",
-      "latitude": -34.693375,
-      "longitude": 138.64653,
-      "street": "Womma Rd",
-      "city": "Eyre",
+      "id": "4dab29c5-ba62-4c87-929b-9b82e36a432f",
+      "latitude": -35.140589,
+      "longitude": 138.524787,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
-      "reported_at": "2026-03-02T08:22:21Z"
+      "timestamp": "2026-03-02T09:30:16Z",
+      "reported_at": "2026-03-02T09:04:19Z"
     },
     {
-      "id": "e062cfea-7228-4e05-909f-239c02f4d5b5",
-      "latitude": -34.899069,
-      "longitude": 138.591608,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
-      "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
-      "reported_at": "2026-03-02T08:46:05Z"
-    },
-    {
-      "id": "6bfb00b6-b1a7-4335-a11a-67ba29145cb7",
-      "latitude": -34.847361,
-      "longitude": 138.617771,
+      "id": "4e2226f2-fd43-488a-ac40-fbcec43a93a9",
+      "latitude": -34.846104,
+      "longitude": 138.650067,
       "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
-      "reported_at": "2026-03-02T08:24:33Z"
+      "timestamp": "2026-03-02T09:30:16Z",
+      "reported_at": "2026-03-02T08:21:09Z"
     },
     {
-      "id": "21e9a283-a0df-4db2-afd8-d4aa151f6e37",
-      "latitude": -34.816432,
-      "longitude": 138.625039,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "189246cd-56a3-4d7d-9204-61fc762727a6",
+      "latitude": -34.827857,
+      "longitude": 138.694143,
+      "street": "A10 - North East Rd",
+      "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-03-02T09:00:14Z",
-      "reported_at": "2026-03-02T08:44:50Z"
+      "timestamp": "2026-03-02T09:30:16Z",
+      "reported_at": "2026-03-02T09:15:27Z"
+    },
+    {
+      "id": "799c518b-99dd-4935-815d-495bbec82f26",
+      "latitude": -34.841016,
+      "longitude": 138.599479,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-02T09:30:16Z",
+      "reported_at": "2026-03-02T09:09:31Z"
+    },
+    {
+      "id": "1f19ff3d-4cef-45b7-a81f-631dca97b424",
+      "latitude": -34.856815,
+      "longitude": 138.60074,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-02T09:30:16Z",
+      "reported_at": "2026-03-02T09:15:35Z"
     }
   ]
 }
