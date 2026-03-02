@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "f8d9b7d7-f049-4c88-99bf-e04c6d620292",
+      "latitude": -34.665411,
+      "longitude": 138.675831,
+      "street": "Stebonheath Rd",
+      "city": "Munno Para West",
+      "type": "mobile",
+      "timestamp": "2026-03-02T11:30:15Z",
+      "reported_at": "2026-03-02T10:37:27Z"
+    },
+    {
       "id": "28b68582-0388-4d19-9c7f-ca8cdeeb647f",
       "latitude": -35.108618,
       "longitude": 138.624915,
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
+      "timestamp": "2026-03-02T11:30:15Z",
       "reported_at": "2026-03-02T06:38:49Z"
-    },
-    {
-      "id": "4d611b2d-2911-4329-a0bb-71fcc4aea6e9",
-      "latitude": -34.929293,
-      "longitude": 138.588186,
-      "street": "Grote St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
-      "reported_at": "2026-03-02T10:27:26Z"
-    },
-    {
-      "id": "a00f74b5-db6b-4056-91bc-d9c194b97759",
-      "latitude": -34.834322,
-      "longitude": 138.680439,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
-      "reported_at": "2026-03-02T10:40:03Z"
     },
     {
       "id": "eadcd72c-8037-4e95-949f-efe4b1d4166c",
@@ -37,28 +27,18 @@
       "street": "A7 - Port Rd",
       "city": "Allenby Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
+      "timestamp": "2026-03-02T11:30:15Z",
       "reported_at": "2026-03-02T09:32:55Z"
     },
     {
-      "id": "312f4b84-0d1f-493b-9aa5-f113a46b563d",
-      "latitude": -34.909538,
-      "longitude": 138.577059,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Southwark",
+      "id": "c04200c6-7576-49b2-87fa-84c077380d6a",
+      "latitude": -34.881613,
+      "longitude": 138.5846,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
-      "reported_at": "2026-03-02T10:32:30Z"
-    },
-    {
-      "id": "bfd77636-0837-4467-899f-46500f25ab98",
-      "latitude": -34.995118,
-      "longitude": 138.55717,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
-      "reported_at": "2026-03-02T10:45:15Z"
+      "timestamp": "2026-03-02T11:30:15Z",
+      "reported_at": "2026-03-02T11:09:07Z"
     },
     {
       "id": "4e2226f2-fd43-488a-ac40-fbcec43a93a9",
@@ -67,8 +47,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-02T11:00:18Z",
+      "timestamp": "2026-03-02T11:30:15Z",
       "reported_at": "2026-03-02T08:21:09Z"
+    },
+    {
+      "id": "3e0de110-d4bf-43dc-9ab6-ca70d4e22069",
+      "latitude": -34.838364,
+      "longitude": 138.522399,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-03-02T11:30:15Z",
+      "reported_at": "2026-03-02T11:13:51Z"
+    },
+    {
+      "id": "c2dfa649-9d1a-4be9-b73f-958b84ecfc8c",
+      "latitude": -34.822413,
+      "longitude": 138.587339,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-02T11:30:15Z",
+      "reported_at": "2026-03-02T11:18:24Z"
     }
   ]
 }
