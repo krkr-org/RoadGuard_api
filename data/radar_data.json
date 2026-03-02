@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "4ee5a190-b6d7-4b3f-a0f4-19892a9136f3",
+      "latitude": -34.99898,
+      "longitude": 138.621187,
+      "street": "Gloucester Av",
+      "city": "Belair",
+      "type": "mobile",
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-02T01:50:02Z"
+    },
+    {
+      "id": "885f9e18-0cf7-46d3-ba99-51b98be42c24",
+      "latitude": -34.935847,
+      "longitude": 138.596816,
+      "street": "South Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-02T01:13:02Z"
+    },
+    {
+      "id": "e0cec759-0387-43e0-9549-19c713646e18",
+      "latitude": -34.914995,
+      "longitude": 138.586417,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-01T20:40:05Z"
+    },
+    {
       "id": "6a39c0bb-d396-479d-a44c-4bd17707a002",
       "latitude": -34.956531,
       "longitude": 138.632389,
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
+      "timestamp": "2026-03-02T02:01:12Z",
       "reported_at": "2026-03-01T21:47:47Z"
     },
     {
@@ -17,28 +47,28 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
+      "timestamp": "2026-03-02T02:01:12Z",
       "reported_at": "2026-03-01T23:29:27Z"
     },
     {
-      "id": "320fe034-2a76-4a86-b4f3-957cb4de5a6b",
-      "latitude": -35.10642,
-      "longitude": 138.521835,
-      "street": "Unknown Street",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-02T01:02:25Z"
-    },
-    {
-      "id": "ce20b6b6-1601-4a71-8c14-3a26ca9c6454",
-      "latitude": -35.105664,
-      "longitude": 138.513304,
+      "id": "c05c2946-a0ad-4d93-a6f3-f41c0d607ee6",
+      "latitude": -35.105644,
+      "longitude": 138.513741,
       "street": "Sherriffs Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-02T01:11:48Z"
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-02T01:26:48Z"
+    },
+    {
+      "id": "d71af624-7cb8-4d66-8957-5e164ecfed8a",
+      "latitude": -35.10555,
+      "longitude": 138.515743,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-02T01:26:53Z"
     },
     {
       "id": "96246d1e-fa40-4ee9-bb99-78a379457b25",
@@ -47,7 +77,7 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
+      "timestamp": "2026-03-02T02:01:12Z",
       "reported_at": "2026-03-01T20:55:28Z"
     },
     {
@@ -57,18 +87,18 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
+      "timestamp": "2026-03-02T02:01:12Z",
       "reported_at": "2026-03-01T23:54:22Z"
     },
     {
-      "id": "18ae201e-7d16-4021-8edd-3a0e04fa08fa",
-      "latitude": -34.752527,
-      "longitude": 138.625551,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "aa57dc08-94fa-43e4-bb7c-121685e5a2ef",
+      "latitude": -34.906169,
+      "longitude": 138.514729,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-02T00:58:52Z"
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-02T01:40:55Z"
     },
     {
       "id": "cc878d4d-e005-4b9f-b07c-4e260404afe3",
@@ -77,68 +107,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
+      "timestamp": "2026-03-02T02:01:12Z",
       "reported_at": "2026-03-01T23:21:39Z"
     },
     {
-      "id": "c8d70957-195c-40a6-aa8a-9b3b6d76b7b2",
-      "latitude": -34.955005,
-      "longitude": 138.568563,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-02T01:10:16Z"
-    },
-    {
-      "id": "e6bc6886-ced3-4d58-b2da-4a71579a3506",
-      "latitude": -34.964413,
-      "longitude": 138.629662,
+      "id": "a00b663b-7c33-4357-a2fa-c35aeced8709",
+      "latitude": -34.964381,
+      "longitude": 138.629069,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-01T22:11:41Z"
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-01T22:29:01Z"
     },
     {
-      "id": "b293a293-bf87-4d4e-bb0f-fc45caad8b44",
-      "latitude": -34.901293,
-      "longitude": 138.606945,
+      "id": "0538932b-c685-479c-bb06-acf936ee05b8",
+      "latitude": -34.900521,
+      "longitude": 138.603817,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-01T23:34:18Z"
-    },
-    {
-      "id": "75b8e10f-b323-4b2d-aa83-b4b327d68d67",
-      "latitude": -34.912955,
-      "longitude": 138.685624,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-01T21:37:39Z"
-    },
-    {
-      "id": "b98f0aa4-6f81-4c8e-a350-d403050111ec",
-      "latitude": -34.876308,
-      "longitude": 138.674108,
-      "street": "B31 - Gorge Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-02T00:46:05Z"
-    },
-    {
-      "id": "4f599297-789f-46d9-a9b7-75385370412e",
-      "latitude": -34.964923,
-      "longitude": 138.646992,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-03-02T01:30:16Z",
-      "reported_at": "2026-03-02T01:28:04Z"
+      "timestamp": "2026-03-02T02:01:12Z",
+      "reported_at": "2026-03-01T20:49:33Z"
     }
   ]
 }
