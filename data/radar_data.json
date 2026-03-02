@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "e0cec759-0387-43e0-9549-19c713646e18",
+      "latitude": -34.914995,
+      "longitude": 138.586417,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-02T00:00:17Z",
+      "reported_at": "2026-03-01T20:40:05Z"
+    },
+    {
       "id": "8f336083-299a-4ceb-8656-34ea117f669b",
       "latitude": -34.935917,
       "longitude": 138.595473,
       "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
+      "timestamp": "2026-03-02T00:00:17Z",
       "reported_at": "2026-03-01T21:03:45Z"
     },
     {
-      "id": "c831e5e0-7be6-4e66-8277-67060d9375a4",
-      "latitude": -34.914262,
-      "longitude": 138.585264,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
+      "id": "c2522b48-7e6b-48f3-84b3-a3a2b9e80363",
+      "latitude": -34.932185,
+      "longitude": 138.627709,
+      "street": "Grant Av",
+      "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
-      "reported_at": "2026-03-01T20:42:47Z"
+      "timestamp": "2026-03-02T00:00:17Z",
+      "reported_at": "2026-03-01T23:29:27Z"
     },
     {
       "id": "6a39c0bb-d396-479d-a44c-4bd17707a002",
@@ -27,7 +37,7 @@
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
+      "timestamp": "2026-03-02T00:00:17Z",
       "reported_at": "2026-03-01T21:47:47Z"
     },
     {
@@ -37,38 +47,38 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
+      "timestamp": "2026-03-02T00:00:17Z",
       "reported_at": "2026-03-01T20:55:28Z"
     },
     {
-      "id": "feb3f2f8-649c-49f3-8e77-721408e3598b",
-      "latitude": -34.940357,
-      "longitude": 138.584594,
+      "id": "fe9be20d-2c34-413e-b37e-52660e9fa482",
+      "latitude": -34.780583,
+      "longitude": 138.496677,
+      "street": "A16 - Victoria Rd",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2026-03-02T00:00:17Z",
+      "reported_at": "2026-03-01T23:33:20Z"
+    },
+    {
+      "id": "d0f4e2b0-bf40-4778-81d2-491c229ba4cd",
+      "latitude": -34.939435,
+      "longitude": 138.585207,
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
-      "reported_at": "2026-03-01T22:26:57Z"
+      "timestamp": "2026-03-02T00:00:17Z",
+      "reported_at": "2026-03-01T21:14:24Z"
     },
     {
-      "id": "5c6b3848-5f60-467b-b542-5c5acf807f01",
-      "latitude": -34.964324,
-      "longitude": 138.630337,
+      "id": "e6bc6886-ced3-4d58-b2da-4a71579a3506",
+      "latitude": -34.964413,
+      "longitude": 138.629662,
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
-      "reported_at": "2026-03-01T20:46:56Z"
-    },
-    {
-      "id": "0538932b-c685-479c-bb06-acf936ee05b8",
-      "latitude": -34.900521,
-      "longitude": 138.603817,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
-      "reported_at": "2026-03-01T20:49:33Z"
+      "timestamp": "2026-03-02T00:00:17Z",
+      "reported_at": "2026-03-01T22:11:41Z"
     },
     {
       "id": "75b8e10f-b323-4b2d-aa83-b4b327d68d67",
@@ -77,18 +87,8 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
+      "timestamp": "2026-03-02T00:00:17Z",
       "reported_at": "2026-03-01T21:37:39Z"
-    },
-    {
-      "id": "f85589e7-a62d-4824-be84-cee29d557e9a",
-      "latitude": -34.794034,
-      "longitude": 138.650938,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-01T23:30:15Z",
-      "reported_at": "2026-03-01T23:02:13Z"
     }
   ]
 }
