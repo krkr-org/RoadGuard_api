@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "6f9b39f3-5e7c-435d-a77d-414ae21d202a",
+      "latitude": -34.81465,
+      "longitude": 138.622797,
+      "street": "Mawson Lakes Bvd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-02T09:00:14Z",
+      "reported_at": "2026-03-02T08:29:31Z"
+    },
+    {
+      "id": "dbec4fc2-bc50-42dc-ad0e-47e83a7a9591",
+      "latitude": -34.760841,
+      "longitude": 138.617668,
+      "street": "Burton Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-03-02T09:00:14Z",
+      "reported_at": "2026-03-02T08:44:24Z"
+    },
+    {
+      "id": "e2f77142-378f-4787-9d78-c36f714942ac",
+      "latitude": -34.92307,
+      "longitude": 138.593491,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-02T09:00:14Z",
+      "reported_at": "2026-03-02T08:40:06Z"
+    },
+    {
       "id": "b37f1715-3d46-4b69-bb2c-391233073d2c",
       "latitude": -35.10836,
       "longitude": 138.62689,
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-03-02T08:30:14Z",
+      "timestamp": "2026-03-02T09:00:14Z",
       "reported_at": "2026-03-02T05:31:16Z"
     },
     {
-      "id": "54c217b0-76f4-4aed-9301-3980efcb2750",
-      "latitude": -35.017598,
-      "longitude": 138.550425,
-      "street": "Sturt Rd",
-      "city": "Sturt",
+      "id": "f2e84593-94af-4688-9329-857ee8283ed4",
+      "latitude": -34.693375,
+      "longitude": 138.64653,
+      "street": "Womma Rd",
+      "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2026-03-02T08:30:14Z",
-      "reported_at": "2026-03-02T08:09:56Z"
+      "timestamp": "2026-03-02T09:00:14Z",
+      "reported_at": "2026-03-02T08:22:21Z"
+    },
+    {
+      "id": "e062cfea-7228-4e05-909f-239c02f4d5b5",
+      "latitude": -34.899069,
+      "longitude": 138.591608,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-03-02T09:00:14Z",
+      "reported_at": "2026-03-02T08:46:05Z"
     },
     {
       "id": "6bfb00b6-b1a7-4335-a11a-67ba29145cb7",
@@ -27,18 +67,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Northfield",
       "type": "mobile",
-      "timestamp": "2026-03-02T08:30:14Z",
+      "timestamp": "2026-03-02T09:00:14Z",
       "reported_at": "2026-03-02T08:24:33Z"
     },
     {
-      "id": "84a8b53e-1142-43a8-9f95-26b48f2d050f",
-      "latitude": -34.834328,
-      "longitude": 138.534301,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "21e9a283-a0df-4db2-afd8-d4aa151f6e37",
+      "latitude": -34.816432,
+      "longitude": 138.625039,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-02T08:30:14Z",
-      "reported_at": "2026-03-02T07:51:16Z"
+      "timestamp": "2026-03-02T09:00:14Z",
+      "reported_at": "2026-03-02T08:44:50Z"
     }
   ]
 }
