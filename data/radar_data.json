@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "4ee5a190-b6d7-4b3f-a0f4-19892a9136f3",
-      "latitude": -34.99898,
-      "longitude": 138.621187,
-      "street": "Gloucester Av",
-      "city": "Belair",
+      "id": "e0cec759-0387-43e0-9549-19c713646e18",
+      "latitude": -34.914995,
+      "longitude": 138.586417,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
-      "reported_at": "2026-03-02T01:50:02Z"
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-01T20:40:05Z"
+    },
+    {
+      "id": "b1c852a0-e98a-4e53-ae6b-ff18b0f7aeb6",
+      "latitude": -34.929685,
+      "longitude": 138.542618,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:28:42Z"
     },
     {
       "id": "885f9e18-0cf7-46d3-ba99-51b98be42c24",
@@ -17,28 +27,8 @@
       "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
+      "timestamp": "2026-03-02T03:00:16Z",
       "reported_at": "2026-03-02T01:13:02Z"
-    },
-    {
-      "id": "e0cec759-0387-43e0-9549-19c713646e18",
-      "latitude": -34.914995,
-      "longitude": 138.586417,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
-      "reported_at": "2026-03-01T20:40:05Z"
-    },
-    {
-      "id": "6a39c0bb-d396-479d-a44c-4bd17707a002",
-      "latitude": -34.956531,
-      "longitude": 138.632389,
-      "street": "Fisher St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
-      "reported_at": "2026-03-01T21:47:47Z"
     },
     {
       "id": "06505503-7952-402e-a955-b714b3fb547f",
@@ -47,18 +37,8 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
+      "timestamp": "2026-03-02T03:00:16Z",
       "reported_at": "2026-03-01T23:33:51Z"
-    },
-    {
-      "id": "00032407-6f00-4624-a599-97d7373c29f8",
-      "latitude": -34.925121,
-      "longitude": 138.615076,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
-      "reported_at": "2026-03-02T02:09:58Z"
     },
     {
       "id": "96246d1e-fa40-4ee9-bb99-78a379457b25",
@@ -67,18 +47,88 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
+      "timestamp": "2026-03-02T03:00:16Z",
       "reported_at": "2026-03-01T20:55:28Z"
     },
     {
-      "id": "318e136c-af71-4001-9421-340a667fd45e",
-      "latitude": -34.901223,
-      "longitude": 138.606334,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "6379711c-8110-485b-89ac-afb0377ca404",
+      "latitude": -34.827434,
+      "longitude": 138.674656,
+      "street": "Kelly Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-03-02T02:30:16Z",
-      "reported_at": "2026-03-02T02:14:12Z"
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:40:45Z"
+    },
+    {
+      "id": "00032407-6f00-4624-a599-97d7373c29f8",
+      "latitude": -34.925121,
+      "longitude": 138.615076,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:09:58Z"
+    },
+    {
+      "id": "cc878d4d-e005-4b9f-b07c-4e260404afe3",
+      "latitude": -34.939844,
+      "longitude": 138.584845,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-01T23:21:39Z"
+    },
+    {
+      "id": "e6bc6886-ced3-4d58-b2da-4a71579a3506",
+      "latitude": -34.964411,
+      "longitude": 138.62981,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-01T22:11:41Z"
+    },
+    {
+      "id": "4571979f-e78a-4587-b920-1dee69e6a4f8",
+      "latitude": -34.963917,
+      "longitude": 138.644475,
+      "street": "Unknown Street",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:54:17Z"
+    },
+    {
+      "id": "a8e4c44b-aa84-4aef-a3cd-317e4e19140e",
+      "latitude": -34.839008,
+      "longitude": 138.594211,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:50:33Z"
+    },
+    {
+      "id": "b8d9168e-83c1-435b-87e6-f788e5c2fb64",
+      "latitude": -34.782528,
+      "longitude": 138.583161,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:55:53Z"
+    },
+    {
+      "id": "0cfddf65-e086-4919-9611-4bc4cc251c5b",
+      "latitude": -34.965376,
+      "longitude": 138.647697,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-03-02T03:00:16Z",
+      "reported_at": "2026-03-02T02:55:26Z"
     }
   ]
 }
