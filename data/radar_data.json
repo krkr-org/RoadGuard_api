@@ -1,64 +1,74 @@
 {
   "radars": [
     {
+      "id": "ac7206e6-57d0-4073-8ea0-7598482fcd44",
+      "latitude": -34.848253,
+      "longitude": 138.530073,
+      "street": "May Tce",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-02T21:30:16Z",
+      "reported_at": "2026-03-02T20:57:32Z"
+    },
+    {
+      "id": "bd6bf460-0d3d-418a-86b8-881316039e66",
+      "latitude": -34.877124,
+      "longitude": 138.566394,
+      "street": "Days Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-03-02T21:30:16Z",
+      "reported_at": "2026-03-02T21:08:29Z"
+    },
+    {
+      "id": "03511bc5-f262-4a49-9355-54e2eba7d1c3",
+      "latitude": -34.713381,
+      "longitude": 138.645169,
+      "street": "Trials Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-02T21:30:16Z",
+      "reported_at": "2026-03-02T20:57:13Z"
+    },
+    {
       "id": "1cfe7d15-0624-4109-86e0-ce765ba1e770",
       "latitude": -34.861794,
       "longitude": 138.506329,
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-02T21:00:25Z",
+      "timestamp": "2026-03-02T21:30:16Z",
       "reported_at": "2026-03-02T20:46:59Z"
     },
     {
-      "id": "8c913627-d8a3-4c39-9bdd-29502888d100",
-      "latitude": -34.89751,
-      "longitude": 138.559926,
-      "street": "A7 - Port Rd",
-      "city": "Welland",
+      "id": "9f7afeeb-3fc5-40a1-860d-b320feebd5fa",
+      "latitude": -34.89485,
+      "longitude": 138.594553,
+      "street": "Prospect Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-02T21:00:25Z",
-      "reported_at": "2026-03-02T20:28:21Z"
+      "timestamp": "2026-03-02T21:30:16Z",
+      "reported_at": "2026-03-02T21:25:10Z"
     },
     {
-      "id": "cb6b53c7-0e4e-4cb0-b9ec-758b93bcf901",
-      "latitude": -34.898895,
-      "longitude": 138.562021,
+      "id": "3f845bbb-58bc-4f73-b6f1-ae626d6202a0",
+      "latitude": -34.897915,
+      "longitude": 138.560528,
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-02T21:00:25Z",
-      "reported_at": "2026-03-02T20:28:08Z"
+      "timestamp": "2026-03-02T21:30:16Z",
+      "reported_at": "2026-03-02T20:51:57Z"
     },
     {
-      "id": "9ff746e6-ecde-4705-9fd5-c31ea006ef0a",
-      "latitude": -34.828831,
-      "longitude": 138.691593,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "28d77e73-bfcf-42c9-9484-ba32868b9d32",
+      "latitude": -34.781901,
+      "longitude": 138.62389,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-02T21:00:25Z",
-      "reported_at": "2026-03-02T20:44:48Z"
-    },
-    {
-      "id": "ed717205-ada2-41cb-8178-743fafd5b2e7",
-      "latitude": -35.089072,
-      "longitude": 138.530851,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-02T21:00:25Z",
-      "reported_at": "2026-03-02T20:47:24Z"
-    },
-    {
-      "id": "1bd37922-0902-4071-95b6-0fbf04f0ad21",
-      "latitude": -34.781337,
-      "longitude": 138.583973,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-03-02T21:00:25Z",
-      "reported_at": "2026-03-02T20:40:09Z"
+      "timestamp": "2026-03-02T21:30:16Z",
+      "reported_at": "2026-03-02T21:15:04Z"
     }
   ]
 }
