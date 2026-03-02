@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "2212520a-5ff9-4ca3-94e2-0dfb6007099d",
-      "latitude": -34.814942,
-      "longitude": 138.623284,
-      "street": "Mawson Lakes Bvd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-02T08:00:18Z",
-      "reported_at": "2026-03-02T07:41:42Z"
-    },
-    {
-      "id": "23f85ee6-e429-471b-b3ce-6ce83b365c97",
-      "latitude": -35.109125,
-      "longitude": 138.62236,
+      "id": "b37f1715-3d46-4b69-bb2c-391233073d2c",
+      "latitude": -35.10836,
+      "longitude": 138.62689,
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-03-02T08:00:18Z",
-      "reported_at": "2026-03-02T07:18:48Z"
+      "timestamp": "2026-03-02T08:30:14Z",
+      "reported_at": "2026-03-02T05:31:16Z"
     },
     {
-      "id": "df59b575-6a86-49ed-839f-282aa790e6ff",
-      "latitude": -34.834045,
-      "longitude": 138.540101,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
+      "id": "54c217b0-76f4-4aed-9301-3980efcb2750",
+      "latitude": -35.017598,
+      "longitude": 138.550425,
+      "street": "Sturt Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-03-02T08:00:18Z",
-      "reported_at": "2026-03-02T07:50:33Z"
+      "timestamp": "2026-03-02T08:30:14Z",
+      "reported_at": "2026-03-02T08:09:56Z"
+    },
+    {
+      "id": "6bfb00b6-b1a7-4335-a11a-67ba29145cb7",
+      "latitude": -34.847361,
+      "longitude": 138.617771,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-03-02T08:30:14Z",
+      "reported_at": "2026-03-02T08:24:33Z"
+    },
+    {
+      "id": "84a8b53e-1142-43a8-9f95-26b48f2d050f",
+      "latitude": -34.834328,
+      "longitude": 138.534301,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-03-02T08:30:14Z",
+      "reported_at": "2026-03-02T07:51:16Z"
     }
   ]
 }
