@@ -1,104 +1,84 @@
 {
   "radars": [
     {
+      "id": "3d436541-9068-497a-9a8a-5b40037ed4fc",
+      "latitude": -34.927847,
+      "longitude": 138.632461,
+      "street": "Prescott Tce",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:33:00Z"
+    },
+    {
       "id": "6e30af10-86dc-44a0-b0e0-2269cc11e754",
       "latitude": -34.796694,
       "longitude": 138.64938,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
+      "timestamp": "2026-03-02T07:00:16Z",
       "reported_at": "2026-03-02T03:06:47Z"
     },
     {
-      "id": "f19ab403-02dd-442b-9fc9-94398bbcb070",
-      "latitude": -34.977801,
-      "longitude": 138.517562,
-      "street": "Gordon St",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T05:25:48Z"
-    },
-    {
-      "id": "8c90437c-f414-4bdf-a640-dcde6292dc68",
-      "latitude": -34.675696,
-      "longitude": 138.65524,
-      "street": "Andrews Rd",
-      "city": "Andrews Farm",
-      "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T06:16:06Z"
-    },
-    {
-      "id": "6d0d5888-0323-4674-9b02-a5c194adab05",
-      "latitude": -34.935097,
-      "longitude": 138.536997,
-      "street": "Unknown Street",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T02:35:38Z"
-    },
-    {
-      "id": "b37f1715-3d46-4b69-bb2c-391233073d2c",
-      "latitude": -35.10836,
-      "longitude": 138.62689,
+      "id": "79858bb3-30e8-48ea-a78b-900a9ebe4b84",
+      "latitude": -35.10959,
+      "longitude": 138.629725,
       "street": "Grants Gully Rd",
       "city": "Clarendon",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T05:31:16Z"
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:32:57Z"
     },
     {
-      "id": "77cf3cdd-a329-452d-a11a-09f6e8cf3f6f",
-      "latitude": -34.827719,
-      "longitude": 138.674705,
-      "street": "Kelly Rd",
-      "city": "Modbury North",
+      "id": "3ad12771-6239-4197-a32d-15898a6159e8",
+      "latitude": -34.924094,
+      "longitude": 138.604194,
+      "street": "Grenfell St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T05:37:09Z"
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:43:17Z"
     },
     {
-      "id": "4ab6d6ed-bbf8-4951-8d21-769a33b5cd1a",
-      "latitude": -34.738933,
-      "longitude": 138.624552,
+      "id": "3b18077e-d1ed-4d59-89e2-f19587c77cce",
+      "latitude": -34.979752,
+      "longitude": 138.570511,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:15:35Z"
+    },
+    {
+      "id": "7e661b2e-700c-4a11-a5c4-69f83b3ddb1c",
+      "latitude": -34.916051,
+      "longitude": 138.622731,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
+      "type": "mobile",
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:40:24Z"
+    },
+    {
+      "id": "b0f6320e-62dc-445e-99d9-6c3c564b6b87",
+      "latitude": -34.73917,
+      "longitude": 138.624938,
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T06:16:28Z"
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:32:07Z"
     },
     {
-      "id": "36bcbb08-995e-4a9d-97ae-bab3623f81dc",
-      "latitude": -34.762939,
-      "longitude": 138.664098,
-      "street": "Saints Rd",
-      "city": "Salisbury Park",
+      "id": "df104221-76fa-4943-a2f7-7cb183c9fb72",
+      "latitude": -35.139263,
+      "longitude": 138.524688,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T05:57:45Z"
-    },
-    {
-      "id": "33321d41-868d-48cb-ab72-5636dc50c9c7",
-      "latitude": -34.857345,
-      "longitude": 138.511174,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T06:14:40Z"
-    },
-    {
-      "id": "b6929759-9672-4e57-9bc1-62bfeecb68dc",
-      "latitude": -34.934916,
-      "longitude": 138.55274,
-      "street": "A14 - Marion Rd",
-      "city": "Cowandilla",
-      "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T06:23:53Z"
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:33:17Z"
     },
     {
       "id": "b4e4498d-22d4-484c-925b-1db85bc589a3",
@@ -107,28 +87,18 @@
       "street": "B29 - Unley Rd",
       "city": "Unley Park",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
+      "timestamp": "2026-03-02T07:00:16Z",
       "reported_at": "2026-03-02T06:28:33Z"
     },
     {
-      "id": "251fe3ad-cf4a-4e59-88ea-02b59d0d4926",
-      "latitude": -34.878821,
-      "longitude": 138.531806,
-      "street": "A7 - Port Rd",
-      "city": "Woodville South",
+      "id": "39e7f34e-dd09-416b-8b8b-dfed1a905ed6",
+      "latitude": -34.752662,
+      "longitude": 138.651295,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T05:36:48Z"
-    },
-    {
-      "id": "e9de3e64-9489-4749-b5eb-2973969aec98",
-      "latitude": -34.967651,
-      "longitude": 138.670434,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Leawood Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-02T06:30:15Z",
-      "reported_at": "2026-03-02T06:17:36Z"
+      "timestamp": "2026-03-02T07:00:16Z",
+      "reported_at": "2026-03-02T06:36:20Z"
     }
   ]
 }
