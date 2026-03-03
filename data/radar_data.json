@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "b08aafc7-f190-4cfe-a9a7-c4a1cf03effa",
-      "latitude": -34.76865,
-      "longitude": 138.702242,
-      "street": "Target Hill Rd",
-      "city": "Greenwith",
-      "type": "mobile",
-      "timestamp": "2026-03-03T12:30:14Z",
-      "reported_at": "2026-03-03T08:55:09Z"
-    },
-    {
       "id": "d4af6a61-c36b-403a-b1f8-07235f744ff6",
       "latitude": -34.776474,
       "longitude": 138.599477,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-03T12:30:14Z",
+      "timestamp": "2026-03-03T13:00:18Z",
       "reported_at": "2026-03-03T10:24:41Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Ward St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-03T12:30:14Z",
+      "timestamp": "2026-03-03T13:00:18Z",
       "reported_at": "2026-03-03T10:03:34Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-03T12:30:14Z",
+      "timestamp": "2026-03-03T13:00:18Z",
       "reported_at": "2026-03-03T09:45:05Z"
     },
     {
@@ -47,8 +37,18 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-03T12:30:14Z",
+      "timestamp": "2026-03-03T13:00:18Z",
       "reported_at": "2026-03-03T09:54:01Z"
+    },
+    {
+      "id": "0ce4d015-60db-46bb-ad52-e69625f9fb52",
+      "latitude": -34.921787,
+      "longitude": 138.586552,
+      "street": "Unknown Street",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-03T13:00:18Z",
+      "reported_at": "2026-03-03T12:35:02Z"
     }
   ]
 }
