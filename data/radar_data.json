@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "4f33a05a-1042-413f-8fa4-845d1387e562",
+      "latitude": -34.965105,
+      "longitude": 138.536964,
+      "street": "Morphett Rd",
+      "city": "Novar Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T05:16:54Z"
+    },
+    {
+      "id": "8c5da3d5-02f5-48f6-b32d-1ab7cf247197",
+      "latitude": -34.906185,
+      "longitude": 138.55942,
+      "street": "Welland Av",
+      "city": "Welland",
+      "type": "mobile",
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T04:01:38Z"
+    },
+    {
       "id": "8562d317-df92-426a-88b9-43b4ad72d05e",
       "latitude": -34.913918,
       "longitude": 138.574185,
       "street": "Holland St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
+      "timestamp": "2026-03-03T05:30:16Z",
       "reported_at": "2026-03-03T03:00:08Z"
     },
     {
@@ -17,18 +37,48 @@
       "street": "Ninth Av",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
+      "timestamp": "2026-03-03T05:30:16Z",
       "reported_at": "2026-03-02T23:56:00Z"
     },
     {
-      "id": "f89b206e-e25f-438e-bee8-36395a142528",
-      "latitude": -34.877862,
-      "longitude": 138.56645,
-      "street": "Days Rd",
-      "city": "Croydon Park",
+      "id": "faeb09dd-f47e-4fcc-b9e7-c8d5beea81b5",
+      "latitude": -34.776016,
+      "longitude": 138.598723,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
-      "reported_at": "2026-03-02T22:55:16Z"
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T05:01:54Z"
+    },
+    {
+      "id": "9f15fcde-f0ab-4983-929e-75db440d6273",
+      "latitude": -34.732181,
+      "longitude": 138.6048,
+      "street": "Helps Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T05:10:16Z"
+    },
+    {
+      "id": "a0147231-b810-45b2-94f8-8d71d32364d8",
+      "latitude": -34.850576,
+      "longitude": 138.481303,
+      "street": "Bower Rd",
+      "city": "Semaphore South",
+      "type": "mobile",
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T04:56:18Z"
+    },
+    {
+      "id": "814ebfd6-6820-46e8-8c3b-6c75ca355d81",
+      "latitude": -34.8769,
+      "longitude": 138.551088,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T05:08:44Z"
     },
     {
       "id": "beb106d2-b146-4af0-9c05-a5ac186685b6",
@@ -37,18 +87,28 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
+      "timestamp": "2026-03-03T05:30:16Z",
       "reported_at": "2026-03-02T23:41:09Z"
     },
     {
-      "id": "d7b1b312-3866-4a1b-83f4-f9a4b6a492d6",
-      "latitude": -34.925025,
-      "longitude": 138.618852,
-      "street": "Bartels Rd",
-      "city": "Adelaide",
+      "id": "2fbdf524-42c2-4133-94ff-f073026eb67f",
+      "latitude": -34.689686,
+      "longitude": 138.669596,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
-      "reported_at": "2026-03-03T04:23:45Z"
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T04:57:16Z"
+    },
+    {
+      "id": "a5b1b4ab-a075-4958-9958-558f5edd5f8f",
+      "latitude": -34.7409,
+      "longitude": 138.613065,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T05:10:44Z"
     },
     {
       "id": "23578685-b165-455e-b248-879c8985e807",
@@ -57,18 +117,8 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
+      "timestamp": "2026-03-03T05:30:16Z",
       "reported_at": "2026-03-03T04:56:40Z"
-    },
-    {
-      "id": "3b5c8879-f95a-4c3f-b6ba-463ba5a8d1db",
-      "latitude": -34.843033,
-      "longitude": 138.599868,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
-      "reported_at": "2026-03-03T04:34:34Z"
     },
     {
       "id": "88997ebb-2eec-4de7-9a0b-88a7cf4daea0",
@@ -77,28 +127,28 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
+      "timestamp": "2026-03-03T05:30:16Z",
       "reported_at": "2026-03-03T03:32:15Z"
     },
     {
-      "id": "16c16571-5b41-4e34-b643-ca88c02f651b",
-      "latitude": -34.83289,
-      "longitude": 138.57652,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Wingfield",
+      "id": "3b5c8879-f95a-4c3f-b6ba-463ba5a8d1db",
+      "latitude": -34.843033,
+      "longitude": 138.599868,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
-      "reported_at": "2026-03-03T04:19:38Z"
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T04:34:34Z"
     },
     {
-      "id": "2699edea-8077-4be3-940f-c43ef2c193b1",
-      "latitude": -34.717208,
-      "longitude": 138.57265,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
+      "id": "22383480-8267-4613-8824-153bcc024669",
+      "latitude": -34.796845,
+      "longitude": 138.655252,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-03T05:00:21Z",
-      "reported_at": "2026-03-03T04:52:07Z"
+      "timestamp": "2026-03-03T05:30:16Z",
+      "reported_at": "2026-03-03T04:57:06Z"
     }
   ]
 }
