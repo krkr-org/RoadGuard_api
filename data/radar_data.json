@@ -7,18 +7,8 @@
       "street": "East Tce",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
+      "timestamp": "2026-03-03T03:00:15Z",
       "reported_at": "2026-03-02T23:58:45Z"
-    },
-    {
-      "id": "3d4e6b28-9eb6-4fba-8235-917f19ae91ea",
-      "latitude": -35.001278,
-      "longitude": 138.565387,
-      "street": "Bradley Gr",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-03T02:13:42Z"
     },
     {
       "id": "f89b206e-e25f-438e-bee8-36395a142528",
@@ -27,18 +17,8 @@
       "street": "Days Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
+      "timestamp": "2026-03-03T03:00:15Z",
       "reported_at": "2026-03-02T22:55:16Z"
-    },
-    {
-      "id": "15e1bf7f-1856-4e8f-b5c8-cbe8b0bad9e4",
-      "latitude": -34.862633,
-      "longitude": 138.543871,
-      "street": "Ninth Av",
-      "city": "Woodville North",
-      "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-02T23:56:00Z"
     },
     {
       "id": "65291e36-b3cd-4a66-b580-356559add568",
@@ -47,28 +27,18 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
+      "timestamp": "2026-03-03T03:00:15Z",
       "reported_at": "2026-03-02T22:39:54Z"
     },
     {
-      "id": "95763c52-6e8e-4e91-9780-572ebaa29e99",
-      "latitude": -34.743558,
-      "longitude": 138.647696,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "15e1bf7f-1856-4e8f-b5c8-cbe8b0bad9e4",
+      "latitude": -34.862633,
+      "longitude": 138.543871,
+      "street": "Ninth Av",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-02T22:51:15Z"
-    },
-    {
-      "id": "5a932adb-5761-4f16-ba4f-20dc9f5225dc",
-      "latitude": -34.87796,
-      "longitude": 138.503521,
-      "street": "Frederick Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-03T01:49:50Z"
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-02T23:56:00Z"
     },
     {
       "id": "25ef9388-a595-4d62-ad49-5e0b38731c53",
@@ -77,18 +47,8 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
+      "timestamp": "2026-03-03T03:00:15Z",
       "reported_at": "2026-03-03T00:12:03Z"
-    },
-    {
-      "id": "cb4b58e7-62fe-4d3b-bece-0b3577ab8fda",
-      "latitude": -34.845332,
-      "longitude": 138.500342,
-      "street": "St. Vincent St",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-02T21:55:36Z"
     },
     {
       "id": "f10c0c8c-c5bf-49d8-9ef5-64dbd8eeb48b",
@@ -97,8 +57,48 @@
       "street": "West Lakes Bvd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
+      "timestamp": "2026-03-03T03:00:15Z",
       "reported_at": "2026-03-03T01:05:16Z"
+    },
+    {
+      "id": "2c6cb673-743a-45f8-9491-ef9b2387f383",
+      "latitude": -35.126209,
+      "longitude": 138.510799,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T02:34:30Z"
+    },
+    {
+      "id": "cb4b58e7-62fe-4d3b-bece-0b3577ab8fda",
+      "latitude": -34.845332,
+      "longitude": 138.500342,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-02T21:55:36Z"
+    },
+    {
+      "id": "e9334c7a-7e87-4143-87a6-521ba7ef4d79",
+      "latitude": -35.14464,
+      "longitude": 138.499806,
+      "street": "Goldsmith Dr",
+      "city": "Noarlunga Centre",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T02:33:10Z"
+    },
+    {
+      "id": "beb106d2-b146-4af0-9c05-a5ac186685b6",
+      "latitude": -34.872032,
+      "longitude": 138.592969,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-02T23:41:09Z"
     },
     {
       "id": "f5048164-c81e-4b84-8c3b-fc3ce1c54deb",
@@ -107,48 +107,78 @@
       "street": "Hanson Rd",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
+      "timestamp": "2026-03-03T03:00:15Z",
       "reported_at": "2026-03-03T02:25:45Z"
     },
     {
-      "id": "978bac22-65d6-47e9-a2a9-6e03276a6201",
-      "latitude": -34.87337,
-      "longitude": 138.593072,
-      "street": "Prospect Rd",
-      "city": "Prospect",
+      "id": "6e10b17a-d6a0-44ae-abcc-adb894e116f7",
+      "latitude": -34.857142,
+      "longitude": 138.511054,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-02T21:36:05Z"
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T02:33:32Z"
     },
     {
-      "id": "e06f655f-1c8e-4346-830c-2f50522921e9",
-      "latitude": -34.862933,
-      "longitude": 138.601178,
+      "id": "52de8420-a593-4496-ad05-ca0668e2abf4",
+      "latitude": -34.911621,
+      "longitude": 138.577651,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T02:29:35Z"
+    },
+    {
+      "id": "61ea004b-9343-4430-9d6b-2831c73194fa",
+      "latitude": -34.89817,
+      "longitude": 138.560922,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T01:12:40Z"
+    },
+    {
+      "id": "8c913627-d8a3-4c39-9bdd-29502888d100",
+      "latitude": -34.897391,
+      "longitude": 138.559735,
+      "street": "A7 - Port Rd",
+      "city": "Welland",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-02T20:28:21Z"
+    },
+    {
+      "id": "863bc309-51b9-468b-945d-cc32660ab950",
+      "latitude": -34.964979,
+      "longitude": 138.646629,
+      "street": "M1 - Mount Barker Rd",
+      "city": "Urrbrae",
+      "type": "mobile",
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T02:51:08Z"
+    },
+    {
+      "id": "da745459-cb00-4230-962f-25d85660b5f9",
+      "latitude": -34.859432,
+      "longitude": 138.601036,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-02T23:37:54Z"
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T00:45:55Z"
     },
     {
-      "id": "9af3803e-a927-4791-bad4-84c4032ae172",
-      "latitude": -34.836389,
-      "longitude": 138.526576,
+      "id": "d3d1603f-7592-44aa-8de3-acf0abc4ddbb",
+      "latitude": -34.836133,
+      "longitude": 138.52743,
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-02T21:04:14Z"
-    },
-    {
-      "id": "6b3ab79b-5ac2-417e-b749-3c3a4dbc7232",
-      "latitude": -35.033495,
-      "longitude": 138.808584,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-03-03T02:30:15Z",
-      "reported_at": "2026-03-03T02:24:52Z"
+      "timestamp": "2026-03-03T03:00:15Z",
+      "reported_at": "2026-03-03T01:52:24Z"
     }
   ]
 }
