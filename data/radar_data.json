@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "3ac2fefd-3af9-4da7-b8e4-053658dee55c",
-      "latitude": -34.908639,
-      "longitude": 138.596806,
-      "street": "Ward St",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
-      "reported_at": "2026-03-03T10:03:34Z"
-    },
-    {
       "id": "b08aafc7-f190-4cfe-a9a7-c4a1cf03effa",
       "latitude": -34.76865,
       "longitude": 138.702242,
       "street": "Target Hill Rd",
       "city": "Greenwith",
       "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
+      "timestamp": "2026-03-03T12:00:16Z",
       "reported_at": "2026-03-03T08:55:09Z"
+    },
+    {
+      "id": "1b265f3d-2978-435e-bd4a-b781d5fb1e42",
+      "latitude": -34.908662,
+      "longitude": 138.59666,
+      "street": "Ward St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-03T12:00:16Z",
+      "reported_at": "2026-03-03T08:02:10Z"
+    },
+    {
+      "id": "d4af6a61-c36b-403a-b1f8-07235f744ff6",
+      "latitude": -34.776474,
+      "longitude": 138.599477,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-03T12:00:16Z",
+      "reported_at": "2026-03-03T10:24:41Z"
     },
     {
       "id": "b7372f11-06ac-4e52-88e2-2a802d9161c2",
@@ -27,7 +37,7 @@
       "street": "Philip Hwy",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
+      "timestamp": "2026-03-03T12:00:16Z",
       "reported_at": "2026-03-03T08:50:30Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
+      "timestamp": "2026-03-03T12:00:16Z",
       "reported_at": "2026-03-03T09:45:05Z"
     },
     {
@@ -47,18 +57,8 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
+      "timestamp": "2026-03-03T12:00:16Z",
       "reported_at": "2026-03-03T05:22:19Z"
-    },
-    {
-      "id": "5f8ffcc7-9a88-41af-a458-d7c5062b8522",
-      "latitude": -34.7411,
-      "longitude": 138.612887,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
-      "reported_at": "2026-03-03T06:12:46Z"
     },
     {
       "id": "19552f14-bfb6-498d-8e9b-14bca8e0a08d",
@@ -67,18 +67,8 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
+      "timestamp": "2026-03-03T12:00:16Z",
       "reported_at": "2026-03-03T09:54:01Z"
-    },
-    {
-      "id": "39c170c0-0dad-424d-9596-8db992759a01",
-      "latitude": -34.796121,
-      "longitude": 138.65406,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-03T11:30:16Z",
-      "reported_at": "2026-03-03T10:58:18Z"
     }
   ]
 }
