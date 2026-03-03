@@ -1,14 +1,54 @@
 {
   "radars": [
     {
+      "id": "78f5d56a-a4b0-4ed8-82c5-33aa0c25967b",
+      "latitude": -35.134204,
+      "longitude": 138.513565,
+      "street": "Elizabeth Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T22:10:03Z"
+    },
+    {
+      "id": "f164e18a-548e-4426-9e30-8a4ce92b43e8",
+      "latitude": -35.10607,
+      "longitude": 138.522045,
+      "street": "Hillier Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T21:10:52Z"
+    },
+    {
       "id": "41b05cbe-4bff-49e5-bb9c-57dfeceb4c05",
       "latitude": -35.094435,
       "longitude": 138.53016,
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-03T22:00:15Z",
+      "timestamp": "2026-03-03T22:30:15Z",
       "reported_at": "2026-03-03T21:39:21Z"
+    },
+    {
+      "id": "d8552f59-b8a8-4a11-b602-01b67f5ffdec",
+      "latitude": -34.929859,
+      "longitude": 138.562575,
+      "street": "Darebin St",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T21:47:20Z"
+    },
+    {
+      "id": "e63f278a-8ba1-4a75-a733-bcb4db72b626",
+      "latitude": -34.958493,
+      "longitude": 138.597618,
+      "street": "Wood St",
+      "city": "Millswood",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T21:46:09Z"
     },
     {
       "id": "d27815a6-4e46-45aa-a7c9-0eb116d6a349",
@@ -17,8 +57,18 @@
       "street": "Leader St",
       "city": "Forestville",
       "type": "mobile",
-      "timestamp": "2026-03-03T22:00:15Z",
+      "timestamp": "2026-03-03T22:30:15Z",
       "reported_at": "2026-03-03T21:38:20Z"
+    },
+    {
+      "id": "64a0b51b-83d6-440d-9f6d-3fa02b67b100",
+      "latitude": -34.960475,
+      "longitude": 138.597924,
+      "street": "Wood St",
+      "city": "Unley Park",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T22:08:56Z"
     },
     {
       "id": "5aae80ff-1301-49b3-af5e-ea7634fc9f25",
@@ -27,8 +77,38 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-03T22:00:15Z",
+      "timestamp": "2026-03-03T22:30:15Z",
       "reported_at": "2026-03-03T21:45:49Z"
+    },
+    {
+      "id": "651058a3-0cf2-404c-9201-5c63af22350e",
+      "latitude": -35.105921,
+      "longitude": 138.526589,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T22:15:20Z"
+    },
+    {
+      "id": "636d1e2c-7fe2-470a-b1ea-f0ab187a18dd",
+      "latitude": -35.100313,
+      "longitude": 138.531917,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T20:46:22Z"
+    },
+    {
+      "id": "689b071a-f4f5-4148-8b01-ac8656ae1fd6",
+      "latitude": -34.767277,
+      "longitude": 138.672432,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-03T22:30:15Z",
+      "reported_at": "2026-03-03T22:23:14Z"
     }
   ]
 }
