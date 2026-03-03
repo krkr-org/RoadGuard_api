@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "f164e18a-548e-4426-9e30-8a4ce92b43e8",
+      "latitude": -35.10607,
+      "longitude": 138.522045,
+      "street": "Hillier Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T21:30:16Z",
+      "reported_at": "2026-03-03T21:10:52Z"
+    },
+    {
+      "id": "749bab99-9058-4ef4-b5dc-ceab3853a8fa",
+      "latitude": -34.858961,
+      "longitude": 138.636208,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-03-03T21:30:16Z",
+      "reported_at": "2026-03-03T20:56:03Z"
+    },
+    {
+      "id": "fc53eda5-59d6-49c0-bf09-a8ab14329188",
+      "latitude": -34.852288,
+      "longitude": 138.508481,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-03T21:30:16Z",
+      "reported_at": "2026-03-03T21:22:35Z"
+    },
+    {
       "id": "636d1e2c-7fe2-470a-b1ea-f0ab187a18dd",
       "latitude": -35.100313,
       "longitude": 138.531917,
       "street": "A13 - Main South Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-03T21:00:17Z",
+      "timestamp": "2026-03-03T21:30:16Z",
       "reported_at": "2026-03-03T20:46:22Z"
     }
   ]
