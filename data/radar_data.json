@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "42cceabe-e9da-49ed-9b84-e086900b05b5",
+      "latitude": -34.79706,
+      "longitude": 138.639578,
+      "street": "Nobby Buckley Dr",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:19:40Z"
+    },
+    {
       "id": "8c5da3d5-02f5-48f6-b32d-1ab7cf247197",
       "latitude": -34.906185,
       "longitude": 138.55942,
       "street": "Welland Av",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-03T04:01:38Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Holland St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-03T03:00:08Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Ninth Av",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-02T23:56:00Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-03T05:01:54Z"
     },
     {
@@ -47,58 +57,68 @@
       "street": "Helps Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-03T05:10:16Z"
     },
     {
-      "id": "0eb79cf3-5952-4768-ab10-7b078f834197",
-      "latitude": -34.805671,
-      "longitude": 138.702443,
-      "street": "Unknown Street",
-      "city": "Surrey Downs",
+      "id": "d186f8eb-0fb2-4a8d-acf6-f267f2df1520",
+      "latitude": -34.713084,
+      "longitude": 138.69319,
+      "street": "Seaborough Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:36:40Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:06:44Z"
     },
     {
-      "id": "4d7321e8-52d3-40c3-a922-7120b265ebf8",
-      "latitude": -35.053742,
-      "longitude": 138.558872,
+      "id": "16c2e8cd-bc85-4af5-bd8f-74084d325d9f",
+      "latitude": -35.053751,
+      "longitude": 138.558654,
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:44:31Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T05:21:38Z"
     },
     {
-      "id": "6eda996b-9823-48cc-a478-636cc26b7ae3",
-      "latitude": -34.988392,
-      "longitude": 138.592574,
-      "street": "Goodwood Rd",
-      "city": "Daw Park",
+      "id": "cc3593f6-c9b4-4a3d-a655-b3e3d2f6a3d9",
+      "latitude": -35.018226,
+      "longitude": 138.541256,
+      "street": "Sturt Rd",
+      "city": "Oaklands Park",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:36:35Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:15:11Z"
     },
     {
-      "id": "66586a8b-da70-4051-a5f4-0ddff4728bdd",
-      "latitude": -35.118811,
-      "longitude": 138.535837,
-      "street": "States Rd",
-      "city": "Morphett Vale",
+      "id": "ba2f57d2-41a6-4d62-b9fb-3e9d7ab2dc08",
+      "latitude": -34.907999,
+      "longitude": 138.59655,
+      "street": "O'Connell St",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:31:44Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:22:01Z"
     },
     {
-      "id": "7e15e715-69b3-4c05-9384-942ff2430848",
-      "latitude": -34.940692,
-      "longitude": 138.600782,
-      "street": "Peacock Rd",
+      "id": "16a2825f-0975-4e5d-b7ed-c4b670fee4bf",
+      "latitude": -34.924554,
+      "longitude": 138.552046,
+      "street": "Henley Beach Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T05:47:21Z"
+    },
+    {
+      "id": "8a175678-1094-4ad1-9303-b510a598f659",
+      "latitude": -34.92383,
+      "longitude": 138.582573,
+      "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:55:27Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:24:31Z"
     },
     {
       "id": "41e12a38-0157-4d53-b6f2-63d8a1629957",
@@ -107,38 +127,18 @@
       "street": "Elder Smith Rd",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-03T05:36:24Z"
     },
     {
-      "id": "a5b1b4ab-a075-4958-9958-558f5edd5f8f",
-      "latitude": -34.7409,
-      "longitude": 138.613065,
-      "street": "Bolivar Rd",
-      "city": "Burton",
+      "id": "8f97c4b5-23b9-4421-8fb4-647ccf66d230",
+      "latitude": -34.807304,
+      "longitude": 138.625754,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:10:44Z"
-    },
-    {
-      "id": "62847f9f-c391-4cb7-a66c-a64cfdfbef5e",
-      "latitude": -34.763489,
-      "longitude": 138.636729,
-      "street": "Winzor St",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:40:40Z"
-    },
-    {
-      "id": "a2696490-e4fc-40f9-94ea-37bb5bf43c57",
-      "latitude": -34.777561,
-      "longitude": 138.675552,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:34:52Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T05:59:19Z"
     },
     {
       "id": "216bd92f-558d-4592-b075-c4537088de97",
@@ -147,18 +147,78 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
+      "timestamp": "2026-03-03T06:30:15Z",
       "reported_at": "2026-03-03T05:22:19Z"
     },
     {
-      "id": "a690fbbe-c46f-41f1-9356-d1523c4ffe60",
-      "latitude": -35.055586,
-      "longitude": 138.559587,
+      "id": "f66a8a50-ccfc-4f2b-99bb-0d06d049eb77",
+      "latitude": -34.763777,
+      "longitude": 138.641333,
+      "street": "Park Tce",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:04:34Z"
+    },
+    {
+      "id": "a5b1b4ab-a075-4958-9958-558f5edd5f8f",
+      "latitude": -34.741102,
+      "longitude": 138.612854,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T05:10:44Z"
+    },
+    {
+      "id": "e7b90ad2-0312-4736-8694-75de5814ca60",
+      "latitude": -35.062198,
+      "longitude": 138.557434,
       "street": "A13 - Main South Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-03T06:00:15Z",
-      "reported_at": "2026-03-03T05:13:42Z"
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T05:46:51Z"
+    },
+    {
+      "id": "f2a2546f-8b80-4f2d-b8ef-e262eae35f4b",
+      "latitude": -35.124371,
+      "longitude": 138.52337,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:04:19Z"
+    },
+    {
+      "id": "e4b3db8b-3e8d-4412-8362-1be34818e895",
+      "latitude": -34.900401,
+      "longitude": 138.603399,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T06:00:56Z"
+    },
+    {
+      "id": "a3c1e4d7-d04e-43af-8652-2f47932d9a48",
+      "latitude": -34.858803,
+      "longitude": 138.653498,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T05:52:41Z"
+    },
+    {
+      "id": "22383480-8267-4613-8824-153bcc024669",
+      "latitude": -34.796845,
+      "longitude": 138.655252,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-03T06:30:15Z",
+      "reported_at": "2026-03-03T04:57:06Z"
     }
   ]
 }
