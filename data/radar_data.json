@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "ca5c2f0c-32c1-49a3-b932-9ad25a7ece69",
+      "latitude": -34.897163,
+      "longitude": 138.663728,
+      "street": "Reid Av",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-03-04T10:30:14Z",
+      "reported_at": "2026-03-04T08:22:41Z"
+    },
+    {
       "id": "6710b048-b004-4434-9b6d-fdb87e7d9b37",
       "latitude": -34.795388,
       "longitude": 138.647233,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
+      "timestamp": "2026-03-04T10:30:14Z",
       "reported_at": "2026-03-04T07:20:28Z"
     },
     {
-      "id": "009a0c67-d991-412d-b801-861d698ee23a",
-      "latitude": -34.858963,
-      "longitude": 138.687879,
-      "street": "Reids Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T06:18:49Z"
-    },
-    {
-      "id": "62eb338a-4def-4ef3-a0ca-03dcbeb46e43",
-      "latitude": -34.907198,
-      "longitude": 138.65637,
-      "street": "Gwynne St",
-      "city": "Firle",
-      "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T06:01:48Z"
-    },
-    {
-      "id": "50490990-2a62-4110-a64a-4cd7c4d6234e",
-      "latitude": -34.914233,
-      "longitude": 138.585222,
+      "id": "6a7376df-dfb7-4b8d-8704-85991ce46f6f",
+      "latitude": -34.914252,
+      "longitude": 138.58525,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T07:07:15Z"
+      "timestamp": "2026-03-04T10:30:14Z",
+      "reported_at": "2026-03-04T07:33:58Z"
     },
     {
       "id": "47a8eac4-249f-48cd-be7b-9e7fba958649",
@@ -47,7 +37,7 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
+      "timestamp": "2026-03-04T10:30:14Z",
       "reported_at": "2026-03-04T07:46:41Z"
     },
     {
@@ -57,8 +47,18 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
+      "timestamp": "2026-03-04T10:30:14Z",
       "reported_at": "2026-03-04T06:03:54Z"
+    },
+    {
+      "id": "78987573-866d-4c7f-bd41-4c722d804917",
+      "latitude": -34.767366,
+      "longitude": 138.699143,
+      "street": "Target Hill Rd",
+      "city": "Greenwith",
+      "type": "mobile",
+      "timestamp": "2026-03-04T10:30:14Z",
+      "reported_at": "2026-03-04T09:55:50Z"
     },
     {
       "id": "854a4504-d65d-491a-a1b3-2d07da58f382",
@@ -67,18 +67,28 @@
       "street": "Lyons Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
+      "timestamp": "2026-03-04T10:30:14Z",
       "reported_at": "2026-03-04T08:12:30Z"
     },
     {
-      "id": "ac63ccb7-88a1-4613-92c2-efc55001948d",
-      "latitude": -34.925514,
-      "longitude": 138.632313,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "d09ae7ea-c674-46d0-b55e-1c917a26c761",
+      "latitude": -34.769575,
+      "longitude": 138.619133,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T06:05:27Z"
+      "timestamp": "2026-03-04T10:30:14Z",
+      "reported_at": "2026-03-04T09:58:22Z"
+    },
+    {
+      "id": "d766478e-035e-4b6f-aee8-0104dda0cb06",
+      "latitude": -35.073454,
+      "longitude": 138.552011,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-04T10:30:14Z",
+      "reported_at": "2026-03-04T09:38:34Z"
     },
     {
       "id": "5962cdd0-2161-41f0-8e45-087641920d3d",
@@ -87,18 +97,18 @@
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
+      "timestamp": "2026-03-04T10:30:14Z",
       "reported_at": "2026-03-04T08:15:05Z"
     },
     {
-      "id": "e2e30756-4e31-4050-9a7c-6a47bf31b76b",
-      "latitude": -34.899064,
-      "longitude": 138.591683,
+      "id": "5cf4d117-574d-41cb-8f92-259d9b9d4577",
+      "latitude": -34.898969,
+      "longitude": 138.593119,
       "street": "R1 - Fitzroy Tce (City Ring Route)",
       "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T07:49:33Z"
+      "timestamp": "2026-03-04T10:30:14Z",
+      "reported_at": "2026-03-04T07:36:37Z"
     },
     {
       "id": "c7a5877e-0e83-4c12-9a4e-e18103b32733",
@@ -107,28 +117,8 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
+      "timestamp": "2026-03-04T10:30:14Z",
       "reported_at": "2026-03-04T05:41:39Z"
-    },
-    {
-      "id": "1dee1376-6d94-4248-804c-628f16d6dc4c",
-      "latitude": -34.847354,
-      "longitude": 138.618305,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T07:55:45Z"
-    },
-    {
-      "id": "12a97e6b-0038-46bd-bb1e-c57840cac963",
-      "latitude": -34.755212,
-      "longitude": 138.647683,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-03-04T10:00:19Z",
-      "reported_at": "2026-03-04T09:28:41Z"
     }
   ]
 }
