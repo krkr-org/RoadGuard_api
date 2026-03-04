@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "a537c76d-3f68-4f22-a869-4cabae701c18",
-      "latitude": -35.130902,
-      "longitude": 138.498422,
-      "street": "Morton Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-03T23:39:25Z"
-    },
-    {
       "id": "78f5d56a-a4b0-4ed8-82c5-33aa0c25967b",
       "latitude": -35.134204,
       "longitude": 138.513565,
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-03T22:10:03Z"
     },
     {
@@ -27,8 +17,28 @@
       "street": "Baden Tce",
       "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-03T22:24:01Z"
+    },
+    {
+      "id": "a537c76d-3f68-4f22-a869-4cabae701c18",
+      "latitude": -35.130902,
+      "longitude": 138.498422,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-03T23:39:25Z"
+    },
+    {
+      "id": "bbff3975-860c-4a2e-a3a8-37a4d43314ff",
+      "latitude": -35.094435,
+      "longitude": 138.530145,
+      "street": "Grant Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-03T22:58:39Z"
     },
     {
       "id": "d8552f59-b8a8-4a11-b602-01b67f5ffdec",
@@ -37,7 +47,7 @@
       "street": "Darebin St",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-03T21:47:20Z"
     },
     {
@@ -47,18 +57,48 @@
       "street": "Pegasus Dr",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-03T21:29:56Z"
     },
     {
-      "id": "f164e18a-548e-4426-9e30-8a4ce92b43e8",
-      "latitude": -35.10607,
-      "longitude": 138.522045,
+      "id": "d27815a6-4e46-45aa-a7c9-0eb116d6a349",
+      "latitude": -34.949083,
+      "longitude": 138.579259,
+      "street": "Leader St",
+      "city": "Forestville",
+      "type": "mobile",
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-03T21:38:20Z"
+    },
+    {
+      "id": "2e326c61-71e3-407a-bb87-8e11377ce32c",
+      "latitude": -35.107454,
+      "longitude": 138.522258,
       "street": "Hillier Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-03T21:10:52Z"
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-03T21:37:56Z"
+    },
+    {
+      "id": "43a4119e-26c0-4e6a-b6c0-5b30f4100ca5",
+      "latitude": -35.088095,
+      "longitude": 138.542561,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-03T22:03:55Z"
+    },
+    {
+      "id": "79998ad4-8b8a-4296-ae43-6bdb4a9ca404",
+      "latitude": -34.917301,
+      "longitude": 138.592978,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-04T00:00:24Z"
     },
     {
       "id": "b753050a-146c-4263-8a4a-f6ebf8807ea1",
@@ -67,38 +107,18 @@
       "street": "Wheatsheaf Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-03T22:35:02Z"
     },
     {
-      "id": "5aae80ff-1301-49b3-af5e-ea7634fc9f25",
-      "latitude": -35.08795,
-      "longitude": 138.542729,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-03T21:45:49Z"
-    },
-    {
-      "id": "d55dd127-48a2-4f4e-8e44-8a04586750cc",
-      "latitude": -34.917168,
-      "longitude": 138.593126,
-      "street": "Montefiore Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-04T00:10:14Z"
-    },
-    {
-      "id": "b818ea80-7cd7-414f-ae54-1619bb7778f1",
-      "latitude": -34.758369,
-      "longitude": 138.64783,
+      "id": "d97f3dd9-4c22-4b78-9aa1-ad861e999281",
+      "latitude": -34.747816,
+      "longitude": 138.63927,
       "street": "Commercial Rd",
-      "city": "Salisbury",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-04T00:31:20Z"
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-04T00:48:14Z"
     },
     {
       "id": "fb64a826-0fec-4e0e-ad21-64a4f0c809bb",
@@ -107,7 +127,7 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-04T00:10:21Z"
     },
     {
@@ -117,28 +137,28 @@
       "street": "A13 - Main South Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
+      "timestamp": "2026-03-04T01:30:17Z",
       "reported_at": "2026-03-03T21:26:37Z"
     },
     {
-      "id": "f04de6e2-6d1a-4e07-a85d-c4f1d88dcc1a",
-      "latitude": -34.771605,
-      "longitude": 138.59036,
+      "id": "d999a167-c78a-4f03-95e4-73659da4094e",
+      "latitude": -35.048158,
+      "longitude": 138.548716,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-04T01:22:57Z"
+    },
+    {
+      "id": "0f26d635-c434-4ff2-bdc5-a3223d9c8935",
+      "latitude": -34.772883,
+      "longitude": 138.590151,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-04T00:19:31Z"
-    },
-    {
-      "id": "1cea26df-3c03-4020-a075-b721688e1ce1",
-      "latitude": -34.965198,
-      "longitude": 138.646971,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-03-04T01:00:16Z",
-      "reported_at": "2026-03-04T00:39:22Z"
+      "timestamp": "2026-03-04T01:30:17Z",
+      "reported_at": "2026-03-03T23:24:58Z"
     }
   ]
 }
