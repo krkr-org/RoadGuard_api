@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "aa0c10ac-2e61-47f1-93ed-2df464e19817",
+      "latitude": -34.737514,
+      "longitude": 138.64718,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-04T21:00:19Z",
+      "reported_at": "2026-03-04T20:48:03Z"
+    },
+    {
       "id": "caa32a5d-36ee-4855-862f-89e254930d2d",
       "latitude": -34.924185,
       "longitude": 138.583731,
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T20:30:14Z",
+      "timestamp": "2026-03-04T21:00:19Z",
       "reported_at": "2026-03-04T19:43:28Z"
     },
     {
-      "id": "f7d387a2-1ff3-45d2-994b-fa9d17dc4400",
-      "latitude": -34.881202,
-      "longitude": 138.624063,
-      "street": "A10 - North East Rd",
-      "city": "Manningham",
+      "id": "de8b335a-cf8b-43df-9110-51d870b3f4d0",
+      "latitude": -35.040921,
+      "longitude": 138.81492,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-03-04T20:30:14Z",
-      "reported_at": "2026-03-04T19:09:27Z"
+      "timestamp": "2026-03-04T21:00:19Z",
+      "reported_at": "2026-03-04T20:41:11Z"
     }
   ]
 }
