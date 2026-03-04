@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "842c4d53-ad8c-4758-bc34-4a178fea35a7",
-      "latitude": -34.695081,
-      "longitude": 138.650502,
-      "street": "Womma Rd",
-      "city": "Eyre",
+      "id": "4790aa00-92f6-49c3-abe4-586c330466a3",
+      "latitude": -34.992374,
+      "longitude": 138.598936,
+      "street": "Boothby St",
+      "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:30:15Z",
-      "reported_at": "2026-03-04T21:11:15Z"
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T20:11:25Z"
+    },
+    {
+      "id": "748f7729-d440-4ad6-be9a-ae33bba7a36a",
+      "latitude": -34.725173,
+      "longitude": 138.633601,
+      "street": "Sturton Rd",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:43:22Z"
+    },
+    {
+      "id": "cccc3fb8-bbf6-41b1-aa05-2dd94d94d2fa",
+      "latitude": -34.922289,
+      "longitude": 138.613182,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:19:55Z"
+    },
+    {
+      "id": "f80b0d31-7ca4-4b0a-956c-1aaab82d5e01",
+      "latitude": -34.736324,
+      "longitude": 138.644429,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T20:52:01Z"
     },
     {
       "id": "caa32a5d-36ee-4855-862f-89e254930d2d",
@@ -17,38 +47,98 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:30:15Z",
+      "timestamp": "2026-03-04T22:00:17Z",
       "reported_at": "2026-03-04T19:43:28Z"
     },
     {
-      "id": "3f22fb72-6d85-4998-b46a-0c2288041529",
-      "latitude": -34.79695,
-      "longitude": 138.655608,
+      "id": "430ab373-38eb-4061-bf2e-425cf4472c22",
+      "latitude": -34.888066,
+      "longitude": 138.569483,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:24:40Z"
+    },
+    {
+      "id": "52452ac8-9e5d-4884-8485-05a664f6ed9f",
+      "latitude": -34.87707,
+      "longitude": 138.551368,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:27:59Z"
+    },
+    {
+      "id": "a0767745-e591-4f9c-8989-ea7a8aec5df5",
+      "latitude": -34.825182,
+      "longitude": 138.61226,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:57:56Z"
+    },
+    {
+      "id": "30a31b0b-28d2-47f5-84d5-c18b2f5c2422",
+      "latitude": -35.049205,
+      "longitude": 138.586408,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:26:57Z"
+    },
+    {
+      "id": "63d3f540-1396-4e31-b350-7bac96b19887",
+      "latitude": -34.737546,
+      "longitude": 138.616053,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:33:35Z"
+    },
+    {
+      "id": "842c4d53-ad8c-4758-bc34-4a178fea35a7",
+      "latitude": -34.695081,
+      "longitude": 138.650502,
+      "street": "Womma Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:11:15Z"
+    },
+    {
+      "id": "1f4bc078-977b-4ed4-954a-f7256b5c078c",
+      "latitude": -34.840655,
+      "longitude": 138.674887,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:57:16Z"
+    },
+    {
+      "id": "ffb8a3c8-318f-4e27-ae5b-407d869eee8d",
+      "latitude": -34.795698,
+      "longitude": 138.653567,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:30:15Z",
-      "reported_at": "2026-03-04T21:14:39Z"
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:27:36Z"
     },
     {
-      "id": "e09f133c-5c95-4221-901d-c52bb154ac34",
-      "latitude": -34.711196,
-      "longitude": 138.575439,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
+      "id": "de7e36f9-2334-44d5-b77d-1fda1a6a5a90",
+      "latitude": -34.788678,
+      "longitude": 138.696615,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:30:15Z",
-      "reported_at": "2026-03-04T21:17:30Z"
-    },
-    {
-      "id": "c66224ab-9569-4c00-a22c-b64cadb95109",
-      "latitude": -35.103662,
-      "longitude": 138.511332,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-04T21:30:15Z",
-      "reported_at": "2026-03-04T21:14:01Z"
+      "timestamp": "2026-03-04T22:00:17Z",
+      "reported_at": "2026-03-04T21:41:40Z"
     }
   ]
 }
