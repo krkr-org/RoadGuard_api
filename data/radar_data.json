@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "2c4399cd-3e62-4b1d-99eb-b992b4dd7b67",
+      "latitude": -34.799849,
+      "longitude": 138.639835,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-04T19:00:14Z",
+      "reported_at": "2026-03-04T18:36:31Z"
+    },
+    {
       "id": "6fe88e6e-f4ee-4d77-bc0a-0bdb56488c13",
       "latitude": -34.907515,
       "longitude": 138.575004,
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-04T18:30:15Z",
+      "timestamp": "2026-03-04T19:00:14Z",
       "reported_at": "2026-03-04T16:41:57Z"
     }
   ]
