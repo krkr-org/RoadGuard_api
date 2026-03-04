@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "8cce1af9-a9e5-4e51-b38c-034a7f6a54b2",
+      "latitude": -34.927787,
+      "longitude": 138.625408,
+      "street": "Kensington Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-04T13:00:18Z",
+      "reported_at": "2026-03-04T12:23:41Z"
+    },
+    {
+      "id": "cafb66b7-20fa-4314-8c45-9b2db13b5f28",
+      "latitude": -34.938182,
+      "longitude": 138.586472,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-04T13:00:18Z",
+      "reported_at": "2026-03-04T12:41:31Z"
+    },
+    {
+      "id": "3e1d08cf-ad8a-4184-ae61-cd8396516878",
+      "latitude": -34.942527,
+      "longitude": 138.582493,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-03-04T13:00:18Z",
+      "reported_at": "2026-03-04T12:36:49Z"
+    },
+    {
       "id": "07e2b8e8-d952-42f4-a60a-031716dfbc10",
       "latitude": -34.923484,
       "longitude": 138.617111,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T12:30:16Z",
+      "timestamp": "2026-03-04T13:00:18Z",
       "reported_at": "2026-03-04T10:31:24Z"
     }
   ]
