@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "8cce1af9-a9e5-4e51-b38c-034a7f6a54b2",
-      "latitude": -34.927787,
-      "longitude": 138.625408,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "a16df14c-7038-4181-9684-2c77b7977ec5",
+      "latitude": -34.897118,
+      "longitude": 138.664656,
+      "street": "Reid Av",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-04T13:00:18Z",
-      "reported_at": "2026-03-04T12:23:41Z"
-    },
-    {
-      "id": "cafb66b7-20fa-4314-8c45-9b2db13b5f28",
-      "latitude": -34.938182,
-      "longitude": 138.586472,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-04T13:00:18Z",
-      "reported_at": "2026-03-04T12:41:31Z"
-    },
-    {
-      "id": "3e1d08cf-ad8a-4184-ae61-cd8396516878",
-      "latitude": -34.942527,
-      "longitude": 138.582493,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2026-03-04T13:00:18Z",
-      "reported_at": "2026-03-04T12:36:49Z"
+      "timestamp": "2026-03-04T13:30:15Z",
+      "reported_at": "2026-03-04T10:23:53Z"
     },
     {
       "id": "07e2b8e8-d952-42f4-a60a-031716dfbc10",
@@ -37,8 +17,18 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T13:00:18Z",
+      "timestamp": "2026-03-04T13:30:15Z",
       "reported_at": "2026-03-04T10:31:24Z"
+    },
+    {
+      "id": "542d1e54-5d00-433a-b0ff-cbfc72e51077",
+      "latitude": -34.831708,
+      "longitude": 138.686439,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-03-04T13:30:15Z",
+      "reported_at": "2026-03-04T12:35:35Z"
     }
   ]
 }
