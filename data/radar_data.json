@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "62eb338a-4def-4ef3-a0ca-03dcbeb46e43",
+      "latitude": -34.90734,
+      "longitude": 138.653687,
+      "street": "Gwynne St",
+      "city": "Firle",
+      "type": "mobile",
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:01:48Z"
+    },
+    {
       "id": "ce750869-716b-4c74-9534-9f4028b3c77f",
       "latitude": -34.9536,
       "longitude": 138.630249,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T02:46:13Z"
-    },
-    {
-      "id": "24b0957a-d808-418e-a240-6c14229a568f",
-      "latitude": -34.907205,
-      "longitude": 138.656224,
-      "street": "Gwynne St",
-      "city": "Firle",
-      "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:18:48Z"
     },
     {
       "id": "4afae494-a64a-4629-9f93-6d6fc4370e1a",
@@ -27,7 +27,7 @@
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T04:14:37Z"
     },
     {
@@ -37,28 +37,8 @@
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T02:28:21Z"
-    },
-    {
-      "id": "8bedadd2-f370-4cf0-b526-3eb1da418286",
-      "latitude": -34.898759,
-      "longitude": 138.612779,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:32:43Z"
-    },
-    {
-      "id": "560ecb89-2f02-499d-bec4-7d9f3772ce38",
-      "latitude": -34.949065,
-      "longitude": 138.579591,
-      "street": "Leader St",
-      "city": "Forestville",
-      "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T01:25:51Z"
     },
     {
       "id": "87e6c9e4-c58e-41c1-b4d3-35c34aca7523",
@@ -67,58 +47,68 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T05:36:09Z"
     },
     {
-      "id": "e48fc2de-4ca1-491f-b5cf-36e6cc2de19a",
-      "latitude": -35.105941,
-      "longitude": 138.499518,
-      "street": "Unknown Street",
-      "city": "Lonsdale",
+      "id": "7536dd82-010f-42ed-b3ac-9710db841719",
+      "latitude": -34.899044,
+      "longitude": 138.612439,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:09:06Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:03:54Z"
     },
     {
-      "id": "67d77f09-5626-4d28-a977-0c50f1790a99",
-      "latitude": -35.136513,
-      "longitude": 138.52816,
-      "street": "Doctors Rd",
-      "city": "Morphett Vale",
+      "id": "560ecb89-2f02-499d-bec4-7d9f3772ce38",
+      "latitude": -34.949065,
+      "longitude": 138.579591,
+      "street": "Leader St",
+      "city": "Forestville",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:47:42Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T01:25:51Z"
     },
     {
-      "id": "001c4e88-f74f-487f-97cc-2fc579e3aa93",
-      "latitude": -34.924062,
-      "longitude": 138.632203,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "2b3568a0-ee66-42f5-8b16-e7e5cc36de9d",
+      "latitude": -34.892651,
+      "longitude": 138.660522,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:20:36Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T05:58:26Z"
     },
     {
-      "id": "a8464599-5afc-4882-8657-b065885443e8",
-      "latitude": -34.99334,
-      "longitude": 138.564893,
-      "street": "Daws Rd",
-      "city": "Ascot Park",
+      "id": "8bad78d5-9c07-49b7-89bb-9f344211767b",
+      "latitude": -34.853679,
+      "longitude": 138.653838,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:42:49Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:07:25Z"
     },
     {
-      "id": "967ec6af-fb9b-49fa-904e-d30b1fece6d1",
-      "latitude": -34.8073,
-      "longitude": 138.698994,
-      "street": "Golden Grove Rd",
-      "city": "Modbury Heights",
+      "id": "fdac4d7e-0f14-4c05-a309-cacbe7f7c5ea",
+      "latitude": -35.10578,
+      "longitude": 138.795059,
+      "street": "Meadows Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:39:54Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:09:44Z"
+    },
+    {
+      "id": "1d39d3ac-5207-44ba-b74a-fd4845b3b935",
+      "latitude": -34.937563,
+      "longitude": 138.606598,
+      "street": "Unley Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T05:03:21Z"
     },
     {
       "id": "26791661-ea26-4a09-94ba-aeb9841fb62b",
@@ -127,28 +117,48 @@
       "street": "Hutt Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T05:20:11Z"
     },
     {
-      "id": "1f37684d-5917-4589-9ab7-00d94118c8da",
-      "latitude": -34.83512,
-      "longitude": 138.617903,
-      "street": "South Tce",
-      "city": "Pooraka",
+      "id": "f844d71e-4670-4249-a97d-378e80bb4cc8",
+      "latitude": -34.788063,
+      "longitude": 138.716056,
+      "street": "Hancock Rd",
+      "city": "Surrey Downs",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:44:22Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:08:46Z"
     },
     {
-      "id": "161ab727-3c83-453f-82af-2ce4c18002df",
-      "latitude": -34.938828,
-      "longitude": 138.585914,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "id": "92f7e4ff-adfe-4f3d-908a-c22b2fa09b73",
+      "latitude": -34.739155,
+      "longitude": 138.658177,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:47:11Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:05:39Z"
+    },
+    {
+      "id": "3ae0947f-803d-4ae2-97d0-7399111bab6f",
+      "latitude": -34.689915,
+      "longitude": 138.669473,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:03:23Z"
+    },
+    {
+      "id": "15fad270-5dfc-4dbd-bbb2-cc566ce79135",
+      "latitude": -34.898941,
+      "longitude": 138.593586,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:17:10Z"
     },
     {
       "id": "1f3720c1-7bb2-4a8a-a872-03af17346ff5",
@@ -157,7 +167,7 @@
       "street": "A1 - Glen Osmond Rd",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T05:24:41Z"
     },
     {
@@ -167,18 +177,38 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
+      "timestamp": "2026-03-04T06:30:17Z",
       "reported_at": "2026-03-04T05:41:39Z"
     },
     {
-      "id": "aadfa287-bcb3-46c3-9cfb-c0de017500db",
-      "latitude": -34.775509,
-      "longitude": 138.661084,
+      "id": "ee36d654-7dde-4688-bb47-721de3e506fc",
+      "latitude": -34.859636,
+      "longitude": 138.583134,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:00:33Z"
+    },
+    {
+      "id": "c772c991-c300-4d2e-a002-ca7991c8f269",
+      "latitude": -34.847558,
+      "longitude": 138.716654,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T05:59:29Z"
+    },
+    {
+      "id": "acd4a705-7583-42e6-aa60-184bac844308",
+      "latitude": -34.776789,
+      "longitude": 138.659927,
       "street": "A20 - Main North Rd",
       "city": "Brahma Lodge",
       "type": "mobile",
-      "timestamp": "2026-03-04T06:00:22Z",
-      "reported_at": "2026-03-04T05:01:04Z"
+      "timestamp": "2026-03-04T06:30:17Z",
+      "reported_at": "2026-03-04T06:15:24Z"
     }
   ]
 }
