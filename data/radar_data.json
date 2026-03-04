@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "aa0c10ac-2e61-47f1-93ed-2df464e19817",
-      "latitude": -34.737514,
-      "longitude": 138.64718,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "842c4d53-ad8c-4758-bc34-4a178fea35a7",
+      "latitude": -34.695081,
+      "longitude": 138.650502,
+      "street": "Womma Rd",
+      "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:00:19Z",
-      "reported_at": "2026-03-04T20:48:03Z"
+      "timestamp": "2026-03-04T21:30:15Z",
+      "reported_at": "2026-03-04T21:11:15Z"
     },
     {
       "id": "caa32a5d-36ee-4855-862f-89e254930d2d",
@@ -17,18 +17,38 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:00:19Z",
+      "timestamp": "2026-03-04T21:30:15Z",
       "reported_at": "2026-03-04T19:43:28Z"
     },
     {
-      "id": "de8b335a-cf8b-43df-9110-51d870b3f4d0",
-      "latitude": -35.040921,
-      "longitude": 138.81492,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "3f22fb72-6d85-4998-b46a-0c2288041529",
+      "latitude": -34.79695,
+      "longitude": 138.655608,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-04T21:00:19Z",
-      "reported_at": "2026-03-04T20:41:11Z"
+      "timestamp": "2026-03-04T21:30:15Z",
+      "reported_at": "2026-03-04T21:14:39Z"
+    },
+    {
+      "id": "e09f133c-5c95-4221-901d-c52bb154ac34",
+      "latitude": -34.711196,
+      "longitude": 138.575439,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-03-04T21:30:15Z",
+      "reported_at": "2026-03-04T21:17:30Z"
+    },
+    {
+      "id": "c66224ab-9569-4c00-a22c-b64cadb95109",
+      "latitude": -35.103662,
+      "longitude": 138.511332,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-04T21:30:15Z",
+      "reported_at": "2026-03-04T21:14:01Z"
     }
   ]
 }
