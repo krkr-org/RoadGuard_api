@@ -1,64 +1,14 @@
 {
   "radars": [
     {
-      "id": "ca5c2f0c-32c1-49a3-b932-9ad25a7ece69",
-      "latitude": -34.897163,
-      "longitude": 138.663728,
-      "street": "Reid Av",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T08:22:41Z"
-    },
-    {
-      "id": "47a8eac4-249f-48cd-be7b-9e7fba958649",
-      "latitude": -34.894744,
-      "longitude": 138.657812,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T07:46:41Z"
-    },
-    {
-      "id": "50490990-2a62-4110-a64a-4cd7c4d6234e",
-      "latitude": -34.914233,
-      "longitude": 138.585222,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T07:07:15Z"
-    },
-    {
-      "id": "7536dd82-010f-42ed-b3ac-9710db841719",
-      "latitude": -34.899044,
-      "longitude": 138.612439,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T06:03:54Z"
-    },
-    {
       "id": "854a4504-d65d-491a-a1b3-2d07da58f382",
       "latitude": -34.857005,
       "longitude": 138.689165,
       "street": "Lyons Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
+      "timestamp": "2026-03-04T12:00:19Z",
       "reported_at": "2026-03-04T08:12:30Z"
-    },
-    {
-      "id": "06b7e23b-3474-46cd-8573-78ea1755292a",
-      "latitude": -34.921076,
-      "longitude": 138.607376,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T11:18:32Z"
     },
     {
       "id": "fed17a91-a707-41cc-9d08-ce5a9000789e",
@@ -67,8 +17,18 @@
       "street": "Unley Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
+      "timestamp": "2026-03-04T12:00:19Z",
       "reported_at": "2026-03-04T10:02:58Z"
+    },
+    {
+      "id": "9dc1aa81-c9f1-4306-bb47-2c9593e90062",
+      "latitude": -34.990643,
+      "longitude": 138.595745,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-04T12:00:19Z",
+      "reported_at": "2026-03-04T11:33:06Z"
     },
     {
       "id": "d766478e-035e-4b6f-aee8-0104dda0cb06",
@@ -77,18 +37,8 @@
       "street": "A13 - Main South Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
+      "timestamp": "2026-03-04T12:00:19Z",
       "reported_at": "2026-03-04T09:38:34Z"
-    },
-    {
-      "id": "58f6b649-fb33-4afb-a395-8d99032e1cd4",
-      "latitude": -34.93907,
-      "longitude": 138.58553,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T09:57:54Z"
     },
     {
       "id": "07e2b8e8-d952-42f4-a60a-031716dfbc10",
@@ -97,18 +47,8 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
+      "timestamp": "2026-03-04T12:00:19Z",
       "reported_at": "2026-03-04T10:31:24Z"
-    },
-    {
-      "id": "cc7a4351-858e-43d9-b3d6-a19dec358c52",
-      "latitude": -34.931049,
-      "longitude": 138.62392,
-      "street": "R1 - Fullarton Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-04T11:30:14Z",
-      "reported_at": "2026-03-04T11:14:31Z"
     }
   ]
 }
