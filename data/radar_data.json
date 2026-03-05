@@ -7,8 +7,18 @@
       "street": "Sturton Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-05T00:42:03Z"
+    },
+    {
+      "id": "66e22d68-60fd-463e-b5f6-c7c40252940e",
+      "latitude": -34.781268,
+      "longitude": 138.50116,
+      "street": "Pelican Point Rd",
+      "city": "Outer Harbor",
+      "type": "mobile",
+      "timestamp": "2026-03-05T03:30:14Z",
+      "reported_at": "2026-03-05T03:15:34Z"
     },
     {
       "id": "cfa0b08f-6f0b-42ba-a5b3-dab3eed5b30f",
@@ -17,7 +27,7 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-05T01:59:00Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Coventry Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-05T02:31:35Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Light Av",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-04T23:11:18Z"
     },
     {
@@ -47,17 +57,17 @@
       "street": "Henley Beach Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-05T01:48:21Z"
     },
     {
       "id": "819836f5-5614-45ed-9643-d615532dcf81",
-      "latitude": -35.146639,
-      "longitude": 138.535039,
+      "latitude": -35.146652,
+      "longitude": 138.534798,
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-05T00:47:05Z"
     },
     {
@@ -67,18 +77,28 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-04T22:30:03Z"
     },
     {
-      "id": "f9438f65-9c6c-4767-9c41-f74800bdcb30",
-      "latitude": -34.7641,
-      "longitude": 138.628696,
+      "id": "fa092f30-7a1a-4911-9a95-3de4d2e005c1",
+      "latitude": -34.764896,
+      "longitude": 138.627546,
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
-      "reported_at": "2026-03-04T21:57:36Z"
+      "timestamp": "2026-03-05T03:30:14Z",
+      "reported_at": "2026-03-04T23:34:25Z"
+    },
+    {
+      "id": "c8aba4d0-2f61-4456-a998-0b1687c05121",
+      "latitude": -34.693806,
+      "longitude": 138.647537,
+      "street": "Womma Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-03-05T03:30:14Z",
+      "reported_at": "2026-03-05T02:14:03Z"
     },
     {
       "id": "33bcad98-92d3-403b-8403-b1709868e6b0",
@@ -87,7 +107,7 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-05T01:21:46Z"
     },
     {
@@ -97,18 +117,8 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
+      "timestamp": "2026-03-05T03:30:14Z",
       "reported_at": "2026-03-04T23:14:06Z"
-    },
-    {
-      "id": "7d63efc9-140a-4bca-b984-52cb0561042e",
-      "latitude": -34.795042,
-      "longitude": 138.652532,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-05T03:00:15Z",
-      "reported_at": "2026-03-05T01:11:42Z"
     }
   ]
 }
