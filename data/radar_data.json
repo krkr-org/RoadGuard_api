@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "6423564b-4e36-4d7d-929f-dd73e7ea532b",
-      "latitude": -34.912178,
-      "longitude": 138.537251,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
-      "reported_at": "2026-03-05T09:53:14Z"
-    },
-    {
       "id": "cf761f40-49e3-484d-b6a8-9d3016dc1997",
       "latitude": -34.918718,
       "longitude": 138.576494,
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
+      "timestamp": "2026-03-05T14:00:16Z",
       "reported_at": "2026-03-05T11:05:15Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Womma Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
+      "timestamp": "2026-03-05T14:00:16Z",
       "reported_at": "2026-03-05T13:14:04Z"
+    },
+    {
+      "id": "15af9db3-75f4-42e5-ac86-ecfafe37b96c",
+      "latitude": -34.905042,
+      "longitude": 138.571254,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-03-05T14:00:16Z",
+      "reported_at": "2026-03-05T10:17:30Z"
     },
     {
       "id": "6c056ede-e0f4-410f-965b-6649c3459d23",
@@ -37,18 +37,8 @@
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
+      "timestamp": "2026-03-05T14:00:16Z",
       "reported_at": "2026-03-05T13:22:25Z"
-    },
-    {
-      "id": "c2dfa898-1ad0-4673-b040-cdde96325142",
-      "latitude": -34.944521,
-      "longitude": 138.58083,
-      "street": "A5 - Anzac Hwy",
-      "city": "Keswick",
-      "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
-      "reported_at": "2026-03-05T13:01:51Z"
     },
     {
       "id": "6c2eae8c-8679-4762-959d-f2b78f0dcf39",
@@ -57,18 +47,8 @@
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
+      "timestamp": "2026-03-05T14:00:16Z",
       "reported_at": "2026-03-05T10:22:07Z"
-    },
-    {
-      "id": "c96719a0-02ae-4258-81a5-ed95e2d57d9f",
-      "latitude": -34.963567,
-      "longitude": 138.644155,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
-      "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
-      "reported_at": "2026-03-05T13:04:08Z"
     },
     {
       "id": "a1d8717d-bb78-444c-a863-781cc5f7fdd0",
@@ -77,18 +57,8 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
+      "timestamp": "2026-03-05T14:00:16Z",
       "reported_at": "2026-03-05T12:23:01Z"
-    },
-    {
-      "id": "a6e98a49-46b3-4d26-9548-abf8d6ad7569",
-      "latitude": -34.965061,
-      "longitude": 138.647211,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-03-05T13:30:18Z",
-      "reported_at": "2026-03-05T13:03:01Z"
     }
   ]
 }
