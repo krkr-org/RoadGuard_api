@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "61d309a8-5616-48d3-ae28-a1f59d966ef9",
+      "latitude": -34.823862,
+      "longitude": 138.636038,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:00:20Z",
+      "reported_at": "2026-03-05T20:51:05Z"
+    },
+    {
       "id": "16409059-85c4-424a-b89b-3e1a598a8f7b",
       "latitude": -34.969053,
       "longitude": 138.662004,
       "street": "M1 - South Eastern Fwy",
       "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-05T20:30:18Z",
+      "timestamp": "2026-03-05T21:00:20Z",
       "reported_at": "2026-03-05T19:32:21Z"
     }
   ]
