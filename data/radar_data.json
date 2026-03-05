@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "84398f47-7793-46fe-bd0c-2e220c068712",
-      "latitude": -34.970325,
-      "longitude": 138.514062,
-      "street": "Rothwell Tce",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T06:11:44Z"
-    },
-    {
       "id": "d847e0e2-27e8-4a6c-85ec-9a0e7234f780",
       "latitude": -34.934224,
       "longitude": 138.565083,
       "street": "Davenport Tce",
       "city": "Hilton",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
+      "timestamp": "2026-03-05T08:30:14Z",
       "reported_at": "2026-03-05T05:54:14Z"
     },
     {
@@ -27,18 +17,38 @@
       "street": "Shannon Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
+      "timestamp": "2026-03-05T08:30:14Z",
       "reported_at": "2026-03-05T05:31:28Z"
     },
     {
-      "id": "d2cbda74-771b-4c59-93ed-8e3ad63163ab",
-      "latitude": -34.918741,
-      "longitude": 138.575518,
+      "id": "84398f47-7793-46fe-bd0c-2e220c068712",
+      "latitude": -34.970325,
+      "longitude": 138.514062,
+      "street": "Rothwell Tce",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T06:11:44Z"
+    },
+    {
+      "id": "f73a08a4-4181-4b63-a023-52fdef2d7cd0",
+      "latitude": -34.918743,
+      "longitude": 138.575467,
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T05:16:02Z"
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T06:03:41Z"
+    },
+    {
+      "id": "5f943b8d-dfd0-4285-b2ac-0f522ebebcf6",
+      "latitude": -34.94156,
+      "longitude": 138.503103,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T05:25:34Z"
     },
     {
       "id": "ceb16599-14c3-4ab0-90d2-cd38ee7dac18",
@@ -47,38 +57,18 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
+      "timestamp": "2026-03-05T08:30:14Z",
       "reported_at": "2026-03-05T07:30:55Z"
     },
     {
-      "id": "efc144f9-a83d-48ad-b7c9-3992a8fab7f4",
-      "latitude": -34.864112,
-      "longitude": 138.552202,
-      "street": "Unknown Street",
-      "city": "Woodville Gardens",
+      "id": "b9fe9d49-0688-479c-88cb-ab352c8c0b9c",
+      "latitude": -34.992807,
+      "longitude": 138.575205,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T07:34:01Z"
-    },
-    {
-      "id": "3da33ce6-2ae5-4903-86a1-9574b05c9df6",
-      "latitude": -34.838575,
-      "longitude": 138.482529,
-      "street": "Semaphore Rd",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T04:05:36Z"
-    },
-    {
-      "id": "74c6a98b-ee6d-447a-b24f-fe40e33da83f",
-      "latitude": -35.146583,
-      "longitude": 138.536122,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T05:05:48Z"
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T08:03:52Z"
     },
     {
       "id": "30c62145-6c9e-4ac3-9af1-1ed407df24df",
@@ -87,28 +77,48 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
+      "timestamp": "2026-03-05T08:30:14Z",
       "reported_at": "2026-03-05T07:30:19Z"
     },
     {
-      "id": "e6fafd6f-1a11-48ec-bd1b-f98e2d3aeea8",
-      "latitude": -35.020569,
-      "longitude": 138.523152,
-      "street": "A15 - Brighton Rd",
-      "city": "Brighton",
+      "id": "8ec37bd7-f69b-43b6-b7f8-371ccc5a659b",
+      "latitude": -34.732511,
+      "longitude": 138.591476,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T07:43:34Z"
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T08:10:06Z"
     },
     {
-      "id": "1d28cbb2-8b46-4a1b-9278-b6223406b53b",
-      "latitude": -34.905393,
-      "longitude": 138.571781,
+      "id": "c161fcab-c581-4d1d-96ff-c8365a27e5f7",
+      "latitude": -34.905529,
+      "longitude": 138.571989,
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
-      "reported_at": "2026-03-05T07:14:54Z"
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T06:31:27Z"
+    },
+    {
+      "id": "613da9d8-71ea-4fe8-9bd3-9ad320ca8f3f",
+      "latitude": -34.97602,
+      "longitude": 138.523998,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T06:17:58Z"
+    },
+    {
+      "id": "728cc216-e2c6-4d1c-8b1e-918ee2b191df",
+      "latitude": -34.968048,
+      "longitude": 138.516858,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-05T08:30:14Z",
+      "reported_at": "2026-03-05T08:25:54Z"
     },
     {
       "id": "57e0a566-375f-447a-911c-ee663976a6e6",
@@ -117,7 +127,7 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:00:16Z",
+      "timestamp": "2026-03-05T08:30:14Z",
       "reported_at": "2026-03-05T07:10:37Z"
     }
   ]
