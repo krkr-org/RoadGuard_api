@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "84398f47-7793-46fe-bd0c-2e220c068712",
+      "latitude": -34.970325,
+      "longitude": 138.514062,
+      "street": "Rothwell Tce",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T06:11:44Z"
+    },
+    {
       "id": "d847e0e2-27e8-4a6c-85ec-9a0e7234f780",
       "latitude": -34.934224,
       "longitude": 138.565083,
       "street": "Davenport Tce",
       "city": "Hilton",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
+      "timestamp": "2026-03-05T09:00:17Z",
       "reported_at": "2026-03-05T05:54:14Z"
     },
     {
@@ -17,18 +27,28 @@
       "street": "Shannon Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
+      "timestamp": "2026-03-05T09:00:17Z",
       "reported_at": "2026-03-05T05:31:28Z"
     },
     {
-      "id": "84398f47-7793-46fe-bd0c-2e220c068712",
-      "latitude": -34.970325,
-      "longitude": 138.514062,
-      "street": "Rothwell Tce",
-      "city": "Glenelg North",
+      "id": "9e4094e1-a864-4d87-9a0f-72447189fd03",
+      "latitude": -34.912241,
+      "longitude": 138.53587,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T06:11:44Z"
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T05:21:58Z"
+    },
+    {
+      "id": "63bd90e0-26e0-4a7c-9041-a2863c623328",
+      "latitude": -34.919441,
+      "longitude": 138.503923,
+      "street": "North St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T08:34:23Z"
     },
     {
       "id": "f73a08a4-4181-4b63-a023-52fdef2d7cd0",
@@ -37,7 +57,7 @@
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
+      "timestamp": "2026-03-05T09:00:17Z",
       "reported_at": "2026-03-05T06:03:41Z"
     },
     {
@@ -47,48 +67,48 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
+      "timestamp": "2026-03-05T09:00:17Z",
       "reported_at": "2026-03-05T05:25:34Z"
     },
     {
-      "id": "ceb16599-14c3-4ab0-90d2-cd38ee7dac18",
-      "latitude": -34.929364,
-      "longitude": 138.542461,
+      "id": "5a579367-728e-481f-82e6-eec42c46640d",
+      "latitude": -34.929788,
+      "longitude": 138.542328,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T07:30:55Z"
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T05:32:31Z"
     },
     {
-      "id": "b9fe9d49-0688-479c-88cb-ab352c8c0b9c",
-      "latitude": -34.992807,
-      "longitude": 138.575205,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
+      "id": "bcf6e9df-c203-48a8-8c5c-b17a7029a923",
+      "latitude": -34.869696,
+      "longitude": 138.677483,
+      "street": "George St",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T08:03:52Z"
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T08:37:43Z"
     },
     {
-      "id": "30c62145-6c9e-4ac3-9af1-1ed407df24df",
-      "latitude": -34.763805,
-      "longitude": 138.629127,
+      "id": "c94130ba-9748-4a2c-b1a9-ab5e7b1d8310",
+      "latitude": -34.914428,
+      "longitude": 138.593528,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T08:55:33Z"
+    },
+    {
+      "id": "f1c8fb43-d7e7-4342-988b-33909667951a",
+      "latitude": -34.765185,
+      "longitude": 138.627122,
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T07:30:19Z"
-    },
-    {
-      "id": "8ec37bd7-f69b-43b6-b7f8-371ccc5a659b",
-      "latitude": -34.732511,
-      "longitude": 138.591476,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T08:10:06Z"
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T07:01:06Z"
     },
     {
       "id": "c161fcab-c581-4d1d-96ff-c8365a27e5f7",
@@ -97,18 +117,28 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
+      "timestamp": "2026-03-05T09:00:17Z",
       "reported_at": "2026-03-05T06:31:27Z"
     },
     {
-      "id": "613da9d8-71ea-4fe8-9bd3-9ad320ca8f3f",
-      "latitude": -34.97602,
-      "longitude": 138.523998,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
+      "id": "a5342672-7067-47d7-bc6b-9e489e4efa99",
+      "latitude": -34.836243,
+      "longitude": 138.68009,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T06:17:58Z"
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T08:55:13Z"
+    },
+    {
+      "id": "cee3b1f7-4333-4fe8-9231-a853dd1e883b",
+      "latitude": -34.851758,
+      "longitude": 138.520151,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
+      "type": "mobile",
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T08:50:12Z"
     },
     {
       "id": "728cc216-e2c6-4d1c-8b1e-918ee2b191df",
@@ -117,18 +147,18 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
+      "timestamp": "2026-03-05T09:00:17Z",
       "reported_at": "2026-03-05T08:25:54Z"
     },
     {
-      "id": "57e0a566-375f-447a-911c-ee663976a6e6",
-      "latitude": -34.803001,
-      "longitude": 138.605017,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "a1e0bc11-2b34-49d3-9c56-bc286b4c1d91",
+      "latitude": -34.806586,
+      "longitude": 138.571743,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-03-05T08:30:14Z",
-      "reported_at": "2026-03-05T07:10:37Z"
+      "timestamp": "2026-03-05T09:00:17Z",
+      "reported_at": "2026-03-05T08:43:13Z"
     }
   ]
 }
