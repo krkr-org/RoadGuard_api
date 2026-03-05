@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "6423564b-4e36-4d7d-929f-dd73e7ea532b",
-      "latitude": -34.912178,
-      "longitude": 138.537251,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
-      "reported_at": "2026-03-05T09:53:14Z"
-    },
-    {
       "id": "63bd90e0-26e0-4a7c-9041-a2863c623328",
       "latitude": -34.919441,
       "longitude": 138.503923,
       "street": "North St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
+      "timestamp": "2026-03-05T12:30:14Z",
       "reported_at": "2026-03-05T08:34:23Z"
+    },
+    {
+      "id": "6423564b-4e36-4d7d-929f-dd73e7ea532b",
+      "latitude": -34.912178,
+      "longitude": 138.537251,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-03-05T12:30:14Z",
+      "reported_at": "2026-03-05T09:53:14Z"
     },
     {
       "id": "901e3089-7c72-4a8b-b593-60e2e516f58e",
@@ -27,7 +27,7 @@
       "street": "Pennington Tce",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
+      "timestamp": "2026-03-05T12:30:14Z",
       "reported_at": "2026-03-05T09:06:43Z"
     },
     {
@@ -37,48 +37,38 @@
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
+      "timestamp": "2026-03-05T12:30:14Z",
       "reported_at": "2026-03-05T09:45:54Z"
     },
     {
-      "id": "7e764df5-0576-42a0-804c-9501faf099ac",
-      "latitude": -35.026051,
-      "longitude": 138.559414,
-      "street": "Flagstaff Rd",
-      "city": "Darlington",
+      "id": "9d89a078-8fa9-4a63-ad32-df5a67efeb03",
+      "latitude": -34.865116,
+      "longitude": 138.531892,
+      "street": "Torrens Rd",
+      "city": "Hendon",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
-      "reported_at": "2026-03-05T11:32:41Z"
+      "timestamp": "2026-03-05T12:30:14Z",
+      "reported_at": "2026-03-05T12:10:18Z"
     },
     {
-      "id": "bb23e6cd-4bb7-41db-82e2-1ac3e563fa74",
-      "latitude": -34.976401,
-      "longitude": 138.555762,
-      "street": "A14 - Marion Rd",
-      "city": "South Plympton",
+      "id": "0e8dea4b-8b0e-4a35-b76f-df5120a81c32",
+      "latitude": -34.848947,
+      "longitude": 138.50842,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
-      "reported_at": "2026-03-05T11:24:47Z"
+      "timestamp": "2026-03-05T12:30:14Z",
+      "reported_at": "2026-03-05T11:45:22Z"
     },
     {
-      "id": "6c2eae8c-8679-4762-959d-f2b78f0dcf39",
-      "latitude": -34.976086,
-      "longitude": 138.525797,
+      "id": "934dbf5f-5346-486b-b6ac-96035890ff93",
+      "latitude": -34.975947,
+      "longitude": 138.525611,
       "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
-      "reported_at": "2026-03-05T10:22:07Z"
-    },
-    {
-      "id": "13d8e4c6-6f9c-4847-8772-b47fb619dbbb",
-      "latitude": -34.966661,
-      "longitude": 138.516754,
-      "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
-      "reported_at": "2026-03-05T08:28:32Z"
+      "timestamp": "2026-03-05T12:30:14Z",
+      "reported_at": "2026-03-05T08:57:16Z"
     },
     {
       "id": "65cc108c-ae56-42f2-83d4-15a6b8d39617",
@@ -87,7 +77,7 @@
       "street": "A5 - Anzac Hwy",
       "city": "Ashford",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
+      "timestamp": "2026-03-05T12:30:14Z",
       "reported_at": "2026-03-05T11:55:14Z"
     },
     {
@@ -97,8 +87,18 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-05T12:00:15Z",
+      "timestamp": "2026-03-05T12:30:14Z",
       "reported_at": "2026-03-05T10:17:30Z"
+    },
+    {
+      "id": "66d60d68-390a-44f0-b335-d97208a07365",
+      "latitude": -35.033471,
+      "longitude": 138.55566,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-05T12:30:14Z",
+      "reported_at": "2026-03-05T12:06:44Z"
     }
   ]
 }
