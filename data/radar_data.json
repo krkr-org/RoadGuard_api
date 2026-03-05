@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "d4830c58-5abe-4d55-98ff-eaf996d22981",
+      "latitude": -34.85152,
+      "longitude": 138.662215,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T21:40:53Z"
+    },
+    {
       "id": "024c06a3-7b58-4dc9-b20f-a7465809bb74",
       "latitude": -34.874428,
       "longitude": 138.624482,
       "street": "Ways Rd",
       "city": "Manningham",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
+      "timestamp": "2026-03-05T23:00:19Z",
       "reported_at": "2026-03-05T21:12:48Z"
     },
     {
@@ -17,38 +27,8 @@
       "street": "Unknown Street",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
+      "timestamp": "2026-03-05T23:00:19Z",
       "reported_at": "2026-03-05T21:19:07Z"
-    },
-    {
-      "id": "3b66ab20-7189-4d30-8123-05abfa52c5e6",
-      "latitude": -34.849276,
-      "longitude": 138.660722,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T21:18:26Z"
-    },
-    {
-      "id": "086ac71e-d348-4d68-ba1b-2aaf022ac159",
-      "latitude": -34.814024,
-      "longitude": 138.631432,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T21:10:05Z"
-    },
-    {
-      "id": "eeaa93f6-fc63-4c5f-8ef1-19fe36193fc7",
-      "latitude": -34.884359,
-      "longitude": 138.48611,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T22:00:11Z"
     },
     {
       "id": "a45e00c2-62da-44dc-b1b5-023e19dbbefa",
@@ -57,18 +37,28 @@
       "street": "Fosters Rd",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
+      "timestamp": "2026-03-05T23:00:19Z",
       "reported_at": "2026-03-05T21:03:18Z"
     },
     {
-      "id": "d507e896-e036-4348-95b9-131b14ae4c3e",
-      "latitude": -34.822851,
-      "longitude": 138.63695,
+      "id": "17bca72d-8f49-4399-bf8a-ad217c909bfc",
+      "latitude": -34.823137,
+      "longitude": 138.63685,
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T22:23:29Z"
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T21:02:12Z"
+    },
+    {
+      "id": "e09aff4d-a8d9-4855-a3e9-5977e38d9a3b",
+      "latitude": -34.824439,
+      "longitude": 138.622712,
+      "street": "Montague Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:39:24Z"
     },
     {
       "id": "f4cc6eea-3503-4acb-a62a-b7e9612ca2fa",
@@ -77,18 +67,58 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
+      "timestamp": "2026-03-05T23:00:19Z",
       "reported_at": "2026-03-05T21:12:10Z"
     },
     {
-      "id": "0fac6688-e280-48e9-af05-bf0d5a7bc445",
-      "latitude": -34.824318,
-      "longitude": 138.632224,
-      "street": "Montague Rd",
-      "city": "Pooraka",
+      "id": "913ef0f7-ef0c-4be9-87c7-0001c2cdc565",
+      "latitude": -34.824557,
+      "longitude": 138.635415,
+      "street": "Bridge Rd",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T22:02:48Z"
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:20:14Z"
+    },
+    {
+      "id": "e4d70439-f954-4adf-9fa6-95023c7d9af4",
+      "latitude": -34.793636,
+      "longitude": 138.692125,
+      "street": "The Golden Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:27:23Z"
+    },
+    {
+      "id": "9ee45d20-053b-49d0-8235-ce73ec4791a0",
+      "latitude": -34.928865,
+      "longitude": 138.517575,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:38:52Z"
+    },
+    {
+      "id": "896ab515-110a-48c4-9b72-68095e7835b3",
+      "latitude": -34.950938,
+      "longitude": 138.5751,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
+      "type": "mobile",
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:54:01Z"
+    },
+    {
+      "id": "4e7867e5-651e-4a4d-8ddd-230417e82177",
+      "latitude": -34.847176,
+      "longitude": 138.626639,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:03:42Z"
     },
     {
       "id": "726621cd-0de9-48f0-ab73-b158e13cf21c",
@@ -97,18 +127,8 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
+      "timestamp": "2026-03-05T23:00:19Z",
       "reported_at": "2026-03-05T21:34:56Z"
-    },
-    {
-      "id": "13014e86-38a2-4f39-af5b-a52eec18d992",
-      "latitude": -34.847207,
-      "longitude": 138.628056,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T21:58:20Z"
     },
     {
       "id": "95a6f8b7-20c7-4326-8145-61fc6ba014b6",
@@ -117,18 +137,18 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
+      "timestamp": "2026-03-05T23:00:19Z",
       "reported_at": "2026-03-05T20:10:49Z"
     },
     {
-      "id": "2cbed02a-716c-44f6-aecb-55ab243136ba",
-      "latitude": -34.888417,
-      "longitude": 138.570047,
-      "street": "M2 - North-South Mwy",
-      "city": "Renown Park",
+      "id": "3204a59c-1199-4b21-b1ec-8628a0608a8a",
+      "latitude": -35.095142,
+      "longitude": 138.519929,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-05T22:30:17Z",
-      "reported_at": "2026-03-05T22:27:02Z"
+      "timestamp": "2026-03-05T23:00:19Z",
+      "reported_at": "2026-03-05T22:49:18Z"
     }
   ]
 }
