@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "8f76cca4-5663-42cf-b298-83b704353ca4",
+      "latitude": -34.973377,
+      "longitude": 138.528593,
+      "street": "Pine Av",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T04:59:39Z"
+    },
+    {
+      "id": "d2cbda74-771b-4c59-93ed-8e3ad63163ab",
+      "latitude": -34.918741,
+      "longitude": 138.575518,
+      "street": "George St",
+      "city": "Thebarton",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:16:02Z"
+    },
+    {
       "id": "71837edf-ae6a-4077-9f4e-e38b80e3038b",
       "latitude": -34.667704,
       "longitude": 138.688784,
       "street": "Coventry Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
+      "timestamp": "2026-03-05T05:30:14Z",
       "reported_at": "2026-03-05T02:31:35Z"
     },
     {
-      "id": "cfa0b08f-6f0b-42ba-a5b3-dab3eed5b30f",
-      "latitude": -34.737242,
-      "longitude": 138.646552,
+      "id": "50308203-fcc8-43ad-aca0-6a463ea47e2d",
+      "latitude": -34.922265,
+      "longitude": 138.613667,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:17:47Z"
+    },
+    {
+      "id": "eb6318dc-0335-41bc-9357-577b57e14e82",
+      "latitude": -34.737396,
+      "longitude": 138.646908,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
-      "reported_at": "2026-03-05T01:59:00Z"
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T01:41:39Z"
     },
     {
       "id": "3da33ce6-2ae5-4903-86a1-9574b05c9df6",
@@ -27,8 +57,58 @@
       "street": "Semaphore Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
+      "timestamp": "2026-03-05T05:30:14Z",
       "reported_at": "2026-03-05T04:05:36Z"
+    },
+    {
+      "id": "8ef15041-03db-4309-bc8c-be1df71fdbec",
+      "latitude": -34.879471,
+      "longitude": 138.513069,
+      "street": "West Lakes Bvd",
+      "city": "Albert Park",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:04:21Z"
+    },
+    {
+      "id": "489ebb5b-33ed-49b8-bbe9-70d89c16b85f",
+      "latitude": -34.845355,
+      "longitude": 138.500224,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:26:21Z"
+    },
+    {
+      "id": "26c980bb-bc57-453c-a19f-60677516b954",
+      "latitude": -34.906667,
+      "longitude": 138.491869,
+      "street": "Military Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:00:16Z"
+    },
+    {
+      "id": "42a47f98-cc32-49be-8579-ff2587ab21ad",
+      "latitude": -35.010871,
+      "longitude": 138.58123,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:27:18Z"
+    },
+    {
+      "id": "74c6a98b-ee6d-447a-b24f-fe40e33da83f",
+      "latitude": -35.146583,
+      "longitude": 138.536122,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:05:48Z"
     },
     {
       "id": "24bf788f-8492-45d9-84ce-bc828c987d97",
@@ -37,48 +117,78 @@
       "street": "Bains Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
+      "timestamp": "2026-03-05T05:30:14Z",
       "reported_at": "2026-03-05T04:34:01Z"
     },
     {
-      "id": "33bcad98-92d3-403b-8403-b1709868e6b0",
-      "latitude": -34.664579,
-      "longitude": 138.55984,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "78f89f30-8140-400c-a811-91733bbcaf64",
+      "latitude": -34.862998,
+      "longitude": 138.547508,
+      "street": "Hanson Rd",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
-      "reported_at": "2026-03-05T01:21:46Z"
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:08:33Z"
     },
     {
-      "id": "6fcf88f2-5a0f-4c4f-acea-ee716a78a47d",
-      "latitude": -34.84065,
-      "longitude": 138.511429,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "id": "4e9a8281-8178-4415-8122-b87aece3a676",
+      "latitude": -34.747579,
+      "longitude": 138.638951,
+      "street": "Commercial Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
-      "reported_at": "2026-03-05T04:56:14Z"
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:00:24Z"
     },
     {
-      "id": "436797cc-89ee-4826-8213-177181733cda",
-      "latitude": -34.907897,
-      "longitude": 138.576322,
+      "id": "0f1a5775-b4aa-4e7a-9908-ea037c812aa5",
+      "latitude": -34.976118,
+      "longitude": 138.521986,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:16:52Z"
+    },
+    {
+      "id": "2c3afce0-c439-494c-8b17-03beafe77881",
+      "latitude": -34.9009,
+      "longitude": 138.585951,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:12:16Z"
+    },
+    {
+      "id": "613a8331-d23e-4eed-bd26-4c0dc84e065c",
+      "latitude": -34.904851,
+      "longitude": 138.570952,
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
-      "reported_at": "2026-03-05T04:45:07Z"
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:19:13Z"
     },
     {
-      "id": "0b4d7261-4ed3-4729-8279-d3d0e59344a6",
-      "latitude": -34.767036,
-      "longitude": 138.671459,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
+      "id": "56122c02-8150-4c2f-9d86-51cd2e66cd46",
+      "latitude": -34.932471,
+      "longitude": 138.544893,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T05:00:15Z",
-      "reported_at": "2026-03-05T04:41:58Z"
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:07:04Z"
+    },
+    {
+      "id": "d2c08e45-bd64-4803-a689-6dc41db5da2d",
+      "latitude": -34.860696,
+      "longitude": 138.567448,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-05T05:30:14Z",
+      "reported_at": "2026-03-05T05:04:22Z"
     }
   ]
 }
