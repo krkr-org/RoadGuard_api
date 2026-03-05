@@ -1,84 +1,34 @@
 {
   "radars": [
     {
+      "id": "84398f47-7793-46fe-bd0c-2e220c068712",
+      "latitude": -34.970325,
+      "longitude": 138.514062,
+      "street": "Rothwell Tce",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T06:11:44Z"
+    },
+    {
       "id": "75306631-60bf-4eb9-a069-e766a4e00ac1",
       "latitude": -34.966274,
       "longitude": 138.520207,
       "street": "Shannon Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
+      "timestamp": "2026-03-05T06:30:15Z",
       "reported_at": "2026-03-05T05:35:40Z"
     },
     {
-      "id": "83690c91-18f2-404b-b4f6-a9051dc2b2f0",
-      "latitude": -34.934207,
-      "longitude": 138.564906,
-      "street": "Davenport Tce",
-      "city": "Hilton",
+      "id": "9e4094e1-a864-4d87-9a0f-72447189fd03",
+      "latitude": -34.912241,
+      "longitude": 138.53587,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:56:12Z"
-    },
-    {
-      "id": "5f943b8d-dfd0-4285-b2ac-0f522ebebcf6",
-      "latitude": -34.94156,
-      "longitude": 138.503103,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:25:34Z"
-    },
-    {
-      "id": "6860affb-49c3-4067-9558-7fc2a04b00b2",
-      "latitude": -34.960047,
-      "longitude": 138.563335,
-      "street": "Beckman St",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:49:09Z"
-    },
-    {
-      "id": "5a579367-728e-481f-82e6-eec42c46640d",
-      "latitude": -34.929788,
-      "longitude": 138.542328,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:32:31Z"
-    },
-    {
-      "id": "0fcd1912-def4-4fc1-83f5-868dc2a8042a",
-      "latitude": -34.97106,
-      "longitude": 138.514167,
-      "street": "Adelphi Tce",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:08:50Z"
-    },
-    {
-      "id": "71837edf-ae6a-4077-9f4e-e38b80e3038b",
-      "latitude": -34.667704,
-      "longitude": 138.688784,
-      "street": "Coventry Rd",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T02:31:35Z"
-    },
-    {
-      "id": "8f76cca4-5663-42cf-b298-83b704353ca4",
-      "latitude": -34.973377,
-      "longitude": 138.528593,
-      "street": "Pine Av",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T04:59:39Z"
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T05:21:58Z"
     },
     {
       "id": "d2cbda74-771b-4c59-93ed-8e3ad63163ab",
@@ -87,8 +37,58 @@
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
+      "timestamp": "2026-03-05T06:30:15Z",
       "reported_at": "2026-03-05T05:16:02Z"
+    },
+    {
+      "id": "6112b399-a815-455d-9905-ef09a3b0ee7c",
+      "latitude": -34.942429,
+      "longitude": 138.503403,
+      "street": "Military Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T06:01:00Z"
+    },
+    {
+      "id": "d4b353a4-5e1c-481a-8e74-eb90591fdcb3",
+      "latitude": -34.925329,
+      "longitude": 138.54373,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T06:00:58Z"
+    },
+    {
+      "id": "71837edf-ae6a-4077-9f4e-e38b80e3038b",
+      "latitude": -34.667704,
+      "longitude": 138.688784,
+      "street": "Coventry Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T02:31:35Z"
+    },
+    {
+      "id": "f6c30ee2-55a0-45bb-a635-9bd09df0535e",
+      "latitude": -34.892811,
+      "longitude": 138.569596,
+      "street": "Hawker St",
+      "city": "Ridleyton",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T05:40:59Z"
+    },
+    {
+      "id": "2e8dab8a-ad90-481d-8d0d-24fb24d4d3ab",
+      "latitude": -34.720279,
+      "longitude": 138.684417,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T06:29:25Z"
     },
     {
       "id": "3da33ce6-2ae5-4903-86a1-9574b05c9df6",
@@ -97,8 +97,18 @@
       "street": "Semaphore Rd",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
+      "timestamp": "2026-03-05T06:30:15Z",
       "reported_at": "2026-03-05T04:05:36Z"
+    },
+    {
+      "id": "5860017a-cf43-4b30-93db-eae117a7e121",
+      "latitude": -34.81576,
+      "longitude": 138.694119,
+      "street": "Golden Grove Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2026-03-05T06:30:15Z",
+      "reported_at": "2026-03-05T05:42:36Z"
     },
     {
       "id": "74c6a98b-ee6d-447a-b24f-fe40e33da83f",
@@ -107,58 +117,8 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
+      "timestamp": "2026-03-05T06:30:15Z",
       "reported_at": "2026-03-05T05:05:48Z"
-    },
-    {
-      "id": "b530b01e-0112-49d6-825f-3ee5fed82a05",
-      "latitude": -34.921808,
-      "longitude": 138.595445,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:44:29Z"
-    },
-    {
-      "id": "c1615243-4c37-4248-a9cd-256cf3a9bfde",
-      "latitude": -35.046857,
-      "longitude": 138.571408,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:51:07Z"
-    },
-    {
-      "id": "1374bf57-35c2-4c21-a39c-373a4662fee2",
-      "latitude": -34.904172,
-      "longitude": 138.570773,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:10:21Z"
-    },
-    {
-      "id": "0f1a5775-b4aa-4e7a-9908-ea037c812aa5",
-      "latitude": -34.976118,
-      "longitude": 138.521986,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T05:16:52Z"
-    },
-    {
-      "id": "fd99a49c-489b-46b1-8dfe-6b64e933c4e4",
-      "latitude": -34.768535,
-      "longitude": 138.636009,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-03-05T06:00:27Z",
-      "reported_at": "2026-03-05T04:57:09Z"
     }
   ]
 }
