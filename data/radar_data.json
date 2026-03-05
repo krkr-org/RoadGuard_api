@@ -7,18 +7,8 @@
       "street": "Sturton Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
+      "timestamp": "2026-03-05T04:30:15Z",
       "reported_at": "2026-03-05T00:42:03Z"
-    },
-    {
-      "id": "71837edf-ae6a-4077-9f4e-e38b80e3038b",
-      "latitude": -34.667704,
-      "longitude": 138.688784,
-      "street": "Coventry Rd",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
-      "reported_at": "2026-03-05T02:31:35Z"
     },
     {
       "id": "cfa0b08f-6f0b-42ba-a5b3-dab3eed5b30f",
@@ -27,8 +17,18 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
+      "timestamp": "2026-03-05T04:30:15Z",
       "reported_at": "2026-03-05T01:59:00Z"
+    },
+    {
+      "id": "71837edf-ae6a-4077-9f4e-e38b80e3038b",
+      "latitude": -34.667704,
+      "longitude": 138.688784,
+      "street": "Coventry Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-03-05T04:30:15Z",
+      "reported_at": "2026-03-05T02:31:35Z"
     },
     {
       "id": "9d56c364-df8c-46e4-afc3-53f7a2323508",
@@ -37,28 +37,18 @@
       "street": "Henley Beach Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
+      "timestamp": "2026-03-05T04:30:15Z",
       "reported_at": "2026-03-05T01:48:21Z"
     },
     {
-      "id": "3904e2a7-78f1-446c-8f78-d1fd69ae02b5",
-      "latitude": -34.846215,
-      "longitude": 138.694131,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
+      "id": "9f844b5b-0280-4be3-84b8-960c4c473316",
+      "latitude": -35.014311,
+      "longitude": 138.576552,
+      "street": "Shepherds Hill Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
-      "reported_at": "2026-03-05T03:33:26Z"
-    },
-    {
-      "id": "d4e936a8-a781-4d77-80e4-f031f289ddc3",
-      "latitude": -34.737219,
-      "longitude": 138.616352,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
-      "reported_at": "2026-03-05T02:10:18Z"
+      "timestamp": "2026-03-05T04:30:15Z",
+      "reported_at": "2026-03-05T04:15:15Z"
     },
     {
       "id": "33bcad98-92d3-403b-8403-b1709868e6b0",
@@ -67,18 +57,48 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
+      "timestamp": "2026-03-05T04:30:15Z",
       "reported_at": "2026-03-05T01:21:46Z"
     },
     {
-      "id": "8a17b064-0397-4422-a3a7-c0e30fda99d4",
-      "latitude": -34.755307,
-      "longitude": 138.585827,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
+      "id": "d4e936a8-a781-4d77-80e4-f031f289ddc3",
+      "latitude": -34.737219,
+      "longitude": 138.616352,
+      "street": "Bolivar Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-05T04:00:18Z",
-      "reported_at": "2026-03-05T03:58:32Z"
+      "timestamp": "2026-03-05T04:30:15Z",
+      "reported_at": "2026-03-05T02:10:18Z"
+    },
+    {
+      "id": "e90c0110-ff78-4a8f-a4c9-d0b06586874e",
+      "latitude": -35.136551,
+      "longitude": 138.486181,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-05T04:30:15Z",
+      "reported_at": "2026-03-05T04:05:56Z"
+    },
+    {
+      "id": "046cb1ac-e670-47f4-86c1-aa2bd399abbe",
+      "latitude": -34.798309,
+      "longitude": 138.501347,
+      "street": "A16 - Victoria Rd",
+      "city": "Osborne",
+      "type": "mobile",
+      "timestamp": "2026-03-05T04:30:15Z",
+      "reported_at": "2026-03-05T04:06:32Z"
+    },
+    {
+      "id": "6ea8c740-84e8-4da0-880c-dd8b5842ed8a",
+      "latitude": -35.022908,
+      "longitude": 138.559299,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-05T04:30:15Z",
+      "reported_at": "2026-03-05T04:16:45Z"
     }
   ]
 }
