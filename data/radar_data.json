@@ -1,23 +1,83 @@
 {
   "radars": [
     {
-      "id": "61d309a8-5616-48d3-ae28-a1f59d966ef9",
-      "latitude": -34.823862,
-      "longitude": 138.636038,
+      "id": "086ac71e-d348-4d68-ba1b-2aaf022ac159",
+      "latitude": -34.814024,
+      "longitude": 138.631432,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:10:05Z"
+    },
+    {
+      "id": "3b66ab20-7189-4d30-8123-05abfa52c5e6",
+      "latitude": -34.849276,
+      "longitude": 138.660722,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:18:26Z"
+    },
+    {
+      "id": "6a546f1e-94fd-4402-b6c2-fd2f37dcc702",
+      "latitude": -35.099399,
+      "longitude": 138.523321,
+      "street": "The Strand",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:18:38Z"
+    },
+    {
+      "id": "a45e00c2-62da-44dc-b1b5-023e19dbbefa",
+      "latitude": -34.860339,
+      "longitude": 138.636317,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:03:18Z"
+    },
+    {
+      "id": "83c434ea-75d2-4007-970f-cce42e954cf9",
+      "latitude": -34.995642,
+      "longitude": 138.592923,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:07:56Z"
+    },
+    {
+      "id": "17bca72d-8f49-4399-bf8a-ad217c909bfc",
+      "latitude": -34.822602,
+      "longitude": 138.637347,
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-05T21:00:20Z",
-      "reported_at": "2026-03-05T20:51:05Z"
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:02:12Z"
+    },
+    {
+      "id": "8687eab5-87e1-44cc-bf58-c57a8a94b326",
+      "latitude": -34.759434,
+      "longitude": 138.642932,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-05T21:30:15Z",
+      "reported_at": "2026-03-05T21:08:53Z"
     },
     {
       "id": "16409059-85c4-424a-b89b-3e1a598a8f7b",
-      "latitude": -34.969053,
-      "longitude": 138.662004,
+      "latitude": -34.969101,
+      "longitude": 138.661862,
       "street": "M1 - South Eastern Fwy",
       "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-05T21:00:20Z",
+      "timestamp": "2026-03-05T21:30:15Z",
       "reported_at": "2026-03-05T19:32:21Z"
     }
   ]
