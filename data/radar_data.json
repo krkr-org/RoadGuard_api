@@ -7,8 +7,28 @@
       "street": "Sturton Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
+      "timestamp": "2026-03-05T01:30:13Z",
       "reported_at": "2026-03-05T00:42:03Z"
+    },
+    {
+      "id": "d6f776fc-5021-405a-9213-7e1eb0a368b3",
+      "latitude": -34.73589,
+      "longitude": 138.643426,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-05T01:30:13Z",
+      "reported_at": "2026-03-05T00:51:56Z"
+    },
+    {
+      "id": "343a9af8-0265-4936-b636-12d5b163601c",
+      "latitude": -34.908776,
+      "longitude": 138.612128,
+      "street": "Bundeys Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-05T01:30:13Z",
+      "reported_at": "2026-03-05T01:15:14Z"
     },
     {
       "id": "c593b2a8-d427-46b9-9b77-0f6ad234833e",
@@ -17,48 +37,8 @@
       "street": "Coventry Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
+      "timestamp": "2026-03-05T01:30:13Z",
       "reported_at": "2026-03-04T23:00:24Z"
-    },
-    {
-      "id": "cb0f52eb-41b2-4ae7-af67-a210df2d5a4b",
-      "latitude": -34.746501,
-      "longitude": 138.647027,
-      "street": "Kettering Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-05T00:01:47Z"
-    },
-    {
-      "id": "aa0c10ac-2e61-47f1-93ed-2df464e19817",
-      "latitude": -34.737823,
-      "longitude": 138.647893,
-      "street": "Purling Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-04T20:48:03Z"
-    },
-    {
-      "id": "819836f5-5614-45ed-9643-d615532dcf81",
-      "latitude": -35.146639,
-      "longitude": 138.535039,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-05T00:47:05Z"
-    },
-    {
-      "id": "968decd7-c815-4a0f-89e9-9a9dc1d2eb16",
-      "latitude": -34.990538,
-      "longitude": 138.597838,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-05T00:50:49Z"
     },
     {
       "id": "10dc33fb-45b4-43bc-8eac-1e0191fdbb61",
@@ -67,38 +47,48 @@
       "street": "Morphett Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
+      "timestamp": "2026-03-05T01:30:13Z",
       "reported_at": "2026-03-04T23:49:02Z"
     },
     {
-      "id": "68584af9-56c1-41ee-91ee-862c7deb8d8e",
-      "latitude": -34.738919,
-      "longitude": 138.614818,
+      "id": "819836f5-5614-45ed-9643-d615532dcf81",
+      "latitude": -35.146639,
+      "longitude": 138.535039,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-03-05T01:30:13Z",
+      "reported_at": "2026-03-05T00:47:05Z"
+    },
+    {
+      "id": "9b0bdd87-b114-471b-9ddd-63c9f5cdbb2e",
+      "latitude": -34.736911,
+      "longitude": 138.616632,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-04T21:17:20Z"
+      "timestamp": "2026-03-05T01:30:13Z",
+      "reported_at": "2026-03-04T22:30:03Z"
     },
     {
-      "id": "f9438f65-9c6c-4767-9c41-f74800bdcb30",
-      "latitude": -34.7641,
-      "longitude": 138.628696,
+      "id": "fa092f30-7a1a-4911-9a95-3de4d2e005c1",
+      "latitude": -34.764896,
+      "longitude": 138.627546,
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-04T21:57:36Z"
+      "timestamp": "2026-03-05T01:30:13Z",
+      "reported_at": "2026-03-04T23:34:25Z"
     },
     {
-      "id": "04fdd7d8-868d-4ea8-afb7-33f0de994cd2",
-      "latitude": -34.694827,
-      "longitude": 138.649902,
+      "id": "f00d7c61-4edd-486c-81e0-fe4c2ce59285",
+      "latitude": -34.694486,
+      "longitude": 138.649113,
       "street": "Womma Rd",
       "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-04T23:00:56Z"
+      "timestamp": "2026-03-05T01:30:13Z",
+      "reported_at": "2026-03-05T00:56:10Z"
     },
     {
       "id": "57a82093-7322-42cb-b3cd-1bdc5b30a98c",
@@ -107,18 +97,8 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
+      "timestamp": "2026-03-05T01:30:13Z",
       "reported_at": "2026-03-04T23:14:06Z"
-    },
-    {
-      "id": "cfc7b74d-fa03-4c37-9ed9-0f8d4c27eb30",
-      "latitude": -34.795783,
-      "longitude": 138.653504,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-05T01:00:16Z",
-      "reported_at": "2026-03-04T22:16:54Z"
     }
   ]
 }
