@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "7455f586-4aef-411d-8d65-9956748f642b",
-      "latitude": -34.815107,
-      "longitude": 138.633203,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T22:54:55Z"
-    },
-    {
-      "id": "837cee09-b0e5-403d-9c47-b4953e725bd0",
-      "latitude": -35.100032,
-      "longitude": 138.521756,
-      "street": "Unknown Street",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T21:19:07Z"
-    },
-    {
       "id": "fbdf341e-a387-4aef-84f6-404a62def26b",
       "latitude": -34.817036,
       "longitude": 138.644695,
       "street": "Maxwell Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
+      "timestamp": "2026-03-06T01:30:14Z",
       "reported_at": "2026-03-06T00:38:53Z"
-    },
-    {
-      "id": "d4830c58-5abe-4d55-98ff-eaf996d22981",
-      "latitude": -34.85152,
-      "longitude": 138.662215,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T21:40:53Z"
     },
     {
       "id": "024c06a3-7b58-4dc9-b20f-a7465809bb74",
@@ -47,18 +17,38 @@
       "street": "Ways Rd",
       "city": "Manningham",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
+      "timestamp": "2026-03-06T01:30:14Z",
       "reported_at": "2026-03-05T21:12:48Z"
     },
     {
-      "id": "7ba79172-2318-417b-9ae3-684e4852f494",
-      "latitude": -35.115091,
-      "longitude": 138.535456,
-      "street": "Unknown Street",
-      "city": "Morphett Vale",
+      "id": "9b9e1605-5cc9-44d6-b4af-34e952c91a18",
+      "latitude": -34.937533,
+      "longitude": 138.561918,
+      "street": "Brooker Tce",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:26:22Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T00:52:39Z"
+    },
+    {
+      "id": "7455f586-4aef-411d-8d65-9956748f642b",
+      "latitude": -34.815107,
+      "longitude": 138.633203,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-05T22:54:55Z"
+    },
+    {
+      "id": "d4830c58-5abe-4d55-98ff-eaf996d22981",
+      "latitude": -34.85152,
+      "longitude": 138.662215,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-05T21:40:53Z"
     },
     {
       "id": "76544d0d-c662-4bbd-8a97-d0247104aa3b",
@@ -67,48 +57,28 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
+      "timestamp": "2026-03-06T01:30:14Z",
       "reported_at": "2026-03-06T00:25:57Z"
     },
     {
-      "id": "08eb638f-b5d6-4aa8-9068-e9f9e581138f",
-      "latitude": -34.936631,
-      "longitude": 138.588454,
+      "id": "7ba79172-2318-417b-9ae3-684e4852f494",
+      "latitude": -35.115091,
+      "longitude": 138.535456,
       "street": "Unknown Street",
-      "city": "Adelaide",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:37:11Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T00:26:22Z"
     },
     {
-      "id": "f04cca0f-d625-4151-a9aa-566ae922420c",
-      "latitude": -34.811809,
-      "longitude": 138.644681,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:44:37Z"
-    },
-    {
-      "id": "8769446f-75c5-4a3b-b33e-febbbad99928",
-      "latitude": -34.859835,
-      "longitude": 138.636279,
-      "street": "Fosters Rd",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T21:07:00Z"
-    },
-    {
-      "id": "d507e896-e036-4348-95b9-131b14ae4c3e",
-      "latitude": -34.823027,
-      "longitude": 138.636791,
-      "street": "Bridge Rd",
+      "id": "f4cc6eea-3503-4acb-a62a-b7e9612ca2fa",
+      "latitude": -34.836318,
+      "longitude": 138.620425,
+      "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T22:23:29Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-05T21:12:10Z"
     },
     {
       "id": "913ef0f7-ef0c-4be9-87c7-0001c2cdc565",
@@ -117,78 +87,108 @@
       "street": "Bridge Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
+      "timestamp": "2026-03-06T01:30:14Z",
       "reported_at": "2026-03-05T22:20:14Z"
     },
     {
-      "id": "b9d232e1-56f2-469d-8f34-74f90a477877",
-      "latitude": -34.811753,
-      "longitude": 138.636063,
-      "street": "Maxwell Rd",
+      "id": "f04cca0f-d625-4151-a9aa-566ae922420c",
+      "latitude": -34.81321,
+      "longitude": 138.643436,
+      "street": "Bridge Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:51:27Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T00:44:37Z"
     },
     {
-      "id": "c953b9bd-8d9b-4012-924b-5525326fb42d",
-      "latitude": -34.837074,
-      "longitude": 138.621996,
-      "street": "South Tce",
+      "id": "d507e896-e036-4348-95b9-131b14ae4c3e",
+      "latitude": -34.823027,
+      "longitude": 138.636791,
+      "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T23:14:11Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-05T22:23:29Z"
     },
     {
-      "id": "ba9e5fd1-e19d-4b58-8f9f-6f10113a922c",
-      "latitude": -34.786781,
-      "longitude": 138.667008,
+      "id": "8fda18b1-cb6b-415a-8daf-3aaa1692a730",
+      "latitude": -34.787569,
+      "longitude": 138.666301,
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:31:05Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-05T23:29:07Z"
     },
     {
-      "id": "4cf7ea4b-5799-432e-b1f4-2a019d47fec7",
-      "latitude": -34.847226,
-      "longitude": 138.62744,
+      "id": "08fddaf0-5616-4d26-8cf9-01b7e05ba69d",
+      "latitude": -34.757578,
+      "longitude": 138.648279,
+      "street": "Commercial Rd",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T00:41:02Z"
+    },
+    {
+      "id": "bfbe47ff-18ae-4abe-b1b2-ad63ab1b5cfa",
+      "latitude": -35.113788,
+      "longitude": 138.522701,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T01:09:12Z"
+    },
+    {
+      "id": "13014e86-38a2-4f39-af5b-a52eec18d992",
+      "latitude": -34.847207,
+      "longitude": 138.628056,
       "street": "A16 - Grand Junction Rd",
       "city": "Northfield",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T22:06:31Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-05T21:58:20Z"
     },
     {
-      "id": "02fa9480-5c67-44fe-b5af-477c91fa05f4",
-      "latitude": -34.834146,
-      "longitude": 138.610474,
+      "id": "10238f14-ba0f-4e7b-aa93-0ef6df69ece7",
+      "latitude": -34.833754,
+      "longitude": 138.610736,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-05T22:48:53Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T01:09:06Z"
     },
     {
-      "id": "dddd851f-4491-4527-b575-34817b62ef34",
-      "latitude": -34.84806,
-      "longitude": 138.599195,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "7a228517-ee93-40f4-894f-4b9ba95c3be6",
+      "latitude": -34.891085,
+      "longitude": 138.61137,
+      "street": "A10 - North East Rd",
+      "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:40:50Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T01:09:06Z"
     },
     {
-      "id": "e6e41ea1-2682-4d25-8386-0000b22259a3",
-      "latitude": -34.786727,
-      "longitude": 138.695031,
-      "street": "A11 - The Grove Way",
-      "city": "Golden Grove",
+      "id": "61b16fa1-5f31-40f9-9c6f-7703139919af",
+      "latitude": -34.878979,
+      "longitude": 138.626839,
+      "street": "A10 - North East Rd",
+      "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2026-03-06T01:00:15Z",
-      "reported_at": "2026-03-06T00:30:50Z"
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T01:12:10Z"
+    },
+    {
+      "id": "04e00012-7bc9-4178-9469-c975b3a38757",
+      "latitude": -34.794997,
+      "longitude": 138.652269,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-06T01:30:14Z",
+      "reported_at": "2026-03-06T01:21:04Z"
     }
   ]
 }
