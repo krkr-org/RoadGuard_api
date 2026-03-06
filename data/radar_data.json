@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "a0845196-5b64-4a84-847f-c55657118ccf",
+      "latitude": -34.935204,
+      "longitude": 138.627532,
+      "street": "Dulwich Av",
+      "city": "Dulwich",
+      "type": "mobile",
+      "timestamp": "2026-03-06T07:30:15Z",
+      "reported_at": "2026-03-06T07:02:22Z"
+    },
+    {
+      "id": "d96c8f67-896b-42c3-bda3-dcc62af42b03",
+      "latitude": -35.014882,
+      "longitude": 138.513866,
+      "street": "Esplanade",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-03-06T07:30:15Z",
+      "reported_at": "2026-03-06T06:58:32Z"
+    },
+    {
       "id": "f7d1397a-cb0d-4e14-bbc1-29938aeb4509",
       "latitude": -34.796395,
       "longitude": 138.648888,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T04:09:37Z"
-    },
-    {
-      "id": "10f930d6-e27b-4184-8ec7-fe96e7a9f5d5",
-      "latitude": -34.737554,
-      "longitude": 138.658034,
-      "street": "Hogarth Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:30:18Z"
     },
     {
       "id": "a982d1ce-a261-4bfa-bc3d-84c9ca4173d7",
@@ -27,18 +37,8 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T05:03:49Z"
-    },
-    {
-      "id": "34bbd7dc-415b-48ba-85ff-784ecd69477b",
-      "latitude": -34.857024,
-      "longitude": 138.672031,
-      "street": "Valiant Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:28:54Z"
     },
     {
       "id": "390f2cb3-3db3-4ced-8924-dac7ba5c5ff8",
@@ -47,7 +47,7 @@
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T05:58:35Z"
     },
     {
@@ -57,7 +57,7 @@
       "street": "Wynn Vale Dr",
       "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T06:23:31Z"
     },
     {
@@ -67,7 +67,7 @@
       "street": "Montefiore Hill",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T04:32:07Z"
     },
     {
@@ -77,48 +77,28 @@
       "street": "Kitchener St",
       "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T05:22:06Z"
     },
     {
-      "id": "0fc65703-5a8a-4973-b672-457c0607dc85",
-      "latitude": -34.992458,
-      "longitude": 138.581711,
+      "id": "1e0e4990-094a-4752-bc34-b71d7edc84ca",
+      "latitude": -34.992487,
+      "longitude": 138.581067,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T05:06:04Z"
+      "timestamp": "2026-03-06T07:30:15Z",
+      "reported_at": "2026-03-06T05:02:34Z"
     },
     {
-      "id": "80a19269-91e9-4e1c-a5a3-7fae86917a45",
-      "latitude": -35.054045,
-      "longitude": 138.552399,
+      "id": "ec22a76c-df36-4b91-8f8c-8b534ea6801e",
+      "latitude": -35.054052,
+      "longitude": 138.55227,
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:31:15Z"
-    },
-    {
-      "id": "68360482-2dab-4f83-a92d-91c962473e57",
-      "latitude": -34.962768,
-      "longitude": 138.590553,
-      "street": "Goodwood Rd",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:38:58Z"
-    },
-    {
-      "id": "b6219d19-464c-43e1-bc04-88aa72d7b73e",
-      "latitude": -34.852298,
-      "longitude": 138.510093,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:52:57Z"
+      "timestamp": "2026-03-06T07:30:15Z",
+      "reported_at": "2026-03-06T06:57:48Z"
     },
     {
       "id": "3046ae8b-af80-41fb-b500-59078f44836f",
@@ -127,28 +107,8 @@
       "street": "A14 - Marion Rd",
       "city": "Marion",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
+      "timestamp": "2026-03-06T07:30:15Z",
       "reported_at": "2026-03-06T06:40:40Z"
-    },
-    {
-      "id": "b20e2523-bcbd-4759-9463-1c306fb8a582",
-      "latitude": -35.014496,
-      "longitude": 138.618834,
-      "street": "B29 - Main Rd",
-      "city": "Blackwood",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:44:06Z"
-    },
-    {
-      "id": "70687e1f-3af9-4c5f-a431-2108596a78e7",
-      "latitude": -34.851715,
-      "longitude": 138.523012,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Rosewater",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:00:17Z",
-      "reported_at": "2026-03-06T06:02:30Z"
     }
   ]
 }
