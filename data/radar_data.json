@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "0726b6d2-3028-448b-8c52-c5c79256b8d1",
-      "latitude": -34.998234,
-      "longitude": 138.582501,
-      "street": "Cashel St",
-      "city": "St. Marys",
+      "id": "fb2cd28b-843b-4cb6-8df4-4ba4e003153f",
+      "latitude": -34.94455,
+      "longitude": 138.579306,
+      "street": "Hampton Rd",
+      "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T05:02:51Z"
+      "timestamp": "2026-03-06T06:00:16Z",
+      "reported_at": "2026-03-06T05:48:07Z"
     },
     {
       "id": "ce7dc01e-36b2-4442-a901-fdc647409ba8",
@@ -17,8 +17,28 @@
       "street": "Wandana Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
+      "timestamp": "2026-03-06T06:00:16Z",
       "reported_at": "2026-03-06T02:43:29Z"
+    },
+    {
+      "id": "2e480b0f-bb65-4a41-8bd3-618225e1b7e8",
+      "latitude": -34.986642,
+      "longitude": 138.523627,
+      "street": "Cliff St",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:00:16Z",
+      "reported_at": "2026-03-06T05:29:34Z"
+    },
+    {
+      "id": "dfd7233e-8da4-4292-ba12-5067297d0dee",
+      "latitude": -34.92714,
+      "longitude": 138.600298,
+      "street": "Flinders St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:00:16Z",
+      "reported_at": "2026-03-06T05:48:07Z"
     },
     {
       "id": "6d4c78d0-b0d0-43bc-add9-ad95a71886bc",
@@ -27,18 +47,8 @@
       "street": "Research Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
+      "timestamp": "2026-03-06T06:00:16Z",
       "reported_at": "2026-03-06T02:16:08Z"
-    },
-    {
-      "id": "621091bb-188c-4805-836c-ca3a586e9b59",
-      "latitude": -34.750754,
-      "longitude": 138.657349,
-      "street": "Unknown Street",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T04:59:51Z"
     },
     {
       "id": "00667943-b045-4881-8a32-0d91a3f19375",
@@ -47,58 +57,38 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
+      "timestamp": "2026-03-06T06:00:16Z",
       "reported_at": "2026-03-06T05:13:03Z"
     },
     {
-      "id": "c947b0fc-c65b-450d-ab46-fc1baf06ee5f",
-      "latitude": -35.097785,
-      "longitude": 138.546948,
-      "street": "Panalatinga Rd",
-      "city": "Old Reynella",
+      "id": "85d91fc0-e61a-41b1-9c42-6d00aaf3e6b5",
+      "latitude": -35.00807,
+      "longitude": 138.562151,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T05:08:29Z"
+      "timestamp": "2026-03-06T06:00:16Z",
+      "reported_at": "2026-03-06T05:33:12Z"
     },
     {
-      "id": "b0d68f90-c00a-4565-b897-f135a9a8c1af",
-      "latitude": -34.992671,
-      "longitude": 138.579215,
+      "id": "0fc65703-5a8a-4973-b672-457c0607dc85",
+      "latitude": -34.992458,
+      "longitude": 138.581711,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T05:15:02Z"
+      "timestamp": "2026-03-06T06:00:16Z",
+      "reported_at": "2026-03-06T05:06:04Z"
     },
     {
-      "id": "04c11b4e-9283-42ae-8e05-851381b6069d",
-      "latitude": -34.747059,
-      "longitude": 138.657364,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "99bae979-d558-4685-9fad-2fcb034898cb",
+      "latitude": -35.053876,
+      "longitude": 138.555793,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T03:49:56Z"
-    },
-    {
-      "id": "9de822cf-e842-48ec-81b1-7b80aa46db55",
-      "latitude": -34.985065,
-      "longitude": 138.805593,
-      "street": "B26 - Greenhill Rd",
-      "city": "Balhannah",
-      "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T01:52:06Z"
-    },
-    {
-      "id": "63e248b7-2c5d-4daf-b557-cc403afa5ba9",
-      "latitude": -35.030645,
-      "longitude": 138.524053,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
-      "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
-      "reported_at": "2026-03-06T05:21:00Z"
+      "timestamp": "2026-03-06T06:00:16Z",
+      "reported_at": "2026-03-06T05:14:52Z"
     },
     {
       "id": "fb523032-ac5f-464c-8c9c-cf22a0705aa9",
@@ -107,7 +97,7 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T05:30:15Z",
+      "timestamp": "2026-03-06T06:00:16Z",
       "reported_at": "2026-03-06T02:09:09Z"
     }
   ]
