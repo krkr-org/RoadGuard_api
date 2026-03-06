@@ -1,14 +1,74 @@
 {
   "radars": [
     {
-      "id": "fb2cd28b-843b-4cb6-8df4-4ba4e003153f",
-      "latitude": -34.94455,
-      "longitude": 138.579306,
-      "street": "Hampton Rd",
-      "city": "Keswick",
+      "id": "f7d1397a-cb0d-4e14-bbc1-29938aeb4509",
+      "latitude": -34.796395,
+      "longitude": 138.648888,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T05:48:07Z"
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T04:09:37Z"
+    },
+    {
+      "id": "bed4ac99-da4d-4aaf-a1e4-ae58384602c0",
+      "latitude": -35.007979,
+      "longitude": 138.561635,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:13:27Z"
+    },
+    {
+      "id": "2bce83bc-9e40-4de6-bfd2-925e84b8f817",
+      "latitude": -34.849502,
+      "longitude": 138.653522,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:02:44Z"
+    },
+    {
+      "id": "a982d1ce-a261-4bfa-bc3d-84c9ca4173d7",
+      "latitude": -34.955633,
+      "longitude": 138.61466,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T05:03:49Z"
+    },
+    {
+      "id": "7c1b2bea-d173-4ab6-8162-6fbe5b5fe473",
+      "latitude": -34.7974,
+      "longitude": 138.686353,
+      "street": "Wynn Vale Dr",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:23:31Z"
+    },
+    {
+      "id": "80915d0d-bd8d-4a5a-9b84-44dc16993891",
+      "latitude": -34.912598,
+      "longitude": 138.593707,
+      "street": "Montefiore Hill",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T04:32:07Z"
+    },
+    {
+      "id": "376d4ee5-be75-43fe-87ec-c680efadcb13",
+      "latitude": -34.97091,
+      "longitude": 138.624426,
+      "street": "Kitchener St",
+      "city": "Netherby",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T05:22:06Z"
     },
     {
       "id": "ce7dc01e-36b2-4442-a901-fdc647409ba8",
@@ -17,68 +77,18 @@
       "street": "Wandana Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
+      "timestamp": "2026-03-06T06:30:17Z",
       "reported_at": "2026-03-06T02:43:29Z"
     },
     {
-      "id": "2e480b0f-bb65-4a41-8bd3-618225e1b7e8",
-      "latitude": -34.986642,
-      "longitude": 138.523627,
-      "street": "Cliff St",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T05:29:34Z"
-    },
-    {
-      "id": "dfd7233e-8da4-4292-ba12-5067297d0dee",
-      "latitude": -34.92714,
-      "longitude": 138.600298,
-      "street": "Flinders St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T05:48:07Z"
-    },
-    {
-      "id": "6d4c78d0-b0d0-43bc-add9-ad95a71886bc",
-      "latitude": -34.815162,
-      "longitude": 138.633303,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T02:16:08Z"
-    },
-    {
-      "id": "00667943-b045-4881-8a32-0d91a3f19375",
-      "latitude": -34.955636,
-      "longitude": 138.614662,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T05:13:03Z"
-    },
-    {
-      "id": "85d91fc0-e61a-41b1-9c42-6d00aaf3e6b5",
-      "latitude": -35.00807,
-      "longitude": 138.562151,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T05:33:12Z"
-    },
-    {
-      "id": "0fc65703-5a8a-4973-b672-457c0607dc85",
-      "latitude": -34.992458,
-      "longitude": 138.581711,
+      "id": "fcc6dec8-4337-4881-9ead-146d7206de4f",
+      "latitude": -34.992562,
+      "longitude": 138.579716,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T05:06:04Z"
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T05:02:27Z"
     },
     {
       "id": "99bae979-d558-4685-9fad-2fcb034898cb",
@@ -87,18 +97,48 @@
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
+      "timestamp": "2026-03-06T06:30:17Z",
       "reported_at": "2026-03-06T05:14:52Z"
     },
     {
-      "id": "fb523032-ac5f-464c-8c9c-cf22a0705aa9",
-      "latitude": -34.83463,
-      "longitude": 138.609879,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "7d23081b-1944-4cab-826e-1f1505655f45",
+      "latitude": -34.809257,
+      "longitude": 138.676522,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-03-06T06:00:16Z",
-      "reported_at": "2026-03-06T02:09:09Z"
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:22:43Z"
+    },
+    {
+      "id": "2458ca2e-3edf-4c8a-b2f6-c0b4406ec669",
+      "latitude": -34.9653,
+      "longitude": 138.610523,
+      "street": "A3 - Cross Rd",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:11:32Z"
+    },
+    {
+      "id": "70687e1f-3af9-4c5f-a431-2108596a78e7",
+      "latitude": -34.851715,
+      "longitude": 138.523012,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Rosewater",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:02:30Z"
+    },
+    {
+      "id": "e9041ba5-aa3b-41d1-bd20-45780765880b",
+      "latitude": -34.827301,
+      "longitude": 138.679683,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-03-06T06:30:17Z",
+      "reported_at": "2026-03-06T06:00:24Z"
     }
   ]
 }
