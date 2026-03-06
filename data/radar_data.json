@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "f3e71d10-6946-4238-b947-94ccafed7084",
-      "latitude": -34.956529,
-      "longitude": 138.614731,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-03-06T14:00:19Z",
-      "reported_at": "2026-03-06T10:11:20Z"
-    },
-    {
       "id": "ae366f33-a609-44c7-b313-ff857cda1d4e",
       "latitude": -34.992498,
       "longitude": 138.582061,
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-06T14:00:19Z",
+      "timestamp": "2026-03-06T14:30:16Z",
       "reported_at": "2026-03-06T10:27:26Z"
-    },
-    {
-      "id": "2643e080-4fad-4f9e-8a33-51e76ead9244",
-      "latitude": -34.919673,
-      "longitude": 138.640833,
-      "street": "A17 - Portrush Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-03-06T14:00:19Z",
-      "reported_at": "2026-03-06T13:50:39Z"
     },
     {
       "id": "ad9a8103-f1f6-4b10-ba53-b0ab1576e786",
@@ -37,28 +17,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-06T14:00:19Z",
+      "timestamp": "2026-03-06T14:30:16Z",
       "reported_at": "2026-03-06T13:50:03Z"
-    },
-    {
-      "id": "0ca95985-e10b-47b4-bf08-477feb59d68d",
-      "latitude": -34.87664,
-      "longitude": 138.619428,
-      "street": "A17 - Hampstead Rd",
-      "city": "Broadview",
-      "type": "mobile",
-      "timestamp": "2026-03-06T14:00:19Z",
-      "reported_at": "2026-03-06T13:38:26Z"
-    },
-    {
-      "id": "7952a0e0-ea33-40c0-8110-e61b1ba7d21e",
-      "latitude": -35.060594,
-      "longitude": 138.535189,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-03-06T14:00:19Z",
-      "reported_at": "2026-03-06T13:32:17Z"
     }
   ]
 }
