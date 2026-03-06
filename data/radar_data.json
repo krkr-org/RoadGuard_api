@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "883c6403-52d4-45b4-aa69-0b778d9a6e18",
-      "latitude": -34.929852,
-      "longitude": 138.534403,
+      "id": "bd524aee-51ad-4820-bd72-614f32b0676b",
+      "latitude": -34.926869,
+      "longitude": 138.534254,
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
-      "reported_at": "2026-03-06T21:34:16Z"
+      "timestamp": "2026-03-06T22:30:14Z",
+      "reported_at": "2026-03-06T20:27:44Z"
     },
     {
       "id": "9bbd1054-8fea-4377-ab2f-c401eb06d212",
@@ -17,28 +17,18 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
+      "timestamp": "2026-03-06T22:30:14Z",
       "reported_at": "2026-03-06T21:29:15Z"
     },
     {
-      "id": "6dc21ece-f635-41c9-be60-422c75f309a7",
-      "latitude": -34.857331,
-      "longitude": 138.502389,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
+      "id": "4b02782b-cf57-4501-861f-363104f2f2ac",
+      "latitude": -34.945161,
+      "longitude": 138.509254,
+      "street": "West Beach Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
-      "reported_at": "2026-03-06T21:45:32Z"
-    },
-    {
-      "id": "e13d05b3-6752-413c-b928-ee2f6a262a89",
-      "latitude": -34.935386,
-      "longitude": 138.606832,
-      "street": "Glen Osmond Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
-      "reported_at": "2026-03-06T21:10:08Z"
+      "timestamp": "2026-03-06T22:30:14Z",
+      "reported_at": "2026-03-06T21:21:06Z"
     },
     {
       "id": "9940f882-6f43-42f6-a2e4-a5c0f536e81b",
@@ -47,28 +37,48 @@
       "street": "A7 - Port Rd",
       "city": "Allenby Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
+      "timestamp": "2026-03-06T22:30:14Z",
       "reported_at": "2026-03-06T21:23:58Z"
     },
     {
-      "id": "4b2ef650-3feb-456f-9285-a1ae76abe295",
-      "latitude": -34.931156,
-      "longitude": 138.517524,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
-      "reported_at": "2026-03-06T21:15:41Z"
-    },
-    {
-      "id": "fd389fa9-9046-45fd-9fd2-eb1285de2659",
-      "latitude": -34.975913,
-      "longitude": 138.526332,
+      "id": "acfa2082-0b12-4096-8694-cf0c3c8e519b",
+      "latitude": -34.975647,
+      "longitude": 138.531765,
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-06T22:00:17Z",
-      "reported_at": "2026-03-06T20:35:27Z"
+      "timestamp": "2026-03-06T22:30:14Z",
+      "reported_at": "2026-03-06T21:32:09Z"
+    },
+    {
+      "id": "688acd77-e274-4cc2-bafd-2d21ab12a084",
+      "latitude": -34.930966,
+      "longitude": 138.517626,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-06T22:30:14Z",
+      "reported_at": "2026-03-06T20:44:14Z"
+    },
+    {
+      "id": "24366a2d-b8f7-48c4-9a24-885537395088",
+      "latitude": -34.976074,
+      "longitude": 138.526049,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-06T22:30:14Z",
+      "reported_at": "2026-03-06T21:29:19Z"
+    },
+    {
+      "id": "e1558799-7ce5-4467-bb3f-56e5f7f1eb24",
+      "latitude": -34.929496,
+      "longitude": 138.517552,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-03-06T22:30:14Z",
+      "reported_at": "2026-03-06T20:21:03Z"
     }
   ]
 }
