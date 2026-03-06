@@ -7,8 +7,28 @@
       "street": "Richmond Av",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
+      "timestamp": "2026-03-06T09:30:14Z",
       "reported_at": "2026-03-06T07:29:58Z"
+    },
+    {
+      "id": "9e29005d-a952-4eb7-9308-b98d3680907c",
+      "latitude": -35.008262,
+      "longitude": 138.56327,
+      "street": "Alawoona Av",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T07:54:56Z"
+    },
+    {
+      "id": "390f2cb3-3db3-4ced-8924-dac7ba5c5ff8",
+      "latitude": -34.99836,
+      "longitude": 138.582511,
+      "street": "Cashel St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T05:58:35Z"
     },
     {
       "id": "ec9b335b-1007-4589-87d7-d9e46d5ee86c",
@@ -17,7 +37,7 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
+      "timestamp": "2026-03-06T09:30:14Z",
       "reported_at": "2026-03-06T07:23:50Z"
     },
     {
@@ -27,68 +47,78 @@
       "street": "Wynn Vale Dr",
       "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
+      "timestamp": "2026-03-06T09:30:14Z",
       "reported_at": "2026-03-06T06:23:31Z"
     },
     {
-      "id": "5f1dd9d7-c2df-4ce0-8712-c07d4e9b6ef7",
-      "latitude": -34.997663,
-      "longitude": 138.582455,
-      "street": "Cashel St",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
-      "reported_at": "2026-03-06T06:02:48Z"
-    },
-    {
-      "id": "376d4ee5-be75-43fe-87ec-c680efadcb13",
-      "latitude": -34.97091,
-      "longitude": 138.624426,
-      "street": "Kitchener St",
-      "city": "Netherby",
-      "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
-      "reported_at": "2026-03-06T05:22:06Z"
-    },
-    {
-      "id": "d8fa7b0e-aef1-4d8a-80e5-ffd61bf20b42",
-      "latitude": -35.00816,
-      "longitude": 138.562652,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
-      "reported_at": "2026-03-06T07:55:17Z"
-    },
-    {
-      "id": "fcc6dec8-4337-4881-9ead-146d7206de4f",
-      "latitude": -34.992562,
-      "longitude": 138.579716,
+      "id": "437072de-d1cc-40c6-ba98-a668692fa538",
+      "latitude": -34.992594,
+      "longitude": 138.578412,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
-      "reported_at": "2026-03-06T05:02:27Z"
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T08:28:59Z"
     },
     {
-      "id": "e6a4fc75-2427-48f9-bca3-9827c2d40d27",
-      "latitude": -34.807543,
-      "longitude": 138.648498,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
-      "reported_at": "2026-03-06T08:07:39Z"
-    },
-    {
-      "id": "7d37316d-9935-4e4a-a9b7-f6b06be80968",
-      "latitude": -34.93802,
-      "longitude": 138.606615,
-      "street": "Unley Rd",
+      "id": "cc640be4-56d1-4519-8892-4311ebf12201",
+      "latitude": -34.923752,
+      "longitude": 138.582248,
+      "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-06T09:00:17Z",
-      "reported_at": "2026-03-06T08:43:28Z"
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T09:22:40Z"
+    },
+    {
+      "id": "feb48d0a-a5f3-442f-bf68-dc0673e2e844",
+      "latitude": -34.997026,
+      "longitude": 138.530628,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T08:58:47Z"
+    },
+    {
+      "id": "6f0b2226-bbfd-4e43-a4e0-be8ec1ae1231",
+      "latitude": -34.924506,
+      "longitude": 138.553023,
+      "street": "Henley Beach Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T09:18:25Z"
+    },
+    {
+      "id": "628c1238-cd8f-4448-83de-b258c6edb371",
+      "latitude": -34.923401,
+      "longitude": 138.577206,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T09:22:11Z"
+    },
+    {
+      "id": "b4581931-8a2b-403a-93e5-d6208f01861d",
+      "latitude": -34.971972,
+      "longitude": 138.542334,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T09:14:14Z"
+    },
+    {
+      "id": "dcacf0dc-38a0-4775-8259-b013b94948e1",
+      "latitude": -34.965822,
+      "longitude": 138.551809,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-03-06T09:30:14Z",
+      "reported_at": "2026-03-06T09:19:45Z"
     }
   ]
 }
