@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "a0845196-5b64-4a84-847f-c55657118ccf",
-      "latitude": -34.935204,
-      "longitude": 138.627532,
-      "street": "Dulwich Av",
-      "city": "Dulwich",
+      "id": "a57fde83-9a19-4897-9dca-bf129f3a55e5",
+      "latitude": -34.981733,
+      "longitude": 138.584959,
+      "street": "Richmond Av",
+      "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T07:02:22Z"
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T07:29:58Z"
     },
     {
-      "id": "d96c8f67-896b-42c3-bda3-dcc62af42b03",
-      "latitude": -35.014882,
-      "longitude": 138.513866,
-      "street": "Esplanade",
-      "city": "Brighton",
+      "id": "135db6a1-156c-4c72-995b-019c73d56911",
+      "latitude": -34.929684,
+      "longitude": 138.603458,
+      "street": "Chancery Lane",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T06:58:32Z"
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T07:33:53Z"
     },
     {
       "id": "f7d1397a-cb0d-4e14-bbc1-29938aeb4509",
@@ -27,48 +27,8 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
+      "timestamp": "2026-03-06T08:00:16Z",
       "reported_at": "2026-03-06T04:09:37Z"
-    },
-    {
-      "id": "a982d1ce-a261-4bfa-bc3d-84c9ca4173d7",
-      "latitude": -34.955633,
-      "longitude": 138.61466,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T05:03:49Z"
-    },
-    {
-      "id": "390f2cb3-3db3-4ced-8924-dac7ba5c5ff8",
-      "latitude": -34.99836,
-      "longitude": 138.582511,
-      "street": "Cashel St",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T05:58:35Z"
-    },
-    {
-      "id": "7c1b2bea-d173-4ab6-8162-6fbe5b5fe473",
-      "latitude": -34.7974,
-      "longitude": 138.686353,
-      "street": "Wynn Vale Dr",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T06:23:31Z"
-    },
-    {
-      "id": "80915d0d-bd8d-4a5a-9b84-44dc16993891",
-      "latitude": -34.912598,
-      "longitude": 138.593707,
-      "street": "Montefiore Hill",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T04:32:07Z"
     },
     {
       "id": "376d4ee5-be75-43fe-87ec-c680efadcb13",
@@ -77,8 +37,48 @@
       "street": "Kitchener St",
       "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
+      "timestamp": "2026-03-06T08:00:16Z",
       "reported_at": "2026-03-06T05:22:06Z"
+    },
+    {
+      "id": "a982d1ce-a261-4bfa-bc3d-84c9ca4173d7",
+      "latitude": -34.955633,
+      "longitude": 138.61466,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T05:03:49Z"
+    },
+    {
+      "id": "7c1b2bea-d173-4ab6-8162-6fbe5b5fe473",
+      "latitude": -34.7974,
+      "longitude": 138.686353,
+      "street": "Wynn Vale Dr",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T06:23:31Z"
+    },
+    {
+      "id": "390f2cb3-3db3-4ced-8924-dac7ba5c5ff8",
+      "latitude": -34.99836,
+      "longitude": 138.582511,
+      "street": "Cashel St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T05:58:35Z"
+    },
+    {
+      "id": "80915d0d-bd8d-4a5a-9b84-44dc16993891",
+      "latitude": -34.912598,
+      "longitude": 138.593707,
+      "street": "Montefiore Hill",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T04:32:07Z"
     },
     {
       "id": "1e0e4990-094a-4752-bc34-b71d7edc84ca",
@@ -87,28 +87,28 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
+      "timestamp": "2026-03-06T08:00:16Z",
       "reported_at": "2026-03-06T05:02:34Z"
     },
     {
-      "id": "ec22a76c-df36-4b91-8f8c-8b534ea6801e",
-      "latitude": -35.054052,
-      "longitude": 138.55227,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "df1387cc-739d-4e6e-824d-e5992af8d366",
+      "latitude": -34.928604,
+      "longitude": 138.601063,
+      "street": "Wakefield St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T06:57:48Z"
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T07:39:28Z"
     },
     {
-      "id": "3046ae8b-af80-41fb-b500-59078f44836f",
-      "latitude": -35.007567,
-      "longitude": 138.558025,
-      "street": "A14 - Marion Rd",
-      "city": "Marion",
+      "id": "e96d5f77-5422-4514-ab10-1693a9cbbde8",
+      "latitude": -34.906643,
+      "longitude": 138.574445,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-06T07:30:15Z",
-      "reported_at": "2026-03-06T06:40:40Z"
+      "timestamp": "2026-03-06T08:00:16Z",
+      "reported_at": "2026-03-06T07:51:41Z"
     }
   ]
 }
