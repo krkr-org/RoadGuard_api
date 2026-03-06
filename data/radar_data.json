@@ -1,14 +1,64 @@
 {
   "radars": [
     {
+      "id": "bd524aee-51ad-4820-bd72-614f32b0676b",
+      "latitude": -34.926869,
+      "longitude": 138.534254,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-06T21:30:14Z",
+      "reported_at": "2026-03-06T20:27:44Z"
+    },
+    {
+      "id": "e13d05b3-6752-413c-b928-ee2f6a262a89",
+      "latitude": -34.935386,
+      "longitude": 138.606832,
+      "street": "Glen Osmond Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-06T21:30:14Z",
+      "reported_at": "2026-03-06T21:10:08Z"
+    },
+    {
       "id": "e1558799-7ce5-4467-bb3f-56e5f7f1eb24",
       "latitude": -34.929496,
       "longitude": 138.517552,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-03-06T21:00:16Z",
+      "timestamp": "2026-03-06T21:30:14Z",
       "reported_at": "2026-03-06T20:21:03Z"
+    },
+    {
+      "id": "688acd77-e274-4cc2-bafd-2d21ab12a084",
+      "latitude": -34.930966,
+      "longitude": 138.517626,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-06T21:30:14Z",
+      "reported_at": "2026-03-06T20:44:14Z"
+    },
+    {
+      "id": "fd389fa9-9046-45fd-9fd2-eb1285de2659",
+      "latitude": -34.975913,
+      "longitude": 138.526332,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-06T21:30:14Z",
+      "reported_at": "2026-03-06T20:35:27Z"
+    },
+    {
+      "id": "a2d25026-a97b-44ad-be85-af58c81704e1",
+      "latitude": -35.045724,
+      "longitude": 138.550687,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-06T21:30:14Z",
+      "reported_at": "2026-03-06T21:17:31Z"
     }
   ]
 }
