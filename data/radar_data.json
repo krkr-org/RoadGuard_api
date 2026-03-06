@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "bea08b8e-7631-4491-bd89-437442ea0c80",
-      "latitude": -34.814171,
-      "longitude": 138.631674,
+      "id": "879446ad-72dc-4691-8338-49b96f4e1db8",
+      "latitude": -35.109851,
+      "longitude": 138.534594,
+      "street": "Blaby Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T00:27:08Z"
+    },
+    {
+      "id": "e488bab9-12b1-4f7d-adc8-2b06e61dbdfd",
+      "latitude": -34.79168,
+      "longitude": 138.644028,
+      "street": "Horrie Miller Av",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T02:41:04Z"
+    },
+    {
+      "id": "6d4c78d0-b0d0-43bc-add9-ad95a71886bc",
+      "latitude": -34.815162,
+      "longitude": 138.633303,
       "street": "Research Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-06T01:45:42Z"
-    },
-    {
-      "id": "dab4d4b0-3fce-4eb6-a5e6-bfe4c3db16f1",
-      "latitude": -34.922341,
-      "longitude": 138.612127,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-06T02:02:54Z"
-    },
-    {
-      "id": "024c06a3-7b58-4dc9-b20f-a7465809bb74",
-      "latitude": -34.874428,
-      "longitude": 138.624482,
-      "street": "Ways Rd",
-      "city": "Manningham",
-      "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-05T21:12:48Z"
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T02:16:08Z"
     },
     {
       "id": "9b9e1605-5cc9-44d6-b4af-34e952c91a18",
@@ -37,18 +37,48 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
+      "timestamp": "2026-03-06T03:00:18Z",
       "reported_at": "2026-03-06T00:52:39Z"
     },
     {
-      "id": "2b75a764-0c3a-47a4-b3e6-c382200d6944",
-      "latitude": -34.843314,
-      "longitude": 138.512846,
-      "street": "St. Vincent St East",
-      "city": "Port Adelaide",
+      "id": "7a699342-694c-4637-be94-eeff10165605",
+      "latitude": -34.977632,
+      "longitude": 138.51755,
+      "street": "Gordon St",
+      "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-06T02:04:52Z"
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T02:15:11Z"
+    },
+    {
+      "id": "33a18c55-3b3b-43b9-8fb5-af46820a1bbd",
+      "latitude": -34.826626,
+      "longitude": 138.657472,
+      "street": "Baldock Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-05T23:54:27Z"
+    },
+    {
+      "id": "dab4d4b0-3fce-4eb6-a5e6-bfe4c3db16f1",
+      "latitude": -34.922341,
+      "longitude": 138.612127,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T02:02:54Z"
+    },
+    {
+      "id": "5e6a3755-2c9a-4ba3-85b8-bad3849d78a5",
+      "latitude": -35.069713,
+      "longitude": 138.527668,
+      "street": "Barramundi Dr",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T02:35:42Z"
     },
     {
       "id": "76544d0d-c662-4bbd-8a97-d0247104aa3b",
@@ -57,58 +87,38 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
+      "timestamp": "2026-03-06T03:00:18Z",
       "reported_at": "2026-03-06T00:25:57Z"
     },
     {
-      "id": "13fcbade-5bd6-4eaa-9678-752a83285472",
-      "latitude": -34.822161,
-      "longitude": 138.637572,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-05T22:18:37Z"
-    },
-    {
-      "id": "8769446f-75c5-4a3b-b33e-febbbad99928",
-      "latitude": -34.859835,
-      "longitude": 138.636279,
+      "id": "e6960e98-4b38-4eb6-a278-37bb21607ef5",
+      "latitude": -34.859936,
+      "longitude": 138.636287,
       "street": "Fosters Rd",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-05T21:07:00Z"
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T01:26:35Z"
     },
     {
-      "id": "c953b9bd-8d9b-4012-924b-5525326fb42d",
-      "latitude": -34.837074,
-      "longitude": 138.621996,
+      "id": "35c395c6-6d85-4918-a14b-e1a2a11003f3",
+      "latitude": -34.823584,
+      "longitude": 138.636453,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T01:15:01Z"
+    },
+    {
+      "id": "f4cc6eea-3503-4acb-a62a-b7e9612ca2fa",
+      "latitude": -34.836318,
+      "longitude": 138.620425,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-05T23:14:11Z"
-    },
-    {
-      "id": "c18d34c6-c046-4d34-b04e-e2322c211cc0",
-      "latitude": -35.070159,
-      "longitude": 138.527588,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-06T02:13:55Z"
-    },
-    {
-      "id": "715521f9-8f70-4957-9120-534d1b4496c4",
-      "latitude": -35.068984,
-      "longitude": 138.528588,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-06T02:20:16Z"
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-05T21:12:10Z"
     },
     {
       "id": "fb523032-ac5f-464c-8c9c-cf22a0705aa9",
@@ -117,28 +127,18 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
+      "timestamp": "2026-03-06T03:00:18Z",
       "reported_at": "2026-03-06T02:09:09Z"
     },
     {
-      "id": "cae89868-1c4c-44ad-8118-c9811dacaaba",
-      "latitude": -34.848121,
-      "longitude": 138.60078,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "b8339ae6-72ca-4b2c-b34a-14b188fff6f2",
+      "latitude": -34.831254,
+      "longitude": 138.680293,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-06T02:20:29Z"
-    },
-    {
-      "id": "4cf7ea4b-5799-432e-b1f4-2a019d47fec7",
-      "latitude": -34.847226,
-      "longitude": 138.62744,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-03-06T02:30:14Z",
-      "reported_at": "2026-03-05T22:06:31Z"
+      "timestamp": "2026-03-06T03:00:18Z",
+      "reported_at": "2026-03-06T02:33:40Z"
     }
   ]
 }
