@@ -1,14 +1,44 @@
 {
   "radars": [
     {
-      "id": "d4830c58-5abe-4d55-98ff-eaf996d22981",
-      "latitude": -34.85152,
-      "longitude": 138.662215,
+      "id": "7455f586-4aef-411d-8d65-9956748f642b",
+      "latitude": -34.815107,
+      "longitude": 138.633203,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T22:54:55Z"
+    },
+    {
+      "id": "ef1bf1d3-c3c2-4f27-a3ee-2ae22e637173",
+      "latitude": -34.817094,
+      "longitude": 138.64479,
+      "street": "Maxwell Rd",
+      "city": "Para Hills",
+      "type": "mobile",
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T21:29:39Z"
+    },
+    {
+      "id": "85c47f82-165b-4da7-85e1-9bb288360a60",
+      "latitude": -34.877922,
+      "longitude": 138.571929,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:30:11Z"
+    },
+    {
+      "id": "3b66ab20-7189-4d30-8123-05abfa52c5e6",
+      "latitude": -34.849276,
+      "longitude": 138.660722,
       "street": "Wandana Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T21:40:53Z"
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T21:18:26Z"
     },
     {
       "id": "024c06a3-7b58-4dc9-b20f-a7465809bb74",
@@ -17,7 +47,7 @@
       "street": "Ways Rd",
       "city": "Manningham",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T21:12:48Z"
     },
     {
@@ -27,18 +57,18 @@
       "street": "Unknown Street",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T21:19:07Z"
     },
     {
-      "id": "2700bc0b-d9ce-4526-8489-160a3f2a0ab7",
-      "latitude": -34.81587,
-      "longitude": 138.634405,
-      "street": "Research Rd",
-      "city": "Pooraka",
+      "id": "a8009233-910b-4f75-b07e-9a8f6bc541be",
+      "latitude": -34.855819,
+      "longitude": 138.653808,
+      "street": "Sudholz Rd",
+      "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T21:21:13Z"
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:25:22Z"
     },
     {
       "id": "a45e00c2-62da-44dc-b1b5-023e19dbbefa",
@@ -47,18 +77,8 @@
       "street": "Fosters Rd",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T21:03:18Z"
-    },
-    {
-      "id": "8a74f2cf-2981-4f1f-a460-3e1cb8c28124",
-      "latitude": -34.845514,
-      "longitude": 138.649457,
-      "street": "Walkleys Rd",
-      "city": "Walkley Heights",
-      "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T23:23:09Z"
     },
     {
       "id": "17bca72d-8f49-4399-bf8a-ad217c909bfc",
@@ -67,28 +87,8 @@
       "street": "Bridge Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T21:02:12Z"
-    },
-    {
-      "id": "f4cc6eea-3503-4acb-a62a-b7e9612ca2fa",
-      "latitude": -34.836318,
-      "longitude": 138.620425,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T21:12:10Z"
-    },
-    {
-      "id": "e09aff4d-a8d9-4855-a3e9-5977e38d9a3b",
-      "latitude": -34.824439,
-      "longitude": 138.622712,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T22:39:24Z"
     },
     {
       "id": "913ef0f7-ef0c-4be9-87c7-0001c2cdc565",
@@ -97,38 +97,48 @@
       "street": "Bridge Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T22:20:14Z"
     },
     {
-      "id": "10dd49c9-5ddb-46de-abef-bc7fe2658ceb",
-      "latitude": -34.776472,
-      "longitude": 138.676725,
+      "id": "c953b9bd-8d9b-4012-924b-5525326fb42d",
+      "latitude": -34.837074,
+      "longitude": 138.621996,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:14:11Z"
+    },
+    {
+      "id": "8fda18b1-cb6b-415a-8daf-3aaa1692a730",
+      "latitude": -34.787569,
+      "longitude": 138.666301,
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T22:57:14Z"
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:29:07Z"
     },
     {
-      "id": "f6a585f1-a90e-4560-80e6-0c67a0f291d0",
-      "latitude": -34.970855,
-      "longitude": 138.544095,
+      "id": "c5ccaede-e9fe-492f-8d26-2c9a53231961",
+      "latitude": -34.968423,
+      "longitude": 138.547807,
       "street": "A5 - Anzac Hwy",
-      "city": "Camden Park",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T23:24:16Z"
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:33:26Z"
     },
     {
-      "id": "b0a4a9de-35fc-4916-97a0-04b0e1e16393",
-      "latitude": -34.927034,
-      "longitude": 138.621803,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "5d33be4a-f1ea-4212-bd28-dcf09e513fca",
+      "latitude": -34.908389,
+      "longitude": 138.577364,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T23:09:22Z"
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:23:06Z"
     },
     {
       "id": "bb1c4683-d719-4cfd-954d-3b525a6fd85d",
@@ -137,7 +147,7 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T21:34:26Z"
     },
     {
@@ -147,18 +157,38 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Northfield",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T21:58:20Z"
     },
     {
-      "id": "1aa0f700-fb34-48ff-9a3b-6e1681423885",
-      "latitude": -34.800113,
-      "longitude": 138.659466,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
+      "id": "aa72725e-e45a-4d86-897b-6f1120a21b65",
+      "latitude": -34.88279,
+      "longitude": 138.538633,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T23:12:39Z"
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:42:44Z"
+    },
+    {
+      "id": "df1c3acc-0d9c-42e0-97cd-d87f8e9d26d3",
+      "latitude": -34.786851,
+      "longitude": 138.596239,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:43:36Z"
+    },
+    {
+      "id": "d0d0d9e7-5eec-4e96-8e32-1783bc2f5a95",
+      "latitude": -34.764351,
+      "longitude": 138.601978,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-03-06T00:00:18Z",
+      "reported_at": "2026-03-05T23:34:35Z"
     },
     {
       "id": "95a6f8b7-20c7-4326-8145-61fc6ba014b6",
@@ -167,18 +197,8 @@
       "street": "M2 - North-South Mwy",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
+      "timestamp": "2026-03-06T00:00:18Z",
       "reported_at": "2026-03-05T20:10:49Z"
-    },
-    {
-      "id": "878ad4fa-eb42-4ba7-a0d0-65ccf9e048dd",
-      "latitude": -34.788126,
-      "longitude": 138.580208,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-03-05T23:30:15Z",
-      "reported_at": "2026-03-05T23:24:55Z"
     }
   ]
 }
