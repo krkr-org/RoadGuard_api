@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "66a37cf7-ccdc-44fb-a67d-551a82e7416a",
+      "latitude": -35.009756,
+      "longitude": 138.526653,
+      "street": "Dunrobin Rd",
+      "city": "Hove",
+      "type": "mobile",
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T21:59:23Z"
+    },
+    {
       "id": "8d643da7-22ac-408a-8e88-51acb0897db2",
       "latitude": -34.855285,
       "longitude": 138.50241,
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
+      "timestamp": "2026-03-07T23:30:14Z",
       "reported_at": "2026-03-07T21:34:38Z"
-    },
-    {
-      "id": "ce84ddd6-30b8-4abd-acd7-047a0c8c6f1d",
-      "latitude": -34.990393,
-      "longitude": 138.600824,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T20:42:46Z"
     },
     {
       "id": "acedc7ea-b39e-4e14-bf44-22c6fdfcd608",
@@ -27,48 +27,78 @@
       "street": "Springbank Rd",
       "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
+      "timestamp": "2026-03-07T23:30:14Z",
       "reported_at": "2026-03-07T20:59:39Z"
     },
     {
-      "id": "1c42d2f0-58fc-420f-a2cf-44c0bd6820fb",
-      "latitude": -34.984045,
-      "longitude": 138.592078,
+      "id": "51dbc9fe-ffb0-49d6-8b56-4e5dfc5fcd88",
+      "latitude": -35.010798,
+      "longitude": 138.582814,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T22:56:43Z"
+    },
+    {
+      "id": "ad0043b5-d0f0-4af1-a3f9-4e24f9fc92e8",
+      "latitude": -34.983221,
+      "longitude": 138.592013,
       "street": "Goodwood Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T21:44:47Z"
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T20:38:32Z"
     },
     {
-      "id": "2a284f80-b825-49db-a9a8-19148b0957fd",
-      "latitude": -34.985154,
-      "longitude": 138.592172,
+      "id": "3c5c81dc-1a3e-4de8-bf88-4ad321a1206a",
+      "latitude": -34.990469,
+      "longitude": 138.599223,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T20:42:56Z"
+    },
+    {
+      "id": "102af554-f537-407a-a413-b185be9c66ee",
+      "latitude": -34.984974,
+      "longitude": 138.592156,
       "street": "Goodwood Rd",
       "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T22:30:44Z"
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T22:24:53Z"
     },
     {
-      "id": "cb1f71dc-796c-4581-a92b-c8b4ffa701f2",
-      "latitude": -34.996057,
-      "longitude": 138.53952,
-      "street": "Oaklands Rd",
-      "city": "Morphettville",
+      "id": "4e30fafe-379f-4304-a2d1-11c35f1902d8",
+      "latitude": -34.898574,
+      "longitude": 138.532072,
+      "street": "Findon Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T22:37:43Z"
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T23:18:55Z"
     },
     {
-      "id": "120aac88-d902-4a34-aa8c-c2b8db678d36",
-      "latitude": -35.044596,
-      "longitude": 138.531111,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
+      "id": "d66d381b-b5fa-430c-a092-0fb53a39c86d",
+      "latitude": -35.127259,
+      "longitude": 138.485621,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T22:27:43Z"
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T23:25:55Z"
+    },
+    {
+      "id": "a8a05f5e-eef5-4c6b-89e4-6076e92bbf71",
+      "latitude": -35.135115,
+      "longitude": 138.52432,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T23:04:10Z"
     },
     {
       "id": "8514529b-a3b5-4eb3-86e7-ad3392fdb74e",
@@ -77,8 +107,18 @@
       "street": "B28 - Maitland St",
       "city": "Mitcham",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
+      "timestamp": "2026-03-07T23:30:14Z",
       "reported_at": "2026-03-07T20:38:58Z"
+    },
+    {
+      "id": "a2e0ff07-1f66-4a5a-8aee-2159f1c7a121",
+      "latitude": -34.975691,
+      "longitude": 138.627326,
+      "street": "B28 - Fullarton Rd",
+      "city": "Springfield",
+      "type": "mobile",
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T20:39:23Z"
     },
     {
       "id": "002c4129-6d5c-47bf-813c-9ed9bbca90ab",
@@ -87,48 +127,18 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
+      "timestamp": "2026-03-07T23:30:14Z",
       "reported_at": "2026-03-07T22:06:51Z"
     },
     {
-      "id": "0aba935a-b2b0-4d41-81c5-d6b65c62c253",
-      "latitude": -34.975562,
-      "longitude": 138.627271,
-      "street": "B28 - Fullarton Rd",
-      "city": "Springfield",
-      "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T21:15:47Z"
-    },
-    {
-      "id": "470fa1b5-2586-4232-a6c6-411705f3fc3e",
-      "latitude": -34.970865,
-      "longitude": 138.626891,
-      "street": "B28 - Fullarton Rd",
-      "city": "Netherby",
-      "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T22:39:44Z"
-    },
-    {
-      "id": "55b1f693-2184-40f5-91ba-f26087de0f4a",
-      "latitude": -34.83731,
-      "longitude": 138.608247,
+      "id": "9a6cab71-495e-4e58-a913-d3968aec4e93",
+      "latitude": -34.836523,
+      "longitude": 138.608834,
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T22:11:21Z"
-    },
-    {
-      "id": "66d6658c-a75b-4da3-8bef-1f275b7d8817",
-      "latitude": -34.834628,
-      "longitude": 138.609881,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-07T23:00:15Z",
-      "reported_at": "2026-03-07T22:45:25Z"
+      "timestamp": "2026-03-07T23:30:14Z",
+      "reported_at": "2026-03-07T22:36:05Z"
     }
   ]
 }
