@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e565eaf6-4c97-434c-9281-db245e19b7fb",
-      "latitude": -34.923853,
-      "longitude": 138.495498,
+      "id": "0ec5e0f9-59dd-4a4d-9d9e-bc65022ba728",
+      "latitude": -34.909324,
+      "longitude": 138.491547,
       "street": "Seaview Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T09:39:16Z"
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T10:08:20Z"
     },
     {
       "id": "c07f01a3-ddbe-49f8-a42b-020348b55e06",
@@ -17,18 +17,38 @@
       "street": "Target Hill Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
+      "timestamp": "2026-03-07T10:30:15Z",
       "reported_at": "2026-03-07T06:29:07Z"
     },
     {
-      "id": "6127f49a-4350-404b-b2ff-66623ef39152",
-      "latitude": -34.862071,
-      "longitude": 138.487488,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
+      "id": "87748865-5e45-499c-b1f8-7ae41e7b4748",
+      "latitude": -34.857373,
+      "longitude": 138.655643,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T06:09:59Z"
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T10:17:13Z"
+    },
+    {
+      "id": "87e73d28-3ee0-4c9c-8935-8cae26f105d6",
+      "latitude": -34.863867,
+      "longitude": 138.661565,
+      "street": "Sudholz Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T09:47:04Z"
+    },
+    {
+      "id": "65abf56d-0616-4c4d-af3b-06f06fe6152f",
+      "latitude": -35.049267,
+      "longitude": 138.581781,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T10:19:27Z"
     },
     {
       "id": "b6546da0-1e4e-48cd-8086-27687a067dc0",
@@ -37,8 +57,18 @@
       "street": "Grenfell Rd",
       "city": "Surrey Downs",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
+      "timestamp": "2026-03-07T10:30:15Z",
       "reported_at": "2026-03-07T07:44:19Z"
+    },
+    {
+      "id": "0c8c39a4-d6bf-4217-a847-2b69568d57c7",
+      "latitude": -34.994638,
+      "longitude": 138.529075,
+      "street": "Diagonal Rd",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T08:55:27Z"
     },
     {
       "id": "b1c7facd-931b-4903-b898-12f2a261afdf",
@@ -47,68 +77,48 @@
       "street": "Kersbrook Rd",
       "city": "Humbug Scrub",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
+      "timestamp": "2026-03-07T10:30:15Z",
       "reported_at": "2026-03-07T09:17:28Z"
     },
     {
-      "id": "6b5b1eac-7583-415a-ab5e-6e862c3a0e9c",
-      "latitude": -34.864131,
-      "longitude": 138.60137,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "ca791aa1-5db0-44d0-b869-830ad0bbe625",
+      "latitude": -34.82087,
+      "longitude": 138.721441,
+      "street": "A10 - North East Rd",
+      "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T09:37:31Z"
-    },
-    {
-      "id": "faecf2f4-901c-486e-8f2b-d83b11238ed3",
-      "latitude": -34.848952,
-      "longitude": 138.584,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T09:31:40Z"
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T10:11:00Z"
     },
     {
       "id": "a88df049-b23a-4113-ab68-7a283237c2d8",
-      "latitude": -34.808902,
-      "longitude": 138.63174,
+      "latitude": -34.805957,
+      "longitude": 138.634413,
       "street": "A20 - Main North Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
+      "timestamp": "2026-03-07T10:30:15Z",
       "reported_at": "2026-03-07T09:34:30Z"
     },
     {
-      "id": "8237228a-5f33-494c-a6e9-8d9cbe7785a1",
-      "latitude": -34.988033,
-      "longitude": 138.55649,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T09:42:28Z"
-    },
-    {
-      "id": "56aaec91-8b32-46a3-a0c2-3c98242276a4",
-      "latitude": -34.767122,
-      "longitude": 138.672005,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T09:44:00Z"
-    },
-    {
-      "id": "355b4fcf-ea86-4492-a862-baac997f9e78",
-      "latitude": -34.803196,
-      "longitude": 138.636634,
+      "id": "015368d7-0b5e-4a3a-a3aa-df61b569532f",
+      "latitude": -34.802834,
+      "longitude": 138.63696,
       "street": "A20 - Main North Rd",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
-      "reported_at": "2026-03-07T08:55:23Z"
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T09:25:22Z"
+    },
+    {
+      "id": "5a949eb2-2cbb-41c7-b623-2b94fdd289d3",
+      "latitude": -34.767211,
+      "longitude": 138.672204,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-07T10:30:15Z",
+      "reported_at": "2026-03-07T07:25:35Z"
     },
     {
       "id": "d13e1bcf-cb69-446f-9f8c-fe22e48b7cd8",
@@ -117,7 +127,7 @@
       "street": "M2 - Northern Exp",
       "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-03-07T10:00:17Z",
+      "timestamp": "2026-03-07T10:30:15Z",
       "reported_at": "2026-03-07T09:55:06Z"
     }
   ]
