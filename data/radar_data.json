@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "07e37cda-c3c6-4444-9383-8ec8693e9ec0",
+      "latitude": -34.69976,
+      "longitude": 138.677572,
+      "street": "Whitsbury Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T05:32:16Z"
+    },
+    {
+      "id": "1eb3e2bf-9513-4b9a-89d9-dfba42fdd90d",
+      "latitude": -34.79678,
+      "longitude": 138.64952,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T05:38:46Z"
+    },
+    {
       "id": "aad71372-b12e-464c-aa84-2e6d4e747ef1",
       "latitude": -34.765719,
       "longitude": 138.693317,
       "street": "Target Hill Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
+      "timestamp": "2026-03-07T09:00:18Z",
       "reported_at": "2026-03-07T05:16:41Z"
     },
     {
@@ -17,28 +37,18 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
+      "timestamp": "2026-03-07T09:00:18Z",
       "reported_at": "2026-03-07T06:09:59Z"
     },
     {
-      "id": "c00f5d5e-0e7a-49a9-9a0e-0f93515e36a1",
-      "latitude": -34.881892,
-      "longitude": 138.48559,
-      "street": "Military Rd",
-      "city": "Tennyson",
+      "id": "4e9a8972-c411-4802-8431-ac2906599505",
+      "latitude": -34.994278,
+      "longitude": 138.528817,
+      "street": "Diagonal Rd",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T06:06:18Z"
-    },
-    {
-      "id": "e30e9b76-afe8-49a3-a6df-3278bb6def22",
-      "latitude": -35.054117,
-      "longitude": 138.551059,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T07:12:39Z"
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T08:25:37Z"
     },
     {
       "id": "de8b4673-a524-4e95-a8ac-52e2b1049702",
@@ -47,18 +57,28 @@
       "street": "Haines Rd",
       "city": "Banksia Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
+      "timestamp": "2026-03-07T09:00:18Z",
       "reported_at": "2026-03-07T05:38:06Z"
     },
     {
-      "id": "40abc43d-4497-47b6-b80b-16c802f57e6d",
-      "latitude": -34.888463,
-      "longitude": 138.675976,
+      "id": "6690e456-7a24-45e8-aacd-bf6f4bd1c171",
+      "latitude": -34.889128,
+      "longitude": 138.662847,
       "street": "Montacute Rd",
-      "city": "Newton",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T07:45:23Z"
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T08:41:23Z"
+    },
+    {
+      "id": "b6546da0-1e4e-48cd-8086-27687a067dc0",
+      "latitude": -34.805911,
+      "longitude": 138.71102,
+      "street": "Grenfell Rd",
+      "city": "Surrey Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T07:44:19Z"
     },
     {
       "id": "36c5471f-8717-4bc6-8b22-b475e6f74523",
@@ -67,68 +87,58 @@
       "street": "Grenfell Rd",
       "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
+      "timestamp": "2026-03-07T09:00:18Z",
       "reported_at": "2026-03-07T05:30:13Z"
     },
     {
-      "id": "86277d16-9e3f-4d31-b8d0-403a4f604773",
-      "latitude": -35.02541,
-      "longitude": 138.523643,
-      "street": "A15 - Brighton Rd",
-      "city": "South Brighton",
+      "id": "3147a83a-e8b3-4671-98cb-df0ca08dfda3",
+      "latitude": -34.846007,
+      "longitude": 138.651931,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T08:15:14Z"
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T08:39:41Z"
     },
     {
-      "id": "076831c8-13f2-42eb-8254-e5e22ddf2352",
-      "latitude": -34.805751,
-      "longitude": 138.6346,
+      "id": "9ab4c635-b3d0-471a-8783-cf6379238b6c",
+      "latitude": -34.84629,
+      "longitude": 138.646576,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Walkley Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T08:59:16Z"
+    },
+    {
+      "id": "a15539f7-f88b-4898-905d-3eab0d78a05f",
+      "latitude": -34.803027,
+      "longitude": 138.637012,
       "street": "A20 - Main North Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T08:13:17Z"
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T07:53:45Z"
     },
     {
-      "id": "91df0baa-f435-4359-8ff6-f9fb599fbaaa",
-      "latitude": -34.971227,
-      "longitude": 138.543789,
-      "street": "A5 - Anzac Hwy",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T07:56:28Z"
-    },
-    {
-      "id": "1fef47b1-f593-4907-95c0-54c1ffc5247e",
-      "latitude": -34.767405,
-      "longitude": 138.672485,
+      "id": "9b54050c-c35c-464b-bcd2-652ae6f9ba3e",
+      "latitude": -34.767606,
+      "longitude": 138.673285,
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T06:54:06Z"
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T05:25:10Z"
     },
     {
-      "id": "d56ea8b2-6df4-4982-812f-0417b53a633d",
-      "latitude": -34.801899,
-      "longitude": 138.637774,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
+      "id": "c566886f-4ba1-4bc7-83c6-0e2459359d2c",
+      "latitude": -34.9687,
+      "longitude": 138.649789,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T05:47:59Z"
-    },
-    {
-      "id": "cbfef967-af35-4350-af32-2e8a9a8f802e",
-      "latitude": -34.795919,
-      "longitude": 138.653899,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-07T08:30:14Z",
-      "reported_at": "2026-03-07T03:20:28Z"
+      "timestamp": "2026-03-07T09:00:18Z",
+      "reported_at": "2026-03-07T07:31:35Z"
     }
   ]
 }
