@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "071dc30b-188b-4b12-ba6a-ad7b2a51b335",
-      "latitude": -34.912798,
-      "longitude": 138.492463,
+      "id": "91f10bdf-c8f9-4261-bb8d-c9ff7bb9ded3",
+      "latitude": -34.912843,
+      "longitude": 138.492475,
       "street": "Seaview Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T10:16:53Z"
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T10:57:22Z"
     },
     {
       "id": "1faa0106-d078-4ffd-991e-75be277d4336",
@@ -17,28 +17,8 @@
       "street": "Unknown Street",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T10:50:09Z"
-    },
-    {
-      "id": "746b4d01-6324-45d1-95e9-f045035a70fe",
-      "latitude": -34.816383,
-      "longitude": 138.641491,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T10:50:58Z"
-    },
-    {
-      "id": "ffbf1f86-7ec2-4638-aea0-598b34390ee1",
-      "latitude": -34.809936,
-      "longitude": 138.730295,
-      "street": "Haines Rd",
-      "city": "Banksia Park",
-      "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T09:54:24Z"
     },
     {
       "id": "8c240261-d71f-49e5-b0ef-790c045a9cab",
@@ -47,7 +27,7 @@
       "street": "Grenfell Rd",
       "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T09:52:12Z"
     },
     {
@@ -57,7 +37,7 @@
       "street": "Grenfell Rd",
       "city": "Surrey Downs",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T07:44:19Z"
     },
     {
@@ -67,18 +47,8 @@
       "street": "Diagonal Rd",
       "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T08:55:27Z"
-    },
-    {
-      "id": "c34ab505-ac5d-4119-ae3d-a190eae6b21c",
-      "latitude": -34.787397,
-      "longitude": 138.666455,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T10:36:25Z"
     },
     {
       "id": "b1c7facd-931b-4903-b898-12f2a261afdf",
@@ -87,18 +57,48 @@
       "street": "Kersbrook Rd",
       "city": "Humbug Scrub",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T09:17:28Z"
     },
     {
-      "id": "b0880c63-c7f1-4278-8356-dc8bbb1d3aa8",
-      "latitude": -34.867252,
-      "longitude": 138.512016,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Royal Park",
+      "id": "ffbf1f86-7ec2-4638-aea0-598b34390ee1",
+      "latitude": -34.809936,
+      "longitude": 138.730295,
+      "street": "Haines Rd",
+      "city": "Banksia Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T10:45:01Z"
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T09:54:24Z"
+    },
+    {
+      "id": "bad3b0c4-0f32-46f0-9818-119a25db8080",
+      "latitude": -34.743721,
+      "longitude": 138.611129,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T11:09:39Z"
+    },
+    {
+      "id": "746b4d01-6324-45d1-95e9-f045035a70fe",
+      "latitude": -34.816383,
+      "longitude": 138.641491,
+      "street": "Bridge Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T10:50:58Z"
+    },
+    {
+      "id": "3a7518fb-ed47-4e86-9b04-5333d0ca193d",
+      "latitude": -34.876524,
+      "longitude": 138.671404,
+      "street": "Newton Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T11:11:31Z"
     },
     {
       "id": "c6cf8aa6-265a-4a70-b61f-a61799934673",
@@ -107,28 +107,18 @@
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T10:25:29Z"
     },
     {
-      "id": "525f892d-aeb1-42c6-8119-ab6a60af634e",
-      "latitude": -34.777668,
-      "longitude": 138.627802,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury Downs",
+      "id": "68f4f08c-7db0-4c60-a197-97a5739d5dbc",
+      "latitude": -34.95758,
+      "longitude": 138.564859,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T10:42:40Z"
-    },
-    {
-      "id": "f249ae6b-f8a9-4a6a-b3da-625a2c3fd56d",
-      "latitude": -34.802421,
-      "longitude": 138.637542,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
-      "reported_at": "2026-03-07T08:48:25Z"
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T11:02:26Z"
     },
     {
       "id": "5a949eb2-2cbb-41c7-b623-2b94fdd289d3",
@@ -137,8 +127,18 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-07T11:00:15Z",
+      "timestamp": "2026-03-07T11:30:14Z",
       "reported_at": "2026-03-07T07:25:35Z"
+    },
+    {
+      "id": "99c5a205-c688-4032-92cf-dc51bb9ed3d3",
+      "latitude": -34.802594,
+      "longitude": 138.63739,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-07T11:30:14Z",
+      "reported_at": "2026-03-07T07:53:52Z"
     }
   ]
 }
