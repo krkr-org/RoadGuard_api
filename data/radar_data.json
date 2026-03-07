@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "317990e0-46c2-4b80-a9ed-6db7f2d4e9da",
-      "latitude": -35.010542,
-      "longitude": 138.584991,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-07T21:00:15Z",
-      "reported_at": "2026-03-07T20:35:01Z"
-    },
-    {
-      "id": "4b2af778-4acc-49b0-9cbe-e554c1269be0",
-      "latitude": -34.981838,
-      "longitude": 138.591929,
+      "id": "ad0043b5-d0f0-4af1-a3f9-4e24f9fc92e8",
+      "latitude": -34.983221,
+      "longitude": 138.592013,
       "street": "Goodwood Rd",
       "city": "Colonel Light Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-07T21:00:15Z",
-      "reported_at": "2026-03-07T20:38:41Z"
+      "timestamp": "2026-03-07T21:30:16Z",
+      "reported_at": "2026-03-07T20:38:32Z"
     },
     {
-      "id": "2f7a4987-1ed9-45b6-8923-5b61862f2206",
-      "latitude": -34.990025,
-      "longitude": 138.609322,
+      "id": "2e916627-f741-4154-a70e-0ef1b09cf99f",
+      "latitude": -34.990276,
+      "longitude": 138.603088,
       "street": "Springbank Rd",
-      "city": "Torrens Park",
+      "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-03-07T21:00:15Z",
-      "reported_at": "2026-03-07T20:28:54Z"
+      "timestamp": "2026-03-07T21:30:16Z",
+      "reported_at": "2026-03-07T20:54:21Z"
+    },
+    {
+      "id": "8ac8945e-a3b7-48fe-a2b5-d5a6a4215156",
+      "latitude": -34.926275,
+      "longitude": 138.531341,
+      "street": "Henley Beach Rd",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-07T21:30:16Z",
+      "reported_at": "2026-03-07T21:11:00Z"
+    },
+    {
+      "id": "1520f561-c9ea-46c7-80d2-15150ad804fb",
+      "latitude": -34.981149,
+      "longitude": 138.622039,
+      "street": "B28 - Old Belair Rd",
+      "city": "Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-03-07T21:30:16Z",
+      "reported_at": "2026-03-07T20:58:45Z"
     },
     {
       "id": "a2e0ff07-1f66-4a5a-8aee-2159f1c7a121",
@@ -37,7 +47,7 @@
       "street": "B28 - Fullarton Rd",
       "city": "Springfield",
       "type": "mobile",
-      "timestamp": "2026-03-07T21:00:15Z",
+      "timestamp": "2026-03-07T21:30:16Z",
       "reported_at": "2026-03-07T20:39:23Z"
     },
     {
@@ -47,8 +57,18 @@
       "street": "B28 - Maitland St",
       "city": "Mitcham",
       "type": "mobile",
-      "timestamp": "2026-03-07T21:00:15Z",
+      "timestamp": "2026-03-07T21:30:16Z",
       "reported_at": "2026-03-07T20:38:58Z"
+    },
+    {
+      "id": "445539d1-e539-4788-8e64-646663c51922",
+      "latitude": -35.049455,
+      "longitude": 138.547763,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-07T21:30:16Z",
+      "reported_at": "2026-03-07T21:07:05Z"
     }
   ]
 }
