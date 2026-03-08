@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "77fa57ba-0d6a-4f8d-9645-fc91d84923e3",
+      "latitude": -34.866514,
+      "longitude": 138.662258,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-08T21:00:19Z",
+      "reported_at": "2026-03-08T20:36:20Z"
+    },
+    {
       "id": "6357bf7e-0fd8-4450-b07b-571c5de5a1ba",
       "latitude": -34.89831,
       "longitude": 138.561133,
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-08T20:30:15Z",
+      "timestamp": "2026-03-08T21:00:19Z",
       "reported_at": "2026-03-08T18:23:41Z"
     }
   ]
