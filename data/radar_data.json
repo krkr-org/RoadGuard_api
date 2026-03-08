@@ -7,7 +7,7 @@
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-08T12:00:16Z",
+      "timestamp": "2026-03-08T12:30:15Z",
       "reported_at": "2026-03-08T09:02:23Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-08T12:00:16Z",
+      "timestamp": "2026-03-08T12:30:15Z",
       "reported_at": "2026-03-08T08:58:32Z"
     },
     {
@@ -27,8 +27,18 @@
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-08T12:00:16Z",
+      "timestamp": "2026-03-08T12:30:15Z",
       "reported_at": "2026-03-08T08:45:49Z"
+    },
+    {
+      "id": "9ac1e433-7cdd-49e9-b26f-f137554674bd",
+      "latitude": -34.825514,
+      "longitude": 138.708055,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2026-03-08T12:30:15Z",
+      "reported_at": "2026-03-08T08:52:15Z"
     },
     {
       "id": "8c8458b1-c366-4a14-9b9f-a647f4d73644",
@@ -37,28 +47,8 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-08T12:00:16Z",
+      "timestamp": "2026-03-08T12:30:15Z",
       "reported_at": "2026-03-08T11:20:23Z"
-    },
-    {
-      "id": "c5dce62f-172f-402a-876f-108bf4a973fd",
-      "latitude": -34.860352,
-      "longitude": 138.684826,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-03-08T12:00:16Z",
-      "reported_at": "2026-03-08T08:24:40Z"
-    },
-    {
-      "id": "647631e7-e164-4102-9248-b0f2f5f0f986",
-      "latitude": -34.824159,
-      "longitude": 138.709693,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
-      "type": "mobile",
-      "timestamp": "2026-03-08T12:00:16Z",
-      "reported_at": "2026-03-08T05:33:04Z"
     }
   ]
 }
