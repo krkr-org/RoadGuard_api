@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "89ee6349-51f1-4ae2-b106-580e3525fa7a",
-      "latitude": -34.846813,
-      "longitude": 138.653314,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
+      "id": "39fd1ba5-d894-42c7-96d6-1d3141fe3971",
+      "latitude": -34.873229,
+      "longitude": 138.68305,
+      "street": "Silkes Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
-      "reported_at": "2026-03-08T05:44:55Z"
-    },
-    {
-      "id": "0d267035-a8c2-48d7-b148-10590207efe1",
-      "latitude": -34.858056,
-      "longitude": 138.679587,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
-      "reported_at": "2026-03-08T05:44:33Z"
-    },
-    {
-      "id": "4a01d5e6-072a-43e2-8fa1-8080b4dbb00b",
-      "latitude": -34.696274,
-      "longitude": 138.669593,
-      "street": "Heytesbury Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
-      "reported_at": "2026-03-08T09:16:52Z"
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:02:23Z"
     },
     {
       "id": "f9f75891-d263-45ca-9976-e55be8155691",
@@ -37,8 +17,18 @@
       "street": "Graves St",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
+      "timestamp": "2026-03-08T10:00:16Z",
       "reported_at": "2026-03-08T06:19:28Z"
+    },
+    {
+      "id": "4872657c-2fa5-416d-af80-f8fc28bb97ec",
+      "latitude": -34.861894,
+      "longitude": 138.679876,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T07:14:54Z"
     },
     {
       "id": "9eda6641-48ec-46e9-8db3-a8b1459b0fd3",
@@ -47,8 +37,18 @@
       "street": "Unknown Street",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
+      "timestamp": "2026-03-08T10:00:16Z",
       "reported_at": "2026-03-08T07:21:33Z"
+    },
+    {
+      "id": "7a211ccf-24f3-4800-b33d-01d78ba86a7e",
+      "latitude": -34.790448,
+      "longitude": 138.716438,
+      "street": "Hancock Rd",
+      "city": "Surrey Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:36:21Z"
     },
     {
       "id": "4fca389c-1994-4c43-8862-15d55f145cf1",
@@ -57,8 +57,58 @@
       "street": "Smart Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
+      "timestamp": "2026-03-08T10:00:16Z",
       "reported_at": "2026-03-08T05:19:25Z"
+    },
+    {
+      "id": "b3e6d091-23a4-4f76-9fb6-36a9cbdef81d",
+      "latitude": -34.889099,
+      "longitude": 138.665043,
+      "street": "Montacute Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:49:11Z"
+    },
+    {
+      "id": "ca9a4526-565f-4f71-aaf9-05d4cfe05633",
+      "latitude": -34.825831,
+      "longitude": 138.60764,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:29:03Z"
+    },
+    {
+      "id": "5758db30-10f6-40bc-9bb8-67726598826d",
+      "latitude": -34.963751,
+      "longitude": 138.641185,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:36:38Z"
+    },
+    {
+      "id": "8bbf4798-9bc1-4b84-83ec-9fc53ebd5f54",
+      "latitude": -34.816973,
+      "longitude": 138.597927,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:45:45Z"
+    },
+    {
+      "id": "c1c4e0de-8431-4894-a64d-32f113293b8f",
+      "latitude": -34.861539,
+      "longitude": 138.60119,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:51:21Z"
     },
     {
       "id": "c5dce62f-172f-402a-876f-108bf4a973fd",
@@ -67,38 +117,18 @@
       "street": "A11 - Lower North East Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
+      "timestamp": "2026-03-08T10:00:16Z",
       "reported_at": "2026-03-08T08:24:40Z"
     },
     {
-      "id": "1b210711-4add-4ebd-87bb-a6c36f0a52af",
-      "latitude": -34.861119,
-      "longitude": 138.68343,
-      "street": "A11 - Lower North East Rd",
-      "city": "Dernancourt",
+      "id": "6549a566-6543-4a7a-a501-5f226e60e62a",
+      "latitude": -34.755817,
+      "longitude": 138.677719,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Park",
       "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
-      "reported_at": "2026-03-08T08:29:33Z"
-    },
-    {
-      "id": "4963326e-52a5-46d0-a4b2-bb2d591dfa30",
-      "latitude": -34.868075,
-      "longitude": 138.601532,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
-      "reported_at": "2026-03-08T08:53:57Z"
-    },
-    {
-      "id": "7b85fcd1-9b0e-4478-94db-c8bfc4eb31d2",
-      "latitude": -34.839851,
-      "longitude": 138.721798,
-      "street": "A16 - Lower North East Rd",
-      "city": "Vista",
-      "type": "mobile",
-      "timestamp": "2026-03-08T09:30:14Z",
-      "reported_at": "2026-03-08T05:31:37Z"
+      "timestamp": "2026-03-08T10:00:16Z",
+      "reported_at": "2026-03-08T09:29:02Z"
     }
   ]
 }
