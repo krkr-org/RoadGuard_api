@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "f2bcd794-c04a-4884-a0b4-9c93bb748bb5",
-      "latitude": -34.873786,
-      "longitude": 138.682987,
+      "id": "a464eb9c-c945-4f02-9266-c8112adfb56e",
+      "latitude": -34.873814,
+      "longitude": 138.682981,
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T05:40:49Z"
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T05:38:55Z"
+    },
+    {
+      "id": "f9f75891-d263-45ca-9976-e55be8155691",
+      "latitude": -34.880948,
+      "longitude": 138.686898,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T06:19:28Z"
     },
     {
       "id": "ec9a5e85-fa78-4e6d-8f36-3bd1023f5417",
@@ -17,7 +27,7 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
+      "timestamp": "2026-03-08T09:00:15Z",
       "reported_at": "2026-03-08T05:37:29Z"
     },
     {
@@ -27,18 +37,8 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
+      "timestamp": "2026-03-08T09:00:15Z",
       "reported_at": "2026-03-08T04:20:32Z"
-    },
-    {
-      "id": "f9f75891-d263-45ca-9976-e55be8155691",
-      "latitude": -34.880948,
-      "longitude": 138.686898,
-      "street": "Graves St",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T06:19:28Z"
     },
     {
       "id": "9eda6641-48ec-46e9-8db3-a8b1459b0fd3",
@@ -47,7 +47,7 @@
       "street": "Unknown Street",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
+      "timestamp": "2026-03-08T09:00:15Z",
       "reported_at": "2026-03-08T07:21:33Z"
     },
     {
@@ -57,28 +57,18 @@
       "street": "Smart Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
+      "timestamp": "2026-03-08T09:00:15Z",
       "reported_at": "2026-03-08T05:19:25Z"
     },
     {
-      "id": "04c6dcce-3fde-464a-914a-0e1317115676",
-      "latitude": -34.866814,
-      "longitude": 138.662841,
-      "street": "Sudholz Rd",
-      "city": "Paradise",
+      "id": "e014f192-2330-40bb-8aef-9a82dc3526cf",
+      "latitude": -34.90526,
+      "longitude": 138.53571,
+      "street": "Grange Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T06:16:34Z"
-    },
-    {
-      "id": "d40dacdd-a016-4cbb-85f0-1e56fb3ef99d",
-      "latitude": -34.703809,
-      "longitude": 138.670681,
-      "street": "Womma Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T07:56:01Z"
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T08:23:46Z"
     },
     {
       "id": "1f5069f3-5d96-4e4b-9d04-bb42b3c7382a",
@@ -87,38 +77,68 @@
       "street": "Findon Rd",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
+      "timestamp": "2026-03-08T09:00:15Z",
       "reported_at": "2026-03-08T07:30:08Z"
     },
     {
-      "id": "56a6cd1e-17b8-4f78-95ee-9fd9ce6b1a91",
-      "latitude": -34.858211,
-      "longitude": 138.600838,
+      "id": "c41ffe1a-5f35-41a5-a5d9-6b659c37326f",
+      "latitude": -34.996498,
+      "longitude": 138.530396,
+      "street": "Diagonal Rd",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T08:45:29Z"
+    },
+    {
+      "id": "4d5a15b5-d260-4962-9b2b-fe4afdece84c",
+      "latitude": -35.138471,
+      "longitude": 138.486279,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T08:39:07Z"
+    },
+    {
+      "id": "f70a5afc-caf7-46af-94d4-227fe95b6a6b",
+      "latitude": -34.866867,
+      "longitude": 138.601562,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T07:40:23Z"
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T08:14:20Z"
     },
     {
-      "id": "7647efdc-f56d-41e2-90f7-f77826ddd338",
-      "latitude": -34.839709,
-      "longitude": 138.721001,
+      "id": "c5dce62f-172f-402a-876f-108bf4a973fd",
+      "latitude": -34.860352,
+      "longitude": 138.684826,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T08:24:40Z"
+    },
+    {
+      "id": "1b210711-4add-4ebd-87bb-a6c36f0a52af",
+      "latitude": -34.861119,
+      "longitude": 138.68343,
+      "street": "A11 - Lower North East Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T08:29:33Z"
+    },
+    {
+      "id": "7b85fcd1-9b0e-4478-94db-c8bfc4eb31d2",
+      "latitude": -34.839851,
+      "longitude": 138.721798,
       "street": "A16 - Lower North East Rd",
       "city": "Vista",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T06:04:47Z"
-    },
-    {
-      "id": "ad2583fd-c0c6-4ae2-8f94-f55ede5a309d",
-      "latitude": -34.840269,
-      "longitude": 138.713513,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
-      "reported_at": "2026-03-08T05:03:02Z"
+      "timestamp": "2026-03-08T09:00:15Z",
+      "reported_at": "2026-03-08T05:31:37Z"
     },
     {
       "id": "647631e7-e164-4102-9248-b0f2f5f0f986",
@@ -127,7 +147,7 @@
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-03-08T08:30:13Z",
+      "timestamp": "2026-03-08T09:00:15Z",
       "reported_at": "2026-03-08T05:33:04Z"
     }
   ]
