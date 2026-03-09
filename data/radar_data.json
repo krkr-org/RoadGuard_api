@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "a0254888-07d2-46d6-8f78-2227c0f5580b",
-      "latitude": -34.855888,
-      "longitude": 138.600553,
-      "street": "Leslie Av",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-09T12:30:14Z",
-      "reported_at": "2026-03-09T08:53:44Z"
-    },
-    {
-      "id": "f4f67d0b-b825-4fb5-8188-2ff656c048ae",
-      "latitude": -34.902616,
-      "longitude": 138.574989,
+      "id": "6492ba3e-e944-40b2-826a-65dd5c38123a",
+      "latitude": -34.902681,
+      "longitude": 138.574926,
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-03-09T12:30:14Z",
-      "reported_at": "2026-03-09T08:38:33Z"
+      "timestamp": "2026-03-09T13:00:17Z",
+      "reported_at": "2026-03-09T10:03:39Z"
     },
     {
-      "id": "338bb535-fc8a-41e7-b4b6-2fdfb23dd7e7",
-      "latitude": -34.851484,
-      "longitude": 138.600355,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "49082aba-7c76-4260-89a5-6d774118591b",
+      "latitude": -34.857066,
+      "longitude": 138.656083,
+      "street": "Unknown Street",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-03-09T12:30:14Z",
-      "reported_at": "2026-03-09T12:07:00Z"
+      "timestamp": "2026-03-09T13:00:17Z",
+      "reported_at": "2026-03-09T12:35:55Z"
+    },
+    {
+      "id": "518ade93-b155-4d0f-a892-b3a8597743c7",
+      "latitude": -34.845068,
+      "longitude": 138.599854,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-09T13:00:17Z",
+      "reported_at": "2026-03-09T11:53:52Z"
+    },
+    {
+      "id": "30138d75-eadb-4c03-b400-37f5530cca85",
+      "latitude": -34.847805,
+      "longitude": 138.600559,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-09T13:00:17Z",
+      "reported_at": "2026-03-09T12:16:12Z"
     }
   ]
 }
