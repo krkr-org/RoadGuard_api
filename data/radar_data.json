@@ -1,64 +1,34 @@
 {
   "radars": [
     {
-      "id": "51df9d9b-00a6-4460-9055-c8ecd07a1ab2",
-      "latitude": -34.919105,
-      "longitude": 138.494167,
-      "street": "Seaview Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:23:12Z"
-    },
-    {
       "id": "fbe8e200-b9f7-4262-b0b1-9d5a010f858d",
       "latitude": -34.700281,
       "longitude": 138.732923,
       "street": "Uley Rd",
       "city": "Uleybury",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
+      "timestamp": "2026-03-09T05:30:14Z",
       "reported_at": "2026-03-09T01:32:20Z"
     },
     {
-      "id": "cbd6f087-7e6a-4a03-a91a-c84efd1a907a",
-      "latitude": -35.017087,
-      "longitude": 138.558353,
-      "street": "Sturt Rd",
-      "city": "Sturt",
+      "id": "e759e135-be4e-4fa6-a21e-ace86e7549d8",
+      "latitude": -34.898372,
+      "longitude": 138.579172,
+      "street": "Chief St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:40:38Z"
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T04:56:00Z"
     },
     {
-      "id": "aea35586-6617-4663-a4ca-89628fc95602",
-      "latitude": -34.875433,
-      "longitude": 138.563949,
-      "street": "Regency Rd",
-      "city": "Ferryden Park",
+      "id": "1c1d817a-cac5-45b8-92bf-d65400279267",
+      "latitude": -34.741938,
+      "longitude": 138.648752,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:42:36Z"
-    },
-    {
-      "id": "e184c2fd-1653-4b8b-8193-273cce0eceab",
-      "latitude": -35.017,
-      "longitude": 138.560719,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:41:41Z"
-    },
-    {
-      "id": "9eea8917-5e48-425d-ac3c-4c28a1c710fa",
-      "latitude": -34.811769,
-      "longitude": 138.644714,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:41:28Z"
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T04:57:18Z"
     },
     {
       "id": "035cff91-8a94-4d2a-9e3a-04a278337f13",
@@ -67,8 +37,38 @@
       "street": "Morphett Rd",
       "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
+      "timestamp": "2026-03-09T05:30:14Z",
       "reported_at": "2026-03-09T04:54:51Z"
+    },
+    {
+      "id": "e8c47f4c-2b85-422f-b866-b0ca8917b65a",
+      "latitude": -34.87481,
+      "longitude": 138.577651,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T04:59:46Z"
+    },
+    {
+      "id": "48334993-0a26-455c-b15b-8c8c0c681ef9",
+      "latitude": -34.918166,
+      "longitude": 138.593022,
+      "street": "Montefiore Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T05:03:02Z"
+    },
+    {
+      "id": "aa714635-7565-4f2f-90e9-4a6b0d1ded96",
+      "latitude": -34.9278,
+      "longitude": 138.625164,
+      "street": "Kensington Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T05:12:56Z"
     },
     {
       "id": "d7fd82ef-e663-40f4-823e-f0da8c78701c",
@@ -77,38 +77,28 @@
       "street": "Winterslow Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
+      "timestamp": "2026-03-09T05:30:14Z",
       "reported_at": "2026-03-09T04:45:28Z"
     },
     {
-      "id": "fceffc15-d5b5-413d-8a06-01da84da24d3",
-      "latitude": -34.775706,
-      "longitude": 138.677324,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:51:41Z"
-    },
-    {
-      "id": "a6b7e122-a98b-4b90-92be-a3405ae0aa08",
-      "latitude": -34.808313,
-      "longitude": 138.501273,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T03:18:27Z"
-    },
-    {
       "id": "6c6022af-57b9-4ae0-a399-27dc9ad4ae0c",
-      "latitude": -34.790089,
-      "longitude": 138.50155,
+      "latitude": -34.791259,
+      "longitude": 138.501544,
       "street": "A16 - Victoria Rd",
       "city": "North Haven",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
+      "timestamp": "2026-03-09T05:30:14Z",
       "reported_at": "2026-03-09T04:17:07Z"
+    },
+    {
+      "id": "07db82ad-51f6-466f-8ab7-0399ac646d8a",
+      "latitude": -34.868399,
+      "longitude": 138.518408,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T05:24:49Z"
     },
     {
       "id": "932b9c74-e87b-484f-ac8a-d69c297ff387",
@@ -117,38 +107,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
+      "timestamp": "2026-03-09T05:30:14Z",
       "reported_at": "2026-03-09T03:19:17Z"
     },
     {
-      "id": "7612064d-e0e0-4b8e-984f-033075065f3f",
-      "latitude": -34.914813,
-      "longitude": 138.639928,
-      "street": "B27 - Magill Rd",
-      "city": "Maylands",
+      "id": "71753c60-6ed8-4d5d-a39a-6b606eb16460",
+      "latitude": -34.839942,
+      "longitude": 138.593274,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:30:29Z"
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T05:02:49Z"
     },
     {
-      "id": "b2449a86-4a4e-411b-8a78-7268f160dd35",
-      "latitude": -34.773396,
-      "longitude": 138.616832,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury Downs",
+      "id": "3088dfe1-11e0-4c96-a0c8-c0696a45d926",
+      "latitude": -34.889365,
+      "longitude": 138.656386,
+      "street": "A11 - Lower North East Rd",
+      "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:39:11Z"
-    },
-    {
-      "id": "f27645a8-4043-4e26-8475-848d51d99504",
-      "latitude": -34.783177,
-      "longitude": 138.691944,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-09T05:00:14Z",
-      "reported_at": "2026-03-09T04:32:39Z"
+      "timestamp": "2026-03-09T05:30:14Z",
+      "reported_at": "2026-03-09T04:53:51Z"
     }
   ]
 }
