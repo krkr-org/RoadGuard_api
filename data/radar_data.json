@@ -1,64 +1,94 @@
 {
   "radars": [
     {
-      "id": "523115b4-ef01-49ce-91e5-a67908941531",
-      "latitude": -34.920299,
-      "longitude": 138.654396,
-      "street": "The Parade",
-      "city": "Kensington Park",
+      "id": "20a7ea29-7552-4d09-a9c9-279d591eb5f8",
+      "latitude": -34.897239,
+      "longitude": 138.662184,
+      "street": "Reid Av",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-09T21:30:14Z",
-      "reported_at": "2026-03-09T21:00:02Z"
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:51:15Z"
     },
     {
-      "id": "3244e4e3-3965-4dcc-8c2f-8b46247bddef",
-      "latitude": -34.851969,
-      "longitude": 138.478915,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
+      "id": "dd884462-24ba-4a5d-bf4f-f8b88c0d8e3a",
+      "latitude": -35.024242,
+      "longitude": 138.562298,
+      "street": "Brookside Rd",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-09T21:30:14Z",
-      "reported_at": "2026-03-09T21:17:53Z"
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:27:41Z"
     },
     {
-      "id": "64638b52-7708-4dfb-be9b-5bbd8a59cd53",
-      "latitude": -35.105424,
-      "longitude": 138.518395,
+      "id": "96465489-54d5-4403-af4d-3cc65e7d5199",
+      "latitude": -34.837506,
+      "longitude": 138.543893,
+      "street": "Wilkins Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:27:48Z"
+    },
+    {
+      "id": "e575f5ff-f65d-4a58-b65c-48c5e953b7df",
+      "latitude": -34.903655,
+      "longitude": 138.667742,
+      "street": "Arthur St",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:16:47Z"
+    },
+    {
+      "id": "eeb038c7-cdee-461d-b52f-c73c4c2758b6",
+      "latitude": -35.02909,
+      "longitude": 138.541754,
+      "street": "Unknown Street",
+      "city": "Dover Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:35:25Z"
+    },
+    {
+      "id": "823dd989-db3f-45fc-8cef-acfbab82dd96",
+      "latitude": -35.10554,
+      "longitude": 138.518128,
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-09T21:30:14Z",
-      "reported_at": "2026-03-09T20:36:18Z"
-    },
-    {
-      "id": "424aa215-38e2-4e3a-885f-3625ffc37714",
-      "latitude": -35.041535,
-      "longitude": 138.569684,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-09T21:30:14Z",
-      "reported_at": "2026-03-09T20:27:45Z"
-    },
-    {
-      "id": "85c8f9d0-8ea7-446f-b832-60e1b534046f",
-      "latitude": -34.964715,
-      "longitude": 138.553522,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-09T21:30:14Z",
-      "reported_at": "2026-03-09T20:59:14Z"
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T20:36:06Z"
     },
     {
       "id": "f1e43acc-c8c2-489f-a877-ff8e74a0501a",
-      "latitude": -34.925596,
-      "longitude": 138.620078,
+      "latitude": -34.925716,
+      "longitude": 138.620234,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-09T21:30:14Z",
+      "timestamp": "2026-03-09T22:00:20Z",
       "reported_at": "2026-03-09T21:03:59Z"
+    },
+    {
+      "id": "cf8240d5-f2d7-4107-8f70-8f95c7eb4a47",
+      "latitude": -35.006124,
+      "longitude": 138.773663,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:56:30Z"
+    },
+    {
+      "id": "d6e975e6-b0ee-4e97-a4c5-490041c857bf",
+      "latitude": -34.997941,
+      "longitude": 138.728435,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:00:20Z",
+      "reported_at": "2026-03-09T21:38:36Z"
     }
   ]
 }
