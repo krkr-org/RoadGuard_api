@@ -1,34 +1,94 @@
 {
   "radars": [
     {
+      "id": "67d9923f-37c7-4893-9ddf-7425355425c7",
+      "latitude": -34.894496,
+      "longitude": 138.680387,
+      "street": "Koonga Av",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:11:55Z"
+    },
+    {
       "id": "20a7ea29-7552-4d09-a9c9-279d591eb5f8",
       "latitude": -34.897239,
       "longitude": 138.662184,
       "street": "Reid Av",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
+      "timestamp": "2026-03-09T22:30:14Z",
       "reported_at": "2026-03-09T21:51:15Z"
     },
     {
-      "id": "dd884462-24ba-4a5d-bf4f-f8b88c0d8e3a",
-      "latitude": -35.024242,
-      "longitude": 138.562298,
-      "street": "Brookside Rd",
-      "city": "Darlington",
+      "id": "6c96f8cf-291d-4246-918e-d5cf9c201cf2",
+      "latitude": -34.931755,
+      "longitude": 138.652072,
+      "street": "Rochester St",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T21:27:41Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T21:36:17Z"
     },
     {
-      "id": "96465489-54d5-4403-af4d-3cc65e7d5199",
-      "latitude": -34.837506,
-      "longitude": 138.543893,
-      "street": "Wilkins Rd",
-      "city": "Wingfield",
+      "id": "7600754a-70d0-4cc9-ac9f-5404c510551a",
+      "latitude": -34.922575,
+      "longitude": 138.654621,
+      "street": "Holden St",
+      "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T21:27:48Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:16:02Z"
+    },
+    {
+      "id": "0dcf2874-210b-4a64-9bdf-ef89ee20e3da",
+      "latitude": -34.923252,
+      "longitude": 138.65542,
+      "street": "Park Rd",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:14:12Z"
+    },
+    {
+      "id": "2c4eaa82-c3fb-44f5-a32f-5991ae2c164f",
+      "latitude": -34.90379,
+      "longitude": 138.665147,
+      "street": "Arthur St",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:10:57Z"
+    },
+    {
+      "id": "dbfc7010-fcef-4e4d-a3ec-2f3b3f3ef17c",
+      "latitude": -34.920343,
+      "longitude": 138.653581,
+      "street": "The Parade",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T21:32:48Z"
+    },
+    {
+      "id": "7988278b-c988-4690-b26a-56c34d92baab",
+      "latitude": -34.906617,
+      "longitude": 138.617649,
+      "street": "Eighth Av",
+      "city": "St. Peters",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T21:57:38Z"
+    },
+    {
+      "id": "6f50d722-f2b2-4146-8404-864d8efe82d5",
+      "latitude": -34.874718,
+      "longitude": 138.662335,
+      "street": "Church Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T21:53:58Z"
     },
     {
       "id": "e575f5ff-f65d-4a58-b65c-48c5e953b7df",
@@ -37,58 +97,58 @@
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
+      "timestamp": "2026-03-09T22:30:14Z",
       "reported_at": "2026-03-09T21:16:47Z"
     },
     {
-      "id": "eeb038c7-cdee-461d-b52f-c73c4c2758b6",
-      "latitude": -35.02909,
-      "longitude": 138.541754,
-      "street": "Unknown Street",
-      "city": "Dover Gardens",
+      "id": "ec95ad13-93d1-4d00-b499-5b36899ff178",
+      "latitude": -34.887756,
+      "longitude": 138.513442,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T21:35:25Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:03:35Z"
     },
     {
-      "id": "823dd989-db3f-45fc-8cef-acfbab82dd96",
-      "latitude": -35.10554,
-      "longitude": 138.518128,
-      "street": "Sherriffs Rd",
-      "city": "Reynella",
+      "id": "8cc4330a-552f-4af0-a29c-42891120e30f",
+      "latitude": -34.938172,
+      "longitude": 138.670029,
+      "street": "B26 - Greenhill Rd",
+      "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T20:36:06Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:24:06Z"
     },
     {
-      "id": "f1e43acc-c8c2-489f-a877-ff8e74a0501a",
-      "latitude": -34.925716,
-      "longitude": 138.620234,
+      "id": "f3889224-861e-4cfd-b7b0-c955708b5f8d",
+      "latitude": -34.925576,
+      "longitude": 138.619794,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T21:03:59Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T20:49:33Z"
     },
     {
-      "id": "cf8240d5-f2d7-4107-8f70-8f95c7eb4a47",
-      "latitude": -35.006124,
-      "longitude": 138.773663,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
+      "id": "af1f0584-3bc7-485a-9d76-78c2ed69d704",
+      "latitude": -34.849677,
+      "longitude": 138.569998,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T21:56:30Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:20:24Z"
     },
     {
-      "id": "d6e975e6-b0ee-4e97-a4c5-490041c857bf",
-      "latitude": -34.997941,
-      "longitude": 138.728435,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
+      "id": "38a190e0-cbbc-4936-8f67-8b808732dc2f",
+      "latitude": -34.850186,
+      "longitude": 138.713936,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-03-09T22:00:20Z",
-      "reported_at": "2026-03-09T21:38:36Z"
+      "timestamp": "2026-03-09T22:30:14Z",
+      "reported_at": "2026-03-09T22:06:45Z"
     }
   ]
 }
