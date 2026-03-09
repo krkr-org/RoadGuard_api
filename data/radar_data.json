@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "abbf7934-dfb8-44b0-a6c6-628351a109b0",
-      "latitude": -34.857529,
-      "longitude": 138.504783,
+      "id": "e30c2f50-9751-4e3c-b0e8-0bcd358a451b",
+      "latitude": -34.85597,
+      "longitude": 138.506562,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
-      "reported_at": "2026-03-09T08:03:53Z"
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T06:01:11Z"
     },
     {
-      "id": "dba99449-df7d-4c23-aa92-1ce8a67f2cfc",
-      "latitude": -34.899253,
-      "longitude": 138.578306,
+      "id": "a0254888-07d2-46d6-8f78-2227c0f5580b",
+      "latitude": -34.855888,
+      "longitude": 138.600553,
+      "street": "Leslie Av",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T08:53:44Z"
+    },
+    {
+      "id": "e759e135-be4e-4fa6-a21e-ace86e7549d8",
+      "latitude": -34.898372,
+      "longitude": 138.579172,
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
-      "reported_at": "2026-03-09T05:25:09Z"
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T04:56:00Z"
     },
     {
       "id": "07dd0e5b-9a14-41f8-8803-14186eeadf43",
@@ -27,18 +37,58 @@
       "street": "Gallipoli Dr",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
+      "timestamp": "2026-03-09T09:00:15Z",
       "reported_at": "2026-03-09T05:21:11Z"
     },
     {
-      "id": "498245d6-acdf-4c71-95f1-7988a3461cc5",
-      "latitude": -34.96597,
-      "longitude": 138.551863,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "64dfd401-06c2-4257-9fe7-5dd68a0bc1fc",
+      "latitude": -34.864745,
+      "longitude": 138.565546,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
-      "reported_at": "2026-03-09T08:18:39Z"
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T06:06:46Z"
+    },
+    {
+      "id": "644e894e-6914-4702-9cb7-79e29a371d17",
+      "latitude": -34.904183,
+      "longitude": 138.595304,
+      "street": "O'Connell St",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T08:42:17Z"
+    },
+    {
+      "id": "af840267-5149-4d0e-b222-9c93b3de1b0f",
+      "latitude": -34.990777,
+      "longitude": 138.593633,
+      "street": "Springbank Rd",
+      "city": "Panorama",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T08:40:50Z"
+    },
+    {
+      "id": "978e4e1f-989a-4250-aa91-0b2e4847730c",
+      "latitude": -34.814641,
+      "longitude": 138.501339,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T08:26:04Z"
+    },
+    {
+      "id": "621e06fc-13cf-4ed0-8fef-022b114d7e5a",
+      "latitude": -34.939148,
+      "longitude": 138.585461,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T08:39:52Z"
     },
     {
       "id": "f39cfb5a-f2ec-4ab0-bdb8-e19f803eef06",
@@ -47,28 +97,8 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
+      "timestamp": "2026-03-09T09:00:15Z",
       "reported_at": "2026-03-09T05:09:40Z"
-    },
-    {
-      "id": "e1023662-669b-414b-ab0e-745c380003cd",
-      "latitude": -34.868938,
-      "longitude": 138.518724,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
-      "reported_at": "2026-03-09T07:47:03Z"
-    },
-    {
-      "id": "7e75f84b-2831-461d-aa3a-1436cbce80ae",
-      "latitude": -34.857601,
-      "longitude": 138.600795,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
-      "reported_at": "2026-03-09T05:01:17Z"
     },
     {
       "id": "45a73036-e024-403e-aed2-8ba1f6e97d2d",
@@ -77,8 +107,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-09T08:30:14Z",
+      "timestamp": "2026-03-09T09:00:15Z",
       "reported_at": "2026-03-09T08:16:52Z"
+    },
+    {
+      "id": "e1023662-669b-414b-ab0e-745c380003cd",
+      "latitude": -34.868938,
+      "longitude": 138.518724,
+      "street": "A7 - Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T07:47:03Z"
+    },
+    {
+      "id": "c0d0a16d-4c0f-4d53-8d3e-b96b412651ea",
+      "latitude": -34.857044,
+      "longitude": 138.60085,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-09T09:00:15Z",
+      "reported_at": "2026-03-09T05:59:13Z"
     }
   ]
 }
