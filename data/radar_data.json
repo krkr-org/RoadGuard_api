@@ -7,7 +7,7 @@
       "street": "Koonga Av",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T22:11:55Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Rochester St",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T21:36:17Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Park Rd",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T22:14:12Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "The Parade",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T21:32:48Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Church Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T21:53:58Z"
     },
     {
@@ -57,18 +57,8 @@
       "street": "Arthur St",
       "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T22:10:57Z"
-    },
-    {
-      "id": "e575f5ff-f65d-4a58-b65c-48c5e953b7df",
-      "latitude": -34.903655,
-      "longitude": 138.667742,
-      "street": "Arthur St",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
-      "reported_at": "2026-03-09T21:16:47Z"
     },
     {
       "id": "861a5d14-5dd9-4ded-a8f2-051f6f911104",
@@ -77,18 +67,18 @@
       "street": "Barnes Rd",
       "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T22:18:32Z"
     },
     {
-      "id": "94660e04-09a8-4b67-84b9-a685b89e578b",
-      "latitude": -34.873658,
-      "longitude": 138.602557,
-      "street": "Regency Rd",
-      "city": "Enfield",
+      "id": "e575f5ff-f65d-4a58-b65c-48c5e953b7df",
+      "latitude": -34.903655,
+      "longitude": 138.667742,
+      "street": "Arthur St",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
-      "reported_at": "2026-03-09T22:34:10Z"
+      "timestamp": "2026-03-09T23:30:14Z",
+      "reported_at": "2026-03-09T21:16:47Z"
     },
     {
       "id": "8cc4330a-552f-4af0-a29c-42891120e30f",
@@ -97,8 +87,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T22:24:06Z"
+    },
+    {
+      "id": "64dc27c3-aeaf-43a1-972a-e621b2e3d8f7",
+      "latitude": -34.925919,
+      "longitude": 138.620295,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-09T23:30:14Z",
+      "reported_at": "2026-03-09T22:09:26Z"
     },
     {
       "id": "af1f0584-3bc7-485a-9d76-78c2ed69d704",
@@ -107,28 +107,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
+      "timestamp": "2026-03-09T23:30:14Z",
       "reported_at": "2026-03-09T22:20:24Z"
-    },
-    {
-      "id": "bd749469-d265-432e-8c58-68bba5aecb03",
-      "latitude": -34.844683,
-      "longitude": 138.677351,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
-      "reported_at": "2026-03-09T22:35:07Z"
-    },
-    {
-      "id": "1d2889de-b525-4716-bb2f-90f5f5506711",
-      "latitude": -34.852073,
-      "longitude": 138.710037,
-      "street": "A11 - Lower North East Rd",
-      "city": "Highbury",
-      "type": "mobile",
-      "timestamp": "2026-03-09T23:00:15Z",
-      "reported_at": "2026-03-09T22:17:00Z"
     }
   ]
 }
