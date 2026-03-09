@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "3b83781f-4381-4831-8196-5732302174d7",
+      "latitude": -34.909945,
+      "longitude": 138.581493,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-09T20:30:14Z",
+      "reported_at": "2026-03-09T20:11:18Z"
+    },
+    {
+      "id": "9cf0e4dd-2784-4058-afb2-57149de5e1ec",
+      "latitude": -34.938022,
+      "longitude": 138.665354,
+      "street": "B26 - Greenhill Rd",
+      "city": "Burnside",
+      "type": "mobile",
+      "timestamp": "2026-03-09T20:30:14Z",
+      "reported_at": "2026-03-09T20:01:00Z"
+    }
+  ]
 }
