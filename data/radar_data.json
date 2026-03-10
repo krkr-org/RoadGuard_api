@@ -1,94 +1,24 @@
 {
   "radars": [
     {
-      "id": "d4575a41-2476-4c51-a957-e5640736538d",
-      "latitude": -34.931589,
-      "longitude": 138.654926,
-      "street": "Rochester St",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T02:18:24Z"
-    },
-    {
-      "id": "ecf051c9-f70e-49f4-8fad-9cdf21f8dc6b",
-      "latitude": -34.954,
-      "longitude": 138.62241,
-      "street": "Wattle St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:34:56Z"
-    },
-    {
-      "id": "3ada6cdd-1fe1-4174-985e-9309ba66f5c8",
-      "latitude": -34.825312,
-      "longitude": 138.499541,
-      "street": "Jetty Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:51:21Z"
-    },
-    {
-      "id": "0fb9a932-af68-49f8-89b4-0f98e7330431",
-      "latitude": -34.922043,
-      "longitude": 138.615279,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:35:09Z"
-    },
-    {
-      "id": "57e7d976-00ab-4298-8680-3f65e8c9165f",
-      "latitude": -34.829126,
-      "longitude": 138.484183,
-      "street": "Esplanade",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:48:27Z"
-    },
-    {
-      "id": "57fdd09b-8ef9-4b9e-9530-42960527b003",
-      "latitude": -34.887092,
-      "longitude": 138.486952,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:42:18Z"
-    },
-    {
-      "id": "2c9ae6c1-c790-47a0-bf68-2c45eb0889f9",
-      "latitude": -35.058628,
-      "longitude": 138.609886,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:39:40Z"
-    },
-    {
-      "id": "943a0abc-2ab6-47ba-8629-a5f38f03f167",
-      "latitude": -35.004104,
-      "longitude": 138.535687,
-      "street": "Diagonal Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:39:22Z"
-    },
-    {
       "id": "7508aa68-073b-4c93-a4e6-e377e8ca1fbf",
       "latitude": -35.021588,
       "longitude": 138.541219,
       "street": "Morphett Rd",
       "city": "Dover Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
+      "timestamp": "2026-03-10T06:30:14Z",
       "reported_at": "2026-03-10T05:36:29Z"
+    },
+    {
+      "id": "b3d82de0-3b7c-4930-99b8-acf56a0a42a4",
+      "latitude": -35.028534,
+      "longitude": 138.552537,
+      "street": "Seacombe Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-10T06:30:14Z",
+      "reported_at": "2026-03-10T06:15:33Z"
     },
     {
       "id": "58fda1d7-ad01-46e8-8030-652952051728",
@@ -97,18 +27,18 @@
       "street": "Diagonal Rd",
       "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
+      "timestamp": "2026-03-10T06:30:14Z",
       "reported_at": "2026-03-10T05:41:27Z"
     },
     {
-      "id": "199063e9-2df9-474b-a35f-a3848ef65765",
-      "latitude": -34.929189,
-      "longitude": 138.590024,
-      "street": "Grote St",
+      "id": "42cefd23-de43-46a4-94da-dd8de890c443",
+      "latitude": -34.92416,
+      "longitude": 138.603004,
+      "street": "Grenfell St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:37:49Z"
+      "timestamp": "2026-03-10T06:30:14Z",
+      "reported_at": "2026-03-10T05:53:38Z"
     },
     {
       "id": "1b7b8fcd-cb4a-4ba1-88f2-f01a191d7896",
@@ -117,28 +47,28 @@
       "street": "Unknown Street",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
+      "timestamp": "2026-03-10T06:30:14Z",
       "reported_at": "2026-03-10T02:36:43Z"
     },
     {
-      "id": "5044ed1e-604f-455b-87cb-a4c1b755d6f5",
-      "latitude": -34.780088,
-      "longitude": 138.495666,
+      "id": "9c31e54d-4291-41e3-aa10-77eb9b078a35",
+      "latitude": -34.825001,
+      "longitude": 138.499897,
       "street": "A16 - Victoria Rd",
-      "city": "North Haven",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:40:15Z"
+      "timestamp": "2026-03-10T06:30:14Z",
+      "reported_at": "2026-03-10T06:18:36Z"
     },
     {
-      "id": "063027a3-1908-4665-a08c-472a14c3a327",
-      "latitude": -35.044934,
-      "longitude": 138.561037,
-      "street": "A13 - Main South Rd",
-      "city": "Flagstaff Hill",
+      "id": "b056a0e1-f710-47c5-80bc-d6cda627a0d4",
+      "latitude": -34.939212,
+      "longitude": 138.643137,
+      "street": "B26 - Greenhill Rd",
+      "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T04:47:07Z"
+      "timestamp": "2026-03-10T06:30:14Z",
+      "reported_at": "2026-03-10T05:59:41Z"
     },
     {
       "id": "ded607d0-fdb4-4dc8-9cc5-be5bde59d055",
@@ -147,18 +77,18 @@
       "street": "A18 - McIntyre Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
+      "timestamp": "2026-03-10T06:30:14Z",
       "reported_at": "2026-03-10T05:38:10Z"
     },
     {
-      "id": "7dd0cb63-d93e-4b01-a73a-efdb2a269f7d",
-      "latitude": -34.959626,
-      "longitude": 138.733467,
+      "id": "a3e7b067-a101-4d5b-9c55-a03e4ff4b106",
+      "latitude": -34.959658,
+      "longitude": 138.732491,
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-03-10T06:00:22Z",
-      "reported_at": "2026-03-10T05:36:49Z"
+      "timestamp": "2026-03-10T06:30:14Z",
+      "reported_at": "2026-03-10T05:55:41Z"
     }
   ]
 }
