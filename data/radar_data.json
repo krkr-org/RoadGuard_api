@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "3e1bcb0f-7286-4a89-a602-5251aaec6587",
+      "latitude": -34.826532,
+      "longitude": 138.630644,
+      "street": "Muriel Dr",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-10T12:00:18Z",
+      "reported_at": "2026-03-10T10:37:51Z"
+    },
+    {
+      "id": "7f0a1540-3034-46e6-b466-b8fc37074bcb",
+      "latitude": -35.008098,
+      "longitude": 138.790135,
+      "street": "B34 - Onkaparinga Valley Rd",
+      "city": "Verdun",
+      "type": "mobile",
+      "timestamp": "2026-03-10T12:00:18Z",
+      "reported_at": "2026-03-10T09:31:32Z"
+    },
+    {
+      "id": "d016e969-066b-4a38-b193-5cc987404570",
+      "latitude": -34.911145,
+      "longitude": 138.577557,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-10T12:00:18Z",
+      "reported_at": "2026-03-10T11:34:34Z"
+    },
+    {
       "id": "7b28db8a-26ae-478f-a385-30cecfd95edd",
       "latitude": -34.959655,
       "longitude": 138.732713,
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-03-10T11:30:15Z",
+      "timestamp": "2026-03-10T12:00:18Z",
       "reported_at": "2026-03-10T10:13:35Z"
     },
     {
-      "id": "2ee18daf-70b2-4686-a27e-72abf8e91806",
-      "latitude": -34.896225,
-      "longitude": 138.585373,
-      "street": "A22 - Churchill Rd",
-      "city": "Ovingham",
+      "id": "bd188a00-6e12-4ef2-9b0d-e42536f13a89",
+      "latitude": -34.830369,
+      "longitude": 138.61311,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-10T11:30:15Z",
-      "reported_at": "2026-03-10T11:03:01Z"
+      "timestamp": "2026-03-10T12:00:18Z",
+      "reported_at": "2026-03-10T11:47:39Z"
     }
   ]
 }
