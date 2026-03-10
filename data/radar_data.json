@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "8c54ece6-c4d9-484b-9578-b156abb826e4",
-      "latitude": -34.875061,
-      "longitude": 138.572167,
-      "street": "Regency Rd",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-03-10T18:00:14Z",
-      "reported_at": "2026-03-10T17:27:27Z"
-    },
-    {
-      "id": "b213489a-3912-47a1-8ff8-67f70d839f39",
-      "latitude": -34.860373,
-      "longitude": 138.567573,
+      "id": "fa0d3ff7-4e11-4f83-b73b-5ce071461de2",
+      "latitude": -34.873615,
+      "longitude": 138.5713,
       "street": "South Rd",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-03-10T18:00:14Z",
-      "reported_at": "2026-03-10T17:46:08Z"
+      "timestamp": "2026-03-10T18:30:14Z",
+      "reported_at": "2026-03-10T17:25:32Z"
     },
     {
       "id": "1ab4dc38-39bd-4f27-82dd-7fb1cc1973cf",
@@ -27,8 +17,18 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-10T18:00:14Z",
+      "timestamp": "2026-03-10T18:30:14Z",
       "reported_at": "2026-03-10T17:36:54Z"
+    },
+    {
+      "id": "d6d60e39-35ac-42f7-bfbb-5c56f93ff85c",
+      "latitude": -34.843643,
+      "longitude": 138.564372,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-10T18:30:14Z",
+      "reported_at": "2026-03-10T18:04:44Z"
     }
   ]
 }
