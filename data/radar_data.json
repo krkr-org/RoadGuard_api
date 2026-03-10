@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "30a5d921-f513-4934-a820-b9675a32a863",
+      "latitude": -35.016432,
+      "longitude": 138.573007,
+      "street": "Unknown Street",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:00:17Z",
+      "reported_at": "2026-03-10T20:33:26Z"
+    },
+    {
+      "id": "6a59aaf3-8047-4c2f-a38a-3a33a7dc50a7",
+      "latitude": -34.858397,
+      "longitude": 138.565416,
+      "street": "Unknown Street",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:00:17Z",
+      "reported_at": "2026-03-10T20:31:22Z"
+    },
+    {
+      "id": "ad890a60-e329-4dbc-b0b8-eafe1582f6f3",
+      "latitude": -34.861437,
+      "longitude": 138.661016,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:00:17Z",
+      "reported_at": "2026-03-10T20:36:39Z"
+    },
+    {
+      "id": "c0eefe38-0ea2-4f2d-9a5b-6cac8a2c2e7f",
+      "latitude": -34.840766,
+      "longitude": 138.55854,
+      "street": "Cormack Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:00:17Z",
+      "reported_at": "2026-03-10T20:47:41Z"
+    },
+    {
+      "id": "470f9676-220b-4da5-8057-846ccbd1ea00",
+      "latitude": -34.834144,
+      "longitude": 138.535473,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:00:17Z",
+      "reported_at": "2026-03-10T20:48:24Z"
+    }
+  ]
 }
