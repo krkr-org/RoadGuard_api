@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "983cfbb6-3350-4226-8644-e68653357718",
-      "latitude": -34.98552,
-      "longitude": 138.583185,
-      "street": "Winston Av",
-      "city": "Melrose Park",
+      "id": "648f1306-18f8-4166-a332-1f5f5607acaf",
+      "latitude": -34.813915,
+      "longitude": 138.621382,
+      "street": "Mawson Lakes Bvd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T06:41:48Z"
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T07:19:44Z"
     },
     {
-      "id": "44d1d761-5830-4386-9bf5-9ccd142f4bf6",
-      "latitude": -34.979664,
-      "longitude": 138.599665,
-      "street": "Wattlebury Rd",
-      "city": "Colonel Light Gardens",
+      "id": "23cc8d84-3b6b-45ca-877c-e4793ac4ec0a",
+      "latitude": -34.949034,
+      "longitude": 138.506039,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T06:53:54Z"
-    },
-    {
-      "id": "81074a79-07ac-463b-a978-86c8d7613b7b",
-      "latitude": -35.028718,
-      "longitude": 138.549059,
-      "street": "Seacombe Rd",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T06:31:50Z"
-    },
-    {
-      "id": "d948d949-3957-4951-89cb-ec35b45af010",
-      "latitude": -34.926753,
-      "longitude": 138.644436,
-      "street": "Kensington Rd",
-      "city": "Kensington",
-      "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T05:59:40Z"
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T07:01:45Z"
     },
     {
       "id": "1b7b8fcd-cb4a-4ba1-88f2-f01a191d7896",
@@ -47,38 +27,58 @@
       "street": "Unknown Street",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
+      "timestamp": "2026-03-10T07:30:15Z",
       "reported_at": "2026-03-10T02:36:43Z"
     },
     {
-      "id": "903205d6-5ecc-4f06-93e4-98706c27a99f",
-      "latitude": -34.900089,
-      "longitude": 138.551731,
-      "street": "A14 - East Av",
-      "city": "Beverley",
+      "id": "d948d949-3957-4951-89cb-ec35b45af010",
+      "latitude": -34.926753,
+      "longitude": 138.644436,
+      "street": "Kensington Rd",
+      "city": "Kensington",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T06:46:25Z"
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T05:59:40Z"
     },
     {
-      "id": "b056a0e1-f710-47c5-80bc-d6cda627a0d4",
-      "latitude": -34.939212,
-      "longitude": 138.643137,
-      "street": "B26 - Greenhill Rd",
-      "city": "Tusmore",
+      "id": "34c7441c-b01c-4385-bcbd-db9e3900710e",
+      "latitude": -34.772413,
+      "longitude": 138.657991,
+      "street": "Park Tce",
+      "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T05:59:41Z"
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T07:14:29Z"
     },
     {
-      "id": "7dd0cb63-d93e-4b01-a73a-efdb2a269f7d",
-      "latitude": -34.959626,
-      "longitude": 138.733467,
+      "id": "7b7477bd-0bdf-4712-a5fb-ac1ea8dd99e3",
+      "latitude": -35.008207,
+      "longitude": 138.789423,
+      "street": "B34 - Onkaparinga Valley Rd",
+      "city": "Verdun",
+      "type": "mobile",
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T06:44:41Z"
+    },
+    {
+      "id": "d3b306d0-8187-4fb1-8da9-ecd7a365d448",
+      "latitude": -34.848698,
+      "longitude": 138.588469,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T06:57:43Z"
+    },
+    {
+      "id": "a3e7b067-a101-4d5b-9c55-a03e4ff4b106",
+      "latitude": -34.959658,
+      "longitude": 138.732491,
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
-      "reported_at": "2026-03-10T05:36:49Z"
+      "timestamp": "2026-03-10T07:30:15Z",
+      "reported_at": "2026-03-10T05:55:41Z"
     },
     {
       "id": "12120b7e-751e-4045-9166-c38c31d7476a",
@@ -87,7 +87,7 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-10T07:00:14Z",
+      "timestamp": "2026-03-10T07:30:15Z",
       "reported_at": "2026-03-10T06:51:20Z"
     }
   ]
