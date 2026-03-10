@@ -1,44 +1,104 @@
 {
   "radars": [
     {
-      "id": "30a5d921-f513-4934-a820-b9675a32a863",
-      "latitude": -35.016432,
-      "longitude": 138.573007,
-      "street": "Unknown Street",
+      "id": "ce9ac88a-7414-4fbe-aca5-2b84c85b0d45",
+      "latitude": -34.972948,
+      "longitude": 138.808515,
+      "street": "Swamp Rd",
+      "city": "Balhannah",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T21:02:34Z"
+    },
+    {
+      "id": "f1e31275-6aed-4f6b-a017-970b158ecd69",
+      "latitude": -34.887358,
+      "longitude": 138.576049,
+      "street": "Harrison Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T20:51:15Z"
+    },
+    {
+      "id": "58db4c21-9930-40fd-91cd-ca6a25d8950b",
+      "latitude": -34.882128,
+      "longitude": 138.578809,
+      "street": "Pym St",
+      "city": "Dudley Park",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T20:56:03Z"
+    },
+    {
+      "id": "4ec84789-ac17-449d-ad52-b9b6ed4b51b5",
+      "latitude": -34.863255,
+      "longitude": 138.565452,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T20:54:55Z"
+    },
+    {
+      "id": "8d681a75-3dca-49c3-a0eb-74f0ebaf8203",
+      "latitude": -34.878369,
+      "longitude": 138.614412,
+      "street": "Galway Av",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T21:17:52Z"
+    },
+    {
+      "id": "3b38301a-8b94-4c8c-a3c3-e12535737e3b",
+      "latitude": -35.016332,
+      "longitude": 138.574778,
+      "street": "Sturt Rd",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-03-10T21:00:17Z",
-      "reported_at": "2026-03-10T20:33:26Z"
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T20:21:37Z"
     },
     {
-      "id": "6a59aaf3-8047-4c2f-a38a-3a33a7dc50a7",
-      "latitude": -34.858397,
-      "longitude": 138.565416,
-      "street": "Unknown Street",
-      "city": "Angle Park",
+      "id": "a1bee9d4-ff12-4d58-adb4-95cf656f86a1",
+      "latitude": -34.826004,
+      "longitude": 138.607207,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-10T21:00:17Z",
-      "reported_at": "2026-03-10T20:31:22Z"
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T21:19:58Z"
     },
     {
-      "id": "ad890a60-e329-4dbc-b0b8-eafe1582f6f3",
-      "latitude": -34.861437,
-      "longitude": 138.661016,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
+      "id": "7291cb21-c22a-4c49-ae92-55b077e3fb01",
+      "latitude": -34.872548,
+      "longitude": 138.61892,
+      "street": "Regency Rd",
+      "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-03-10T21:00:17Z",
-      "reported_at": "2026-03-10T20:36:39Z"
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T21:19:19Z"
     },
     {
-      "id": "c0eefe38-0ea2-4f2d-9a5b-6cac8a2c2e7f",
-      "latitude": -34.840766,
-      "longitude": 138.55854,
-      "street": "Cormack Rd",
-      "city": "Wingfield",
+      "id": "b44a28ce-5bd0-4e78-836f-4409aee059e9",
+      "latitude": -34.885417,
+      "longitude": 138.584866,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-10T21:00:17Z",
-      "reported_at": "2026-03-10T20:47:41Z"
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T21:16:02Z"
+    },
+    {
+      "id": "f66475d4-f39e-4a51-a19a-716ceadc3e5f",
+      "latitude": -34.840274,
+      "longitude": 138.517192,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-10T21:30:14Z",
+      "reported_at": "2026-03-10T21:00:40Z"
     },
     {
       "id": "470f9676-220b-4da5-8057-846ccbd1ea00",
@@ -47,7 +107,7 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-10T21:00:17Z",
+      "timestamp": "2026-03-10T21:30:14Z",
       "reported_at": "2026-03-10T20:48:24Z"
     }
   ]
