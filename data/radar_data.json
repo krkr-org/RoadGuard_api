@@ -1,64 +1,14 @@
 {
   "radars": [
     {
-      "id": "0f0ca5bf-0892-4b0e-9790-ec53740cf34c",
-      "latitude": -34.753951,
-      "longitude": 138.617256,
-      "street": "Whites Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T07:38:02Z"
-    },
-    {
-      "id": "30820530-b0bf-43cf-8c71-05743a9d8835",
-      "latitude": -34.75092,
-      "longitude": 138.657313,
-      "street": "Unknown Street",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T07:44:54Z"
-    },
-    {
       "id": "6e71df9e-2cc9-4ee8-82c0-1dbc9ca8dad3",
       "latitude": -34.912913,
       "longitude": 138.509291,
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
+      "timestamp": "2026-03-10T08:30:13Z",
       "reported_at": "2026-03-10T06:33:51Z"
-    },
-    {
-      "id": "74969400-db11-4278-9e85-78c9dd1d1beb",
-      "latitude": -34.995447,
-      "longitude": 138.548408,
-      "street": "Oaklands Rd",
-      "city": "Park Holme",
-      "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T07:40:34Z"
-    },
-    {
-      "id": "1b7b8fcd-cb4a-4ba1-88f2-f01a191d7896",
-      "latitude": -34.9278,
-      "longitude": 138.6225,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T02:36:43Z"
-    },
-    {
-      "id": "354216d4-127e-43a2-901f-7055ca6ab92d",
-      "latitude": -34.935423,
-      "longitude": 138.600557,
-      "street": "King William St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T07:28:40Z"
     },
     {
       "id": "d948d949-3957-4951-89cb-ec35b45af010",
@@ -67,28 +17,38 @@
       "street": "Kensington Rd",
       "city": "Kensington",
       "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
+      "timestamp": "2026-03-10T08:30:13Z",
       "reported_at": "2026-03-10T05:59:40Z"
     },
     {
-      "id": "856b57af-c43e-41fe-bd52-41df1ba71ee4",
-      "latitude": -34.873954,
-      "longitude": 138.596037,
-      "street": "Regency Rd",
-      "city": "Prospect",
+      "id": "47847536-9b54-498a-931e-2f7e771754d0",
+      "latitude": -34.809078,
+      "longitude": 138.676783,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T07:24:35Z"
+      "timestamp": "2026-03-10T08:30:13Z",
+      "reported_at": "2026-03-10T08:14:39Z"
     },
     {
-      "id": "ce91d849-fb1a-4500-ad53-abeea57cb759",
-      "latitude": -34.902379,
-      "longitude": 138.514478,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
+      "id": "0557b4a6-1d2c-459e-a710-65a143d36c2b",
+      "latitude": -34.806584,
+      "longitude": 138.694821,
+      "street": "Grenfell Rd",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T07:34:07Z"
+      "timestamp": "2026-03-10T08:30:13Z",
+      "reported_at": "2026-03-10T07:54:40Z"
+    },
+    {
+      "id": "2bd2d562-dfbd-4e0c-bfd5-85070047a549",
+      "latitude": -34.944704,
+      "longitude": 138.622469,
+      "street": "Glen Osmond Rd",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-03-10T08:30:13Z",
+      "reported_at": "2026-03-10T07:48:29Z"
     },
     {
       "id": "7b7477bd-0bdf-4712-a5fb-ac1ea8dd99e3",
@@ -97,18 +57,38 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
+      "timestamp": "2026-03-10T08:30:13Z",
       "reported_at": "2026-03-10T06:44:41Z"
     },
     {
-      "id": "a3e7b067-a101-4d5b-9c55-a03e4ff4b106",
-      "latitude": -34.959658,
-      "longitude": 138.732491,
+      "id": "9342b91f-97b3-422d-8672-426a936dabd4",
+      "latitude": -34.982047,
+      "longitude": 138.611213,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
+      "type": "mobile",
+      "timestamp": "2026-03-10T08:30:13Z",
+      "reported_at": "2026-03-10T07:49:35Z"
+    },
+    {
+      "id": "7dd0cb63-d93e-4b01-a73a-efdb2a269f7d",
+      "latitude": -34.959626,
+      "longitude": 138.733467,
       "street": "B26 - Greenhill Rd",
       "city": "Summertown",
       "type": "mobile",
-      "timestamp": "2026-03-10T08:00:17Z",
-      "reported_at": "2026-03-10T05:55:41Z"
+      "timestamp": "2026-03-10T08:30:13Z",
+      "reported_at": "2026-03-10T05:36:49Z"
+    },
+    {
+      "id": "9559518c-03af-4049-81ec-4da22d6d59bc",
+      "latitude": -34.880025,
+      "longitude": 138.534486,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
+      "type": "mobile",
+      "timestamp": "2026-03-10T08:30:13Z",
+      "reported_at": "2026-03-10T08:27:26Z"
     }
   ]
 }
