@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "12a6d4e2-486a-4c21-a2fe-9b323478de1d",
-      "latitude": -34.969918,
-      "longitude": 138.516986,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "id": "5d0e0a14-6658-4c0e-96a0-b24356488d6f",
+      "latitude": -34.924556,
+      "longitude": 138.618604,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-11T19:30:16Z",
-      "reported_at": "2026-03-11T19:23:33Z"
+      "timestamp": "2026-03-11T20:00:25Z",
+      "reported_at": "2026-03-11T19:37:06Z"
     },
     {
-      "id": "72f3c89a-8d7e-42e5-85d7-5e3b4659d553",
-      "latitude": -35.088397,
-      "longitude": 138.533031,
+      "id": "5e8b74b7-14cd-4e07-a2a9-53593018e1cf",
+      "latitude": -35.089277,
+      "longitude": 138.530207,
       "street": "M2 - Southern Exp",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-11T19:30:16Z",
-      "reported_at": "2026-03-11T19:26:54Z"
+      "timestamp": "2026-03-11T20:00:25Z",
+      "reported_at": "2026-03-11T19:24:09Z"
+    },
+    {
+      "id": "14ee9cea-9c9b-469a-a8e7-fa9e15ffeae7",
+      "latitude": -35.126432,
+      "longitude": 138.506,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-11T20:00:25Z",
+      "reported_at": "2026-03-11T19:48:11Z"
     }
   ]
 }
