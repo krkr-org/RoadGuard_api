@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "c2d42626-ea8d-4105-ab6f-c76dd1a0bdd7",
+      "latitude": -34.855262,
+      "longitude": 138.564192,
+      "street": "Angle Rd",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:40:23Z"
+    },
+    {
       "id": "60cc07de-d3bd-4535-a376-394a7d941174",
       "latitude": -34.851593,
       "longitude": 138.526474,
       "street": "Campbell Av",
       "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T02:58:56Z"
     },
     {
@@ -17,28 +27,8 @@
       "street": "Harrison Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T02:56:29Z"
-    },
-    {
-      "id": "d570dd18-3664-4814-ae1a-43715d774bef",
-      "latitude": -35.001498,
-      "longitude": 138.565403,
-      "street": "Bradley Gr",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
-      "reported_at": "2026-03-11T06:17:17Z"
-    },
-    {
-      "id": "ec549139-481f-4ecd-b3e1-e673ba9e96bf",
-      "latitude": -34.851399,
-      "longitude": 138.516898,
-      "street": "Gray Tce",
-      "city": "Rosewater",
-      "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
-      "reported_at": "2026-03-11T05:44:30Z"
     },
     {
       "id": "f066b5b6-0c23-4359-84fd-9b796cf1ae47",
@@ -47,8 +37,28 @@
       "street": "St Kilda Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T04:54:53Z"
+    },
+    {
+      "id": "d810f7cd-b58b-4d9c-b21c-a328c0d027d0",
+      "latitude": -34.682764,
+      "longitude": 138.665123,
+      "street": "Stebonheath Rd",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:38:01Z"
+    },
+    {
+      "id": "e0abe747-c610-4081-9932-939b6a16da63",
+      "latitude": -34.676954,
+      "longitude": 138.67967,
+      "street": "Crittenden Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:37:59Z"
     },
     {
       "id": "efe05934-6fd7-4694-8975-bf4564a8fe6d",
@@ -57,18 +67,28 @@
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T04:13:27Z"
     },
     {
-      "id": "1a23363f-c876-49d5-9138-0a23569c457a",
-      "latitude": -34.98616,
-      "longitude": 138.592257,
-      "street": "Goodwood Rd",
-      "city": "Unknown City",
+      "id": "9a8abd21-15f0-4f56-985e-921a0c82cc30",
+      "latitude": -35.106303,
+      "longitude": 138.503339,
+      "street": "Sherriffs Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
-      "reported_at": "2026-03-11T06:14:45Z"
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:14:37Z"
+    },
+    {
+      "id": "515bbbd6-6a89-47e0-8057-4de81d632146",
+      "latitude": -35.128588,
+      "longitude": 138.536569,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:49:12Z"
     },
     {
       "id": "d3d51477-2dce-43e7-b3e2-403fff05f0e0",
@@ -77,37 +97,47 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T04:56:22Z"
     },
     {
-      "id": "36aeb99e-d849-452a-8c0c-a4f869f18fe4",
-      "latitude": -34.748102,
-      "longitude": 138.637554,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "479819ca-e2ad-4425-8968-b0b8d94e3659",
+      "latitude": -34.670572,
+      "longitude": 138.561755,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
-      "reported_at": "2026-03-11T05:16:10Z"
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:19:15Z"
     },
     {
-      "id": "24c31e2c-832f-40d1-8fc5-5bb47133b334",
-      "latitude": -34.804798,
-      "longitude": 138.596783,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
+      "id": "5fcbc203-8877-4e0c-812a-a36206d8aff3",
+      "latitude": -34.707228,
+      "longitude": 138.662824,
+      "street": "Peachey Rd",
+      "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
-      "reported_at": "2026-03-11T06:01:58Z"
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T06:34:28Z"
+    },
+    {
+      "id": "5af4e317-f82a-4f94-ba93-aedfe692c483",
+      "latitude": -34.805585,
+      "longitude": 138.597106,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-11T07:00:15Z",
+      "reported_at": "2026-03-11T05:25:30Z"
     },
     {
       "id": "86f25b71-0c79-4c5c-b8db-f0b23e0c897c",
-      "latitude": -34.665154,
-      "longitude": 138.704013,
+      "latitude": -34.665372,
+      "longitude": 138.703875,
       "street": "A20 - Main North Rd",
       "city": "Evanston South",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T05:46:40Z"
     },
     {
@@ -117,7 +147,7 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-03-11T06:30:14Z",
+      "timestamp": "2026-03-11T07:00:15Z",
       "reported_at": "2026-03-11T06:15:57Z"
     }
   ]
