@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "fdc17168-0e7b-4435-844e-a8f7b24a72e9",
-      "latitude": -34.94896,
-      "longitude": 138.556956,
+      "id": "3d39c78f-e1cb-46b0-8621-5f55cf9c6d16",
+      "latitude": -35.018612,
+      "longitude": 138.573149,
+      "street": "Sturt Dr",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:41:35Z"
+    },
+    {
+      "id": "09dfa11d-52ad-48b9-bc2c-b2c09025e82f",
+      "latitude": -34.948944,
+      "longitude": 138.55732,
       "street": "Galway Av",
       "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
-      "reported_at": "2026-03-11T21:17:28Z"
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:21:17Z"
+    },
+    {
+      "id": "76262dcc-f296-42fa-84cd-3ff52014913a",
+      "latitude": -35.134145,
+      "longitude": 138.516317,
+      "street": "Elizabeth Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:24:37Z"
     },
     {
       "id": "490ddfad-88ff-4093-a074-44757e7ac9ae",
@@ -17,7 +37,7 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
+      "timestamp": "2026-03-11T22:00:15Z",
       "reported_at": "2026-03-11T20:44:30Z"
     },
     {
@@ -27,48 +47,48 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
+      "timestamp": "2026-03-11T22:00:15Z",
       "reported_at": "2026-03-11T20:49:52Z"
     },
     {
-      "id": "738e22e5-c6e1-44f3-ab2c-9d7f480ddf88",
-      "latitude": -34.968583,
-      "longitude": 138.538931,
+      "id": "3c6b911a-9f96-4c5a-bd24-7d877fdf2e48",
+      "latitude": -34.949396,
+      "longitude": 138.568384,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T20:45:50Z"
+    },
+    {
+      "id": "9547c218-4cff-4d75-8f9a-f13ffb361cb0",
+      "latitude": -34.968428,
+      "longitude": 138.54202,
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
-      "reported_at": "2026-03-11T20:57:13Z"
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:05:08Z"
     },
     {
-      "id": "8037d712-7d4e-410d-8eaa-65897f400efc",
-      "latitude": -34.955222,
-      "longitude": 138.594508,
-      "street": "Hardy St",
-      "city": "Millswood",
+      "id": "bb47a803-3669-40b5-b214-b23b75a3f0d5",
+      "latitude": -34.993498,
+      "longitude": 138.561782,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
-      "reported_at": "2026-03-11T21:12:59Z"
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:45:35Z"
     },
     {
-      "id": "dcdd28bf-5276-4a11-beb9-a1fdfb48cc5c",
-      "latitude": -34.871071,
-      "longitude": 138.571008,
-      "street": "to South Rd",
-      "city": "Regency Park",
+      "id": "3c5daf51-f888-44b1-8369-302380b1d138",
+      "latitude": -34.979935,
+      "longitude": 138.566455,
+      "street": "Raglan Av",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
-      "reported_at": "2026-03-11T20:53:35Z"
-    },
-    {
-      "id": "11eb7e48-e978-44d2-92bf-41fa42a928c0",
-      "latitude": -35.028506,
-      "longitude": 138.591998,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
-      "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
-      "reported_at": "2026-03-11T21:15:20Z"
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T20:33:57Z"
     },
     {
       "id": "e54693b2-4fd4-4ee0-b8ac-e6bd9b55474d",
@@ -77,18 +97,48 @@
       "street": "Raglan Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
+      "timestamp": "2026-03-11T22:00:15Z",
       "reported_at": "2026-03-11T20:43:53Z"
     },
     {
-      "id": "4388ed79-de29-400d-9787-d39f2b889b43",
-      "latitude": -34.925412,
-      "longitude": 138.619807,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "9e8f5786-e2a8-4322-ac21-6dcce36c025e",
+      "latitude": -35.063501,
+      "longitude": 138.801272,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-11T21:30:16Z",
-      "reported_at": "2026-03-11T21:25:35Z"
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:25:24Z"
+    },
+    {
+      "id": "bb3e38e7-8a00-4506-8d33-7ae32ea8aaf6",
+      "latitude": -34.966965,
+      "longitude": 138.577697,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:32:04Z"
+    },
+    {
+      "id": "abe630eb-3349-454a-9394-fb1dafe97b55",
+      "latitude": -34.766587,
+      "longitude": 138.670663,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:30:14Z"
+    },
+    {
+      "id": "23d30c57-d300-44e5-a916-cee495b44a19",
+      "latitude": -34.833318,
+      "longitude": 138.55506,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:00:15Z",
+      "reported_at": "2026-03-11T21:55:21Z"
     }
   ]
 }
