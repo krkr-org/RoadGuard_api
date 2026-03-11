@@ -1,3 +1,64 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "10141587-9ea5-4460-b973-2609a9ad0839",
+      "latitude": -34.964457,
+      "longitude": 138.563678,
+      "street": "Winifred Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-03-11T21:00:18Z",
+      "reported_at": "2026-03-11T20:49:52Z"
+    },
+    {
+      "id": "e54693b2-4fd4-4ee0-b8ac-e6bd9b55474d",
+      "latitude": -34.98015,
+      "longitude": 138.563139,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-03-11T21:00:18Z",
+      "reported_at": "2026-03-11T20:43:53Z"
+    },
+    {
+      "id": "0d08374a-96db-4e67-84e8-2090b7ee3fc1",
+      "latitude": -34.867702,
+      "longitude": 138.57088,
+      "street": "South Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T21:00:18Z",
+      "reported_at": "2026-03-11T20:48:11Z"
+    },
+    {
+      "id": "6872946e-2501-479d-80ea-756c4ea99acf",
+      "latitude": -35.128589,
+      "longitude": 138.523799,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-11T21:00:18Z",
+      "reported_at": "2026-03-11T20:28:51Z"
+    },
+    {
+      "id": "d61b9f97-6d98-4516-ae56-70940f089c80",
+      "latitude": -34.966952,
+      "longitude": 138.577956,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T21:00:18Z",
+      "reported_at": "2026-03-11T20:54:40Z"
+    },
+    {
+      "id": "a9b91c23-5248-42a7-8a30-730b05a6b9bf",
+      "latitude": -34.767551,
+      "longitude": 138.673197,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-11T21:00:18Z",
+      "reported_at": "2026-03-11T20:44:37Z"
+    }
+  ]
 }
