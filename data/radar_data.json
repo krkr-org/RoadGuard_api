@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "1796945a-5a99-47b6-bf16-d84673c84e7c",
+      "latitude": -34.990664,
+      "longitude": 138.565065,
+      "street": "West St",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:06:58Z"
+    },
+    {
       "id": "3d39c78f-e1cb-46b0-8621-5f55cf9c6d16",
       "latitude": -35.018612,
       "longitude": 138.573149,
       "street": "Sturt Dr",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T21:41:35Z"
     },
     {
@@ -17,28 +27,18 @@
       "street": "Galway Av",
       "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T21:21:17Z"
     },
     {
-      "id": "76262dcc-f296-42fa-84cd-3ff52014913a",
-      "latitude": -35.134145,
-      "longitude": 138.516317,
-      "street": "Elizabeth Rd",
-      "city": "Morphett Vale",
+      "id": "9547c218-4cff-4d75-8f9a-f13ffb361cb0",
+      "latitude": -34.968483,
+      "longitude": 138.541388,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T21:24:37Z"
-    },
-    {
-      "id": "490ddfad-88ff-4093-a074-44757e7ac9ae",
-      "latitude": -34.961572,
-      "longitude": 138.581369,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T20:44:30Z"
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T21:05:08Z"
     },
     {
       "id": "10141587-9ea5-4460-b973-2609a9ad0839",
@@ -47,28 +47,28 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T20:49:52Z"
     },
     {
-      "id": "3c6b911a-9f96-4c5a-bd24-7d877fdf2e48",
-      "latitude": -34.949396,
-      "longitude": 138.568384,
+      "id": "d3eb92b9-83ff-4b9d-bfbe-bae9686edef2",
+      "latitude": -34.974122,
+      "longitude": 138.598927,
+      "street": "Angas Rd",
+      "city": "Westbourne Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:08:54Z"
+    },
+    {
+      "id": "ea3c2a1c-6ffe-423c-9d6e-d4529a2d6939",
+      "latitude": -34.94938,
+      "longitude": 138.568709,
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T20:45:50Z"
-    },
-    {
-      "id": "9547c218-4cff-4d75-8f9a-f13ffb361cb0",
-      "latitude": -34.968428,
-      "longitude": 138.54202,
-      "street": "Stonehouse Av",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T21:05:08Z"
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T21:06:00Z"
     },
     {
       "id": "bb47a803-3669-40b5-b214-b23b75a3f0d5",
@@ -77,7 +77,7 @@
       "street": "Daws Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T21:45:35Z"
     },
     {
@@ -87,7 +87,7 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T20:33:57Z"
     },
     {
@@ -97,18 +97,38 @@
       "street": "Raglan Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T20:43:53Z"
     },
     {
-      "id": "9e8f5786-e2a8-4322-ac21-6dcce36c025e",
-      "latitude": -35.063501,
-      "longitude": 138.801272,
-      "street": "B34 - Echunga Rd",
+      "id": "4ad6d7f0-d956-4e9a-8e4f-749913e50b16",
+      "latitude": -34.875232,
+      "longitude": 138.569009,
+      "street": "Regency Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:26:00Z"
+    },
+    {
+      "id": "97a7f848-3b89-4b4d-bdb1-8ef2919dea94",
+      "latitude": -34.729921,
+      "longitude": 138.726334,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:08:53Z"
+    },
+    {
+      "id": "150ae804-51d6-4657-8214-d58ab6a244ed",
+      "latitude": -35.10068,
+      "longitude": 138.793025,
+      "street": "B34 - Battunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T21:25:24Z"
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:15:15Z"
     },
     {
       "id": "bb3e38e7-8a00-4506-8d33-7ae32ea8aaf6",
@@ -117,28 +137,38 @@
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
+      "timestamp": "2026-03-11T22:30:14Z",
       "reported_at": "2026-03-11T21:32:04Z"
     },
     {
-      "id": "abe630eb-3349-454a-9394-fb1dafe97b55",
-      "latitude": -34.766587,
-      "longitude": 138.670663,
+      "id": "b07c9a87-e5cf-4d14-92d9-465c89125726",
+      "latitude": -34.838184,
+      "longitude": 138.607644,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:18:27Z"
+    },
+    {
+      "id": "7ad2585e-b307-4926-820c-b1f78825307d",
+      "latitude": -34.834251,
+      "longitude": 138.610403,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:02:07Z"
+    },
+    {
+      "id": "81ac279e-ad49-4a39-95b7-21878d0bfdf6",
+      "latitude": -34.767048,
+      "longitude": 138.671445,
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T21:30:14Z"
-    },
-    {
-      "id": "23d30c57-d300-44e5-a916-cee495b44a19",
-      "latitude": -34.833318,
-      "longitude": 138.55506,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-03-11T22:00:15Z",
-      "reported_at": "2026-03-11T21:55:21Z"
+      "timestamp": "2026-03-11T22:30:14Z",
+      "reported_at": "2026-03-11T22:06:42Z"
     }
   ]
 }
