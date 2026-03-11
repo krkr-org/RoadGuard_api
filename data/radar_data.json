@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "b91cc3d2-ba8e-458d-87fe-74d4bdd7759b",
+      "latitude": -34.920978,
+      "longitude": 138.573229,
+      "street": "Dew St",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-10T22:38:32Z"
+    },
+    {
       "id": "f1e31275-6aed-4f6b-a017-970b158ecd69",
       "latitude": -34.887358,
       "longitude": 138.576049,
       "street": "Harrison Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T20:51:15Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Bren St",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T22:07:36Z"
     },
     {
@@ -27,28 +37,18 @@
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T21:33:48Z"
     },
     {
-      "id": "58db4c21-9930-40fd-91cd-ca6a25d8950b",
-      "latitude": -34.882128,
-      "longitude": 138.578809,
-      "street": "Pym St",
-      "city": "Dudley Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
-      "reported_at": "2026-03-10T20:56:03Z"
-    },
-    {
-      "id": "16a608aa-e16d-4a1e-9d5e-06154a24c43d",
-      "latitude": -34.852057,
-      "longitude": 138.528954,
+      "id": "2f8d65a6-bc16-4639-8d79-2880204fc4a2",
+      "latitude": -34.859422,
+      "longitude": 138.529223,
       "street": "Addison Rd",
-      "city": "Rosewater",
+      "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
-      "reported_at": "2026-03-10T23:50:27Z"
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-10T21:48:32Z"
     },
     {
       "id": "d2c6faa3-ed41-4f79-bf94-46892b512692",
@@ -57,7 +57,7 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T21:21:23Z"
     },
     {
@@ -67,38 +67,48 @@
       "street": "George St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T22:16:27Z"
     },
     {
-      "id": "ae5f5dd5-5c93-465c-869a-502609ff4d93",
-      "latitude": -34.938259,
-      "longitude": 138.535875,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
+      "id": "2da81042-5059-4b51-bccc-4ccf5d7881f8",
+      "latitude": -34.88673,
+      "longitude": 138.571579,
+      "street": "South Rd",
+      "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
-      "reported_at": "2026-03-10T23:44:54Z"
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-10T23:59:17Z"
     },
     {
-      "id": "2f8d65a6-bc16-4639-8d79-2880204fc4a2",
-      "latitude": -34.859422,
-      "longitude": 138.529223,
-      "street": "Addison Rd",
-      "city": "Pennington",
+      "id": "01cf0ee4-d21c-4aa8-9b09-8fe7f64d44b7",
+      "latitude": -34.882128,
+      "longitude": 138.578815,
+      "street": "Pym St",
+      "city": "Dudley Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
-      "reported_at": "2026-03-10T21:48:32Z"
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-10T21:50:00Z"
     },
     {
-      "id": "86feb5b6-96c7-4e64-b887-fd0895ac5d28",
-      "latitude": -34.98047,
-      "longitude": 138.559291,
-      "street": "Raglan Av",
-      "city": "South Plympton",
+      "id": "ba0f7893-e4de-4afe-9edb-11cf17442b44",
+      "latitude": -34.884619,
+      "longitude": 138.571932,
+      "street": "South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
-      "reported_at": "2026-03-10T23:37:21Z"
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-11T00:03:11Z"
+    },
+    {
+      "id": "d9a29e59-0452-43d3-96eb-3337b7f33926",
+      "latitude": -35.015153,
+      "longitude": 138.522755,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-11T00:10:35Z"
     },
     {
       "id": "2917871c-2c4d-47bb-893f-be6b7f95540c",
@@ -107,7 +117,7 @@
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T21:16:08Z"
     },
     {
@@ -117,18 +127,28 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
+      "timestamp": "2026-03-11T00:30:14Z",
       "reported_at": "2026-03-10T22:53:17Z"
     },
     {
-      "id": "87d07eec-a501-4b59-8dad-2fb8ef2dd898",
-      "latitude": -34.834153,
-      "longitude": 138.535317,
+      "id": "7e256d69-36e2-4378-8947-7e9aff6a658b",
+      "latitude": -34.833026,
+      "longitude": 138.557519,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-11T00:00:14Z",
-      "reported_at": "2026-03-10T20:50:54Z"
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-10T22:35:20Z"
+    },
+    {
+      "id": "60e30e31-3828-491f-8145-adabb627827f",
+      "latitude": -34.834305,
+      "longitude": 138.534745,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-03-11T00:30:14Z",
+      "reported_at": "2026-03-10T20:48:07Z"
     }
   ]
 }
