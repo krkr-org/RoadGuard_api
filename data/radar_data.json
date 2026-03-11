@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "c2d42626-ea8d-4105-ab6f-c76dd1a0bdd7",
-      "latitude": -34.855262,
-      "longitude": 138.564192,
-      "street": "Angle Rd",
-      "city": "Angle Park",
+      "id": "c3cc2ec2-f4f2-425c-8fc5-7007b2f73870",
+      "latitude": -34.796522,
+      "longitude": 138.649097,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T06:40:23Z"
-    },
-    {
-      "id": "60cc07de-d3bd-4535-a376-394a7d941174",
-      "latitude": -34.851593,
-      "longitude": 138.526474,
-      "street": "Campbell Av",
-      "city": "Rosewater",
-      "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T02:58:56Z"
-    },
-    {
-      "id": "e250c855-81c8-4602-a514-c185f52cbd1f",
-      "latitude": -34.887542,
-      "longitude": 138.576065,
-      "street": "Harrison Rd",
-      "city": "Renown Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T02:56:29Z"
+      "timestamp": "2026-03-11T07:30:15Z",
+      "reported_at": "2026-03-11T06:44:14Z"
     },
     {
       "id": "f066b5b6-0c23-4359-84fd-9b796cf1ae47",
@@ -37,7 +17,7 @@
       "street": "St Kilda Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
+      "timestamp": "2026-03-11T07:30:15Z",
       "reported_at": "2026-03-11T04:54:53Z"
     },
     {
@@ -47,18 +27,8 @@
       "street": "Stebonheath Rd",
       "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
+      "timestamp": "2026-03-11T07:30:15Z",
       "reported_at": "2026-03-11T06:38:01Z"
-    },
-    {
-      "id": "e0abe747-c610-4081-9932-939b6a16da63",
-      "latitude": -34.676954,
-      "longitude": 138.67967,
-      "street": "Crittenden Rd",
-      "city": "Smithfield Plains",
-      "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T06:37:59Z"
     },
     {
       "id": "efe05934-6fd7-4694-8975-bf4564a8fe6d",
@@ -67,18 +37,28 @@
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
+      "timestamp": "2026-03-11T07:30:15Z",
       "reported_at": "2026-03-11T04:13:27Z"
     },
     {
-      "id": "9a8abd21-15f0-4f56-985e-921a0c82cc30",
-      "latitude": -35.106303,
-      "longitude": 138.503339,
+      "id": "bc4175f0-1911-49a5-ab66-13f49c9da7f8",
+      "latitude": -34.679563,
+      "longitude": 138.705731,
+      "street": "Main Tce",
+      "city": "Blakeview",
+      "type": "mobile",
+      "timestamp": "2026-03-11T07:30:15Z",
+      "reported_at": "2026-03-11T06:55:55Z"
+    },
+    {
+      "id": "dbf7eb05-4ec9-4cf2-b26e-26ee38abd234",
+      "latitude": -35.106338,
+      "longitude": 138.500626,
       "street": "Sherriffs Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T06:14:37Z"
+      "timestamp": "2026-03-11T07:30:15Z",
+      "reported_at": "2026-03-11T06:14:57Z"
     },
     {
       "id": "515bbbd6-6a89-47e0-8057-4de81d632146",
@@ -87,18 +67,8 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
+      "timestamp": "2026-03-11T07:30:15Z",
       "reported_at": "2026-03-11T06:49:12Z"
-    },
-    {
-      "id": "d3d51477-2dce-43e7-b3e2-403fff05f0e0",
-      "latitude": -34.764102,
-      "longitude": 138.628693,
-      "street": "Winzor St",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T04:56:22Z"
     },
     {
       "id": "479819ca-e2ad-4425-8968-b0b8d94e3659",
@@ -107,38 +77,28 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
+      "timestamp": "2026-03-11T07:30:15Z",
       "reported_at": "2026-03-11T06:19:15Z"
     },
     {
-      "id": "5fcbc203-8877-4e0c-812a-a36206d8aff3",
-      "latitude": -34.707228,
-      "longitude": 138.662824,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
+      "id": "d3d51477-2dce-43e7-b3e2-403fff05f0e0",
+      "latitude": -34.764102,
+      "longitude": 138.628693,
+      "street": "Winzor St",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T06:34:28Z"
+      "timestamp": "2026-03-11T07:30:15Z",
+      "reported_at": "2026-03-11T04:56:22Z"
     },
     {
-      "id": "5af4e317-f82a-4f94-ba93-aedfe692c483",
-      "latitude": -34.805585,
-      "longitude": 138.597106,
+      "id": "24c31e2c-832f-40d1-8fc5-5bb47133b334",
+      "latitude": -34.804798,
+      "longitude": 138.596783,
       "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T05:25:30Z"
-    },
-    {
-      "id": "86f25b71-0c79-4c5c-b8db-f0b23e0c897c",
-      "latitude": -34.665372,
-      "longitude": 138.703875,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
-      "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
-      "reported_at": "2026-03-11T05:46:40Z"
+      "timestamp": "2026-03-11T07:30:15Z",
+      "reported_at": "2026-03-11T06:01:58Z"
     },
     {
       "id": "12d7fd4c-9aaa-4a58-a178-eebffd7eeac1",
@@ -147,7 +107,7 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-03-11T07:00:15Z",
+      "timestamp": "2026-03-11T07:30:15Z",
       "reported_at": "2026-03-11T06:15:57Z"
     }
   ]
