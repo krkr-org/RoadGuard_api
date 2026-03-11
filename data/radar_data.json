@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "77c860ee-4da2-4497-b392-9d40ff8490fa",
-      "latitude": -35.028111,
-      "longitude": 138.523745,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
+      "id": "12a6d4e2-486a-4c21-a2fe-9b323478de1d",
+      "latitude": -34.969918,
+      "longitude": 138.516986,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-03-11T19:00:17Z",
-      "reported_at": "2026-03-11T18:49:30Z"
+      "timestamp": "2026-03-11T19:30:16Z",
+      "reported_at": "2026-03-11T19:23:33Z"
+    },
+    {
+      "id": "72f3c89a-8d7e-42e5-85d7-5e3b4659d553",
+      "latitude": -35.088397,
+      "longitude": 138.533031,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-11T19:30:16Z",
+      "reported_at": "2026-03-11T19:26:54Z"
     }
   ]
 }
