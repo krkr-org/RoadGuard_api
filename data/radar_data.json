@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "ac09e073-2f21-40d3-8538-0387cb02792f",
-      "latitude": -34.869294,
-      "longitude": 138.511911,
-      "street": "Poplar St",
-      "city": "Royal Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-10T22:50:10Z"
-    },
-    {
-      "id": "b91cc3d2-ba8e-458d-87fe-74d4bdd7759b",
-      "latitude": -34.920978,
-      "longitude": 138.573229,
-      "street": "Dew St",
-      "city": "Mile End",
-      "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-10T22:38:32Z"
-    },
-    {
       "id": "3dc64c50-ec7c-43e2-b00f-a63ed40eb3ba",
       "latitude": -34.912048,
       "longitude": 138.5398,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
+      "timestamp": "2026-03-11T03:00:15Z",
       "reported_at": "2026-03-10T23:22:20Z"
-    },
-    {
-      "id": "46fb15e3-9cbe-450f-bada-6978b85294a0",
-      "latitude": -34.872344,
-      "longitude": 138.548602,
-      "street": "First Av",
-      "city": "Woodville Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-11T02:00:45Z"
     },
     {
       "id": "0cbd9c5c-afb3-4884-9891-ea39d6769cc5",
@@ -47,48 +17,38 @@
       "street": "Harrison Rd",
       "city": "Renown Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
+      "timestamp": "2026-03-11T03:00:15Z",
       "reported_at": "2026-03-11T01:01:33Z"
     },
     {
-      "id": "4f688cf9-6b84-46c2-8ce7-e1d91ff3fec7",
-      "latitude": -34.863637,
-      "longitude": 138.5611,
-      "street": "Ridley Gr",
-      "city": "Ferryden Park",
+      "id": "4cd6e7ac-1510-49d8-b10d-216c0917a5f5",
+      "latitude": -34.693837,
+      "longitude": 138.683404,
+      "street": "Konanda Rd",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-10T22:34:44Z"
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T01:49:01Z"
     },
     {
-      "id": "0fd3c7ec-af33-4863-a1a6-0cdf1689f73a",
-      "latitude": -34.859271,
-      "longitude": 138.529217,
-      "street": "Addison Rd",
-      "city": "Pennington",
-      "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-11T00:06:06Z"
-    },
-    {
-      "id": "4ec84789-ac17-449d-ad52-b9b6ed4b51b5",
-      "latitude": -34.863255,
-      "longitude": 138.565452,
-      "street": "Days Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-10T20:54:55Z"
-    },
-    {
-      "id": "6bbd42c0-2887-4f21-9b83-c3a378c124ba",
-      "latitude": -34.876522,
-      "longitude": 138.614293,
+      "id": "f7e56632-f109-43d0-83aa-2b8556ed18ec",
+      "latitude": -34.878829,
+      "longitude": 138.614445,
       "street": "Galway Av",
       "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-11T01:14:35Z"
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-10T22:24:25Z"
+    },
+    {
+      "id": "727cb269-5d82-486c-8f9f-663577b05476",
+      "latitude": -34.859675,
+      "longitude": 138.529232,
+      "street": "Addison Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T01:21:50Z"
     },
     {
       "id": "0e1c28cb-2340-4297-afd3-0aa7d152fb82",
@@ -97,18 +57,48 @@
       "street": "Pym St",
       "city": "Dudley Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
+      "timestamp": "2026-03-11T03:00:15Z",
       "reported_at": "2026-03-11T02:09:33Z"
     },
     {
-      "id": "514f4e3f-85b3-4f9e-a392-30361512b829",
-      "latitude": -35.028382,
-      "longitude": 138.59497,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "97166d5a-ba37-4d7e-820d-9adf63c19dc2",
+      "latitude": -34.865432,
+      "longitude": 138.565589,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-11T02:17:53Z"
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T02:18:08Z"
+    },
+    {
+      "id": "30967b3c-edb4-4894-89fa-33a6ba3c5259",
+      "latitude": -34.863624,
+      "longitude": 138.561379,
+      "street": "Ridley Gr",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-10T23:11:52Z"
+    },
+    {
+      "id": "94d988bd-8e05-457f-b6ea-f961b0ca055f",
+      "latitude": -34.886115,
+      "longitude": 138.571912,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T02:54:55Z"
+    },
+    {
+      "id": "c25e79c6-5872-46b3-b59c-9d8349abc769",
+      "latitude": -34.859372,
+      "longitude": 138.547262,
+      "street": "Hanson Rd",
+      "city": "Athol Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T02:52:54Z"
     },
     {
       "id": "9662b991-f076-4860-b63a-652e3dbdf6f3",
@@ -117,7 +107,7 @@
       "street": "North Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
+      "timestamp": "2026-03-11T03:00:15Z",
       "reported_at": "2026-03-11T02:23:47Z"
     },
     {
@@ -127,28 +117,38 @@
       "street": "B28 - Upper Sturt Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
+      "timestamp": "2026-03-11T03:00:15Z",
       "reported_at": "2026-03-11T01:44:10Z"
     },
     {
-      "id": "98a60b5b-5602-4a11-b927-3ef680e44c98",
-      "latitude": -34.934955,
-      "longitude": 138.642122,
-      "street": "A17 - Portrush Rd",
-      "city": "Toorak Gardens",
+      "id": "c3a02afd-1eea-4e57-a2f1-bc5664add263",
+      "latitude": -35.077435,
+      "longitude": 138.548754,
+      "street": "A13 - Main South Rd",
+      "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-11T01:50:47Z"
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T02:11:57Z"
     },
     {
-      "id": "0f5ae583-163e-400c-8772-dc210145a934",
-      "latitude": -34.888524,
-      "longitude": 138.585073,
+      "id": "02b8be3a-4b64-463b-99d7-05b9395b433a",
+      "latitude": -34.885796,
+      "longitude": 138.584896,
       "street": "A22 - Churchill Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-11T01:35:38Z"
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T02:19:55Z"
+    },
+    {
+      "id": "c2538ffd-be7f-4d58-9bc4-045e766f01ab",
+      "latitude": -34.86083,
+      "longitude": 138.650831,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2026-03-11T03:00:15Z",
+      "reported_at": "2026-03-11T02:40:59Z"
     },
     {
       "id": "fc5d88e0-63eb-4000-9687-235df8d5326b",
@@ -157,18 +157,8 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
+      "timestamp": "2026-03-11T03:00:15Z",
       "reported_at": "2026-03-11T00:34:31Z"
-    },
-    {
-      "id": "1836f536-5eb0-4c90-9b55-dea48f1e6767",
-      "latitude": -34.834266,
-      "longitude": 138.535554,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-03-11T02:30:15Z",
-      "reported_at": "2026-03-10T22:06:24Z"
     }
   ]
 }
