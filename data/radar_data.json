@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "86a2cf67-c7d7-4604-a998-0d76fb65e105",
+      "latitude": -34.676018,
+      "longitude": 138.675941,
+      "street": "Crittenden Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-11T12:30:16Z",
+      "reported_at": "2026-03-11T09:34:56Z"
+    },
+    {
+      "id": "dc99127c-c3b6-45d6-a826-aee84819572c",
+      "latitude": -34.789296,
+      "longitude": 138.59896,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-11T12:30:16Z",
+      "reported_at": "2026-03-11T12:14:58Z"
+    },
+    {
       "id": "b0e67cb4-8ce2-47de-8797-c28347d33c4d",
       "latitude": -34.671427,
       "longitude": 138.562021,
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-11T12:00:17Z",
+      "timestamp": "2026-03-11T12:30:16Z",
       "reported_at": "2026-03-11T08:49:49Z"
     },
     {
@@ -17,18 +37,38 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-11T12:00:17Z",
+      "timestamp": "2026-03-11T12:30:16Z",
       "reported_at": "2026-03-11T10:16:57Z"
     },
     {
-      "id": "182611ad-59e6-4065-9cf7-ffe11c3f7f26",
-      "latitude": -34.913971,
-      "longitude": 138.577819,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Southwark",
+      "id": "15e93e02-f7f9-4a0c-84c6-cacb6df71e39",
+      "latitude": -34.872345,
+      "longitude": 138.619603,
+      "street": "Muller Rd",
+      "city": "Greenacres",
       "type": "mobile",
-      "timestamp": "2026-03-11T12:00:17Z",
-      "reported_at": "2026-03-11T11:54:46Z"
+      "timestamp": "2026-03-11T12:30:16Z",
+      "reported_at": "2026-03-11T11:45:25Z"
+    },
+    {
+      "id": "cd2d0eb3-1f65-4c98-ae1c-6127b4ef77e1",
+      "latitude": -35.081458,
+      "longitude": 138.544183,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-11T12:30:16Z",
+      "reported_at": "2026-03-11T12:02:55Z"
+    },
+    {
+      "id": "5311eb3f-d9ed-4dd1-a6d2-65c4fdde4dfc",
+      "latitude": -35.040015,
+      "longitude": 138.556367,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-11T12:30:16Z",
+      "reported_at": "2026-03-11T12:18:51Z"
     }
   ]
 }
