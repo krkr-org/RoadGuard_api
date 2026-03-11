@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "a4c83813-f8a7-45c3-a94c-98e8b8c8e2f7",
-      "latitude": -34.721819,
-      "longitude": 138.668427,
-      "street": "Unknown Street",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-03-11T11:30:14Z",
-      "reported_at": "2026-03-11T11:07:54Z"
-    },
-    {
-      "id": "515bbbd6-6a89-47e0-8057-4de81d632146",
-      "latitude": -35.128588,
-      "longitude": 138.536569,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-11T11:30:14Z",
-      "reported_at": "2026-03-11T06:49:12Z"
-    },
-    {
       "id": "b0e67cb4-8ce2-47de-8797-c28347d33c4d",
       "latitude": -34.671427,
       "longitude": 138.562021,
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-11T11:30:14Z",
+      "timestamp": "2026-03-11T12:00:17Z",
       "reported_at": "2026-03-11T08:49:49Z"
     },
     {
-      "id": "130df077-c484-4126-a1e7-a6e62242fb3a",
-      "latitude": -34.889328,
-      "longitude": 138.656519,
-      "street": "A11 - Lower North East Rd",
-      "city": "Campbelltown",
+      "id": "e1263d4b-ff3e-4ef3-8283-f4883c7ef15e",
+      "latitude": -34.763207,
+      "longitude": 138.630014,
+      "street": "Winzor St",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-11T11:30:14Z",
-      "reported_at": "2026-03-11T11:18:06Z"
+      "timestamp": "2026-03-11T12:00:17Z",
+      "reported_at": "2026-03-11T10:16:57Z"
+    },
+    {
+      "id": "182611ad-59e6-4065-9cf7-ffe11c3f7f26",
+      "latitude": -34.913971,
+      "longitude": 138.577819,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Southwark",
+      "type": "mobile",
+      "timestamp": "2026-03-11T12:00:17Z",
+      "reported_at": "2026-03-11T11:54:46Z"
     }
   ]
 }
