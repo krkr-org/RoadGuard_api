@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "a42afe50-d6f1-4cbc-9424-80515f291bab",
+      "latitude": -34.92697,
+      "longitude": 138.648086,
+      "street": "Clapton Rd",
+      "city": "Marryatville",
+      "type": "mobile",
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T09:00:42Z"
+    },
+    {
       "id": "c3cc2ec2-f4f2-425c-8fc5-7007b2f73870",
       "latitude": -34.796522,
       "longitude": 138.649097,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
+      "timestamp": "2026-03-11T09:30:14Z",
       "reported_at": "2026-03-11T06:44:14Z"
-    },
-    {
-      "id": "f066b5b6-0c23-4359-84fd-9b796cf1ae47",
-      "latitude": -34.729577,
-      "longitude": 138.559214,
-      "street": "St Kilda Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T04:54:53Z"
     },
     {
       "id": "d810f7cd-b58b-4d9c-b21c-a328c0d027d0",
@@ -27,28 +27,18 @@
       "street": "Stebonheath Rd",
       "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
+      "timestamp": "2026-03-11T09:30:14Z",
       "reported_at": "2026-03-11T06:38:01Z"
     },
     {
-      "id": "5ae93c34-0118-4cd7-beb8-9410cc91bc17",
-      "latitude": -34.921379,
-      "longitude": 138.604089,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "95366dcf-cdfe-4f25-8321-8d561874c180",
+      "latitude": -35.011137,
+      "longitude": 138.578672,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T08:02:56Z"
-    },
-    {
-      "id": "bcab3654-bdd9-4084-af82-f2f5236b26ad",
-      "latitude": -34.856931,
-      "longitude": 138.655278,
-      "street": "Sudholz Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T08:18:33Z"
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T08:37:17Z"
     },
     {
       "id": "515bbbd6-6a89-47e0-8057-4de81d632146",
@@ -57,58 +47,38 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
+      "timestamp": "2026-03-11T09:30:14Z",
       "reported_at": "2026-03-11T06:49:12Z"
     },
     {
-      "id": "ed12ee11-83d2-43c4-ac67-759317ee72a4",
-      "latitude": -35.004235,
-      "longitude": 138.588911,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T08:39:22Z"
-    },
-    {
-      "id": "b1eea224-3ea9-4457-9175-23904b8ff3a7",
-      "latitude": -34.671463,
-      "longitude": 138.562033,
+      "id": "479819ca-e2ad-4425-8968-b0b8d94e3659",
+      "latitude": -34.670572,
+      "longitude": 138.561755,
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T04:59:25Z"
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T06:19:15Z"
     },
     {
-      "id": "d3d51477-2dce-43e7-b3e2-403fff05f0e0",
-      "latitude": -34.764102,
-      "longitude": 138.628693,
-      "street": "Winzor St",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T04:56:22Z"
-    },
-    {
-      "id": "efb53eb1-261f-4711-a06f-bb457ff3b323",
-      "latitude": -34.723773,
-      "longitude": 138.667893,
-      "street": "Philip Hwy",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T08:32:27Z"
-    },
-    {
-      "id": "9cc7e017-a38d-4710-b667-80d1c4bac756",
-      "latitude": -34.939098,
-      "longitude": 138.585681,
+      "id": "cb7a4965-8515-428e-a576-dfbce287f5f0",
+      "latitude": -34.94236,
+      "longitude": 138.58263,
       "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
-      "reported_at": "2026-03-11T08:30:11Z"
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T09:00:53Z"
+    },
+    {
+      "id": "de4136a3-e34a-4434-b83c-2865a9d1c7af",
+      "latitude": -34.975191,
+      "longitude": 138.555538,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton Park",
+      "type": "mobile",
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T09:17:58Z"
     },
     {
       "id": "5af4e317-f82a-4f94-ba93-aedfe692c483",
@@ -117,8 +87,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-11T09:00:19Z",
+      "timestamp": "2026-03-11T09:30:14Z",
       "reported_at": "2026-03-11T05:25:30Z"
+    },
+    {
+      "id": "64d7c190-30cf-4767-9407-bed2b52bd7a6",
+      "latitude": -34.804114,
+      "longitude": 138.596724,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T05:57:11Z"
+    },
+    {
+      "id": "086906e1-a2a3-4400-a1da-296984ec2ad7",
+      "latitude": -34.664887,
+      "longitude": 138.704154,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-03-11T09:30:14Z",
+      "reported_at": "2026-03-11T07:11:00Z"
     }
   ]
 }
