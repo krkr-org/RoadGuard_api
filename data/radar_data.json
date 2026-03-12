@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "abeb8264-fb64-4ea2-b975-88a7bd852129",
+      "latitude": -35.024759,
+      "longitude": 138.558814,
+      "street": "to M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-12T15:30:15Z",
+      "reported_at": "2026-03-12T14:43:13Z"
+    },
+    {
       "id": "293646bf-7631-432e-961d-80e20153238e",
       "latitude": -34.979718,
       "longitude": 138.573796,
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-12T15:00:17Z",
+      "timestamp": "2026-03-12T15:30:15Z",
       "reported_at": "2026-03-12T12:29:11Z"
     }
   ]
