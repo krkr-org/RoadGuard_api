@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "a7b2732b-9bed-4330-a7de-b9c509ebe692",
-      "latitude": -34.990207,
-      "longitude": 138.565043,
-      "street": "West St",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-11T22:56:45Z"
-    },
-    {
       "id": "3ad96a8b-2aa1-4ec6-a859-17d787f3d40d",
       "latitude": -34.796561,
       "longitude": 138.649162,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
+      "timestamp": "2026-03-12T03:30:17Z",
       "reported_at": "2026-03-12T01:15:48Z"
     },
     {
-      "id": "3772b1f0-c53e-4d45-9150-381f8c03d7db",
-      "latitude": -34.971949,
-      "longitude": 138.552949,
+      "id": "e2ce551e-7097-46fe-930b-ed208225921d",
+      "latitude": -34.971959,
+      "longitude": 138.552748,
       "street": "South Tce",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-11T23:04:09Z"
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T01:26:54Z"
     },
     {
       "id": "42744701-5ea2-4144-a72f-c5f0d38a1203",
@@ -37,18 +27,18 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
+      "timestamp": "2026-03-12T03:30:17Z",
       "reported_at": "2026-03-12T02:48:09Z"
     },
     {
-      "id": "abe0ae95-d665-4bc1-8c0b-fdc36d95d786",
-      "latitude": -34.963088,
-      "longitude": 138.581486,
-      "street": "East Av",
-      "city": "Clarence Park",
+      "id": "5ff7d042-7154-4a0f-a769-aed83ec431e6",
+      "latitude": -34.964368,
+      "longitude": 138.563659,
+      "street": "Winifred Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-11T21:57:05Z"
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T02:43:16Z"
     },
     {
       "id": "f9461256-3d56-4b9f-9080-8c2706c6999e",
@@ -57,8 +47,18 @@
       "street": "Winston Av",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
+      "timestamp": "2026-03-12T03:30:17Z",
       "reported_at": "2026-03-12T01:23:28Z"
+    },
+    {
+      "id": "abe0ae95-d665-4bc1-8c0b-fdc36d95d786",
+      "latitude": -34.963088,
+      "longitude": 138.581486,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-11T21:57:05Z"
     },
     {
       "id": "c1a36dba-7381-4604-ac36-036cd2858ad1",
@@ -67,48 +67,8 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
+      "timestamp": "2026-03-12T03:30:17Z",
       "reported_at": "2026-03-12T02:19:37Z"
-    },
-    {
-      "id": "57b9cc64-e757-49cc-98ee-79a6fadcb640",
-      "latitude": -34.728866,
-      "longitude": 138.675473,
-      "street": "Midway Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-12T02:52:28Z"
-    },
-    {
-      "id": "c69e24a0-8d2a-41b3-b3fa-259b2bcb514e",
-      "latitude": -35.017077,
-      "longitude": 138.561419,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-12T02:35:39Z"
-    },
-    {
-      "id": "57004164-6931-4c7d-bd57-877ecbc83be2",
-      "latitude": -34.979923,
-      "longitude": 138.566795,
-      "street": "Raglan Av",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-11T22:08:42Z"
-    },
-    {
-      "id": "692d8e82-78c6-4e97-8c39-4ddc18bc21c3",
-      "latitude": -34.921779,
-      "longitude": 138.586533,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-12T02:39:19Z"
     },
     {
       "id": "ef8613ae-7901-4c9f-a3c0-d0d85b8eada5",
@@ -117,8 +77,28 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
+      "timestamp": "2026-03-12T03:30:17Z",
       "reported_at": "2026-03-12T00:41:23Z"
+    },
+    {
+      "id": "3fd01ad6-f2e4-4bd2-8a93-1a0f8c8096c5",
+      "latitude": -34.920305,
+      "longitude": 138.582704,
+      "street": "Port Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T03:04:41Z"
+    },
+    {
+      "id": "302eb31f-2faa-4980-bb0a-78f085b4d6a5",
+      "latitude": -34.732529,
+      "longitude": 138.583103,
+      "street": "Waterloo Corner Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T02:56:04Z"
     },
     {
       "id": "79ff8ae7-db34-4411-8103-9fbe49e3ab7e",
@@ -127,28 +107,48 @@
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
+      "timestamp": "2026-03-12T03:30:17Z",
       "reported_at": "2026-03-12T02:26:41Z"
     },
     {
-      "id": "ebed0ce3-b7d7-4a41-a61d-4fc28fe04c78",
-      "latitude": -34.967098,
-      "longitude": 138.576788,
+      "id": "5cc3d9ee-490d-4781-a20f-0b84f1ab20d8",
+      "latitude": -34.849671,
+      "longitude": 138.508666,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T03:03:42Z"
+    },
+    {
+      "id": "a4a4b89c-dad3-406b-a067-80ca6046368a",
+      "latitude": -35.053008,
+      "longitude": 138.559548,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T02:47:18Z"
+    },
+    {
+      "id": "e358da46-b8a2-4069-b0f0-a6ddf94d50c9",
+      "latitude": -34.967021,
+      "longitude": 138.576713,
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-11T23:25:52Z"
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-11T23:23:16Z"
     },
     {
-      "id": "f7ab4719-082f-4e55-840d-09a04b0c3beb",
-      "latitude": -34.821242,
-      "longitude": 138.678304,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
+      "id": "9c6d68ac-bd51-45b7-8c21-7872c31d9355",
+      "latitude": -34.786379,
+      "longitude": 138.651634,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-12T03:00:16Z",
-      "reported_at": "2026-03-12T02:59:38Z"
+      "timestamp": "2026-03-12T03:30:17Z",
+      "reported_at": "2026-03-12T03:23:37Z"
     }
   ]
 }
