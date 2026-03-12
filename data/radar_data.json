@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "34a1bea1-5129-4b7c-ac56-640ead1f0bfb",
-      "latitude": -34.831532,
-      "longitude": 138.60071,
-      "street": "Diagonal Rd",
-      "city": "Cavan",
+      "id": "29e78ec1-19d0-4eaf-aef8-2bcdb57e8af8",
+      "latitude": -34.918262,
+      "longitude": 138.562468,
+      "street": "Ashley St",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:38:43Z"
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T22:57:55Z"
+    },
+    {
+      "id": "b5ddc27b-5f7c-49a5-9736-6dbd0e88d1c3",
+      "latitude": -34.713646,
+      "longitude": 138.694719,
+      "street": "Seaborough Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T22:20:33Z"
     },
     {
       "id": "6c5f6fa1-3034-487b-9a12-05422ba03df6",
@@ -17,38 +27,18 @@
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
+      "timestamp": "2026-03-12T23:30:16Z",
       "reported_at": "2026-03-12T21:47:46Z"
     },
     {
-      "id": "e5ab68c6-ece1-44c6-bc4c-29856156c554",
-      "latitude": -34.669567,
-      "longitude": 138.713437,
-      "street": "Medlow Rd",
-      "city": "Blakeview",
-      "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:34:14Z"
-    },
-    {
-      "id": "9fda9c23-5cbd-4f2f-b6bf-b700f00bb1eb",
-      "latitude": -34.744784,
-      "longitude": 138.657365,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:44:35Z"
-    },
-    {
-      "id": "ceed4d77-d841-460e-bad2-d795f3c207ae",
-      "latitude": -34.743377,
-      "longitude": 138.610796,
+      "id": "2ce305ed-2409-4be4-8e39-ef4240510ea0",
+      "latitude": -34.764372,
+      "longitude": 138.63982,
       "street": "Unknown Street",
-      "city": "Burton",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:21:35Z"
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T23:26:50Z"
     },
     {
       "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
@@ -57,38 +47,88 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
+      "timestamp": "2026-03-12T23:30:16Z",
       "reported_at": "2026-03-12T21:09:35Z"
     },
     {
-      "id": "b7859412-1cb7-447b-a752-987fa6d9f868",
-      "latitude": -34.847223,
-      "longitude": 138.616898,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "644ef4a8-87e0-4e9a-a950-f3e9fd54aa73",
+      "latitude": -34.745983,
+      "longitude": 138.635636,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:26:43Z"
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T21:13:26Z"
     },
     {
-      "id": "8c7b0a51-7169-4ed8-9054-d92f472f564a",
-      "latitude": -34.751745,
-      "longitude": 138.656129,
-      "street": "A9 - John Rice Av",
+      "id": "9fda9c23-5cbd-4f2f-b6bf-b700f00bb1eb",
+      "latitude": -34.744784,
+      "longitude": 138.657365,
+      "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:14:20Z"
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T22:44:35Z"
     },
     {
-      "id": "e7f5781b-d8fe-407d-a6b9-5defe7b90dbe",
-      "latitude": -34.796376,
-      "longitude": 138.654683,
+      "id": "4658fe8d-975b-4cb7-821e-f7363442cc57",
+      "latitude": -34.760336,
+      "longitude": 138.659726,
+      "street": "Saints Rd",
+      "city": "Salisbury Park",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T23:11:11Z"
+    },
+    {
+      "id": "ceed4d77-d841-460e-bad2-d795f3c207ae",
+      "latitude": -34.743377,
+      "longitude": 138.610796,
+      "street": "Unknown Street",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T22:21:35Z"
+    },
+    {
+      "id": "107fc969-0381-4b6d-ac7c-716371c1d547",
+      "latitude": -34.976212,
+      "longitude": 138.555745,
+      "street": "A14 - Marion Rd",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T23:18:07Z"
+    },
+    {
+      "id": "5d860f1b-fac9-4826-b0a7-ec9a2ec68b7b",
+      "latitude": -34.708565,
+      "longitude": 138.677893,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T22:40:20Z"
+    },
+    {
+      "id": "9fd91d67-2cc1-40c7-9682-1cead3adb005",
+      "latitude": -34.793912,
+      "longitude": 138.650551,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-12T23:00:15Z",
-      "reported_at": "2026-03-12T22:18:41Z"
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T22:24:38Z"
+    },
+    {
+      "id": "d62eecce-e3de-48c3-8fb1-359af354a307",
+      "latitude": -35.0375,
+      "longitude": 138.557397,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:30:16Z",
+      "reported_at": "2026-03-12T23:10:54Z"
     }
   ]
 }
