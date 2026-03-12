@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "63d3ac0a-5197-4be5-aee7-3a5a33820b78",
-      "latitude": -34.857317,
-      "longitude": 138.574495,
-      "street": "Gallipoli Dr",
-      "city": "Regency Park",
+      "id": "6c5f6fa1-3034-487b-9a12-05422ba03df6",
+      "latitude": -34.737515,
+      "longitude": 138.670903,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
-      "reported_at": "2026-03-12T21:17:12Z"
-    },
-    {
-      "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
-      "latitude": -34.740522,
-      "longitude": 138.613378,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
-      "reported_at": "2026-03-12T21:09:35Z"
-    },
-    {
-      "id": "922fe17f-0dbc-476c-8da8-a305f2231b64",
-      "latitude": -34.846733,
-      "longitude": 138.617681,
-      "street": "Briens Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
-      "reported_at": "2026-03-12T21:29:32Z"
-    },
-    {
-      "id": "4adfc2f7-1870-48de-b2c0-361ff8a8e2c5",
-      "latitude": -35.012469,
-      "longitude": 138.576274,
-      "street": "Shepherds Hill Rd",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
-      "reported_at": "2026-03-12T21:46:18Z"
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T21:47:46Z"
     },
     {
       "id": "bdb5f593-41ed-475a-af85-96c9912ada0e",
@@ -47,28 +17,48 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
+      "timestamp": "2026-03-12T22:30:15Z",
       "reported_at": "2026-03-12T21:05:48Z"
     },
     {
-      "id": "40179917-941a-471a-8823-2ea31bcbf530",
-      "latitude": -34.847855,
-      "longitude": 138.617224,
-      "street": "A17 - Hampstead Rd",
-      "city": "Clearview",
+      "id": "644ef4a8-87e0-4e9a-a950-f3e9fd54aa73",
+      "latitude": -34.745983,
+      "longitude": 138.635636,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
-      "reported_at": "2026-03-12T21:25:02Z"
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T21:13:26Z"
     },
     {
-      "id": "b3893ef2-9e5f-4651-b11e-f329b996c37e",
-      "latitude": -34.748363,
-      "longitude": 138.587986,
-      "street": "A1 - Port Wakefield Rd",
+      "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
+      "latitude": -34.740522,
+      "longitude": 138.613378,
+      "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
-      "reported_at": "2026-03-12T21:48:48Z"
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T21:09:35Z"
+    },
+    {
+      "id": "14c54f2c-9960-49c8-8270-e7c30c8adf6f",
+      "latitude": -35.031082,
+      "longitude": 138.523973,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
+      "type": "mobile",
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T21:58:52Z"
+    },
+    {
+      "id": "7bdd9651-f772-4355-bf97-52964ccd4d15",
+      "latitude": -34.845054,
+      "longitude": 138.669616,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T22:09:36Z"
     },
     {
       "id": "570e729b-8c97-4444-8a78-95512233fac3",
@@ -77,8 +67,28 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:00:17Z",
+      "timestamp": "2026-03-12T22:30:15Z",
       "reported_at": "2026-03-12T21:55:06Z"
+    },
+    {
+      "id": "6ffddfce-b92a-4f3b-aa19-3f3ab22a7a69",
+      "latitude": -34.787466,
+      "longitude": 138.596081,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Globe Derby Park",
+      "type": "mobile",
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T22:26:36Z"
+    },
+    {
+      "id": "8c7b0a51-7169-4ed8-9054-d92f472f564a",
+      "latitude": -34.751745,
+      "longitude": 138.656129,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-03-12T22:30:15Z",
+      "reported_at": "2026-03-12T22:14:20Z"
     }
   ]
 }
