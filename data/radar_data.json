@@ -1,34 +1,54 @@
 {
   "radars": [
     {
+      "id": "34a1bea1-5129-4b7c-ac56-640ead1f0bfb",
+      "latitude": -34.831532,
+      "longitude": 138.60071,
+      "street": "Diagonal Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:00:15Z",
+      "reported_at": "2026-03-12T22:38:43Z"
+    },
+    {
       "id": "6c5f6fa1-3034-487b-9a12-05422ba03df6",
       "latitude": -34.737515,
       "longitude": 138.670903,
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
+      "timestamp": "2026-03-12T23:00:15Z",
       "reported_at": "2026-03-12T21:47:46Z"
     },
     {
-      "id": "bdb5f593-41ed-475a-af85-96c9912ada0e",
-      "latitude": -34.7424,
-      "longitude": 138.657366,
+      "id": "e5ab68c6-ece1-44c6-bc4c-29856156c554",
+      "latitude": -34.669567,
+      "longitude": 138.713437,
+      "street": "Medlow Rd",
+      "city": "Blakeview",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:00:15Z",
+      "reported_at": "2026-03-12T22:34:14Z"
+    },
+    {
+      "id": "9fda9c23-5cbd-4f2f-b6bf-b700f00bb1eb",
+      "latitude": -34.744784,
+      "longitude": 138.657365,
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
-      "reported_at": "2026-03-12T21:05:48Z"
+      "timestamp": "2026-03-12T23:00:15Z",
+      "reported_at": "2026-03-12T22:44:35Z"
     },
     {
-      "id": "644ef4a8-87e0-4e9a-a950-f3e9fd54aa73",
-      "latitude": -34.745983,
-      "longitude": 138.635636,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "ceed4d77-d841-460e-bad2-d795f3c207ae",
+      "latitude": -34.743377,
+      "longitude": 138.610796,
+      "street": "Unknown Street",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
-      "reported_at": "2026-03-12T21:13:26Z"
+      "timestamp": "2026-03-12T23:00:15Z",
+      "reported_at": "2026-03-12T22:21:35Z"
     },
     {
       "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
@@ -37,48 +57,18 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
+      "timestamp": "2026-03-12T23:00:15Z",
       "reported_at": "2026-03-12T21:09:35Z"
     },
     {
-      "id": "14c54f2c-9960-49c8-8270-e7c30c8adf6f",
-      "latitude": -35.031082,
-      "longitude": 138.523973,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
-      "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
-      "reported_at": "2026-03-12T21:58:52Z"
-    },
-    {
-      "id": "7bdd9651-f772-4355-bf97-52964ccd4d15",
-      "latitude": -34.845054,
-      "longitude": 138.669616,
+      "id": "b7859412-1cb7-447b-a752-987fa6d9f868",
+      "latitude": -34.847223,
+      "longitude": 138.616898,
       "street": "A16 - Grand Junction Rd",
-      "city": "Valley View",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
-      "reported_at": "2026-03-12T22:09:36Z"
-    },
-    {
-      "id": "570e729b-8c97-4444-8a78-95512233fac3",
-      "latitude": -34.75071,
-      "longitude": 138.588772,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
-      "reported_at": "2026-03-12T21:55:06Z"
-    },
-    {
-      "id": "6ffddfce-b92a-4f3b-aa19-3f3ab22a7a69",
-      "latitude": -34.787466,
-      "longitude": 138.596081,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Globe Derby Park",
-      "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
-      "reported_at": "2026-03-12T22:26:36Z"
+      "timestamp": "2026-03-12T23:00:15Z",
+      "reported_at": "2026-03-12T22:26:43Z"
     },
     {
       "id": "8c7b0a51-7169-4ed8-9054-d92f472f564a",
@@ -87,8 +77,18 @@
       "street": "A9 - John Rice Av",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-12T22:30:15Z",
+      "timestamp": "2026-03-12T23:00:15Z",
       "reported_at": "2026-03-12T22:14:20Z"
+    },
+    {
+      "id": "e7f5781b-d8fe-407d-a6b9-5defe7b90dbe",
+      "latitude": -34.796376,
+      "longitude": 138.654683,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-12T23:00:15Z",
+      "reported_at": "2026-03-12T22:18:41Z"
     }
   ]
 }
