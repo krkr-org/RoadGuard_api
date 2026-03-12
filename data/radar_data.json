@@ -7,7 +7,7 @@
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
+      "timestamp": "2026-03-12T06:30:14Z",
       "reported_at": "2026-03-12T04:47:32Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
+      "timestamp": "2026-03-12T06:30:14Z",
       "reported_at": "2026-03-12T03:03:07Z"
     },
     {
@@ -27,28 +27,8 @@
       "street": "Bristol Av",
       "city": "Enfield",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
+      "timestamp": "2026-03-12T06:30:14Z",
       "reported_at": "2026-03-12T03:15:41Z"
-    },
-    {
-      "id": "02af9a4e-6bce-438a-98ed-a8aba46dbbfb",
-      "latitude": -34.944671,
-      "longitude": 138.51747,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
-      "reported_at": "2026-03-12T05:49:02Z"
-    },
-    {
-      "id": "5ff7d042-7154-4a0f-a769-aed83ec431e6",
-      "latitude": -34.964368,
-      "longitude": 138.563659,
-      "street": "Winifred Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
-      "reported_at": "2026-03-12T02:43:16Z"
     },
     {
       "id": "836ea8c4-6b86-4127-a840-034450082224",
@@ -57,7 +37,7 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
+      "timestamp": "2026-03-12T06:30:14Z",
       "reported_at": "2026-03-12T03:24:30Z"
     },
     {
@@ -67,18 +47,78 @@
       "street": "Grange Rd",
       "city": "Grange",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
+      "timestamp": "2026-03-12T06:30:14Z",
       "reported_at": "2026-03-12T05:22:38Z"
     },
     {
-      "id": "979e9b48-0dc5-40d1-9bdf-7fe0cd2710ab",
-      "latitude": -34.941073,
-      "longitude": 138.605477,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Unley",
+      "id": "b826b22e-4a9a-4175-ab17-acaf485d828b",
+      "latitude": -34.844305,
+      "longitude": 138.505675,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:00:15Z",
-      "reported_at": "2026-03-12T05:41:08Z"
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T06:21:32Z"
+    },
+    {
+      "id": "9467be56-428f-459a-a79c-6b9b62bb3934",
+      "latitude": -35.010996,
+      "longitude": 138.698519,
+      "street": "B28 - Upper Sturt Rd",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T06:25:28Z"
+    },
+    {
+      "id": "147c40de-6e3e-4e36-9fee-4a944ea25ab8",
+      "latitude": -35.111861,
+      "longitude": 138.522561,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T06:25:28Z"
+    },
+    {
+      "id": "906239d6-77db-47ed-b74a-05fbd5c888bc",
+      "latitude": -35.005445,
+      "longitude": 138.806049,
+      "street": "B34 - Onkaparinga Valley Rd",
+      "city": "Verdun",
+      "type": "mobile",
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T05:58:58Z"
+    },
+    {
+      "id": "ae743531-0e3e-48e7-b0dc-19cb65ab8736",
+      "latitude": -34.912354,
+      "longitude": 138.613306,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T06:20:24Z"
+    },
+    {
+      "id": "f06c958f-88de-4b7d-b2ee-6d52f7fd1bea",
+      "latitude": -34.850605,
+      "longitude": 138.547052,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T06:02:16Z"
+    },
+    {
+      "id": "506c657e-6b06-45be-8f32-e527ab3d495e",
+      "latitude": -34.838734,
+      "longitude": 138.730696,
+      "street": "A16 - Lower North East Rd",
+      "city": "Vista",
+      "type": "mobile",
+      "timestamp": "2026-03-12T06:30:14Z",
+      "reported_at": "2026-03-12T05:56:16Z"
     }
   ]
 }
