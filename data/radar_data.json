@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "7f0fe416-79f5-4c28-88e0-916f63e0e72f",
-      "latitude": -34.857861,
-      "longitude": 138.57454,
+      "id": "63d3ac0a-5197-4be5-aee7-3a5a33820b78",
+      "latitude": -34.857317,
+      "longitude": 138.574495,
       "street": "Gallipoli Dr",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T21:00:17Z",
-      "reported_at": "2026-03-12T20:34:27Z"
+      "timestamp": "2026-03-12T21:30:14Z",
+      "reported_at": "2026-03-12T21:17:12Z"
     },
     {
-      "id": "2e57fd28-ccc8-4810-862f-57fc9a35b78c",
-      "latitude": -35.017152,
-      "longitude": 138.559248,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
+      "id": "71fe2468-b04f-4cd1-9045-30c9ab65428a",
+      "latitude": -34.733222,
+      "longitude": 138.593532,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-12T21:00:17Z",
-      "reported_at": "2026-03-12T20:30:26Z"
+      "timestamp": "2026-03-12T21:30:14Z",
+      "reported_at": "2026-03-12T21:05:00Z"
+    },
+    {
+      "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
+      "latitude": -34.740522,
+      "longitude": 138.613378,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-12T21:30:14Z",
+      "reported_at": "2026-03-12T21:09:35Z"
+    },
+    {
+      "id": "bdb5f593-41ed-475a-af85-96c9912ada0e",
+      "latitude": -34.7424,
+      "longitude": 138.657366,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-03-12T21:30:14Z",
+      "reported_at": "2026-03-12T21:05:48Z"
+    },
+    {
+      "id": "956b6ce7-5ab5-4f58-89be-34bbf0b6fd13",
+      "latitude": -34.738211,
+      "longitude": 138.584586,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-03-12T21:30:14Z",
+      "reported_at": "2026-03-12T21:27:37Z"
     }
   ]
 }
