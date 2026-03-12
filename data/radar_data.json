@@ -7,7 +7,7 @@
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-11T22:56:45Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Galway Av",
       "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-11T21:21:17Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "South Tce",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-11T23:04:09Z"
     },
     {
@@ -37,28 +37,18 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-11T21:37:49Z"
     },
     {
-      "id": "8791f895-2ac6-46f5-ba87-f1bc5bb17212",
-      "latitude": -34.964566,
-      "longitude": 138.563686,
+      "id": "da39dd00-4cff-48d4-93bb-e3c057e5b85e",
+      "latitude": -34.965526,
+      "longitude": 138.56376,
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
-      "reported_at": "2026-03-11T20:56:02Z"
-    },
-    {
-      "id": "ea3c2a1c-6ffe-423c-9d6e-d4529a2d6939",
-      "latitude": -34.94938,
-      "longitude": 138.568709,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
-      "reported_at": "2026-03-11T21:06:00Z"
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-11T22:20:21Z"
     },
     {
       "id": "9547c218-4cff-4d75-8f9a-f13ffb361cb0",
@@ -67,7 +57,7 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-11T21:05:08Z"
     },
     {
@@ -77,8 +67,18 @@
       "street": "Daws Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-12T00:31:35Z"
+    },
+    {
+      "id": "f682a08e-b2bd-458e-abb1-70f26bfbd18b",
+      "latitude": -34.893314,
+      "longitude": 138.578221,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-12T01:28:05Z"
     },
     {
       "id": "57004164-6931-4c7d-bd57-877ecbc83be2",
@@ -87,38 +87,58 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
+      "timestamp": "2026-03-12T01:30:16Z",
       "reported_at": "2026-03-11T22:08:42Z"
     },
     {
-      "id": "e54693b2-4fd4-4ee0-b8ac-e6bd9b55474d",
-      "latitude": -34.98015,
-      "longitude": 138.563139,
-      "street": "Raglan Av",
-      "city": "South Plympton",
+      "id": "18dcaae7-0684-4811-b3bf-b36d89ada053",
+      "latitude": -34.942422,
+      "longitude": 138.563395,
+      "street": "Richmond Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
-      "reported_at": "2026-03-11T20:43:53Z"
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-12T01:22:55Z"
     },
     {
-      "id": "84a18262-b14c-48af-b04f-ef9f0081f157",
-      "latitude": -34.966906,
-      "longitude": 138.57877,
+      "id": "1357ea3e-0926-40d2-aabb-7a235bef5ec5",
+      "latitude": -34.892334,
+      "longitude": 138.594384,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-12T00:41:32Z"
+    },
+    {
+      "id": "8f5d4c2f-77a9-4dfc-a98a-e26c28042cdd",
+      "latitude": -34.96714,
+      "longitude": 138.575916,
       "street": "A3 - Cross Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
-      "reported_at": "2026-03-11T20:50:19Z"
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-11T22:17:43Z"
     },
     {
-      "id": "cefd5afa-37c4-4951-813c-0f62f1e805a4",
-      "latitude": -34.851374,
-      "longitude": 138.528617,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Rosewater",
+      "id": "6c960ec6-9091-4b52-b38e-59310d4fa98d",
+      "latitude": -34.971625,
+      "longitude": 138.543169,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T01:00:17Z",
-      "reported_at": "2026-03-12T00:53:07Z"
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-12T01:02:59Z"
+    },
+    {
+      "id": "3bab0c5c-0378-4d2f-809c-50f5881a3ee1",
+      "latitude": -34.866672,
+      "longitude": 138.618705,
+      "street": "A17 - Hampstead Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-03-12T01:30:16Z",
+      "reported_at": "2026-03-12T01:07:53Z"
     }
   ]
 }
