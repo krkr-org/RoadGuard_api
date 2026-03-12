@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "2dce412b-3f11-4d4a-8b3e-f5c0762c4b68",
-      "latitude": -34.889506,
-      "longitude": 138.656807,
-      "street": "Montacute Rd",
-      "city": "Campbelltown",
+      "id": "1f691cd5-0e51-4d86-8d42-07e65dd067fd",
+      "latitude": -34.861307,
+      "longitude": 138.609,
+      "street": "McCusker Av",
+      "city": "Enfield",
       "type": "mobile",
-      "timestamp": "2026-03-12T13:30:16Z",
-      "reported_at": "2026-03-12T12:55:40Z"
+      "timestamp": "2026-03-12T14:00:19Z",
+      "reported_at": "2026-03-12T13:56:48Z"
+    },
+    {
+      "id": "19cfe957-55fc-428f-8802-7e4b136ec27d",
+      "latitude": -34.88027,
+      "longitude": 138.53486,
+      "street": "A7 - Port Rd",
+      "city": "Woodville",
+      "type": "mobile",
+      "timestamp": "2026-03-12T14:00:19Z",
+      "reported_at": "2026-03-12T13:17:39Z"
     },
     {
       "id": "293646bf-7631-432e-961d-80e20153238e",
@@ -17,7 +27,7 @@
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-12T13:30:16Z",
+      "timestamp": "2026-03-12T14:00:19Z",
       "reported_at": "2026-03-12T12:29:11Z"
     }
   ]
