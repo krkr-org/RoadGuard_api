@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "3ad96a8b-2aa1-4ec6-a859-17d787f3d40d",
-      "latitude": -34.796561,
-      "longitude": 138.649162,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
+      "id": "660ea1c5-354a-47b9-b7e5-2f3ec50ad6ab",
+      "latitude": -34.856336,
+      "longitude": 138.50613,
+      "street": "Webb St",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
-      "reported_at": "2026-03-12T01:15:48Z"
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T04:47:32Z"
     },
     {
-      "id": "7065ef28-5bff-4547-9bfa-d05006a0fe6b",
-      "latitude": -34.996329,
-      "longitude": 138.582345,
-      "street": "Cashel St",
-      "city": "St. Marys",
+      "id": "9c2ba917-da53-46f8-a844-6113cb6dfa17",
+      "latitude": -34.990629,
+      "longitude": 138.565062,
+      "street": "West St",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
-      "reported_at": "2026-03-12T04:31:47Z"
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T03:03:07Z"
+    },
+    {
+      "id": "bee08a85-945b-4b60-a030-30a2b6011b53",
+      "latitude": -34.863627,
+      "longitude": 138.601689,
+      "street": "Bristol Av",
+      "city": "Enfield",
+      "type": "mobile",
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T03:15:41Z"
     },
     {
       "id": "5ff7d042-7154-4a0f-a769-aed83ec431e6",
@@ -27,7 +37,7 @@
       "street": "Winifred Av",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
+      "timestamp": "2026-03-12T05:30:16Z",
       "reported_at": "2026-03-12T02:43:16Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "South Tce",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
+      "timestamp": "2026-03-12T05:30:16Z",
       "reported_at": "2026-03-12T01:33:44Z"
     },
     {
@@ -47,7 +57,7 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
+      "timestamp": "2026-03-12T05:30:16Z",
       "reported_at": "2026-03-12T02:27:50Z"
     },
     {
@@ -57,28 +67,48 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
+      "timestamp": "2026-03-12T05:30:16Z",
       "reported_at": "2026-03-12T01:30:25Z"
     },
     {
-      "id": "01917084-641c-41fc-b4ea-08ba993f64ff",
-      "latitude": -34.94029,
-      "longitude": 138.621099,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Eastwood",
+      "id": "6603e300-9067-4f39-b0db-92297fbf60f0",
+      "latitude": -34.71824,
+      "longitude": 138.645414,
+      "street": "West Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
-      "reported_at": "2026-03-12T04:43:06Z"
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T05:15:52Z"
     },
     {
-      "id": "c90bd5a9-acfc-49e9-a8a1-707ad3180372",
-      "latitude": -34.792534,
-      "longitude": 138.698121,
-      "street": "A11 - The Grove Way",
-      "city": "Golden Grove",
+      "id": "e516e8d3-3ba6-49eb-ad7d-524f1a4335b9",
+      "latitude": -34.878353,
+      "longitude": 138.485035,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-03-12T05:00:18Z",
-      "reported_at": "2026-03-12T04:53:52Z"
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T05:19:07Z"
+    },
+    {
+      "id": "962821dc-d98c-4ba3-99b4-6164e30f1038",
+      "latitude": -34.994452,
+      "longitude": 138.592961,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T05:26:30Z"
+    },
+    {
+      "id": "d7aeab5e-a10f-4288-a968-e142d328a6da",
+      "latitude": -34.757767,
+      "longitude": 138.645328,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-12T05:30:16Z",
+      "reported_at": "2026-03-12T05:22:53Z"
     }
   ]
 }
