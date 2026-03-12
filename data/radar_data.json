@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "660ea1c5-354a-47b9-b7e5-2f3ec50ad6ab",
-      "latitude": -34.856336,
-      "longitude": 138.50613,
-      "street": "Webb St",
-      "city": "Port Adelaide",
+      "id": "9b5ba26e-87a4-4513-8779-085a44246820",
+      "latitude": -34.982159,
+      "longitude": 138.567878,
+      "street": "Adelaide Tce",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T04:47:32Z"
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:26:47Z"
     },
     {
       "id": "9c2ba917-da53-46f8-a844-6113cb6dfa17",
@@ -17,8 +17,18 @@
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
+      "timestamp": "2026-03-12T07:00:18Z",
       "reported_at": "2026-03-12T03:03:07Z"
+    },
+    {
+      "id": "5d2c4003-42f6-4a84-b896-60f21b907411",
+      "latitude": -34.925296,
+      "longitude": 138.636917,
+      "street": "George St",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:39:02Z"
     },
     {
       "id": "bee08a85-945b-4b60-a030-30a2b6011b53",
@@ -27,7 +37,7 @@
       "street": "Bristol Av",
       "city": "Enfield",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
+      "timestamp": "2026-03-12T07:00:18Z",
       "reported_at": "2026-03-12T03:15:41Z"
     },
     {
@@ -37,78 +47,48 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
+      "timestamp": "2026-03-12T07:00:18Z",
       "reported_at": "2026-03-12T03:24:30Z"
     },
     {
-      "id": "3c8d51c3-f008-4df6-95d6-c640e39c8246",
-      "latitude": -34.907031,
-      "longitude": 138.499774,
-      "street": "Grange Rd",
-      "city": "Grange",
-      "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T05:22:38Z"
-    },
-    {
-      "id": "b826b22e-4a9a-4175-ab17-acaf485d828b",
-      "latitude": -34.844305,
-      "longitude": 138.505675,
+      "id": "9d5495f3-53b6-42bd-8ae1-79803fe26b40",
+      "latitude": -34.844772,
+      "longitude": 138.503274,
       "street": "St. Vincent St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T06:21:32Z"
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:57:32Z"
     },
     {
-      "id": "9467be56-428f-459a-a79c-6b9b62bb3934",
-      "latitude": -35.010996,
-      "longitude": 138.698519,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Crafers West",
+      "id": "b85e521c-3cf1-4376-a763-29a194ead7fd",
+      "latitude": -34.860985,
+      "longitude": 138.592233,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T06:25:28Z"
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:37:50Z"
     },
     {
-      "id": "147c40de-6e3e-4e36-9fee-4a944ea25ab8",
-      "latitude": -35.111861,
-      "longitude": 138.522561,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T06:25:28Z"
-    },
-    {
-      "id": "906239d6-77db-47ed-b74a-05fbd5c888bc",
-      "latitude": -35.005445,
-      "longitude": 138.806049,
-      "street": "B34 - Onkaparinga Valley Rd",
-      "city": "Verdun",
-      "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T05:58:58Z"
-    },
-    {
-      "id": "ae743531-0e3e-48e7-b0dc-19cb65ab8736",
-      "latitude": -34.912354,
-      "longitude": 138.613306,
+      "id": "35e147cf-2aea-40aa-b6cb-925761557cbc",
+      "latitude": -34.911093,
+      "longitude": 138.613039,
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T06:20:24Z"
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T05:53:35Z"
     },
     {
-      "id": "f06c958f-88de-4b7d-b2ee-6d52f7fd1bea",
-      "latitude": -34.850605,
-      "longitude": 138.547052,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
+      "id": "8b781c8b-0b4a-4cdf-9947-6a70af0115ed",
+      "latitude": -34.889852,
+      "longitude": 138.548395,
+      "street": "A7 - Port Rd",
+      "city": "Beverley",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
-      "reported_at": "2026-03-12T06:02:16Z"
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:51:31Z"
     },
     {
       "id": "506c657e-6b06-45be-8f32-e527ab3d495e",
@@ -117,8 +97,28 @@
       "street": "A16 - Lower North East Rd",
       "city": "Vista",
       "type": "mobile",
-      "timestamp": "2026-03-12T06:30:14Z",
+      "timestamp": "2026-03-12T07:00:18Z",
       "reported_at": "2026-03-12T05:56:16Z"
+    },
+    {
+      "id": "272d09b8-3d06-4eff-80a7-f8e1a5000ad6",
+      "latitude": -34.747044,
+      "longitude": 138.587546,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:29:40Z"
+    },
+    {
+      "id": "fc0adb57-e2a3-41d3-afb2-a1a464ffb8e7",
+      "latitude": -34.832645,
+      "longitude": 138.580242,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-12T07:00:18Z",
+      "reported_at": "2026-03-12T06:58:40Z"
     }
   ]
 }
