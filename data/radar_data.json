@@ -1,64 +1,74 @@
 {
   "radars": [
     {
+      "id": "8c1f756b-927d-4dde-8465-5ac4c9ca88ac",
+      "latitude": -34.894371,
+      "longitude": 138.524766,
+      "street": "Buccleuch Av",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:22:41Z"
+    },
+    {
+      "id": "f96783f3-3974-4e15-9b57-c3afc30e953a",
+      "latitude": -34.912791,
+      "longitude": 138.583145,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:45:54Z"
+    },
+    {
       "id": "df38a624-52aa-4d25-a3d1-f157f9f84a3a",
       "latitude": -35.144276,
       "longitude": 138.495561,
       "street": "Goldsmith Dr",
       "city": "Noarlunga Centre",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
+      "timestamp": "2026-03-12T10:00:20Z",
       "reported_at": "2026-03-12T09:18:02Z"
     },
     {
-      "id": "7cbb5faf-7a2f-4585-a856-fb48e822458c",
-      "latitude": -35.01135,
-      "longitude": 138.576478,
+      "id": "3d81422c-5e29-4e86-ad75-ddeef23f6230",
+      "latitude": -35.010931,
+      "longitude": 138.580023,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
-      "reported_at": "2026-03-12T09:17:21Z"
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:16:53Z"
     },
     {
-      "id": "3473d99a-618f-4960-85d0-0218b4840005",
-      "latitude": -34.88308,
-      "longitude": 138.561441,
-      "street": "Torrens Rd",
-      "city": "Croydon Park",
+      "id": "bbaf7506-407f-46ac-a69b-e8957fcc9913",
+      "latitude": -34.869609,
+      "longitude": 138.665383,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
-      "reported_at": "2026-03-12T09:06:38Z"
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:33:25Z"
     },
     {
-      "id": "6351f126-2809-4226-ae93-5979c074c731",
-      "latitude": -34.92763,
-      "longitude": 138.621444,
-      "street": "Wakefield Rd",
-      "city": "Adelaide",
+      "id": "a059ad0f-34d5-467b-ba15-8f572472203c",
+      "latitude": -34.76647,
+      "longitude": 138.710305,
+      "street": "Golden Grove Rd",
+      "city": "Greenwith",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
-      "reported_at": "2026-03-12T09:05:33Z"
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:41:51Z"
     },
     {
-      "id": "9b8bf98f-1846-42ba-bbfd-d7407a1ee402",
-      "latitude": -34.810082,
-      "longitude": 138.654745,
-      "street": "Kesters Rd",
-      "city": "Para Hills",
+      "id": "f0d16a76-4f53-413a-9e11-e09db97687e3",
+      "latitude": -34.692618,
+      "longitude": 138.644761,
+      "street": "Womma Rd",
+      "city": "Eyre",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
-      "reported_at": "2026-03-12T07:22:28Z"
-    },
-    {
-      "id": "9e805785-9e1c-434a-9a74-046eafa806ce",
-      "latitude": -34.824777,
-      "longitude": 138.70903,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
-      "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
-      "reported_at": "2026-03-12T08:38:10Z"
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:25:25Z"
     },
     {
       "id": "506c657e-6b06-45be-8f32-e527ab3d495e",
@@ -67,18 +77,48 @@
       "street": "A16 - Lower North East Rd",
       "city": "Vista",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
+      "timestamp": "2026-03-12T10:00:20Z",
       "reported_at": "2026-03-12T05:56:16Z"
     },
     {
-      "id": "3eff42eb-4a1f-49be-a884-385293b38200",
-      "latitude": -34.717811,
-      "longitude": 138.673056,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
+      "id": "9e805785-9e1c-434a-9a74-046eafa806ce",
+      "latitude": -34.824777,
+      "longitude": 138.70903,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-03-12T09:30:15Z",
-      "reported_at": "2026-03-12T09:04:36Z"
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T08:38:10Z"
+    },
+    {
+      "id": "228942df-2c7d-4273-89f1-05fa64c6d6ed",
+      "latitude": -34.851305,
+      "longitude": 138.531756,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:29:13Z"
+    },
+    {
+      "id": "7f4fd1b3-7061-4fd6-b22e-8cb46fe71757",
+      "latitude": -34.870591,
+      "longitude": 138.583789,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:37:46Z"
+    },
+    {
+      "id": "00a40acc-2933-4df2-814d-a1f7edfdd47c",
+      "latitude": -34.802334,
+      "longitude": 138.596854,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-12T10:00:20Z",
+      "reported_at": "2026-03-12T09:39:10Z"
     }
   ]
 }
