@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "090ee1b9-f047-4351-af61-b8d1839fe09d",
-      "latitude": -34.833167,
-      "longitude": 138.499076,
-      "street": "Hargrave St",
-      "city": "Peterhead",
-      "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T07:04:35Z"
-    },
-    {
       "id": "50652174-663f-4c1b-bbc3-10ab6b468e4f",
       "latitude": -34.857961,
       "longitude": 138.488248,
       "street": "Fairford Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T05:03:06Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Bartley Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T08:12:44Z"
+    },
+    {
+      "id": "9247660b-0517-4d2e-895d-ac85e9c45949",
+      "latitude": -34.833323,
+      "longitude": 138.498012,
+      "street": "Hargrave St",
+      "city": "Peterhead",
+      "type": "mobile",
+      "timestamp": "2026-03-13T09:00:19Z",
+      "reported_at": "2026-03-13T05:41:02Z"
     },
     {
       "id": "806d14fb-8539-4dc5-8e53-0ffb4335e008",
@@ -37,7 +37,7 @@
       "street": "Francis Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T05:59:01Z"
     },
     {
@@ -47,28 +47,8 @@
       "street": "Days Rd",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T05:03:21Z"
-    },
-    {
-      "id": "29511539-10b7-4b2b-8feb-4daa507bea89",
-      "latitude": -34.959832,
-      "longitude": 138.552348,
-      "street": "Mooringe Av",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T07:57:37Z"
-    },
-    {
-      "id": "a88a89d5-3f12-4d29-ab3d-1fb9eedc5652",
-      "latitude": -34.68129,
-      "longitude": 138.687263,
-      "street": "Anderson Walk",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T08:11:37Z"
     },
     {
       "id": "9f59f74e-c864-4cf8-a514-377fb8877627",
@@ -77,7 +57,7 @@
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T07:45:43Z"
     },
     {
@@ -87,28 +67,28 @@
       "street": "Military Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T05:20:18Z"
     },
     {
-      "id": "5a580597-6595-4a24-a494-b9b919c88620",
-      "latitude": -34.873231,
-      "longitude": 138.483068,
+      "id": "6c4813c8-ec04-4ff3-99a6-5e0e5f00da73",
+      "latitude": -34.874075,
+      "longitude": 138.483506,
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T05:50:29Z"
+      "timestamp": "2026-03-13T09:00:19Z",
+      "reported_at": "2026-03-13T04:49:33Z"
     },
     {
-      "id": "d00a6774-e40e-46bc-889a-8306db91c8fb",
-      "latitude": -34.681977,
-      "longitude": 138.67248,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
+      "id": "ea55d0b8-e924-43bc-968c-3bd06af3cdad",
+      "latitude": -34.746138,
+      "longitude": 138.608371,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T07:58:03Z"
+      "timestamp": "2026-03-13T09:00:19Z",
+      "reported_at": "2026-03-13T08:50:39Z"
     },
     {
       "id": "4d74589b-4ad0-4eac-a6fb-f7ca61968336",
@@ -117,28 +97,28 @@
       "street": "A16 - Victoria Rd",
       "city": "Outer Harbor",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
+      "timestamp": "2026-03-13T09:00:19Z",
       "reported_at": "2026-03-13T05:36:58Z"
     },
     {
-      "id": "94cc7355-d2ea-45d2-a588-e2a79b9cb60d",
-      "latitude": -35.024464,
-      "longitude": 138.559309,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "74f68577-886c-4c7a-bac1-909945c2b5fe",
+      "latitude": -34.818566,
+      "longitude": 138.677394,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T08:02:03Z"
+      "timestamp": "2026-03-13T09:00:19Z",
+      "reported_at": "2026-03-13T08:35:50Z"
     },
     {
-      "id": "f0e9e6d8-df53-444a-ac1f-6bf914d13345",
-      "latitude": -34.945466,
-      "longitude": 138.553385,
-      "street": "A14 - Marion Rd",
-      "city": "Netley",
+      "id": "3ee82d0c-6c73-4524-b109-42ea29beb332",
+      "latitude": -34.941081,
+      "longitude": 138.601789,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-03-13T08:30:15Z",
-      "reported_at": "2026-03-13T07:55:33Z"
+      "timestamp": "2026-03-13T09:00:19Z",
+      "reported_at": "2026-03-13T08:29:32Z"
     }
   ]
 }
