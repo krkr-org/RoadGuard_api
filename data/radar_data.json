@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "73626420-93c2-4fb2-9197-ee94835bc7aa",
-      "latitude": -34.938021,
-      "longitude": 138.667326,
-      "street": "Sitters Memorial Dr",
-      "city": "Burnside",
-      "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
-      "reported_at": "2026-03-13T01:42:48Z"
-    },
-    {
       "id": "406fbaf9-971b-44cd-b42b-0e20001e977e",
       "latitude": -34.953787,
       "longitude": 138.626976,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T05:00:37Z"
-    },
-    {
-      "id": "ed11853d-eedf-4ed8-89d9-9b2720d8fa9c",
-      "latitude": -34.897824,
-      "longitude": 138.664527,
-      "street": "Shirley Av",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
-      "reported_at": "2026-03-13T01:49:16Z"
     },
     {
       "id": "50652174-663f-4c1b-bbc3-10ab6b468e4f",
@@ -37,18 +17,8 @@
       "street": "Fairford Tce",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T05:03:06Z"
-    },
-    {
-      "id": "438400c5-c1a5-4704-bbf4-6f15ed4efcd7",
-      "latitude": -34.864095,
-      "longitude": 138.485933,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
-      "reported_at": "2026-03-13T04:54:26Z"
     },
     {
       "id": "783f15ea-7655-4e46-a803-d901fd11ac71",
@@ -57,7 +27,7 @@
       "street": "Days Rd",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T05:03:21Z"
     },
     {
@@ -67,7 +37,7 @@
       "street": "Edward St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T03:35:22Z"
     },
     {
@@ -77,7 +47,7 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T04:33:08Z"
     },
     {
@@ -87,18 +57,8 @@
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T03:52:40Z"
-    },
-    {
-      "id": "21fbad73-35b4-43a3-953e-6d3b35a3b7f3",
-      "latitude": -34.665808,
-      "longitude": 138.675591,
-      "street": "Stebonheath Rd",
-      "city": "Munno Para West",
-      "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
-      "reported_at": "2026-03-13T05:14:09Z"
     },
     {
       "id": "9b03f083-b9ab-4079-bce6-bc1324e68f81",
@@ -107,7 +67,7 @@
       "street": "Seaborough Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T02:34:39Z"
     },
     {
@@ -117,18 +77,18 @@
       "street": "Unknown Street",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T03:45:32Z"
     },
     {
-      "id": "6c4813c8-ec04-4ff3-99a6-5e0e5f00da73",
-      "latitude": -34.875172,
-      "longitude": 138.484075,
+      "id": "5a580597-6595-4a24-a494-b9b919c88620",
+      "latitude": -34.87335,
+      "longitude": 138.48313,
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
-      "reported_at": "2026-03-13T04:49:33Z"
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:50:29Z"
     },
     {
       "id": "828662b2-96a1-4b0f-8ccb-82065d9f3d02",
@@ -137,7 +97,7 @@
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T04:54:46Z"
     },
     {
@@ -147,8 +107,78 @@
       "street": "Military Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-13T05:30:15Z",
+      "timestamp": "2026-03-13T06:00:16Z",
       "reported_at": "2026-03-13T05:20:18Z"
+    },
+    {
+      "id": "72a89664-89ee-4220-805f-e31bd0bdb829",
+      "latitude": -35.050509,
+      "longitude": 138.589441,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:22:40Z"
+    },
+    {
+      "id": "9da4a8cc-c240-43ec-9435-24655bdcb9c9",
+      "latitude": -35.018927,
+      "longitude": 138.579908,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:47:04Z"
+    },
+    {
+      "id": "0cd34098-34ae-4c2a-9b53-a1add45b2d90",
+      "latitude": -34.688355,
+      "longitude": 138.669828,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:48:28Z"
+    },
+    {
+      "id": "f35abfeb-2c8d-4dbe-9be5-be26bd2d7e89",
+      "latitude": -34.803446,
+      "longitude": 138.612517,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:56:24Z"
+    },
+    {
+      "id": "eb1307a1-2581-463a-9fe4-26c68846f9d3",
+      "latitude": -35.091771,
+      "longitude": 138.496371,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:54:18Z"
+    },
+    {
+      "id": "ba39e519-7da6-4a4c-9ad2-75a458bfaeaf",
+      "latitude": -35.135136,
+      "longitude": 138.486073,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:42:40Z"
+    },
+    {
+      "id": "4d74589b-4ad0-4eac-a6fb-f7ca61968336",
+      "latitude": -34.78012,
+      "longitude": 138.496057,
+      "street": "A16 - Victoria Rd",
+      "city": "Outer Harbor",
+      "type": "mobile",
+      "timestamp": "2026-03-13T06:00:16Z",
+      "reported_at": "2026-03-13T05:36:58Z"
     }
   ]
 }
