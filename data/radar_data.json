@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "1218315c-698e-4a34-b090-71fdac9fa975",
-      "latitude": -34.93275,
-      "longitude": 138.668627,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
+      "id": "ed5b5d62-11e7-43ca-9413-31526df3053f",
+      "latitude": -34.902377,
+      "longitude": 138.682386,
+      "street": "Moules Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-13T21:30:14Z",
-      "reported_at": "2026-03-13T21:07:31Z"
+      "timestamp": "2026-03-13T22:00:18Z",
+      "reported_at": "2026-03-13T21:44:51Z"
+    },
+    {
+      "id": "e56261e1-f047-4d48-957e-94fc3f09d657",
+      "latitude": -34.975688,
+      "longitude": 138.533557,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-13T22:00:18Z",
+      "reported_at": "2026-03-13T21:20:30Z"
+    },
+    {
+      "id": "50a48b80-3628-42a9-9f33-ed7ed502ee03",
+      "latitude": -34.924748,
+      "longitude": 138.618873,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-13T22:00:18Z",
+      "reported_at": "2026-03-13T21:06:22Z"
     },
     {
       "id": "259bd4c5-c92a-493e-8aa5-fe9e50bf5244",
@@ -17,18 +37,28 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-13T21:30:14Z",
+      "timestamp": "2026-03-13T22:00:18Z",
       "reported_at": "2026-03-13T21:03:38Z"
     },
     {
-      "id": "427301db-568d-4d64-b399-aadb666c61aa",
-      "latitude": -34.924594,
-      "longitude": 138.618657,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "7a104752-7e22-4cae-851d-469407c0218e",
+      "latitude": -34.813347,
+      "longitude": 138.627533,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-13T21:30:14Z",
-      "reported_at": "2026-03-13T21:06:13Z"
+      "timestamp": "2026-03-13T22:00:18Z",
+      "reported_at": "2026-03-13T21:34:52Z"
+    },
+    {
+      "id": "ec472b94-90eb-4f9f-ac29-db88f9fc6560",
+      "latitude": -34.840615,
+      "longitude": 138.674708,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-03-13T22:00:18Z",
+      "reported_at": "2026-03-13T21:12:15Z"
     }
   ]
 }
