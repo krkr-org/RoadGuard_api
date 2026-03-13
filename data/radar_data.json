@@ -1,64 +1,44 @@
 {
   "radars": [
     {
+      "id": "b261833d-cb4c-46c3-9263-54a3aa714e25",
+      "latitude": -34.738466,
+      "longitude": 138.666231,
+      "street": "Mofflin Rd",
+      "city": "Elizabeth Grove",
+      "type": "mobile",
+      "timestamp": "2026-03-13T00:30:15Z",
+      "reported_at": "2026-03-12T22:46:43Z"
+    },
+    {
       "id": "6c5f6fa1-3034-487b-9a12-05422ba03df6",
       "latitude": -34.737515,
       "longitude": 138.670903,
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
+      "timestamp": "2026-03-13T00:30:15Z",
       "reported_at": "2026-03-12T21:47:46Z"
     },
     {
-      "id": "38f9464c-97aa-41aa-8fe7-d6edbf94334c",
-      "latitude": -34.762094,
-      "longitude": 138.68441,
-      "street": "Target Hill Rd",
-      "city": "Salisbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
-      "reported_at": "2026-03-12T23:26:36Z"
-    },
-    {
-      "id": "bdb5f593-41ed-475a-af85-96c9912ada0e",
-      "latitude": -34.741824,
-      "longitude": 138.657366,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
-      "reported_at": "2026-03-12T21:05:48Z"
-    },
-    {
-      "id": "ceed4d77-d841-460e-bad2-d795f3c207ae",
-      "latitude": -34.743377,
-      "longitude": 138.610796,
-      "street": "Unknown Street",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
-      "reported_at": "2026-03-12T22:21:35Z"
-    },
-    {
-      "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
-      "latitude": -34.740522,
-      "longitude": 138.613378,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
-      "reported_at": "2026-03-12T21:09:35Z"
-    },
-    {
-      "id": "644ef4a8-87e0-4e9a-a950-f3e9fd54aa73",
-      "latitude": -34.745983,
-      "longitude": 138.635636,
+      "id": "3757c1c0-90d4-4cf4-ac79-7c917e9c7364",
+      "latitude": -34.744797,
+      "longitude": 138.634237,
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
-      "reported_at": "2026-03-12T21:13:26Z"
+      "timestamp": "2026-03-13T00:30:15Z",
+      "reported_at": "2026-03-12T22:57:51Z"
+    },
+    {
+      "id": "e9492972-ee9b-4292-9d89-4b31bd2d84f1",
+      "latitude": -34.744026,
+      "longitude": 138.657583,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-03-13T00:30:15Z",
+      "reported_at": "2026-03-12T23:32:48Z"
     },
     {
       "id": "ce165538-a5c7-431c-9b6f-b2bfe13d9134",
@@ -67,7 +47,7 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
+      "timestamp": "2026-03-13T00:30:15Z",
       "reported_at": "2026-03-12T23:31:02Z"
     },
     {
@@ -77,18 +57,38 @@
       "street": "A5 - Anzac Hwy",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
+      "timestamp": "2026-03-13T00:30:15Z",
       "reported_at": "2026-03-12T23:56:21Z"
     },
     {
-      "id": "9fd91d67-2cc1-40c7-9682-1cead3adb005",
-      "latitude": -34.793912,
-      "longitude": 138.650551,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "b0cae3c8-f013-448d-803d-d6418c396c96",
+      "latitude": -34.847962,
+      "longitude": 138.600971,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-13T00:00:18Z",
-      "reported_at": "2026-03-12T22:24:38Z"
+      "timestamp": "2026-03-13T00:30:15Z",
+      "reported_at": "2026-03-13T00:21:24Z"
+    },
+    {
+      "id": "e14f4f12-572c-4f56-81e0-740f39cdeb25",
+      "latitude": -34.695597,
+      "longitude": 138.685657,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-03-13T00:30:15Z",
+      "reported_at": "2026-03-13T00:02:33Z"
+    },
+    {
+      "id": "c8e60526-9eed-4a8e-87f6-75f69b9a10c2",
+      "latitude": -34.693351,
+      "longitude": 138.687084,
+      "street": "A20 - Main North Rd",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-03-13T00:30:15Z",
+      "reported_at": "2026-03-13T00:13:41Z"
     }
   ]
 }
