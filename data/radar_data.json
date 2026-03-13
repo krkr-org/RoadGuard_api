@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "4a2b305f-c0d5-4deb-a5c2-07d6b9f7d884",
+      "latitude": -34.875828,
+      "longitude": 138.68285,
+      "street": "Silkes Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T01:15:53Z"
+    },
+    {
       "id": "b261833d-cb4c-46c3-9263-54a3aa714e25",
       "latitude": -34.738466,
       "longitude": 138.666231,
       "street": "Mofflin Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
+      "timestamp": "2026-03-13T01:30:14Z",
       "reported_at": "2026-03-12T22:46:43Z"
     },
     {
@@ -17,8 +27,18 @@
       "street": "South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
+      "timestamp": "2026-03-13T01:30:14Z",
       "reported_at": "2026-03-12T23:33:26Z"
+    },
+    {
+      "id": "ece4482a-368d-40e3-aad5-18ab86d7758c",
+      "latitude": -34.929896,
+      "longitude": 138.604235,
+      "street": "Angas St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T01:08:11Z"
     },
     {
       "id": "6c5f6fa1-3034-487b-9a12-05422ba03df6",
@@ -27,38 +47,28 @@
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
+      "timestamp": "2026-03-13T01:30:14Z",
       "reported_at": "2026-03-12T21:47:46Z"
     },
     {
-      "id": "ce165538-a5c7-431c-9b6f-b2bfe13d9134",
-      "latitude": -35.058501,
-      "longitude": 138.602847,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "2d7f8040-af25-483b-a359-bb66a0d4bb38",
+      "latitude": -35.137503,
+      "longitude": 138.505984,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
-      "reported_at": "2026-03-12T23:31:02Z"
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T01:12:35Z"
     },
     {
-      "id": "644ef4a8-87e0-4e9a-a950-f3e9fd54aa73",
-      "latitude": -34.745983,
-      "longitude": 138.635636,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "e712603d-e24f-4985-baea-4aaf28e2ef10",
+      "latitude": -34.908847,
+      "longitude": 138.675746,
+      "street": "St. Bernards Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
-      "reported_at": "2026-03-12T21:13:26Z"
-    },
-    {
-      "id": "2ce4b73b-8204-4d75-a605-7776ca967006",
-      "latitude": -34.740522,
-      "longitude": 138.613378,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
-      "reported_at": "2026-03-12T21:09:35Z"
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T00:52:37Z"
     },
     {
       "id": "417ffd9a-e066-4e30-a469-ab5891197e08",
@@ -67,18 +77,38 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
+      "timestamp": "2026-03-13T01:30:14Z",
       "reported_at": "2026-03-12T22:42:51Z"
     },
     {
-      "id": "1f9e199e-e6bc-4632-8ae9-dd4eb91cdfe5",
-      "latitude": -34.846577,
-      "longitude": 138.601234,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
+      "id": "3757c1c0-90d4-4cf4-ac79-7c917e9c7364",
+      "latitude": -34.744797,
+      "longitude": 138.634237,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
-      "reported_at": "2026-03-13T00:23:38Z"
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-12T22:57:51Z"
+    },
+    {
+      "id": "e4fd8a3f-a161-4ce3-81d8-e4cd500c0116",
+      "latitude": -34.741132,
+      "longitude": 138.612858,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T00:35:02Z"
+    },
+    {
+      "id": "74893135-49e7-4623-a114-9aab24a284fa",
+      "latitude": -34.794018,
+      "longitude": 138.650691,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-12T22:42:19Z"
     },
     {
       "id": "437affd6-e789-4aab-9053-3fe8b1e17691",
@@ -87,28 +117,28 @@
       "street": "A18 - Kings Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
+      "timestamp": "2026-03-13T01:30:14Z",
       "reported_at": "2026-03-13T00:41:44Z"
     },
     {
-      "id": "9fd91d67-2cc1-40c7-9682-1cead3adb005",
-      "latitude": -34.793912,
-      "longitude": 138.650551,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "fa186abd-eb48-41f5-868e-135ba963750e",
+      "latitude": -34.766934,
+      "longitude": 138.590759,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
-      "reported_at": "2026-03-12T22:24:38Z"
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T01:19:38Z"
     },
     {
-      "id": "fcffa21c-70db-4db4-a8e1-1e87125d88d7",
-      "latitude": -34.695622,
-      "longitude": 138.685641,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
+      "id": "6a946dc6-3cbf-4dda-bece-9f6c9db41144",
+      "latitude": -35.004876,
+      "longitude": 138.768962,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-03-13T01:00:17Z",
-      "reported_at": "2026-03-13T00:02:29Z"
+      "timestamp": "2026-03-13T01:30:14Z",
+      "reported_at": "2026-03-13T01:02:54Z"
     }
   ]
 }
