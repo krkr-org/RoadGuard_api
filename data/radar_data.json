@@ -1,44 +1,34 @@
 {
   "radars": [
     {
+      "id": "0e07cfe1-f232-4d47-b821-3faa5e24f612",
+      "latitude": -34.831602,
+      "longitude": 138.496393,
+      "street": "Matilda St",
+      "city": "Peterhead",
+      "type": "mobile",
+      "timestamp": "2026-03-13T14:00:15Z",
+      "reported_at": "2026-03-13T11:33:36Z"
+    },
+    {
       "id": "308f5c8a-665b-417c-af00-b670eb110c07",
       "latitude": -34.908357,
       "longitude": 138.491,
       "street": "Seaview Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-13T13:30:14Z",
+      "timestamp": "2026-03-13T14:00:15Z",
       "reported_at": "2026-03-13T10:04:06Z"
     },
     {
-      "id": "0a39eb76-d7f1-4a89-859f-04dd1a1f3413",
-      "latitude": -34.99344,
-      "longitude": 138.561389,
-      "street": "Daws Rd",
-      "city": "Ascot Park",
+      "id": "8b6e2752-f3f7-4873-b971-f2d3f8774696",
+      "latitude": -34.893492,
+      "longitude": 138.603591,
+      "street": "Unknown Street",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-03-13T13:30:14Z",
-      "reported_at": "2026-03-13T12:52:16Z"
-    },
-    {
-      "id": "2836d852-bc49-4d85-b409-8a7975c1d82e",
-      "latitude": -34.845273,
-      "longitude": 138.694069,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-03-13T13:30:14Z",
-      "reported_at": "2026-03-13T13:04:30Z"
-    },
-    {
-      "id": "e3203b55-44ea-444f-8ec8-c943362e3c33",
-      "latitude": -34.826163,
-      "longitude": 138.605286,
-      "street": "Montague Rd",
-      "city": "Cavan",
-      "type": "mobile",
-      "timestamp": "2026-03-13T13:30:14Z",
-      "reported_at": "2026-03-13T13:00:06Z"
+      "timestamp": "2026-03-13T14:00:15Z",
+      "reported_at": "2026-03-13T13:27:41Z"
     }
   ]
 }
