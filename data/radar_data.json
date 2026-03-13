@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "f05d7304-e609-496c-8d82-87966d83fae8",
-      "latitude": -34.885706,
-      "longitude": 138.701761,
-      "street": "Montacute Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
-      "reported_at": "2026-03-13T20:59:01Z"
-    },
-    {
       "id": "aff78b6d-a680-4332-9111-f4e6a6736e36",
       "latitude": -34.933078,
       "longitude": 138.668658,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
+      "timestamp": "2026-03-13T23:00:16Z",
       "reported_at": "2026-03-13T22:21:35Z"
     },
     {
-      "id": "ed5b5d62-11e7-43ca-9413-31526df3053f",
-      "latitude": -34.902377,
-      "longitude": 138.682386,
-      "street": "Moules Rd",
-      "city": "Rostrevor",
+      "id": "f05d7304-e609-496c-8d82-87966d83fae8",
+      "latitude": -34.885706,
+      "longitude": 138.701761,
+      "street": "Montacute Rd",
+      "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
-      "reported_at": "2026-03-13T21:44:51Z"
+      "timestamp": "2026-03-13T23:00:16Z",
+      "reported_at": "2026-03-13T20:59:01Z"
+    },
+    {
+      "id": "836a15da-02d2-4348-b883-3bdc43e99184",
+      "latitude": -34.971512,
+      "longitude": 138.528461,
+      "street": "Pine Av",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-13T23:00:16Z",
+      "reported_at": "2026-03-13T22:57:20Z"
+    },
+    {
+      "id": "60847911-eef2-4c58-8f39-295145134dcc",
+      "latitude": -35.081021,
+      "longitude": 138.586516,
+      "street": "Windebanks Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-13T23:00:16Z",
+      "reported_at": "2026-03-13T22:39:17Z"
     },
     {
       "id": "259bd4c5-c92a-493e-8aa5-fe9e50bf5244",
@@ -37,7 +47,7 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
+      "timestamp": "2026-03-13T23:00:16Z",
       "reported_at": "2026-03-13T21:03:38Z"
     },
     {
@@ -47,18 +57,8 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
+      "timestamp": "2026-03-13T23:00:16Z",
       "reported_at": "2026-03-13T21:34:52Z"
-    },
-    {
-      "id": "22eb17d5-df68-446b-bcf5-cc781aed6db7",
-      "latitude": -34.837539,
-      "longitude": 138.67835,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
-      "reported_at": "2026-03-13T20:59:40Z"
     },
     {
       "id": "aa9287c5-f64d-4c24-ba9d-d49adc8709d1",
@@ -67,8 +67,28 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-13T22:30:14Z",
+      "timestamp": "2026-03-13T23:00:16Z",
       "reported_at": "2026-03-13T22:13:49Z"
+    },
+    {
+      "id": "22eb17d5-df68-446b-bcf5-cc781aed6db7",
+      "latitude": -34.837539,
+      "longitude": 138.67835,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-03-13T23:00:16Z",
+      "reported_at": "2026-03-13T20:59:40Z"
+    },
+    {
+      "id": "0fd6616d-7588-4be5-a723-9ffd20114665",
+      "latitude": -34.776111,
+      "longitude": 138.682287,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-13T23:00:16Z",
+      "reported_at": "2026-03-13T22:38:08Z"
     }
   ]
 }
