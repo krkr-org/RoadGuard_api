@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "90ef092e-2110-46f8-a4e3-50df094ce160",
-      "latitude": -34.907355,
-      "longitude": 138.653408,
-      "street": "Gwynne St",
-      "city": "Firle",
-      "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
-      "reported_at": "2026-03-13T23:38:52Z"
-    },
-    {
       "id": "62eaa82b-db5e-43aa-aab6-2b418a1afd05",
       "latitude": -34.873098,
       "longitude": 138.683072,
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-13T23:52:33Z"
+    },
+    {
+      "id": "33bc51e6-ec3e-4630-b20d-f575c5600e9b",
+      "latitude": -34.728012,
+      "longitude": 138.661369,
+      "street": "Goodman Rd",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-03-14T03:00:18Z",
+      "reported_at": "2026-03-14T02:40:38Z"
     },
     {
       "id": "da1f380d-e2e8-4077-ae7c-ec678a525387",
@@ -27,7 +27,7 @@
       "street": "Edward St",
       "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-14T00:04:23Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-14T01:29:38Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-13T22:58:58Z"
     },
     {
@@ -57,28 +57,8 @@
       "street": "The Promenade",
       "city": "Northgate",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-13T23:45:03Z"
-    },
-    {
-      "id": "f05d7304-e609-496c-8d82-87966d83fae8",
-      "latitude": -34.885706,
-      "longitude": 138.701761,
-      "street": "Montacute Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
-      "reported_at": "2026-03-13T20:59:01Z"
-    },
-    {
-      "id": "5d87909b-0542-48fe-a89e-e7740c15cc73",
-      "latitude": -34.829564,
-      "longitude": 138.692897,
-      "street": "Unknown Street",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
-      "reported_at": "2026-03-14T02:21:01Z"
     },
     {
       "id": "041f372b-c999-4176-bc6d-02f1e73f67f8",
@@ -87,28 +67,18 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-14T00:56:15Z"
     },
     {
-      "id": "86dfbe7d-da80-4649-bba1-43db50366554",
-      "latitude": -34.912892,
-      "longitude": 138.678301,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
+      "id": "ab2053b0-5be4-475a-bf56-4c6c457a55c9",
+      "latitude": -34.934974,
+      "longitude": 138.795618,
+      "street": "B27 - Lobethal Rd",
+      "city": "Forest Range",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
-      "reported_at": "2026-03-14T01:40:14Z"
-    },
-    {
-      "id": "3d21ab2b-7d89-4310-8ebd-da6d30202e39",
-      "latitude": -34.842657,
-      "longitude": 138.604093,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
-      "reported_at": "2026-03-14T02:07:50Z"
+      "timestamp": "2026-03-14T03:00:18Z",
+      "reported_at": "2026-03-13T23:39:28Z"
     },
     {
       "id": "a049f7c9-71ca-4468-97f5-5b4f70297b7b",
@@ -117,7 +87,7 @@
       "street": "B10 - North East Rd",
       "city": "Inglewood",
       "type": "mobile",
-      "timestamp": "2026-03-14T02:30:16Z",
+      "timestamp": "2026-03-14T03:00:18Z",
       "reported_at": "2026-03-13T23:14:38Z"
     }
   ]
