@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "8feca5d0-b201-49a6-b8ed-707c08fd433c",
-      "latitude": -35.129722,
-      "longitude": 138.498334,
+      "id": "c9975bb9-cd3d-436a-b878-2fb80c9934dc",
+      "latitude": -35.137062,
+      "longitude": 138.498842,
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T10:26:38Z"
+      "timestamp": "2026-03-14T11:30:14Z",
+      "reported_at": "2026-03-14T11:10:56Z"
     },
     {
       "id": "bbca6d55-2d80-49b8-a8ce-06ed02fa6758",
@@ -17,28 +17,38 @@
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
+      "timestamp": "2026-03-14T11:30:14Z",
       "reported_at": "2026-03-14T09:48:45Z"
     },
     {
-      "id": "f3b57737-77a2-4620-9176-c7e9ea3592c8",
-      "latitude": -34.910039,
-      "longitude": 138.491733,
+      "id": "197cecaf-9a4c-4821-87bd-cad1dfd1dba5",
+      "latitude": -34.909768,
+      "longitude": 138.491662,
       "street": "Seaview Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T10:07:48Z"
+      "timestamp": "2026-03-14T11:30:14Z",
+      "reported_at": "2026-03-14T11:08:00Z"
     },
     {
-      "id": "24852071-cf94-4a36-a1ae-2e60c10eb056",
-      "latitude": -35.072503,
-      "longitude": 138.605483,
+      "id": "891ac314-b826-4faa-870f-1f42e6cf0878",
+      "latitude": -35.061204,
+      "longitude": 138.544283,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T11:30:14Z",
+      "reported_at": "2026-03-14T06:53:40Z"
+    },
+    {
+      "id": "95c45b86-0069-4809-99ed-d07f52c85e8c",
+      "latitude": -35.07259,
+      "longitude": 138.604079,
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T05:09:16Z"
+      "timestamp": "2026-03-14T11:30:14Z",
+      "reported_at": "2026-03-14T10:34:26Z"
     },
     {
       "id": "e44b220e-8a0e-4b59-9677-e29d89863850",
@@ -47,18 +57,8 @@
       "street": "Oakridge Rd",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
+      "timestamp": "2026-03-14T11:30:14Z",
       "reported_at": "2026-03-14T10:29:14Z"
-    },
-    {
-      "id": "d81af136-7779-40dc-841a-981e1d069574",
-      "latitude": -35.01107,
-      "longitude": 138.577759,
-      "street": "to Ayliffes Rd / Goodwood Rd",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T10:28:07Z"
     },
     {
       "id": "14245288-ce14-430e-ab8d-4e12e20c605d",
@@ -67,18 +67,8 @@
       "street": "Yatala Vale Rd",
       "city": "Yatala Vale",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
+      "timestamp": "2026-03-14T11:30:14Z",
       "reported_at": "2026-03-14T07:36:09Z"
-    },
-    {
-      "id": "e2784b4b-c08a-417a-aace-6aa792746f1f",
-      "latitude": -34.826414,
-      "longitude": 138.603514,
-      "street": "Montague Rd",
-      "city": "Cavan",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T08:58:38Z"
     },
     {
       "id": "f2cdcb13-1b39-492a-bfb3-a8bfb952d946",
@@ -87,8 +77,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
+      "timestamp": "2026-03-14T11:30:14Z",
       "reported_at": "2026-03-14T10:05:34Z"
+    },
+    {
+      "id": "2d2e417b-6874-4434-8956-989dbdcfd0ae",
+      "latitude": -34.992559,
+      "longitude": 138.574783,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-03-14T11:30:14Z",
+      "reported_at": "2026-03-14T11:02:29Z"
     },
     {
       "id": "4ef818e0-4b2f-4095-8954-7eafa24fe803",
@@ -97,18 +97,18 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
+      "timestamp": "2026-03-14T11:30:14Z",
       "reported_at": "2026-03-14T10:23:31Z"
     },
     {
-      "id": "fbea113c-1eb2-4a11-85b4-0d90de2f6c8e",
-      "latitude": -34.779316,
-      "longitude": 138.626497,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury Downs",
+      "id": "8b9a1829-2007-4300-bb8c-bc3fa20f3de2",
+      "latitude": -34.993498,
+      "longitude": 138.574855,
+      "street": "A2 - South Rd",
+      "city": "Clovelly Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T10:32:53Z"
+      "timestamp": "2026-03-14T11:30:14Z",
+      "reported_at": "2026-03-14T11:00:34Z"
     },
     {
       "id": "418edb13-1eef-4ce0-be11-a4321d589990",
@@ -117,18 +117,8 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
+      "timestamp": "2026-03-14T11:30:14Z",
       "reported_at": "2026-03-14T10:51:22Z"
-    },
-    {
-      "id": "363e0271-b4f5-480f-a172-d09163c0d5f9",
-      "latitude": -34.8274,
-      "longitude": 138.562864,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:00:18Z",
-      "reported_at": "2026-03-14T10:43:50Z"
     }
   ]
 }
