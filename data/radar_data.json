@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "bbca6d55-2d80-49b8-a8ce-06ed02fa6758",
-      "latitude": -35.130693,
-      "longitude": 138.480193,
+      "id": "adbbf142-315d-417f-9d1a-f753c01218ec",
+      "latitude": -35.13079,
+      "longitude": 138.478388,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:00:21Z",
-      "reported_at": "2026-03-14T09:48:45Z"
+      "timestamp": "2026-03-14T12:30:13Z",
+      "reported_at": "2026-03-14T08:16:07Z"
     },
     {
       "id": "95c45b86-0069-4809-99ed-d07f52c85e8c",
@@ -17,7 +17,7 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:00:21Z",
+      "timestamp": "2026-03-14T12:30:13Z",
       "reported_at": "2026-03-14T10:34:26Z"
     },
     {
@@ -27,8 +27,38 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:00:21Z",
+      "timestamp": "2026-03-14T12:30:13Z",
       "reported_at": "2026-03-14T10:05:34Z"
+    },
+    {
+      "id": "f8c4a05e-8888-4013-bca8-8c64aa86bb5c",
+      "latitude": -35.010944,
+      "longitude": 138.581587,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-14T12:30:13Z",
+      "reported_at": "2026-03-14T11:45:51Z"
+    },
+    {
+      "id": "fe5403de-9ded-4b7e-9800-08c89ec1ce3a",
+      "latitude": -34.926835,
+      "longitude": 138.593752,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-14T12:30:13Z",
+      "reported_at": "2026-03-14T12:20:58Z"
+    },
+    {
+      "id": "392bb111-8b79-4da6-9878-27f1675bb97e",
+      "latitude": -34.808263,
+      "longitude": 138.600311,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-14T12:30:13Z",
+      "reported_at": "2026-03-14T12:08:06Z"
     },
     {
       "id": "4ef818e0-4b2f-4095-8954-7eafa24fe803",
@@ -37,7 +67,7 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:00:21Z",
+      "timestamp": "2026-03-14T12:30:13Z",
       "reported_at": "2026-03-14T10:23:31Z"
     }
   ]
