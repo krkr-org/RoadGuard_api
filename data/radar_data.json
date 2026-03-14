@@ -1,43 +1,33 @@
 {
   "radars": [
     {
-      "id": "76b043f8-76e4-49d3-8f86-124124dc3ca7",
-      "latitude": -34.985456,
-      "longitude": 138.570462,
-      "street": "Waverley Av",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
-      "reported_at": "2026-03-14T03:22:33Z"
-    },
-    {
-      "id": "95896d13-0bb2-41bd-bf9a-161106ce4a5e",
-      "latitude": -34.931552,
-      "longitude": 138.668521,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
-      "reported_at": "2026-03-14T01:29:38Z"
-    },
-    {
       "id": "825808dd-b18e-468e-bc08-953027775324",
       "latitude": -34.902453,
       "longitude": 138.680305,
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
+      "timestamp": "2026-03-14T04:30:15Z",
       "reported_at": "2026-03-14T00:28:55Z"
     },
     {
+      "id": "8728e97e-51d5-4ca9-962e-48f6073e14a2",
+      "latitude": -34.930711,
+      "longitude": 138.668421,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-03-14T04:30:15Z",
+      "reported_at": "2026-03-14T00:41:08Z"
+    },
+    {
       "id": "041f372b-c999-4176-bc6d-02f1e73f67f8",
-      "latitude": -35.145475,
-      "longitude": 138.660742,
+      "latitude": -35.145662,
+      "longitude": 138.660756,
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
+      "timestamp": "2026-03-14T04:30:15Z",
       "reported_at": "2026-03-14T00:56:15Z"
     },
     {
@@ -47,28 +37,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
+      "timestamp": "2026-03-14T04:30:15Z",
       "reported_at": "2026-03-14T03:47:38Z"
-    },
-    {
-      "id": "857023cc-61e0-4e94-b61d-00004da2528a",
-      "latitude": -34.914252,
-      "longitude": 138.513174,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
-      "reported_at": "2026-03-14T03:52:23Z"
-    },
-    {
-      "id": "ab2053b0-5be4-475a-bf56-4c6c457a55c9",
-      "latitude": -34.934974,
-      "longitude": 138.795618,
-      "street": "B27 - Lobethal Rd",
-      "city": "Forest Range",
-      "type": "mobile",
-      "timestamp": "2026-03-14T04:00:16Z",
-      "reported_at": "2026-03-13T23:39:28Z"
     }
   ]
 }
