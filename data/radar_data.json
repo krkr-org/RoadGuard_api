@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "adbbf142-315d-417f-9d1a-f753c01218ec",
-      "latitude": -35.13079,
-      "longitude": 138.478388,
+      "id": "bbca6d55-2d80-49b8-a8ce-06ed02fa6758",
+      "latitude": -35.130693,
+      "longitude": 138.480193,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
-      "reported_at": "2026-03-14T08:16:07Z"
+      "timestamp": "2026-03-14T13:00:16Z",
+      "reported_at": "2026-03-14T09:48:45Z"
     },
     {
       "id": "95c45b86-0069-4809-99ed-d07f52c85e8c",
@@ -17,8 +17,18 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
+      "timestamp": "2026-03-14T13:00:16Z",
       "reported_at": "2026-03-14T10:34:26Z"
+    },
+    {
+      "id": "1fe1c50b-bc56-46a8-9cb5-50f5742bf2d1",
+      "latitude": -35.010795,
+      "longitude": 138.584332,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-14T13:00:16Z",
+      "reported_at": "2026-03-14T12:29:41Z"
     },
     {
       "id": "f2cdcb13-1b39-492a-bfb3-a8bfb952d946",
@@ -27,48 +37,28 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
+      "timestamp": "2026-03-14T13:00:16Z",
       "reported_at": "2026-03-14T10:05:34Z"
     },
     {
-      "id": "f8c4a05e-8888-4013-bca8-8c64aa86bb5c",
-      "latitude": -35.010944,
-      "longitude": 138.581587,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "71bc35a4-b4fa-45b1-b9db-350b6eeb3f0f",
+      "latitude": -34.865538,
+      "longitude": 138.644496,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
-      "reported_at": "2026-03-14T11:45:51Z"
+      "timestamp": "2026-03-14T13:00:16Z",
+      "reported_at": "2026-03-14T12:58:50Z"
     },
     {
-      "id": "fe5403de-9ded-4b7e-9800-08c89ec1ce3a",
-      "latitude": -34.926835,
-      "longitude": 138.593752,
-      "street": "Morphett St",
-      "city": "Adelaide",
+      "id": "b9f61bd5-5ac9-49b9-8fcf-7088a56afe62",
+      "latitude": -34.739418,
+      "longitude": 138.675895,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
-      "reported_at": "2026-03-14T12:20:58Z"
-    },
-    {
-      "id": "392bb111-8b79-4da6-9878-27f1675bb97e",
-      "latitude": -34.808263,
-      "longitude": 138.600311,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
-      "reported_at": "2026-03-14T12:08:06Z"
-    },
-    {
-      "id": "4ef818e0-4b2f-4095-8954-7eafa24fe803",
-      "latitude": -34.929214,
-      "longitude": 138.587284,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-14T12:30:13Z",
-      "reported_at": "2026-03-14T10:23:31Z"
+      "timestamp": "2026-03-14T13:00:16Z",
+      "reported_at": "2026-03-14T12:37:08Z"
     }
   ]
 }
