@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "7e35ec4b-bc39-488c-a3b1-388f6801d06a",
-      "latitude": -35.072712,
-      "longitude": 138.60577,
-      "street": "Heatherwood Dr",
-      "city": "Aberfoyle Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T05:06:27Z"
-    },
-    {
-      "id": "a5b29110-729e-4346-857c-bdbe0620135c",
-      "latitude": -35.130695,
-      "longitude": 138.480167,
+      "id": "8506ab1f-b33b-4336-94fb-20d736627d9e",
+      "latitude": -35.130651,
+      "longitude": 138.481011,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T05:36:11Z"
+      "timestamp": "2026-03-14T09:30:13Z",
+      "reported_at": "2026-03-14T05:06:14Z"
+    },
+    {
+      "id": "5012d5cf-409a-4b0c-9f4a-6f00b2ce7a88",
+      "latitude": -34.909046,
+      "longitude": 138.491474,
+      "street": "Seaview Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-14T09:30:13Z",
+      "reported_at": "2026-03-14T09:12:36Z"
     },
     {
       "id": "eddb800c-cd82-488e-b3ec-b62f5907e81a",
@@ -27,7 +27,7 @@
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
+      "timestamp": "2026-03-14T09:30:13Z",
       "reported_at": "2026-03-14T05:54:34Z"
     },
     {
@@ -37,28 +37,38 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
+      "timestamp": "2026-03-14T09:30:13Z",
       "reported_at": "2026-03-14T06:28:35Z"
     },
     {
-      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
-      "latitude": -35.062179,
-      "longitude": 138.544356,
+      "id": "891ac314-b826-4faa-870f-1f42e6cf0878",
+      "latitude": -35.061204,
+      "longitude": 138.544283,
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T05:24:34Z"
+      "timestamp": "2026-03-14T09:30:13Z",
+      "reported_at": "2026-03-14T06:53:40Z"
     },
     {
-      "id": "13c74168-60ed-40f6-8cca-6a86682557ee",
-      "latitude": -35.100027,
-      "longitude": 138.520661,
+      "id": "b757b289-7b4c-4009-96ac-4999e8920c7d",
+      "latitude": -35.10019,
+      "longitude": 138.517549,
       "street": "Moore Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T05:16:51Z"
+      "timestamp": "2026-03-14T09:30:13Z",
+      "reported_at": "2026-03-14T05:28:51Z"
+    },
+    {
+      "id": "24852071-cf94-4a36-a1ae-2e60c10eb056",
+      "latitude": -35.072503,
+      "longitude": 138.605483,
+      "street": "Homestead Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T09:30:13Z",
+      "reported_at": "2026-03-14T05:09:16Z"
     },
     {
       "id": "23d94f93-5faa-418d-8558-2d459b0ccc7c",
@@ -67,7 +77,7 @@
       "street": "Oakridge Rd",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
+      "timestamp": "2026-03-14T09:30:13Z",
       "reported_at": "2026-03-14T05:29:26Z"
     },
     {
@@ -77,48 +87,18 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
+      "timestamp": "2026-03-14T09:30:13Z",
       "reported_at": "2026-03-14T06:29:10Z"
     },
     {
-      "id": "9e5af8a2-023e-47e3-835e-9cdc63576142",
-      "latitude": -35.015338,
-      "longitude": 138.558626,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "e2784b4b-c08a-417a-aace-6aa792746f1f",
+      "latitude": -34.826414,
+      "longitude": 138.603514,
+      "street": "Montague Rd",
+      "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T08:27:12Z"
-    },
-    {
-      "id": "dc58696d-ff67-41e8-a605-0784c5249ff8",
-      "latitude": -34.699564,
-      "longitude": 138.683163,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T08:57:59Z"
-    },
-    {
-      "id": "1ba54426-7763-4f45-b65d-3417f9837dff",
-      "latitude": -34.858219,
-      "longitude": 138.565556,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T08:33:40Z"
-    },
-    {
-      "id": "024d40ba-10f0-4073-ab03-0b9d0a3294ee",
-      "latitude": -35.008006,
-      "longitude": 138.575647,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T09:00:16Z",
-      "reported_at": "2026-03-14T08:24:21Z"
+      "timestamp": "2026-03-14T09:30:13Z",
+      "reported_at": "2026-03-14T08:58:38Z"
     }
   ]
 }
