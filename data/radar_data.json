@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "3fc034f5-da71-409c-8801-63e1e489a1df",
+      "latitude": -35.129797,
+      "longitude": 138.49834,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T05:23:07Z"
+    },
+    {
       "id": "a5b29110-729e-4346-857c-bdbe0620135c",
       "latitude": -35.130652,
       "longitude": 138.480904,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T06:00:16Z",
+      "timestamp": "2026-03-14T06:30:14Z",
       "reported_at": "2026-03-14T05:36:11Z"
     },
     {
       "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
-      "latitude": -35.062919,
-      "longitude": 138.544374,
+      "latitude": -35.062179,
+      "longitude": 138.544356,
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T06:00:16Z",
+      "timestamp": "2026-03-14T06:30:14Z",
       "reported_at": "2026-03-14T05:24:34Z"
+    },
+    {
+      "id": "9df7c091-50ab-4dc4-acc5-220881714ec4",
+      "latitude": -35.072566,
+      "longitude": 138.604499,
+      "street": "Homestead Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T06:04:05Z"
+    },
+    {
+      "id": "cf5d0833-4816-403c-8cfa-47381d27f5a9",
+      "latitude": -34.9147,
+      "longitude": 138.565269,
+      "street": "Ashwin Pde",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T06:00:46Z"
     },
     {
       "id": "23d94f93-5faa-418d-8558-2d459b0ccc7c",
@@ -27,38 +57,48 @@
       "street": "Oakridge Rd",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T06:00:16Z",
+      "timestamp": "2026-03-14T06:30:14Z",
       "reported_at": "2026-03-14T05:29:26Z"
     },
     {
-      "id": "19c67cd4-d3bd-4638-b772-b4eb41d03bc0",
-      "latitude": -34.923949,
-      "longitude": 138.610969,
-      "street": "East Tce",
-      "city": "Adelaide",
+      "id": "f2e33339-db30-4303-b1af-fe3b5022831d",
+      "latitude": -35.144317,
+      "longitude": 138.660657,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-03-14T06:00:16Z",
-      "reported_at": "2026-03-14T05:53:04Z"
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T03:30:15Z"
     },
     {
-      "id": "564c4783-48f2-4869-92cf-d07e13923aaf",
-      "latitude": -34.856567,
-      "longitude": 138.502492,
+      "id": "e7d88855-9a6d-4cde-808b-57506a072393",
+      "latitude": -34.856937,
+      "longitude": 138.502368,
       "street": "Old Port Rd",
-      "city": "Port Adelaide",
+      "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-14T06:00:16Z",
-      "reported_at": "2026-03-14T05:35:32Z"
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T06:20:39Z"
     },
     {
-      "id": "c512fa27-6dc5-492d-ba6c-50edf7d21424",
-      "latitude": -34.733573,
-      "longitude": 138.594293,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
+      "id": "e1ddc682-503e-45e2-84e6-00720757bedf",
+      "latitude": -34.766323,
+      "longitude": 138.60522,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-03-14T06:00:16Z",
-      "reported_at": "2026-03-14T05:37:14Z"
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T06:21:57Z"
+    },
+    {
+      "id": "1e0f05fb-099d-40ad-b693-c306620e9870",
+      "latitude": -34.785111,
+      "longitude": 138.581847,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-03-14T06:30:14Z",
+      "reported_at": "2026-03-14T06:19:55Z"
     }
   ]
 }
