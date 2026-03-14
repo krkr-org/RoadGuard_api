@@ -1,44 +1,74 @@
 {
   "radars": [
     {
+      "id": "8506ab1f-b33b-4336-94fb-20d736627d9e",
+      "latitude": -35.130651,
+      "longitude": 138.481011,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-14T05:30:15Z",
+      "reported_at": "2026-03-14T05:06:14Z"
+    },
+    {
+      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
+      "latitude": -35.062919,
+      "longitude": 138.544374,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T05:30:15Z",
+      "reported_at": "2026-03-14T05:24:34Z"
+    },
+    {
       "id": "4fcc4d14-9a3d-4346-b553-07a42445a91c",
       "latitude": -34.914678,
       "longitude": 138.564225,
       "street": "Ashwin Pde",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-03-14T05:00:19Z",
+      "timestamp": "2026-03-14T05:30:15Z",
       "reported_at": "2026-03-14T02:18:28Z"
     },
     {
-      "id": "8728e97e-51d5-4ca9-962e-48f6073e14a2",
-      "latitude": -34.930711,
-      "longitude": 138.668421,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
+      "id": "96a09205-439b-4dcf-b3c8-de77bdbd5ce4",
+      "latitude": -34.693974,
+      "longitude": 138.692357,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-03-14T05:00:19Z",
-      "reported_at": "2026-03-14T00:41:08Z"
+      "timestamp": "2026-03-14T05:30:15Z",
+      "reported_at": "2026-03-14T05:07:39Z"
     },
     {
-      "id": "041f372b-c999-4176-bc6d-02f1e73f67f8",
-      "latitude": -35.145662,
-      "longitude": 138.660756,
+      "id": "9b5fdc26-1d51-4850-93b4-a0c885f1937f",
+      "latitude": -34.853065,
+      "longitude": 138.478767,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T05:30:15Z",
+      "reported_at": "2026-03-14T05:12:36Z"
+    },
+    {
+      "id": "9fc1bf62-2cfc-4a54-b371-1ffde4f5c231",
+      "latitude": -34.976667,
+      "longitude": 138.514336,
+      "street": "Anzac Hwy",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-03-14T05:30:15Z",
+      "reported_at": "2026-03-14T04:59:42Z"
+    },
+    {
+      "id": "f2e33339-db30-4303-b1af-fe3b5022831d",
+      "latitude": -35.144317,
+      "longitude": 138.660657,
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-03-14T05:00:19Z",
-      "reported_at": "2026-03-14T00:56:15Z"
-    },
-    {
-      "id": "2c7ffbf2-9dbd-4154-8a99-6430b8e52689",
-      "latitude": -34.823569,
-      "longitude": 138.499788,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-03-14T05:00:19Z",
-      "reported_at": "2026-03-14T04:40:20Z"
+      "timestamp": "2026-03-14T05:30:15Z",
+      "reported_at": "2026-03-14T03:30:15Z"
     }
   ]
 }
