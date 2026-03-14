@@ -7,7 +7,7 @@
       "street": "Heatherwood Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T05:06:27Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T05:36:11Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T05:54:34Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T06:28:35Z"
+    },
+    {
+      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
+      "latitude": -35.062179,
+      "longitude": 138.544356,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T09:00:16Z",
+      "reported_at": "2026-03-14T05:24:34Z"
     },
     {
       "id": "13c74168-60ed-40f6-8cca-6a86682557ee",
@@ -47,7 +57,7 @@
       "street": "Moore Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T05:16:51Z"
     },
     {
@@ -57,18 +67,8 @@
       "street": "Oakridge Rd",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T05:29:26Z"
-    },
-    {
-      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
-      "latitude": -35.062179,
-      "longitude": 138.544356,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
-      "reported_at": "2026-03-14T05:24:34Z"
     },
     {
       "id": "1dc6e116-8ab8-4e5c-a19a-c739522cf8aa",
@@ -77,48 +77,38 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T06:29:10Z"
     },
     {
-      "id": "3adf9d71-09c9-42af-ba0e-f268731944a8",
-      "latitude": -34.921196,
-      "longitude": 138.634092,
-      "street": "The Parade",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
-      "reported_at": "2026-03-14T07:59:52Z"
-    },
-    {
-      "id": "7dbc11b3-b68d-4f6c-a67c-e674ad7934a3",
-      "latitude": -34.811165,
-      "longitude": 138.635096,
-      "street": "Maxwell Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
-      "reported_at": "2026-03-14T07:54:22Z"
-    },
-    {
-      "id": "91aef38d-5a5a-47ce-b001-6a9cb55042e9",
-      "latitude": -34.857493,
-      "longitude": 138.502562,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
-      "reported_at": "2026-03-14T07:35:12Z"
-    },
-    {
-      "id": "b1ba76d1-7c27-482c-910e-e5ac228ca7b9",
-      "latitude": -35.007827,
-      "longitude": 138.55815,
+      "id": "9e5af8a2-023e-47e3-835e-9cdc63576142",
+      "latitude": -35.015338,
+      "longitude": 138.558626,
       "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
-      "reported_at": "2026-03-14T08:15:25Z"
+      "timestamp": "2026-03-14T09:00:16Z",
+      "reported_at": "2026-03-14T08:27:12Z"
+    },
+    {
+      "id": "dc58696d-ff67-41e8-a605-0784c5249ff8",
+      "latitude": -34.699564,
+      "longitude": 138.683163,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-03-14T09:00:16Z",
+      "reported_at": "2026-03-14T08:57:59Z"
+    },
+    {
+      "id": "1ba54426-7763-4f45-b65d-3417f9837dff",
+      "latitude": -34.858219,
+      "longitude": 138.565556,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T09:00:16Z",
+      "reported_at": "2026-03-14T08:33:40Z"
     },
     {
       "id": "024d40ba-10f0-4073-ab03-0b9d0a3294ee",
@@ -127,7 +117,7 @@
       "street": "M2 - Southern Exp",
       "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T08:30:15Z",
+      "timestamp": "2026-03-14T09:00:16Z",
       "reported_at": "2026-03-14T08:24:21Z"
     }
   ]
