@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "62eaa82b-db5e-43aa-aab6-2b418a1afd05",
+      "latitude": -34.873098,
+      "longitude": 138.683072,
+      "street": "Silkes Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-14T00:00:19Z",
+      "reported_at": "2026-03-13T23:52:33Z"
+    },
+    {
       "id": "1218315c-698e-4a34-b090-71fdac9fa975",
       "latitude": -34.93275,
       "longitude": 138.668627,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
+      "timestamp": "2026-03-14T00:00:19Z",
       "reported_at": "2026-03-13T21:07:31Z"
-    },
-    {
-      "id": "ed5b5d62-11e7-43ca-9413-31526df3053f",
-      "latitude": -34.902333,
-      "longitude": 138.682754,
-      "street": "Moules Rd",
-      "city": "Rostrevor",
-      "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T21:44:51Z"
-    },
-    {
-      "id": "836a15da-02d2-4348-b883-3bdc43e99184",
-      "latitude": -34.971512,
-      "longitude": 138.528461,
-      "street": "Pine Av",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T22:57:20Z"
-    },
-    {
-      "id": "a2bc4630-87f0-4860-9210-4e152cb01f2b",
-      "latitude": -34.811071,
-      "longitude": 138.646672,
-      "street": "Williamson Rd",
-      "city": "Para Hills",
-      "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T23:07:33Z"
     },
     {
       "id": "f05d7304-e609-496c-8d82-87966d83fae8",
@@ -47,28 +27,18 @@
       "street": "Montacute Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
+      "timestamp": "2026-03-14T00:00:19Z",
       "reported_at": "2026-03-13T20:59:01Z"
     },
     {
-      "id": "58c71758-b4e3-4d2e-9808-7a89e94d4450",
-      "latitude": -35.017608,
-      "longitude": 138.550209,
-      "street": "Sturt Rd",
-      "city": "Sturt",
+      "id": "ed5b5d62-11e7-43ca-9413-31526df3053f",
+      "latitude": -34.902333,
+      "longitude": 138.682754,
+      "street": "Moules Rd",
+      "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T22:56:41Z"
-    },
-    {
-      "id": "0ffe2b5e-25c1-44fe-9b41-fe542e425f90",
-      "latitude": -34.964828,
-      "longitude": 138.620606,
-      "street": "A3 - Cross Rd",
-      "city": "Highgate",
-      "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T23:01:43Z"
+      "timestamp": "2026-03-14T00:00:19Z",
+      "reported_at": "2026-03-13T21:44:51Z"
     },
     {
       "id": "259bd4c5-c92a-493e-8aa5-fe9e50bf5244",
@@ -77,28 +47,18 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
+      "timestamp": "2026-03-14T00:00:19Z",
       "reported_at": "2026-03-13T21:03:38Z"
     },
     {
-      "id": "c890dbbe-cc10-43f4-b85a-4c2dd00a2895",
-      "latitude": -34.919088,
-      "longitude": 138.61605,
-      "street": "A11 - North Tce",
-      "city": "Hackney",
+      "id": "c96e6aeb-e14e-4d24-8c1c-2d4087be20f9",
+      "latitude": -34.847411,
+      "longitude": 138.600856,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T22:55:45Z"
-    },
-    {
-      "id": "22eb17d5-df68-446b-bcf5-cc781aed6db7",
-      "latitude": -34.837949,
-      "longitude": 138.677859,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-03-13T23:30:14Z",
-      "reported_at": "2026-03-13T20:59:40Z"
+      "timestamp": "2026-03-14T00:00:19Z",
+      "reported_at": "2026-03-13T23:38:09Z"
     }
   ]
 }
