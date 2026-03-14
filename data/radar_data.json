@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "c9975bb9-cd3d-436a-b878-2fb80c9934dc",
-      "latitude": -35.137062,
-      "longitude": 138.498842,
-      "street": "Morton Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T11:10:56Z"
-    },
-    {
       "id": "bbca6d55-2d80-49b8-a8ce-06ed02fa6758",
       "latitude": -35.130693,
       "longitude": 138.480193,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
+      "timestamp": "2026-03-14T12:00:21Z",
       "reported_at": "2026-03-14T09:48:45Z"
-    },
-    {
-      "id": "197cecaf-9a4c-4821-87bd-cad1dfd1dba5",
-      "latitude": -34.909768,
-      "longitude": 138.491662,
-      "street": "Seaview Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T11:08:00Z"
-    },
-    {
-      "id": "891ac314-b826-4faa-870f-1f42e6cf0878",
-      "latitude": -35.061204,
-      "longitude": 138.544283,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T06:53:40Z"
     },
     {
       "id": "95c45b86-0069-4809-99ed-d07f52c85e8c",
@@ -47,28 +17,8 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
+      "timestamp": "2026-03-14T12:00:21Z",
       "reported_at": "2026-03-14T10:34:26Z"
-    },
-    {
-      "id": "e44b220e-8a0e-4b59-9677-e29d89863850",
-      "latitude": -35.062717,
-      "longitude": 138.606936,
-      "street": "Oakridge Rd",
-      "city": "Aberfoyle Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T10:29:14Z"
-    },
-    {
-      "id": "14245288-ce14-430e-ab8d-4e12e20c605d",
-      "latitude": -34.796699,
-      "longitude": 138.734406,
-      "street": "Yatala Vale Rd",
-      "city": "Yatala Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T07:36:09Z"
     },
     {
       "id": "f2cdcb13-1b39-492a-bfb3-a8bfb952d946",
@@ -77,18 +27,8 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
+      "timestamp": "2026-03-14T12:00:21Z",
       "reported_at": "2026-03-14T10:05:34Z"
-    },
-    {
-      "id": "2d2e417b-6874-4434-8956-989dbdcfd0ae",
-      "latitude": -34.992559,
-      "longitude": 138.574783,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T11:02:29Z"
     },
     {
       "id": "4ef818e0-4b2f-4095-8954-7eafa24fe803",
@@ -97,28 +37,8 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
+      "timestamp": "2026-03-14T12:00:21Z",
       "reported_at": "2026-03-14T10:23:31Z"
-    },
-    {
-      "id": "8b9a1829-2007-4300-bb8c-bc3fa20f3de2",
-      "latitude": -34.993498,
-      "longitude": 138.574855,
-      "street": "A2 - South Rd",
-      "city": "Clovelly Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T11:00:34Z"
-    },
-    {
-      "id": "418edb13-1eef-4ce0-be11-a4321d589990",
-      "latitude": -34.992608,
-      "longitude": 138.695767,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-03-14T11:30:14Z",
-      "reported_at": "2026-03-14T10:51:22Z"
     }
   ]
 }
