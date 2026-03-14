@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "7e35ec4b-bc39-488c-a3b1-388f6801d06a",
+      "latitude": -35.072712,
+      "longitude": 138.60577,
+      "street": "Heatherwood Dr",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T08:00:14Z",
+      "reported_at": "2026-03-14T05:06:27Z"
+    },
+    {
       "id": "3fc034f5-da71-409c-8801-63e1e489a1df",
       "latitude": -35.129797,
       "longitude": 138.49834,
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
+      "timestamp": "2026-03-14T08:00:14Z",
       "reported_at": "2026-03-14T05:23:07Z"
-    },
-    {
-      "id": "fcf6e985-df54-4731-ba0c-f5bafbc196c9",
-      "latitude": -35.130654,
-      "longitude": 138.480939,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
-      "reported_at": "2026-03-14T07:07:23Z"
     },
     {
       "id": "0fbc2f51-f60d-477d-99ff-86621282c150",
@@ -27,18 +27,18 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
+      "timestamp": "2026-03-14T08:00:14Z",
       "reported_at": "2026-03-14T06:28:35Z"
     },
     {
-      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
-      "latitude": -35.062179,
-      "longitude": 138.544356,
-      "street": "Adams Rd",
-      "city": "Trott Park",
+      "id": "a5b29110-729e-4346-857c-bdbe0620135c",
+      "latitude": -35.130695,
+      "longitude": 138.480167,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
-      "reported_at": "2026-03-14T05:24:34Z"
+      "timestamp": "2026-03-14T08:00:14Z",
+      "reported_at": "2026-03-14T05:36:11Z"
     },
     {
       "id": "23d94f93-5faa-418d-8558-2d459b0ccc7c",
@@ -47,8 +47,18 @@
       "street": "Oakridge Rd",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
+      "timestamp": "2026-03-14T08:00:14Z",
       "reported_at": "2026-03-14T05:29:26Z"
+    },
+    {
+      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
+      "latitude": -35.062179,
+      "longitude": 138.544356,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T08:00:14Z",
+      "reported_at": "2026-03-14T05:24:34Z"
     },
     {
       "id": "1dc6e116-8ab8-4e5c-a19a-c739522cf8aa",
@@ -57,8 +67,18 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
+      "timestamp": "2026-03-14T08:00:14Z",
       "reported_at": "2026-03-14T06:29:10Z"
+    },
+    {
+      "id": "1d31c14a-844b-4c42-aa8c-4091db17399c",
+      "latitude": -34.968452,
+      "longitude": 138.541569,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T08:00:14Z",
+      "reported_at": "2026-03-14T07:34:05Z"
     },
     {
       "id": "79952218-e26b-46de-a45a-327b12e8046a",
@@ -67,38 +87,28 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
+      "timestamp": "2026-03-14T08:00:14Z",
       "reported_at": "2026-03-14T07:13:51Z"
     },
     {
-      "id": "e7d88855-9a6d-4cde-808b-57506a072393",
-      "latitude": -34.856937,
-      "longitude": 138.502368,
+      "id": "91aef38d-5a5a-47ce-b001-6a9cb55042e9",
+      "latitude": -34.857493,
+      "longitude": 138.502562,
       "street": "Old Port Rd",
-      "city": "West Lakes",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
-      "reported_at": "2026-03-14T06:20:39Z"
+      "timestamp": "2026-03-14T08:00:14Z",
+      "reported_at": "2026-03-14T07:35:12Z"
     },
     {
-      "id": "f2e33339-db30-4303-b1af-fe3b5022831d",
-      "latitude": -35.144317,
-      "longitude": 138.660657,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
+      "id": "4b58fd8e-a5cc-48b5-9a4a-8f85c9762755",
+      "latitude": -34.937391,
+      "longitude": 138.552812,
+      "street": "A14 - Marion Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
-      "reported_at": "2026-03-14T03:30:15Z"
-    },
-    {
-      "id": "5bfed46c-b8d1-4592-8aa4-9967b93016c8",
-      "latitude": -34.686184,
-      "longitude": 138.691615,
-      "street": "A20 - Main North Rd",
-      "city": "Smithfield",
-      "type": "mobile",
-      "timestamp": "2026-03-14T07:30:15Z",
-      "reported_at": "2026-03-14T07:06:10Z"
+      "timestamp": "2026-03-14T08:00:14Z",
+      "reported_at": "2026-03-14T07:41:19Z"
     }
   ]
 }
