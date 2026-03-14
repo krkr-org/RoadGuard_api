@@ -7,7 +7,7 @@
       "street": "Gwynne St",
       "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
+      "timestamp": "2026-03-14T01:00:16Z",
       "reported_at": "2026-03-13T23:38:52Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "Silkes Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
+      "timestamp": "2026-03-14T01:00:16Z",
       "reported_at": "2026-03-13T23:52:33Z"
+    },
+    {
+      "id": "587058dd-0cda-4ab5-9462-d0e39b002c79",
+      "latitude": -35.059247,
+      "longitude": 138.531816,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-14T00:43:13Z"
     },
     {
       "id": "da1f380d-e2e8-4077-ae7c-ec678a525387",
@@ -27,28 +37,18 @@
       "street": "Edward St",
       "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
+      "timestamp": "2026-03-14T01:00:16Z",
       "reported_at": "2026-03-14T00:04:23Z"
     },
     {
-      "id": "f05d7304-e609-496c-8d82-87966d83fae8",
-      "latitude": -34.885706,
-      "longitude": 138.701761,
-      "street": "Montacute Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
-      "reported_at": "2026-03-13T20:59:01Z"
-    },
-    {
-      "id": "aff78b6d-a680-4332-9111-f4e6a6736e36",
-      "latitude": -34.933078,
-      "longitude": 138.668658,
+      "id": "1218315c-698e-4a34-b090-71fdac9fa975",
+      "latitude": -34.93275,
+      "longitude": 138.668627,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
-      "reported_at": "2026-03-13T22:21:35Z"
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-13T21:07:31Z"
     },
     {
       "id": "ed5b5d62-11e7-43ca-9413-31526df3053f",
@@ -57,48 +57,58 @@
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
+      "timestamp": "2026-03-14T01:00:16Z",
       "reported_at": "2026-03-13T21:44:51Z"
     },
     {
-      "id": "b265b436-ef34-445c-95d5-859c97c431b8",
-      "latitude": -35.065201,
-      "longitude": 138.601825,
-      "street": "Sunnymeade Dr",
-      "city": "Aberfoyle Park",
+      "id": "f05d7304-e609-496c-8d82-87966d83fae8",
+      "latitude": -34.885706,
+      "longitude": 138.701761,
+      "street": "Montacute Rd",
+      "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
-      "reported_at": "2026-03-14T00:06:18Z"
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-13T20:59:01Z"
     },
     {
-      "id": "259bd4c5-c92a-493e-8aa5-fe9e50bf5244",
-      "latitude": -34.912901,
-      "longitude": 138.678082,
+      "id": "11671244-dcf2-4f1e-bb2b-6c9ebece7767",
+      "latitude": -35.059754,
+      "longitude": 138.604188,
+      "street": "Oakridge Rd",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-14T00:32:15Z"
+    },
+    {
+      "id": "7d05a381-3c65-4f05-8a1f-b4867e3958ad",
+      "latitude": -34.940896,
+      "longitude": 138.605453,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-14T00:57:17Z"
+    },
+    {
+      "id": "f3980a49-ad75-4df3-8d3e-aae565e26c1d",
+      "latitude": -34.912844,
+      "longitude": 138.679284,
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
-      "reported_at": "2026-03-13T21:03:38Z"
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-13T23:27:38Z"
     },
     {
-      "id": "fe514f7a-8f98-455b-bced-f3de5714d4d2",
-      "latitude": -34.816923,
-      "longitude": 138.597924,
+      "id": "fc175785-fd42-40c2-82ee-a5f6be6757d7",
+      "latitude": -34.709467,
+      "longitude": 138.574804,
       "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
-      "reported_at": "2026-03-14T00:18:24Z"
-    },
-    {
-      "id": "c96e6aeb-e14e-4d24-8c1c-2d4087be20f9",
-      "latitude": -34.847411,
-      "longitude": 138.600856,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-14T00:30:16Z",
-      "reported_at": "2026-03-13T23:38:09Z"
+      "timestamp": "2026-03-14T01:00:16Z",
+      "reported_at": "2026-03-14T00:45:26Z"
     }
   ]
 }
