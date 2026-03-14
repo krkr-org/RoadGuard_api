@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "62eaa82b-db5e-43aa-aab6-2b418a1afd05",
-      "latitude": -34.873098,
-      "longitude": 138.683072,
-      "street": "Silkes Rd",
-      "city": "Paradise",
+      "id": "90ef092e-2110-46f8-a4e3-50df094ce160",
+      "latitude": -34.907355,
+      "longitude": 138.653408,
+      "street": "Gwynne St",
+      "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
-      "reported_at": "2026-03-13T23:52:33Z"
-    },
-    {
-      "id": "33bc51e6-ec3e-4630-b20d-f575c5600e9b",
-      "latitude": -34.728012,
-      "longitude": 138.661369,
-      "street": "Goodman Rd",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
-      "reported_at": "2026-03-14T02:40:38Z"
+      "timestamp": "2026-03-14T03:30:15Z",
+      "reported_at": "2026-03-13T23:38:52Z"
     },
     {
       "id": "da1f380d-e2e8-4077-ae7c-ec678a525387",
@@ -27,7 +17,7 @@
       "street": "Edward St",
       "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
+      "timestamp": "2026-03-14T03:30:15Z",
       "reported_at": "2026-03-14T00:04:23Z"
     },
     {
@@ -37,18 +27,18 @@
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
+      "timestamp": "2026-03-14T03:30:15Z",
       "reported_at": "2026-03-14T01:29:38Z"
     },
     {
-      "id": "ef5b38ab-7dbb-4b62-8892-28803a585564",
-      "latitude": -34.902404,
-      "longitude": 138.681268,
+      "id": "825808dd-b18e-468e-bc08-953027775324",
+      "latitude": -34.902453,
+      "longitude": 138.680305,
       "street": "Moules Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
-      "reported_at": "2026-03-13T22:58:58Z"
+      "timestamp": "2026-03-14T03:30:15Z",
+      "reported_at": "2026-03-14T00:28:55Z"
     },
     {
       "id": "4739892d-d946-4ae4-9033-9f7df58012b0",
@@ -57,8 +47,28 @@
       "street": "The Promenade",
       "city": "Northgate",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
+      "timestamp": "2026-03-14T03:30:15Z",
       "reported_at": "2026-03-13T23:45:03Z"
+    },
+    {
+      "id": "80d2e216-0e45-4707-8735-ef019ae36504",
+      "latitude": -34.885349,
+      "longitude": 138.562711,
+      "street": "Rosetta St",
+      "city": "West Croydon",
+      "type": "mobile",
+      "timestamp": "2026-03-14T03:30:15Z",
+      "reported_at": "2026-03-14T03:03:46Z"
+    },
+    {
+      "id": "1ea9160e-3ad7-4df9-8caf-60707746187a",
+      "latitude": -35.106899,
+      "longitude": 138.510773,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-14T03:30:15Z",
+      "reported_at": "2026-03-14T02:57:50Z"
     },
     {
       "id": "041f372b-c999-4176-bc6d-02f1e73f67f8",
@@ -67,8 +77,18 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
+      "timestamp": "2026-03-14T03:30:15Z",
       "reported_at": "2026-03-14T00:56:15Z"
+    },
+    {
+      "id": "91e57a46-491c-45fd-8549-f63e0918ad75",
+      "latitude": -34.699905,
+      "longitude": 138.704543,
+      "street": "Adams Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-14T03:30:15Z",
+      "reported_at": "2026-03-14T03:06:23Z"
     },
     {
       "id": "ab2053b0-5be4-475a-bf56-4c6c457a55c9",
@@ -77,18 +97,8 @@
       "street": "B27 - Lobethal Rd",
       "city": "Forest Range",
       "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
+      "timestamp": "2026-03-14T03:30:15Z",
       "reported_at": "2026-03-13T23:39:28Z"
-    },
-    {
-      "id": "a049f7c9-71ca-4468-97f5-5b4f70297b7b",
-      "latitude": -34.822601,
-      "longitude": 138.784719,
-      "street": "B10 - North East Rd",
-      "city": "Inglewood",
-      "type": "mobile",
-      "timestamp": "2026-03-14T03:00:18Z",
-      "reported_at": "2026-03-13T23:14:38Z"
     }
   ]
 }
