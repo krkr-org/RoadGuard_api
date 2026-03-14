@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "8506ab1f-b33b-4336-94fb-20d736627d9e",
-      "latitude": -35.130651,
-      "longitude": 138.481011,
+      "id": "bbca6d55-2d80-49b8-a8ce-06ed02fa6758",
+      "latitude": -35.130693,
+      "longitude": 138.480193,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T05:06:14Z"
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T09:48:45Z"
     },
     {
-      "id": "3fc034f5-da71-409c-8801-63e1e489a1df",
-      "latitude": -35.129797,
-      "longitude": 138.49834,
+      "id": "8feca5d0-b201-49a6-b8ed-707c08fd433c",
+      "latitude": -35.129722,
+      "longitude": 138.498334,
       "street": "Morton Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T05:23:07Z"
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T10:26:38Z"
     },
     {
-      "id": "0fbc2f51-f60d-477d-99ff-86621282c150",
-      "latitude": -34.912824,
-      "longitude": 138.51107,
-      "street": "Marlborough St",
-      "city": "Fulham Gardens",
+      "id": "891ac314-b826-4faa-870f-1f42e6cf0878",
+      "latitude": -35.061204,
+      "longitude": 138.544283,
+      "street": "Adams Rd",
+      "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T06:28:35Z"
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T06:53:40Z"
     },
     {
       "id": "24852071-cf94-4a36-a1ae-2e60c10eb056",
@@ -37,28 +37,8 @@
       "street": "Homestead Dr",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
+      "timestamp": "2026-03-14T10:30:14Z",
       "reported_at": "2026-03-14T05:09:16Z"
-    },
-    {
-      "id": "9522a4f7-cfa5-461d-a8f7-7bf799bff74e",
-      "latitude": -35.062179,
-      "longitude": 138.544356,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T05:24:34Z"
-    },
-    {
-      "id": "23d94f93-5faa-418d-8558-2d459b0ccc7c",
-      "latitude": -35.061727,
-      "longitude": 138.605992,
-      "street": "Oakridge Rd",
-      "city": "Aberfoyle Park",
-      "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T05:29:26Z"
     },
     {
       "id": "1dc6e116-8ab8-4e5c-a19a-c739522cf8aa",
@@ -67,7 +47,7 @@
       "street": "Valetta Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
+      "timestamp": "2026-03-14T10:30:14Z",
       "reported_at": "2026-03-14T06:29:10Z"
     },
     {
@@ -77,18 +57,48 @@
       "street": "Yatala Vale Rd",
       "city": "Yatala Vale",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
+      "timestamp": "2026-03-14T10:30:14Z",
       "reported_at": "2026-03-14T07:36:09Z"
     },
     {
-      "id": "e2784b4b-c08a-417a-aace-6aa792746f1f",
-      "latitude": -34.826414,
-      "longitude": 138.603514,
+      "id": "b8f4ede9-29d1-4349-9d71-e7575c10b6c4",
+      "latitude": -34.777609,
+      "longitude": 138.612184,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T10:16:09Z"
+    },
+    {
+      "id": "d0fe0f16-dc7c-49b0-8833-33998e560de2",
+      "latitude": -34.765847,
+      "longitude": 138.588485,
+      "street": "to M2 - North South Mwy to Gawler / Port Wakefield",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T10:05:56Z"
+    },
+    {
+      "id": "928ee8b2-c85e-49c2-9ae6-059f001dbb0b",
+      "latitude": -35.010895,
+      "longitude": 138.580749,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T10:03:44Z"
+    },
+    {
+      "id": "09a2322b-433e-4d0d-a7ec-e3bd522ffeb9",
+      "latitude": -34.826732,
+      "longitude": 138.602032,
       "street": "Montague Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T08:58:38Z"
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T09:34:36Z"
     },
     {
       "id": "3a8da365-5a6b-4f9c-a56d-a383409f4420",
@@ -97,38 +107,28 @@
       "street": "Daws Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
+      "timestamp": "2026-03-14T10:30:14Z",
       "reported_at": "2026-03-14T09:25:23Z"
     },
     {
-      "id": "b952f710-7a64-450f-8958-c81fd80cad44",
-      "latitude": -34.816611,
-      "longitude": 138.493919,
-      "street": "Military Rd",
-      "city": "Largs North",
+      "id": "71fd8a0f-f544-4ea1-b0e2-efd442a658be",
+      "latitude": -35.015998,
+      "longitude": 138.52293,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T09:37:30Z"
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T10:10:53Z"
     },
     {
-      "id": "60df5251-e891-4702-b396-9b492f76d56a",
-      "latitude": -34.923459,
-      "longitude": 138.599465,
-      "street": "King William St",
-      "city": "Adelaide",
+      "id": "0454d673-c946-4f2d-b8d3-021e037bcf5b",
+      "latitude": -34.804432,
+      "longitude": 138.635781,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T09:47:50Z"
-    },
-    {
-      "id": "b547eaca-7ce9-4921-9f3f-0115acd5066f",
-      "latitude": -34.764358,
-      "longitude": 138.593466,
-      "street": "Unknown Street",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-03-14T10:00:15Z",
-      "reported_at": "2026-03-14T09:18:35Z"
+      "timestamp": "2026-03-14T10:30:14Z",
+      "reported_at": "2026-03-14T10:21:26Z"
     }
   ]
 }
