@@ -1,14 +1,164 @@
 {
   "radars": [
     {
-      "id": "554927c8-ff2b-4486-b459-5c0f4b44271e",
-      "latitude": -35.007138,
-      "longitude": 138.777885,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
+      "id": "6cdb2055-6db1-47f0-bbd1-382e2df9721e",
+      "latitude": -34.993902,
+      "longitude": 138.513482,
+      "street": "Tarlton St",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-03-14T17:00:20Z",
-      "reported_at": "2026-03-14T16:22:14Z"
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:11:06Z"
+    },
+    {
+      "id": "7e1ecafd-69ff-4161-b204-0b870a9c22cf",
+      "latitude": -35.00948,
+      "longitude": 138.531984,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:45:36Z"
+    },
+    {
+      "id": "fb03b0d5-f9ca-4702-8419-653ad58562bd",
+      "latitude": -34.992642,
+      "longitude": 138.580879,
+      "street": "St. Marys St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:07:15Z"
+    },
+    {
+      "id": "0aa47dcb-0d8d-466e-9df8-e80f35ca6493",
+      "latitude": -35.010372,
+      "longitude": 138.544473,
+      "street": "Dwyer Rd",
+      "city": "Oaklands Park",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:38:32Z"
+    },
+    {
+      "id": "bf3caa85-ca0c-42f1-824b-a05452ddffc1",
+      "latitude": -34.917174,
+      "longitude": 138.62724,
+      "street": "Sydenham Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:30:18Z"
+    },
+    {
+      "id": "8e074888-de95-4696-b452-a6977933abad",
+      "latitude": -34.901552,
+      "longitude": 138.661823,
+      "street": "Hallett Av",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T03:05:55Z"
+    },
+    {
+      "id": "2754b32a-3d8f-4c86-96cd-95ca18b896f1",
+      "latitude": -34.927655,
+      "longitude": 138.534229,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T04:46:45Z"
+    },
+    {
+      "id": "bbda8591-cd76-4f6c-98c9-9538bb29015e",
+      "latitude": -34.796703,
+      "longitude": 138.649394,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T02:44:19Z"
+    },
+    {
+      "id": "92b7f1d5-9dcf-45a8-bbd0-8311ac2edf0e",
+      "latitude": -35.054549,
+      "longitude": 138.595028,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:03:02Z"
+    },
+    {
+      "id": "15553290-36c6-468b-8814-a1acb6923150",
+      "latitude": -35.025641,
+      "longitude": 138.553634,
+      "street": "Diagonal Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:25:25Z"
+    },
+    {
+      "id": "44834ad0-c3e8-4d2c-93e0-d673c8c2d28a",
+      "latitude": -34.841171,
+      "longitude": 138.512298,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:37:51Z"
+    },
+    {
+      "id": "6654e010-10d5-4f76-9d8f-c698be05710f",
+      "latitude": -34.956865,
+      "longitude": 138.514499,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:58:09Z"
+    },
+    {
+      "id": "967e98e7-1625-45f0-bb4f-a87301260201",
+      "latitude": -35.008428,
+      "longitude": 138.624183,
+      "street": "B29 - Main Rd",
+      "city": "Glenalta",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:15:40Z"
+    },
+    {
+      "id": "50273d52-a1c4-46b8-9605-55e2ac263095",
+      "latitude": -34.862284,
+      "longitude": 138.601128,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:52:18Z"
+    },
+    {
+      "id": "48836375-8574-4b7b-9795-71dda1735fe9",
+      "latitude": -34.811892,
+      "longitude": 138.62884,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:30:42Z"
+    },
+    {
+      "id": "f0bd56a4-6cf2-4d4c-81b4-f333c5c74a76",
+      "latitude": -34.681199,
+      "longitude": 138.633156,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-18T06:00:26Z",
+      "reported_at": "2026-03-18T05:46:25Z"
     }
   ]
 }
