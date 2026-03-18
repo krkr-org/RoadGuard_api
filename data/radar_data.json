@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "9dba7873-94a2-48bf-8c9c-c066c144163f",
-      "latitude": -35.029992,
-      "longitude": 138.620553,
+      "id": "c5130de4-1434-4692-ba5a-f326658eaaca",
+      "latitude": -35.031296,
+      "longitude": 138.620675,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-03-18T13:00:23Z",
-      "reported_at": "2026-03-18T09:13:28Z"
-    },
-    {
-      "id": "e4645602-1f20-4993-a4c7-2408f4d7645b",
-      "latitude": -34.866162,
-      "longitude": 138.621092,
-      "street": "Redward Av",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2026-03-18T13:00:23Z",
-      "reported_at": "2026-03-18T09:03:35Z"
-    },
-    {
-      "id": "132c223f-800c-4905-8a50-3612a18c2e42",
-      "latitude": -35.054572,
-      "longitude": 138.595064,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-18T13:00:23Z",
-      "reported_at": "2026-03-18T09:21:24Z"
+      "timestamp": "2026-03-18T13:30:22Z",
+      "reported_at": "2026-03-18T10:36:35Z"
     },
     {
       "id": "edc6b2be-8ef3-4d47-9ed2-b3b4c32f54f0",
@@ -37,8 +17,18 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-03-18T13:00:23Z",
+      "timestamp": "2026-03-18T13:30:22Z",
       "reported_at": "2026-03-18T10:05:24Z"
+    },
+    {
+      "id": "334d13b7-86be-452a-a031-d2f3e88eedd7",
+      "latitude": -35.054287,
+      "longitude": 138.594603,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-18T13:30:22Z",
+      "reported_at": "2026-03-18T10:41:13Z"
     },
     {
       "id": "d4c50257-09b6-462d-8a04-11d20d5c58b4",
@@ -47,7 +37,7 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-18T13:00:23Z",
+      "timestamp": "2026-03-18T13:30:22Z",
       "reported_at": "2026-03-18T12:15:28Z"
     }
   ]
