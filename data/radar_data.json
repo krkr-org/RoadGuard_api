@@ -1,3 +1,44 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "cc7708d0-da2c-4210-b28e-2c4bedcc2850",
+      "latitude": -34.929814,
+      "longitude": 138.542577,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-03-18T21:00:26Z",
+      "reported_at": "2026-03-18T20:34:42Z"
+    },
+    {
+      "id": "3da4aa2c-6286-4a8c-b09f-8a6a954a709e",
+      "latitude": -34.749359,
+      "longitude": 138.641744,
+      "street": "Commercial Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-03-18T21:00:26Z",
+      "reported_at": "2026-03-18T20:30:14Z"
+    },
+    {
+      "id": "d3e2e896-1f46-49c6-a25a-8318c702b145",
+      "latitude": -35.017827,
+      "longitude": 138.522944,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-03-18T21:00:26Z",
+      "reported_at": "2026-03-18T20:51:55Z"
+    },
+    {
+      "id": "f95513b8-6643-43e2-b107-2a1c7150a728",
+      "latitude": -34.806202,
+      "longitude": 138.602312,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-18T21:00:26Z",
+      "reported_at": "2026-03-18T20:53:27Z"
+    }
+  ]
 }
