@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e0acb3b8-f060-401c-bb18-9113645d5a0e",
-      "latitude": -35.027199,
-      "longitude": 138.619615,
+      "id": "45d2da04-c840-47bc-9278-1f74d5aac096",
+      "latitude": -35.029187,
+      "longitude": 138.620296,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T06:42:30Z"
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T07:06:51Z"
     },
     {
       "id": "7e1ecafd-69ff-4161-b204-0b870a9c22cf",
@@ -17,18 +17,18 @@
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
+      "timestamp": "2026-03-18T09:00:23Z",
       "reported_at": "2026-03-18T05:45:36Z"
     },
     {
-      "id": "2754b32a-3d8f-4c86-96cd-95ca18b896f1",
-      "latitude": -34.927655,
-      "longitude": 138.534229,
-      "street": "May Tce",
-      "city": "Lockleys",
+      "id": "e6c74cd9-48c5-4a52-8144-10c725627907",
+      "latitude": -34.992668,
+      "longitude": 138.580904,
+      "street": "St. Marys St",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T04:46:45Z"
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T08:32:35Z"
     },
     {
       "id": "bf3caa85-ca0c-42f1-824b-a05452ddffc1",
@@ -37,28 +37,18 @@
       "street": "Sydenham Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
+      "timestamp": "2026-03-18T09:00:23Z",
       "reported_at": "2026-03-18T05:30:18Z"
     },
     {
-      "id": "5dff886a-fa1e-49bc-8484-7abbe0a069c1",
-      "latitude": -34.996116,
-      "longitude": 138.582338,
-      "street": "Cashel St",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T06:17:29Z"
-    },
-    {
-      "id": "d8e875fa-9c2c-4867-9e36-88aff74b1e9f",
-      "latitude": -35.006656,
-      "longitude": 138.565797,
+      "id": "b8759ca7-2719-480b-b70b-dec5851d69fb",
+      "latitude": -35.005917,
+      "longitude": 138.56574,
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T06:58:04Z"
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T05:27:34Z"
     },
     {
       "id": "f7cdd36b-db94-4d40-9c79-8b264cdd80c8",
@@ -67,8 +57,18 @@
       "street": "Eliza Pl",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
+      "timestamp": "2026-03-18T09:00:23Z",
       "reported_at": "2026-03-18T05:50:17Z"
+    },
+    {
+      "id": "37d883ac-e5df-4688-bd05-f2793811defe",
+      "latitude": -34.995483,
+      "longitude": 138.582291,
+      "street": "Cashel St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T05:23:20Z"
     },
     {
       "id": "21e1d345-2032-4d24-a730-5ea470501405",
@@ -77,7 +77,7 @@
       "street": "Diagonal Rd",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
+      "timestamp": "2026-03-18T09:00:23Z",
       "reported_at": "2026-03-18T05:50:47Z"
     },
     {
@@ -87,58 +87,28 @@
       "street": "Black Rd",
       "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
+      "timestamp": "2026-03-18T09:00:23Z",
       "reported_at": "2026-03-18T05:16:44Z"
     },
     {
-      "id": "176e7f1d-a9a4-4fba-aa0b-8bf4cc070c9c",
-      "latitude": -34.992456,
-      "longitude": 138.581757,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T07:11:21Z"
-    },
-    {
-      "id": "654a6c2d-15c6-41e9-bcf8-87dc395b5fa3",
-      "latitude": -35.023714,
-      "longitude": 138.551959,
+      "id": "c3febc34-60f8-4f3b-9d4b-735398d3f269",
+      "latitude": -35.025029,
+      "longitude": 138.553104,
       "street": "Diagonal Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T04:53:18Z"
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T07:26:39Z"
     },
     {
-      "id": "80fa956a-2df9-4d6a-8641-75b50b96c82d",
-      "latitude": -34.873641,
-      "longitude": 138.600897,
-      "street": "Regency Rd",
-      "city": "Prospect",
+      "id": "609156e3-929a-4926-b194-3390df0daeee",
+      "latitude": -34.995494,
+      "longitude": 138.547463,
+      "street": "Oaklands Rd",
+      "city": "Morphettville",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T08:12:10Z"
-    },
-    {
-      "id": "c5ef5dee-4939-4526-9ccb-bb0f68d5c2bf",
-      "latitude": -35.025909,
-      "longitude": 138.807544,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T07:22:01Z"
-    },
-    {
-      "id": "7dccc7fd-bc18-4d6d-9ff4-da59def3fd0f",
-      "latitude": -34.910465,
-      "longitude": 138.54908,
-      "street": "A14 - Holbrooks Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
-      "reported_at": "2026-03-18T08:04:04Z"
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T08:33:15Z"
     },
     {
       "id": "28aebd8c-8eba-4f00-b4e7-2815005a6913",
@@ -147,8 +117,38 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-18T08:30:23Z",
+      "timestamp": "2026-03-18T09:00:23Z",
       "reported_at": "2026-03-18T08:05:04Z"
+    },
+    {
+      "id": "7dccc7fd-bc18-4d6d-9ff4-da59def3fd0f",
+      "latitude": -34.910465,
+      "longitude": 138.54908,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T08:04:04Z"
+    },
+    {
+      "id": "c5ef5dee-4939-4526-9ccb-bb0f68d5c2bf",
+      "latitude": -35.025909,
+      "longitude": 138.807544,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T07:22:01Z"
+    },
+    {
+      "id": "f2037dbf-9950-4342-b9ad-45c227413709",
+      "latitude": -34.785084,
+      "longitude": 138.636043,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-03-18T09:00:23Z",
+      "reported_at": "2026-03-18T08:04:29Z"
     }
   ]
 }
