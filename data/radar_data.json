@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "bc685c27-d2b3-4114-bf94-c8e200306901",
-      "latitude": -34.994613,
-      "longitude": 138.513535,
-      "street": "Tarlton St",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T06:47:54Z"
-    },
-    {
-      "id": "714c2997-2757-4b04-96de-033b3991b6fa",
-      "latitude": -35.010458,
-      "longitude": 138.542808,
-      "street": "Dwyer Rd",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T07:11:44Z"
-    },
-    {
       "id": "9dba7873-94a2-48bf-8c9c-c066c144163f",
       "latitude": -35.029992,
       "longitude": 138.620553,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
+      "timestamp": "2026-03-18T11:30:23Z",
       "reported_at": "2026-03-18T09:13:28Z"
     },
     {
@@ -37,28 +17,8 @@
       "street": "St. Marys St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
+      "timestamp": "2026-03-18T11:30:23Z",
       "reported_at": "2026-03-18T08:32:35Z"
-    },
-    {
-      "id": "d8e875fa-9c2c-4867-9e36-88aff74b1e9f",
-      "latitude": -35.007187,
-      "longitude": 138.565849,
-      "street": "Bradley Gr",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T06:58:04Z"
-    },
-    {
-      "id": "37d883ac-e5df-4688-bd05-f2793811defe",
-      "latitude": -34.995483,
-      "longitude": 138.582291,
-      "street": "Cashel St",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T05:23:20Z"
     },
     {
       "id": "e4645602-1f20-4993-a4c7-2408f4d7645b",
@@ -67,8 +27,28 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
+      "timestamp": "2026-03-18T11:30:23Z",
       "reported_at": "2026-03-18T09:03:35Z"
+    },
+    {
+      "id": "5dff886a-fa1e-49bc-8484-7abbe0a069c1",
+      "latitude": -34.995552,
+      "longitude": 138.582295,
+      "street": "Cashel St",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-18T11:30:23Z",
+      "reported_at": "2026-03-18T06:17:29Z"
+    },
+    {
+      "id": "7993a420-84a8-4e6c-ae47-60da3e50bfd5",
+      "latitude": -35.057656,
+      "longitude": 138.601267,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-18T11:30:23Z",
+      "reported_at": "2026-03-18T10:18:44Z"
     },
     {
       "id": "e01e6d0b-f7c9-48a4-bb88-23e4480e69e8",
@@ -77,38 +57,8 @@
       "street": "St. Bernards Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
+      "timestamp": "2026-03-18T11:30:23Z",
       "reported_at": "2026-03-18T08:57:58Z"
-    },
-    {
-      "id": "c5ef5dee-4939-4526-9ccb-bb0f68d5c2bf",
-      "latitude": -35.025909,
-      "longitude": 138.807544,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T07:22:01Z"
-    },
-    {
-      "id": "9ee9ca01-3112-4ba8-9312-007a60da7900",
-      "latitude": -35.006818,
-      "longitude": 138.558073,
-      "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T10:41:09Z"
-    },
-    {
-      "id": "9236bc2f-903a-4cc0-96b9-2abbd29b3d48",
-      "latitude": -34.963246,
-      "longitude": 138.643781,
-      "street": "A1 - Glen Osmond Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T10:49:54Z"
     },
     {
       "id": "ec478a49-18f4-4a3b-b183-5cc60e22abe7",
@@ -117,18 +67,28 @@
       "street": "M1 - Mount Barker Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
+      "timestamp": "2026-03-18T11:30:23Z",
       "reported_at": "2026-03-18T10:55:33Z"
     },
     {
-      "id": "bf4e3549-cac1-4341-baac-87b06eaee2a3",
-      "latitude": -35.048697,
-      "longitude": 138.54824,
+      "id": "314d60a9-01ff-4afb-bf0e-2c5933ceebaa",
+      "latitude": -34.968464,
+      "longitude": 138.608869,
+      "street": "B29 - Belair Rd",
+      "city": "Hawthorn",
+      "type": "mobile",
+      "timestamp": "2026-03-18T11:30:23Z",
+      "reported_at": "2026-03-18T11:26:21Z"
+    },
+    {
+      "id": "09bbcc0d-8b80-4e81-af90-99a7fef4b9d2",
+      "latitude": -35.038353,
+      "longitude": 138.557204,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-18T11:00:22Z",
-      "reported_at": "2026-03-18T10:49:26Z"
+      "timestamp": "2026-03-18T11:30:23Z",
+      "reported_at": "2026-03-18T11:24:49Z"
     }
   ]
 }
