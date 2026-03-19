@@ -1,64 +1,84 @@
 {
   "radars": [
     {
-      "id": "a8ccff5f-591b-4bc5-bf5a-ab54192846bc",
-      "latitude": -35.111872,
-      "longitude": 138.507348,
+      "id": "40faf0ea-1329-4100-bcd3-d4dcc3141fdb",
+      "latitude": -34.796586,
+      "longitude": 138.649203,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T21:32:45Z"
+    },
+    {
+      "id": "e776b401-f751-405f-9588-e4b8ba138e67",
+      "latitude": -35.095004,
+      "longitude": 138.534084,
+      "street": "Young St",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T21:22:48Z"
+    },
+    {
+      "id": "d20afc16-ae47-4a30-abca-095f63c4806c",
+      "latitude": -35.130678,
+      "longitude": 138.480491,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T22:19:06Z"
+    },
+    {
+      "id": "8ba51cc1-93ef-433e-8aa0-6ee8fbe0ae9d",
+      "latitude": -35.106225,
+      "longitude": 138.522216,
+      "street": "Hillier Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T21:19:13Z"
+    },
+    {
+      "id": "8ee0aa0f-5ef2-46a5-84f2-bb364e09b5a4",
+      "latitude": -35.114279,
+      "longitude": 138.552903,
+      "street": "Bains Rd",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T21:49:31Z"
+    },
+    {
+      "id": "d9060d69-f71d-4058-bf9f-f691a51c5ad7",
+      "latitude": -35.109196,
+      "longitude": 138.507138,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-19T21:30:22Z",
-      "reported_at": "2026-03-19T21:08:27Z"
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T21:15:33Z"
     },
     {
-      "id": "729f95ac-b4a7-40f6-a538-5b73463cb427",
-      "latitude": -35.11498,
-      "longitude": 138.538262,
-      "street": "Bains Rd",
-      "city": "Morphett Vale",
+      "id": "6c7fe11b-2455-43c1-a013-034b11dc18fd",
+      "latitude": -35.086639,
+      "longitude": 138.544247,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-19T21:30:22Z",
-      "reported_at": "2026-03-19T21:16:36Z"
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T21:23:41Z"
     },
     {
-      "id": "77305329-facf-46e4-92c2-236c27a4252c",
-      "latitude": -34.767218,
-      "longitude": 138.649559,
-      "street": "Park Tce",
-      "city": "Salisbury",
+      "id": "9968b459-1c6a-448d-a7cb-53a406813ae1",
+      "latitude": -34.900429,
+      "longitude": 138.675113,
+      "street": "St. Bernards Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-19T21:30:22Z",
-      "reported_at": "2026-03-19T21:05:04Z"
-    },
-    {
-      "id": "1f7e3e42-e8b4-4aaf-9956-fbc68d2da42f",
-      "latitude": -34.690333,
-      "longitude": 138.639436,
-      "street": "Womma Rd",
-      "city": "Penfield",
-      "type": "mobile",
-      "timestamp": "2026-03-19T21:30:22Z",
-      "reported_at": "2026-03-19T21:27:37Z"
-    },
-    {
-      "id": "d3f2489f-3c29-404b-87ec-ca0f632778b5",
-      "latitude": -35.062347,
-      "longitude": 138.557224,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-19T21:30:22Z",
-      "reported_at": "2026-03-19T21:08:20Z"
-    },
-    {
-      "id": "0dd453e9-879b-4568-a046-367336319f6e",
-      "latitude": -35.065319,
-      "longitude": 138.545351,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-19T21:30:22Z",
-      "reported_at": "2026-03-19T21:27:48Z"
+      "timestamp": "2026-03-19T23:00:25Z",
+      "reported_at": "2026-03-19T22:21:21Z"
     }
   ]
 }
