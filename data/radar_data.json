@@ -1,14 +1,64 @@
 {
   "radars": [
     {
-      "id": "bd517ab3-0be6-4942-8aea-261bb7d4e225",
-      "latitude": -34.995959,
-      "longitude": 138.592948,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
+      "id": "a8ccff5f-591b-4bc5-bf5a-ab54192846bc",
+      "latitude": -35.111872,
+      "longitude": 138.507348,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-19T21:00:22Z",
-      "reported_at": "2026-03-19T20:51:44Z"
+      "timestamp": "2026-03-19T21:30:22Z",
+      "reported_at": "2026-03-19T21:08:27Z"
+    },
+    {
+      "id": "729f95ac-b4a7-40f6-a538-5b73463cb427",
+      "latitude": -35.11498,
+      "longitude": 138.538262,
+      "street": "Bains Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-19T21:30:22Z",
+      "reported_at": "2026-03-19T21:16:36Z"
+    },
+    {
+      "id": "77305329-facf-46e4-92c2-236c27a4252c",
+      "latitude": -34.767218,
+      "longitude": 138.649559,
+      "street": "Park Tce",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-19T21:30:22Z",
+      "reported_at": "2026-03-19T21:05:04Z"
+    },
+    {
+      "id": "1f7e3e42-e8b4-4aaf-9956-fbc68d2da42f",
+      "latitude": -34.690333,
+      "longitude": 138.639436,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-03-19T21:30:22Z",
+      "reported_at": "2026-03-19T21:27:37Z"
+    },
+    {
+      "id": "d3f2489f-3c29-404b-87ec-ca0f632778b5",
+      "latitude": -35.062347,
+      "longitude": 138.557224,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-19T21:30:22Z",
+      "reported_at": "2026-03-19T21:08:20Z"
+    },
+    {
+      "id": "0dd453e9-879b-4568-a046-367336319f6e",
+      "latitude": -35.065319,
+      "longitude": 138.545351,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-19T21:30:22Z",
+      "reported_at": "2026-03-19T21:27:48Z"
     }
   ]
 }
