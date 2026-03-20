@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "926cdbff-a368-4f60-96ac-bee3b81fe80a",
+      "latitude": -34.868915,
+      "longitude": 138.686669,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T07:56:33Z"
+    },
+    {
       "id": "8fac3836-dde6-4621-9c1d-32ea4fe7d12c",
       "latitude": -34.839026,
       "longitude": 138.653704,
       "street": "Pauls Dr",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
+      "timestamp": "2026-03-20T08:30:25Z",
       "reported_at": "2026-03-20T07:26:25Z"
-    },
-    {
-      "id": "48dbb84f-2489-4b3d-aaa0-f721272ccb4e",
-      "latitude": -34.851887,
-      "longitude": 138.671621,
-      "street": "Valiant Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
-      "reported_at": "2026-03-20T05:18:20Z"
-    },
-    {
-      "id": "8d47f7be-63d7-4e96-afe7-a7f63506156a",
-      "latitude": -34.868873,
-      "longitude": 138.686957,
-      "street": "George St",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
-      "reported_at": "2026-03-20T06:02:19Z"
     },
     {
       "id": "207fccbf-97c6-46ff-b678-506673e56c82",
@@ -37,18 +27,38 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
+      "timestamp": "2026-03-20T08:30:25Z",
       "reported_at": "2026-03-20T05:16:03Z"
     },
     {
-      "id": "c093a9b5-d34c-4345-a4ac-d163c17ee764",
-      "latitude": -34.93088,
-      "longitude": 138.587853,
-      "street": "West Tce",
-      "city": "Adelaide",
+      "id": "48dbb84f-2489-4b3d-aaa0-f721272ccb4e",
+      "latitude": -34.851887,
+      "longitude": 138.671621,
+      "street": "Valiant Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
-      "reported_at": "2026-03-20T07:45:05Z"
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T05:18:20Z"
+    },
+    {
+      "id": "1e8b9638-22d7-44b6-b554-1426e008e39d",
+      "latitude": -34.986546,
+      "longitude": 138.592281,
+      "street": "Goodwood Rd",
+      "city": "Unknown City",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T08:15:51Z"
+    },
+    {
+      "id": "075f2165-93ab-470b-9f15-e36d02346f65",
+      "latitude": -34.904098,
+      "longitude": 138.559901,
+      "street": "Grange Rd",
+      "city": "Welland",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T08:08:39Z"
     },
     {
       "id": "df2f1e45-0ea4-4f8e-a5af-7a3e7bff17ee",
@@ -57,7 +67,7 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
+      "timestamp": "2026-03-20T08:30:25Z",
       "reported_at": "2026-03-20T05:11:55Z"
     },
     {
@@ -67,7 +77,7 @@
       "street": "B34 - Echunga Rd",
       "city": "Biggs Flat",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
+      "timestamp": "2026-03-20T08:30:25Z",
       "reported_at": "2026-03-20T05:46:25Z"
     },
     {
@@ -77,38 +87,48 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
+      "timestamp": "2026-03-20T08:30:25Z",
       "reported_at": "2026-03-20T06:27:20Z"
     },
     {
-      "id": "e3f53daa-0c1a-4982-94bb-9e02eb6d567c",
-      "latitude": -34.850709,
-      "longitude": 138.54478,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Ottoway",
+      "id": "a29309eb-66af-48f2-9489-4d8636e0d477",
+      "latitude": -34.91459,
+      "longitude": 138.644359,
+      "street": "B27 - Magill Rd",
+      "city": "Beulah Park",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
-      "reported_at": "2026-03-20T07:36:41Z"
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T07:58:16Z"
     },
     {
-      "id": "77483909-e451-4aa8-a9c9-92d3ccf8add6",
-      "latitude": -34.839536,
-      "longitude": 138.720186,
-      "street": "Unknown Street",
+      "id": "54d38c0b-c525-43bf-ace5-1dbe02604b5b",
+      "latitude": -34.860277,
+      "longitude": 138.600986,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T08:18:29Z"
+    },
+    {
+      "id": "da19f942-556d-4ac4-a6e0-422ee7787ed4",
+      "latitude": -34.840433,
+      "longitude": 138.712049,
+      "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
-      "reported_at": "2026-03-20T07:25:19Z"
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T07:33:21Z"
     },
     {
-      "id": "161ee23b-57b0-4987-8423-6c2ecfdd23a3",
-      "latitude": -34.780226,
-      "longitude": 138.65712,
+      "id": "94065b9e-031e-4531-879c-fc10c4f78b59",
+      "latitude": -34.780382,
+      "longitude": 138.65673,
       "street": "A20 - Main North Rd",
-      "city": "Salisbury East",
+      "city": "Brahma Lodge",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:00:25Z",
-      "reported_at": "2026-03-20T07:29:18Z"
+      "timestamp": "2026-03-20T08:30:25Z",
+      "reported_at": "2026-03-20T07:32:51Z"
     }
   ]
 }
