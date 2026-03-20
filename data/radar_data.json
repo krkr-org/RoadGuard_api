@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "05f18916-7f57-49bb-b5ea-079fcec1f162",
+      "latitude": -35.007358,
+      "longitude": 138.542445,
+      "street": "Murray Tce",
+      "city": "Oaklands Park",
+      "type": "mobile",
+      "timestamp": "2026-03-20T09:00:23Z",
+      "reported_at": "2026-03-20T08:49:18Z"
+    },
+    {
       "id": "926cdbff-a368-4f60-96ac-bee3b81fe80a",
       "latitude": -34.868915,
       "longitude": 138.686669,
       "street": "George St",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T07:56:33Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Pauls Dr",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T07:26:25Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T05:16:03Z"
     },
     {
@@ -37,18 +47,8 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T05:18:20Z"
-    },
-    {
-      "id": "1e8b9638-22d7-44b6-b554-1426e008e39d",
-      "latitude": -34.986546,
-      "longitude": 138.592281,
-      "street": "Goodwood Rd",
-      "city": "Unknown City",
-      "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
-      "reported_at": "2026-03-20T08:15:51Z"
     },
     {
       "id": "075f2165-93ab-470b-9f15-e36d02346f65",
@@ -57,7 +57,7 @@
       "street": "Grange Rd",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T08:08:39Z"
     },
     {
@@ -67,18 +67,8 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T05:11:55Z"
-    },
-    {
-      "id": "78418392-2159-4666-acc5-04c2c79aab73",
-      "latitude": -35.078883,
-      "longitude": 138.797511,
-      "street": "B34 - Echunga Rd",
-      "city": "Biggs Flat",
-      "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
-      "reported_at": "2026-03-20T05:46:25Z"
     },
     {
       "id": "9bd3985e-6484-478b-9aa2-c7dfd2ad9f7a",
@@ -87,28 +77,8 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T06:27:20Z"
-    },
-    {
-      "id": "a29309eb-66af-48f2-9489-4d8636e0d477",
-      "latitude": -34.91459,
-      "longitude": 138.644359,
-      "street": "B27 - Magill Rd",
-      "city": "Beulah Park",
-      "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
-      "reported_at": "2026-03-20T07:58:16Z"
-    },
-    {
-      "id": "54d38c0b-c525-43bf-ace5-1dbe02604b5b",
-      "latitude": -34.860277,
-      "longitude": 138.600986,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
-      "reported_at": "2026-03-20T08:18:29Z"
     },
     {
       "id": "da19f942-556d-4ac4-a6e0-422ee7787ed4",
@@ -117,18 +87,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
+      "timestamp": "2026-03-20T09:00:23Z",
       "reported_at": "2026-03-20T07:33:21Z"
     },
     {
-      "id": "94065b9e-031e-4531-879c-fc10c4f78b59",
-      "latitude": -34.780382,
-      "longitude": 138.65673,
-      "street": "A20 - Main North Rd",
-      "city": "Brahma Lodge",
+      "id": "9c21d818-95b8-4b2d-ac23-d19a26eb0f07",
+      "latitude": -35.006858,
+      "longitude": 138.558076,
+      "street": "A14 - Marion Rd",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-20T08:30:25Z",
-      "reported_at": "2026-03-20T07:32:51Z"
+      "timestamp": "2026-03-20T09:00:23Z",
+      "reported_at": "2026-03-20T08:56:03Z"
+    },
+    {
+      "id": "31cdac2c-eceb-44a1-b35c-35b35993b235",
+      "latitude": -34.776493,
+      "longitude": 138.595197,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-20T09:00:23Z",
+      "reported_at": "2026-03-20T08:35:18Z"
     }
   ]
 }
