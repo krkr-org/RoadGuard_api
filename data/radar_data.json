@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "0655af05-7b27-4f77-84af-d15a66d5e566",
-      "latitude": -34.704909,
-      "longitude": 138.685471,
-      "street": "Mavros Rd",
-      "city": "Elizabeth Downs",
+      "id": "8fac3836-dde6-4621-9c1d-32ea4fe7d12c",
+      "latitude": -34.839026,
+      "longitude": 138.653704,
+      "street": "Pauls Dr",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
-      "reported_at": "2026-03-20T03:41:24Z"
-    },
-    {
-      "id": "207fccbf-97c6-46ff-b678-506673e56c82",
-      "latitude": -34.829507,
-      "longitude": 138.640581,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
-      "reported_at": "2026-03-20T05:16:03Z"
-    },
-    {
-      "id": "50c09acf-9fc9-4c0f-bd06-c515799b0f2d",
-      "latitude": -34.869643,
-      "longitude": 138.67861,
-      "street": "George St",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
-      "reported_at": "2026-03-20T05:33:52Z"
+      "timestamp": "2026-03-20T08:00:25Z",
+      "reported_at": "2026-03-20T07:26:25Z"
     },
     {
       "id": "48dbb84f-2489-4b3d-aaa0-f721272ccb4e",
@@ -37,8 +17,38 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
+      "timestamp": "2026-03-20T08:00:25Z",
       "reported_at": "2026-03-20T05:18:20Z"
+    },
+    {
+      "id": "8d47f7be-63d7-4e96-afe7-a7f63506156a",
+      "latitude": -34.868873,
+      "longitude": 138.686957,
+      "street": "George St",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:00:25Z",
+      "reported_at": "2026-03-20T06:02:19Z"
+    },
+    {
+      "id": "207fccbf-97c6-46ff-b678-506673e56c82",
+      "latitude": -34.829507,
+      "longitude": 138.640581,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:00:25Z",
+      "reported_at": "2026-03-20T05:16:03Z"
+    },
+    {
+      "id": "c093a9b5-d34c-4345-a4ac-d163c17ee764",
+      "latitude": -34.93088,
+      "longitude": 138.587853,
+      "street": "West Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:00:25Z",
+      "reported_at": "2026-03-20T07:45:05Z"
     },
     {
       "id": "df2f1e45-0ea4-4f8e-a5af-7a3e7bff17ee",
@@ -47,18 +57,8 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
+      "timestamp": "2026-03-20T08:00:25Z",
       "reported_at": "2026-03-20T05:11:55Z"
-    },
-    {
-      "id": "9bd3985e-6484-478b-9aa2-c7dfd2ad9f7a",
-      "latitude": -35.067765,
-      "longitude": 138.798571,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
-      "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
-      "reported_at": "2026-03-20T06:27:20Z"
     },
     {
       "id": "78418392-2159-4666-acc5-04c2c79aab73",
@@ -67,8 +67,28 @@
       "street": "B34 - Echunga Rd",
       "city": "Biggs Flat",
       "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
+      "timestamp": "2026-03-20T08:00:25Z",
       "reported_at": "2026-03-20T05:46:25Z"
+    },
+    {
+      "id": "9bd3985e-6484-478b-9aa2-c7dfd2ad9f7a",
+      "latitude": -35.067765,
+      "longitude": 138.798571,
+      "street": "B34 - Echunga Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:00:25Z",
+      "reported_at": "2026-03-20T06:27:20Z"
+    },
+    {
+      "id": "e3f53daa-0c1a-4982-94bb-9e02eb6d567c",
+      "latitude": -34.850709,
+      "longitude": 138.54478,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-20T08:00:25Z",
+      "reported_at": "2026-03-20T07:36:41Z"
     },
     {
       "id": "77483909-e451-4aa8-a9c9-92d3ccf8add6",
@@ -77,7 +97,7 @@
       "street": "Unknown Street",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
+      "timestamp": "2026-03-20T08:00:25Z",
       "reported_at": "2026-03-20T07:25:19Z"
     },
     {
@@ -87,18 +107,8 @@
       "street": "A20 - Main North Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
+      "timestamp": "2026-03-20T08:00:25Z",
       "reported_at": "2026-03-20T07:29:18Z"
-    },
-    {
-      "id": "102f8fc2-3e23-479c-b335-0f261cf396ee",
-      "latitude": -35.047305,
-      "longitude": 138.821369,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-03-20T07:30:25Z",
-      "reported_at": "2026-03-20T07:22:34Z"
     }
   ]
 }
