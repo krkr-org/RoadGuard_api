@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "ba9987d2-956f-4e41-8f54-b4038ef1fe55",
+      "latitude": -34.788209,
+      "longitude": 138.602473,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-20T22:00:23Z",
+      "reported_at": "2026-03-20T21:21:15Z"
+    },
+    {
+      "id": "233f1ddd-d95b-4c17-866f-d380afc2f774",
+      "latitude": -34.791808,
+      "longitude": 138.59928,
+      "street": "Martins Rd",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-03-20T22:00:23Z",
+      "reported_at": "2026-03-20T21:00:43Z"
+    },
+    {
+      "id": "a2c8bab5-5a52-4821-9d76-73bf41add8ed",
+      "latitude": -34.781103,
+      "longitude": 138.650818,
+      "street": "Frost Rd",
+      "city": "Brahma Lodge",
+      "type": "mobile",
+      "timestamp": "2026-03-20T22:00:23Z",
+      "reported_at": "2026-03-20T21:34:41Z"
+    },
+    {
+      "id": "3e992ed2-152d-408a-9a37-cbb453ec7b54",
+      "latitude": -34.768019,
+      "longitude": 138.674207,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-20T22:00:23Z",
+      "reported_at": "2026-03-20T21:54:16Z"
+    },
+    {
+      "id": "8dedc4f5-0cb3-44dc-8099-e4059331c2f3",
+      "latitude": -34.889246,
+      "longitude": 138.6292,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-03-20T22:00:23Z",
+      "reported_at": "2026-03-20T21:56:05Z"
+    }
+  ]
 }
