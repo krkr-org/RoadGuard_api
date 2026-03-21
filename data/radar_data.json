@@ -1,54 +1,64 @@
 {
   "radars": [
     {
-      "id": "e5ac3705-997e-431f-b7a9-9f6e9a7f800d",
-      "latitude": -34.871494,
-      "longitude": 138.637141,
-      "street": "Thistle Av",
-      "city": "Klemzig",
+      "id": "a4d3eabf-b666-47de-9107-4ac06c239099",
+      "latitude": -34.861313,
+      "longitude": 138.506451,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-03-21T04:30:22Z",
-      "reported_at": "2026-03-21T00:35:11Z"
+      "timestamp": "2026-03-21T05:00:22Z",
+      "reported_at": "2026-03-21T04:42:53Z"
     },
     {
-      "id": "ef92a82b-62d2-4bbe-a09b-b2cc6cffccb1",
-      "latitude": -35.105742,
-      "longitude": 138.51162,
-      "street": "Sherriffs Rd",
-      "city": "Morphett Vale",
+      "id": "45e96fb8-8dbb-4ff3-ab72-ea0c7a2be4ed",
+      "latitude": -34.920548,
+      "longitude": 138.583346,
+      "street": "Port Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-21T04:30:22Z",
-      "reported_at": "2026-03-21T03:45:35Z"
+      "timestamp": "2026-03-21T05:00:22Z",
+      "reported_at": "2026-03-21T04:47:51Z"
     },
     {
-      "id": "7a5cfb23-a75b-4adf-b985-e765291244a2",
-      "latitude": -34.976065,
-      "longitude": 138.526201,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
+      "id": "7aa9983f-3b85-4085-8b7b-7afa20fe1e0f",
+      "latitude": -34.899099,
+      "longitude": 138.591127,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
       "type": "mobile",
-      "timestamp": "2026-03-21T04:30:22Z",
-      "reported_at": "2026-03-21T04:10:02Z"
+      "timestamp": "2026-03-21T05:00:22Z",
+      "reported_at": "2026-03-21T04:49:51Z"
     },
     {
-      "id": "a4358131-4ad2-4bf7-92ee-e2ca165bc155",
-      "latitude": -34.796223,
-      "longitude": 138.654398,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-21T04:30:22Z",
-      "reported_at": "2026-03-21T01:00:12Z"
-    },
-    {
-      "id": "88af5cf4-a08f-4507-8d70-eacf11bfcb0f",
-      "latitude": -34.768181,
-      "longitude": 138.674977,
+      "id": "2353b1b2-b6e4-47b5-a74e-65e5c9203aa3",
+      "latitude": -34.766984,
+      "longitude": 138.671324,
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-21T04:30:22Z",
-      "reported_at": "2026-03-21T00:37:36Z"
+      "timestamp": "2026-03-21T05:00:22Z",
+      "reported_at": "2026-03-21T02:02:57Z"
+    },
+    {
+      "id": "bd7c1ffe-a65d-4b0c-bf3d-0253f1ecc116",
+      "latitude": -34.834058,
+      "longitude": 138.539864,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-03-21T05:00:22Z",
+      "reported_at": "2026-03-21T04:49:29Z"
+    },
+    {
+      "id": "e6d67f6b-867c-451e-884a-c66f88b14cd2",
+      "latitude": -34.833704,
+      "longitude": 138.54397,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-21T05:00:22Z",
+      "reported_at": "2026-03-21T04:48:19Z"
     }
   ]
 }
