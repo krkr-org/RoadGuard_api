@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "e7cb64ec-01c0-49e0-acd1-6ea06e5d1e0b",
-      "latitude": -34.861134,
-      "longitude": 138.529287,
+      "id": "19f073fe-c579-4472-a9c0-fa56df3755e9",
+      "latitude": -34.852632,
+      "longitude": 138.54245,
+      "street": "Athol St",
+      "city": "Athol Park",
+      "type": "mobile",
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T06:13:11Z"
+    },
+    {
+      "id": "f1e8df07-b13d-447b-b2ea-d13cb869cc0d",
+      "latitude": -34.859592,
+      "longitude": 138.529229,
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T05:33:32Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T05:29:04Z"
+    },
+    {
+      "id": "4cd77972-b4be-48bb-8988-e036f86b4be0",
+      "latitude": -34.860805,
+      "longitude": 138.565291,
+      "street": "Days Rd",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T05:18:54Z"
     },
     {
       "id": "4dba6286-f8c0-406c-8fbe-89756e619637",
@@ -17,18 +37,8 @@
       "street": "to Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
+      "timestamp": "2026-03-21T06:30:23Z",
       "reported_at": "2026-03-21T05:27:10Z"
-    },
-    {
-      "id": "a4d3eabf-b666-47de-9107-4ac06c239099",
-      "latitude": -34.861313,
-      "longitude": 138.506451,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T04:42:53Z"
     },
     {
       "id": "593e9146-576b-4222-9165-9aa5adabe61b",
@@ -37,78 +47,108 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
+      "timestamp": "2026-03-21T06:30:23Z",
       "reported_at": "2026-03-21T05:12:16Z"
     },
     {
-      "id": "cb88728a-1666-4fc4-b7df-664e3d908e00",
-      "latitude": -34.995655,
-      "longitude": 138.705187,
+      "id": "88837dc4-083b-4986-9e61-d1dbfd9917eb",
+      "latitude": -34.812539,
+      "longitude": 138.644032,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T06:12:45Z"
+    },
+    {
+      "id": "a4d3eabf-b666-47de-9107-4ac06c239099",
+      "latitude": -34.861313,
+      "longitude": 138.506451,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T04:42:53Z"
+    },
+    {
+      "id": "d1ca3cae-dd15-435b-8e55-45989664cae0",
+      "latitude": -34.985705,
+      "longitude": 138.708455,
       "street": "B28 - Mount Lofty Summit Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T05:45:07Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T06:00:53Z"
     },
     {
-      "id": "c5192401-14fd-4c3c-8a52-d8907917d482",
-      "latitude": -34.848644,
-      "longitude": 138.600151,
+      "id": "9e70c1ff-5dab-488a-bb9c-558d5f88b6da",
+      "latitude": -34.84116,
+      "longitude": 138.599695,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T05:35:26Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T06:22:21Z"
     },
     {
-      "id": "6a611267-49f6-446e-a343-bc533b159205",
-      "latitude": -34.859406,
-      "longitude": 138.601035,
+      "id": "6f86869d-7e78-417b-a328-d260bbbbda99",
+      "latitude": -34.858439,
+      "longitude": 138.600851,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T05:09:06Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T05:12:17Z"
     },
     {
-      "id": "69bcb2e5-c7c8-49f2-be08-8a86ca29bc2c",
-      "latitude": -34.899077,
-      "longitude": 138.591473,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "7616bc8e-a3d8-4dfb-a352-fbe0e45bfb5a",
+      "latitude": -34.771619,
+      "longitude": 138.664836,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T05:11:59Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T06:17:41Z"
     },
     {
-      "id": "fdb5550f-6f97-4685-9dfa-940c8c3938f2",
-      "latitude": -34.76257,
-      "longitude": 138.672885,
+      "id": "3a2faee7-4f2a-4bba-812e-e9e0902e37d4",
+      "latitude": -34.766383,
+      "longitude": 138.669512,
       "street": "A20 - Main North Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T05:47:22Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T05:59:06Z"
     },
     {
-      "id": "2353b1b2-b6e4-47b5-a74e-65e5c9203aa3",
-      "latitude": -34.766984,
-      "longitude": 138.671324,
-      "street": "A11 - The Grove Way",
-      "city": "Salisbury Heights",
+      "id": "db67c4b5-a53c-4065-9ae0-82c08d1e5c70",
+      "latitude": -35.01557,
+      "longitude": 138.783656,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T02:02:57Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T06:06:10Z"
     },
     {
-      "id": "c31f907f-5d2d-42e1-9660-2ac6054ba1b5",
-      "latitude": -34.834024,
-      "longitude": 138.537535,
+      "id": "bd7c1ffe-a65d-4b0c-bf3d-0253f1ecc116",
+      "latitude": -34.834211,
+      "longitude": 138.536689,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T04:49:29Z"
+    },
+    {
+      "id": "e6d67f6b-867c-451e-884a-c66f88b14cd2",
+      "latitude": -34.833797,
+      "longitude": 138.542022,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-21T06:00:23Z",
-      "reported_at": "2026-03-21T04:56:23Z"
+      "timestamp": "2026-03-21T06:30:23Z",
+      "reported_at": "2026-03-21T04:48:19Z"
     }
   ]
 }
