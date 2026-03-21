@@ -7,7 +7,7 @@
       "street": "Athol St",
       "city": "Athol Park",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T06:13:11Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Fitzgerald Av",
       "city": "Enfield",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T05:49:29Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Arthur St",
       "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T05:49:22Z"
     },
     {
@@ -37,18 +37,28 @@
       "street": "Sir Richard Williams Av",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T07:16:40Z"
     },
     {
-      "id": "3c088548-82b8-4494-a29b-c0ca1d5b2671",
-      "latitude": -34.860478,
-      "longitude": 138.565271,
+      "id": "4cd77972-b4be-48bb-8988-e036f86b4be0",
+      "latitude": -34.860805,
+      "longitude": 138.565291,
       "street": "Days Rd",
       "city": "Angle Park",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T05:41:21Z"
+      "timestamp": "2026-03-21T09:00:22Z",
+      "reported_at": "2026-03-21T05:18:54Z"
+    },
+    {
+      "id": "4dba6286-f8c0-406c-8fbe-89756e619637",
+      "latitude": -34.83387,
+      "longitude": 138.540326,
+      "street": "to Hanson Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-21T09:00:22Z",
+      "reported_at": "2026-03-21T05:27:10Z"
     },
     {
       "id": "e7cb64ec-01c0-49e0-acd1-6ea06e5d1e0b",
@@ -57,7 +67,7 @@
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T05:33:32Z"
     },
     {
@@ -67,28 +77,8 @@
       "street": "Valiant Rd",
       "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T06:36:15Z"
-    },
-    {
-      "id": "4dba6286-f8c0-406c-8fbe-89756e619637",
-      "latitude": -34.83387,
-      "longitude": 138.540326,
-      "street": "to Hanson Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T05:27:10Z"
-    },
-    {
-      "id": "593e9146-576b-4222-9165-9aa5adabe61b",
-      "latitude": -34.891818,
-      "longitude": 138.510349,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T05:12:16Z"
     },
     {
       "id": "a4d3eabf-b666-47de-9107-4ac06c239099",
@@ -97,8 +87,28 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T04:42:53Z"
+    },
+    {
+      "id": "f4fb0b8f-6ae0-4c4d-b863-70f381b78161",
+      "latitude": -34.91573,
+      "longitude": 138.67626,
+      "street": "Penfold Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-03-21T09:00:22Z",
+      "reported_at": "2026-03-21T08:53:34Z"
+    },
+    {
+      "id": "593e9146-576b-4222-9165-9aa5adabe61b",
+      "latitude": -34.891818,
+      "longitude": 138.510349,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-21T09:00:22Z",
+      "reported_at": "2026-03-21T05:12:16Z"
     },
     {
       "id": "d1ca3cae-dd15-435b-8e55-45989664cae0",
@@ -107,58 +117,28 @@
       "street": "B28 - Mount Lofty Summit Rd",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
+      "timestamp": "2026-03-21T09:00:22Z",
       "reported_at": "2026-03-21T06:00:53Z"
     },
     {
-      "id": "9e70c1ff-5dab-488a-bb9c-558d5f88b6da",
-      "latitude": -34.840634,
-      "longitude": 138.599652,
+      "id": "b0906aaa-d92c-487f-8cc9-4645e0ea84a2",
+      "latitude": -34.84071,
+      "longitude": 138.599456,
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T06:22:21Z"
+      "timestamp": "2026-03-21T09:00:22Z",
+      "reported_at": "2026-03-21T04:57:43Z"
     },
     {
-      "id": "c5d300fa-571e-4a17-8fc0-96dc45bf7225",
-      "latitude": -34.856987,
-      "longitude": 138.600752,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T05:31:22Z"
-    },
-    {
-      "id": "c1ec0784-d461-4e94-9f26-855219c9fc4b",
-      "latitude": -34.875793,
-      "longitude": 138.528164,
-      "street": "A7 - Port Rd",
-      "city": "Cheltenham",
-      "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T08:13:50Z"
-    },
-    {
-      "id": "313a243e-7c92-4bf8-ae95-5f66fe1d71d9",
-      "latitude": -34.752355,
-      "longitude": 138.652052,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T08:02:24Z"
-    },
-    {
-      "id": "976cc49f-dcd5-4d7a-9f96-34e8b1e14820",
-      "latitude": -34.833957,
-      "longitude": 138.538853,
+      "id": "c31f907f-5d2d-42e1-9660-2ac6054ba1b5",
+      "latitude": -34.83398,
+      "longitude": 138.538434,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-21T08:30:22Z",
-      "reported_at": "2026-03-21T07:50:29Z"
+      "timestamp": "2026-03-21T09:00:22Z",
+      "reported_at": "2026-03-21T04:56:23Z"
     }
   ]
 }
