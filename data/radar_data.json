@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "ba9987d2-956f-4e41-8f54-b4038ef1fe55",
+      "latitude": -34.788209,
+      "longitude": 138.602473,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-21T01:30:22Z",
+      "reported_at": "2026-03-20T21:21:15Z"
+    },
+    {
       "id": "346065c7-2ae5-4916-8dc9-a88d2eeccc04",
       "latitude": -34.863985,
       "longitude": 138.653218,
       "street": "Pitman Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-21T01:00:23Z",
+      "timestamp": "2026-03-21T01:30:22Z",
       "reported_at": "2026-03-20T23:56:28Z"
-    },
-    {
-      "id": "c09dd27b-4d64-4737-bf3b-eed2b73a3490",
-      "latitude": -34.784416,
-      "longitude": 138.605859,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-21T01:00:23Z",
-      "reported_at": "2026-03-20T23:44:34Z"
     },
     {
       "id": "e5ac3705-997e-431f-b7a9-9f6e9a7f800d",
@@ -27,8 +27,28 @@
       "street": "Thistle Av",
       "city": "Klemzig",
       "type": "mobile",
-      "timestamp": "2026-03-21T01:00:23Z",
+      "timestamp": "2026-03-21T01:30:22Z",
       "reported_at": "2026-03-21T00:35:11Z"
+    },
+    {
+      "id": "d07e60d6-7f51-4147-ad60-c7250a4c61d1",
+      "latitude": -34.679178,
+      "longitude": 138.668601,
+      "street": "Davoren Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-21T01:30:22Z",
+      "reported_at": "2026-03-20T23:20:44Z"
+    },
+    {
+      "id": "f22fefd5-a9f8-421f-9ef4-fde8a4ab63e3",
+      "latitude": -35.023611,
+      "longitude": 138.607008,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2026-03-21T01:30:22Z",
+      "reported_at": "2026-03-21T01:15:31Z"
     },
     {
       "id": "e03d9bcc-6231-4f04-9c75-6565fa523756",
@@ -37,8 +57,28 @@
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-03-21T01:00:23Z",
+      "timestamp": "2026-03-21T01:30:22Z",
       "reported_at": "2026-03-20T23:43:19Z"
+    },
+    {
+      "id": "2a65ffcf-13ae-4865-b1e6-c9b917472ac1",
+      "latitude": -34.740904,
+      "longitude": 138.613063,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-21T01:30:22Z",
+      "reported_at": "2026-03-21T00:28:37Z"
+    },
+    {
+      "id": "40e0a5d3-4007-4d8d-ab3e-682e4d240e10",
+      "latitude": -34.795484,
+      "longitude": 138.653217,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-21T01:30:22Z",
+      "reported_at": "2026-03-21T00:10:59Z"
     },
     {
       "id": "fb9c2ebb-0334-4e9d-9ef6-30aa936651d4",
@@ -47,18 +87,18 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-21T01:00:23Z",
+      "timestamp": "2026-03-21T01:30:22Z",
       "reported_at": "2026-03-20T22:03:54Z"
     },
     {
-      "id": "0f9c42f4-fe1b-4049-92da-009b24b7c0c3",
-      "latitude": -34.79629,
-      "longitude": 138.654337,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "3f423001-f172-4426-a2a5-1035a653509e",
+      "latitude": -34.793076,
+      "longitude": 138.596772,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Green Fields",
       "type": "mobile",
-      "timestamp": "2026-03-21T01:00:23Z",
-      "reported_at": "2026-03-20T22:56:42Z"
+      "timestamp": "2026-03-21T01:30:22Z",
+      "reported_at": "2026-03-21T01:18:50Z"
     }
   ]
 }
