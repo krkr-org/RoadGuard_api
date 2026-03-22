@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "2ddaa3b5-6faf-4596-9596-f7da7400a6a7",
-      "latitude": -35.101388,
-      "longitude": 138.552942,
-      "street": "Barnes Cr",
-      "city": "Woodcroft",
-      "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T04:58:22Z"
-    },
-    {
       "id": "c8e11416-4286-4951-9d8e-50e6dff5ce67",
       "latitude": -34.796388,
       "longitude": 138.648876,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
+      "timestamp": "2026-03-22T09:00:24Z",
       "reported_at": "2026-03-22T06:45:08Z"
+    },
+    {
+      "id": "118a12b5-0d0e-4e8f-b399-dde83f3c7dcd",
+      "latitude": -35.102348,
+      "longitude": 138.553357,
+      "street": "Odessa Dr",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T07:06:16Z"
     },
     {
       "id": "19193b46-fbf5-47b4-9a82-75be9ea67ced",
@@ -27,7 +27,7 @@
       "street": "Unknown Street",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
+      "timestamp": "2026-03-22T09:00:24Z",
       "reported_at": "2026-03-22T06:40:42Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Bains Rd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
+      "timestamp": "2026-03-22T09:00:24Z",
       "reported_at": "2026-03-22T06:08:31Z"
     },
     {
@@ -47,18 +47,8 @@
       "street": "Galloway Rd",
       "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
+      "timestamp": "2026-03-22T09:00:24Z",
       "reported_at": "2026-03-22T05:03:13Z"
-    },
-    {
-      "id": "d54c3989-ca17-4397-9194-6d898fba5a95",
-      "latitude": -34.853373,
-      "longitude": 138.502195,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T04:46:31Z"
     },
     {
       "id": "2e047c45-3c4d-46f7-92ec-da96aad66eb9",
@@ -67,28 +57,8 @@
       "street": "Grants Gully Rd",
       "city": "Chandlers Hill",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
+      "timestamp": "2026-03-22T09:00:24Z",
       "reported_at": "2026-03-22T05:06:09Z"
-    },
-    {
-      "id": "0a432f43-dc52-419d-a628-a91dbbde79a9",
-      "latitude": -35.139857,
-      "longitude": 138.537389,
-      "street": "States Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T06:42:35Z"
-    },
-    {
-      "id": "e994231e-10f2-4bf8-bc8e-36316ac64b96",
-      "latitude": -35.087742,
-      "longitude": 138.54297,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T05:27:51Z"
     },
     {
       "id": "d869b884-53da-41c0-b648-0e25becf2ab2",
@@ -97,68 +67,88 @@
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
+      "timestamp": "2026-03-22T09:00:24Z",
       "reported_at": "2026-03-22T03:44:44Z"
     },
     {
-      "id": "e0626be0-9450-41ed-80b6-883ccc215a1e",
-      "latitude": -35.054351,
-      "longitude": 138.547325,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "e994231e-10f2-4bf8-bc8e-36316ac64b96",
+      "latitude": -35.087742,
+      "longitude": 138.54297,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T07:39:31Z"
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T05:27:51Z"
     },
     {
-      "id": "4f8a964e-ad9b-4ef7-98be-b3f686da574e",
-      "latitude": -34.8948,
-      "longitude": 138.636903,
-      "street": "A17 - Lower Portrush Rd",
-      "city": "Marden",
+      "id": "8369dcfc-865b-43bd-bc1d-d6ca5ad737c7",
+      "latitude": -35.142255,
+      "longitude": 138.537598,
+      "street": "States Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T07:39:47Z"
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T05:20:42Z"
     },
     {
-      "id": "5d48da71-6378-4ccd-bd54-6d5f621179c1",
-      "latitude": -35.101815,
-      "longitude": 138.530277,
+      "id": "f8046260-b43b-4678-9932-1ebee34f88bb",
+      "latitude": -34.797851,
+      "longitude": 138.657307,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T07:11:24Z"
+    },
+    {
+      "id": "6572ca55-e437-4a3f-8b2a-ec2a63952c6d",
+      "latitude": -35.100236,
+      "longitude": 138.53199,
       "street": "A13 - Main South Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T05:22:16Z"
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T08:42:55Z"
     },
     {
-      "id": "af66e962-8c02-4a65-a8f5-0e4449f0cb9e",
-      "latitude": -34.89835,
-      "longitude": 138.639279,
-      "street": "A17 - Portrush Rd",
-      "city": "Payneham",
+      "id": "ae7e3a2c-84aa-40d7-8eba-a152db9e6905",
+      "latitude": -34.788935,
+      "longitude": 138.642372,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T07:39:54Z"
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T08:50:38Z"
     },
     {
-      "id": "8c58bd97-66c0-4a82-ac00-2e1a07359a79",
-      "latitude": -35.102806,
-      "longitude": 138.512032,
+      "id": "879881c6-b7ad-4693-8d25-02e2b476184f",
+      "latitude": -35.04025,
+      "longitude": 138.526988,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T08:36:34Z"
+    },
+    {
+      "id": "58aff8d7-cb65-435c-a577-0183a1d9c1cb",
+      "latitude": -35.112195,
+      "longitude": 138.509006,
       "street": "M2 - Southern Exp",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T06:02:55Z"
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T05:20:30Z"
     },
     {
-      "id": "465829ba-f2dc-4359-8a14-b98a73b500cb",
-      "latitude": -34.75993,
-      "longitude": 138.5881,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
+      "id": "f2e34065-eac8-42e9-b639-60fee95cbe77",
+      "latitude": -34.994384,
+      "longitude": 138.736608,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2026-03-22T08:00:23Z",
-      "reported_at": "2026-03-22T07:02:07Z"
+      "timestamp": "2026-03-22T09:00:24Z",
+      "reported_at": "2026-03-22T07:50:37Z"
     }
   ]
 }
