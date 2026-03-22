@@ -7,18 +7,8 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
+      "timestamp": "2026-03-22T10:00:24Z",
       "reported_at": "2026-03-22T06:45:08Z"
-    },
-    {
-      "id": "870b3a04-2373-4d64-9464-98153aa13c68",
-      "latitude": -35.114161,
-      "longitude": 138.555793,
-      "street": "Bains Rd",
-      "city": "Woodcroft",
-      "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T07:01:22Z"
     },
     {
       "id": "19193b46-fbf5-47b4-9a82-75be9ea67ced",
@@ -27,58 +17,28 @@
       "street": "Unknown Street",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
+      "timestamp": "2026-03-22T10:00:24Z",
       "reported_at": "2026-03-22T06:40:42Z"
     },
     {
-      "id": "8c4080a9-0bad-405b-a4ba-7f821cf1d656",
-      "latitude": -35.10018,
-      "longitude": 138.552821,
+      "id": "118a12b5-0d0e-4e8f-b399-dde83f3c7dcd",
+      "latitude": -35.102348,
+      "longitude": 138.553357,
       "street": "Odessa Dr",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T08:11:03Z"
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T07:06:16Z"
     },
     {
-      "id": "8369dcfc-865b-43bd-bc1d-d6ca5ad737c7",
-      "latitude": -35.142255,
-      "longitude": 138.537598,
-      "street": "States Rd",
-      "city": "Hackham",
+      "id": "34dad13b-2783-428f-9781-76486de745c1",
+      "latitude": -35.114089,
+      "longitude": 138.557432,
+      "street": "Bains Rd",
+      "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T05:20:42Z"
-    },
-    {
-      "id": "90790f5d-4a19-49bc-b5b3-924553e2aa02",
-      "latitude": -34.95337,
-      "longitude": 138.589843,
-      "street": "Goodwood Rd",
-      "city": "Millswood",
-      "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T09:01:15Z"
-    },
-    {
-      "id": "de61fda8-ff3d-4af0-9bee-06861fbf54ad",
-      "latitude": -35.08653,
-      "longitude": 138.544373,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T06:52:36Z"
-    },
-    {
-      "id": "211bde96-6af0-4b27-8afa-5fe25b6b80df",
-      "latitude": -35.091491,
-      "longitude": 138.612491,
-      "street": "Grants Gully Rd",
-      "city": "Chandlers Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T04:54:15Z"
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T06:08:31Z"
     },
     {
       "id": "f8046260-b43b-4678-9932-1ebee34f88bb",
@@ -87,18 +47,98 @@
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
+      "timestamp": "2026-03-22T10:00:24Z",
       "reported_at": "2026-03-22T07:11:24Z"
     },
     {
-      "id": "ce8a0f90-991b-4e89-b821-356516638127",
-      "latitude": -35.101042,
-      "longitude": 138.531005,
+      "id": "0a432f43-dc52-419d-a628-a91dbbde79a9",
+      "latitude": -35.139857,
+      "longitude": 138.537389,
+      "street": "States Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T06:42:35Z"
+    },
+    {
+      "id": "211bde96-6af0-4b27-8afa-5fe25b6b80df",
+      "latitude": -35.091491,
+      "longitude": 138.612491,
+      "street": "Grants Gully Rd",
+      "city": "Chandlers Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T04:54:15Z"
+    },
+    {
+      "id": "de61fda8-ff3d-4af0-9bee-06861fbf54ad",
+      "latitude": -35.08653,
+      "longitude": 138.544373,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T06:52:36Z"
+    },
+    {
+      "id": "90790f5d-4a19-49bc-b5b3-924553e2aa02",
+      "latitude": -34.95337,
+      "longitude": 138.589843,
+      "street": "Goodwood Rd",
+      "city": "Millswood",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T09:01:15Z"
+    },
+    {
+      "id": "f2997c9c-df5b-4944-ae0a-15ba0a517121",
+      "latitude": -35.104371,
+      "longitude": 138.540684,
+      "street": "Pimpala Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T09:31:38Z"
+    },
+    {
+      "id": "5d48da71-6378-4ccd-bd54-6d5f621179c1",
+      "latitude": -35.101815,
+      "longitude": 138.530277,
       "street": "A13 - Main South Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T05:12:05Z"
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T05:22:16Z"
+    },
+    {
+      "id": "73158f84-9395-46c4-9611-39e160e30529",
+      "latitude": -34.940117,
+      "longitude": 138.62077,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Eastwood",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T09:12:46Z"
+    },
+    {
+      "id": "d2b97a88-d39d-44b8-b8e5-097d8a2c0746",
+      "latitude": -34.863152,
+      "longitude": 138.618459,
+      "street": "A17 - Hampstead Rd",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T09:34:52Z"
+    },
+    {
+      "id": "db929ad9-235b-49f3-8cda-ae17172fe14f",
+      "latitude": -34.782284,
+      "longitude": 138.62355,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T09:01:17Z"
     },
     {
       "id": "a1028838-087d-4951-af0b-9dd8e275f308",
@@ -107,18 +147,18 @@
       "street": "A18 - Kings Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
+      "timestamp": "2026-03-22T10:00:24Z",
       "reported_at": "2026-03-22T08:57:20Z"
     },
     {
-      "id": "517f1e43-33e3-41ad-92b5-a3acc842d5a4",
-      "latitude": -35.11253,
-      "longitude": 138.509022,
+      "id": "40447314-60f7-4c70-a9b3-864d65134bd2",
+      "latitude": -35.020973,
+      "longitude": 138.565619,
       "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
-      "reported_at": "2026-03-22T09:25:53Z"
+      "timestamp": "2026-03-22T10:00:24Z",
+      "reported_at": "2026-03-22T09:31:09Z"
     },
     {
       "id": "f2e34065-eac8-42e9-b639-60fee95cbe77",
@@ -127,7 +167,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2026-03-22T09:30:22Z",
+      "timestamp": "2026-03-22T10:00:24Z",
       "reported_at": "2026-03-22T07:50:37Z"
     }
   ]
