@@ -1,14 +1,74 @@
 {
   "radars": [
     {
+      "id": "7300fd4b-822a-450b-8aaa-9ae617a97a2e",
+      "latitude": -34.855887,
+      "longitude": 138.506664,
+      "street": "Webb St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-22T21:30:23Z",
+      "reported_at": "2026-03-22T21:00:29Z"
+    },
+    {
+      "id": "014eea61-0e41-4b98-9293-210bc02f10b9",
+      "latitude": -34.739243,
+      "longitude": 138.66979,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Grove",
+      "type": "mobile",
+      "timestamp": "2026-03-22T21:30:23Z",
+      "reported_at": "2026-03-22T20:25:43Z"
+    },
+    {
       "id": "c41574a3-0e09-480a-8f36-25e3c7ae4862",
       "latitude": -34.720928,
       "longitude": 138.626686,
       "street": "Fisher Bvd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:00:23Z",
+      "timestamp": "2026-03-22T21:30:23Z",
       "reported_at": "2026-03-22T20:56:56Z"
+    },
+    {
+      "id": "ce62d87e-68d4-4aa7-b773-8c077cb65780",
+      "latitude": -34.861806,
+      "longitude": 138.506347,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-03-22T21:30:23Z",
+      "reported_at": "2026-03-22T20:59:23Z"
+    },
+    {
+      "id": "dafb2f45-3011-41bb-891c-8fdf6f53dad6",
+      "latitude": -34.847632,
+      "longitude": 138.534555,
+      "street": "Eastern Pde",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-22T21:30:23Z",
+      "reported_at": "2026-03-22T21:09:48Z"
+    },
+    {
+      "id": "a3d1d43d-e5d9-4ee8-ae04-ff2f4cd62a03",
+      "latitude": -34.844257,
+      "longitude": 138.602929,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-22T21:30:23Z",
+      "reported_at": "2026-03-22T21:05:07Z"
+    },
+    {
+      "id": "9e67734c-99c1-4aa6-bf0f-c57481481a37",
+      "latitude": -34.84759,
+      "longitude": 138.611644,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-22T21:30:23Z",
+      "reported_at": "2026-03-22T21:24:54Z"
     }
   ]
 }
