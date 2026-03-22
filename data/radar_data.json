@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "19193b46-fbf5-47b4-9a82-75be9ea67ced",
-      "latitude": -35.106227,
-      "longitude": 138.509163,
-      "street": "Unknown Street",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T06:40:42Z"
-    },
-    {
       "id": "47df41bf-9d83-483c-84a4-6806e3b024da",
       "latitude": -35.114182,
       "longitude": 138.554937,
       "street": "Bains Rd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
+      "timestamp": "2026-03-22T12:30:21Z",
       "reported_at": "2026-03-22T10:30:13Z"
-    },
-    {
-      "id": "8c4080a9-0bad-405b-a4ba-7f821cf1d656",
-      "latitude": -35.10018,
-      "longitude": 138.552821,
-      "street": "Odessa Dr",
-      "city": "Woodcroft",
-      "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T08:11:03Z"
     },
     {
       "id": "63caf3fa-1cf6-4b45-9427-2d8fa5d59521",
@@ -37,28 +17,28 @@
       "street": "New England Dr",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
+      "timestamp": "2026-03-22T12:30:21Z",
       "reported_at": "2026-03-22T09:06:47Z"
     },
     {
-      "id": "21fed28a-f076-4239-8da2-a1c25c33fe25",
-      "latitude": -34.838054,
-      "longitude": 138.688477,
-      "street": "Reservoir Rd",
-      "city": "Modbury",
+      "id": "51c7f62a-6fe3-4c89-a534-bb98644d811c",
+      "latitude": -34.9204,
+      "longitude": 138.652514,
+      "street": "The Parade",
+      "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T11:13:40Z"
+      "timestamp": "2026-03-22T12:30:21Z",
+      "reported_at": "2026-03-22T10:59:08Z"
     },
     {
-      "id": "8369dcfc-865b-43bd-bc1d-d6ca5ad737c7",
-      "latitude": -35.142255,
-      "longitude": 138.537598,
-      "street": "States Rd",
-      "city": "Hackham",
+      "id": "ebb19316-1747-4baf-b5a5-c280f0638e00",
+      "latitude": -34.777114,
+      "longitude": 138.644371,
+      "street": "Unknown Street",
+      "city": "Brahma Lodge",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T05:20:42Z"
+      "timestamp": "2026-03-22T12:30:21Z",
+      "reported_at": "2026-03-22T10:42:25Z"
     },
     {
       "id": "38644332-8694-4754-8e51-a2742fad7451",
@@ -67,38 +47,18 @@
       "street": "Chandlers Hill Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
+      "timestamp": "2026-03-22T12:30:21Z",
       "reported_at": "2026-03-22T10:16:15Z"
     },
     {
-      "id": "90790f5d-4a19-49bc-b5b3-924553e2aa02",
-      "latitude": -34.95337,
-      "longitude": 138.589843,
-      "street": "Goodwood Rd",
-      "city": "Millswood",
+      "id": "5e29dec9-4028-4f9d-a9c8-074da7cf85b8",
+      "latitude": -35.087416,
+      "longitude": 138.543347,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T09:01:15Z"
-    },
-    {
-      "id": "d4244b7b-6f7e-4344-9d18-c5168fa1250c",
-      "latitude": -34.904252,
-      "longitude": 138.565942,
-      "street": "South Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T09:44:11Z"
-    },
-    {
-      "id": "211bde96-6af0-4b27-8afa-5fe25b6b80df",
-      "latitude": -35.091491,
-      "longitude": 138.612491,
-      "street": "Grants Gully Rd",
-      "city": "Chandlers Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T04:54:15Z"
+      "timestamp": "2026-03-22T12:30:21Z",
+      "reported_at": "2026-03-22T10:02:23Z"
     },
     {
       "id": "56ae67cc-b336-45d5-b436-2298c7decd74",
@@ -107,38 +67,28 @@
       "street": "A13 - Main South Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
+      "timestamp": "2026-03-22T12:30:21Z",
       "reported_at": "2026-03-22T09:46:08Z"
     },
     {
-      "id": "322f4307-1775-4f9d-9411-25bfd322f1f8",
-      "latitude": -35.009503,
-      "longitude": 138.558278,
-      "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
+      "id": "46369074-7c9a-44db-89ee-23e05d12c49c",
+      "latitude": -34.958905,
+      "longitude": 138.562793,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T10:59:40Z"
+      "timestamp": "2026-03-22T12:30:21Z",
+      "reported_at": "2026-03-22T12:14:28Z"
     },
     {
-      "id": "73158f84-9395-46c4-9611-39e160e30529",
-      "latitude": -34.940117,
-      "longitude": 138.62077,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Eastwood",
+      "id": "2c1fd6bb-fdb3-494a-b0ed-c1d3e8489128",
+      "latitude": -34.719857,
+      "longitude": 138.673083,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T09:12:46Z"
-    },
-    {
-      "id": "f2e34065-eac8-42e9-b639-60fee95cbe77",
-      "latitude": -34.994384,
-      "longitude": 138.736608,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-03-22T11:30:22Z",
-      "reported_at": "2026-03-22T07:50:37Z"
+      "timestamp": "2026-03-22T12:30:21Z",
+      "reported_at": "2026-03-22T12:01:50Z"
     }
   ]
 }
