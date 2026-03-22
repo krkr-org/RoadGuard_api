@@ -1,34 +1,104 @@
 {
   "radars": [
     {
+      "id": "3bda11a8-f9e1-43d8-8bf3-5f804a3d3af9",
+      "latitude": -34.931098,
+      "longitude": 138.608125,
+      "street": "Carrington St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-22T00:28:00Z"
+    },
+    {
+      "id": "60cf4d44-3695-4894-a9e7-6f7d6fe50351",
+      "latitude": -34.852725,
+      "longitude": 138.653763,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-21T23:03:06Z"
+    },
+    {
       "id": "743b4e78-e1ae-4aad-887c-e3f849476847",
       "latitude": -34.861557,
       "longitude": 138.679845,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-03-21T22:00:23Z",
+      "timestamp": "2026-03-22T02:00:22Z",
       "reported_at": "2026-03-21T20:58:55Z"
     },
     {
-      "id": "51999e8a-cef3-4c95-938c-bddc1ab13daf",
-      "latitude": -34.937837,
-      "longitude": 138.594555,
+      "id": "75b8ba83-3e12-4733-bbae-75f2cb2a94b2",
+      "latitude": -34.733566,
+      "longitude": 138.682372,
+      "street": "Blackburn Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-21T22:04:03Z"
+    },
+    {
+      "id": "43b3a799-b497-41e7-ad69-6da96d2f8d8d",
+      "latitude": -34.826483,
+      "longitude": 138.659608,
+      "street": "Baldock Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-21T23:10:21Z"
+    },
+    {
+      "id": "0ad00bb5-ae32-4344-b8f1-97967d4f9f16",
+      "latitude": -34.745133,
+      "longitude": 138.667197,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-21T22:20:45Z"
+    },
+    {
+      "id": "d3cb9b25-2c17-433c-9ffa-c0719cecfbb4",
+      "latitude": -34.937721,
+      "longitude": 138.594548,
       "street": "Sir Lewis Cohen Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-21T22:00:23Z",
-      "reported_at": "2026-03-21T20:36:38Z"
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-21T21:17:18Z"
     },
     {
-      "id": "85b88185-9b03-49b0-a9e2-be29dfb8e264",
-      "latitude": -34.735955,
-      "longitude": 138.676016,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth East",
+      "id": "37a27fb7-8e5d-49eb-b8ce-b91c0ae80fc3",
+      "latitude": -34.900022,
+      "longitude": 138.539234,
+      "street": "Crittendon Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-03-21T22:00:23Z",
-      "reported_at": "2026-03-21T21:29:11Z"
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-21T23:46:54Z"
+    },
+    {
+      "id": "9b4280cf-26c2-4381-bfe1-d0d4aaa39e9d",
+      "latitude": -34.845179,
+      "longitude": 138.665376,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-22T00:50:44Z"
+    },
+    {
+      "id": "3f0a70fa-5755-4e5a-9473-f599dcd02b19",
+      "latitude": -35.147322,
+      "longitude": 138.475959,
+      "street": "A15 - Gawler St",
+      "city": "Port Noarlunga",
+      "type": "mobile",
+      "timestamp": "2026-03-22T02:00:22Z",
+      "reported_at": "2026-03-22T01:43:22Z"
     }
   ]
 }
