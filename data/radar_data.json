@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "1186164c-e041-4eed-8391-b2bdec88854e",
-      "latitude": -34.925735,
-      "longitude": 138.543757,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
+      "id": "2ddaa3b5-6faf-4596-9596-f7da7400a6a7",
+      "latitude": -35.101388,
+      "longitude": 138.552942,
+      "street": "Barnes Cr",
+      "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:03:12Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T04:58:22Z"
     },
     {
-      "id": "9e2b09a6-fbca-4146-9b05-cb7af1325b54",
-      "latitude": -34.857109,
-      "longitude": 138.502533,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
+      "id": "dd7ee6f4-caf4-4308-bfa3-9759b134757a",
+      "latitude": -35.122964,
+      "longitude": 138.47699,
+      "street": "Galloway Rd",
+      "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T04:47:06Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:03:13Z"
+    },
+    {
+      "id": "61a71c23-7ac9-4ca6-9e87-0c715891ad66",
+      "latitude": -34.890312,
+      "longitude": 138.569571,
+      "street": "South Rd",
+      "city": "Ridleyton",
+      "type": "mobile",
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:48:30Z"
     },
     {
       "id": "d54c3989-ca17-4397-9194-6d898fba5a95",
@@ -27,58 +37,18 @@
       "street": "Old Port Rd",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
+      "timestamp": "2026-03-22T06:00:22Z",
       "reported_at": "2026-03-22T04:46:31Z"
     },
     {
-      "id": "781b8c49-1449-433a-8157-d44d815a86d3",
-      "latitude": -34.832411,
-      "longitude": 138.482696,
-      "street": "Esplanade",
-      "city": "Semaphore",
+      "id": "9e2b09a6-fbca-4146-9b05-cb7af1325b54",
+      "latitude": -34.857109,
+      "longitude": 138.502533,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T02:06:23Z"
-    },
-    {
-      "id": "76ec149e-075f-41e1-b239-dd9dbf2a2ab3",
-      "latitude": -35.049466,
-      "longitude": 138.581243,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:02:09Z"
-    },
-    {
-      "id": "7691088c-e09f-4467-adc2-8f6057b049b3",
-      "latitude": -34.888062,
-      "longitude": 138.569476,
-      "street": "Torrens Rd",
-      "city": "Renown Park",
-      "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:13:11Z"
-    },
-    {
-      "id": "8369dcfc-865b-43bd-bc1d-d6ca5ad737c7",
-      "latitude": -35.142255,
-      "longitude": 138.537598,
-      "street": "States Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:20:42Z"
-    },
-    {
-      "id": "84bfc4b5-bdc3-4ca9-ba93-5c60e7ce61f5",
-      "latitude": -35.034929,
-      "longitude": 138.563555,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T04:57:52Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T04:47:06Z"
     },
     {
       "id": "e994231e-10f2-4bf8-bc8e-36316ac64b96",
@@ -87,7 +57,7 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
+      "timestamp": "2026-03-22T06:00:22Z",
       "reported_at": "2026-03-22T05:27:51Z"
     },
     {
@@ -97,58 +67,108 @@
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
+      "timestamp": "2026-03-22T06:00:22Z",
       "reported_at": "2026-03-22T03:44:44Z"
     },
     {
-      "id": "ae65fd40-5ba1-4c4f-8285-17413cd19d01",
-      "latitude": -34.936739,
-      "longitude": 138.594481,
-      "street": "Sir Lewis Cohen Av",
-      "city": "Adelaide",
+      "id": "8369dcfc-865b-43bd-bc1d-d6ca5ad737c7",
+      "latitude": -35.142255,
+      "longitude": 138.537598,
+      "street": "States Rd",
+      "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T02:04:30Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:20:42Z"
     },
     {
-      "id": "01704bd8-6b46-48fc-ab7f-440e7ba48f72",
-      "latitude": -34.940174,
-      "longitude": 138.619729,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Eastwood",
+      "id": "211bde96-6af0-4b27-8afa-5fe25b6b80df",
+      "latitude": -35.091491,
+      "longitude": 138.612491,
+      "street": "Grants Gully Rd",
+      "city": "Chandlers Hill",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:03:38Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T04:54:15Z"
     },
     {
-      "id": "dc3d75f4-66d7-48a8-b698-019e7a806e8e",
-      "latitude": -35.014706,
-      "longitude": 138.571945,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
+      "id": "bc00814c-4c5b-4dbe-a07f-40bca8caa416",
+      "latitude": -34.888863,
+      "longitude": 138.668061,
+      "street": "Montacute Rd",
+      "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:09:30Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:52:30Z"
     },
     {
-      "id": "f36e7e22-ddd5-4fbb-8b30-d09d6e1bca78",
-      "latitude": -35.111592,
-      "longitude": 138.508978,
+      "id": "ce8a0f90-991b-4e89-b821-356516638127",
+      "latitude": -35.100734,
+      "longitude": 138.531312,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:12:05Z"
+    },
+    {
+      "id": "c1ef8ab0-1f11-4c70-89ef-9921cd0d5e26",
+      "latitude": -34.860079,
+      "longitude": 138.651668,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:44:42Z"
+    },
+    {
+      "id": "c4bc9bb3-dad4-474e-bdcc-49dd7a57a21a",
+      "latitude": -34.933648,
+      "longitude": 138.53179,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:48:51Z"
+    },
+    {
+      "id": "77b0e052-d100-461f-b26d-4c865205d042",
+      "latitude": -35.01851,
+      "longitude": 138.558983,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:25:45Z"
+    },
+    {
+      "id": "462a532a-548c-4e33-8e91-dfddac301fbf",
+      "latitude": -35.045593,
+      "longitude": 138.621024,
+      "street": "B29 - Main Rd",
+      "city": "Coromandel Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:44:37Z"
+    },
+    {
+      "id": "58aff8d7-cb65-435c-a577-0183a1d9c1cb",
+      "latitude": -35.112519,
+      "longitude": 138.509022,
       "street": "M2 - Southern Exp",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T04:55:09Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:20:30Z"
     },
     {
-      "id": "8f2c2c80-aa5c-4ce4-9cd4-3ebb333ab147",
-      "latitude": -35.049505,
-      "longitude": 138.547457,
+      "id": "14b0c595-87d1-445a-ab58-9b33f92c2242",
+      "latitude": -35.021504,
+      "longitude": 138.565069,
       "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-03-22T05:30:22Z",
-      "reported_at": "2026-03-22T05:23:19Z"
+      "timestamp": "2026-03-22T06:00:22Z",
+      "reported_at": "2026-03-22T05:56:28Z"
     }
   ]
 }
