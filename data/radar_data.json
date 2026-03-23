@@ -1,3 +1,74 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "037b0df3-315e-4b7e-b2d7-48e9a342adc8",
+      "latitude": -34.970951,
+      "longitude": 138.623623,
+      "street": "Kitchener St",
+      "city": "Netherby",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:21:43Z"
+    },
+    {
+      "id": "ecc2ef43-134c-470a-b131-a378208697da",
+      "latitude": -34.979297,
+      "longitude": 138.607141,
+      "street": "Wattlebury Rd",
+      "city": "Lower Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:22:13Z"
+    },
+    {
+      "id": "5a8e5683-df1d-4e82-9b9d-e8748a0025ed",
+      "latitude": -35.050244,
+      "longitude": 138.588818,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:04:23Z"
+    },
+    {
+      "id": "a033d014-ce1b-4e59-b5c3-b693bd88f8b7",
+      "latitude": -34.884245,
+      "longitude": 138.513181,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:05:53Z"
+    },
+    {
+      "id": "f55b2f8c-a667-4f6e-8841-c834a88c0210",
+      "latitude": -34.908961,
+      "longitude": 138.628394,
+      "street": "A11 - Payneham Rd",
+      "city": "St. Peters",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:08:26Z"
+    },
+    {
+      "id": "bf87a93a-9f0f-46cb-b804-a5894d952bee",
+      "latitude": -35.021238,
+      "longitude": 138.784299,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:22:17Z"
+    },
+    {
+      "id": "0f664764-bb63-4f86-af63-e5643e002833",
+      "latitude": -34.820959,
+      "longitude": 138.561981,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-03-23T21:30:23Z",
+      "reported_at": "2026-03-23T21:09:54Z"
+    }
+  ]
 }
