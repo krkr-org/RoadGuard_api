@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "1a2dcc69-8ccc-4e25-b1e1-d2dc09f073e3",
-      "latitude": -34.764769,
-      "longitude": 138.622687,
-      "street": "Burton Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-03-23T13:00:23Z",
-      "reported_at": "2026-03-23T09:07:25Z"
-    },
-    {
       "id": "791fcd09-ac58-40e3-9564-1385ca82456b",
       "latitude": -34.777605,
       "longitude": 138.601339,
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-23T13:00:23Z",
+      "timestamp": "2026-03-23T13:30:24Z",
       "reported_at": "2026-03-23T10:41:54Z"
-    },
-    {
-      "id": "0de2d788-9ebe-4bf1-9baa-185eab04ce3a",
-      "latitude": -34.80796,
-      "longitude": 138.651206,
-      "street": "Kesters Rd",
-      "city": "Para Hills",
-      "type": "mobile",
-      "timestamp": "2026-03-23T13:00:23Z",
-      "reported_at": "2026-03-23T09:06:23Z"
-    },
-    {
-      "id": "11e06433-50c3-43ef-b3ce-b1f339020350",
-      "latitude": -34.936604,
-      "longitude": 138.588436,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-23T13:00:23Z",
-      "reported_at": "2026-03-23T12:04:44Z"
     },
     {
       "id": "a4eeba84-6b06-49a0-a697-3d6488569873",
@@ -47,8 +17,28 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-23T13:00:23Z",
+      "timestamp": "2026-03-23T13:30:24Z",
       "reported_at": "2026-03-23T10:25:06Z"
+    },
+    {
+      "id": "7e1c2713-e5f8-4f9d-b3a4-c2d2192b398a",
+      "latitude": -34.904171,
+      "longitude": 138.558521,
+      "street": "Grange Rd",
+      "city": "Welland",
+      "type": "mobile",
+      "timestamp": "2026-03-23T13:30:24Z",
+      "reported_at": "2026-03-23T13:20:03Z"
+    },
+    {
+      "id": "11e06433-50c3-43ef-b3ce-b1f339020350",
+      "latitude": -34.936604,
+      "longitude": 138.588436,
+      "street": "Unknown Street",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-23T13:30:24Z",
+      "reported_at": "2026-03-23T12:04:44Z"
     }
   ]
 }
