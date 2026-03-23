@@ -1,74 +1,124 @@
 {
   "radars": [
     {
+      "id": "ffd63b3c-9c9d-4d68-b05c-d7dc2798a21e",
+      "latitude": -34.969474,
+      "longitude": 138.606191,
+      "street": "Devonshire St",
+      "city": "Hawthorn",
+      "type": "mobile",
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:43:11Z"
+    },
+    {
+      "id": "82faf9e3-d058-4aa2-a8f8-1f75ed8a7428",
+      "latitude": -34.977624,
+      "longitude": 138.58423,
+      "street": "Edward St",
+      "city": "Cumberland Park",
+      "type": "mobile",
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:21:30Z"
+    },
+    {
+      "id": "e1ee90ea-6c53-4eaa-8ed9-2bfafb4c6cc3",
+      "latitude": -34.986773,
+      "longitude": 138.566805,
+      "street": "Dunorlan Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:34:03Z"
+    },
+    {
       "id": "037b0df3-315e-4b7e-b2d7-48e9a342adc8",
       "latitude": -34.970951,
       "longitude": 138.623623,
       "street": "Kitchener St",
       "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
+      "timestamp": "2026-03-23T22:00:23Z",
       "reported_at": "2026-03-23T21:21:43Z"
     },
     {
-      "id": "ecc2ef43-134c-470a-b131-a378208697da",
-      "latitude": -34.979297,
-      "longitude": 138.607141,
-      "street": "Wattlebury Rd",
+      "id": "1d29cd65-64fd-4f20-aa77-c62e2026318f",
+      "latitude": -34.981161,
+      "longitude": 138.609772,
+      "street": "Price Av",
       "city": "Lower Mitcham",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
-      "reported_at": "2026-03-23T21:22:13Z"
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T20:45:48Z"
     },
     {
-      "id": "5a8e5683-df1d-4e82-9b9d-e8748a0025ed",
-      "latitude": -35.050244,
-      "longitude": 138.588818,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "aea0c00e-6dd2-43ae-bd09-ba487c08af36",
+      "latitude": -35.139177,
+      "longitude": 138.475863,
+      "street": "Beach Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
-      "reported_at": "2026-03-23T21:04:23Z"
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:19:38Z"
     },
     {
-      "id": "a033d014-ce1b-4e59-b5c3-b693bd88f8b7",
-      "latitude": -34.884245,
-      "longitude": 138.513181,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
+      "id": "f1f8db52-c957-4524-8e16-58c4aa601895",
+      "latitude": -34.879389,
+      "longitude": 138.51224,
+      "street": "West Lakes Bvd",
+      "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
-      "reported_at": "2026-03-23T21:05:53Z"
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:08:38Z"
     },
     {
-      "id": "f55b2f8c-a667-4f6e-8841-c834a88c0210",
-      "latitude": -34.908961,
-      "longitude": 138.628394,
-      "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
+      "id": "ad8e819f-f9e4-4f8c-8bc4-cb1a18bba5c2",
+      "latitude": -34.828226,
+      "longitude": 138.685562,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
-      "reported_at": "2026-03-23T21:08:26Z"
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:20:23Z"
     },
     {
-      "id": "bf87a93a-9f0f-46cb-b804-a5894d952bee",
-      "latitude": -35.021238,
-      "longitude": 138.784299,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "982061f8-14b8-4b85-9e7d-f5ece0e2728e",
+      "latitude": -35.143468,
+      "longitude": 138.525012,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
-      "reported_at": "2026-03-23T21:22:17Z"
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:30:27Z"
     },
     {
-      "id": "0f664764-bb63-4f86-af63-e5643e002833",
-      "latitude": -34.820959,
-      "longitude": 138.561981,
+      "id": "8ba29405-3804-416f-9ee3-4b9e34d09f04",
+      "latitude": -34.965641,
+      "longitude": 138.608559,
+      "street": "B29 - Belair Rd",
+      "city": "Hawthorn",
+      "type": "mobile",
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:49:44Z"
+    },
+    {
+      "id": "10364f47-bf66-44cc-b717-2954ce638764",
+      "latitude": -34.848847,
+      "longitude": 138.58515,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:51:24Z"
+    },
+    {
+      "id": "0fd31352-9a8c-49f5-9969-50098f01c99c",
+      "latitude": -34.818054,
+      "longitude": 138.561701,
       "street": "M2 - North-South Mwy",
       "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-03-23T21:30:23Z",
-      "reported_at": "2026-03-23T21:09:54Z"
+      "timestamp": "2026-03-23T22:00:23Z",
+      "reported_at": "2026-03-23T21:45:23Z"
     }
   ]
 }
