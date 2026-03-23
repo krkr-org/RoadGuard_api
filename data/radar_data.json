@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "615b6697-f799-44d8-9d2c-e5905b51c316",
-      "latitude": -34.764195,
-      "longitude": 138.62215,
-      "street": "Burton Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T08:53:16Z"
-    },
-    {
       "id": "13d407eb-a197-4f42-adfb-497ecda54516",
       "latitude": -34.795082,
       "longitude": 138.609021,
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
+      "timestamp": "2026-03-23T11:00:23Z",
       "reported_at": "2026-03-23T08:52:32Z"
     },
     {
-      "id": "1feed39e-1b5f-46c5-9c08-0825bbdfc0c9",
-      "latitude": -34.841652,
-      "longitude": 138.514886,
-      "street": "Perkins Dr",
-      "city": "Port Adelaide",
+      "id": "1a2dcc69-8ccc-4e25-b1e1-d2dc09f073e3",
+      "latitude": -34.764769,
+      "longitude": 138.622687,
+      "street": "Burton Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T09:50:30Z"
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T09:07:25Z"
+    },
+    {
+      "id": "e2b48788-fc82-4bb1-8438-76f35639ef3b",
+      "latitude": -34.775864,
+      "longitude": 138.598473,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T09:32:25Z"
     },
     {
       "id": "422ba006-5f15-4932-8a4a-14c5debbc692",
@@ -37,18 +37,38 @@
       "street": "Brodie Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
+      "timestamp": "2026-03-23T11:00:23Z",
       "reported_at": "2026-03-23T08:15:34Z"
     },
     {
-      "id": "62ffc2d0-866c-4bc1-b506-28d41a6b66ca",
-      "latitude": -34.806996,
-      "longitude": 138.649617,
+      "id": "7b3de777-fece-49ee-94cb-ba927642a9a0",
+      "latitude": -34.991364,
+      "longitude": 138.592312,
+      "street": "Daws Rd",
+      "city": "Daw Park",
+      "type": "mobile",
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T10:42:02Z"
+    },
+    {
+      "id": "0de2d788-9ebe-4bf1-9baa-185eab04ce3a",
+      "latitude": -34.80796,
+      "longitude": 138.651206,
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T06:12:08Z"
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T09:06:23Z"
+    },
+    {
+      "id": "9f5f8c53-a3b2-49a6-9a32-44d1b72fd335",
+      "latitude": -35.034309,
+      "longitude": 138.563564,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T10:36:31Z"
     },
     {
       "id": "7a1c696d-3be3-452f-a958-a575112ee7bb",
@@ -57,8 +77,18 @@
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
+      "timestamp": "2026-03-23T11:00:23Z",
       "reported_at": "2026-03-23T06:29:04Z"
+    },
+    {
+      "id": "22bd23e9-8bc1-4ff3-8b70-6da2f4f8c6e1",
+      "latitude": -34.767728,
+      "longitude": 138.652534,
+      "street": "Fenden Rd",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T10:46:57Z"
     },
     {
       "id": "5409b682-cc66-4bca-9e9b-cc8fa33f0cea",
@@ -67,18 +97,18 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
+      "timestamp": "2026-03-23T11:00:23Z",
       "reported_at": "2026-03-23T05:02:25Z"
     },
     {
-      "id": "68689df4-aff1-42f0-8789-091987ff73fb",
-      "latitude": -34.848333,
-      "longitude": 138.617261,
-      "street": "A17 - Hampstead Rd",
-      "city": "Clearview",
+      "id": "06a1c8b7-2c7a-4052-9164-a17a46a89f30",
+      "latitude": -35.025906,
+      "longitude": 138.559317,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T09:23:07Z"
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T10:30:54Z"
     },
     {
       "id": "6b489798-5fd8-451c-bf21-09a254553e3f",
@@ -87,38 +117,28 @@
       "street": "B10 - North East Rd",
       "city": "Inglewood",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
+      "timestamp": "2026-03-23T11:00:23Z",
       "reported_at": "2026-03-23T07:25:20Z"
     },
     {
-      "id": "40a86624-5099-4148-be58-8eff4aef49df",
-      "latitude": -34.795795,
-      "longitude": 138.611631,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
+      "id": "92ff3701-9e4c-45fd-b697-cbe43cd884b5",
+      "latitude": -34.781761,
+      "longitude": 138.630566,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T09:46:01Z"
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T10:50:42Z"
     },
     {
-      "id": "c25991cf-9b2e-41c0-81fd-d9d17fb7d3f4",
-      "latitude": -34.733633,
-      "longitude": 138.576876,
+      "id": "73f3b235-305e-4346-9b75-bc49d66b243e",
+      "latitude": -34.73868,
+      "longitude": 138.578566,
       "street": "M2 - North-South Mwy",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T10:06:44Z"
-    },
-    {
-      "id": "5557ce01-d0b5-4d02-9561-942ea87c9754",
-      "latitude": -34.831314,
-      "longitude": 138.583663,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-03-23T10:30:23Z",
-      "reported_at": "2026-03-23T09:52:50Z"
+      "timestamp": "2026-03-23T11:00:23Z",
+      "reported_at": "2026-03-23T08:55:59Z"
     }
   ]
 }
