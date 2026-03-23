@@ -7,8 +7,18 @@
       "street": "Barton Cr",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
+      "timestamp": "2026-03-23T08:30:22Z",
       "reported_at": "2026-03-23T06:14:34Z"
+    },
+    {
+      "id": "074fb66f-480e-41c9-bd38-3ff7cda1f2c6",
+      "latitude": -34.79414,
+      "longitude": 138.60748,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T07:04:45Z"
     },
     {
       "id": "217c24c1-70f4-4c2e-ac03-6ecc359c8ac3",
@@ -17,18 +27,8 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
+      "timestamp": "2026-03-23T08:30:22Z",
       "reported_at": "2026-03-23T04:56:13Z"
-    },
-    {
-      "id": "ba0488a2-1a8b-49b3-a042-aed3bbc71955",
-      "latitude": -34.793847,
-      "longitude": 138.607003,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T05:17:04Z"
     },
     {
       "id": "f978133f-5d52-4ce2-9c75-34214e74373f",
@@ -37,8 +37,48 @@
       "street": "Liberator Dr",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
+      "timestamp": "2026-03-23T08:30:22Z",
       "reported_at": "2026-03-23T06:07:52Z"
+    },
+    {
+      "id": "cf2c6ac2-8c58-439d-8a1d-a44956be25d7",
+      "latitude": -34.907503,
+      "longitude": 138.491388,
+      "street": "Grange Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T08:01:37Z"
+    },
+    {
+      "id": "7a1c696d-3be3-452f-a958-a575112ee7bb",
+      "latitude": -34.770732,
+      "longitude": 138.618107,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T06:29:04Z"
+    },
+    {
+      "id": "627b65ec-724c-4b26-ae4b-67cc3f779787",
+      "latitude": -35.010808,
+      "longitude": 138.582587,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T08:12:34Z"
+    },
+    {
+      "id": "70510c48-dc0a-438d-8010-2f6521394624",
+      "latitude": -34.805938,
+      "longitude": 138.617971,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T08:04:50Z"
     },
     {
       "id": "311d2b86-f955-4620-95cd-9252dfddc71b",
@@ -47,98 +87,28 @@
       "street": "Kesters Rd",
       "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
+      "timestamp": "2026-03-23T08:30:22Z",
       "reported_at": "2026-03-23T05:24:29Z"
     },
     {
-      "id": "9215eedc-facd-498d-aee2-f504b3ee3249",
-      "latitude": -34.771294,
-      "longitude": 138.617604,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
+      "id": "1716823b-7f30-4e1b-a987-274d6726bdab",
+      "latitude": -34.736538,
+      "longitude": 138.599378,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T04:59:03Z"
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T05:00:36Z"
     },
     {
-      "id": "a103427e-4938-47d3-adf4-6c8bfe9a39b6",
-      "latitude": -34.836277,
-      "longitude": 138.620342,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T07:20:09Z"
-    },
-    {
-      "id": "e8793a8a-203c-4c8b-85c5-eab2eab57dba",
-      "latitude": -34.875457,
-      "longitude": 138.563448,
-      "street": "Regency Rd",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T06:40:51Z"
-    },
-    {
-      "id": "c60f962a-7b68-4743-b614-69a371727e95",
-      "latitude": -34.989091,
-      "longitude": 138.520897,
-      "street": "A15 - Brighton Rd",
-      "city": "Glenelg South",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T07:14:28Z"
-    },
-    {
-      "id": "3c12789f-c8c2-4bb1-aea1-da7b5bb35b65",
-      "latitude": -34.896189,
-      "longitude": 138.585504,
-      "street": "A22 - Churchill Rd",
-      "city": "Ovingham",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T07:01:51Z"
-    },
-    {
-      "id": "fbf99f7a-9bb6-403a-974c-257d2ea7e3ad",
-      "latitude": -34.823703,
-      "longitude": 138.773867,
-      "street": "B10 - North East Rd",
-      "city": "Inglewood",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T07:18:47Z"
-    },
-    {
-      "id": "64025185-5b97-47b3-848e-e4da0a48aebf",
-      "latitude": -34.729204,
-      "longitude": 138.675077,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Grove",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T07:12:13Z"
-    },
-    {
-      "id": "1f452275-9988-44a9-a59b-888d6e1959c4",
-      "latitude": -34.739914,
-      "longitude": 138.578971,
+      "id": "214dceb6-290e-48e1-a62c-c829e8d11bc0",
+      "latitude": -34.740312,
+      "longitude": 138.579385,
       "street": "M2 - North-South Mwy",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T06:41:45Z"
-    },
-    {
-      "id": "c1bbfb9b-6ef3-4565-821a-5ed5f2637743",
-      "latitude": -34.972467,
-      "longitude": 138.655966,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-03-23T07:30:22Z",
-      "reported_at": "2026-03-23T05:04:31Z"
+      "timestamp": "2026-03-23T08:30:22Z",
+      "reported_at": "2026-03-23T06:17:09Z"
     }
   ]
 }
