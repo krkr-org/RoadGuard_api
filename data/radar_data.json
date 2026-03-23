@@ -2,13 +2,23 @@
   "radars": [
     {
       "id": "7300fd4b-822a-450b-8aaa-9ae617a97a2e",
-      "latitude": -34.855887,
-      "longitude": 138.506664,
+      "latitude": -34.855734,
+      "longitude": 138.50685,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
+      "timestamp": "2026-03-23T00:00:24Z",
       "reported_at": "2026-03-22T21:00:29Z"
+    },
+    {
+      "id": "2744431f-f540-4431-b9c6-ba9c9fd24aa7",
+      "latitude": -34.861722,
+      "longitude": 138.526198,
+      "street": "Torrens Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T21:45:52Z"
     },
     {
       "id": "014eea61-0e41-4b98-9293-210bc02f10b9",
@@ -17,18 +27,18 @@
       "street": "Haydown Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
+      "timestamp": "2026-03-23T00:00:24Z",
       "reported_at": "2026-03-22T20:25:43Z"
     },
     {
-      "id": "c41574a3-0e09-480a-8f36-25e3c7ae4862",
-      "latitude": -34.720928,
-      "longitude": 138.626686,
-      "street": "Fisher Bvd",
-      "city": "Edinburgh",
+      "id": "aba99a5b-bf1e-4c9e-9f35-ef46d6f6633d",
+      "latitude": -34.862603,
+      "longitude": 138.544671,
+      "street": "Ninth Av",
+      "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
-      "reported_at": "2026-03-22T20:56:56Z"
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T21:29:30Z"
     },
     {
       "id": "ce62d87e-68d4-4aa7-b773-8c077cb65780",
@@ -37,18 +47,48 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
+      "timestamp": "2026-03-23T00:00:24Z",
       "reported_at": "2026-03-22T20:59:23Z"
     },
     {
+      "id": "da7bda4c-2af6-42b3-8547-252fbc32ad66",
+      "latitude": -34.859286,
+      "longitude": 138.502812,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T23:37:23Z"
+    },
+    {
       "id": "dafb2f45-3011-41bb-891c-8fdf6f53dad6",
-      "latitude": -34.847632,
-      "longitude": 138.534555,
+      "latitude": -34.848232,
+      "longitude": 138.535003,
       "street": "Eastern Pde",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
+      "timestamp": "2026-03-23T00:00:24Z",
       "reported_at": "2026-03-22T21:09:48Z"
+    },
+    {
+      "id": "744f90eb-a2d6-4ba2-abaa-b48b2d3ad4f2",
+      "latitude": -35.07715,
+      "longitude": 138.582644,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T23:43:37Z"
+    },
+    {
+      "id": "a72a48a1-b80a-49b9-883e-c3177cac6763",
+      "latitude": -34.881181,
+      "longitude": 138.516724,
+      "street": "West Lakes Bvd",
+      "city": "Hendon",
+      "type": "mobile",
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T23:47:39Z"
     },
     {
       "id": "a3d1d43d-e5d9-4ee8-ae04-ff2f4cd62a03",
@@ -57,18 +97,38 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
+      "timestamp": "2026-03-23T00:00:24Z",
       "reported_at": "2026-03-22T21:05:07Z"
     },
     {
-      "id": "9e67734c-99c1-4aa6-bf0f-c57481481a37",
-      "latitude": -34.84759,
-      "longitude": 138.611644,
+      "id": "be776fa6-2104-4995-bb78-729c82c4adc2",
+      "latitude": -34.847457,
+      "longitude": 138.611415,
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-22T21:30:23Z",
-      "reported_at": "2026-03-22T21:24:54Z"
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T22:05:13Z"
+    },
+    {
+      "id": "a68491a9-3bf9-4d68-8f93-e2519cb56387",
+      "latitude": -34.965271,
+      "longitude": 138.64708,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T23:53:56Z"
+    },
+    {
+      "id": "1725f08e-60e2-410e-b05e-209890694546",
+      "latitude": -34.833737,
+      "longitude": 138.543285,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-23T00:00:24Z",
+      "reported_at": "2026-03-22T23:46:14Z"
     }
   ]
 }
