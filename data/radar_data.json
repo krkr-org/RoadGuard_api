@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "b8a33edd-afaf-4d44-a5c7-6ac5d6199d73",
-      "latitude": -34.859042,
-      "longitude": 138.503346,
+      "id": "7300fd4b-822a-450b-8aaa-9ae617a97a2e",
+      "latitude": -34.855734,
+      "longitude": 138.50685,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T00:26:48Z"
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-22T21:00:29Z"
     },
     {
       "id": "fd474b07-0572-402a-b82f-9bbbbf2036ec",
@@ -17,8 +17,38 @@
       "street": "South Tce",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
+      "timestamp": "2026-03-23T03:00:22Z",
       "reported_at": "2026-03-22T23:48:50Z"
+    },
+    {
+      "id": "3dffe700-2217-46ae-ba50-cbb2dae31648",
+      "latitude": -34.854396,
+      "longitude": 138.610486,
+      "street": "Reading St",
+      "city": "Clearview",
+      "type": "mobile",
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T02:40:01Z"
+    },
+    {
+      "id": "5626ba60-9137-4879-9f76-b6066795e396",
+      "latitude": -34.862477,
+      "longitude": 138.547119,
+      "street": "Ninth Av",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T01:55:08Z"
+    },
+    {
+      "id": "3611820b-3ce1-4398-ae6c-7b8d6db8a964",
+      "latitude": -34.90511,
+      "longitude": 138.583275,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T02:34:13Z"
     },
     {
       "id": "5856ee51-5129-4b37-a8be-e726bcb30a97",
@@ -27,38 +57,28 @@
       "street": "Torrens Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
+      "timestamp": "2026-03-23T03:00:22Z",
       "reported_at": "2026-03-22T23:51:15Z"
     },
     {
-      "id": "e84b6861-a8a6-4ccb-8f55-4d54947cb3fb",
-      "latitude": -34.743885,
-      "longitude": 138.647486,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "15704828-942a-4557-8ff6-18d622c66969",
+      "latitude": -34.928861,
+      "longitude": 138.599264,
+      "street": "Victoria Sq",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T02:04:08Z"
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T02:46:54Z"
     },
     {
-      "id": "4ff9386e-7808-405d-aeb8-46b887a575eb",
-      "latitude": -34.859332,
-      "longitude": 138.529219,
-      "street": "Addison Rd",
-      "city": "Pennington",
+      "id": "b249eb86-0d02-464a-b1f3-a2e77fd7c399",
+      "latitude": -34.940613,
+      "longitude": 138.60671,
+      "street": "Unley Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T02:11:42Z"
-    },
-    {
-      "id": "cd156c66-6b52-4645-a438-fbe9b4b17ce8",
-      "latitude": -34.993195,
-      "longitude": 138.567802,
-      "street": "Daws Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T02:01:20Z"
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T02:54:26Z"
     },
     {
       "id": "ce62d87e-68d4-4aa7-b773-8c077cb65780",
@@ -67,28 +87,8 @@
       "street": "Old Port Rd",
       "city": "Royal Park",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
+      "timestamp": "2026-03-23T03:00:22Z",
       "reported_at": "2026-03-22T20:59:23Z"
-    },
-    {
-      "id": "c415c3b7-52a9-4507-9100-e7ac3d5c2a2b",
-      "latitude": -34.921707,
-      "longitude": 138.594588,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T02:22:19Z"
-    },
-    {
-      "id": "73e23dfa-69e0-4f51-a201-fd876c7119c3",
-      "latitude": -35.136137,
-      "longitude": 138.535657,
-      "street": "Doctors Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T01:56:33Z"
     },
     {
       "id": "dafb2f45-3011-41bb-891c-8fdf6f53dad6",
@@ -97,28 +97,28 @@
       "street": "Eastern Pde",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
+      "timestamp": "2026-03-23T03:00:22Z",
       "reported_at": "2026-03-22T21:09:48Z"
     },
     {
-      "id": "cf12693c-fdd1-4620-b0d4-638db7f0b693",
-      "latitude": -34.974347,
-      "longitude": 138.555602,
-      "street": "A14 - Marion Rd",
-      "city": "South Plympton",
+      "id": "b7e5fa69-31dc-4a4a-97dc-25ca13e0e5bc",
+      "latitude": -35.082576,
+      "longitude": 138.51196,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T02:25:19Z"
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T02:35:26Z"
     },
     {
-      "id": "a981b424-a48d-48c1-b836-edd8d79fa09c",
-      "latitude": -34.964812,
-      "longitude": 138.646325,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
+      "id": "0338e8fd-8763-41b3-9bcc-4a5786709517",
+      "latitude": -35.004391,
+      "longitude": 138.700123,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T01:50:34Z"
+      "timestamp": "2026-03-23T03:00:22Z",
+      "reported_at": "2026-03-23T02:44:19Z"
     },
     {
       "id": "e16755e7-4021-4a66-bd1a-9f3e8004202f",
@@ -127,28 +127,8 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
+      "timestamp": "2026-03-23T03:00:22Z",
       "reported_at": "2026-03-23T01:18:33Z"
-    },
-    {
-      "id": "082489a5-3ea1-4430-9d06-d297a2d8f2f2",
-      "latitude": -34.847447,
-      "longitude": 138.611852,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-22T21:16:40Z"
-    },
-    {
-      "id": "3c880f6f-a734-4610-81a6-33ec3b9cf8a9",
-      "latitude": -34.820805,
-      "longitude": 138.588698,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-03-23T02:30:23Z",
-      "reported_at": "2026-03-23T02:22:43Z"
     }
   ]
 }
