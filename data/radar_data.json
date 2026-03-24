@@ -7,7 +7,7 @@
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
+      "timestamp": "2026-03-24T07:30:23Z",
       "reported_at": "2026-03-24T05:07:55Z"
     },
     {
@@ -17,28 +17,18 @@
       "street": "Gwynne St",
       "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
+      "timestamp": "2026-03-24T07:30:23Z",
       "reported_at": "2026-03-24T06:20:57Z"
     },
     {
-      "id": "668cbdd4-d43c-4208-80d2-8f782a35d21c",
-      "latitude": -34.903812,
-      "longitude": 138.664696,
+      "id": "57b191e0-5c34-4f9e-8732-cae1bed1baa1",
+      "latitude": -34.903864,
+      "longitude": 138.663621,
       "street": "Arthur St",
       "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
-      "reported_at": "2026-03-24T06:26:39Z"
-    },
-    {
-      "id": "5b38b093-f042-466c-a05e-5de442b46e2e",
-      "latitude": -34.715004,
-      "longitude": 138.647347,
-      "street": "West Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
-      "reported_at": "2026-03-24T06:15:38Z"
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T05:03:11Z"
     },
     {
       "id": "8891d00e-d141-4e80-a148-98669b298c5b",
@@ -47,7 +37,7 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
+      "timestamp": "2026-03-24T07:30:23Z",
       "reported_at": "2026-03-24T04:50:36Z"
     },
     {
@@ -57,18 +47,28 @@
       "street": "Diagonal Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
+      "timestamp": "2026-03-24T07:30:23Z",
       "reported_at": "2026-03-24T05:27:46Z"
     },
     {
-      "id": "e0d4605f-32fe-4359-92cf-afc240d9d1dc",
-      "latitude": -34.93579,
-      "longitude": 138.508705,
-      "street": "A6 - Burbridge Rd",
-      "city": "West Beach",
+      "id": "9b9d2698-90b4-4b63-8b9a-a09d4b1d9b71",
+      "latitude": -34.818231,
+      "longitude": 138.676689,
+      "street": "Milne Rd",
+      "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
-      "reported_at": "2026-03-24T06:11:06Z"
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T07:04:59Z"
+    },
+    {
+      "id": "a6a7ee7e-7212-4312-adce-98f367f967dc",
+      "latitude": -34.851333,
+      "longitude": 138.50915,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T07:08:47Z"
     },
     {
       "id": "6dae4ef2-bba3-4271-8a0d-ec5dcd2d879d",
@@ -77,48 +77,58 @@
       "street": "A14 - Marion Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
+      "timestamp": "2026-03-24T07:30:23Z",
       "reported_at": "2026-03-24T06:10:40Z"
     },
     {
-      "id": "afb07c64-f73c-455a-8a58-ea4cef7a0bef",
-      "latitude": -34.941299,
-      "longitude": 138.59768,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
-      "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
-      "reported_at": "2026-03-24T06:34:31Z"
-    },
-    {
-      "id": "51da6053-2a16-49fc-9f3e-c6683b1a6476",
-      "latitude": -34.944569,
-      "longitude": 138.672392,
+      "id": "1b58239c-27d1-4725-af5b-2ec13a394565",
+      "latitude": -34.938788,
+      "longitude": 138.670924,
       "street": "B26 - Greenhill Rd",
       "city": "Burnside",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
-      "reported_at": "2026-03-24T06:00:25Z"
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T07:12:34Z"
     },
     {
-      "id": "e35eb381-1561-4279-bded-6095c13fd808",
-      "latitude": -34.914952,
-      "longitude": 138.640557,
-      "street": "A17 - Portrush Rd",
-      "city": "Norwood",
+      "id": "6ea70fac-39de-4f20-847d-a2fa292ca670",
+      "latitude": -34.815385,
+      "longitude": 138.676403,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
-      "reported_at": "2026-03-24T06:34:29Z"
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T07:03:58Z"
+    },
+    {
+      "id": "91604794-d22f-411c-858f-5d1233ba3cd7",
+      "latitude": -34.819918,
+      "longitude": 138.621657,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T06:53:57Z"
     },
     {
       "id": "35d372af-2919-4870-b760-4b2868d366bc",
-      "latitude": -34.817436,
-      "longitude": 138.624144,
+      "latitude": -34.818221,
+      "longitude": 138.623445,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-24T07:00:24Z",
+      "timestamp": "2026-03-24T07:30:23Z",
       "reported_at": "2026-03-24T06:49:47Z"
+    },
+    {
+      "id": "637f672b-6231-4ba2-aee7-074b2ffd294b",
+      "latitude": -34.87708,
+      "longitude": 138.529284,
+      "street": "A7 - Port Rd",
+      "city": "Woodville West",
+      "type": "mobile",
+      "timestamp": "2026-03-24T07:30:23Z",
+      "reported_at": "2026-03-24T07:02:21Z"
     }
   ]
 }
