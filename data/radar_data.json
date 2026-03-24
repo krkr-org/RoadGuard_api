@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "85ff7713-c568-49b1-bafc-282bfe4dea79",
-      "latitude": -34.883078,
-      "longitude": 138.666883,
+      "id": "f1d28b29-43eb-4fe4-9bb1-f809ecbc9659",
+      "latitude": -34.883744,
+      "longitude": 138.665782,
       "street": "Clairville Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-03-24T10:30:23Z",
-      "reported_at": "2026-03-24T05:07:55Z"
+      "timestamp": "2026-03-24T11:00:23Z",
+      "reported_at": "2026-03-24T09:15:36Z"
     },
     {
       "id": "bcc98b73-580c-4b08-807c-4f053ac3ea98",
@@ -17,18 +17,8 @@
       "street": "Gwynne St",
       "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-03-24T10:30:23Z",
+      "timestamp": "2026-03-24T11:00:23Z",
       "reported_at": "2026-03-24T06:20:57Z"
-    },
-    {
-      "id": "57b191e0-5c34-4f9e-8732-cae1bed1baa1",
-      "latitude": -34.903893,
-      "longitude": 138.663005,
-      "street": "Arthur St",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-03-24T10:30:23Z",
-      "reported_at": "2026-03-24T05:03:11Z"
     },
     {
       "id": "37c6d8d8-1f05-402c-b0c1-c466e8ba73cb",
@@ -37,28 +27,48 @@
       "street": "Statenborough St",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-24T10:30:23Z",
+      "timestamp": "2026-03-24T11:00:23Z",
       "reported_at": "2026-03-24T10:04:03Z"
     },
     {
-      "id": "64f05d34-937a-4ae6-b19b-5e23510bcd49",
-      "latitude": -34.836005,
-      "longitude": 138.599138,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
+      "id": "442e4070-3781-4dbc-b703-3ba3228fe638",
+      "latitude": -34.90387,
+      "longitude": 138.663482,
+      "street": "Arthur St",
+      "city": "Tranmere",
       "type": "mobile",
-      "timestamp": "2026-03-24T10:30:23Z",
-      "reported_at": "2026-03-24T10:00:03Z"
+      "timestamp": "2026-03-24T11:00:23Z",
+      "reported_at": "2026-03-24T05:40:37Z"
     },
     {
-      "id": "b9835934-f7d8-42e4-a46a-8ebf6881168c",
-      "latitude": -34.839661,
-      "longitude": 138.593382,
-      "street": "A22 - Cavan Rd",
-      "city": "Dry Creek",
+      "id": "55b53c0b-8979-41fe-b78c-26e34c391395",
+      "latitude": -34.807451,
+      "longitude": 138.62712,
+      "street": "Elder Smith Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-03-24T10:30:23Z",
-      "reported_at": "2026-03-24T09:59:19Z"
+      "timestamp": "2026-03-24T11:00:23Z",
+      "reported_at": "2026-03-24T10:30:57Z"
+    },
+    {
+      "id": "49c391d7-0427-4ba5-b931-d4c603be1171",
+      "latitude": -35.028843,
+      "longitude": 138.546672,
+      "street": "Seacombe Rd",
+      "city": "Seacombe Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-24T11:00:23Z",
+      "reported_at": "2026-03-24T10:51:15Z"
+    },
+    {
+      "id": "ea4c3e73-cd70-4180-b473-5c4a5798493f",
+      "latitude": -35.101479,
+      "longitude": 138.530589,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-24T11:00:23Z",
+      "reported_at": "2026-03-24T10:34:24Z"
     }
   ]
 }
