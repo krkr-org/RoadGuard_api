@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "2dd532b7-74b4-4b59-9c2b-9bb319ac18a5",
-      "latitude": -34.980555,
-      "longitude": 138.609727,
-      "street": "Price Av",
-      "city": "Lower Mitcham",
-      "type": "mobile",
-      "timestamp": "2026-03-24T04:30:22Z",
-      "reported_at": "2026-03-24T02:27:23Z"
-    },
-    {
       "id": "54526fb3-ce66-4060-afad-4961697b1585",
       "latitude": -34.987142,
       "longitude": 138.56442,
       "street": "Railway Tce",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-24T04:30:22Z",
+      "timestamp": "2026-03-24T05:00:23Z",
       "reported_at": "2026-03-24T00:57:40Z"
+    },
+    {
+      "id": "2dd532b7-74b4-4b59-9c2b-9bb319ac18a5",
+      "latitude": -34.980555,
+      "longitude": 138.609727,
+      "street": "Price Av",
+      "city": "Lower Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-03-24T05:00:23Z",
+      "reported_at": "2026-03-24T02:27:23Z"
     },
     {
       "id": "fa2530f5-0335-4135-8c74-d321e2b169d5",
@@ -27,38 +27,48 @@
       "street": "Adelaide Tce",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T04:30:22Z",
+      "timestamp": "2026-03-24T05:00:23Z",
       "reported_at": "2026-03-24T02:12:01Z"
     },
     {
-      "id": "94289e2a-eca9-400c-b4a8-41adad7629e3",
-      "latitude": -34.872541,
-      "longitude": 138.570659,
-      "street": "South Rd",
-      "city": "Regency Park",
+      "id": "8891d00e-d141-4e80-a148-98669b298c5b",
+      "latitude": -34.930001,
+      "longitude": 138.651326,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-24T04:30:22Z",
-      "reported_at": "2026-03-24T04:14:21Z"
+      "timestamp": "2026-03-24T05:00:23Z",
+      "reported_at": "2026-03-24T04:50:36Z"
     },
     {
-      "id": "b26d401b-6ba1-4cbd-99fc-7219171a062e",
-      "latitude": -34.820857,
-      "longitude": 138.500587,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
+      "id": "506e4b34-ebd6-4c61-a08f-d1b6c2c43061",
+      "latitude": -35.069002,
+      "longitude": 138.629447,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-24T04:30:22Z",
-      "reported_at": "2026-03-24T04:14:56Z"
+      "timestamp": "2026-03-24T05:00:23Z",
+      "reported_at": "2026-03-24T04:43:48Z"
     },
     {
-      "id": "6fbf3700-019d-4858-a6bb-4cb048f326a7",
-      "latitude": -34.886086,
-      "longitude": 138.625722,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
+      "id": "2a2242af-f002-4502-a480-6f5df6c75a2a",
+      "latitude": -34.804086,
+      "longitude": 138.702874,
+      "street": "Golden Grove Rd",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-03-24T04:30:22Z",
-      "reported_at": "2026-03-24T03:46:54Z"
+      "timestamp": "2026-03-24T05:00:23Z",
+      "reported_at": "2026-03-24T04:36:04Z"
+    },
+    {
+      "id": "3a227ac1-5b68-43af-8513-bd75e9875b48",
+      "latitude": -34.767709,
+      "longitude": 138.673644,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
+      "type": "mobile",
+      "timestamp": "2026-03-24T05:00:23Z",
+      "reported_at": "2026-03-24T04:51:53Z"
     }
   ]
 }
