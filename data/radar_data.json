@@ -1,24 +1,74 @@
 {
   "radars": [
     {
+      "id": "490089f9-9cc7-4a61-be48-14211363b335",
+      "latitude": -34.911845,
+      "longitude": 138.49665,
+      "street": "East Tce",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T23:58:42Z"
+    },
+    {
       "id": "0e303185-b29d-4bbe-99b4-970e93971094",
       "latitude": -34.987029,
       "longitude": 138.568008,
       "street": "Calstock Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
+      "timestamp": "2026-03-24T01:00:23Z",
       "reported_at": "2026-03-23T21:47:33Z"
     },
     {
-      "id": "dc5a4eaf-b297-4c61-afb8-95ed2d3cb693",
-      "latitude": -34.986798,
-      "longitude": 138.56636,
-      "street": "Dunorlan Rd",
-      "city": "Edwardstown",
+      "id": "cf39ff02-61be-4128-a767-509b13315394",
+      "latitude": -34.921268,
+      "longitude": 138.627557,
+      "street": "Sydenham Rd",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-23T21:34:10Z"
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-24T00:06:29Z"
+    },
+    {
+      "id": "0155b35c-ba27-4dd8-91cd-a734fe31d659",
+      "latitude": -34.977707,
+      "longitude": 138.581995,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T21:50:00Z"
+    },
+    {
+      "id": "5f8e3f06-5473-4990-800f-6a3b4bce856a",
+      "latitude": -34.979396,
+      "longitude": 138.605103,
+      "street": "Wattlebury Rd",
+      "city": "Lower Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T21:54:25Z"
+    },
+    {
+      "id": "c6447602-49e1-49fa-af67-900d4d04ec11",
+      "latitude": -34.986099,
+      "longitude": 138.534022,
+      "street": "Cliff St",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T22:51:01Z"
+    },
+    {
+      "id": "82faf9e3-d058-4aa2-a8f8-1f75ed8a7428",
+      "latitude": -34.977624,
+      "longitude": 138.58423,
+      "street": "Edward St",
+      "city": "Cumberland Park",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T21:21:30Z"
     },
     {
       "id": "1d29cd65-64fd-4f20-aa77-c62e2026318f",
@@ -27,8 +77,28 @@
       "street": "Price Av",
       "city": "Lower Mitcham",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
+      "timestamp": "2026-03-24T01:00:23Z",
       "reported_at": "2026-03-23T20:45:48Z"
+    },
+    {
+      "id": "a836d7f9-9ba0-49fa-bb34-5f20545d5640",
+      "latitude": -34.986291,
+      "longitude": 138.530229,
+      "street": "Cliff St",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T21:38:20Z"
+    },
+    {
+      "id": "dc5a4eaf-b297-4c61-afb8-95ed2d3cb693",
+      "latitude": -34.986798,
+      "longitude": 138.56636,
+      "street": "Dunorlan Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T21:34:10Z"
     },
     {
       "id": "b622a890-1d55-4dd1-b4ea-9df14541962c",
@@ -37,7 +107,7 @@
       "street": "Adelaide Tce",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
+      "timestamp": "2026-03-24T01:00:23Z",
       "reported_at": "2026-03-23T21:25:32Z"
     },
     {
@@ -47,18 +117,8 @@
       "street": "Kitchener St",
       "city": "Netherby",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
+      "timestamp": "2026-03-24T01:00:23Z",
       "reported_at": "2026-03-23T21:21:43Z"
-    },
-    {
-      "id": "ecc2ef43-134c-470a-b131-a378208697da",
-      "latitude": -34.979297,
-      "longitude": 138.607141,
-      "street": "Wattlebury Rd",
-      "city": "Lower Mitcham",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-23T21:22:13Z"
     },
     {
       "id": "71ae775f-c99d-47c7-ba5b-52bf02d824fa",
@@ -67,58 +127,48 @@
       "street": "Quick Rd",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
+      "timestamp": "2026-03-24T01:00:23Z",
       "reported_at": "2026-03-23T21:44:58Z"
     },
     {
-      "id": "0155b35c-ba27-4dd8-91cd-a734fe31d659",
-      "latitude": -34.977707,
-      "longitude": 138.581995,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
+      "id": "ae27b782-5d46-4628-9e1a-61623fdac201",
+      "latitude": -34.980154,
+      "longitude": 138.573061,
+      "street": "Unknown Street",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-23T21:50:00Z"
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-24T00:36:23Z"
     },
     {
-      "id": "a836d7f9-9ba0-49fa-bb34-5f20545d5640",
-      "latitude": -34.986291,
-      "longitude": 138.530229,
-      "street": "Cliff St",
-      "city": "Glenelg East",
+      "id": "e2766bd0-65d5-45a1-a536-16c13a4bafaa",
+      "latitude": -34.991914,
+      "longitude": 138.527121,
+      "street": "Diagonal Rd",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-23T21:38:20Z"
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-24T00:14:58Z"
     },
     {
-      "id": "82faf9e3-d058-4aa2-a8f8-1f75ed8a7428",
-      "latitude": -34.977624,
-      "longitude": 138.58423,
-      "street": "Edward St",
-      "city": "Cumberland Park",
+      "id": "73d32588-877d-4ba5-a23f-1bf8120b36b9",
+      "latitude": -34.996099,
+      "longitude": 138.530123,
+      "street": "Diagonal Rd",
+      "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-23T21:21:30Z"
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-24T00:15:40Z"
     },
     {
-      "id": "b051d00e-2260-43a3-a75f-95112c07860d",
-      "latitude": -35.009205,
-      "longitude": 138.586196,
+      "id": "348d618e-ff9c-4fcd-8948-87954a2d42b8",
+      "latitude": -35.008446,
+      "longitude": 138.586765,
       "street": "Fiveash Dr",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-23T22:37:08Z"
-    },
-    {
-      "id": "84312a49-258c-4e1d-8cc5-ece8c0ddf19e",
-      "latitude": -34.942055,
-      "longitude": 138.588884,
-      "street": "Goodwood Rd",
-      "city": "Wayville",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:30:23Z",
-      "reported_at": "2026-03-24T00:14:06Z"
+      "timestamp": "2026-03-24T01:00:23Z",
+      "reported_at": "2026-03-23T22:38:26Z"
     }
   ]
 }
