@@ -7,18 +7,8 @@
       "street": "Calstock Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
+      "timestamp": "2026-03-24T00:30:23Z",
       "reported_at": "2026-03-23T21:47:33Z"
-    },
-    {
-      "id": "418c53e5-aed3-487b-967a-f8bc4008cc64",
-      "latitude": -34.985997,
-      "longitude": 138.533158,
-      "street": "Joan Av",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:44:47Z"
     },
     {
       "id": "dc5a4eaf-b297-4c61-afb8-95ed2d3cb693",
@@ -27,68 +17,8 @@
       "street": "Dunorlan Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
+      "timestamp": "2026-03-24T00:30:23Z",
       "reported_at": "2026-03-23T21:34:10Z"
-    },
-    {
-      "id": "82faf9e3-d058-4aa2-a8f8-1f75ed8a7428",
-      "latitude": -34.977624,
-      "longitude": 138.58423,
-      "street": "Edward St",
-      "city": "Cumberland Park",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:21:30Z"
-    },
-    {
-      "id": "a836d7f9-9ba0-49fa-bb34-5f20545d5640",
-      "latitude": -34.986291,
-      "longitude": 138.530229,
-      "street": "Cliff St",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:38:20Z"
-    },
-    {
-      "id": "b622a890-1d55-4dd1-b4ea-9df14541962c",
-      "latitude": -34.985305,
-      "longitude": 138.566119,
-      "street": "Adelaide Tce",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:25:32Z"
-    },
-    {
-      "id": "8fbdadfb-6c71-4d13-90f8-9efbc87cb361",
-      "latitude": -34.848612,
-      "longitude": 138.516708,
-      "street": "Gray Tce",
-      "city": "Rosewater",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T23:32:04Z"
-    },
-    {
-      "id": "ecc2ef43-134c-470a-b131-a378208697da",
-      "latitude": -34.979297,
-      "longitude": 138.607141,
-      "street": "Wattlebury Rd",
-      "city": "Lower Mitcham",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:22:13Z"
-    },
-    {
-      "id": "037b0df3-315e-4b7e-b2d7-48e9a342adc8",
-      "latitude": -34.970951,
-      "longitude": 138.623623,
-      "street": "Kitchener St",
-      "city": "Netherby",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:21:43Z"
     },
     {
       "id": "1d29cd65-64fd-4f20-aa77-c62e2026318f",
@@ -97,18 +27,38 @@
       "street": "Price Av",
       "city": "Lower Mitcham",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
+      "timestamp": "2026-03-24T00:30:23Z",
       "reported_at": "2026-03-23T20:45:48Z"
     },
     {
-      "id": "ce535861-9c56-4c1f-b4cd-65acbba15bbf",
-      "latitude": -34.977822,
-      "longitude": 138.579756,
-      "street": "Edward St",
-      "city": "Clarence Gardens",
+      "id": "b622a890-1d55-4dd1-b4ea-9df14541962c",
+      "latitude": -34.985305,
+      "longitude": 138.566119,
+      "street": "Adelaide Tce",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T21:13:15Z"
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T21:25:32Z"
+    },
+    {
+      "id": "037b0df3-315e-4b7e-b2d7-48e9a342adc8",
+      "latitude": -34.970951,
+      "longitude": 138.623623,
+      "street": "Kitchener St",
+      "city": "Netherby",
+      "type": "mobile",
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T21:21:43Z"
+    },
+    {
+      "id": "ecc2ef43-134c-470a-b131-a378208697da",
+      "latitude": -34.979297,
+      "longitude": 138.607141,
+      "street": "Wattlebury Rd",
+      "city": "Lower Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T21:22:13Z"
     },
     {
       "id": "71ae775f-c99d-47c7-ba5b-52bf02d824fa",
@@ -117,58 +67,58 @@
       "street": "Quick Rd",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
+      "timestamp": "2026-03-24T00:30:23Z",
       "reported_at": "2026-03-23T21:44:58Z"
     },
     {
-      "id": "348d618e-ff9c-4fcd-8948-87954a2d42b8",
-      "latitude": -35.008446,
-      "longitude": 138.586765,
+      "id": "0155b35c-ba27-4dd8-91cd-a734fe31d659",
+      "latitude": -34.977707,
+      "longitude": 138.581995,
+      "street": "Edward St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T21:50:00Z"
+    },
+    {
+      "id": "a836d7f9-9ba0-49fa-bb34-5f20545d5640",
+      "latitude": -34.986291,
+      "longitude": 138.530229,
+      "street": "Cliff St",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T21:38:20Z"
+    },
+    {
+      "id": "82faf9e3-d058-4aa2-a8f8-1f75ed8a7428",
+      "latitude": -34.977624,
+      "longitude": 138.58423,
+      "street": "Edward St",
+      "city": "Cumberland Park",
+      "type": "mobile",
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T21:21:30Z"
+    },
+    {
+      "id": "b051d00e-2260-43a3-a75f-95112c07860d",
+      "latitude": -35.009205,
+      "longitude": 138.586196,
       "street": "Fiveash Dr",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T22:38:26Z"
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-23T22:37:08Z"
     },
     {
-      "id": "744f4def-4633-44d1-9f49-c2dd0f49075c",
-      "latitude": -35.104864,
-      "longitude": 138.499629,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Lonsdale",
+      "id": "84312a49-258c-4e1d-8cc5-ece8c0ddf19e",
+      "latitude": -34.942055,
+      "longitude": 138.588884,
+      "street": "Goodwood Rd",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T23:30:23Z"
-    },
-    {
-      "id": "86a9424f-6093-4779-828e-043ba0f5103b",
-      "latitude": -35.036014,
-      "longitude": 138.52447,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T22:13:19Z"
-    },
-    {
-      "id": "cb5095a1-9ebb-4709-85a8-92d7b6ef2825",
-      "latitude": -34.821521,
-      "longitude": 138.562219,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T22:59:01Z"
-    },
-    {
-      "id": "f55abeaa-adb6-4d11-9bb6-d3f33027b074",
-      "latitude": -34.817897,
-      "longitude": 138.561689,
-      "street": "M2 - North-South Mwy",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-03-24T00:00:23Z",
-      "reported_at": "2026-03-23T23:50:20Z"
+      "timestamp": "2026-03-24T00:30:23Z",
+      "reported_at": "2026-03-24T00:14:06Z"
     }
   ]
 }
