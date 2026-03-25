@@ -1,44 +1,94 @@
 {
   "radars": [
     {
+      "id": "f0d404d6-035f-43bf-87fa-df56871c7012",
+      "latitude": -34.865068,
+      "longitude": 138.636556,
+      "street": "Redward Av",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:33:34Z"
+    },
+    {
+      "id": "523508b2-8379-4238-8439-e5b32e73264f",
+      "latitude": -34.81794,
+      "longitude": 138.637736,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:50:15Z"
+    },
+    {
+      "id": "2f50278b-7ea0-4821-b0a5-9cdb9be0e33e",
+      "latitude": -34.960468,
+      "longitude": 138.581321,
+      "street": "East Av",
+      "city": "Black Forest",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:39:39Z"
+    },
+    {
+      "id": "e5b54c31-2014-4fe9-9956-2a9489e4edb6",
+      "latitude": -34.906422,
+      "longitude": 138.684596,
+      "street": "Glen Stuart Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:30:49Z"
+    },
+    {
+      "id": "88b3b76d-6ab8-4096-b1e2-06065773b7ef",
+      "latitude": -34.848384,
+      "longitude": 138.702038,
+      "street": "Valley Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:25:57Z"
+    },
+    {
       "id": "93ae25d9-a0fb-41d7-a52f-669b6fcdca66",
       "latitude": -34.836181,
       "longitude": 138.620062,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-25T21:30:23Z",
+      "timestamp": "2026-03-25T22:00:24Z",
       "reported_at": "2026-03-25T21:17:46Z"
     },
     {
-      "id": "0d21f966-cdcf-4f68-8983-6c617aaf0b78",
-      "latitude": -34.82854,
-      "longitude": 138.706719,
-      "street": "Tolley Rd",
-      "city": "St. Agnes",
+      "id": "b37606ec-632d-4fc2-988c-1bc96b7f06e2",
+      "latitude": -35.097549,
+      "longitude": 138.788787,
+      "street": "B33 - Strathalbyn Rd",
+      "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-25T21:30:23Z",
-      "reported_at": "2026-03-25T21:04:41Z"
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:38:28Z"
     },
     {
-      "id": "57b92d4f-b096-455d-9390-a17accd69bc0",
-      "latitude": -34.83474,
-      "longitude": 138.610076,
+      "id": "a6ad1406-c4cd-477a-9a1b-b91e5c43456b",
+      "latitude": -34.916734,
+      "longitude": 138.578264,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Southwark",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:36:26Z"
+    },
+    {
+      "id": "ca4bff6e-4ebc-4bd1-be3b-dd6243f61f26",
+      "latitude": -34.835057,
+      "longitude": 138.609864,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-25T21:30:23Z",
-      "reported_at": "2026-03-25T21:20:29Z"
-    },
-    {
-      "id": "f1930fa0-dcc7-4267-af0d-006a3a5a51b8",
-      "latitude": -34.82427,
-      "longitude": 138.775311,
-      "street": "B10 - North East Rd",
-      "city": "Inglewood",
-      "type": "mobile",
-      "timestamp": "2026-03-25T21:30:23Z",
-      "reported_at": "2026-03-25T21:11:48Z"
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:20:08Z"
     },
     {
       "id": "d4ef1ad0-342e-4c8a-a876-38846ddfc3bc",
@@ -47,8 +97,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-25T21:30:23Z",
+      "timestamp": "2026-03-25T22:00:24Z",
       "reported_at": "2026-03-25T21:18:19Z"
+    },
+    {
+      "id": "5cf035e3-35ef-45e8-9b83-45060c5150dc",
+      "latitude": -34.800992,
+      "longitude": 138.607059,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:00:24Z",
+      "reported_at": "2026-03-25T21:21:12Z"
     }
   ]
 }
