@@ -1,34 +1,74 @@
 {
   "radars": [
     {
+      "id": "9dd72041-bcfe-4667-b921-f0aa6f9b7bfd",
+      "latitude": -34.849335,
+      "longitude": 138.702117,
+      "street": "Valley Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T21:39:23Z"
+    },
+    {
+      "id": "6f830114-9d9b-41b4-b2a8-8c6013ab7876",
+      "latitude": -34.818207,
+      "longitude": 138.638173,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T21:30:05Z"
+    },
+    {
       "id": "f0d404d6-035f-43bf-87fa-df56871c7012",
       "latitude": -34.865068,
       "longitude": 138.636556,
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
+      "timestamp": "2026-03-25T22:30:23Z",
       "reported_at": "2026-03-25T21:33:34Z"
     },
     {
-      "id": "523508b2-8379-4238-8439-e5b32e73264f",
-      "latitude": -34.81794,
-      "longitude": 138.637736,
-      "street": "Research Rd",
-      "city": "Pooraka",
+      "id": "594dbeb9-b2a7-4b24-adc4-10a273db3360",
+      "latitude": -34.818985,
+      "longitude": 138.647894,
+      "street": "Maxwell Rd",
+      "city": "Para Hills",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
-      "reported_at": "2026-03-25T21:50:15Z"
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T21:06:13Z"
     },
     {
-      "id": "2f50278b-7ea0-4821-b0a5-9cdb9be0e33e",
-      "latitude": -34.960468,
-      "longitude": 138.581321,
-      "street": "East Av",
-      "city": "Black Forest",
+      "id": "5739e48f-d468-4677-9851-9bbac85d5268",
+      "latitude": -34.907056,
+      "longitude": 138.670838,
+      "street": "Shakespeare Av",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
-      "reported_at": "2026-03-25T21:39:39Z"
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T22:01:49Z"
+    },
+    {
+      "id": "6d4a897b-1f20-4501-b3fd-2dc0607e8b16",
+      "latitude": -34.907293,
+      "longitude": 138.666219,
+      "street": "Shakespeare Av",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T21:51:53Z"
+    },
+    {
+      "id": "a8557226-46dd-4d46-ac44-b08b5ae21d32",
+      "latitude": -34.829382,
+      "longitude": 138.640254,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T22:04:03Z"
     },
     {
       "id": "e5b54c31-2014-4fe9-9956-2a9489e4edb6",
@@ -37,28 +77,28 @@
       "street": "Glen Stuart Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
+      "timestamp": "2026-03-25T22:30:23Z",
       "reported_at": "2026-03-25T21:30:49Z"
     },
     {
-      "id": "88b3b76d-6ab8-4096-b1e2-06065773b7ef",
-      "latitude": -34.848384,
-      "longitude": 138.702038,
-      "street": "Valley Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
-      "reported_at": "2026-03-25T21:25:57Z"
-    },
-    {
-      "id": "93ae25d9-a0fb-41d7-a52f-669b6fcdca66",
-      "latitude": -34.836181,
-      "longitude": 138.620062,
+      "id": "99792014-854a-422a-9597-6fd11a8383ca",
+      "latitude": -34.836264,
+      "longitude": 138.620314,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
-      "reported_at": "2026-03-25T21:17:46Z"
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T22:22:37Z"
+    },
+    {
+      "id": "b14c6492-fe7c-4e36-959b-446218c10b59",
+      "latitude": -34.998912,
+      "longitude": 138.593231,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
+      "type": "mobile",
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T22:23:20Z"
     },
     {
       "id": "b37606ec-632d-4fc2-988c-1bc96b7f06e2",
@@ -67,27 +107,17 @@
       "street": "B33 - Strathalbyn Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
+      "timestamp": "2026-03-25T22:30:23Z",
       "reported_at": "2026-03-25T21:38:28Z"
     },
     {
-      "id": "a6ad1406-c4cd-477a-9a1b-b91e5c43456b",
-      "latitude": -34.916734,
-      "longitude": 138.578264,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Southwark",
-      "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
-      "reported_at": "2026-03-25T21:36:26Z"
-    },
-    {
       "id": "ca4bff6e-4ebc-4bd1-be3b-dd6243f61f26",
-      "latitude": -34.835057,
-      "longitude": 138.609864,
+      "latitude": -34.834401,
+      "longitude": 138.610303,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
+      "timestamp": "2026-03-25T22:30:23Z",
       "reported_at": "2026-03-25T21:20:08Z"
     },
     {
@@ -97,18 +127,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
+      "timestamp": "2026-03-25T22:30:23Z",
       "reported_at": "2026-03-25T21:18:19Z"
     },
     {
-      "id": "5cf035e3-35ef-45e8-9b83-45060c5150dc",
-      "latitude": -34.800992,
-      "longitude": 138.607059,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "ec0d6ded-3cbe-4414-ba3b-8da46bcbec49",
+      "latitude": -34.824142,
+      "longitude": 138.774993,
+      "street": "B10 - North East Rd",
+      "city": "Inglewood",
       "type": "mobile",
-      "timestamp": "2026-03-25T22:00:24Z",
-      "reported_at": "2026-03-25T21:21:12Z"
+      "timestamp": "2026-03-25T22:30:23Z",
+      "reported_at": "2026-03-25T21:25:36Z"
     }
   ]
 }
