@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "fa440239-11e5-4b12-9d54-247f2ee0cb4a",
+      "latitude": -34.862988,
+      "longitude": 138.486652,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-03-25T01:00:23Z",
+      "reported_at": "2026-03-25T00:32:32Z"
+    },
+    {
       "id": "9660c978-e5df-468a-b3bf-536460aa2ec1",
       "latitude": -34.734266,
       "longitude": 138.63968,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-25T00:30:23Z",
+      "timestamp": "2026-03-25T01:00:23Z",
       "reported_at": "2026-03-24T23:12:52Z"
     },
     {
@@ -17,28 +27,8 @@
       "street": "M1 - Mount Barker Rd",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-03-25T00:30:23Z",
+      "timestamp": "2026-03-25T01:00:23Z",
       "reported_at": "2026-03-24T23:58:34Z"
-    },
-    {
-      "id": "a5e06ee6-7b35-42c5-b704-30ba1a3ced30",
-      "latitude": -34.805209,
-      "longitude": 138.635091,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-25T00:30:23Z",
-      "reported_at": "2026-03-24T22:47:47Z"
-    },
-    {
-      "id": "6747f4b5-1e77-433e-81db-09628adc1049",
-      "latitude": -34.850681,
-      "longitude": 138.600292,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-25T00:30:23Z",
-      "reported_at": "2026-03-24T23:27:41Z"
     },
     {
       "id": "7d74c803-2b17-4483-a6da-7b5b1f58c552",
@@ -47,18 +37,8 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-25T00:30:23Z",
+      "timestamp": "2026-03-25T01:00:23Z",
       "reported_at": "2026-03-25T00:26:11Z"
-    },
-    {
-      "id": "fd3c82c2-54fb-4b6d-84e8-7bfa348874f2",
-      "latitude": -34.966356,
-      "longitude": 138.648296,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
-      "type": "mobile",
-      "timestamp": "2026-03-25T00:30:23Z",
-      "reported_at": "2026-03-25T00:10:08Z"
     }
   ]
 }
