@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "69565fa8-a393-4794-914b-539f17df03d2",
-      "latitude": -34.857123,
-      "longitude": 138.505206,
+      "id": "f01c14d0-21ec-4e4e-b899-03e9621f04b2",
+      "latitude": -34.857322,
+      "longitude": 138.505016,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T07:41:06Z"
-    },
-    {
-      "id": "9459f92a-9d67-45f7-b04a-3e0f590cf3ff",
-      "latitude": -34.928058,
-      "longitude": 138.547544,
-      "street": "Lysle St",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T06:27:04Z"
+      "timestamp": "2026-03-25T11:30:23Z",
+      "reported_at": "2026-03-25T06:21:34Z"
     },
     {
       "id": "f0e6f270-329a-4fff-a836-fc5e7b7bf22d",
@@ -27,28 +17,18 @@
       "street": "Carlisle St",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
+      "timestamp": "2026-03-25T11:30:23Z",
       "reported_at": "2026-03-25T06:37:51Z"
     },
     {
-      "id": "6cd4d440-a236-42a9-887f-4ea8e3106ff8",
-      "latitude": -34.854257,
-      "longitude": 138.488326,
-      "street": "Fairford Tce",
-      "city": "Semaphore Park",
+      "id": "28a73f34-df51-46b9-9692-2f92efdd1553",
+      "latitude": -34.817409,
+      "longitude": 138.490375,
+      "street": "Lady Gowrie Dr",
+      "city": "Largs North",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T06:42:30Z"
-    },
-    {
-      "id": "49a52e66-84d6-47f2-8b1b-120891bcc363",
-      "latitude": -34.789654,
-      "longitude": 138.601181,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T09:40:03Z"
+      "timestamp": "2026-03-25T11:30:23Z",
+      "reported_at": "2026-03-25T05:16:31Z"
     },
     {
       "id": "615651a3-ec8d-41f0-974f-4fbcac1b0973",
@@ -57,8 +37,18 @@
       "street": "Hart St",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
+      "timestamp": "2026-03-25T11:30:23Z",
       "reported_at": "2026-03-25T08:43:31Z"
+    },
+    {
+      "id": "a5736fde-7e75-4e18-809f-a599536afc56",
+      "latitude": -34.812182,
+      "longitude": 138.498332,
+      "street": "Strathfield Tce",
+      "city": "Taperoo",
+      "type": "mobile",
+      "timestamp": "2026-03-25T11:30:23Z",
+      "reported_at": "2026-03-25T10:29:26Z"
     },
     {
       "id": "6ae8af40-01c6-483c-b1d4-292438020d37",
@@ -67,7 +57,7 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
+      "timestamp": "2026-03-25T11:30:23Z",
       "reported_at": "2026-03-25T08:25:59Z"
     },
     {
@@ -77,98 +67,28 @@
       "street": "Fletcher Rd",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
+      "timestamp": "2026-03-25T11:30:23Z",
       "reported_at": "2026-03-25T07:57:43Z"
     },
     {
-      "id": "28a73f34-df51-46b9-9692-2f92efdd1553",
-      "latitude": -34.817409,
-      "longitude": 138.490375,
-      "street": "Lady Gowrie Dr",
-      "city": "Largs North",
+      "id": "4f05cfa0-820b-4858-8488-891aa66c03dd",
+      "latitude": -34.844846,
+      "longitude": 138.546339,
+      "street": "Hanson Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T05:16:31Z"
+      "timestamp": "2026-03-25T11:30:23Z",
+      "reported_at": "2026-03-25T10:35:26Z"
     },
     {
-      "id": "49f7cc07-dcf3-4a7e-b813-48db50406b93",
-      "latitude": -34.822797,
-      "longitude": 138.49152,
-      "street": "Military Rd",
-      "city": "Largs Bay",
+      "id": "f951b425-417f-466e-8c7c-b19dea23b784",
+      "latitude": -34.805561,
+      "longitude": 138.647453,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T06:37:14Z"
-    },
-    {
-      "id": "f66284ef-bdf9-4248-8595-dafa5f8f4159",
-      "latitude": -34.812165,
-      "longitude": 138.495942,
-      "street": "Strathfield Tce",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T08:37:06Z"
-    },
-    {
-      "id": "011ea590-a31d-47b8-ba4f-04e03f14ea99",
-      "latitude": -34.924821,
-      "longitude": 138.591389,
-      "street": "Currie St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T09:54:09Z"
-    },
-    {
-      "id": "26ee0b33-5582-4c58-b8d6-890af067ec2c",
-      "latitude": -34.852627,
-      "longitude": 138.650296,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T09:23:54Z"
-    },
-    {
-      "id": "74e89b61-0f8a-40b0-8f8b-0186699eb155",
-      "latitude": -34.923741,
-      "longitude": 138.582202,
-      "street": "Glover Av",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T09:46:06Z"
-    },
-    {
-      "id": "e6212703-56de-4945-aeb2-28bd9d3e4510",
-      "latitude": -34.878498,
-      "longitude": 138.53069,
-      "street": "Findon Rd",
-      "city": "Woodville South",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T10:12:39Z"
-    },
-    {
-      "id": "73c779b8-6375-4525-b6e2-462c24e0d3b9",
-      "latitude": -34.863648,
-      "longitude": 138.661609,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T10:08:33Z"
-    },
-    {
-      "id": "b72b545d-5ab3-472d-8a9a-9ab36540f1ac",
-      "latitude": -35.011249,
-      "longitude": 138.577217,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T10:23:57Z"
+      "timestamp": "2026-03-25T11:30:23Z",
+      "reported_at": "2026-03-25T10:48:56Z"
     },
     {
       "id": "e9755cd6-b6b4-4e91-9fe2-880297b9f3c9",
@@ -177,58 +97,8 @@
       "street": "A16 - Victoria Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
+      "timestamp": "2026-03-25T11:30:23Z",
       "reported_at": "2026-03-25T08:38:47Z"
-    },
-    {
-      "id": "b86c1ad0-aa5e-4e73-be06-c7d77fab7f18",
-      "latitude": -34.778499,
-      "longitude": 138.492654,
-      "street": "A16 - Victoria Rd",
-      "city": "Outer Harbor",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T08:12:00Z"
-    },
-    {
-      "id": "e0c18ac8-2cf0-4514-a63b-e098c8e94bdb",
-      "latitude": -34.929051,
-      "longitude": 138.570158,
-      "street": "A2 - South Rd",
-      "city": "Mile End",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T10:01:30Z"
-    },
-    {
-      "id": "7aeb5429-5cae-44aa-a0f0-3960e48f7c68",
-      "latitude": -34.847515,
-      "longitude": 138.613233,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T09:51:05Z"
-    },
-    {
-      "id": "7e7e7392-55d9-4c9b-8760-5611be3357f6",
-      "latitude": -34.699108,
-      "longitude": 138.683451,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T09:27:05Z"
-    },
-    {
-      "id": "93d43aca-a5e0-4b1e-8383-d6a4d334d586",
-      "latitude": -34.840714,
-      "longitude": 138.515526,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:30:23Z",
-      "reported_at": "2026-03-25T10:01:28Z"
     }
   ]
 }
