@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "f01c14d0-21ec-4e4e-b899-03e9621f04b2",
-      "latitude": -34.857322,
-      "longitude": 138.505016,
+      "id": "69565fa8-a393-4794-914b-539f17df03d2",
+      "latitude": -34.857123,
+      "longitude": 138.505206,
       "street": "Webb St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T06:21:34Z"
-    },
-    {
-      "id": "207a5cce-b75f-487a-a77e-971c6c7b79d0",
-      "latitude": -34.883446,
-      "longitude": 138.55533,
-      "street": "Aroona Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T09:43:51Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T07:41:06Z"
     },
     {
       "id": "9459f92a-9d67-45f7-b04a-3e0f590cf3ff",
@@ -27,7 +17,7 @@
       "street": "Lysle St",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T06:27:04Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Carlisle St",
       "city": "Ethelton",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T06:37:51Z"
     },
     {
@@ -47,18 +37,8 @@
       "street": "Fairford Tce",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T06:42:30Z"
-    },
-    {
-      "id": "ef070570-50af-4332-a23c-bcbdde5230ec",
-      "latitude": -34.903719,
-      "longitude": 138.5205,
-      "street": "Kingborn Av",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T05:07:38Z"
     },
     {
       "id": "49a52e66-84d6-47f2-8b1b-120891bcc363",
@@ -67,18 +47,8 @@
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T09:40:03Z"
-    },
-    {
-      "id": "f66284ef-bdf9-4248-8595-dafa5f8f4159",
-      "latitude": -34.812165,
-      "longitude": 138.495942,
-      "street": "Strathfield Tce",
-      "city": "Taperoo",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T08:37:06Z"
     },
     {
       "id": "615651a3-ec8d-41f0-974f-4fbcac1b0973",
@@ -87,7 +57,7 @@
       "street": "Hart St",
       "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T08:43:31Z"
     },
     {
@@ -97,18 +67,28 @@
       "street": "Esplanade",
       "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T08:25:59Z"
     },
     {
-      "id": "883c3e55-d5c5-422e-9c69-04bb4808ced7",
-      "latitude": -34.831685,
-      "longitude": 138.496578,
+      "id": "a980894a-ba6a-40d9-855f-0993a2b3eedc",
+      "latitude": -34.831433,
+      "longitude": 138.496525,
       "street": "Fletcher Rd",
       "city": "Peterhead",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T07:11:33Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T07:57:43Z"
+    },
+    {
+      "id": "28a73f34-df51-46b9-9692-2f92efdd1553",
+      "latitude": -34.817409,
+      "longitude": 138.490375,
+      "street": "Lady Gowrie Dr",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T05:16:31Z"
     },
     {
       "id": "49f7cc07-dcf3-4a7e-b813-48db50406b93",
@@ -117,38 +97,18 @@
       "street": "Military Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T06:37:14Z"
     },
     {
-      "id": "74e89b61-0f8a-40b0-8f8b-0186699eb155",
-      "latitude": -34.923741,
-      "longitude": 138.582202,
-      "street": "Glover Av",
-      "city": "Adelaide",
+      "id": "f66284ef-bdf9-4248-8595-dafa5f8f4159",
+      "latitude": -34.812165,
+      "longitude": 138.495942,
+      "street": "Strathfield Tce",
+      "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T09:46:06Z"
-    },
-    {
-      "id": "26ee0b33-5582-4c58-b8d6-890af067ec2c",
-      "latitude": -34.852627,
-      "longitude": 138.650296,
-      "street": "Sudholz Rd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T09:23:54Z"
-    },
-    {
-      "id": "b26e30bc-f37c-4d76-90c7-d337a0a3743b",
-      "latitude": -34.926714,
-      "longitude": 138.645345,
-      "street": "Kensington Rd",
-      "city": "Kensington",
-      "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T05:37:30Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T08:37:06Z"
     },
     {
       "id": "011ea590-a31d-47b8-ba4f-04e03f14ea99",
@@ -157,28 +117,68 @@
       "street": "Currie St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T09:54:09Z"
     },
     {
-      "id": "2df2e7c0-bc3e-4195-805d-8c26a8ec267f",
-      "latitude": -34.747655,
-      "longitude": 138.617555,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "26ee0b33-5582-4c58-b8d6-890af067ec2c",
+      "latitude": -34.852627,
+      "longitude": 138.650296,
+      "street": "Sudholz Rd",
+      "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T09:46:48Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T09:23:54Z"
     },
     {
-      "id": "e7e42a76-e319-4865-973c-dea0a9abe1cc",
-      "latitude": -34.823885,
-      "longitude": 138.499666,
+      "id": "74e89b61-0f8a-40b0-8f8b-0186699eb155",
+      "latitude": -34.923741,
+      "longitude": 138.582202,
+      "street": "Glover Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T09:46:06Z"
+    },
+    {
+      "id": "e6212703-56de-4945-aeb2-28bd9d3e4510",
+      "latitude": -34.878498,
+      "longitude": 138.53069,
+      "street": "Findon Rd",
+      "city": "Woodville South",
+      "type": "mobile",
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T10:12:39Z"
+    },
+    {
+      "id": "73c779b8-6375-4525-b6e2-462c24e0d3b9",
+      "latitude": -34.863648,
+      "longitude": 138.661609,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T10:08:33Z"
+    },
+    {
+      "id": "b72b545d-5ab3-472d-8a9a-9ab36540f1ac",
+      "latitude": -35.011249,
+      "longitude": 138.577217,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T10:23:57Z"
+    },
+    {
+      "id": "e9755cd6-b6b4-4e91-9fe2-880297b9f3c9",
+      "latitude": -34.822689,
+      "longitude": 138.499635,
       "street": "A16 - Victoria Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T08:31:05Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T08:38:47Z"
     },
     {
       "id": "b86c1ad0-aa5e-4e73-be06-c7d77fab7f18",
@@ -187,18 +187,18 @@
       "street": "A16 - Victoria Rd",
       "city": "Outer Harbor",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T08:12:00Z"
     },
     {
-      "id": "96bcdca7-9a83-437a-b345-6874ff1d9266",
-      "latitude": -34.874662,
-      "longitude": 138.632518,
-      "street": "A10 - North East Rd",
-      "city": "Klemzig",
+      "id": "e0c18ac8-2cf0-4514-a63b-e098c8e94bdb",
+      "latitude": -34.929051,
+      "longitude": 138.570158,
+      "street": "A2 - South Rd",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T09:47:58Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T10:01:30Z"
     },
     {
       "id": "7aeb5429-5cae-44aa-a0f0-3960e48f7c68",
@@ -207,7 +207,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T09:51:05Z"
     },
     {
@@ -217,18 +217,18 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
+      "timestamp": "2026-03-25T10:30:23Z",
       "reported_at": "2026-03-25T09:27:05Z"
     },
     {
-      "id": "2fc2c8ff-b722-4fb6-977e-9b270087a9fd",
-      "latitude": -35.070425,
-      "longitude": 138.54508,
-      "street": "M2 - Southern Exp",
-      "city": "Trott Park",
+      "id": "93d43aca-a5e0-4b1e-8383-d6a4d334d586",
+      "latitude": -34.840714,
+      "longitude": 138.515526,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-25T10:00:23Z",
-      "reported_at": "2026-03-25T09:48:55Z"
+      "timestamp": "2026-03-25T10:30:23Z",
+      "reported_at": "2026-03-25T10:01:28Z"
     }
   ]
 }
