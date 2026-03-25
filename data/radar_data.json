@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "62e45a4c-7a86-462d-af69-b670b23cbbd8",
-      "latitude": -34.845397,
-      "longitude": 138.487521,
-      "street": "Hart St",
-      "city": "Glanville",
-      "type": "mobile",
-      "timestamp": "2026-03-25T13:00:22Z",
-      "reported_at": "2026-03-25T09:14:51Z"
-    },
-    {
       "id": "a5736fde-7e75-4e18-809f-a599536afc56",
       "latitude": -34.812182,
       "longitude": 138.498332,
       "street": "Strathfield Tce",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-03-25T13:00:22Z",
+      "timestamp": "2026-03-25T13:30:23Z",
       "reported_at": "2026-03-25T10:29:26Z"
     },
     {
-      "id": "2a5abea1-0687-4bdb-8db9-ba15fd307fda",
-      "latitude": -34.817132,
-      "longitude": 138.490439,
-      "street": "Lady Gowrie Dr",
-      "city": "Largs North",
+      "id": "62e45a4c-7a86-462d-af69-b670b23cbbd8",
+      "latitude": -34.845397,
+      "longitude": 138.487521,
+      "street": "Hart St",
+      "city": "Glanville",
       "type": "mobile",
-      "timestamp": "2026-03-25T13:00:22Z",
-      "reported_at": "2026-03-25T08:56:51Z"
-    },
-    {
-      "id": "5b743637-67d7-4bdb-8016-b84d8801a9b3",
-      "latitude": -34.929164,
-      "longitude": 138.587729,
-      "street": "West Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-25T13:00:22Z",
-      "reported_at": "2026-03-25T12:46:29Z"
-    },
-    {
-      "id": "83031156-6a99-4f00-9db7-75522d8a475e",
-      "latitude": -34.82554,
-      "longitude": 138.500184,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-03-25T13:00:22Z",
-      "reported_at": "2026-03-25T09:04:40Z"
+      "timestamp": "2026-03-25T13:30:23Z",
+      "reported_at": "2026-03-25T09:14:51Z"
     },
     {
       "id": "e074096a-147c-4f22-92cb-68804eb3dd15",
@@ -57,7 +27,7 @@
       "street": "A14 - Holbrooks Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-25T13:00:22Z",
+      "timestamp": "2026-03-25T13:30:23Z",
       "reported_at": "2026-03-25T10:31:14Z"
     }
   ]
