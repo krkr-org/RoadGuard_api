@@ -1,24 +1,134 @@
 {
   "radars": [
     {
+      "id": "7c0f097b-f52f-4022-982f-6e6e5b853320",
+      "latitude": -34.930029,
+      "longitude": 138.534417,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T04:30:01Z"
+    },
+    {
+      "id": "47cd3de1-ac90-4c6d-a61c-81f67ab49664",
+      "latitude": -34.951246,
+      "longitude": 138.563614,
+      "street": "Cross Tce",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:17:26Z"
+    },
+    {
+      "id": "f3f508de-ac8c-4390-9bbb-44ed529673ed",
+      "latitude": -34.880209,
+      "longitude": 138.571359,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:20:12Z"
+    },
+    {
+      "id": "28a73f34-df51-46b9-9692-2f92efdd1553",
+      "latitude": -34.817409,
+      "longitude": 138.490375,
+      "street": "Lady Gowrie Dr",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:16:31Z"
+    },
+    {
+      "id": "e84f45e4-cda8-4401-849a-50f879d4ad26",
+      "latitude": -34.843334,
+      "longitude": 138.512185,
+      "street": "St. Vincent St East",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T04:47:33Z"
+    },
+    {
+      "id": "126115d2-718b-45c8-a724-2be1bd99f8a7",
+      "latitude": -34.822761,
+      "longitude": 138.491539,
+      "street": "Military Rd",
+      "city": "Largs Bay",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:00:51Z"
+    },
+    {
+      "id": "eb1578a0-49fe-484d-a049-17ea45ebd07d",
+      "latitude": -34.831921,
+      "longitude": 138.49663,
+      "street": "Fletcher Rd",
+      "city": "Peterhead",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:15:04Z"
+    },
+    {
+      "id": "08a52e24-28fe-4253-a96d-29fc975c7e93",
+      "latitude": -34.845021,
+      "longitude": 138.50158,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T04:56:35Z"
+    },
+    {
       "id": "2db70189-06ea-4320-bb1c-0b5d0bdf1315",
       "latitude": -35.146603,
       "longitude": 138.535741,
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-25T04:30:22Z",
+      "timestamp": "2026-03-25T05:30:23Z",
       "reported_at": "2026-03-25T02:39:25Z"
     },
     {
-      "id": "f498c096-000c-486a-9a99-039644f81d7f",
-      "latitude": -34.964651,
-      "longitude": 138.626672,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "3e16c32a-0e15-498e-8eac-731e4477e067",
+      "latitude": -34.989944,
+      "longitude": 138.592677,
+      "street": "Goodwood Rd",
+      "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-03-25T04:30:22Z",
-      "reported_at": "2026-03-25T04:06:23Z"
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:15:29Z"
+    },
+    {
+      "id": "f3bfbae7-1dc3-4298-be33-2348bbe75303",
+      "latitude": -35.101129,
+      "longitude": 138.547173,
+      "street": "Panalatinga Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T05:23:10Z"
+    },
+    {
+      "id": "f8b5b290-d999-4850-b8c6-9479a600a678",
+      "latitude": -34.88281,
+      "longitude": 138.513084,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T04:59:47Z"
+    },
+    {
+      "id": "871d5229-e380-4352-b624-11a36386ee94",
+      "latitude": -34.929352,
+      "longitude": 138.585528,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-25T05:30:23Z",
+      "reported_at": "2026-03-25T04:53:36Z"
     }
   ]
 }
