@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "fa440239-11e5-4b12-9d54-247f2ee0cb4a",
-      "latitude": -34.862988,
-      "longitude": 138.486652,
-      "street": "Bartley Tce",
-      "city": "West Lakes Shore",
+      "id": "2c67bd61-96e4-4c59-bfee-f871fd6f7e47",
+      "latitude": -34.920273,
+      "longitude": 138.544523,
+      "street": "Garden Tce",
+      "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-03-25T01:00:23Z",
-      "reported_at": "2026-03-25T00:32:32Z"
+      "timestamp": "2026-03-25T01:30:24Z",
+      "reported_at": "2026-03-25T00:28:48Z"
     },
     {
       "id": "9660c978-e5df-468a-b3bf-536460aa2ec1",
@@ -17,28 +17,38 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-25T01:00:23Z",
+      "timestamp": "2026-03-25T01:30:24Z",
       "reported_at": "2026-03-24T23:12:52Z"
     },
     {
-      "id": "859026e4-4e51-4c6e-9b05-fef09d45d8c5",
-      "latitude": -34.963723,
-      "longitude": 138.644349,
-      "street": "M1 - Mount Barker Rd",
-      "city": "Urrbrae",
+      "id": "ca670cc6-3922-4fab-9d1e-0c68fad24340",
+      "latitude": -34.983679,
+      "longitude": 138.618972,
+      "street": "B28 - Old Belair Rd",
+      "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-03-25T01:00:23Z",
-      "reported_at": "2026-03-24T23:58:34Z"
+      "timestamp": "2026-03-25T01:30:24Z",
+      "reported_at": "2026-03-25T01:00:27Z"
     },
     {
-      "id": "7d74c803-2b17-4483-a6da-7b5b1f58c552",
-      "latitude": -34.790253,
-      "longitude": 138.616584,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "a5e06ee6-7b35-42c5-b704-30ba1a3ced30",
+      "latitude": -34.805209,
+      "longitude": 138.635091,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-25T01:00:23Z",
-      "reported_at": "2026-03-25T00:26:11Z"
+      "timestamp": "2026-03-25T01:30:24Z",
+      "reported_at": "2026-03-24T22:47:47Z"
+    },
+    {
+      "id": "76d60e77-b081-43eb-91f4-191087147f18",
+      "latitude": -35.088839,
+      "longitude": 138.531584,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-25T01:30:24Z",
+      "reported_at": "2026-03-25T01:13:40Z"
     }
   ]
 }
