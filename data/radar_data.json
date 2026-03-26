@@ -1,34 +1,84 @@
 {
   "radars": [
     {
+      "id": "8e3589e8-3704-498d-96ef-e4d8dd1ace39",
+      "latitude": -34.848119,
+      "longitude": 138.785762,
+      "street": "Paracombe Rd",
+      "city": "Paracombe",
+      "type": "mobile",
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T21:39:39Z"
+    },
+    {
+      "id": "60cb7460-4014-4765-8cf6-31480541f285",
+      "latitude": -34.917261,
+      "longitude": 138.502973,
+      "street": "Badenoch St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T21:54:59Z"
+    },
+    {
       "id": "fab0a962-0adc-49e9-a22f-49104300d989",
       "latitude": -34.927966,
       "longitude": 138.534251,
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-03-26T21:30:24Z",
+      "timestamp": "2026-03-26T23:00:23Z",
       "reported_at": "2026-03-26T20:37:32Z"
     },
     {
-      "id": "8ca7bab1-9f52-4eb0-9ba7-e5caf758ad39",
-      "latitude": -34.912986,
-      "longitude": 138.507804,
+      "id": "eae4a78c-b76e-423b-8ab0-9a2975c423cf",
+      "latitude": -34.913002,
+      "longitude": 138.507496,
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-26T21:30:24Z",
-      "reported_at": "2026-03-26T20:53:28Z"
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T22:20:07Z"
     },
     {
-      "id": "b0e9f94c-c6d6-4e7b-9974-1a63aebb7cc8",
-      "latitude": -35.012075,
-      "longitude": 138.541471,
-      "street": "Diagonal Rd",
-      "city": "Oaklands Park",
+      "id": "f3d08e54-2df0-456b-a910-11a8c3c10055",
+      "latitude": -34.905039,
+      "longitude": 138.684491,
+      "street": "Glen Stuart Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-26T21:30:24Z",
-      "reported_at": "2026-03-26T21:16:20Z"
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T21:55:33Z"
+    },
+    {
+      "id": "e01e5a18-3769-4387-be48-32afcf9ea547",
+      "latitude": -34.900901,
+      "longitude": 138.520323,
+      "street": "Kingborn Av",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T21:47:24Z"
+    },
+    {
+      "id": "7d8bd420-3d83-4890-b198-0dde4903f03d",
+      "latitude": -34.742249,
+      "longitude": 138.64855,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T22:39:44Z"
+    },
+    {
+      "id": "58850bdf-ca12-49fc-9057-3fb54cabb31a",
+      "latitude": -34.891819,
+      "longitude": 138.51034,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T21:18:52Z"
     },
     {
       "id": "0a07e77f-d5a8-4a99-93b1-d7d6beb9dd9a",
@@ -37,18 +87,28 @@
       "street": "Unley Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-26T21:30:24Z",
+      "timestamp": "2026-03-26T23:00:23Z",
       "reported_at": "2026-03-26T21:13:50Z"
     },
     {
-      "id": "c0afbf28-e673-4a1e-94aa-9d47f25e8fd2",
-      "latitude": -34.817832,
-      "longitude": 138.591561,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
+      "id": "cc57da92-9cc1-4ae2-810b-2f869dfd8629",
+      "latitude": -34.718317,
+      "longitude": 138.760882,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-03-26T21:30:24Z",
-      "reported_at": "2026-03-26T21:24:05Z"
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T22:31:02Z"
+    },
+    {
+      "id": "9814db43-4cf4-4137-9030-15c736bc5b39",
+      "latitude": -34.677497,
+      "longitude": 138.697364,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-03-26T23:00:23Z",
+      "reported_at": "2026-03-26T22:56:01Z"
     }
   ]
 }
