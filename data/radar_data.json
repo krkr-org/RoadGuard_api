@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "247a1f5a-626b-4ace-ab19-3533577e0208",
-      "latitude": -35.009345,
-      "longitude": 138.549976,
-      "street": "George St",
-      "city": "Marion",
-      "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
-      "reported_at": "2026-03-26T05:40:31Z"
-    },
-    {
       "id": "cca3c56e-20eb-465e-87d5-2a9919a7a42d",
       "latitude": -34.954714,
       "longitude": 138.558361,
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
+      "timestamp": "2026-03-26T11:00:23Z",
       "reported_at": "2026-03-26T05:46:51Z"
     },
     {
@@ -27,7 +17,7 @@
       "street": "Day Dr",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
+      "timestamp": "2026-03-26T11:00:23Z",
       "reported_at": "2026-03-26T07:01:41Z"
     },
     {
@@ -37,18 +27,18 @@
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
+      "timestamp": "2026-03-26T11:00:23Z",
       "reported_at": "2026-03-26T07:38:14Z"
     },
     {
-      "id": "a6599811-0aec-4bdd-b034-d196a6b4a410",
-      "latitude": -34.974671,
-      "longitude": 138.580953,
-      "street": "Albert St",
-      "city": "Clarence Gardens",
+      "id": "d0dd4e2e-7855-4c2d-aac0-c9ab27c9b0f2",
+      "latitude": -34.950228,
+      "longitude": 138.506532,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
-      "reported_at": "2026-03-26T08:21:53Z"
+      "timestamp": "2026-03-26T11:00:23Z",
+      "reported_at": "2026-03-26T10:08:27Z"
     },
     {
       "id": "aa72b8b4-f1ea-43df-bcf1-15c5d7e00287",
@@ -57,8 +47,18 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
+      "timestamp": "2026-03-26T11:00:23Z",
       "reported_at": "2026-03-26T09:18:17Z"
+    },
+    {
+      "id": "a6599811-0aec-4bdd-b034-d196a6b4a410",
+      "latitude": -34.974671,
+      "longitude": 138.580953,
+      "street": "Albert St",
+      "city": "Clarence Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-26T11:00:23Z",
+      "reported_at": "2026-03-26T08:21:53Z"
     },
     {
       "id": "c1ffa740-6474-4406-8b6d-62f854fd25e7",
@@ -67,48 +67,38 @@
       "street": "Whites Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
+      "timestamp": "2026-03-26T11:00:23Z",
       "reported_at": "2026-03-26T08:08:34Z"
     },
     {
-      "id": "dc79e8b4-aca3-4656-95db-a6af6b9e7c33",
-      "latitude": -34.864396,
-      "longitude": 138.479713,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
-      "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
-      "reported_at": "2026-03-26T09:58:53Z"
-    },
-    {
-      "id": "243cb228-c0fd-4ed4-aa0c-ca81de35c8a6",
-      "latitude": -34.990301,
-      "longitude": 138.602609,
+      "id": "fbaf4d81-62ac-4dd4-953b-7d3024c2bef1",
+      "latitude": -34.990128,
+      "longitude": 138.606005,
       "street": "Springbank Rd",
       "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
-      "reported_at": "2026-03-26T09:40:33Z"
+      "timestamp": "2026-03-26T11:00:23Z",
+      "reported_at": "2026-03-26T07:08:46Z"
     },
     {
-      "id": "4b7d5bd4-7690-4729-b32c-43ee5964f166",
-      "latitude": -34.992327,
-      "longitude": 138.584296,
-      "street": "Daws Rd",
-      "city": "Daw Park",
+      "id": "344f3f9d-a650-481d-ab62-a47b1d90fb2a",
+      "latitude": -35.09995,
+      "longitude": 138.532261,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
-      "reported_at": "2026-03-26T08:17:13Z"
+      "timestamp": "2026-03-26T11:00:23Z",
+      "reported_at": "2026-03-26T10:52:58Z"
     },
     {
-      "id": "0676044d-955f-4040-bc67-dc4611e36950",
-      "latitude": -35.087572,
-      "longitude": 138.499168,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "fbfe5afa-5448-431a-ae02-64de1df180c3",
+      "latitude": -34.93901,
+      "longitude": 138.645671,
+      "street": "B26 - Greenhill Rd",
+      "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
-      "reported_at": "2026-03-26T10:13:44Z"
+      "timestamp": "2026-03-26T11:00:23Z",
+      "reported_at": "2026-03-26T10:37:58Z"
     },
     {
       "id": "bc7e3c69-482c-4c70-8869-6595d5e3e1d7",
@@ -117,7 +107,7 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-26T10:30:22Z",
+      "timestamp": "2026-03-26T11:00:23Z",
       "reported_at": "2026-03-26T09:40:53Z"
     }
   ]
