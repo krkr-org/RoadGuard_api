@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "247a1f5a-626b-4ace-ab19-3533577e0208",
-      "latitude": -35.009345,
-      "longitude": 138.549976,
-      "street": "George St",
-      "city": "Marion",
-      "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T05:40:31Z"
-    },
-    {
       "id": "cca3c56e-20eb-465e-87d5-2a9919a7a42d",
       "latitude": -34.954714,
       "longitude": 138.558361,
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T05:46:51Z"
     },
     {
@@ -27,18 +17,18 @@
       "street": "Day Dr",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T06:01:23Z"
     },
     {
-      "id": "3caf32e5-49eb-478d-9565-3256ae3743f4",
-      "latitude": -34.934459,
-      "longitude": 138.550841,
-      "street": "Press Rd",
-      "city": "Brooklyn Park",
+      "id": "247a1f5a-626b-4ace-ab19-3533577e0208",
+      "latitude": -35.009345,
+      "longitude": 138.549976,
+      "street": "George St",
+      "city": "Marion",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T05:54:17Z"
+      "timestamp": "2026-03-26T10:00:23Z",
+      "reported_at": "2026-03-26T05:40:31Z"
     },
     {
       "id": "0454e6ac-4a74-4efa-b973-f88ca82d40fb",
@@ -47,38 +37,8 @@
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T07:38:14Z"
-    },
-    {
-      "id": "9142f06e-28d6-4ade-997d-70192ff51a31",
-      "latitude": -34.795561,
-      "longitude": 138.496654,
-      "street": "Military Rd",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T08:43:22Z"
-    },
-    {
-      "id": "7739d182-0699-4dec-b8e7-b3ceac48774e",
-      "latitude": -35.000422,
-      "longitude": 138.597884,
-      "street": "Eliza Pl",
-      "city": "Panorama",
-      "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T05:51:19Z"
-    },
-    {
-      "id": "8129864c-0c8e-4b7e-93ac-e19f474eb271",
-      "latitude": -34.971287,
-      "longitude": 138.564381,
-      "street": "Towers Tce",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T05:52:28Z"
     },
     {
       "id": "a6599811-0aec-4bdd-b034-d196a6b4a410",
@@ -87,7 +47,7 @@
       "street": "Albert St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T08:21:53Z"
     },
     {
@@ -97,7 +57,7 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T09:18:17Z"
     },
     {
@@ -107,18 +67,8 @@
       "street": "Whites Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T08:08:34Z"
-    },
-    {
-      "id": "bab318ec-8758-4c80-81ef-f46682a64304",
-      "latitude": -34.917915,
-      "longitude": 138.606899,
-      "street": "Unknown Street",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T05:52:17Z"
     },
     {
       "id": "182dedc0-b3cd-4d6e-b288-ec14d495adba",
@@ -127,18 +77,58 @@
       "street": "Springbank Rd",
       "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
+      "timestamp": "2026-03-26T10:00:23Z",
       "reported_at": "2026-03-26T06:23:54Z"
     },
     {
-      "id": "073ed059-d2b5-489d-9f61-8cef5f579e4d",
-      "latitude": -34.968397,
-      "longitude": 138.547846,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
+      "id": "4b7d5bd4-7690-4729-b32c-43ee5964f166",
+      "latitude": -34.992327,
+      "longitude": 138.584296,
+      "street": "Daws Rd",
+      "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T09:30:23Z",
-      "reported_at": "2026-03-26T09:18:34Z"
+      "timestamp": "2026-03-26T10:00:23Z",
+      "reported_at": "2026-03-26T08:17:13Z"
+    },
+    {
+      "id": "a1cfcd41-549d-4eee-8d20-01ea6c0a52df",
+      "latitude": -34.922005,
+      "longitude": 138.591675,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-26T10:00:23Z",
+      "reported_at": "2026-03-26T09:35:00Z"
+    },
+    {
+      "id": "7b3809e0-4165-430b-ba22-335a705ec308",
+      "latitude": -34.916258,
+      "longitude": 138.578178,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Southwark",
+      "type": "mobile",
+      "timestamp": "2026-03-26T10:00:23Z",
+      "reported_at": "2026-03-26T09:56:30Z"
+    },
+    {
+      "id": "3508c4b7-82c2-4daf-9348-438c99b76108",
+      "latitude": -34.914422,
+      "longitude": 138.647778,
+      "street": "B27 - Magill Rd",
+      "city": "Beulah Park",
+      "type": "mobile",
+      "timestamp": "2026-03-26T10:00:23Z",
+      "reported_at": "2026-03-26T09:34:09Z"
+    },
+    {
+      "id": "bc7e3c69-482c-4c70-8869-6595d5e3e1d7",
+      "latitude": -34.846076,
+      "longitude": 138.6016,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-26T10:00:23Z",
+      "reported_at": "2026-03-26T09:40:53Z"
     }
   ]
 }
