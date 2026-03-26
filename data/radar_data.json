@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "eb84a6e0-324e-41f1-afd7-d086247d782a",
+      "latitude": -34.803174,
+      "longitude": 138.60505,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-26T19:00:22Z",
+      "reported_at": "2026-03-26T18:53:46Z"
+    },
+    {
+      "id": "8bd00bca-83ae-4f15-ae5e-29e515eb0df3",
+      "latitude": -34.832699,
+      "longitude": 138.575477,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-26T19:00:22Z",
+      "reported_at": "2026-03-26T18:45:31Z"
+    }
+  ]
 }
