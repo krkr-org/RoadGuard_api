@@ -7,7 +7,7 @@
       "street": "Day Dr",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T06:01:23Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "George St",
       "city": "Marion",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T05:40:31Z"
+    },
+    {
+      "id": "3caf32e5-49eb-478d-9565-3256ae3743f4",
+      "latitude": -34.934459,
+      "longitude": 138.550841,
+      "street": "Press Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T05:54:17Z"
     },
     {
       "id": "cca3c56e-20eb-465e-87d5-2a9919a7a42d",
@@ -27,28 +37,18 @@
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T05:46:51Z"
     },
     {
-      "id": "ae14e2cd-cf47-45a5-b333-a10f6d103495",
-      "latitude": -34.999673,
-      "longitude": 138.597827,
+      "id": "7739d182-0699-4dec-b8e7-b3ceac48774e",
+      "latitude": -35.000422,
+      "longitude": 138.597884,
       "street": "Eliza Pl",
       "city": "Panorama",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
-      "reported_at": "2026-03-26T05:42:00Z"
-    },
-    {
-      "id": "017d40dc-4988-4222-88f6-284706583306",
-      "latitude": -34.986653,
-      "longitude": 138.523506,
-      "street": "Cliff St",
-      "city": "Glenelg East",
-      "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
-      "reported_at": "2026-03-26T04:54:44Z"
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T05:51:19Z"
     },
     {
       "id": "b9c49e97-6a25-4414-8e68-3ab0cb1d4ff8",
@@ -57,7 +57,7 @@
       "street": "Alawoona Av",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T05:00:39Z"
     },
     {
@@ -67,28 +67,8 @@
       "street": "Towers Tce",
       "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T05:52:28Z"
-    },
-    {
-      "id": "b2a9ae1a-4b7a-41eb-8482-1b3422604491",
-      "latitude": -34.952885,
-      "longitude": 138.614463,
-      "street": "Duthy St",
-      "city": "Unley",
-      "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
-      "reported_at": "2026-03-26T05:00:40Z"
-    },
-    {
-      "id": "ec18cf3f-8754-4359-830c-a4a1d0c73cf3",
-      "latitude": -34.953934,
-      "longitude": 138.614574,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
-      "reported_at": "2026-03-26T05:03:51Z"
     },
     {
       "id": "231d8481-a288-4d65-a939-fb278869c29b",
@@ -97,8 +77,38 @@
       "street": "Cliff St",
       "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T04:40:44Z"
+    },
+    {
+      "id": "ec18cf3f-8754-4359-830c-a4a1d0c73cf3",
+      "latitude": -34.953934,
+      "longitude": 138.614574,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T05:03:51Z"
+    },
+    {
+      "id": "b2a9ae1a-4b7a-41eb-8482-1b3422604491",
+      "latitude": -34.952885,
+      "longitude": 138.614463,
+      "street": "Duthy St",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T05:00:40Z"
+    },
+    {
+      "id": "017d40dc-4988-4222-88f6-284706583306",
+      "latitude": -34.986653,
+      "longitude": 138.523506,
+      "street": "Cliff St",
+      "city": "Glenelg East",
+      "type": "mobile",
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T04:54:44Z"
     },
     {
       "id": "bab318ec-8758-4c80-81ef-f46682a64304",
@@ -107,7 +117,7 @@
       "street": "Unknown Street",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T05:52:17Z"
     },
     {
@@ -117,18 +127,18 @@
       "street": "Springbank Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T06:39:33Z"
     },
     {
-      "id": "f3aa4277-d060-4a61-8f35-5564848bee3b",
-      "latitude": -34.85006,
-      "longitude": 138.694103,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
+      "id": "0bd63522-e354-48dd-9f35-434023c79d47",
+      "latitude": -34.924448,
+      "longitude": 138.555744,
+      "street": "Henley Beach Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
-      "reported_at": "2026-03-26T07:14:08Z"
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T07:30:13Z"
     },
     {
       "id": "d69dbd8f-1329-40ec-9fcd-44c3b821782f",
@@ -137,8 +147,28 @@
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-26T07:30:23Z",
+      "timestamp": "2026-03-26T08:00:23Z",
       "reported_at": "2026-03-26T05:00:14Z"
+    },
+    {
+      "id": "4efa2e26-4093-408a-889e-ed9c3dac7103",
+      "latitude": -34.727139,
+      "longitude": 138.665778,
+      "street": "Philip Hwy",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T07:50:04Z"
+    },
+    {
+      "id": "98fefd09-7acb-4cb7-a3af-5c4bf76cf33d",
+      "latitude": -34.843694,
+      "longitude": 138.693695,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-26T08:00:23Z",
+      "reported_at": "2026-03-26T07:34:22Z"
     }
   ]
 }
