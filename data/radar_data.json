@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "cca3c56e-20eb-465e-87d5-2a9919a7a42d",
-      "latitude": -34.954714,
-      "longitude": 138.558361,
-      "street": "Birdwood Tce",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T05:46:51Z"
-    },
-    {
-      "id": "679f5580-3978-48d1-8663-8cecb7ea4979",
-      "latitude": -35.001463,
-      "longitude": 138.587084,
-      "street": "Day Dr",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T07:01:41Z"
-    },
-    {
       "id": "0454e6ac-4a74-4efa-b973-f88ca82d40fb",
       "latitude": -34.989133,
       "longitude": 138.564932,
       "street": "West St",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
+      "timestamp": "2026-03-26T11:30:23Z",
       "reported_at": "2026-03-26T07:38:14Z"
     },
     {
@@ -37,18 +17,8 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
+      "timestamp": "2026-03-26T11:30:23Z",
       "reported_at": "2026-03-26T10:08:27Z"
-    },
-    {
-      "id": "aa72b8b4-f1ea-43df-bcf1-15c5d7e00287",
-      "latitude": -34.953443,
-      "longitude": 138.614505,
-      "street": "Duthy St",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T09:18:17Z"
     },
     {
       "id": "a6599811-0aec-4bdd-b034-d196a6b4a410",
@@ -57,8 +27,18 @@
       "street": "Albert St",
       "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
+      "timestamp": "2026-03-26T11:30:23Z",
       "reported_at": "2026-03-26T08:21:53Z"
+    },
+    {
+      "id": "aa72b8b4-f1ea-43df-bcf1-15c5d7e00287",
+      "latitude": -34.953443,
+      "longitude": 138.614505,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T09:18:17Z"
     },
     {
       "id": "c1ffa740-6474-4406-8b6d-62f854fd25e7",
@@ -67,48 +47,68 @@
       "street": "Whites Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
+      "timestamp": "2026-03-26T11:30:23Z",
       "reported_at": "2026-03-26T08:08:34Z"
     },
     {
-      "id": "fbaf4d81-62ac-4dd4-953b-7d3024c2bef1",
-      "latitude": -34.990128,
-      "longitude": 138.606005,
+      "id": "2e85d5a2-bbca-46b1-8a87-474389f03782",
+      "latitude": -34.737298,
+      "longitude": 138.64668,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T10:54:44Z"
+    },
+    {
+      "id": "e4ed4add-62fb-460c-9a55-8b79de772d2f",
+      "latitude": -34.990258,
+      "longitude": 138.603443,
       "street": "Springbank Rd",
       "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T07:08:46Z"
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T08:12:08Z"
     },
     {
-      "id": "344f3f9d-a650-481d-ab62-a47b1d90fb2a",
-      "latitude": -35.09995,
-      "longitude": 138.532261,
+      "id": "f7c532e7-f7b2-4f5a-b101-5d813b56b5cd",
+      "latitude": -34.992388,
+      "longitude": 138.585432,
+      "street": "Daws Rd",
+      "city": "Daw Park",
+      "type": "mobile",
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T10:43:30Z"
+    },
+    {
+      "id": "a40ed259-aca2-498c-b7ae-79f9a806a09c",
+      "latitude": -34.871294,
+      "longitude": 138.570584,
+      "street": "South Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T10:55:35Z"
+    },
+    {
+      "id": "fcd7a77d-78a7-4a9e-baa7-80546a678ff8",
+      "latitude": -34.837766,
+      "longitude": 138.502565,
+      "street": "A16 - Victoria Rd",
+      "city": "Birkenhead",
+      "type": "mobile",
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T11:09:29Z"
+    },
+    {
+      "id": "8deb95f8-521a-4429-aa33-38b42308d83f",
+      "latitude": -35.100733,
+      "longitude": 138.531524,
       "street": "A13 - Main South Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T10:52:58Z"
-    },
-    {
-      "id": "fbfe5afa-5448-431a-ae02-64de1df180c3",
-      "latitude": -34.93901,
-      "longitude": 138.645671,
-      "street": "B26 - Greenhill Rd",
-      "city": "Tusmore",
-      "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T10:37:58Z"
-    },
-    {
-      "id": "bc7e3c69-482c-4c70-8869-6595d5e3e1d7",
-      "latitude": -34.846076,
-      "longitude": 138.6016,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-26T11:00:23Z",
-      "reported_at": "2026-03-26T09:40:53Z"
+      "timestamp": "2026-03-26T11:30:23Z",
+      "reported_at": "2026-03-26T11:18:48Z"
     }
   ]
 }
