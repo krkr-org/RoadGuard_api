@@ -1,44 +1,64 @@
 {
   "radars": [
     {
-      "id": "c94b72b7-8ce0-400f-b4e0-d3e5c4dd38d2",
-      "latitude": -34.768272,
-      "longitude": 138.657382,
-      "street": "Stanbel Rd",
-      "city": "Salisbury Plain",
+      "id": "1c0167ea-ec9f-47cb-91b7-67c90fa8cf6a",
+      "latitude": -34.808502,
+      "longitude": 138.616958,
+      "street": "Main St",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
-      "reported_at": "2026-03-27T06:17:26Z"
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T11:34:24Z"
     },
     {
-      "id": "85ddd1e6-8f9d-4360-900c-aecb8940712d",
-      "latitude": -34.78336,
-      "longitude": 138.606808,
+      "id": "d4269227-0bdb-4db8-afde-df64a63481ab",
+      "latitude": -34.91564,
+      "longitude": 138.598658,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T11:35:15Z"
+    },
+    {
+      "id": "d0a8f9be-481b-4b90-94c4-a53fc92fc8a8",
+      "latitude": -34.783872,
+      "longitude": 138.606348,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
-      "reported_at": "2026-03-27T06:07:42Z"
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T05:48:48Z"
     },
     {
-      "id": "cd3f1768-d8ed-4cef-b543-1502e377f22e",
-      "latitude": -34.770256,
-      "longitude": 138.618529,
+      "id": "1a57dee6-5bd3-492c-81d2-f5a32031758f",
+      "latitude": -34.769533,
+      "longitude": 138.619171,
       "street": "Martins Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
-      "reported_at": "2026-03-27T10:57:25Z"
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T10:34:16Z"
     },
     {
-      "id": "b622bba8-cc23-4993-ac33-f9a73a51f335",
-      "latitude": -34.886488,
-      "longitude": 138.531193,
-      "street": "Findon Rd",
-      "city": "Woodville West",
+      "id": "418c0794-cf3e-478a-a9c6-226749a238d8",
+      "latitude": -34.826187,
+      "longitude": 138.500164,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
-      "reported_at": "2026-03-27T10:57:18Z"
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T11:17:48Z"
+    },
+    {
+      "id": "063d3a17-8f95-4a26-a3d3-693840cb5e4f",
+      "latitude": -34.820523,
+      "longitude": 138.597993,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T11:34:43Z"
     },
     {
       "id": "be08cf00-44aa-4d99-ade6-447d9e49fa52",
@@ -47,28 +67,28 @@
       "street": "B27 - Old Norton Summit Rd",
       "city": "Teringie",
       "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
+      "timestamp": "2026-03-27T12:00:24Z",
       "reported_at": "2026-03-27T08:38:05Z"
     },
     {
-      "id": "dd8bc0af-2f28-4b3f-8f5e-c547c38cbad8",
-      "latitude": -34.78605,
-      "longitude": 138.620185,
+      "id": "dc848cc3-3dd0-4a57-a12b-828830b5a7bd",
+      "latitude": -34.891746,
+      "longitude": 138.603329,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T11:37:30Z"
+    },
+    {
+      "id": "a54387ab-9559-4474-a486-9e3048725ac3",
+      "latitude": -34.787819,
+      "longitude": 138.618595,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
-      "reported_at": "2026-03-27T09:45:21Z"
-    },
-    {
-      "id": "162712ae-2a2f-4c44-8840-113c3b33fa2c",
-      "latitude": -34.796003,
-      "longitude": 138.65407,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-27T11:30:22Z",
-      "reported_at": "2026-03-27T07:08:01Z"
+      "timestamp": "2026-03-27T12:00:24Z",
+      "reported_at": "2026-03-27T09:47:43Z"
     }
   ]
 }
