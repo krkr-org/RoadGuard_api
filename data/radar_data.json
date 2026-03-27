@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "c03ca4db-ed72-4a68-b0ee-b20126738835",
-      "latitude": -34.724529,
-      "longitude": 138.663741,
-      "street": "Goodman Rd",
-      "city": "Elizabeth",
+      "id": "f719c5e7-0df9-4b00-911b-79c719de45cc",
+      "latitude": -34.887864,
+      "longitude": 138.517187,
+      "street": "Clark Tce",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T07:07:05Z"
-    },
-    {
-      "id": "eb36cd0c-ba2f-4e2d-8c1f-650fe9afafcd",
-      "latitude": -34.943762,
-      "longitude": 138.548906,
-      "street": "Transport Av",
-      "city": "Netley",
-      "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T03:58:51Z"
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T07:14:52Z"
     },
     {
       "id": "eacc62e6-1c4d-4972-b1b0-9598a1136724",
@@ -27,28 +17,38 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
+      "timestamp": "2026-03-27T08:30:23Z",
       "reported_at": "2026-03-27T05:50:35Z"
     },
     {
-      "id": "2eacbc88-565f-4212-84a0-daf39071e849",
-      "latitude": -34.782269,
-      "longitude": 138.607781,
+      "id": "7f8acb63-148b-42cc-8c9d-069952993361",
+      "latitude": -34.783306,
+      "longitude": 138.606819,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T05:44:39Z"
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T04:43:47Z"
     },
     {
-      "id": "fe59f17f-b286-44bb-b888-ed6c3a97331c",
-      "latitude": -34.781073,
-      "longitude": 138.662531,
+      "id": "d47892dc-57f1-4e62-b59f-7a5d9e8bd689",
+      "latitude": -34.790734,
+      "longitude": 138.601212,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T05:12:35Z"
+    },
+    {
+      "id": "611123e0-19e5-4fb4-9edf-b3ede0406351",
+      "latitude": -34.780717,
+      "longitude": 138.662847,
       "street": "Daphne Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T06:49:02Z"
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T06:24:39Z"
     },
     {
       "id": "c94b72b7-8ce0-400f-b4e0-d3e5c4dd38d2",
@@ -57,38 +57,38 @@
       "street": "Stanbel Rd",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
+      "timestamp": "2026-03-27T08:30:23Z",
       "reported_at": "2026-03-27T06:17:26Z"
     },
     {
-      "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
-      "latitude": -34.791269,
-      "longitude": 138.602119,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
+      "id": "7b41e2e8-b108-4a2d-ba0f-ade7def943bc",
+      "latitude": -35.025695,
+      "longitude": 138.559837,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T03:12:28Z"
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T07:29:10Z"
     },
     {
-      "id": "f6859a58-d5c9-4e11-8cea-e4f29da5e93a",
-      "latitude": -34.940991,
-      "longitude": 138.606962,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
-      "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T04:23:54Z"
-    },
-    {
-      "id": "907e94de-ff46-4799-b4d5-bb4609487aff",
-      "latitude": -34.795619,
-      "longitude": 138.653235,
+      "id": "5adbb540-e6e1-44aa-90bf-c8ca11c0359d",
+      "latitude": -34.795947,
+      "longitude": 138.653977,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:00:22Z",
-      "reported_at": "2026-03-27T06:10:37Z"
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T05:31:21Z"
+    },
+    {
+      "id": "57c2e915-7d0f-4db6-8642-c8fb1f5a6e89",
+      "latitude": -34.777579,
+      "longitude": 138.627741,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-27T08:30:23Z",
+      "reported_at": "2026-03-27T08:19:35Z"
     }
   ]
 }
