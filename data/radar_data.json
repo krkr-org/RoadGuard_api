@@ -1,74 +1,44 @@
 {
   "radars": [
     {
-      "id": "2eacbc88-565f-4212-84a0-daf39071e849",
-      "latitude": -34.782344,
-      "longitude": 138.607714,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T05:44:39Z"
-    },
-    {
-      "id": "fe59f17f-b286-44bb-b888-ed6c3a97331c",
-      "latitude": -34.781073,
-      "longitude": 138.662531,
-      "street": "Daphne Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T06:49:02Z"
-    },
-    {
       "id": "c94b72b7-8ce0-400f-b4e0-d3e5c4dd38d2",
       "latitude": -34.768272,
       "longitude": 138.657382,
       "street": "Stanbel Rd",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
+      "timestamp": "2026-03-27T11:00:22Z",
       "reported_at": "2026-03-27T06:17:26Z"
     },
     {
-      "id": "3329c33f-67b0-4d17-a6d6-4a375a1c345c",
-      "latitude": -34.92393,
-      "longitude": 138.582991,
-      "street": "Glover Av",
-      "city": "Adelaide",
+      "id": "d0a8f9be-481b-4b90-94c4-a53fc92fc8a8",
+      "latitude": -34.783872,
+      "longitude": 138.606348,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T10:10:15Z"
+      "timestamp": "2026-03-27T11:00:22Z",
+      "reported_at": "2026-03-27T05:48:48Z"
     },
     {
-      "id": "122ffa3b-77e4-42b4-9fb9-79d858cc5aed",
-      "latitude": -34.990491,
-      "longitude": 138.598799,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "1a57dee6-5bd3-492c-81d2-f5a32031758f",
+      "latitude": -34.769533,
+      "longitude": 138.619171,
+      "street": "Martins Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T10:07:09Z"
+      "timestamp": "2026-03-27T11:00:22Z",
+      "reported_at": "2026-03-27T10:34:16Z"
     },
     {
-      "id": "d4da3b04-32e5-4b77-b75a-639ff08df9fb",
-      "latitude": -34.990266,
-      "longitude": 138.603297,
-      "street": "Springbank Rd",
-      "city": "Clapham",
+      "id": "d9343fca-6bb7-4491-874f-19cf5e01b15c",
+      "latitude": -35.145458,
+      "longitude": 138.486744,
+      "street": "A15 - Dyson Rd",
+      "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T10:07:25Z"
-    },
-    {
-      "id": "be08cf00-44aa-4d99-ade6-447d9e49fa52",
-      "latitude": -34.914885,
-      "longitude": 138.692421,
-      "street": "B27 - Old Norton Summit Rd",
-      "city": "Teringie",
-      "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T08:38:05Z"
+      "timestamp": "2026-03-27T11:00:22Z",
+      "reported_at": "2026-03-27T10:31:50Z"
     },
     {
       "id": "9fbb7e0a-a4bc-435c-883b-d8238d8f49a5",
@@ -77,58 +47,38 @@
       "street": "B29 - Belair Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
+      "timestamp": "2026-03-27T11:00:22Z",
       "reported_at": "2026-03-27T10:09:09Z"
     },
     {
-      "id": "a7e381ec-4108-49b9-a278-2fe5c60fe6e8",
-      "latitude": -34.914449,
-      "longitude": 138.613796,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "be08cf00-44aa-4d99-ade6-447d9e49fa52",
+      "latitude": -34.914885,
+      "longitude": 138.692421,
+      "street": "B27 - Old Norton Summit Rd",
+      "city": "Teringie",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T10:20:01Z"
+      "timestamp": "2026-03-27T11:00:22Z",
+      "reported_at": "2026-03-27T08:38:05Z"
     },
     {
-      "id": "1a78848d-62b2-48f1-bbc7-847f7357c218",
-      "latitude": -35.111086,
-      "longitude": 138.5224,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T10:05:57Z"
-    },
-    {
-      "id": "858e5d3a-ba8d-42d3-b680-b8fb9dac9ec8",
-      "latitude": -34.793296,
-      "longitude": 138.645495,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T05:34:26Z"
-    },
-    {
-      "id": "907e94de-ff46-4799-b4d5-bb4609487aff",
-      "latitude": -34.795655,
-      "longitude": 138.653265,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T06:10:37Z"
-    },
-    {
-      "id": "efeff01e-5ee2-4371-91b2-a2bf3c00282f",
-      "latitude": -34.788166,
-      "longitude": 138.618285,
+      "id": "a54387ab-9559-4474-a486-9e3048725ac3",
+      "latitude": -34.787819,
+      "longitude": 138.618595,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T10:30:22Z",
-      "reported_at": "2026-03-27T10:05:10Z"
+      "timestamp": "2026-03-27T11:00:22Z",
+      "reported_at": "2026-03-27T09:47:43Z"
+    },
+    {
+      "id": "162712ae-2a2f-4c44-8840-113c3b33fa2c",
+      "latitude": -34.796003,
+      "longitude": 138.65407,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-27T11:00:22Z",
+      "reported_at": "2026-03-27T07:08:01Z"
     }
   ]
 }
