@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "c03ca4db-ed72-4a68-b0ee-b20126738835",
+      "latitude": -34.724529,
+      "longitude": 138.663741,
+      "street": "Goodman Rd",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2026-03-27T08:00:22Z",
+      "reported_at": "2026-03-27T07:07:05Z"
+    },
+    {
       "id": "eb36cd0c-ba2f-4e2d-8c1f-650fe9afafcd",
       "latitude": -34.943762,
       "longitude": 138.548906,
       "street": "Transport Av",
       "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
+      "timestamp": "2026-03-27T08:00:22Z",
       "reported_at": "2026-03-27T03:58:51Z"
-    },
-    {
-      "id": "14da821c-6322-4015-8430-005100a30431",
-      "latitude": -34.980044,
-      "longitude": 138.519786,
-      "street": "Jetty Rd",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T07:10:14Z"
-    },
-    {
-      "id": "2eacbc88-565f-4212-84a0-daf39071e849",
-      "latitude": -34.782269,
-      "longitude": 138.607781,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T05:44:39Z"
-    },
-    {
-      "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
-      "latitude": -34.791269,
-      "longitude": 138.602119,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T03:12:28Z"
     },
     {
       "id": "eacc62e6-1c4d-4972-b1b0-9598a1136724",
@@ -47,8 +27,18 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
+      "timestamp": "2026-03-27T08:00:22Z",
       "reported_at": "2026-03-27T05:50:35Z"
+    },
+    {
+      "id": "2eacbc88-565f-4212-84a0-daf39071e849",
+      "latitude": -34.782269,
+      "longitude": 138.607781,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-27T08:00:22Z",
+      "reported_at": "2026-03-27T05:44:39Z"
     },
     {
       "id": "fe59f17f-b286-44bb-b888-ed6c3a97331c",
@@ -57,38 +47,28 @@
       "street": "Daphne Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
+      "timestamp": "2026-03-27T08:00:22Z",
       "reported_at": "2026-03-27T06:49:02Z"
     },
     {
-      "id": "0c64854f-6f5d-49b2-9d8c-676b4936eb9c",
-      "latitude": -34.979888,
-      "longitude": 138.515087,
-      "street": "Unknown Street",
-      "city": "Glenelg",
+      "id": "c94b72b7-8ce0-400f-b4e0-d3e5c4dd38d2",
+      "latitude": -34.768272,
+      "longitude": 138.657382,
+      "street": "Stanbel Rd",
+      "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T07:01:02Z"
+      "timestamp": "2026-03-27T08:00:22Z",
+      "reported_at": "2026-03-27T06:17:26Z"
     },
     {
-      "id": "f8004bfa-d8c3-4856-964b-549b4f1ad787",
-      "latitude": -34.713894,
-      "longitude": 138.668234,
-      "street": "Winterslow Rd",
-      "city": "Elizabeth",
+      "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
+      "latitude": -34.791269,
+      "longitude": 138.602119,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T06:53:22Z"
-    },
-    {
-      "id": "7b41e2e8-b108-4a2d-ba0f-ade7def943bc",
-      "latitude": -35.025695,
-      "longitude": 138.559837,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T07:29:10Z"
+      "timestamp": "2026-03-27T08:00:22Z",
+      "reported_at": "2026-03-27T03:12:28Z"
     },
     {
       "id": "f6859a58-d5c9-4e11-8cea-e4f29da5e93a",
@@ -97,18 +77,18 @@
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
+      "timestamp": "2026-03-27T08:00:22Z",
       "reported_at": "2026-03-27T04:23:54Z"
     },
     {
-      "id": "50db2420-0410-466d-80fe-3aedb835e8d5",
-      "latitude": -34.795236,
-      "longitude": 138.652833,
+      "id": "907e94de-ff46-4799-b4d5-bb4609487aff",
+      "latitude": -34.795619,
+      "longitude": 138.653235,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:30:23Z",
-      "reported_at": "2026-03-27T06:24:33Z"
+      "timestamp": "2026-03-27T08:00:22Z",
+      "reported_at": "2026-03-27T06:10:37Z"
     }
   ]
 }
