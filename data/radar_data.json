@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "43dcb4b6-e082-4b32-9ad0-04160a6bf2f2",
-      "latitude": -34.928561,
-      "longitude": 138.534301,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
-      "reported_at": "2026-03-26T23:03:53Z"
-    },
-    {
       "id": "60cb7460-4014-4765-8cf6-31480541f285",
       "latitude": -34.917261,
       "longitude": 138.502973,
       "street": "Badenoch St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
+      "timestamp": "2026-03-27T01:00:23Z",
       "reported_at": "2026-03-26T21:54:59Z"
+    },
+    {
+      "id": "43dcb4b6-e082-4b32-9ad0-04160a6bf2f2",
+      "latitude": -34.928561,
+      "longitude": 138.534301,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-26T23:03:53Z"
     },
     {
       "id": "8e3589e8-3704-498d-96ef-e4d8dd1ace39",
@@ -27,18 +27,18 @@
       "street": "Paracombe Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
+      "timestamp": "2026-03-27T01:00:23Z",
       "reported_at": "2026-03-26T21:39:39Z"
     },
     {
-      "id": "eae4a78c-b76e-423b-8ab0-9a2975c423cf",
-      "latitude": -34.913002,
-      "longitude": 138.507496,
+      "id": "8ca7bab1-9f52-4eb0-9ba7-e5caf758ad39",
+      "latitude": -34.912986,
+      "longitude": 138.507804,
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
-      "reported_at": "2026-03-26T22:20:07Z"
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-26T20:53:28Z"
     },
     {
       "id": "e01e5a18-3769-4387-be48-32afcf9ea547",
@@ -47,28 +47,18 @@
       "street": "Kingborn Av",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
+      "timestamp": "2026-03-27T01:00:23Z",
       "reported_at": "2026-03-26T21:47:24Z"
     },
     {
-      "id": "263e53f5-9a37-47d7-9d30-c5019454e93e",
-      "latitude": -34.891903,
-      "longitude": 138.510168,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
+      "id": "6c5df0d4-0f92-4d76-8ec9-e2783fefa494",
+      "latitude": -34.744775,
+      "longitude": 138.646916,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
-      "reported_at": "2026-03-26T22:11:24Z"
-    },
-    {
-      "id": "262c5d2c-d6b1-4b28-bc9a-2a7659ebf300",
-      "latitude": -34.853033,
-      "longitude": 138.502183,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
-      "reported_at": "2026-03-27T00:13:05Z"
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-27T00:31:34Z"
     },
     {
       "id": "eddb14b9-a6cb-4de0-8f9f-96b88d8bdbf6",
@@ -77,18 +67,58 @@
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
+      "timestamp": "2026-03-27T01:00:23Z",
       "reported_at": "2026-03-26T22:38:50Z"
     },
     {
-      "id": "cc57da92-9cc1-4ae2-810b-2f869dfd8629",
-      "latitude": -34.718317,
-      "longitude": 138.760882,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
+      "id": "263e53f5-9a37-47d7-9d30-c5019454e93e",
+      "latitude": -34.891903,
+      "longitude": 138.510168,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-27T00:30:22Z",
-      "reported_at": "2026-03-26T22:31:02Z"
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-26T22:11:24Z"
+    },
+    {
+      "id": "d7eb26de-2701-4174-8a88-5965eedfd685",
+      "latitude": -35.136934,
+      "longitude": 138.520547,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-27T00:24:37Z"
+    },
+    {
+      "id": "1f21da15-3546-4a5d-90f9-7d20300689ec",
+      "latitude": -34.898919,
+      "longitude": 138.594007,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-27T00:54:09Z"
+    },
+    {
+      "id": "f96ea21a-0e22-41d8-a5e0-8679b7caad22",
+      "latitude": -34.701518,
+      "longitude": 138.575303,
+      "street": "M2 - Northern Exp",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-27T00:32:23Z"
+    },
+    {
+      "id": "733632fc-6cce-40ca-b6af-47a4fb8a49b3",
+      "latitude": -35.103976,
+      "longitude": 138.511299,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-27T01:00:23Z",
+      "reported_at": "2026-03-27T00:47:24Z"
     }
   ]
 }
