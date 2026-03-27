@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "1c9d3e99-07c0-4c99-9ca6-495eec393691",
-      "latitude": -35.110967,
-      "longitude": 138.59014,
-      "street": "Bains Rd",
-      "city": "Onkaparinga Hills",
+      "id": "dffefc61-5044-41d8-82c7-aaebef3d46aa",
+      "latitude": -34.952324,
+      "longitude": 138.507399,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-27T23:00:22Z",
-      "reported_at": "2026-03-27T21:51:17Z"
+      "timestamp": "2026-03-27T23:30:25Z",
+      "reported_at": "2026-03-27T22:32:33Z"
     },
     {
       "id": "8ee5045c-7d67-4432-b789-c4c2954d56fe",
@@ -17,8 +17,38 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-27T23:00:22Z",
+      "timestamp": "2026-03-27T23:30:25Z",
       "reported_at": "2026-03-27T21:47:03Z"
+    },
+    {
+      "id": "fb841c32-7448-4523-8ea4-2fef45514da1",
+      "latitude": -34.89186,
+      "longitude": 138.511702,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-27T23:30:25Z",
+      "reported_at": "2026-03-27T23:17:50Z"
+    },
+    {
+      "id": "48708a6f-ec8d-4a7d-9016-2bbcaeb06201",
+      "latitude": -34.83627,
+      "longitude": 138.588479,
+      "street": "Churchill Rd North",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-27T23:30:25Z",
+      "reported_at": "2026-03-27T21:31:30Z"
+    },
+    {
+      "id": "b0366b12-b6e7-4d33-a1de-91b9eaed52e7",
+      "latitude": -34.7701,
+      "longitude": 138.665901,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Plain",
+      "type": "mobile",
+      "timestamp": "2026-03-27T23:30:25Z",
+      "reported_at": "2026-03-27T22:24:34Z"
     }
   ]
 }
