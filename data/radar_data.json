@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "9333868c-d535-4dca-8c39-c34f3924b8ec",
-      "latitude": -34.848707,
-      "longitude": 138.784739,
-      "street": "Paracombe Rd",
-      "city": "Paracombe",
-      "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T00:49:37Z"
-    },
-    {
       "id": "44dde01f-ad05-4d9a-ba54-87a1857bf640",
       "latitude": -34.843333,
       "longitude": 138.53676,
       "street": "Milburn St",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
+      "timestamp": "2026-03-27T05:00:23Z",
       "reported_at": "2026-03-27T02:54:22Z"
     },
     {
@@ -27,28 +17,38 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
+      "timestamp": "2026-03-27T05:00:23Z",
       "reported_at": "2026-03-27T02:48:56Z"
     },
     {
       "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
-      "latitude": -34.790971,
-      "longitude": 138.601598,
+      "latitude": -34.791935,
+      "longitude": 138.603248,
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
+      "timestamp": "2026-03-27T05:00:23Z",
       "reported_at": "2026-03-27T03:12:28Z"
     },
     {
-      "id": "7d134790-2d58-4983-ade4-070bcff23e16",
-      "latitude": -34.782836,
-      "longitude": 138.653654,
-      "street": "Frost Rd",
-      "city": "Brahma Lodge",
+      "id": "b509d8ff-9477-4949-8d6c-96b0a6fb30c2",
+      "latitude": -34.782716,
+      "longitude": 138.607384,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T04:14:16Z"
+      "timestamp": "2026-03-27T05:00:23Z",
+      "reported_at": "2026-03-27T04:43:45Z"
+    },
+    {
+      "id": "5eb17662-e7c0-46d4-9c42-388bec25369e",
+      "latitude": -35.122654,
+      "longitude": 138.510563,
+      "street": "Brodie Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-27T05:00:23Z",
+      "reported_at": "2026-03-27T04:52:09Z"
     },
     {
       "id": "a0722322-746e-415c-9ad9-7201f6ec0307",
@@ -57,58 +57,28 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
+      "timestamp": "2026-03-27T05:00:23Z",
       "reported_at": "2026-03-27T04:00:11Z"
     },
     {
-      "id": "71f91793-a3e5-4b88-b827-83d81e6fd489",
-      "latitude": -34.871469,
-      "longitude": 138.667024,
-      "street": "Darley Rd",
-      "city": "Paradise",
+      "id": "efd2cbe9-6551-4c0c-af4f-7a5e27cfc35a",
+      "latitude": -34.706826,
+      "longitude": 138.662928,
+      "street": "Peachey Rd",
+      "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T04:04:24Z"
+      "timestamp": "2026-03-27T05:00:23Z",
+      "reported_at": "2026-03-27T04:50:32Z"
     },
     {
-      "id": "06d094e3-db65-42af-b63b-1046e7ae824d",
-      "latitude": -34.871591,
-      "longitude": 138.626804,
-      "street": "Muller Rd",
-      "city": "Greenacres",
+      "id": "118c3049-2130-4e68-a903-3438c87c91c5",
+      "latitude": -34.668819,
+      "longitude": 138.547273,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T04:11:58Z"
-    },
-    {
-      "id": "ad544cdd-2c46-4311-83e1-afb7d1ce82fd",
-      "latitude": -35.099995,
-      "longitude": 138.532217,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T03:51:18Z"
-    },
-    {
-      "id": "9e0c73f4-4a5e-4e51-94df-38e77d09e107",
-      "latitude": -34.821467,
-      "longitude": 138.620554,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T04:23:46Z"
-    },
-    {
-      "id": "1a423cbc-caa4-4ea0-bfd5-77c6d5211604",
-      "latitude": -34.787625,
-      "longitude": 138.650331,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury South",
-      "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T04:13:35Z"
+      "timestamp": "2026-03-27T05:00:23Z",
+      "reported_at": "2026-03-27T04:39:09Z"
     },
     {
       "id": "1d663d6c-0a32-4e53-ae8b-f5742d506737",
@@ -117,18 +87,18 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
+      "timestamp": "2026-03-27T05:00:23Z",
       "reported_at": "2026-03-27T03:53:55Z"
     },
     {
-      "id": "e17ad6e5-be4b-4572-8456-1ff333400580",
-      "latitude": -35.030604,
-      "longitude": 138.805039,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "d9db3f9e-be6e-46e8-b818-d88ccf1b71a6",
+      "latitude": -34.784974,
+      "longitude": 138.652601,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2026-03-27T04:30:22Z",
-      "reported_at": "2026-03-27T04:15:46Z"
+      "timestamp": "2026-03-27T05:00:23Z",
+      "reported_at": "2026-03-27T04:52:16Z"
     }
   ]
 }
