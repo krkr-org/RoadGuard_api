@@ -1,14 +1,64 @@
 {
   "radars": [
     {
+      "id": "23459f96-241c-4193-ba68-bb3c9f1aa52a",
+      "latitude": -35.113814,
+      "longitude": 138.581369,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
+      "type": "mobile",
+      "timestamp": "2026-03-27T22:00:25Z",
+      "reported_at": "2026-03-27T21:40:15Z"
+    },
+    {
+      "id": "411acb29-94ab-42ff-b047-ffad7ddbd8ce",
+      "latitude": -34.961986,
+      "longitude": 138.521767,
+      "street": "James Melrose Rd",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-03-27T22:00:25Z",
+      "reported_at": "2026-03-27T21:42:32Z"
+    },
+    {
+      "id": "8ee5045c-7d67-4432-b789-c4c2954d56fe",
+      "latitude": -35.092067,
+      "longitude": 138.533869,
+      "street": "Young St",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-27T22:00:25Z",
+      "reported_at": "2026-03-27T21:47:03Z"
+    },
+    {
       "id": "abb48a64-0197-46b6-9639-1cb56f2bf88d",
       "latitude": -34.84286,
       "longitude": 138.662944,
       "street": "Nelson Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-27T21:30:23Z",
+      "timestamp": "2026-03-27T22:00:25Z",
       "reported_at": "2026-03-27T19:28:39Z"
+    },
+    {
+      "id": "198198c8-d4a5-4778-b902-4fff64c3dcfc",
+      "latitude": -34.87118,
+      "longitude": 138.520388,
+      "street": "A7 - Port Rd",
+      "city": "Albert Park",
+      "type": "mobile",
+      "timestamp": "2026-03-27T22:00:25Z",
+      "reported_at": "2026-03-27T21:38:53Z"
+    },
+    {
+      "id": "1d630aa2-6f31-4634-bad4-b2eda20ddf19",
+      "latitude": -34.67234,
+      "longitude": 138.651272,
+      "street": "M2 - Northern Exp",
+      "city": "Andrews Farm",
+      "type": "mobile",
+      "timestamp": "2026-03-27T22:00:25Z",
+      "reported_at": "2026-03-27T21:55:27Z"
     }
   ]
 }
