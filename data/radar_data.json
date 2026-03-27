@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "7825cb2b-47f1-44bb-805c-21fe27ca5547",
+      "latitude": -34.795886,
+      "longitude": 138.648053,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T02:04:44Z"
+    },
+    {
       "id": "44dde01f-ad05-4d9a-ba54-87a1857bf640",
       "latitude": -34.843333,
       "longitude": 138.53676,
       "street": "Milburn St",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
+      "timestamp": "2026-03-27T06:00:23Z",
       "reported_at": "2026-03-27T02:54:22Z"
     },
     {
@@ -17,38 +27,68 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
+      "timestamp": "2026-03-27T06:00:23Z",
       "reported_at": "2026-03-27T02:48:56Z"
     },
     {
-      "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
-      "latitude": -34.791935,
-      "longitude": 138.603248,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
+      "id": "e1f6cfa7-bf4d-486c-8103-3af3ca7a6b71",
+      "latitude": -34.917523,
+      "longitude": 138.593809,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
-      "reported_at": "2026-03-27T03:12:28Z"
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:41:00Z"
     },
     {
-      "id": "b509d8ff-9477-4949-8d6c-96b0a6fb30c2",
-      "latitude": -34.782716,
-      "longitude": 138.607384,
+      "id": "2eacbc88-565f-4212-84a0-daf39071e849",
+      "latitude": -34.782269,
+      "longitude": 138.607781,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
-      "reported_at": "2026-03-27T04:43:45Z"
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:44:39Z"
     },
     {
-      "id": "5eb17662-e7c0-46d4-9c42-388bec25369e",
-      "latitude": -35.122654,
-      "longitude": 138.510563,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
+      "id": "d47892dc-57f1-4e62-b59f-7a5d9e8bd689",
+      "latitude": -34.791164,
+      "longitude": 138.60194,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
-      "reported_at": "2026-03-27T04:52:09Z"
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:12:35Z"
+    },
+    {
+      "id": "67a31cdc-0dbb-4ed8-bc66-73b1f584cd67",
+      "latitude": -34.767454,
+      "longitude": 138.656029,
+      "street": "Stanbel Rd",
+      "city": "Salisbury Plain",
+      "type": "mobile",
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:26:30Z"
+    },
+    {
+      "id": "53c2329e-dc94-4d0f-857e-c7b5d23c3bca",
+      "latitude": -34.878595,
+      "longitude": 138.484932,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:35:04Z"
+    },
+    {
+      "id": "f751efc4-5277-41ac-93fd-416e814d073d",
+      "latitude": -34.876848,
+      "longitude": 138.484646,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:44:50Z"
     },
     {
       "id": "a0722322-746e-415c-9ad9-7201f6ec0307",
@@ -57,28 +97,18 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
+      "timestamp": "2026-03-27T06:00:23Z",
       "reported_at": "2026-03-27T04:00:11Z"
     },
     {
-      "id": "efd2cbe9-6551-4c0c-af4f-7a5e27cfc35a",
-      "latitude": -34.706826,
-      "longitude": 138.662928,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
+      "id": "875bea2d-e074-46cf-b6ed-f6a69a1ec062",
+      "latitude": -34.741787,
+      "longitude": 138.629331,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
-      "reported_at": "2026-03-27T04:50:32Z"
-    },
-    {
-      "id": "118c3049-2130-4e68-a903-3438c87c91c5",
-      "latitude": -34.668819,
-      "longitude": 138.547273,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
-      "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
-      "reported_at": "2026-03-27T04:39:09Z"
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:39:50Z"
     },
     {
       "id": "1d663d6c-0a32-4e53-ae8b-f5742d506737",
@@ -87,18 +117,28 @@
       "street": "B34 - Onkaparinga Valley Rd",
       "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
+      "timestamp": "2026-03-27T06:00:23Z",
       "reported_at": "2026-03-27T03:53:55Z"
     },
     {
-      "id": "d9db3f9e-be6e-46e8-b818-d88ccf1b71a6",
-      "latitude": -34.784974,
-      "longitude": 138.652601,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury South",
+      "id": "c2811748-6321-4b7d-a1ec-ab862553b02d",
+      "latitude": -34.950743,
+      "longitude": 138.575403,
+      "street": "A5 - Anzac Hwy",
+      "city": "Everard Park",
       "type": "mobile",
-      "timestamp": "2026-03-27T05:00:23Z",
-      "reported_at": "2026-03-27T04:52:16Z"
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:46:00Z"
+    },
+    {
+      "id": "5adbb540-e6e1-44aa-90bf-c8ca11c0359d",
+      "latitude": -34.795793,
+      "longitude": 138.653723,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-27T06:00:23Z",
+      "reported_at": "2026-03-27T05:31:21Z"
     }
   ]
 }
