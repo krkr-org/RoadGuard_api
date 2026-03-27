@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "43dcb4b6-e082-4b32-9ad0-04160a6bf2f2",
+      "latitude": -34.928561,
+      "longitude": 138.534301,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-27T00:00:24Z",
+      "reported_at": "2026-03-26T23:03:53Z"
+    },
+    {
       "id": "8e3589e8-3704-498d-96ef-e4d8dd1ace39",
       "latitude": -34.848119,
       "longitude": 138.785762,
       "street": "Paracombe Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T21:39:39Z"
-    },
-    {
-      "id": "fab0a962-0adc-49e9-a22f-49104300d989",
-      "latitude": -34.927966,
-      "longitude": 138.534251,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
-      "reported_at": "2026-03-26T20:37:32Z"
     },
     {
       "id": "60cb7460-4014-4765-8cf6-31480541f285",
@@ -27,7 +27,7 @@
       "street": "Badenoch St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T21:54:59Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T22:20:07Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Glen Stuart Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T21:55:33Z"
     },
     {
@@ -57,28 +57,18 @@
       "street": "Kingborn Av",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T21:47:24Z"
     },
     {
-      "id": "ed09cc29-57da-4476-bdde-460beaee6e7d",
-      "latitude": -34.742337,
-      "longitude": 138.648493,
+      "id": "17c7a8d0-f933-4074-937c-d558c7640685",
+      "latitude": -34.744352,
+      "longitude": 138.647187,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
-      "reported_at": "2026-03-26T23:12:27Z"
-    },
-    {
-      "id": "58850bdf-ca12-49fc-9057-3fb54cabb31a",
-      "latitude": -34.891819,
-      "longitude": 138.51034,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
-      "reported_at": "2026-03-26T21:18:52Z"
+      "timestamp": "2026-03-27T00:00:24Z",
+      "reported_at": "2026-03-26T23:26:38Z"
     },
     {
       "id": "eddb14b9-a6cb-4de0-8f9f-96b88d8bdbf6",
@@ -87,8 +77,28 @@
       "street": "Old Port Rd",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T22:38:50Z"
+    },
+    {
+      "id": "263e53f5-9a37-47d7-9d30-c5019454e93e",
+      "latitude": -34.891903,
+      "longitude": 138.510168,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-27T00:00:24Z",
+      "reported_at": "2026-03-26T22:11:24Z"
+    },
+    {
+      "id": "dd379602-bad5-4386-a61b-822c5595d239",
+      "latitude": -34.858319,
+      "longitude": 138.502454,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-27T00:00:24Z",
+      "reported_at": "2026-03-26T23:45:56Z"
     },
     {
       "id": "cc57da92-9cc1-4ae2-810b-2f869dfd8629",
@@ -97,18 +107,18 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
+      "timestamp": "2026-03-27T00:00:24Z",
       "reported_at": "2026-03-26T22:31:02Z"
     },
     {
-      "id": "9814db43-4cf4-4137-9030-15c736bc5b39",
-      "latitude": -34.677497,
-      "longitude": 138.697364,
-      "street": "A20 - Main North Rd",
-      "city": "Evanston South",
+      "id": "550de464-9f44-4be5-b631-4b7f5dda917f",
+      "latitude": -35.081761,
+      "longitude": 138.513379,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-03-26T23:30:22Z",
-      "reported_at": "2026-03-26T22:56:01Z"
+      "timestamp": "2026-03-27T00:00:24Z",
+      "reported_at": "2026-03-26T23:39:35Z"
     }
   ]
 }
