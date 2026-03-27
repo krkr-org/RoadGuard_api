@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "f719c5e7-0df9-4b00-911b-79c719de45cc",
-      "latitude": -34.887864,
-      "longitude": 138.517187,
-      "street": "Clark Tce",
-      "city": "Seaton",
+      "id": "237ba24f-d364-4a3d-879f-ba45b800ced7",
+      "latitude": -34.921516,
+      "longitude": 138.627645,
+      "street": "The Parade",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
-      "reported_at": "2026-03-27T07:14:52Z"
-    },
-    {
-      "id": "eacc62e6-1c4d-4972-b1b0-9598a1136724",
-      "latitude": -34.777997,
-      "longitude": 138.602014,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
-      "reported_at": "2026-03-27T05:50:35Z"
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T08:53:55Z"
     },
     {
       "id": "7f8acb63-148b-42cc-8c9d-069952993361",
@@ -27,18 +17,8 @@
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
+      "timestamp": "2026-03-27T09:00:22Z",
       "reported_at": "2026-03-27T04:43:47Z"
-    },
-    {
-      "id": "d47892dc-57f1-4e62-b59f-7a5d9e8bd689",
-      "latitude": -34.790734,
-      "longitude": 138.601212,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
-      "reported_at": "2026-03-27T05:12:35Z"
     },
     {
       "id": "611123e0-19e5-4fb4-9edf-b3ede0406351",
@@ -47,8 +27,28 @@
       "street": "Daphne Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
+      "timestamp": "2026-03-27T09:00:22Z",
       "reported_at": "2026-03-27T06:24:39Z"
+    },
+    {
+      "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
+      "latitude": -34.791269,
+      "longitude": 138.602119,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T03:12:28Z"
+    },
+    {
+      "id": "de34a3b7-6fdc-4c94-92d5-25336d333357",
+      "latitude": -34.77715,
+      "longitude": 138.600589,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T05:39:44Z"
     },
     {
       "id": "c94b72b7-8ce0-400f-b4e0-d3e5c4dd38d2",
@@ -57,28 +57,58 @@
       "street": "Stanbel Rd",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
+      "timestamp": "2026-03-27T09:00:22Z",
       "reported_at": "2026-03-27T06:17:26Z"
     },
     {
-      "id": "7b41e2e8-b108-4a2d-ba0f-ade7def943bc",
-      "latitude": -35.025695,
-      "longitude": 138.559837,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
+      "id": "28d22033-4427-49ae-acaa-76745891bc5a",
+      "latitude": -34.665787,
+      "longitude": 138.675604,
+      "street": "Stebonheath Rd",
+      "city": "Munno Para West",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
-      "reported_at": "2026-03-27T07:29:10Z"
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T08:49:54Z"
     },
     {
-      "id": "5adbb540-e6e1-44aa-90bf-c8ca11c0359d",
-      "latitude": -34.795947,
-      "longitude": 138.653977,
+      "id": "29284b1e-07f7-4dcf-b0f0-2fd78c561829",
+      "latitude": -34.670795,
+      "longitude": 138.562182,
+      "street": "Unknown Street",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T05:55:44Z"
+    },
+    {
+      "id": "3217acb3-9656-4058-bf46-45a92f0ba853",
+      "latitude": -34.922633,
+      "longitude": 138.599591,
+      "street": "King William St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T08:40:58Z"
+    },
+    {
+      "id": "963c91a9-ec97-4e52-83c1-113e3d354dea",
+      "latitude": -35.053013,
+      "longitude": 138.571066,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T08:26:12Z"
+    },
+    {
+      "id": "50db2420-0410-466d-80fe-3aedb835e8d5",
+      "latitude": -34.795236,
+      "longitude": 138.652833,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
-      "reported_at": "2026-03-27T05:31:21Z"
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T06:24:33Z"
     },
     {
       "id": "57c2e915-7d0f-4db6-8642-c8fb1f5a6e89",
@@ -87,8 +117,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-27T08:30:23Z",
+      "timestamp": "2026-03-27T09:00:22Z",
       "reported_at": "2026-03-27T08:19:35Z"
+    },
+    {
+      "id": "ae26fc81-eca8-40be-afbb-753f859db6da",
+      "latitude": -34.789368,
+      "longitude": 138.617218,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-27T09:00:22Z",
+      "reported_at": "2026-03-27T08:40:35Z"
     }
   ]
 }
