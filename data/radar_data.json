@@ -7,8 +7,18 @@
       "street": "Transport Av",
       "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
+      "timestamp": "2026-03-27T07:30:23Z",
       "reported_at": "2026-03-27T03:58:51Z"
+    },
+    {
+      "id": "14da821c-6322-4015-8430-005100a30431",
+      "latitude": -34.980044,
+      "longitude": 138.519786,
+      "street": "Jetty Rd",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T07:10:14Z"
     },
     {
       "id": "2eacbc88-565f-4212-84a0-daf39071e849",
@@ -17,18 +27,8 @@
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
+      "timestamp": "2026-03-27T07:30:23Z",
       "reported_at": "2026-03-27T05:44:39Z"
-    },
-    {
-      "id": "fe59f17f-b286-44bb-b888-ed6c3a97331c",
-      "latitude": -34.781073,
-      "longitude": 138.662531,
-      "street": "Daphne Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
-      "reported_at": "2026-03-27T06:49:02Z"
     },
     {
       "id": "9ee0ab97-d14c-41ac-a0f9-b15594ae5289",
@@ -37,38 +37,78 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
+      "timestamp": "2026-03-27T07:30:23Z",
       "reported_at": "2026-03-27T03:12:28Z"
     },
     {
-      "id": "dddfc82e-9770-47c5-931e-024a190da938",
-      "latitude": -34.741408,
-      "longitude": 138.628526,
-      "street": "Unknown Street",
-      "city": "Salisbury North",
+      "id": "eacc62e6-1c4d-4972-b1b0-9598a1136724",
+      "latitude": -34.777997,
+      "longitude": 138.602014,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
-      "reported_at": "2026-03-27T05:39:58Z"
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T05:50:35Z"
     },
     {
-      "id": "5adbb540-e6e1-44aa-90bf-c8ca11c0359d",
-      "latitude": -34.795947,
-      "longitude": 138.653977,
+      "id": "fe59f17f-b286-44bb-b888-ed6c3a97331c",
+      "latitude": -34.781073,
+      "longitude": 138.662531,
+      "street": "Daphne Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T06:49:02Z"
+    },
+    {
+      "id": "0c64854f-6f5d-49b2-9d8c-676b4936eb9c",
+      "latitude": -34.979888,
+      "longitude": 138.515087,
+      "street": "Unknown Street",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T07:01:02Z"
+    },
+    {
+      "id": "f8004bfa-d8c3-4856-964b-549b4f1ad787",
+      "latitude": -34.713894,
+      "longitude": 138.668234,
+      "street": "Winterslow Rd",
+      "city": "Elizabeth",
+      "type": "mobile",
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T06:53:22Z"
+    },
+    {
+      "id": "7b41e2e8-b108-4a2d-ba0f-ade7def943bc",
+      "latitude": -35.025695,
+      "longitude": 138.559837,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T07:29:10Z"
+    },
+    {
+      "id": "f6859a58-d5c9-4e11-8cea-e4f29da5e93a",
+      "latitude": -34.940991,
+      "longitude": 138.606962,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
+      "type": "mobile",
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T04:23:54Z"
+    },
+    {
+      "id": "50db2420-0410-466d-80fe-3aedb835e8d5",
+      "latitude": -34.795236,
+      "longitude": 138.652833,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
-      "reported_at": "2026-03-27T05:31:21Z"
-    },
-    {
-      "id": "84e18f70-4e8d-462e-8990-953af6dfa62d",
-      "latitude": -34.679296,
-      "longitude": 138.613355,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-27T07:00:23Z",
-      "reported_at": "2026-03-27T06:45:51Z"
+      "timestamp": "2026-03-27T07:30:23Z",
+      "reported_at": "2026-03-27T06:24:33Z"
     }
   ]
 }
