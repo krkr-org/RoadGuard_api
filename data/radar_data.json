@@ -1,64 +1,74 @@
 {
   "radars": [
     {
-      "id": "7a7cf904-01fd-41e8-bdaa-0c1c982b2a26",
-      "latitude": -35.093275,
-      "longitude": 138.533948,
-      "street": "Young St",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-28T02:30:24Z",
-      "reported_at": "2026-03-28T01:55:20Z"
-    },
-    {
       "id": "9577ba8b-72ed-4b4e-9b49-4497109c0260",
       "latitude": -35.111513,
       "longitude": 138.587985,
       "street": "Bains Rd",
       "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2026-03-28T02:30:24Z",
+      "timestamp": "2026-03-28T03:00:24Z",
       "reported_at": "2026-03-28T02:26:36Z"
     },
     {
-      "id": "a2bbc31f-680f-4edc-9bbc-76ef2954da9b",
-      "latitude": -34.710038,
-      "longitude": 138.690868,
+      "id": "eb5c35d0-5145-4e59-8df8-93396c3b684a",
+      "latitude": -34.958084,
+      "longitude": 138.534944,
+      "street": "James Melrose Rd",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-03-28T03:00:24Z",
+      "reported_at": "2026-03-28T02:43:49Z"
+    },
+    {
+      "id": "72b060b7-61a1-45a8-93b0-658d7b631026",
+      "latitude": -34.709976,
+      "longitude": 138.690908,
       "street": "Midway Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-03-28T02:30:24Z",
-      "reported_at": "2026-03-28T02:01:45Z"
+      "timestamp": "2026-03-28T03:00:24Z",
+      "reported_at": "2026-03-28T02:40:40Z"
     },
     {
-      "id": "374e65ee-e13e-430e-8866-d831757b44bf",
-      "latitude": -34.845099,
-      "longitude": 138.66305,
-      "street": "Nelson Rd",
-      "city": "Valley View",
+      "id": "c02125c3-2142-4d0d-96c5-b4efdc02a56e",
+      "latitude": -34.994357,
+      "longitude": 138.592826,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-28T02:30:24Z",
-      "reported_at": "2026-03-28T02:21:53Z"
+      "timestamp": "2026-03-28T03:00:24Z",
+      "reported_at": "2026-03-28T02:35:39Z"
     },
     {
-      "id": "be549799-f26c-402d-9809-04f2422d3f37",
-      "latitude": -34.818041,
-      "longitude": 138.501132,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
+      "id": "7b7ccdcb-45a3-432f-8fd4-70d703ffc43e",
+      "latitude": -34.829201,
+      "longitude": 138.669959,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-03-28T02:30:24Z",
-      "reported_at": "2026-03-28T01:58:18Z"
+      "timestamp": "2026-03-28T03:00:24Z",
+      "reported_at": "2026-03-28T02:46:23Z"
     },
     {
-      "id": "e2091197-d308-4a34-81c0-e829a5745659",
-      "latitude": -34.867775,
-      "longitude": 138.518012,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
+      "id": "2a23fa47-c1b1-41d7-8e8a-0c1a7a57c06f",
+      "latitude": -34.863394,
+      "longitude": 138.601315,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-28T02:30:24Z",
-      "reported_at": "2026-03-28T01:59:24Z"
+      "timestamp": "2026-03-28T03:00:24Z",
+      "reported_at": "2026-03-28T02:50:02Z"
+    },
+    {
+      "id": "1c56e0fc-b413-4e50-8e78-bd14d78802b1",
+      "latitude": -34.850715,
+      "longitude": 138.542775,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-28T03:00:24Z",
+      "reported_at": "2026-03-28T02:39:14Z"
     }
   ]
 }
