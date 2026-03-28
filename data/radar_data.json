@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "021e58cb-b53b-4bbd-a099-f1500c846605",
+      "latitude": -34.861587,
+      "longitude": 138.601194,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-28T22:00:22Z",
+      "reported_at": "2026-03-28T21:48:44Z"
+    },
+    {
       "id": "c0251586-4c8b-4fc9-bb55-77915e1ac371",
       "latitude": -34.804771,
       "longitude": 138.597043,
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-28T21:30:23Z",
+      "timestamp": "2026-03-28T22:00:22Z",
       "reported_at": "2026-03-28T21:02:54Z"
     }
   ]
