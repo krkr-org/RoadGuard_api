@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "76d357ea-05e0-4deb-83bc-d602c9749f4f",
-      "latitude": -35.092707,
-      "longitude": 138.533921,
+      "id": "4e177aba-0d39-4e47-abbc-242749ef7b73",
+      "latitude": -35.088497,
+      "longitude": 138.533588,
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
-      "reported_at": "2026-03-27T23:58:00Z"
-    },
-    {
-      "id": "3aa21cef-aee3-4074-b38b-e6e1c66092c7",
-      "latitude": -34.926045,
-      "longitude": 138.517675,
-      "street": "Unknown Street",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
-      "reported_at": "2026-03-28T02:37:31Z"
+      "timestamp": "2026-03-28T05:00:26Z",
+      "reported_at": "2026-03-28T02:35:31Z"
     },
     {
       "id": "f7c54630-f5c5-4307-959a-d99188a7387a",
@@ -27,8 +17,48 @@
       "street": "Elizabeth Way",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
+      "timestamp": "2026-03-28T05:00:26Z",
       "reported_at": "2026-03-28T04:24:50Z"
+    },
+    {
+      "id": "f799b48f-30d7-42fb-a5b4-2198b923409f",
+      "latitude": -34.84366,
+      "longitude": 138.508826,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:00:26Z",
+      "reported_at": "2026-03-28T04:53:36Z"
+    },
+    {
+      "id": "3aa21cef-aee3-4074-b38b-e6e1c66092c7",
+      "latitude": -34.926045,
+      "longitude": 138.517675,
+      "street": "Unknown Street",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:00:26Z",
+      "reported_at": "2026-03-28T02:37:31Z"
+    },
+    {
+      "id": "3efba62c-413f-4537-977d-b90de1023163",
+      "latitude": -34.925871,
+      "longitude": 138.620453,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:00:26Z",
+      "reported_at": "2026-03-28T04:52:52Z"
+    },
+    {
+      "id": "b6821300-83ed-4fee-85e3-f25d60180111",
+      "latitude": -34.82437,
+      "longitude": 138.709295,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:00:26Z",
+      "reported_at": "2026-03-28T04:37:57Z"
     },
     {
       "id": "ae228603-5ddd-45f4-8c65-a0de9977f047",
@@ -37,38 +67,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
+      "timestamp": "2026-03-28T05:00:26Z",
       "reported_at": "2026-03-28T04:04:08Z"
-    },
-    {
-      "id": "762f49dc-67e6-4253-9501-63207e75762a",
-      "latitude": -34.962904,
-      "longitude": 138.556615,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
-      "reported_at": "2026-03-28T03:27:17Z"
-    },
-    {
-      "id": "6cdc1f14-e3fc-4c8e-bccd-f525dec283c9",
-      "latitude": -34.703968,
-      "longitude": 138.572523,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
-      "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
-      "reported_at": "2026-03-28T04:07:10Z"
-    },
-    {
-      "id": "ebbe9d73-dd02-4bf4-8e0d-9d3a10a71ce5",
-      "latitude": -34.753783,
-      "longitude": 138.584801,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-03-28T04:30:25Z",
-      "reported_at": "2026-03-28T04:25:38Z"
     }
   ]
 }
