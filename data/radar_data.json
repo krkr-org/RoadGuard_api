@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "0e23ed79-6e9a-4396-b6c0-905b629beca0",
-      "latitude": -34.954157,
-      "longitude": 138.619254,
-      "street": "Wattle St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T06:56:20Z"
-    },
-    {
       "id": "98f20019-bead-4779-94ac-e0781c2f6b3c",
       "latitude": -34.954986,
       "longitude": 138.569291,
       "street": "Park St",
       "city": "Glandore",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
+      "timestamp": "2026-03-28T11:30:22Z",
       "reported_at": "2026-03-28T09:15:56Z"
-    },
-    {
-      "id": "ee246db6-a434-46e1-bcd4-00d8e8d54b33",
-      "latitude": -34.923071,
-      "longitude": 138.501447,
-      "street": "Cudmore Tce",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T07:27:26Z"
     },
     {
       "id": "43431820-0ffd-4293-928c-914bae8351e3",
@@ -37,18 +17,18 @@
       "street": "Glen Stuart Rd",
       "city": "Rostrevor",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
+      "timestamp": "2026-03-28T11:30:22Z",
       "reported_at": "2026-03-28T07:24:18Z"
     },
     {
-      "id": "8ce80de7-02e2-4e93-8b1b-84919ef6ce13",
-      "latitude": -34.691913,
-      "longitude": 138.568307,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "a850ac4c-fc97-47d4-aa34-e7ec96ae3bd9",
+      "latitude": -34.890786,
+      "longitude": 138.662919,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T10:21:51Z"
+      "timestamp": "2026-03-28T11:30:22Z",
+      "reported_at": "2026-03-28T10:48:08Z"
     },
     {
       "id": "7ed85573-2cd5-4a33-83a9-30cc5b5ef17e",
@@ -57,48 +37,38 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
+      "timestamp": "2026-03-28T11:30:22Z",
       "reported_at": "2026-03-28T06:29:20Z"
     },
     {
-      "id": "9e0e54f6-de8e-4683-a637-74387c3dc538",
-      "latitude": -34.786978,
-      "longitude": 138.666831,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
+      "id": "4d07d692-8a6e-4371-a7e8-559ed410590d",
+      "latitude": -34.845965,
+      "longitude": 138.652682,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T10:34:30Z"
+      "timestamp": "2026-03-28T11:30:22Z",
+      "reported_at": "2026-03-28T10:38:12Z"
     },
     {
-      "id": "25035f1b-7a82-44df-a4ed-655cd2e56716",
-      "latitude": -34.925205,
-      "longitude": 138.619516,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "31a98a1d-9ec3-4cab-bc60-8b83b4d9eba1",
+      "latitude": -35.055462,
+      "longitude": 138.545793,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T07:26:40Z"
+      "timestamp": "2026-03-28T11:30:22Z",
+      "reported_at": "2026-03-28T11:10:05Z"
     },
     {
-      "id": "ed88a2f4-04c4-4e39-9e81-c37b35bfe880",
-      "latitude": -34.894091,
-      "longitude": 138.64471,
-      "street": "A11 - Payneham Rd",
-      "city": "Felixstow",
+      "id": "4e3f6e0e-f049-453c-be86-c4434f0c13a0",
+      "latitude": -34.714807,
+      "longitude": 138.57167,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T10:17:24Z"
-    },
-    {
-      "id": "733e71e2-0ea0-4bf8-af36-1975c361ba64",
-      "latitude": -34.716643,
-      "longitude": 138.673156,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Park",
-      "type": "mobile",
-      "timestamp": "2026-03-28T11:00:22Z",
-      "reported_at": "2026-03-28T10:54:21Z"
+      "timestamp": "2026-03-28T11:30:22Z",
+      "reported_at": "2026-03-28T10:59:21Z"
     }
   ]
 }
