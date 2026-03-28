@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "c2db2164-ed17-4a94-a7fb-8b2882f76c9b",
+      "latitude": -34.767219,
+      "longitude": 138.605321,
+      "street": "Greentree Bvd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-03-28T14:00:22Z",
+      "reported_at": "2026-03-28T13:35:35Z"
+    },
+    {
       "id": "a850ac4c-fc97-47d4-aa34-e7ec96ae3bd9",
       "latitude": -34.890786,
       "longitude": 138.662919,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
+      "timestamp": "2026-03-28T14:00:22Z",
       "reported_at": "2026-03-28T10:48:08Z"
     },
     {
@@ -17,58 +27,28 @@
       "street": "Glen Stuart Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
+      "timestamp": "2026-03-28T14:00:22Z",
       "reported_at": "2026-03-28T10:51:40Z"
     },
     {
-      "id": "79243f6c-92b6-4207-a066-6c425f0b3c2c",
-      "latitude": -34.999492,
-      "longitude": 138.593061,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
-      "reported_at": "2026-03-28T13:13:34Z"
-    },
-    {
-      "id": "8ea43f75-056a-41af-aebf-df3941b5d000",
-      "latitude": -34.844951,
-      "longitude": 138.64921,
-      "street": "Walkleys Rd",
-      "city": "Walkley Heights",
-      "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
-      "reported_at": "2026-03-28T13:00:49Z"
-    },
-    {
-      "id": "212a0726-2bb8-41e4-a41b-eaf08df1a522",
-      "latitude": -34.925713,
-      "longitude": 138.620231,
+      "id": "bc213157-0cbe-465a-ad28-8380c21b4009",
+      "latitude": -34.926284,
+      "longitude": 138.621036,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
-      "reported_at": "2026-03-28T10:29:35Z"
+      "timestamp": "2026-03-28T14:00:22Z",
+      "reported_at": "2026-03-28T10:45:55Z"
     },
     {
-      "id": "e8c553e9-db85-4f10-a424-af6619842884",
-      "latitude": -34.860229,
-      "longitude": 138.651471,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "e1cae239-80e7-4a3c-a49f-79bf77102755",
+      "latitude": -34.915441,
+      "longitude": 138.614029,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
-      "reported_at": "2026-03-28T13:02:42Z"
-    },
-    {
-      "id": "4b63ef91-d763-4ee0-8c99-05a4e24025e9",
-      "latitude": -34.963533,
-      "longitude": 138.516545,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-03-28T13:30:22Z",
-      "reported_at": "2026-03-28T13:13:54Z"
+      "timestamp": "2026-03-28T14:00:22Z",
+      "reported_at": "2026-03-28T13:22:15Z"
     }
   ]
 }
