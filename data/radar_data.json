@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "dffefc61-5044-41d8-82c7-aaebef3d46aa",
-      "latitude": -34.952324,
-      "longitude": 138.507399,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
-      "reported_at": "2026-03-27T22:32:33Z"
-    },
-    {
-      "id": "1c9d3e99-07c0-4c99-9ca6-495eec393691",
-      "latitude": -35.11118,
-      "longitude": 138.589205,
+      "id": "8746c2f9-9ea9-4054-b54d-cf6554690c54",
+      "latitude": -35.111034,
+      "longitude": 138.58974,
       "street": "Bains Rd",
       "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
-      "reported_at": "2026-03-27T21:51:17Z"
+      "timestamp": "2026-03-28T00:30:22Z",
+      "reported_at": "2026-03-27T23:23:13Z"
     },
     {
       "id": "8ee5045c-7d67-4432-b789-c4c2954d56fe",
@@ -27,28 +17,18 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
+      "timestamp": "2026-03-28T00:30:22Z",
       "reported_at": "2026-03-27T21:47:03Z"
     },
     {
-      "id": "e1d6d0a4-3667-45d3-aa1b-b8907045524e",
-      "latitude": -35.020866,
-      "longitude": 138.582473,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "6f508af9-f3cb-468c-b07f-02849289ae57",
+      "latitude": -34.78446,
+      "longitude": 138.669086,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
-      "reported_at": "2026-03-27T23:45:50Z"
-    },
-    {
-      "id": "fb841c32-7448-4523-8ea4-2fef45514da1",
-      "latitude": -34.89186,
-      "longitude": 138.511702,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
-      "reported_at": "2026-03-27T23:17:50Z"
+      "timestamp": "2026-03-28T00:30:22Z",
+      "reported_at": "2026-03-27T23:43:29Z"
     },
     {
       "id": "48708a6f-ec8d-4a7d-9016-2bbcaeb06201",
@@ -57,28 +37,48 @@
       "street": "Churchill Rd North",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
+      "timestamp": "2026-03-28T00:30:22Z",
       "reported_at": "2026-03-27T21:31:30Z"
     },
     {
-      "id": "b0fe037d-5f0b-4637-9459-0c255acec409",
-      "latitude": -34.847387,
-      "longitude": 138.623325,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
+      "id": "6e4f9492-2932-4c01-991b-4af63cb79849",
+      "latitude": -34.824395,
+      "longitude": 138.620014,
+      "street": "Montague Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
-      "reported_at": "2026-03-27T23:40:07Z"
+      "timestamp": "2026-03-28T00:30:22Z",
+      "reported_at": "2026-03-28T00:23:08Z"
     },
     {
-      "id": "2a46a30e-4816-4cbb-b97d-ad101653aacc",
-      "latitude": -34.814865,
-      "longitude": 138.718149,
-      "street": "A11 - Hancock Rd",
-      "city": "Redwood Park",
+      "id": "93fc510f-dd21-4ead-89ae-0e3e744e955e",
+      "latitude": -34.861128,
+      "longitude": 138.547382,
+      "street": "Hanson Rd",
+      "city": "Athol Park",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:00:22Z",
-      "reported_at": "2026-03-27T23:37:08Z"
+      "timestamp": "2026-03-28T00:30:22Z",
+      "reported_at": "2026-03-28T00:21:17Z"
+    },
+    {
+      "id": "fb841c32-7448-4523-8ea4-2fef45514da1",
+      "latitude": -34.89186,
+      "longitude": 138.511702,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-28T00:30:22Z",
+      "reported_at": "2026-03-27T23:17:50Z"
+    },
+    {
+      "id": "c98d5104-956c-4573-b973-de78c4833d8c",
+      "latitude": -34.902192,
+      "longitude": 138.584691,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
+      "type": "mobile",
+      "timestamp": "2026-03-28T00:30:22Z",
+      "reported_at": "2026-03-27T23:54:57Z"
     }
   ]
 }
