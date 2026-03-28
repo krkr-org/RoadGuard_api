@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "ef260388-661c-494e-b60b-6eb914de4261",
+      "latitude": -34.951947,
+      "longitude": 138.59054,
+      "street": "Lily St",
+      "city": "Goodwood",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T04:07:20Z"
+    },
+    {
       "id": "4e177aba-0d39-4e47-abbc-242749ef7b73",
       "latitude": -35.088497,
       "longitude": 138.533588,
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
+      "timestamp": "2026-03-28T05:30:22Z",
       "reported_at": "2026-03-28T02:35:31Z"
     },
     {
-      "id": "f7c54630-f5c5-4307-959a-d99188a7387a",
-      "latitude": -34.715537,
-      "longitude": 138.668373,
-      "street": "Elizabeth Way",
-      "city": "Elizabeth",
+      "id": "64de4b70-0f4f-45d7-806e-ffe7fec75dba",
+      "latitude": -34.892043,
+      "longitude": 138.661305,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
-      "reported_at": "2026-03-28T04:24:50Z"
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T05:01:52Z"
+    },
+    {
+      "id": "4dc2394e-5a4b-4e52-8fed-b6376779b009",
+      "latitude": -34.866291,
+      "longitude": 138.479904,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T05:07:12Z"
+    },
+    {
+      "id": "d9a4b0e8-2336-4d08-b0f4-6c7d4ad09c84",
+      "latitude": -35.027141,
+      "longitude": 138.60092,
+      "street": "Shepherds Hill Rd",
+      "city": "Eden Hills",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T05:07:59Z"
     },
     {
       "id": "f799b48f-30d7-42fb-a5b4-2198b923409f",
@@ -27,7 +57,7 @@
       "street": "St. Vincent St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
+      "timestamp": "2026-03-28T05:30:22Z",
       "reported_at": "2026-03-28T04:53:36Z"
     },
     {
@@ -37,38 +67,48 @@
       "street": "Unknown Street",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
+      "timestamp": "2026-03-28T05:30:22Z",
       "reported_at": "2026-03-28T02:37:31Z"
     },
     {
-      "id": "3efba62c-413f-4537-977d-b90de1023163",
-      "latitude": -34.925871,
-      "longitude": 138.620453,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "405e341c-98e3-4757-b5a8-d703f1633ddd",
+      "latitude": -34.862819,
+      "longitude": 138.479318,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
-      "reported_at": "2026-03-28T04:52:52Z"
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T05:17:13Z"
     },
     {
-      "id": "b6821300-83ed-4fee-85e3-f25d60180111",
-      "latitude": -34.82437,
-      "longitude": 138.709295,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
+      "id": "dd433d6c-25ea-4d35-af1e-a9e6e08f316c",
+      "latitude": -34.888628,
+      "longitude": 138.674431,
+      "street": "Montacute Rd",
+      "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
-      "reported_at": "2026-03-28T04:37:57Z"
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T04:41:42Z"
     },
     {
-      "id": "ae228603-5ddd-45f4-8c65-a0de9977f047",
-      "latitude": -34.828383,
-      "longitude": 138.598523,
+      "id": "92fa103e-7007-44e4-87d1-51465224ab24",
+      "latitude": -34.822234,
+      "longitude": 138.598288,
       "street": "A1 - Port Wakefield Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-03-28T05:00:26Z",
-      "reported_at": "2026-03-28T04:04:08Z"
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T05:13:06Z"
+    },
+    {
+      "id": "a06d89ed-9a01-4473-a18a-9d6b22edabb0",
+      "latitude": -34.927125,
+      "longitude": 138.622176,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-28T05:30:22Z",
+      "reported_at": "2026-03-28T04:52:31Z"
     }
   ]
 }
