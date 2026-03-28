@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "b25f607b-fe90-4b94-9de7-335a6b7e1ea9",
-      "latitude": -34.944843,
-      "longitude": 138.654475,
-      "street": "Cooper Pl",
-      "city": "Hazelwood Park",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T03:25:19Z"
-    },
-    {
       "id": "ef260388-661c-494e-b60b-6eb914de4261",
       "latitude": -34.951947,
       "longitude": 138.59054,
       "street": "Lily St",
       "city": "Goodwood",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T04:07:20Z"
-    },
-    {
-      "id": "4e177aba-0d39-4e47-abbc-242749ef7b73",
-      "latitude": -35.088497,
-      "longitude": 138.533588,
-      "street": "Young St",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T02:35:31Z"
     },
     {
       "id": "64de4b70-0f4f-45d7-806e-ffe7fec75dba",
@@ -37,18 +17,28 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T05:01:52Z"
     },
     {
-      "id": "223a5972-3471-4b7c-bd25-a39a875e7281",
-      "latitude": -34.990412,
-      "longitude": 138.600463,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
+      "id": "28ff2f06-7a67-450c-b7be-18e3db38df12",
+      "latitude": -34.906012,
+      "longitude": 138.684566,
+      "street": "Glen Stuart Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T05:45:23Z"
+      "timestamp": "2026-03-28T06:30:23Z",
+      "reported_at": "2026-03-28T05:55:11Z"
+    },
+    {
+      "id": "8111fd40-251e-41ad-90d0-4b86c515c8e4",
+      "latitude": -34.789433,
+      "longitude": 138.60138,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-28T06:30:23Z",
+      "reported_at": "2026-03-28T06:08:23Z"
     },
     {
       "id": "02c41a9e-d0d0-40cb-96a1-1022c74d86c5",
@@ -57,38 +47,8 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T05:32:11Z"
-    },
-    {
-      "id": "9dea37aa-c15b-4fdc-a3b8-242d13fb2339",
-      "latitude": -35.115107,
-      "longitude": 138.535903,
-      "street": "Bains Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T05:55:26Z"
-    },
-    {
-      "id": "b2f98a95-7105-4fc7-a1da-6075097db929",
-      "latitude": -35.016522,
-      "longitude": 138.548115,
-      "street": "Diagonal Rd",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T05:43:49Z"
-    },
-    {
-      "id": "8f9db2bc-9528-408b-ab11-431940acddaf",
-      "latitude": -34.921558,
-      "longitude": 138.632031,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T05:13:52Z"
     },
     {
       "id": "5130ab4d-26c9-4b3e-97ce-c480c3eb5325",
@@ -97,8 +57,28 @@
       "street": "Military Rd",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T05:53:31Z"
+    },
+    {
+      "id": "d19b2f94-328a-4f25-b4a1-8f3c94db8824",
+      "latitude": -34.766391,
+      "longitude": 138.648164,
+      "street": "Park Tce",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-03-28T06:30:23Z",
+      "reported_at": "2026-03-28T06:17:36Z"
+    },
+    {
+      "id": "8f9db2bc-9528-408b-ab11-431940acddaf",
+      "latitude": -34.921558,
+      "longitude": 138.632031,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-28T06:30:23Z",
+      "reported_at": "2026-03-28T05:13:52Z"
     },
     {
       "id": "3aa21cef-aee3-4074-b38b-e6e1c66092c7",
@@ -107,18 +87,18 @@
       "street": "Unknown Street",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T02:37:31Z"
     },
     {
-      "id": "55cbf353-9783-49d9-b99a-33954649d437",
-      "latitude": -35.028405,
-      "longitude": 138.592927,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "8d5b9a35-224e-4d1e-a2da-a881e9ebd57f",
+      "latitude": -35.141038,
+      "longitude": 138.524821,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T05:38:32Z"
+      "timestamp": "2026-03-28T06:30:23Z",
+      "reported_at": "2026-03-28T05:55:20Z"
     },
     {
       "id": "a06d89ed-9a01-4473-a18a-9d6b22edabb0",
@@ -127,18 +107,8 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T04:52:31Z"
-    },
-    {
-      "id": "a48ec2bd-a9e8-416f-866b-141657004500",
-      "latitude": -34.830482,
-      "longitude": 138.598881,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Cavan",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
-      "reported_at": "2026-03-28T05:49:59Z"
     },
     {
       "id": "cc68cf65-7434-424c-86ab-36724fcbe6d2",
@@ -147,7 +117,7 @@
       "street": "A17 - Hampstead Rd",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:00:23Z",
+      "timestamp": "2026-03-28T06:30:23Z",
       "reported_at": "2026-03-28T05:36:53Z"
     }
   ]
