@@ -1,24 +1,44 @@
 {
   "radars": [
     {
+      "id": "2a82bcc8-e09e-47ae-ac59-d5b93342b3aa",
+      "latitude": -34.728955,
+      "longitude": 138.568219,
+      "street": "Robinson Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-03-28T23:00:22Z",
+      "reported_at": "2026-03-28T21:51:27Z"
+    },
+    {
       "id": "420ab0f5-5135-44e7-8d89-cef143a0b1ac",
       "latitude": -34.736686,
       "longitude": 138.616836,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-28T22:30:22Z",
+      "timestamp": "2026-03-28T23:00:22Z",
       "reported_at": "2026-03-28T21:13:18Z"
     },
     {
-      "id": "6834bdb6-772b-4286-8ea9-f97b1483b7fd",
-      "latitude": -34.7043,
-      "longitude": 138.663516,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
+      "id": "87e0c841-7e98-47ed-8cd5-33b48bdaa247",
+      "latitude": -34.737289,
+      "longitude": 138.800056,
+      "street": "Kersbrook Rd",
+      "city": "Humbug Scrub",
       "type": "mobile",
-      "timestamp": "2026-03-28T22:30:22Z",
-      "reported_at": "2026-03-28T22:03:55Z"
+      "timestamp": "2026-03-28T23:00:22Z",
+      "reported_at": "2026-03-28T22:25:37Z"
+    },
+    {
+      "id": "d92b0b01-2ce1-40f3-842a-6b6a9b687d83",
+      "latitude": -34.670897,
+      "longitude": 138.547961,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2026-03-28T23:00:22Z",
+      "reported_at": "2026-03-28T22:09:31Z"
     },
     {
       "id": "c0251586-4c8b-4fc9-bb55-77915e1ac371",
@@ -27,38 +47,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-28T22:30:22Z",
+      "timestamp": "2026-03-28T23:00:22Z",
       "reported_at": "2026-03-28T21:02:54Z"
     },
     {
-      "id": "214d6010-d471-4598-84dd-71414985ce0e",
-      "latitude": -34.668044,
-      "longitude": 138.54703,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "021e58cb-b53b-4bbd-a099-f1500c846605",
+      "latitude": -34.861432,
+      "longitude": 138.601182,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-28T22:30:22Z",
-      "reported_at": "2026-03-28T22:09:34Z"
-    },
-    {
-      "id": "302df941-ed5a-4fc5-91c1-56f73a7e064d",
-      "latitude": -34.932306,
-      "longitude": 138.548126,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-03-28T22:30:22Z",
-      "reported_at": "2026-03-28T22:10:09Z"
-    },
-    {
-      "id": "bfad16df-2cc2-4399-b513-10d67a39eb5d",
-      "latitude": -35.037291,
-      "longitude": 138.812338,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-03-28T22:30:22Z",
-      "reported_at": "2026-03-28T22:01:25Z"
+      "timestamp": "2026-03-28T23:00:22Z",
+      "reported_at": "2026-03-28T21:48:44Z"
     }
   ]
 }
