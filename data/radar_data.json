@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "8746c2f9-9ea9-4054-b54d-cf6554690c54",
-      "latitude": -35.111034,
-      "longitude": 138.58974,
-      "street": "Bains Rd",
-      "city": "Onkaparinga Hills",
-      "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
-      "reported_at": "2026-03-27T23:23:13Z"
-    },
-    {
       "id": "8ee5045c-7d67-4432-b789-c4c2954d56fe",
       "latitude": -35.092067,
       "longitude": 138.533869,
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
+      "timestamp": "2026-03-28T01:00:23Z",
       "reported_at": "2026-03-27T21:47:03Z"
     },
     {
-      "id": "6f508af9-f3cb-468c-b07f-02849289ae57",
-      "latitude": -34.78446,
-      "longitude": 138.669086,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
+      "id": "8746c2f9-9ea9-4054-b54d-cf6554690c54",
+      "latitude": -35.111034,
+      "longitude": 138.58974,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
-      "reported_at": "2026-03-27T23:43:29Z"
-    },
-    {
-      "id": "48708a6f-ec8d-4a7d-9016-2bbcaeb06201",
-      "latitude": -34.83627,
-      "longitude": 138.588479,
-      "street": "Churchill Rd North",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
-      "reported_at": "2026-03-27T21:31:30Z"
-    },
-    {
-      "id": "6e4f9492-2932-4c01-991b-4af63cb79849",
-      "latitude": -34.824395,
-      "longitude": 138.620014,
-      "street": "Montague Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
-      "reported_at": "2026-03-28T00:23:08Z"
-    },
-    {
-      "id": "93fc510f-dd21-4ead-89ae-0e3e744e955e",
-      "latitude": -34.861128,
-      "longitude": 138.547382,
-      "street": "Hanson Rd",
-      "city": "Athol Park",
-      "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
-      "reported_at": "2026-03-28T00:21:17Z"
+      "timestamp": "2026-03-28T01:00:23Z",
+      "reported_at": "2026-03-27T23:23:13Z"
     },
     {
       "id": "fb841c32-7448-4523-8ea4-2fef45514da1",
@@ -67,18 +27,48 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
+      "timestamp": "2026-03-28T01:00:23Z",
       "reported_at": "2026-03-27T23:17:50Z"
     },
     {
-      "id": "c98d5104-956c-4573-b973-de78c4833d8c",
-      "latitude": -34.902192,
-      "longitude": 138.584691,
-      "street": "R1 - Park Tce (City Ring Route)",
-      "city": "Bowden",
+      "id": "63f67942-038d-4877-94de-1fcbf18833a4",
+      "latitude": -34.862885,
+      "longitude": 138.479329,
+      "street": "Military Rd",
+      "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-03-28T00:30:22Z",
-      "reported_at": "2026-03-27T23:54:57Z"
+      "timestamp": "2026-03-28T01:00:23Z",
+      "reported_at": "2026-03-28T00:43:17Z"
+    },
+    {
+      "id": "ccb5569f-ed1a-4794-acd8-766081166f40",
+      "latitude": -35.109793,
+      "longitude": 138.547971,
+      "street": "Panalatinga Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-28T01:00:23Z",
+      "reported_at": "2026-03-28T00:53:05Z"
+    },
+    {
+      "id": "c2614f8c-89fc-46d0-8e43-817a44375a09",
+      "latitude": -34.920311,
+      "longitude": 138.640994,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-28T01:00:23Z",
+      "reported_at": "2026-03-28T00:43:29Z"
+    },
+    {
+      "id": "77270e3c-388f-498f-9533-f568851dc78f",
+      "latitude": -34.693675,
+      "longitude": 138.687271,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-28T01:00:23Z",
+      "reported_at": "2026-03-28T00:43:33Z"
     }
   ]
 }
