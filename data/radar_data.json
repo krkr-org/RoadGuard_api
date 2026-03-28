@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "8ee5045c-7d67-4432-b789-c4c2954d56fe",
-      "latitude": -35.092067,
-      "longitude": 138.533869,
+      "id": "76d357ea-05e0-4deb-83bc-d602c9749f4f",
+      "latitude": -35.092707,
+      "longitude": 138.533921,
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-28T01:30:25Z",
-      "reported_at": "2026-03-27T21:47:03Z"
+      "timestamp": "2026-03-28T02:00:23Z",
+      "reported_at": "2026-03-27T23:58:00Z"
     },
     {
       "id": "8746c2f9-9ea9-4054-b54d-cf6554690c54",
@@ -17,18 +17,58 @@
       "street": "Bains Rd",
       "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2026-03-28T01:30:25Z",
+      "timestamp": "2026-03-28T02:00:23Z",
       "reported_at": "2026-03-27T23:23:13Z"
     },
     {
-      "id": "abcbe9c7-7789-4e25-b6f1-5e4b2518dd6f",
-      "latitude": -34.672167,
-      "longitude": 138.548382,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "038fcab5-e209-45e6-906d-dbb155e6c279",
+      "latitude": -34.709228,
+      "longitude": 138.691313,
+      "street": "Midway Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-03-28T01:30:25Z",
-      "reported_at": "2026-03-28T01:22:12Z"
+      "timestamp": "2026-03-28T02:00:23Z",
+      "reported_at": "2026-03-28T01:47:35Z"
+    },
+    {
+      "id": "a72fd263-582a-400e-8c7a-a523a93fa6b6",
+      "latitude": -34.817646,
+      "longitude": 138.501139,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-03-28T02:00:23Z",
+      "reported_at": "2026-03-28T01:57:37Z"
+    },
+    {
+      "id": "81f48a88-7c80-467f-a448-362ad91e2f89",
+      "latitude": -34.8713,
+      "longitude": 138.63708,
+      "street": "A10 - North East Rd",
+      "city": "Greenacres",
+      "type": "mobile",
+      "timestamp": "2026-03-28T02:00:23Z",
+      "reported_at": "2026-03-28T01:50:48Z"
+    },
+    {
+      "id": "d790654f-2188-4584-a8f7-dd0ecd36cf50",
+      "latitude": -34.832982,
+      "longitude": 138.560601,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-28T02:00:23Z",
+      "reported_at": "2026-03-28T01:56:20Z"
+    },
+    {
+      "id": "2ddd7f2d-b3dd-4ea1-b6d9-22b266c3e147",
+      "latitude": -34.803992,
+      "longitude": 138.574707,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-03-28T02:00:23Z",
+      "reported_at": "2026-03-28T01:47:06Z"
     }
   ]
 }
