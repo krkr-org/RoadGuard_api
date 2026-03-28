@@ -7,8 +7,18 @@
       "street": "Lily St",
       "city": "Goodwood",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
+      "timestamp": "2026-03-28T07:00:22Z",
       "reported_at": "2026-03-28T04:07:20Z"
+    },
+    {
+      "id": "fbd9ee80-6565-4275-b4e1-b9efa1054922",
+      "latitude": -34.944731,
+      "longitude": 138.656488,
+      "street": "Cooper Pl",
+      "city": "Hazelwood Park",
+      "type": "mobile",
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T03:21:15Z"
     },
     {
       "id": "64de4b70-0f4f-45d7-806e-ffe7fec75dba",
@@ -17,7 +27,7 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
+      "timestamp": "2026-03-28T07:00:22Z",
       "reported_at": "2026-03-28T05:01:52Z"
     },
     {
@@ -27,48 +37,18 @@
       "street": "Glen Stuart Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
+      "timestamp": "2026-03-28T07:00:22Z",
       "reported_at": "2026-03-28T05:55:11Z"
     },
     {
-      "id": "8111fd40-251e-41ad-90d0-4b86c515c8e4",
-      "latitude": -34.789433,
-      "longitude": 138.60138,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
+      "id": "ae4b8962-7b67-4451-b02b-c4a8a8d74a48",
+      "latitude": -34.936122,
+      "longitude": 138.591726,
+      "street": "South Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T06:08:23Z"
-    },
-    {
-      "id": "02c41a9e-d0d0-40cb-96a1-1022c74d86c5",
-      "latitude": -34.865185,
-      "longitude": 138.479845,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T05:32:11Z"
-    },
-    {
-      "id": "5130ab4d-26c9-4b3e-97ce-c480c3eb5325",
-      "latitude": -34.860619,
-      "longitude": 138.478959,
-      "street": "Military Rd",
-      "city": "Semaphore Park",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T05:53:31Z"
-    },
-    {
-      "id": "d19b2f94-328a-4f25-b4a1-8f3c94db8824",
-      "latitude": -34.766391,
-      "longitude": 138.648164,
-      "street": "Park Tce",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T06:17:36Z"
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T06:53:51Z"
     },
     {
       "id": "8f9db2bc-9528-408b-ab11-431940acddaf",
@@ -77,18 +57,28 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
+      "timestamp": "2026-03-28T07:00:22Z",
       "reported_at": "2026-03-28T05:13:52Z"
     },
     {
-      "id": "3aa21cef-aee3-4074-b38b-e6e1c66092c7",
-      "latitude": -34.926045,
-      "longitude": 138.517675,
-      "street": "Unknown Street",
-      "city": "Fulham",
+      "id": "6f1e9285-34f9-47a1-9c17-b9f8dbe650d2",
+      "latitude": -34.80416,
+      "longitude": 138.501474,
+      "street": "A16 - Victoria Rd",
+      "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T02:37:31Z"
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T06:38:19Z"
+    },
+    {
+      "id": "41399309-8179-4289-87db-a7dbc633feb9",
+      "latitude": -35.085793,
+      "longitude": 138.782537,
+      "street": "B33 - Strathalbyn Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T06:34:24Z"
     },
     {
       "id": "8d5b9a35-224e-4d1e-a2da-a881e9ebd57f",
@@ -97,28 +87,48 @@
       "street": "A13 - Main South Rd",
       "city": "Hackham West",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
+      "timestamp": "2026-03-28T07:00:22Z",
       "reported_at": "2026-03-28T05:55:20Z"
     },
     {
-      "id": "a06d89ed-9a01-4473-a18a-9d6b22edabb0",
-      "latitude": -34.927125,
-      "longitude": 138.622176,
+      "id": "ebe87ed0-8991-4dbb-817b-56ea87f53168",
+      "latitude": -34.917093,
+      "longitude": 138.614404,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T06:53:49Z"
+    },
+    {
+      "id": "3efba62c-413f-4537-977d-b90de1023163",
+      "latitude": -34.925871,
+      "longitude": 138.620453,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T04:52:31Z"
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T04:52:52Z"
     },
     {
-      "id": "cc68cf65-7434-424c-86ab-36724fcbe6d2",
-      "latitude": -34.859074,
-      "longitude": 138.618152,
-      "street": "A17 - Hampstead Rd",
-      "city": "Lightsview",
+      "id": "f3fe5f1b-0a3b-4bdc-a2d3-1e2ca0a024b5",
+      "latitude": -34.864121,
+      "longitude": 138.601369,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-28T06:30:23Z",
-      "reported_at": "2026-03-28T05:36:53Z"
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T06:33:04Z"
+    },
+    {
+      "id": "95e2f3f9-7394-49d8-9ab4-a1236e5e4b4a",
+      "latitude": -34.773276,
+      "longitude": 138.631736,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-28T07:00:22Z",
+      "reported_at": "2026-03-28T06:47:16Z"
     }
   ]
 }
