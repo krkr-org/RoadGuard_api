@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "8001bf21-365a-4e2a-8fee-63713d371a4f",
+      "latitude": -34.819992,
+      "longitude": 138.590158,
+      "street": "Kidman Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-29T04:30:23Z",
+      "reported_at": "2026-03-29T04:21:05Z"
+    },
+    {
       "id": "294fbe0b-aeaa-461e-8c13-1058621f9077",
       "latitude": -34.730126,
       "longitude": 138.568608,
       "street": "Robinson Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-29T04:00:22Z",
+      "timestamp": "2026-03-29T04:30:23Z",
       "reported_at": "2026-03-29T02:47:00Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-29T04:00:22Z",
+      "timestamp": "2026-03-29T04:30:23Z",
       "reported_at": "2026-03-29T03:21:00Z"
     },
     {
-      "id": "18993812-87cb-406f-b48e-6f185ce09daf",
-      "latitude": -34.737461,
-      "longitude": 138.800303,
+      "id": "75fff243-00cb-40da-9680-4135bc22b694",
+      "latitude": -34.733522,
+      "longitude": 138.796653,
       "street": "Kersbrook Rd",
       "city": "Humbug Scrub",
       "type": "mobile",
-      "timestamp": "2026-03-29T04:00:22Z",
-      "reported_at": "2026-03-29T00:18:05Z"
+      "timestamp": "2026-03-29T04:30:23Z",
+      "reported_at": "2026-03-29T01:55:12Z"
     },
     {
       "id": "61298bcb-abf1-44c0-be3e-84f4059af091",
@@ -37,18 +47,38 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-29T04:00:22Z",
+      "timestamp": "2026-03-29T04:30:23Z",
       "reported_at": "2026-03-28T21:32:26Z"
     },
     {
-      "id": "0a901167-1f1d-4446-9d03-3df5983a94ed",
-      "latitude": -34.854823,
-      "longitude": 138.617953,
-      "street": "A17 - Hampstead Rd",
-      "city": "Clearview",
+      "id": "28d82047-4255-48d8-8e41-2e05e4942110",
+      "latitude": -34.847784,
+      "longitude": 138.607641,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-29T04:00:22Z",
-      "reported_at": "2026-03-29T03:40:05Z"
+      "timestamp": "2026-03-29T04:30:23Z",
+      "reported_at": "2026-03-29T04:20:10Z"
+    },
+    {
+      "id": "8438f586-aba0-41b3-a45a-592cce51b4f4",
+      "latitude": -34.862886,
+      "longitude": 138.601175,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-29T04:30:23Z",
+      "reported_at": "2026-03-29T04:00:58Z"
+    },
+    {
+      "id": "8afc45b9-554e-4aee-b91b-d7c43a4ccd25",
+      "latitude": -34.820508,
+      "longitude": 138.588985,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-29T04:30:23Z",
+      "reported_at": "2026-03-29T04:22:53Z"
     }
   ]
 }
