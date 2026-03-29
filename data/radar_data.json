@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "3d174850-9065-472e-a948-9a2d053d552b",
-      "latitude": -34.91586,
-      "longitude": 138.587793,
+      "id": "06796f53-89f3-44c9-aab3-5688fc7c9704",
+      "latitude": -34.915555,
+      "longitude": 138.587306,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-29T21:30:22Z",
-      "reported_at": "2026-03-29T20:53:31Z"
+      "timestamp": "2026-03-29T22:00:22Z",
+      "reported_at": "2026-03-29T21:44:50Z"
+    },
+    {
+      "id": "ba405be1-3f56-467f-b225-5287b0686096",
+      "latitude": -34.932064,
+      "longitude": 138.630828,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-03-29T22:00:22Z",
+      "reported_at": "2026-03-29T21:01:37Z"
+    },
+    {
+      "id": "b96b5333-92b9-41f5-a7a8-8afd8aec4a12",
+      "latitude": -34.921105,
+      "longitude": 138.637545,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-03-29T22:00:22Z",
+      "reported_at": "2026-03-29T21:40:38Z"
     },
     {
       "id": "61d094ce-e2a5-4c1d-afe0-bc3554331d4d",
@@ -17,48 +37,8 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-29T21:30:22Z",
+      "timestamp": "2026-03-29T22:00:22Z",
       "reported_at": "2026-03-29T21:08:36Z"
-    },
-    {
-      "id": "0997078e-741a-4273-8423-3e3336d6e1db",
-      "latitude": -35.029143,
-      "longitude": 138.542343,
-      "street": "Seacombe Rd",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-29T21:30:22Z",
-      "reported_at": "2026-03-29T21:07:13Z"
-    },
-    {
-      "id": "252b4b7a-e277-4fd9-afab-9e2d1a1fd4d0",
-      "latitude": -34.99202,
-      "longitude": 138.527082,
-      "street": "Diagonal Rd",
-      "city": "Somerton Park",
-      "type": "mobile",
-      "timestamp": "2026-03-29T21:30:22Z",
-      "reported_at": "2026-03-29T21:10:50Z"
-    },
-    {
-      "id": "b62cf378-17dd-4bd4-9b47-18469fd791fc",
-      "latitude": -34.916742,
-      "longitude": 138.6407,
-      "street": "A17 - Portrush Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-03-29T21:30:22Z",
-      "reported_at": "2026-03-29T21:19:28Z"
-    },
-    {
-      "id": "2dfac12f-c4aa-4e26-8887-06639af9ce7b",
-      "latitude": -34.912812,
-      "longitude": 138.613586,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-29T21:30:22Z",
-      "reported_at": "2026-03-29T20:54:53Z"
     }
   ]
 }
