@@ -1,44 +1,64 @@
 {
   "radars": [
     {
-      "id": "6375334c-16a5-49cc-a32a-b3b2f8d5580a",
-      "latitude": -35.052718,
-      "longitude": 138.763206,
-      "street": "River Rd",
-      "city": "Mylor",
-      "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-29T00:59:29Z"
-    },
-    {
-      "id": "2a82bcc8-e09e-47ae-ac59-d5b93342b3aa",
-      "latitude": -34.728955,
-      "longitude": 138.568219,
+      "id": "a4052a14-3f4b-47dd-9b57-37bf93a61040",
+      "latitude": -34.729268,
+      "longitude": 138.568301,
       "street": "Robinson Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-28T21:51:27Z"
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-28T22:45:10Z"
     },
     {
-      "id": "432d1258-efd6-4c55-9ad1-3273397323f7",
-      "latitude": -34.885845,
-      "longitude": 138.53116,
-      "street": "Findon Rd",
-      "city": "Woodville West",
+      "id": "69ab18a2-d772-416e-8421-67e4e86f517e",
+      "latitude": -35.053864,
+      "longitude": 138.556071,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-28T23:50:37Z"
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T01:43:59Z"
     },
     {
-      "id": "61298bcb-abf1-44c0-be3e-84f4059af091",
-      "latitude": -34.737712,
-      "longitude": 138.615903,
+      "id": "268b3656-c022-49ca-af4d-65ced3c9de5d",
+      "latitude": -34.8743,
+      "longitude": 138.587091,
+      "street": "Regency Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T01:29:17Z"
+    },
+    {
+      "id": "14bd0639-125b-4ff6-ac2c-94dbb9b5d0fe",
+      "latitude": -34.915165,
+      "longitude": 138.598872,
+      "street": "King William Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T01:50:15Z"
+    },
+    {
+      "id": "a27d6410-a531-421c-be0e-a590c7294458",
+      "latitude": -34.887476,
+      "longitude": 138.568512,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T01:38:10Z"
+    },
+    {
+      "id": "420ab0f5-5135-44e7-8d89-cef143a0b1ac",
+      "latitude": -34.736686,
+      "longitude": 138.616836,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-28T21:32:26Z"
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-28T21:13:18Z"
     },
     {
       "id": "787270bd-da99-42fb-a7e1-d73c215d1899",
@@ -47,28 +67,8 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
+      "timestamp": "2026-03-29T02:00:23Z",
       "reported_at": "2026-03-28T23:50:58Z"
-    },
-    {
-      "id": "18993812-87cb-406f-b48e-6f185ce09daf",
-      "latitude": -34.737461,
-      "longitude": 138.800303,
-      "street": "Kersbrook Rd",
-      "city": "Humbug Scrub",
-      "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-29T00:18:05Z"
-    },
-    {
-      "id": "20ddda6e-3caa-43be-be11-b156ca7d7f4c",
-      "latitude": -34.863134,
-      "longitude": 138.601297,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-29T00:53:53Z"
     },
     {
       "id": "c0251586-4c8b-4fc9-bb55-77915e1ac371",
@@ -77,8 +77,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
+      "timestamp": "2026-03-29T02:00:23Z",
       "reported_at": "2026-03-28T21:02:54Z"
+    },
+    {
+      "id": "2378ac90-3eb8-4741-b061-dd1b9c5c93e6",
+      "latitude": -34.825437,
+      "longitude": 138.708139,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
+      "type": "mobile",
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T01:44:36Z"
     },
     {
       "id": "ae51ca90-d463-4868-8361-33e84f1a6d8f",
@@ -87,8 +97,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
+      "timestamp": "2026-03-29T02:00:23Z",
       "reported_at": "2026-03-29T00:49:20Z"
+    },
+    {
+      "id": "20ddda6e-3caa-43be-be11-b156ca7d7f4c",
+      "latitude": -34.863134,
+      "longitude": 138.601297,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T00:53:53Z"
     },
     {
       "id": "d92b0b01-2ce1-40f3-842a-6b6a9b687d83",
@@ -97,18 +117,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
+      "timestamp": "2026-03-29T02:00:23Z",
       "reported_at": "2026-03-28T22:09:31Z"
     },
     {
-      "id": "c84691d8-b9c4-461f-a8b2-427b19453548",
-      "latitude": -34.803452,
-      "longitude": 138.596686,
+      "id": "174491af-cd7e-459c-b134-6b3e7bb3bf7a",
+      "latitude": -34.801293,
+      "longitude": 138.59653,
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-03-29T01:30:25Z",
-      "reported_at": "2026-03-28T21:49:14Z"
+      "timestamp": "2026-03-29T02:00:23Z",
+      "reported_at": "2026-03-29T00:50:38Z"
     }
   ]
 }
