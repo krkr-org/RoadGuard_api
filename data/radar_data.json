@@ -1,3 +1,44 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "dc29b6b2-1e2e-4e4e-ba72-3c9f5912f58e",
+      "latitude": -34.927631,
+      "longitude": 138.593806,
+      "street": "Morphett St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-29T21:00:22Z",
+      "reported_at": "2026-03-29T20:33:04Z"
+    },
+    {
+      "id": "02c29657-42f8-4387-8b08-9a34bfff69fc",
+      "latitude": -34.806652,
+      "longitude": 138.696653,
+      "street": "Grenfell Rd",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-29T21:00:22Z",
+      "reported_at": "2026-03-29T20:44:17Z"
+    },
+    {
+      "id": "bd1cf4cb-1b77-4ca9-acc4-0141b51e88a5",
+      "latitude": -34.848417,
+      "longitude": 138.594392,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-29T21:00:22Z",
+      "reported_at": "2026-03-29T20:45:59Z"
+    },
+    {
+      "id": "2dfac12f-c4aa-4e26-8887-06639af9ce7b",
+      "latitude": -34.912812,
+      "longitude": 138.613586,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-29T21:00:22Z",
+      "reported_at": "2026-03-29T20:54:53Z"
+    }
+  ]
 }
