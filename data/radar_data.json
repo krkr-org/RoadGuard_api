@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "85e1a157-8d3b-49c7-9055-ffc9144cdb06",
-      "latitude": -34.914714,
-      "longitude": 138.565192,
-      "street": "Ashwin Pde",
-      "city": "Torrensville",
+      "id": "d5f2db89-1850-4f1a-ac72-23df55e43f87",
+      "latitude": -34.822397,
+      "longitude": 138.658184,
+      "street": "Prosser St",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-29T09:00:22Z",
-      "reported_at": "2026-03-29T05:14:53Z"
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T08:01:34Z"
+    },
+    {
+      "id": "a4426d11-26ff-4f0d-ae90-32dc2275e99b",
+      "latitude": -35.011905,
+      "longitude": 138.524967,
+      "street": "Caroona Av",
+      "city": "Hove",
+      "type": "mobile",
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T09:24:38Z"
     },
     {
       "id": "2191c2fe-ba3a-47e6-a5df-f8cea0579612",
@@ -17,7 +27,7 @@
       "street": "Windsor Gr",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-29T09:00:22Z",
+      "timestamp": "2026-03-29T09:30:22Z",
       "reported_at": "2026-03-29T07:32:41Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Woodford Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-03-29T09:00:22Z",
+      "timestamp": "2026-03-29T09:30:22Z",
       "reported_at": "2026-03-29T07:50:25Z"
     },
     {
@@ -37,8 +47,38 @@
       "street": "Elder Dr",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-03-29T09:00:22Z",
+      "timestamp": "2026-03-29T09:30:22Z",
       "reported_at": "2026-03-29T08:16:15Z"
+    },
+    {
+      "id": "42c84db0-0c2a-49a9-a607-64e793cb53f5",
+      "latitude": -34.864368,
+      "longitude": 138.601387,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T08:52:57Z"
+    },
+    {
+      "id": "ef9b8d0e-4f06-4d53-9edd-cd6bde9aec47",
+      "latitude": -34.845273,
+      "longitude": 138.663639,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T09:06:25Z"
+    },
+    {
+      "id": "160c12bc-eed0-4f2d-98b7-74a2d37a024a",
+      "latitude": -34.703315,
+      "longitude": 138.68119,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T09:01:28Z"
     },
     {
       "id": "a30e3c7a-30a4-4c31-adc6-04b8f8897951",
@@ -47,18 +87,38 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2026-03-29T09:00:22Z",
+      "timestamp": "2026-03-29T09:30:22Z",
       "reported_at": "2026-03-29T07:52:14Z"
     },
     {
-      "id": "f5a9cb51-68d8-4ffa-97d0-cdf6ec649f23",
-      "latitude": -34.862946,
-      "longitude": 138.601284,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "787f5d34-d518-42c5-bb7a-54283ddd7fa4",
+      "latitude": -34.935209,
+      "longitude": 138.64214,
+      "street": "A17 - Portrush Rd",
+      "city": "Toorak Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-29T09:00:22Z",
-      "reported_at": "2026-03-29T07:56:48Z"
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T09:20:50Z"
+    },
+    {
+      "id": "0a21daf4-44f4-428c-a67d-76aa43c2705a",
+      "latitude": -34.829195,
+      "longitude": 138.500787,
+      "street": "A16 - Victoria Rd",
+      "city": "Peterhead",
+      "type": "mobile",
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T09:17:47Z"
+    },
+    {
+      "id": "795b12dc-ed72-4163-9e35-4b6064b39669",
+      "latitude": -34.954862,
+      "longitude": 138.636954,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-03-29T09:30:22Z",
+      "reported_at": "2026-03-29T09:21:05Z"
     }
   ]
 }
