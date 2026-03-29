@@ -1,74 +1,14 @@
 {
   "radars": [
     {
-      "id": "a8891d2d-1af9-4372-9903-b0e8d0828ad0",
-      "latitude": -34.91163,
-      "longitude": 138.54828,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-29T02:02:24Z"
-    },
-    {
-      "id": "a4052a14-3f4b-47dd-9b57-37bf93a61040",
-      "latitude": -34.729268,
-      "longitude": 138.568301,
-      "street": "Robinson Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-28T22:45:10Z"
-    },
-    {
-      "id": "64d568ac-af14-4b4d-ad50-10f13a4e4ed0",
-      "latitude": -35.137695,
-      "longitude": 138.503605,
+      "id": "0bd2b6bd-c326-4086-bf20-095963b4afe9",
+      "latitude": -35.137458,
+      "longitude": 138.50689,
       "street": "Beach Rd",
-      "city": "Christie Downs",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-29T02:19:44Z"
-    },
-    {
-      "id": "e7bb8f9b-5189-439f-b03f-8ced52e08e87",
-      "latitude": -34.864984,
-      "longitude": 138.479813,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-29T02:25:48Z"
-    },
-    {
-      "id": "14bd0639-125b-4ff6-ac2c-94dbb9b5d0fe",
-      "latitude": -34.915165,
-      "longitude": 138.598872,
-      "street": "King William Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-29T01:50:15Z"
-    },
-    {
-      "id": "61298bcb-abf1-44c0-be3e-84f4059af091",
-      "latitude": -34.73799,
-      "longitude": 138.615638,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-28T21:32:26Z"
-    },
-    {
-      "id": "dfaa907a-6b04-4cb3-9300-d7798918f0e2",
-      "latitude": -34.677492,
-      "longitude": 138.693369,
-      "street": "Curtis Rd",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-29T02:24:15Z"
+      "timestamp": "2026-03-29T03:00:24Z",
+      "reported_at": "2026-03-29T02:37:45Z"
     },
     {
       "id": "787270bd-da99-42fb-a7e1-d73c215d1899",
@@ -77,8 +17,38 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
+      "timestamp": "2026-03-29T03:00:24Z",
       "reported_at": "2026-03-28T23:50:58Z"
+    },
+    {
+      "id": "420ab0f5-5135-44e7-8d89-cef143a0b1ac",
+      "latitude": -34.736686,
+      "longitude": 138.616836,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-03-29T03:00:24Z",
+      "reported_at": "2026-03-28T21:13:18Z"
+    },
+    {
+      "id": "c0251586-4c8b-4fc9-bb55-77915e1ac371",
+      "latitude": -34.804771,
+      "longitude": 138.597043,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-29T03:00:24Z",
+      "reported_at": "2026-03-28T21:02:54Z"
+    },
+    {
+      "id": "5a85d107-7912-4e46-8872-c59f673ca784",
+      "latitude": -34.877229,
+      "longitude": 138.619557,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-03-29T03:00:24Z",
+      "reported_at": "2026-03-29T02:51:19Z"
     },
     {
       "id": "ae51ca90-d463-4868-8361-33e84f1a6d8f",
@@ -87,7 +57,7 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
+      "timestamp": "2026-03-29T03:00:24Z",
       "reported_at": "2026-03-29T00:49:20Z"
     },
     {
@@ -97,28 +67,28 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
+      "timestamp": "2026-03-29T03:00:24Z",
       "reported_at": "2026-03-29T00:53:53Z"
     },
     {
-      "id": "c0251586-4c8b-4fc9-bb55-77915e1ac371",
-      "latitude": -34.804771,
-      "longitude": 138.597043,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
+      "id": "03d749fc-e3c5-4db5-b7c0-5081d4a094e4",
+      "latitude": -34.79504,
+      "longitude": 138.578082,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-28T21:02:54Z"
+      "timestamp": "2026-03-29T03:00:24Z",
+      "reported_at": "2026-03-29T02:57:22Z"
     },
     {
-      "id": "460ba151-28bf-4776-b8b8-f9c45816e523",
-      "latitude": -34.964865,
-      "longitude": 138.619809,
-      "street": "A3 - Cross Rd",
-      "city": "Highgate",
+      "id": "45d92ac4-9d59-496f-ba10-37f236ba00a6",
+      "latitude": -35.088041,
+      "longitude": 138.534751,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-29T02:30:22Z",
-      "reported_at": "2026-03-29T02:26:19Z"
+      "timestamp": "2026-03-29T03:00:24Z",
+      "reported_at": "2026-03-29T02:48:09Z"
     }
   ]
 }
