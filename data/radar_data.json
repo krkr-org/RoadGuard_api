@@ -7,7 +7,7 @@
       "street": "Prosser St",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-29T10:30:22Z",
+      "timestamp": "2026-03-29T11:00:22Z",
       "reported_at": "2026-03-29T08:01:34Z"
     },
     {
@@ -17,18 +17,8 @@
       "street": "Windsor Gr",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-29T10:30:22Z",
+      "timestamp": "2026-03-29T11:00:22Z",
       "reported_at": "2026-03-29T07:32:41Z"
-    },
-    {
-      "id": "d8957873-8f10-4e25-8e31-aa8ee75390b1",
-      "latitude": -34.802849,
-      "longitude": 138.60845,
-      "street": "Elder Dr",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-03-29T10:30:22Z",
-      "reported_at": "2026-03-29T08:16:15Z"
     },
     {
       "id": "bfee1f2c-2d8b-4d2b-9ffc-cfbd66655895",
@@ -37,8 +27,18 @@
       "street": "Woodford Rd",
       "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-03-29T10:30:22Z",
+      "timestamp": "2026-03-29T11:00:22Z",
       "reported_at": "2026-03-29T07:51:03Z"
+    },
+    {
+      "id": "d8957873-8f10-4e25-8e31-aa8ee75390b1",
+      "latitude": -34.802849,
+      "longitude": 138.60845,
+      "street": "Elder Dr",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-29T11:00:22Z",
+      "reported_at": "2026-03-29T08:16:15Z"
     },
     {
       "id": "34233e92-880b-4b1e-8fe0-04b46b52de59",
@@ -47,8 +47,18 @@
       "street": "Woodford Rd",
       "city": "Elizabeth North",
       "type": "mobile",
-      "timestamp": "2026-03-29T10:30:22Z",
+      "timestamp": "2026-03-29T11:00:22Z",
       "reported_at": "2026-03-29T07:50:25Z"
+    },
+    {
+      "id": "bdb4650e-1e78-4943-90ab-12f1a21eed67",
+      "latitude": -34.850728,
+      "longitude": 138.544355,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Ottoway",
+      "type": "mobile",
+      "timestamp": "2026-03-29T11:00:22Z",
+      "reported_at": "2026-03-29T10:30:23Z"
     },
     {
       "id": "f5a9cb51-68d8-4ffa-97d0-cdf6ec649f23",
@@ -57,8 +67,38 @@
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-29T10:30:22Z",
+      "timestamp": "2026-03-29T11:00:22Z",
       "reported_at": "2026-03-29T07:56:48Z"
+    },
+    {
+      "id": "191ec466-48b7-4388-b6d0-285f557c4a14",
+      "latitude": -34.949038,
+      "longitude": 138.517962,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-29T11:00:22Z",
+      "reported_at": "2026-03-29T10:43:23Z"
+    },
+    {
+      "id": "e864e571-03bd-4c04-80f9-9d3b8f5381bf",
+      "latitude": -35.057415,
+      "longitude": 138.545367,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-29T11:00:22Z",
+      "reported_at": "2026-03-29T10:40:29Z"
+    },
+    {
+      "id": "0ddb3631-2f39-455c-bed8-d9c4693457fa",
+      "latitude": -35.121593,
+      "longitude": 138.507645,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-29T11:00:22Z",
+      "reported_at": "2026-03-29T10:46:31Z"
     }
   ]
 }
