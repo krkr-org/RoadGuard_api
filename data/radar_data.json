@@ -1,64 +1,54 @@
 {
   "radars": [
     {
-      "id": "fc0c9b3d-2151-4366-a517-70977a6c64fa",
-      "latitude": -35.134416,
-      "longitude": 138.50964,
-      "street": "Elizabeth Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-29T06:30:26Z",
-      "reported_at": "2026-03-29T06:12:19Z"
-    },
-    {
-      "id": "9222f859-e507-4e09-bc4a-82d4d7e45fcd",
-      "latitude": -34.919995,
-      "longitude": 138.535311,
-      "street": "Rowells Rd",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-03-29T06:30:26Z",
-      "reported_at": "2026-03-29T06:03:03Z"
-    },
-    {
       "id": "85e1a157-8d3b-49c7-9055-ffc9144cdb06",
       "latitude": -34.914714,
       "longitude": 138.565192,
       "street": "Ashwin Pde",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-03-29T06:30:26Z",
+      "timestamp": "2026-03-29T07:00:23Z",
       "reported_at": "2026-03-29T05:14:53Z"
     },
     {
-      "id": "3b3ac389-3789-452f-9edb-819d27eee98d",
-      "latitude": -34.800309,
-      "longitude": 138.685235,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
+      "id": "f0fe0fc0-1c5e-42be-a99e-725d732015bf",
+      "latitude": -34.959861,
+      "longitude": 138.551758,
+      "street": "Mooringe Av",
+      "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-29T06:30:26Z",
-      "reported_at": "2026-03-29T06:13:13Z"
+      "timestamp": "2026-03-29T07:00:23Z",
+      "reported_at": "2026-03-29T06:56:00Z"
+    },
+    {
+      "id": "c0d711ed-6fe6-4b31-972d-6058ffd6c37c",
+      "latitude": -34.863547,
+      "longitude": 138.601221,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-29T07:00:23Z",
+      "reported_at": "2026-03-29T06:54:00Z"
+    },
+    {
+      "id": "fc6f7479-c1cc-4126-ad09-4a28e6480bf5",
+      "latitude": -34.796729,
+      "longitude": 138.655061,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-29T07:00:23Z",
+      "reported_at": "2026-03-29T06:39:42Z"
     },
     {
       "id": "2d074b57-74f6-4bda-8013-dc38548f7bd5",
-      "latitude": -34.831029,
-      "longitude": 138.58396,
+      "latitude": -34.831202,
+      "longitude": 138.583781,
       "street": "A9 - Salisbury Hwy",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-03-29T06:30:26Z",
+      "timestamp": "2026-03-29T07:00:23Z",
       "reported_at": "2026-03-29T05:41:03Z"
-    },
-    {
-      "id": "1e9fbe49-04d6-4c5c-84e3-9fe2c2083813",
-      "latitude": -34.832911,
-      "longitude": 138.57759,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-03-29T06:30:26Z",
-      "reported_at": "2026-03-29T05:51:59Z"
     }
   ]
 }
