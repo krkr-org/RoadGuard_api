@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "06796f53-89f3-44c9-aab3-5688fc7c9704",
-      "latitude": -34.915555,
-      "longitude": 138.587306,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-29T22:00:22Z",
-      "reported_at": "2026-03-29T21:44:50Z"
-    },
-    {
-      "id": "ba405be1-3f56-467f-b225-5287b0686096",
-      "latitude": -34.932064,
-      "longitude": 138.630828,
+      "id": "b59fc8c3-4bd9-4866-9257-02c16cc92514",
+      "latitude": -34.931978,
+      "longitude": 138.631671,
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-03-29T22:00:22Z",
-      "reported_at": "2026-03-29T21:01:37Z"
+      "timestamp": "2026-03-29T22:30:23Z",
+      "reported_at": "2026-03-29T21:53:01Z"
     },
     {
-      "id": "b96b5333-92b9-41f5-a7a8-8afd8aec4a12",
-      "latitude": -34.921105,
-      "longitude": 138.637545,
-      "street": "The Parade",
-      "city": "Norwood",
+      "id": "8392d81d-f872-4086-b288-f6bd630de8a0",
+      "latitude": -34.915375,
+      "longitude": 138.587021,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-29T22:00:22Z",
-      "reported_at": "2026-03-29T21:40:38Z"
+      "timestamp": "2026-03-29T22:30:23Z",
+      "reported_at": "2026-03-29T20:52:06Z"
     },
     {
       "id": "61d094ce-e2a5-4c1d-afe0-bc3554331d4d",
@@ -37,8 +27,38 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-29T22:00:22Z",
+      "timestamp": "2026-03-29T22:30:23Z",
       "reported_at": "2026-03-29T21:08:36Z"
+    },
+    {
+      "id": "7d2afa93-943b-4b57-b790-2dded5ff9cf6",
+      "latitude": -34.903446,
+      "longitude": 138.670853,
+      "street": "Unknown Street",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-03-29T22:30:23Z",
+      "reported_at": "2026-03-29T22:16:06Z"
+    },
+    {
+      "id": "5799762f-b35d-40f2-b9db-c2c2bb50bd1b",
+      "latitude": -34.783312,
+      "longitude": 138.65446,
+      "street": "Clayson Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-03-29T22:30:23Z",
+      "reported_at": "2026-03-29T22:13:54Z"
+    },
+    {
+      "id": "b6e138d8-517c-417d-8408-91c2a6216887",
+      "latitude": -35.130646,
+      "longitude": 138.485632,
+      "street": "Unknown Street",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-29T22:30:23Z",
+      "reported_at": "2026-03-29T22:11:47Z"
     }
   ]
 }
