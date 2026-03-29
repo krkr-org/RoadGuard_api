@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "5f6a839e-fc38-4db8-8515-d2088a7d1b64",
-      "latitude": -34.986401,
-      "longitude": 138.583243,
-      "street": "Winston Av",
-      "city": "Melrose Park",
+      "id": "6375334c-16a5-49cc-a32a-b3b2f8d5580a",
+      "latitude": -35.052718,
+      "longitude": 138.763206,
+      "street": "River Rd",
+      "city": "Mylor",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
-      "reported_at": "2026-03-29T00:15:31Z"
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-29T00:59:29Z"
     },
     {
       "id": "2a82bcc8-e09e-47ae-ac59-d5b93342b3aa",
@@ -17,18 +17,8 @@
       "street": "Robinson Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
+      "timestamp": "2026-03-29T01:30:25Z",
       "reported_at": "2026-03-28T21:51:27Z"
-    },
-    {
-      "id": "787270bd-da99-42fb-a7e1-d73c215d1899",
-      "latitude": -34.665675,
-      "longitude": 138.560202,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
-      "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
-      "reported_at": "2026-03-28T23:50:58Z"
     },
     {
       "id": "432d1258-efd6-4c55-9ad1-3273397323f7",
@@ -37,7 +27,7 @@
       "street": "Findon Rd",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
+      "timestamp": "2026-03-29T01:30:25Z",
       "reported_at": "2026-03-28T23:50:37Z"
     },
     {
@@ -47,28 +37,58 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
+      "timestamp": "2026-03-29T01:30:25Z",
       "reported_at": "2026-03-28T21:32:26Z"
     },
     {
-      "id": "c84691d8-b9c4-461f-a8b2-427b19453548",
-      "latitude": -34.805023,
-      "longitude": 138.596792,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Dry Creek",
+      "id": "787270bd-da99-42fb-a7e1-d73c215d1899",
+      "latitude": -34.665675,
+      "longitude": 138.560202,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
-      "reported_at": "2026-03-28T21:49:14Z"
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-28T23:50:58Z"
     },
     {
-      "id": "e6fb0b14-890c-4c09-b20c-f92d4afb0185",
-      "latitude": -34.862631,
-      "longitude": 138.601156,
+      "id": "18993812-87cb-406f-b48e-6f185ce09daf",
+      "latitude": -34.737461,
+      "longitude": 138.800303,
+      "street": "Kersbrook Rd",
+      "city": "Humbug Scrub",
+      "type": "mobile",
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-29T00:18:05Z"
+    },
+    {
+      "id": "20ddda6e-3caa-43be-be11-b156ca7d7f4c",
+      "latitude": -34.863134,
+      "longitude": 138.601297,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
-      "reported_at": "2026-03-28T22:27:17Z"
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-29T00:53:53Z"
+    },
+    {
+      "id": "c0251586-4c8b-4fc9-bb55-77915e1ac371",
+      "latitude": -34.804771,
+      "longitude": 138.597043,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-28T21:02:54Z"
+    },
+    {
+      "id": "ae51ca90-d463-4868-8361-33e84f1a6d8f",
+      "latitude": -34.984938,
+      "longitude": 138.802969,
+      "street": "B26 - Greenhill Rd",
+      "city": "Balhannah",
+      "type": "mobile",
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-29T00:49:20Z"
     },
     {
       "id": "d92b0b01-2ce1-40f3-842a-6b6a9b687d83",
@@ -77,8 +97,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-03-29T00:30:26Z",
+      "timestamp": "2026-03-29T01:30:25Z",
       "reported_at": "2026-03-28T22:09:31Z"
+    },
+    {
+      "id": "c84691d8-b9c4-461f-a8b2-427b19453548",
+      "latitude": -34.803452,
+      "longitude": 138.596686,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-29T01:30:25Z",
+      "reported_at": "2026-03-28T21:49:14Z"
     }
   ]
 }
