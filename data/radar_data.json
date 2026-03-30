@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "0a995361-2bcc-4405-a089-615eec3a8d2e",
-      "latitude": -35.131116,
-      "longitude": 138.472446,
+      "id": "e6afcc83-750d-403d-ba9a-e316d8ce689d",
+      "latitude": -35.131104,
+      "longitude": 138.47272,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T06:33:50Z"
+      "timestamp": "2026-03-30T11:00:23Z",
+      "reported_at": "2026-03-30T06:59:35Z"
+    },
+    {
+      "id": "6dc3c91f-691e-4b9c-8106-0cfcd39348ac",
+      "latitude": -35.104729,
+      "longitude": 138.511054,
+      "street": "to Sherriffs Rd to Lonsdale / Reynella",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T11:00:23Z",
+      "reported_at": "2026-03-30T10:30:14Z"
     },
     {
       "id": "6f469e47-4a82-47c3-aed1-978842fc910c",
@@ -17,7 +27,7 @@
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T06:21:15Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T07:38:01Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T09:18:57Z"
     },
     {
@@ -47,8 +57,18 @@
       "street": "Serpentine Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T06:27:48Z"
+    },
+    {
+      "id": "1af3b22f-7062-408a-b9c2-e33de0c9fbbb",
+      "latitude": -35.146811,
+      "longitude": 138.531728,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-03-30T11:00:23Z",
+      "reported_at": "2026-03-30T07:40:21Z"
     },
     {
       "id": "4c329aa9-cea5-439a-bd5c-fbd689fd6686",
@@ -57,18 +77,8 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T10:10:21Z"
-    },
-    {
-      "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
-      "latitude": -35.1469,
-      "longitude": 138.530052,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T05:58:37Z"
     },
     {
       "id": "dd0f5e63-edd9-4584-abaf-26920a862840",
@@ -77,38 +87,8 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T07:14:09Z"
-    },
-    {
-      "id": "2ca0aaf9-d830-4ba8-9b32-fbfb1c4d941c",
-      "latitude": -34.957722,
-      "longitude": 138.639358,
-      "street": "A1 - Glen Osmond Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T09:39:47Z"
-    },
-    {
-      "id": "5e2770b4-199d-449a-bab3-3ba74124d596",
-      "latitude": -34.839257,
-      "longitude": 138.67631,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T09:58:50Z"
-    },
-    {
-      "id": "7ed4f41c-7bd0-4d5f-83d4-8f79c23fcf55",
-      "latitude": -34.812486,
-      "longitude": 138.628573,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T10:17:47Z"
     },
     {
       "id": "97a24f99-8416-4ca1-baf1-40548947d54e",
@@ -117,38 +97,38 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
+      "timestamp": "2026-03-30T11:00:23Z",
       "reported_at": "2026-03-30T09:57:15Z"
     },
     {
-      "id": "0aed0252-3d9b-4598-b7e1-a85bce45d71f",
-      "latitude": -35.056033,
-      "longitude": 138.545668,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
+      "id": "5e2770b4-199d-449a-bab3-3ba74124d596",
+      "latitude": -34.839257,
+      "longitude": 138.67631,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T10:11:13Z"
+      "timestamp": "2026-03-30T11:00:23Z",
+      "reported_at": "2026-03-30T09:58:50Z"
     },
     {
-      "id": "1ae73d5b-6dba-47c4-829b-bfa4f71ba2e2",
-      "latitude": -34.838364,
-      "longitude": 138.522619,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "25f66e33-f47f-4807-8188-8b7ed626581f",
+      "latitude": -34.779115,
+      "longitude": 138.626415,
+      "street": "Unknown Street",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T09:46:43Z"
+      "timestamp": "2026-03-30T11:00:23Z",
+      "reported_at": "2026-03-30T10:26:45Z"
     },
     {
-      "id": "0c97ca54-265d-4cb6-88da-ed68f162d14f",
-      "latitude": -35.089902,
-      "longitude": 138.528885,
+      "id": "11418c3b-631c-409e-8818-85e7092befff",
+      "latitude": -35.101695,
+      "longitude": 138.513346,
       "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-30T10:30:22Z",
-      "reported_at": "2026-03-30T10:10:29Z"
+      "timestamp": "2026-03-30T11:00:23Z",
+      "reported_at": "2026-03-30T10:32:20Z"
     }
   ]
 }
