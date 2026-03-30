@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "5e983121-e767-4b4b-bd62-a7158ee1c45b",
+      "latitude": -34.892005,
+      "longitude": 138.50787,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-30T21:00:22Z",
+      "reported_at": "2026-03-30T20:49:13Z"
+    },
+    {
+      "id": "8da5794d-d390-4640-8286-19e661212f39",
+      "latitude": -34.969544,
+      "longitude": 138.516964,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-30T21:00:22Z",
+      "reported_at": "2026-03-30T20:42:57Z"
+    },
+    {
+      "id": "194ba9fd-72ff-4204-b451-82127b6cadc5",
+      "latitude": -34.852668,
+      "longitude": 138.60045,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-03-30T21:00:22Z",
+      "reported_at": "2026-03-30T20:39:40Z"
+    }
+  ]
 }
