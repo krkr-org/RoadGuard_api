@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "6f469e47-4a82-47c3-aed1-978842fc910c",
-      "latitude": -35.110575,
-      "longitude": 138.507245,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T06:21:15Z"
-    },
-    {
       "id": "e6afcc83-750d-403d-ba9a-e316d8ce689d",
       "latitude": -35.131104,
       "longitude": 138.47272,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
+      "timestamp": "2026-03-30T10:00:23Z",
       "reported_at": "2026-03-30T06:59:35Z"
+    },
+    {
+      "id": "dc708da4-99cf-446b-8e04-59415d27ef76",
+      "latitude": -35.108449,
+      "longitude": 138.507081,
+      "street": "Aldershot Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T05:21:07Z"
     },
     {
       "id": "2f016ce4-42f1-44c4-a838-699ebff71ca4",
@@ -27,7 +27,7 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
+      "timestamp": "2026-03-30T10:00:23Z",
       "reported_at": "2026-03-30T07:38:01Z"
     },
     {
@@ -37,18 +37,38 @@
       "street": "Grant Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
+      "timestamp": "2026-03-30T10:00:23Z",
       "reported_at": "2026-03-30T06:17:48Z"
     },
     {
-      "id": "4c6e4b5f-31a3-4c23-a3d3-42526c563f30",
-      "latitude": -35.054589,
-      "longitude": 138.542641,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "8d9f9fa3-5166-4e4b-b400-fc949863c206",
+      "latitude": -35.062417,
+      "longitude": 138.518383,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T09:12:29Z"
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T09:18:57Z"
+    },
+    {
+      "id": "259b155d-819a-497c-b22c-7d67f9b62f64",
+      "latitude": -35.010888,
+      "longitude": 138.580737,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
+      "type": "mobile",
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T09:11:46Z"
+    },
+    {
+      "id": "dd0f5e63-edd9-4584-abaf-26920a862840",
+      "latitude": -35.088739,
+      "longitude": 138.54181,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T07:14:09Z"
     },
     {
       "id": "7863f942-3f2a-49c3-b117-0b54c1fa6079",
@@ -57,28 +77,8 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
+      "timestamp": "2026-03-30T10:00:23Z",
       "reported_at": "2026-03-30T08:22:06Z"
-    },
-    {
-      "id": "259b155d-819a-497c-b22c-7d67f9b62f64",
-      "latitude": -35.010885,
-      "longitude": 138.580957,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T09:11:46Z"
-    },
-    {
-      "id": "fc7b0b5a-7c73-41f7-941b-61ae2194687e",
-      "latitude": -35.086033,
-      "longitude": 138.544944,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T05:39:16Z"
     },
     {
       "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
@@ -87,38 +87,38 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
+      "timestamp": "2026-03-30T10:00:23Z",
       "reported_at": "2026-03-30T05:58:37Z"
     },
     {
-      "id": "df04cc71-9f4b-4946-93b8-35ee23337ca5",
-      "latitude": -34.839255,
-      "longitude": 138.676541,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "eae351e1-42cd-4094-aed3-e5ad17bd2dfc",
+      "latitude": -34.717995,
+      "longitude": 138.672757,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T09:20:20Z"
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T09:36:43Z"
     },
     {
-      "id": "3975e864-6b9e-45bc-80f1-85aa3474c338",
-      "latitude": -34.786213,
-      "longitude": 138.595955,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Globe Derby Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T09:10:33Z"
-    },
-    {
-      "id": "8b9de818-ef03-4843-b56b-e7b3972da207",
-      "latitude": -34.839564,
-      "longitude": 138.5195,
+      "id": "1ae73d5b-6dba-47c4-829b-bfa4f71ba2e2",
+      "latitude": -34.838364,
+      "longitude": 138.522619,
       "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-03-30T09:30:22Z",
-      "reported_at": "2026-03-30T09:02:26Z"
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T09:46:43Z"
+    },
+    {
+      "id": "832809a5-4ebb-41b3-ba80-2dbf84991ca6",
+      "latitude": -34.825302,
+      "longitude": 138.586404,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-30T10:00:23Z",
+      "reported_at": "2026-03-30T09:39:16Z"
     }
   ]
 }
