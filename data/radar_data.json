@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "bee4709c-d047-40c3-8334-3be4375cf088",
-      "latitude": -34.927522,
-      "longitude": 138.53422,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
-      "reported_at": "2026-03-30T21:32:15Z"
-    },
-    {
       "id": "2a649d16-545c-4433-b912-3cbf8c6e3205",
       "latitude": -34.911872,
       "longitude": 138.543148,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
+      "timestamp": "2026-03-30T23:00:23Z",
       "reported_at": "2026-03-30T20:46:27Z"
+    },
+    {
+      "id": "bee4709c-d047-40c3-8334-3be4375cf088",
+      "latitude": -34.927522,
+      "longitude": 138.53422,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T21:32:15Z"
     },
     {
       "id": "04e66cdc-3ad8-4ee7-b833-8f8d18c4cc0b",
@@ -27,18 +27,8 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
+      "timestamp": "2026-03-30T23:00:23Z",
       "reported_at": "2026-03-30T20:46:58Z"
-    },
-    {
-      "id": "b81b4807-16fa-4248-909e-14205eb3f042",
-      "latitude": -34.898044,
-      "longitude": 138.579494,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
-      "reported_at": "2026-03-30T21:14:53Z"
     },
     {
       "id": "59d4e266-5bf8-4ecd-99d1-c5dc6cd3fa15",
@@ -47,8 +37,28 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
+      "timestamp": "2026-03-30T23:00:23Z",
       "reported_at": "2026-03-30T21:42:03Z"
+    },
+    {
+      "id": "b81b4807-16fa-4248-909e-14205eb3f042",
+      "latitude": -34.898044,
+      "longitude": 138.579494,
+      "street": "Chief St",
+      "city": "Brompton",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T21:14:53Z"
+    },
+    {
+      "id": "f105578f-0aeb-46eb-8079-51fb22e626ad",
+      "latitude": -34.931221,
+      "longitude": 138.542076,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T22:27:43Z"
     },
     {
       "id": "7a38ad8b-e9ed-4a9a-94ee-18a9b79b6c68",
@@ -57,8 +67,28 @@
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
+      "timestamp": "2026-03-30T23:00:23Z",
       "reported_at": "2026-03-30T21:02:42Z"
+    },
+    {
+      "id": "21136c71-daa7-4bb5-a3e7-2c7351f29b98",
+      "latitude": -34.666364,
+      "longitude": 138.685789,
+      "street": "Douglas Dr",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T22:07:26Z"
+    },
+    {
+      "id": "fb535bbf-fe85-41ee-b57b-7d22d40bc777",
+      "latitude": -35.137282,
+      "longitude": 138.513635,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T22:02:42Z"
     },
     {
       "id": "399baa17-7f96-41c0-83d4-00cf786ac238",
@@ -67,28 +97,48 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
+      "timestamp": "2026-03-30T23:00:23Z",
       "reported_at": "2026-03-30T21:29:48Z"
     },
     {
-      "id": "efd6232f-872b-4135-bc0c-814ae714b883",
-      "latitude": -34.76967,
-      "longitude": 138.722247,
-      "street": "Golden Grove Rd",
-      "city": "Greenwith",
+      "id": "4702d86a-e95b-46fb-b545-75a61d14306a",
+      "latitude": -35.070543,
+      "longitude": 138.583149,
+      "street": "Happy Valley Dr",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
-      "reported_at": "2026-03-30T22:02:27Z"
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T22:41:35Z"
     },
     {
-      "id": "e8666de1-44b7-4fc4-ab46-986b4beea52b",
-      "latitude": -34.775257,
-      "longitude": 138.661311,
-      "street": "A20 - Main North Rd",
-      "city": "Brahma Lodge",
+      "id": "bf4d917a-b289-4682-bcd0-fb8029fa947f",
+      "latitude": -34.931691,
+      "longitude": 138.587915,
+      "street": "West Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-30T22:30:26Z",
-      "reported_at": "2026-03-30T22:15:26Z"
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T21:47:09Z"
+    },
+    {
+      "id": "239cd54b-7a57-43e0-bec9-27705c7539ae",
+      "latitude": -34.848356,
+      "longitude": 138.600131,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T22:37:32Z"
+    },
+    {
+      "id": "f8b61d0a-e88d-4cca-95c8-a45941200187",
+      "latitude": -34.932264,
+      "longitude": 138.54895,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T23:00:23Z",
+      "reported_at": "2026-03-30T22:47:17Z"
     }
   ]
 }
