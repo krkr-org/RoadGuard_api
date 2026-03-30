@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "67ef6107-5f5d-4ca3-885b-88fcd1629c34",
-      "latitude": -34.929852,
-      "longitude": 138.651323,
-      "street": "Tusmore Av",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T01:50:55Z"
-    },
-    {
       "id": "a8d6a73c-7c3c-4321-9192-2d03b0472134",
       "latitude": -34.915874,
       "longitude": 138.587822,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
+      "timestamp": "2026-03-30T04:00:22Z",
       "reported_at": "2026-03-30T01:52:32Z"
-    },
-    {
-      "id": "cd058362-090c-4536-ba93-55fd257cb07e",
-      "latitude": -34.860739,
-      "longitude": 138.567116,
-      "street": "to South Rd to Regency Park / Grand Junction Rd",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T02:55:26Z"
     },
     {
       "id": "ab074bc1-b4bd-4d6d-abad-ede45b3438ac",
@@ -37,8 +17,18 @@
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
+      "timestamp": "2026-03-30T04:00:22Z",
       "reported_at": "2026-03-30T00:04:04Z"
+    },
+    {
+      "id": "11c46e75-4459-4681-81ca-6e1833e8b3c0",
+      "latitude": -34.931204,
+      "longitude": 138.651418,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T01:35:21Z"
     },
     {
       "id": "eb6e4e3b-0ed8-42ed-81e6-e99a9b8aeec4",
@@ -47,68 +37,78 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
+      "timestamp": "2026-03-30T04:00:22Z",
       "reported_at": "2026-03-30T01:05:57Z"
     },
     {
-      "id": "942d402d-2886-482b-802d-5673c5c240d6",
-      "latitude": -34.925176,
-      "longitude": 138.659166,
-      "street": "Glynburn Rd",
-      "city": "Kensington Park",
+      "id": "60339f89-ddce-4913-809a-e4d6ba24e476",
+      "latitude": -34.866807,
+      "longitude": 138.662832,
+      "street": "Sudholz Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T03:00:34Z"
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:41:17Z"
     },
     {
-      "id": "6f4aad4f-3256-4da4-bf8a-6d9beaf6dcbb",
-      "latitude": -34.824853,
-      "longitude": 138.635173,
-      "street": "Bridge Rd",
-      "city": "Ingle Farm",
+      "id": "4f22a2d3-c7cc-423d-bfe6-ee5de09df5a8",
+      "latitude": -34.862586,
+      "longitude": 138.661588,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T02:28:25Z"
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:45:05Z"
     },
     {
-      "id": "26dccb9e-c6e3-4d67-9e70-238875aa2d3b",
-      "latitude": -34.709839,
-      "longitude": 138.779923,
-      "street": "Gawler-One Tree Hill Rd",
-      "city": "Yattalunga",
+      "id": "94352ab4-7f19-418d-9997-4f6b24dd7310",
+      "latitude": -34.805309,
+      "longitude": 138.691282,
+      "street": "Grenfell Rd",
+      "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T03:01:09Z"
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:30:54Z"
     },
     {
-      "id": "43bb6b91-93f5-4072-9f91-1fdb0541bbfe",
-      "latitude": -35.099269,
-      "longitude": 138.532747,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
+      "id": "e9587fd8-ffca-4de2-921a-6d32bb880420",
+      "latitude": -34.872914,
+      "longitude": 138.617443,
+      "street": "Regency Rd",
+      "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T02:57:06Z"
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:51:39Z"
     },
     {
-      "id": "c463d035-c536-45a5-9f38-18f8a7fb785f",
-      "latitude": -34.943092,
-      "longitude": 138.553212,
-      "street": "A14 - Marion Rd",
-      "city": "Netley",
+      "id": "1175d906-c33b-45e0-b8a5-cead6d19c600",
+      "latitude": -34.942917,
+      "longitude": 138.553537,
+      "street": "Richmond Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T03:16:26Z"
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:35:19Z"
     },
     {
-      "id": "e69058a0-64e0-427f-aa54-99ecece37d93",
-      "latitude": -34.843743,
-      "longitude": 138.692977,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Hope Valley",
+      "id": "474c9395-84c5-430d-9c68-4cc188037f7e",
+      "latitude": -34.883167,
+      "longitude": 138.622293,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T03:30:23Z",
-      "reported_at": "2026-03-30T03:10:23Z"
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:42:19Z"
+    },
+    {
+      "id": "022b081e-19cc-4758-9ec6-0b7e3015dd92",
+      "latitude": -34.968472,
+      "longitude": 138.517015,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-03-30T04:00:22Z",
+      "reported_at": "2026-03-30T03:50:30Z"
     }
   ]
 }
