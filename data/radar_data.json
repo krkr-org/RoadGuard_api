@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "382f849d-f63f-481c-a7d3-97a0a920f9b4",
-      "latitude": -35.130987,
-      "longitude": 138.474882,
+      "id": "fda1c89e-109b-47ad-a2d1-7672c5ae27f5",
+      "latitude": -34.852315,
+      "longitude": 138.502213,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T08:03:38Z"
+    },
+    {
+      "id": "0a995361-2bcc-4405-a089-615eec3a8d2e",
+      "latitude": -35.131116,
+      "longitude": 138.472446,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T05:32:35Z"
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T06:33:50Z"
     },
     {
-      "id": "0cf86b1d-581a-4cec-86fa-2793695d1ee3",
-      "latitude": -35.126877,
-      "longitude": 138.481558,
-      "street": "Galloway Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T04:58:18Z"
-    },
-    {
-      "id": "6f469e47-4a82-47c3-aed1-978842fc910c",
-      "latitude": -35.110575,
-      "longitude": 138.507245,
+      "id": "dc708da4-99cf-446b-8e04-59415d27ef76",
+      "latitude": -35.108449,
+      "longitude": 138.507081,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T06:21:15Z"
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T05:21:07Z"
+    },
+    {
+      "id": "2f016ce4-42f1-44c4-a838-699ebff71ca4",
+      "latitude": -35.067535,
+      "longitude": 138.538969,
+      "street": "Adams Rd",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T07:38:01Z"
     },
     {
       "id": "8ec77a86-611c-4e86-9643-5166fe2354f2",
@@ -37,28 +47,8 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
+      "timestamp": "2026-03-30T08:30:22Z",
       "reported_at": "2026-03-30T05:08:23Z"
-    },
-    {
-      "id": "6fe8a7f3-205b-4185-a4ba-3474acaa0986",
-      "latitude": -35.067851,
-      "longitude": 138.538278,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T05:17:37Z"
-    },
-    {
-      "id": "ab328a4c-fd75-4311-96b8-a2030738c6ca",
-      "latitude": -35.094421,
-      "longitude": 138.530473,
-      "street": "Grant Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T04:01:19Z"
     },
     {
       "id": "ed4c017d-25d7-4cfa-9148-059fe4a4d187",
@@ -67,28 +57,8 @@
       "street": "Grant Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
+      "timestamp": "2026-03-30T08:30:22Z",
       "reported_at": "2026-03-30T06:17:48Z"
-    },
-    {
-      "id": "ab03f916-dd42-4fd1-a88d-dfff70b9e9a0",
-      "latitude": -34.877927,
-      "longitude": 138.484852,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T07:26:43Z"
-    },
-    {
-      "id": "fc7b0b5a-7c73-41f7-941b-61ae2194687e",
-      "latitude": -35.086033,
-      "longitude": 138.544944,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T05:39:16Z"
     },
     {
       "id": "373114f0-6bf6-4cd4-b916-81cfac651d1c",
@@ -97,8 +67,28 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
+      "timestamp": "2026-03-30T08:30:22Z",
       "reported_at": "2026-03-30T05:06:32Z"
+    },
+    {
+      "id": "7863f942-3f2a-49c3-b117-0b54c1fa6079",
+      "latitude": -35.105477,
+      "longitude": 138.519461,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T08:22:06Z"
+    },
+    {
+      "id": "dd0f5e63-edd9-4584-abaf-26920a862840",
+      "latitude": -35.088739,
+      "longitude": 138.54181,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T07:14:09Z"
     },
     {
       "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
@@ -107,28 +97,28 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
+      "timestamp": "2026-03-30T08:30:22Z",
       "reported_at": "2026-03-30T05:58:37Z"
     },
     {
-      "id": "4719b346-a952-4799-8a49-d3700898b957",
-      "latitude": -34.787935,
-      "longitude": 138.665973,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
+      "id": "15403fa3-f5a4-4b9e-abe9-0be9840b2d39",
+      "latitude": -35.119689,
+      "longitude": 138.489378,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T07:40:31Z"
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T08:05:32Z"
     },
     {
-      "id": "1f5dc1cd-d401-41f0-a40d-10d2cf04b593",
-      "latitude": -35.100255,
-      "longitude": 138.531972,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
+      "id": "75f20052-84bb-4801-81e3-f3c863133704",
+      "latitude": -34.785533,
+      "longitude": 138.620637,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:00:23Z",
-      "reported_at": "2026-03-30T07:43:10Z"
+      "timestamp": "2026-03-30T08:30:22Z",
+      "reported_at": "2026-03-30T08:22:34Z"
     }
   ]
 }
