@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "e6afcc83-750d-403d-ba9a-e316d8ce689d",
-      "latitude": -35.131104,
-      "longitude": 138.47272,
-      "street": "Gulfview Rd",
+      "id": "e9125455-c502-4139-96cb-dc2167af1f85",
+      "latitude": -35.128771,
+      "longitude": 138.481706,
+      "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T06:59:35Z"
-    },
-    {
-      "id": "6dc3c91f-691e-4b9c-8106-0cfcd39348ac",
-      "latitude": -35.104729,
-      "longitude": 138.511054,
-      "street": "to Sherriffs Rd to Lonsdale / Reynella",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T10:30:14Z"
+      "timestamp": "2026-03-30T11:30:22Z",
+      "reported_at": "2026-03-30T07:31:23Z"
     },
     {
       "id": "6f469e47-4a82-47c3-aed1-978842fc910c",
@@ -27,7 +17,7 @@
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
+      "timestamp": "2026-03-30T11:30:22Z",
       "reported_at": "2026-03-30T06:21:15Z"
     },
     {
@@ -37,7 +27,7 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
+      "timestamp": "2026-03-30T11:30:22Z",
       "reported_at": "2026-03-30T07:38:01Z"
     },
     {
@@ -47,7 +37,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
+      "timestamp": "2026-03-30T11:30:22Z",
       "reported_at": "2026-03-30T09:18:57Z"
     },
     {
@@ -57,18 +47,28 @@
       "street": "Serpentine Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
+      "timestamp": "2026-03-30T11:30:22Z",
       "reported_at": "2026-03-30T06:27:48Z"
     },
     {
-      "id": "1af3b22f-7062-408a-b9c2-e33de0c9fbbb",
-      "latitude": -35.146811,
-      "longitude": 138.531728,
+      "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
+      "latitude": -35.1469,
+      "longitude": 138.530052,
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T07:40:21Z"
+      "timestamp": "2026-03-30T11:30:22Z",
+      "reported_at": "2026-03-30T05:58:37Z"
+    },
+    {
+      "id": "78f31cbe-4615-491b-92c9-35832f5b5e5f",
+      "latitude": -35.087417,
+      "longitude": 138.543347,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T11:30:22Z",
+      "reported_at": "2026-03-30T09:53:07Z"
     },
     {
       "id": "4c329aa9-cea5-439a-bd5c-fbd689fd6686",
@@ -77,58 +77,38 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
+      "timestamp": "2026-03-30T11:30:22Z",
       "reported_at": "2026-03-30T10:10:21Z"
     },
     {
-      "id": "dd0f5e63-edd9-4584-abaf-26920a862840",
-      "latitude": -35.088739,
-      "longitude": 138.54181,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
+      "id": "81ffa903-9743-4c56-9c7c-dd5ccda8771f",
+      "latitude": -34.993559,
+      "longitude": 138.560718,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T07:14:09Z"
+      "timestamp": "2026-03-30T11:30:22Z",
+      "reported_at": "2026-03-30T11:11:50Z"
     },
     {
-      "id": "97a24f99-8416-4ca1-baf1-40548947d54e",
-      "latitude": -34.825788,
-      "longitude": 138.598539,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Cavan",
+      "id": "4e7dc473-345c-474e-b254-fe06bd1ee333",
+      "latitude": -34.980199,
+      "longitude": 138.573833,
+      "street": "A2 - South Rd",
+      "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T09:57:15Z"
+      "timestamp": "2026-03-30T11:30:22Z",
+      "reported_at": "2026-03-30T10:55:55Z"
     },
     {
-      "id": "5e2770b4-199d-449a-bab3-3ba74124d596",
-      "latitude": -34.839257,
-      "longitude": 138.67631,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
+      "id": "67c3579e-e525-488f-9867-2c5123abd4c7",
+      "latitude": -34.869184,
+      "longitude": 138.570616,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T09:58:50Z"
-    },
-    {
-      "id": "25f66e33-f47f-4807-8188-8b7ed626581f",
-      "latitude": -34.779115,
-      "longitude": 138.626415,
-      "street": "Unknown Street",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T10:26:45Z"
-    },
-    {
-      "id": "11418c3b-631c-409e-8818-85e7092befff",
-      "latitude": -35.101695,
-      "longitude": 138.513346,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:00:23Z",
-      "reported_at": "2026-03-30T10:32:20Z"
+      "timestamp": "2026-03-30T11:30:22Z",
+      "reported_at": "2026-03-30T11:05:16Z"
     }
   ]
 }
