@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "fda1c89e-109b-47ad-a2d1-7672c5ae27f5",
-      "latitude": -34.852315,
-      "longitude": 138.502213,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T08:03:38Z"
-    },
-    {
-      "id": "0a995361-2bcc-4405-a089-615eec3a8d2e",
-      "latitude": -35.131116,
-      "longitude": 138.472446,
+      "id": "eb243033-8ba9-4d25-9925-cf7290cdeb3a",
+      "latitude": -35.130877,
+      "longitude": 138.476887,
       "street": "Gulfview Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T06:33:50Z"
+      "timestamp": "2026-03-30T09:00:23Z",
+      "reported_at": "2026-03-30T06:54:58Z"
     },
     {
-      "id": "dc708da4-99cf-446b-8e04-59415d27ef76",
-      "latitude": -35.108449,
-      "longitude": 138.507081,
+      "id": "6f469e47-4a82-47c3-aed1-978842fc910c",
+      "latitude": -35.110575,
+      "longitude": 138.507245,
       "street": "Aldershot Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T05:21:07Z"
-    },
-    {
-      "id": "2f016ce4-42f1-44c4-a838-699ebff71ca4",
-      "latitude": -35.067535,
-      "longitude": 138.538969,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T07:38:01Z"
+      "timestamp": "2026-03-30T09:00:23Z",
+      "reported_at": "2026-03-30T06:21:15Z"
     },
     {
       "id": "8ec77a86-611c-4e86-9643-5166fe2354f2",
@@ -47,7 +27,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
+      "timestamp": "2026-03-30T09:00:23Z",
       "reported_at": "2026-03-30T05:08:23Z"
     },
     {
@@ -57,8 +37,28 @@
       "street": "Grant Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
+      "timestamp": "2026-03-30T09:00:23Z",
       "reported_at": "2026-03-30T06:17:48Z"
+    },
+    {
+      "id": "44162a52-f838-404a-b060-302ec3ef3ddd",
+      "latitude": -34.74648,
+      "longitude": 138.645825,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-03-30T09:00:23Z",
+      "reported_at": "2026-03-30T08:34:37Z"
+    },
+    {
+      "id": "04c609b5-9f47-4a6f-b664-8a491965abfa",
+      "latitude": -35.086832,
+      "longitude": 138.543983,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T09:00:23Z",
+      "reported_at": "2026-03-30T07:28:18Z"
     },
     {
       "id": "373114f0-6bf6-4cd4-b916-81cfac651d1c",
@@ -67,28 +67,8 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
+      "timestamp": "2026-03-30T09:00:23Z",
       "reported_at": "2026-03-30T05:06:32Z"
-    },
-    {
-      "id": "7863f942-3f2a-49c3-b117-0b54c1fa6079",
-      "latitude": -35.105477,
-      "longitude": 138.519461,
-      "street": "Sherriffs Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T08:22:06Z"
-    },
-    {
-      "id": "dd0f5e63-edd9-4584-abaf-26920a862840",
-      "latitude": -35.088739,
-      "longitude": 138.54181,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T07:14:09Z"
     },
     {
       "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
@@ -97,28 +77,28 @@
       "street": "Penneys Hill Rd",
       "city": "Hackham",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
+      "timestamp": "2026-03-30T09:00:23Z",
       "reported_at": "2026-03-30T05:58:37Z"
     },
     {
-      "id": "15403fa3-f5a4-4b9e-abe9-0be9840b2d39",
-      "latitude": -35.119689,
-      "longitude": 138.489378,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
+      "id": "48165db2-6916-4fdc-8dd0-418b82ffaecc",
+      "latitude": -34.995562,
+      "longitude": 138.593055,
+      "street": "Goodwood Rd",
+      "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T08:05:32Z"
+      "timestamp": "2026-03-30T09:00:23Z",
+      "reported_at": "2026-03-30T08:27:06Z"
     },
     {
-      "id": "75f20052-84bb-4801-81e3-f3c863133704",
-      "latitude": -34.785533,
-      "longitude": 138.620637,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "ed3fd97b-4334-4ffc-bb2b-6f3940bb4bec",
+      "latitude": -35.105516,
+      "longitude": 138.516469,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T08:30:22Z",
-      "reported_at": "2026-03-30T08:22:34Z"
+      "timestamp": "2026-03-30T09:00:23Z",
+      "reported_at": "2026-03-30T08:47:38Z"
     }
   ]
 }
