@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "e9125455-c502-4139-96cb-dc2167af1f85",
-      "latitude": -35.128771,
-      "longitude": 138.481706,
+      "id": "3c23bedc-ebc7-4dc4-af4a-016988f8fb9f",
+      "latitude": -35.127856,
+      "longitude": 138.481637,
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T07:31:23Z"
-    },
-    {
-      "id": "6f469e47-4a82-47c3-aed1-978842fc910c",
-      "latitude": -35.110575,
-      "longitude": 138.507245,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T06:21:15Z"
-    },
-    {
-      "id": "2f016ce4-42f1-44c4-a838-699ebff71ca4",
-      "latitude": -35.067535,
-      "longitude": 138.538969,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T07:38:01Z"
+      "timestamp": "2026-03-30T12:00:23Z",
+      "reported_at": "2026-03-30T08:25:59Z"
     },
     {
       "id": "8d9f9fa3-5166-4e4b-b400-fc949863c206",
@@ -37,38 +17,18 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
+      "timestamp": "2026-03-30T12:00:23Z",
       "reported_at": "2026-03-30T09:18:57Z"
     },
     {
-      "id": "442af3cd-e2c8-4605-9c06-20372c20462c",
-      "latitude": -35.074985,
-      "longitude": 138.558249,
-      "street": "Serpentine Rd",
-      "city": "O'Halloran Hill",
+      "id": "46f5e5d4-b997-4b9d-8be7-21421325e6bb",
+      "latitude": -35.06792,
+      "longitude": 138.538159,
+      "street": "Adams Rd",
+      "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T06:27:48Z"
-    },
-    {
-      "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
-      "latitude": -35.1469,
-      "longitude": 138.530052,
-      "street": "Penneys Hill Rd",
-      "city": "Hackham",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T05:58:37Z"
-    },
-    {
-      "id": "78f31cbe-4615-491b-92c9-35832f5b5e5f",
-      "latitude": -35.087417,
-      "longitude": 138.543347,
-      "street": "Old South Rd",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T09:53:07Z"
+      "timestamp": "2026-03-30T12:00:23Z",
+      "reported_at": "2026-03-30T08:45:02Z"
     },
     {
       "id": "4c329aa9-cea5-439a-bd5c-fbd689fd6686",
@@ -77,18 +37,28 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
+      "timestamp": "2026-03-30T12:00:23Z",
       "reported_at": "2026-03-30T10:10:21Z"
     },
     {
-      "id": "81ffa903-9743-4c56-9c7c-dd5ccda8771f",
-      "latitude": -34.993559,
-      "longitude": 138.560718,
-      "street": "Daws Rd",
-      "city": "Ascot Park",
+      "id": "e7c1abd4-fc74-4e6a-928a-93bfb60116b0",
+      "latitude": -34.990248,
+      "longitude": 138.525815,
+      "street": "Diagonal Rd",
+      "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
-      "reported_at": "2026-03-30T11:11:50Z"
+      "timestamp": "2026-03-30T12:00:23Z",
+      "reported_at": "2026-03-30T11:39:21Z"
+    },
+    {
+      "id": "78f31cbe-4615-491b-92c9-35832f5b5e5f",
+      "latitude": -35.087417,
+      "longitude": 138.543347,
+      "street": "Old South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-30T12:00:23Z",
+      "reported_at": "2026-03-30T09:53:07Z"
     },
     {
       "id": "4e7dc473-345c-474e-b254-fe06bd1ee333",
@@ -97,8 +67,28 @@
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
+      "timestamp": "2026-03-30T12:00:23Z",
       "reported_at": "2026-03-30T10:55:55Z"
+    },
+    {
+      "id": "bd3e46dc-f1f9-47f4-b4a7-8191784a229f",
+      "latitude": -34.898955,
+      "longitude": 138.593331,
+      "street": "R1 - Fitzroy Tce (City Ring Route)",
+      "city": "Thorngate",
+      "type": "mobile",
+      "timestamp": "2026-03-30T12:00:23Z",
+      "reported_at": "2026-03-30T11:56:16Z"
+    },
+    {
+      "id": "35430cf6-87da-4873-8aa8-ccefcdb2ef2a",
+      "latitude": -34.851316,
+      "longitude": 138.667054,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-30T12:00:23Z",
+      "reported_at": "2026-03-30T11:40:12Z"
     },
     {
       "id": "67c3579e-e525-488f-9867-2c5123abd4c7",
@@ -107,7 +97,7 @@
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T11:30:22Z",
+      "timestamp": "2026-03-30T12:00:23Z",
       "reported_at": "2026-03-30T11:05:16Z"
     }
   ]
