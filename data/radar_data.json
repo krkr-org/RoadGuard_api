@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "8d9f9fa3-5166-4e4b-b400-fc949863c206",
-      "latitude": -35.062417,
-      "longitude": 138.518383,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
-      "reported_at": "2026-03-30T09:18:57Z"
-    },
-    {
       "id": "78f31cbe-4615-491b-92c9-35832f5b5e5f",
       "latitude": -35.087417,
       "longitude": 138.543347,
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
+      "timestamp": "2026-03-30T13:30:23Z",
       "reported_at": "2026-03-30T09:53:07Z"
     },
     {
@@ -27,18 +17,8 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
+      "timestamp": "2026-03-30T13:30:23Z",
       "reported_at": "2026-03-30T10:10:21Z"
-    },
-    {
-      "id": "f69c5f5d-db81-42c4-ac75-c66fa1f48348",
-      "latitude": -34.980349,
-      "longitude": 138.556079,
-      "street": "A14 - Marion Rd",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
-      "reported_at": "2026-03-30T12:58:02Z"
     },
     {
       "id": "4e7dc473-345c-474e-b254-fe06bd1ee333",
@@ -47,28 +27,18 @@
       "street": "A2 - South Rd",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
+      "timestamp": "2026-03-30T13:30:23Z",
       "reported_at": "2026-03-30T10:55:55Z"
     },
     {
-      "id": "acf6e3b5-5c79-4e76-b7fe-39a7b9ec7236",
-      "latitude": -34.833727,
-      "longitude": 138.682565,
-      "street": "A18 - Wright Rd",
-      "city": "Modbury",
+      "id": "f69c5f5d-db81-42c4-ac75-c66fa1f48348",
+      "latitude": -34.980349,
+      "longitude": 138.556079,
+      "street": "A14 - Marion Rd",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
-      "reported_at": "2026-03-30T12:38:55Z"
-    },
-    {
-      "id": "67c3579e-e525-488f-9867-2c5123abd4c7",
-      "latitude": -34.869184,
-      "longitude": 138.570616,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T13:00:23Z",
-      "reported_at": "2026-03-30T11:05:16Z"
+      "timestamp": "2026-03-30T13:30:23Z",
+      "reported_at": "2026-03-30T12:58:02Z"
     }
   ]
 }
