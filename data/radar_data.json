@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "67ef6107-5f5d-4ca3-885b-88fcd1629c34",
-      "latitude": -34.929852,
-      "longitude": 138.651323,
+      "id": "69db2d12-0be2-478b-9630-afc182d597ad",
+      "latitude": -34.863386,
+      "longitude": 138.60191,
+      "street": "Fitzgerald Av",
+      "city": "Enfield",
+      "type": "mobile",
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:16:19Z"
+    },
+    {
+      "id": "61f9a16e-ff86-4956-9297-f6a2d54b66d1",
+      "latitude": -34.935095,
+      "longitude": 138.499059,
+      "street": "Seaview Rd",
+      "city": "Henley Beach South",
+      "type": "mobile",
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:34:50Z"
+    },
+    {
+      "id": "11c46e75-4459-4681-81ca-6e1833e8b3c0",
+      "latitude": -34.931204,
+      "longitude": 138.651418,
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T01:50:55Z"
-    },
-    {
-      "id": "a8d6a73c-7c3c-4321-9192-2d03b0472134",
-      "latitude": -34.915874,
-      "longitude": 138.587822,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T01:52:32Z"
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T01:35:21Z"
     },
     {
       "id": "ab328a4c-fd75-4311-96b8-a2030738c6ca",
@@ -27,7 +37,7 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
+      "timestamp": "2026-03-30T05:00:23Z",
       "reported_at": "2026-03-30T04:01:19Z"
     },
     {
@@ -37,98 +47,68 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
+      "timestamp": "2026-03-30T05:00:23Z",
       "reported_at": "2026-03-30T01:05:57Z"
     },
     {
-      "id": "8c323d9c-019b-47bb-8915-5b286cb3bb4d",
-      "latitude": -34.940384,
-      "longitude": 138.588815,
-      "street": "Goodwood Rd",
-      "city": "Adelaide",
+      "id": "a8d6a73c-7c3c-4321-9192-2d03b0472134",
+      "latitude": -34.915874,
+      "longitude": 138.587822,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:11:58Z"
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T01:52:32Z"
     },
     {
-      "id": "ad30475f-fc62-446c-b077-206bf4c620d1",
-      "latitude": -34.871684,
-      "longitude": 138.624846,
-      "street": "Muller Rd",
-      "city": "Greenacres",
+      "id": "fa631610-9c0a-421d-bbfc-1256908548c4",
+      "latitude": -35.010917,
+      "longitude": 138.580306,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:21:45Z"
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:53:22Z"
     },
     {
-      "id": "ff31bc44-ca54-4024-9e70-60d5d4c36b18",
-      "latitude": -34.877795,
-      "longitude": 138.484833,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:02:07Z"
-    },
-    {
-      "id": "4f22a2d3-c7cc-423d-bfe6-ee5de09df5a8",
-      "latitude": -34.862586,
-      "longitude": 138.661588,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T03:45:05Z"
-    },
-    {
-      "id": "f3e19ab4-dcd8-46aa-823a-136db0c9d0cb",
-      "latitude": -34.926783,
-      "longitude": 138.507142,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:04:14Z"
-    },
-    {
-      "id": "2b672f11-8ec9-47f7-ab58-ee2c6896d274",
-      "latitude": -34.873158,
-      "longitude": 138.482898,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:07:08Z"
-    },
-    {
-      "id": "eca27053-e183-4c69-9e3c-ec1020329a21",
-      "latitude": -34.884533,
-      "longitude": 138.624077,
-      "street": "A17 - Ascot Av",
-      "city": "Vale Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:02:35Z"
-    },
-    {
-      "id": "7195bbc4-a6f9-4802-a457-cd4f4d40932c",
-      "latitude": -34.88281,
-      "longitude": 138.621954,
-      "street": "A10 - North East Rd",
-      "city": "Manningham",
-      "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:16:12Z"
-    },
-    {
-      "id": "5fe4de75-3f89-4a52-930b-9c5545dd0b56",
-      "latitude": -35.091415,
-      "longitude": 138.525949,
-      "street": "M2 - Southern Exp",
+      "id": "d7890875-8efb-476a-a415-c9a874f5aead",
+      "latitude": -35.105321,
+      "longitude": 138.520533,
+      "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T04:30:23Z",
-      "reported_at": "2026-03-30T04:15:19Z"
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:34:03Z"
+    },
+    {
+      "id": "43c4782e-1864-4f13-ad60-5656281c35cd",
+      "latitude": -35.047324,
+      "longitude": 138.560337,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:28:23Z"
+    },
+    {
+      "id": "0d294d4d-f2ee-4dd1-b630-4d0934b3659d",
+      "latitude": -34.961349,
+      "longitude": 138.642315,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:51:22Z"
+    },
+    {
+      "id": "1cce69df-1d9d-461e-b783-4b207be59106",
+      "latitude": -34.846269,
+      "longitude": 138.645256,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-03-30T05:00:23Z",
+      "reported_at": "2026-03-30T04:55:19Z"
     }
   ]
 }
