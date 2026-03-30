@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "5823c55b-3aa0-4ceb-af06-74499690e223",
-      "latitude": -35.113188,
-      "longitude": 138.507451,
-      "street": "Aldershot Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
-      "reported_at": "2026-03-30T05:56:41Z"
-    },
-    {
       "id": "0cf86b1d-581a-4cec-86fa-2793695d1ee3",
       "latitude": -35.126877,
       "longitude": 138.481558,
       "street": "Galloway Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
+      "timestamp": "2026-03-30T07:00:23Z",
       "reported_at": "2026-03-30T04:58:18Z"
     },
     {
-      "id": "382f849d-f63f-481c-a7d3-97a0a920f9b4",
-      "latitude": -35.130987,
-      "longitude": 138.474882,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
+      "id": "ed4c017d-25d7-4cfa-9148-059fe4a4d187",
+      "latitude": -35.094231,
+      "longitude": 138.534356,
+      "street": "Grant Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
-      "reported_at": "2026-03-30T05:32:35Z"
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T06:17:48Z"
     },
     {
       "id": "02dff3d4-4efc-45f1-b8fe-846516c80a98",
@@ -37,18 +27,8 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
+      "timestamp": "2026-03-30T07:00:23Z",
       "reported_at": "2026-03-30T05:50:14Z"
-    },
-    {
-      "id": "ab328a4c-fd75-4311-96b8-a2030738c6ca",
-      "latitude": -35.094421,
-      "longitude": 138.530473,
-      "street": "Grant Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
-      "reported_at": "2026-03-30T04:01:19Z"
     },
     {
       "id": "8ec77a86-611c-4e86-9643-5166fe2354f2",
@@ -57,18 +37,28 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
+      "timestamp": "2026-03-30T07:00:23Z",
       "reported_at": "2026-03-30T05:08:23Z"
     },
     {
-      "id": "5afbb682-8eef-439f-8c96-dfadec7b2d02",
-      "latitude": -35.126326,
-      "longitude": 138.510804,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
+      "id": "ab328a4c-fd75-4311-96b8-a2030738c6ca",
+      "latitude": -35.094421,
+      "longitude": 138.530473,
+      "street": "Grant Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
-      "reported_at": "2026-03-30T05:56:35Z"
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T04:01:19Z"
+    },
+    {
+      "id": "aaebffdc-fbe7-4f49-b811-fc7431b9bc86",
+      "latitude": -35.1469,
+      "longitude": 138.530052,
+      "street": "Penneys Hill Rd",
+      "city": "Hackham",
+      "type": "mobile",
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T05:58:37Z"
     },
     {
       "id": "373114f0-6bf6-4cd4-b916-81cfac651d1c",
@@ -77,8 +67,18 @@
       "street": "States Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
+      "timestamp": "2026-03-30T07:00:23Z",
       "reported_at": "2026-03-30T05:06:32Z"
+    },
+    {
+      "id": "361c59e7-0c35-4c50-a8dd-5474c3ca5208",
+      "latitude": -34.936018,
+      "longitude": 138.588491,
+      "street": "Unknown Street",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T06:45:33Z"
     },
     {
       "id": "a1b8ab6e-0cd8-4c18-9e6d-266421afb1a1",
@@ -87,18 +87,38 @@
       "street": "Old South Rd",
       "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
+      "timestamp": "2026-03-30T07:00:23Z",
       "reported_at": "2026-03-30T05:31:13Z"
     },
     {
-      "id": "dbeedd36-a2bd-4640-a0cc-68bf509a5111",
-      "latitude": -34.926324,
-      "longitude": 138.587747,
-      "street": "West Tce",
+      "id": "12e6ed87-3cd3-412e-92a8-90a6c95295ae",
+      "latitude": -34.921865,
+      "longitude": 138.594445,
+      "street": "North Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
-      "reported_at": "2026-03-30T06:16:55Z"
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T06:25:51Z"
+    },
+    {
+      "id": "3463193f-2e17-4675-a890-cc11edaeca64",
+      "latitude": -34.864861,
+      "longitude": 138.661326,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T06:41:39Z"
+    },
+    {
+      "id": "72f07ef5-1794-46a6-a91d-054b13488da9",
+      "latitude": -34.804448,
+      "longitude": 138.614242,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-03-30T07:00:23Z",
+      "reported_at": "2026-03-30T06:27:24Z"
     },
     {
       "id": "5cce7264-eb9a-4aa1-98e5-36eaba250f77",
@@ -107,18 +127,8 @@
       "street": "A15 - Brighton Rd",
       "city": "Hove",
       "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
+      "timestamp": "2026-03-30T07:00:23Z",
       "reported_at": "2026-03-30T06:16:31Z"
-    },
-    {
-      "id": "ab8c02bc-4bfe-451a-849f-375f9ea9fbbb",
-      "latitude": -34.938822,
-      "longitude": 138.649412,
-      "street": "B26 - Greenhill Rd",
-      "city": "Tusmore",
-      "type": "mobile",
-      "timestamp": "2026-03-30T06:30:23Z",
-      "reported_at": "2026-03-30T06:15:29Z"
     }
   ]
 }
