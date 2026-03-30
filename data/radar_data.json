@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "7a38ad8b-e9ed-4a9a-94ee-18a9b79b6c68",
-      "latitude": -34.913779,
-      "longitude": 138.520809,
-      "street": "Valetta Rd",
-      "city": "Kidman Park",
+      "id": "2a649d16-545c-4433-b912-3cbf8c6e3205",
+      "latitude": -34.911872,
+      "longitude": 138.543148,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T21:30:24Z",
-      "reported_at": "2026-03-30T21:02:42Z"
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T20:46:27Z"
     },
     {
-      "id": "dab2c301-2470-446e-b801-b6d48be5a829",
-      "latitude": -34.91381,
-      "longitude": 138.574169,
+      "id": "bee4709c-d047-40c3-8334-3be4375cf088",
+      "latitude": -34.927522,
+      "longitude": 138.53422,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:32:15Z"
+    },
+    {
+      "id": "755fe863-ebee-46b8-aa36-dcd07f27b201",
+      "latitude": -34.945018,
+      "longitude": 138.510506,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:25:37Z"
+    },
+    {
+      "id": "e2fd760a-a516-4af4-afb4-005f6f60c2a7",
+      "latitude": -35.133662,
+      "longitude": 138.494841,
+      "street": "Elizabeth Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:48:18Z"
+    },
+    {
+      "id": "59d4e266-5bf8-4ecd-99d1-c5dc6cd3fa15",
+      "latitude": -34.913789,
+      "longitude": 138.574352,
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-30T21:30:24Z",
-      "reported_at": "2026-03-30T20:53:45Z"
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:42:03Z"
     },
     {
       "id": "b81b4807-16fa-4248-909e-14205eb3f042",
@@ -27,38 +57,58 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-03-30T21:30:24Z",
+      "timestamp": "2026-03-30T22:00:24Z",
       "reported_at": "2026-03-30T21:14:53Z"
     },
     {
-      "id": "04e66cdc-3ad8-4ee7-b833-8f8d18c4cc0b",
-      "latitude": -34.944991,
-      "longitude": 138.511028,
-      "street": "West Beach Rd",
-      "city": "West Beach",
+      "id": "7a38ad8b-e9ed-4a9a-94ee-18a9b79b6c68",
+      "latitude": -34.913779,
+      "longitude": 138.520809,
+      "street": "Valetta Rd",
+      "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-03-30T21:30:24Z",
-      "reported_at": "2026-03-30T20:46:58Z"
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:02:42Z"
     },
     {
-      "id": "ee968f18-6480-406d-af82-6c222651cf2c",
-      "latitude": -35.016778,
-      "longitude": 138.565406,
-      "street": "Sturt Rd",
-      "city": "Mitchell Park",
+      "id": "399baa17-7f96-41c0-83d4-00cf786ac238",
+      "latitude": -34.891941,
+      "longitude": 138.507518,
+      "street": "Trimmer Pde",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-30T21:30:24Z",
-      "reported_at": "2026-03-30T20:57:15Z"
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:29:48Z"
     },
     {
-      "id": "194ba9fd-72ff-4204-b451-82127b6cadc5",
-      "latitude": -34.852668,
-      "longitude": 138.60045,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "ebc9d204-0e9f-432e-a92d-5b16cfd4b6fc",
+      "latitude": -34.714658,
+      "longitude": 138.746934,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-03-30T21:30:24Z",
-      "reported_at": "2026-03-30T20:39:40Z"
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:30:44Z"
+    },
+    {
+      "id": "2d67470f-acaa-4295-bcf3-51968bfb350a",
+      "latitude": -34.934649,
+      "longitude": 138.623903,
+      "street": "R1 - Fullarton Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:52:56Z"
+    },
+    {
+      "id": "75eb872a-66ff-435d-bc35-698b12b7ff91",
+      "latitude": -34.819447,
+      "longitude": 138.561979,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-30T22:00:24Z",
+      "reported_at": "2026-03-30T21:42:19Z"
     }
   ]
 }
