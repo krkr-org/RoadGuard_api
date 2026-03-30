@@ -1,44 +1,74 @@
 {
   "radars": [
     {
-      "id": "eb6e4e3b-0ed8-42ed-81e6-e99a9b8aeec4",
-      "latitude": -34.931948,
-      "longitude": 138.632296,
-      "street": "Grant Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2026-03-30T02:30:22Z",
-      "reported_at": "2026-03-30T01:05:57Z"
-    },
-    {
-      "id": "b12d814c-377c-4377-8704-c628b760f81e",
-      "latitude": -34.930066,
-      "longitude": 138.651331,
-      "street": "Tusmore Av",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-03-30T02:30:22Z",
-      "reported_at": "2026-03-29T22:57:53Z"
-    },
-    {
       "id": "ab074bc1-b4bd-4d6d-abad-ede45b3438ac",
       "latitude": -34.903475,
       "longitude": 138.671322,
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-03-30T02:30:22Z",
+      "timestamp": "2026-03-30T03:00:26Z",
       "reported_at": "2026-03-30T00:04:04Z"
     },
     {
+      "id": "11c46e75-4459-4681-81ca-6e1833e8b3c0",
+      "latitude": -34.931204,
+      "longitude": 138.651418,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T01:35:21Z"
+    },
+    {
+      "id": "eb6e4e3b-0ed8-42ed-81e6-e99a9b8aeec4",
+      "latitude": -34.931948,
+      "longitude": 138.632296,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T01:05:57Z"
+    },
+    {
+      "id": "cd058362-090c-4536-ba93-55fd257cb07e",
+      "latitude": -34.860739,
+      "longitude": 138.567116,
+      "street": "to South Rd to Regency Park / Grand Junction Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:55:26Z"
+    },
+    {
       "id": "a8d6a73c-7c3c-4321-9192-2d03b0472134",
-      "latitude": -34.915449,
-      "longitude": 138.587138,
+      "latitude": -34.915874,
+      "longitude": 138.587822,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-30T02:30:22Z",
+      "timestamp": "2026-03-30T03:00:26Z",
       "reported_at": "2026-03-30T01:52:32Z"
+    },
+    {
+      "id": "e5718328-ff7e-4f27-9dac-c6beac56afde",
+      "latitude": -34.698981,
+      "longitude": 138.678277,
+      "street": "Woodford Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:37:24Z"
+    },
+    {
+      "id": "a790bbed-9387-435d-99ad-75b6df809f46",
+      "latitude": -34.859309,
+      "longitude": 138.565999,
+      "street": "South Rd",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:49:16Z"
     },
     {
       "id": "6f4aad4f-3256-4da4-bf8a-6d9beaf6dcbb",
@@ -47,8 +77,58 @@
       "street": "Bridge Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-03-30T02:30:22Z",
+      "timestamp": "2026-03-30T03:00:26Z",
       "reported_at": "2026-03-30T02:28:25Z"
+    },
+    {
+      "id": "fb534afa-5c5c-4afc-b54e-8bd5f8a6f756",
+      "latitude": -34.846504,
+      "longitude": 138.584944,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:50:23Z"
+    },
+    {
+      "id": "5c0a23e3-cbc2-4319-8a7f-22e4d1da36c0",
+      "latitude": -34.752187,
+      "longitude": 138.653084,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:39:11Z"
+    },
+    {
+      "id": "a9101ee4-2296-4de4-8b14-7399ebdba0a1",
+      "latitude": -34.868201,
+      "longitude": 138.570571,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:39:04Z"
+    },
+    {
+      "id": "eb460d5e-415a-4d3e-8449-953b2cadc9cb",
+      "latitude": -34.839107,
+      "longitude": 138.563871,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:42:49Z"
+    },
+    {
+      "id": "a71cd9e1-0cd0-4958-be7f-e21e0428b6ae",
+      "latitude": -34.869786,
+      "longitude": 138.570643,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-03-30T03:00:26Z",
+      "reported_at": "2026-03-30T02:41:07Z"
     }
   ]
 }
