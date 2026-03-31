@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "bccf315f-0c56-4ba6-bb53-a4b73273f568",
-      "latitude": -34.911889,
-      "longitude": 138.542829,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
+      "id": "ec94e824-7af0-41ab-9724-19cdfdae8410",
+      "latitude": -34.957008,
+      "longitude": 138.562693,
+      "street": "Gray St",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T02:07:04Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:09:14Z"
     },
     {
-      "id": "21fe84f1-d826-4d5f-99d0-50528e1e544e",
-      "latitude": -34.913772,
-      "longitude": 138.574506,
-      "street": "Phillips St",
-      "city": "Thebarton",
+      "id": "eab2c7b0-ab37-441f-9aed-577e18e8a027",
+      "latitude": -34.956793,
+      "longitude": 138.50909,
+      "street": "Military Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T02:19:11Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:14:48Z"
     },
     {
       "id": "c818c9df-99aa-419a-8607-d6d3ca585ec7",
@@ -27,18 +27,28 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T02:58:08Z"
     },
     {
-      "id": "8ffd82b6-f550-411e-8936-125a7ae9810c",
-      "latitude": -34.783359,
-      "longitude": 138.606809,
+      "id": "498cb6aa-ec91-4b4f-b1de-a8eb3a5836f6",
+      "latitude": -35.037929,
+      "longitude": 138.629272,
+      "street": "Ackland Hill Rd",
+      "city": "Coromandel Valley",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:00:27Z"
+    },
+    {
+      "id": "ee83436e-aee6-4508-9bff-2cb41f62ef16",
+      "latitude": -34.78324,
+      "longitude": 138.606916,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:00:54Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T04:57:55Z"
     },
     {
       "id": "b05f859d-3902-4b40-becd-84b62f969174",
@@ -47,18 +57,8 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T05:22:54Z"
-    },
-    {
-      "id": "55278556-2bae-46fa-8c4d-864be2735b64",
-      "latitude": -34.791635,
-      "longitude": 138.60274,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:13:07Z"
     },
     {
       "id": "fc85f297-72fb-4400-86d1-c879da3a0423",
@@ -67,38 +67,38 @@
       "street": "Military Rd",
       "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T05:48:50Z"
     },
     {
-      "id": "c87f0467-1736-4721-80fc-1fd08d0b1652",
-      "latitude": -35.105567,
-      "longitude": 138.515389,
+      "id": "dcad06c2-9e9f-4da7-b164-4af398e89771",
+      "latitude": -35.106133,
+      "longitude": 138.504584,
+      "street": "Sherriffs Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:07:52Z"
+    },
+    {
+      "id": "d7459274-b427-4e52-b827-e3e0ed5340db",
+      "latitude": -35.105423,
+      "longitude": 138.518422,
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:49:01Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:09:36Z"
     },
     {
-      "id": "ad806777-9956-46e7-b65f-bac8db8ec46c",
-      "latitude": -34.82454,
-      "longitude": 138.618729,
-      "street": "Montague Rd",
-      "city": "Pooraka",
+      "id": "36df9942-6b39-47ef-ac28-71d06b036400",
+      "latitude": -34.805269,
+      "longitude": 138.726097,
+      "street": "Grenfell Rd",
+      "city": "Fairview Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:56:02Z"
-    },
-    {
-      "id": "4fe09ffb-0fdb-4717-9dab-0959b32ffb9c",
-      "latitude": -34.751925,
-      "longitude": 138.634787,
-      "street": "Bagster Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T04:57:43Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T05:53:50Z"
     },
     {
       "id": "a9204793-34d5-4d98-ac73-91caf0254041",
@@ -107,8 +107,38 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T05:34:18Z"
+    },
+    {
+      "id": "65daa75d-806b-44dc-9cf9-3797acf704cc",
+      "latitude": -34.745886,
+      "longitude": 138.657364,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:20:58Z"
+    },
+    {
+      "id": "4fe09ffb-0fdb-4717-9dab-0959b32ffb9c",
+      "latitude": -34.751925,
+      "longitude": 138.634787,
+      "street": "Bagster Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T04:57:43Z"
+    },
+    {
+      "id": "cdddf20b-111f-45fc-8b9f-dc2824f57101",
+      "latitude": -34.715951,
+      "longitude": 138.74523,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:01:27Z"
     },
     {
       "id": "a092b9d7-3e01-4cd0-b082-06cf87a3869d",
@@ -117,8 +147,28 @@
       "street": "Heaslip Rd",
       "city": "Penfield",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T05:46:20Z"
+    },
+    {
+      "id": "2a6f9086-0c5e-44a7-95d4-328e558077f1",
+      "latitude": -35.121473,
+      "longitude": 138.523313,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:01:12Z"
+    },
+    {
+      "id": "11600858-7b71-4adf-9ae9-a5d6daf117c3",
+      "latitude": -34.992053,
+      "longitude": 138.556941,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T05:58:08Z"
     },
     {
       "id": "d69d69aa-f9d9-4275-add0-b39aec896eb5",
@@ -127,58 +177,28 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T05:21:31Z"
     },
     {
-      "id": "ac631ead-6dcf-4498-93b8-24bc14b19d58",
-      "latitude": -34.875129,
-      "longitude": 138.602013,
-      "street": "A1 - Main North Rd",
-      "city": "Prospect",
+      "id": "019778c1-cb5d-4b85-93bf-596103716ff4",
+      "latitude": -34.820742,
+      "longitude": 138.726162,
+      "street": "A10 - North East Rd",
+      "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:55:42Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T05:39:48Z"
     },
     {
-      "id": "41899ddb-5eb1-4dfb-8142-712ce819bfec",
-      "latitude": -34.96599,
-      "longitude": 138.598622,
-      "street": "A3 - Cross Rd",
-      "city": "Unley Park",
-      "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:22:00Z"
-    },
-    {
-      "id": "f6ba61c2-74d2-4b3e-95f9-c4f940546e1a",
-      "latitude": -34.847724,
-      "longitude": 138.608863,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:21:42Z"
-    },
-    {
-      "id": "5b2fb832-48b1-4be0-8f5f-f4004b1f03ec",
-      "latitude": -34.966229,
-      "longitude": 138.592022,
-      "street": "A3 - Cross Rd",
-      "city": "Kings Park",
-      "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:39:33Z"
-    },
-    {
-      "id": "3380c23f-0818-4c0c-986d-f4ded25f40a4",
-      "latitude": -34.779022,
-      "longitude": 138.626596,
+      "id": "81d792b1-b66e-43f5-9e13-f54d32a0d334",
+      "latitude": -34.772298,
+      "longitude": 138.63261,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:34:14Z"
+      "timestamp": "2026-03-31T06:30:23Z",
+      "reported_at": "2026-03-31T06:06:56Z"
     },
     {
       "id": "78ef1e86-23c0-4740-a29c-1f6a651c75c1",
@@ -187,18 +207,8 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
+      "timestamp": "2026-03-31T06:30:23Z",
       "reported_at": "2026-03-31T05:23:23Z"
-    },
-    {
-      "id": "b3d98343-319b-4f35-9e93-af62813d8750",
-      "latitude": -34.839606,
-      "longitude": 138.56362,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-03-31T06:00:23Z",
-      "reported_at": "2026-03-31T05:33:57Z"
     }
   ]
 }
