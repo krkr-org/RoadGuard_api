@@ -7,7 +7,7 @@
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
+      "timestamp": "2026-03-31T04:30:25Z",
       "reported_at": "2026-03-31T02:07:04Z"
     },
     {
@@ -17,18 +17,8 @@
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
+      "timestamp": "2026-03-31T04:30:25Z",
       "reported_at": "2026-03-31T01:15:52Z"
-    },
-    {
-      "id": "4012066f-50de-4725-b240-d38a218c627d",
-      "latitude": -35.094457,
-      "longitude": 138.529674,
-      "street": "Grant Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
-      "reported_at": "2026-03-31T01:38:55Z"
     },
     {
       "id": "c818c9df-99aa-419a-8607-d6d3ca585ec7",
@@ -37,18 +27,8 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
+      "timestamp": "2026-03-31T04:30:25Z",
       "reported_at": "2026-03-31T02:58:08Z"
-    },
-    {
-      "id": "2974c487-db2b-4ad3-b35e-8c87df3c5507",
-      "latitude": -34.913637,
-      "longitude": 138.520142,
-      "street": "Valetta Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
-      "reported_at": "2026-03-31T01:56:54Z"
     },
     {
       "id": "21fe84f1-d826-4d5f-99d0-50528e1e544e",
@@ -57,8 +37,18 @@
       "street": "Phillips St",
       "city": "Thebarton",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
+      "timestamp": "2026-03-31T04:30:25Z",
       "reported_at": "2026-03-31T02:19:11Z"
+    },
+    {
+      "id": "4012066f-50de-4725-b240-d38a218c627d",
+      "latitude": -35.094457,
+      "longitude": 138.529674,
+      "street": "Grant Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-03-31T04:30:25Z",
+      "reported_at": "2026-03-31T01:38:55Z"
     },
     {
       "id": "e79de3e0-6b5e-466a-90d6-f7b98786977b",
@@ -67,18 +57,28 @@
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
+      "timestamp": "2026-03-31T04:30:25Z",
       "reported_at": "2026-03-31T02:14:40Z"
     },
     {
-      "id": "22488fc0-8406-48cb-bec2-6d4b6831cdf9",
-      "latitude": -34.892038,
-      "longitude": 138.507152,
+      "id": "2974c487-db2b-4ad3-b35e-8c87df3c5507",
+      "latitude": -34.913637,
+      "longitude": 138.520142,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-03-31T04:30:25Z",
+      "reported_at": "2026-03-31T01:56:54Z"
+    },
+    {
+      "id": "8d77da80-3972-4b86-ae0b-bd234f1ecfbc",
+      "latitude": -34.892051,
+      "longitude": 138.506606,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
-      "reported_at": "2026-03-31T01:27:48Z"
+      "timestamp": "2026-03-31T04:30:25Z",
+      "reported_at": "2026-03-31T02:01:30Z"
     },
     {
       "id": "e72a92ad-9c00-4557-a914-8743a70c934b",
@@ -87,18 +87,38 @@
       "street": "Glover Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
+      "timestamp": "2026-03-31T04:30:25Z",
       "reported_at": "2026-03-31T00:50:34Z"
     },
     {
-      "id": "074d24fb-eab3-486b-bcd5-d01cb59a31f4",
-      "latitude": -34.71852,
-      "longitude": 138.771029,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
+      "id": "94dc79da-efbb-46b6-9847-e6a1ef41ae9d",
+      "latitude": -34.921174,
+      "longitude": 138.599471,
+      "street": "King William Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-03-31T04:00:23Z",
-      "reported_at": "2026-03-31T03:52:22Z"
+      "timestamp": "2026-03-31T04:30:25Z",
+      "reported_at": "2026-03-31T04:10:11Z"
+    },
+    {
+      "id": "fee9cc75-6c70-4824-a7f3-8a3b158351ad",
+      "latitude": -34.898164,
+      "longitude": 138.609281,
+      "street": "A10 - Northcote Tce",
+      "city": "Medindie",
+      "type": "mobile",
+      "timestamp": "2026-03-31T04:30:25Z",
+      "reported_at": "2026-03-31T04:06:08Z"
+    },
+    {
+      "id": "cec2ba13-f46e-4bcd-a103-04d7a7a94b88",
+      "latitude": -34.884905,
+      "longitude": 138.624515,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-03-31T04:30:25Z",
+      "reported_at": "2026-03-31T04:22:13Z"
     }
   ]
 }
