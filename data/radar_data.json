@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "4e9b76a2-d0a3-40ab-b3e9-f2ae6eac15ff",
-      "latitude": -35.044434,
-      "longitude": 138.55192,
+      "id": "41f340b5-89fd-431e-888b-1165d75b9283",
+      "latitude": -35.02658,
+      "longitude": 138.556931,
+      "street": "to A14 - Marion Rd to Marion / Glenelg",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-31T19:30:27Z",
+      "reported_at": "2026-03-31T19:22:23Z"
+    },
+    {
+      "id": "eaa1ed35-8e8c-4d9c-aeb8-df270b7f3cdf",
+      "latitude": -35.024506,
+      "longitude": 138.558501,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-03-31T19:30:27Z",
+      "reported_at": "2026-03-31T19:19:38Z"
+    },
+    {
+      "id": "64436321-ee61-4812-9a7c-b4ec69fcc468",
+      "latitude": -35.04536,
+      "longitude": 138.551036,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-31T19:00:22Z",
-      "reported_at": "2026-03-31T18:48:15Z"
+      "timestamp": "2026-03-31T19:30:27Z",
+      "reported_at": "2026-03-31T18:59:05Z"
     }
   ]
 }
