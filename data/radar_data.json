@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "6ebb0762-3d0b-4704-8b00-ff0d16dd1e09",
-      "latitude": -34.882644,
-      "longitude": 138.515638,
-      "street": "Morley Rd",
-      "city": "Seaton",
+      "id": "1298ed15-5d50-448e-ab77-01902bbd331b",
+      "latitude": -34.792035,
+      "longitude": 138.603456,
+      "street": "Unknown Street",
+      "city": "Green Fields",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T07:09:48Z"
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T08:09:31Z"
     },
     {
-      "id": "f84f1701-2c75-4798-8da0-2adac8db07ad",
-      "latitude": -34.782838,
-      "longitude": 138.607275,
+      "id": "0a9bed0c-918c-4c84-a98d-6e83091ca409",
+      "latitude": -34.783711,
+      "longitude": 138.606493,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T07:20:49Z"
-    },
-    {
-      "id": "a18dff42-7d80-46c5-9b67-a442710f7fa1",
-      "latitude": -34.791825,
-      "longitude": 138.603061,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T09:53:59Z"
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T08:12:53Z"
     },
     {
       "id": "12bd57a0-86b1-4843-82ec-01bdfaae1887",
@@ -37,18 +27,8 @@
       "street": "Grenfell Rd",
       "city": "Fairview Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
+      "timestamp": "2026-03-31T11:30:23Z",
       "reported_at": "2026-03-31T08:03:37Z"
-    },
-    {
-      "id": "521fef6c-6f90-46aa-9c50-ce716defae58",
-      "latitude": -34.749995,
-      "longitude": 138.681306,
-      "street": "Black Top Rd",
-      "city": "Hillbank",
-      "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T06:57:43Z"
     },
     {
       "id": "4c14e069-4cf7-432f-8b45-b5246bf1614c",
@@ -57,18 +37,8 @@
       "street": "Bagster Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
+      "timestamp": "2026-03-31T11:30:23Z",
       "reported_at": "2026-03-31T07:31:41Z"
-    },
-    {
-      "id": "a9204793-34d5-4d98-ac73-91caf0254041",
-      "latitude": -34.742006,
-      "longitude": 138.629693,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T05:34:18Z"
     },
     {
       "id": "bd393ab1-3709-4a69-9589-7cdb63339357",
@@ -77,8 +47,28 @@
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
+      "timestamp": "2026-03-31T11:30:23Z",
       "reported_at": "2026-03-31T09:36:16Z"
+    },
+    {
+      "id": "fe97e6aa-0c93-4f98-8ab0-13a62ec43c5b",
+      "latitude": -34.74209,
+      "longitude": 138.629832,
+      "street": "Diment Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T09:48:57Z"
+    },
+    {
+      "id": "f5d4a1ef-a168-49e0-bfc0-69f98abda750",
+      "latitude": -35.005007,
+      "longitude": 138.55783,
+      "street": "A14 - Marion Rd",
+      "city": "Marion",
+      "type": "mobile",
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T10:59:59Z"
     },
     {
       "id": "4609d935-c04c-41f1-a6bd-9ea616b8d6ea",
@@ -87,28 +77,8 @@
       "street": "A10 - North East Rd",
       "city": "St. Agnes",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
+      "timestamp": "2026-03-31T11:30:23Z",
       "reported_at": "2026-03-31T05:21:27Z"
-    },
-    {
-      "id": "935722fc-059b-4af6-a65a-7879e036eec8",
-      "latitude": -34.805723,
-      "longitude": 138.634625,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T10:25:44Z"
-    },
-    {
-      "id": "b7bba31d-d14a-45c8-b3cf-1b8bca64b72f",
-      "latitude": -34.771793,
-      "longitude": 138.633067,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T07:32:47Z"
     },
     {
       "id": "b5050fca-d09f-4da1-a273-a00efbcee707",
@@ -117,28 +87,38 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
+      "timestamp": "2026-03-31T11:30:23Z",
       "reported_at": "2026-03-31T08:09:11Z"
     },
     {
-      "id": "fe489d5e-e72a-4039-8981-ad67d93bc1ec",
-      "latitude": -34.803335,
-      "longitude": 138.636508,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
+      "id": "995491eb-bf7c-4dfe-93d2-15563fbbb549",
+      "latitude": -34.772226,
+      "longitude": 138.63253,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T07:07:19Z"
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T08:40:53Z"
     },
     {
-      "id": "43e2be7e-f9cd-4d6d-a9e8-e826f7f52ff1",
-      "latitude": -35.029156,
-      "longitude": 138.555674,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "0493f658-c191-452a-8e8a-f51f0da34d39",
+      "latitude": -34.766859,
+      "longitude": 138.637385,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-03-31T11:00:26Z",
-      "reported_at": "2026-03-31T10:20:50Z"
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T11:06:34Z"
+    },
+    {
+      "id": "d51a3b7e-88e4-4f4e-9b54-b712650191b7",
+      "latitude": -34.78577,
+      "longitude": 138.595911,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Globe Derby Park",
+      "type": "mobile",
+      "timestamp": "2026-03-31T11:30:23Z",
+      "reported_at": "2026-03-31T10:52:30Z"
     }
   ]
 }
