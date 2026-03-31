@@ -1,14 +1,54 @@
 {
   "radars": [
     {
-      "id": "f8303051-a106-4bec-8f9a-06bea1fd0326",
-      "latitude": -35.048387,
-      "longitude": 138.532708,
+      "id": "649483fb-b1b7-403a-a37b-28e3779f4b0f",
+      "latitude": -35.018541,
+      "longitude": 138.536002,
+      "street": "Sturt Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T21:09:53Z"
+    },
+    {
+      "id": "b7622de2-d653-4182-ab9c-6564998badff",
+      "latitude": -34.891446,
+      "longitude": 138.513732,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T21:51:32Z"
+    },
+    {
+      "id": "5e5e67bb-b961-47ed-a87b-c825f1c3634a",
+      "latitude": -35.005447,
+      "longitude": 138.699249,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T21:50:52Z"
+    },
+    {
+      "id": "bdf62db9-54c0-46a1-ad11-d12e2791018c",
+      "latitude": -35.048861,
+      "longitude": 138.533014,
       "street": "A15 - Ocean Bvd",
       "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T21:30:23Z",
-      "reported_at": "2026-03-31T20:59:03Z"
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T20:50:52Z"
+    },
+    {
+      "id": "cac12fcd-715d-4066-b2a8-1caad9bcc75d",
+      "latitude": -35.028525,
+      "longitude": 138.557339,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T21:56:12Z"
     },
     {
       "id": "3534199b-fb79-4435-99f4-1c6600ee55e9",
@@ -17,18 +57,28 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-31T21:30:23Z",
+      "timestamp": "2026-03-31T22:00:27Z",
       "reported_at": "2026-03-31T21:23:10Z"
     },
     {
-      "id": "3c5a7636-2433-4a44-8703-052c8b0c2c74",
-      "latitude": -35.045447,
-      "longitude": 138.550952,
+      "id": "b558cc21-8eea-4a4f-9e19-34e21ef61dd8",
+      "latitude": -34.816765,
+      "longitude": 138.676918,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T21:47:02Z"
+    },
+    {
+      "id": "dfa59dc9-7bea-4e61-befe-82636c1e19b2",
+      "latitude": -35.045595,
+      "longitude": 138.551058,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-31T21:30:23Z",
-      "reported_at": "2026-03-31T20:56:14Z"
+      "timestamp": "2026-03-31T22:00:27Z",
+      "reported_at": "2026-03-31T21:30:27Z"
     }
   ]
 }
