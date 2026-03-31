@@ -1,54 +1,64 @@
 {
   "radars": [
     {
+      "id": "b028f848-57d5-4c9a-9549-a54fc2c4354f",
+      "latitude": -35.009395,
+      "longitude": 138.533664,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:30:23Z",
+      "reported_at": "2026-03-31T21:42:39Z"
+    },
+    {
+      "id": "0c313819-3e61-41de-b32a-111b520db353",
+      "latitude": -35.005108,
+      "longitude": 138.56568,
+      "street": "Bradley Gr",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:30:23Z",
+      "reported_at": "2026-03-31T21:56:39Z"
+    },
+    {
+      "id": "d1e63b81-db62-4e25-8ca3-4eecad9b5c3c",
+      "latitude": -34.892894,
+      "longitude": 138.660207,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-03-31T22:30:23Z",
+      "reported_at": "2026-03-31T21:57:11Z"
+    },
+    {
       "id": "649483fb-b1b7-403a-a37b-28e3779f4b0f",
       "latitude": -35.018541,
       "longitude": 138.536002,
       "street": "Sturt Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
+      "timestamp": "2026-03-31T22:30:23Z",
       "reported_at": "2026-03-31T21:09:53Z"
     },
     {
-      "id": "b7622de2-d653-4182-ab9c-6564998badff",
-      "latitude": -34.891446,
-      "longitude": 138.513732,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
-      "reported_at": "2026-03-31T21:51:32Z"
-    },
-    {
-      "id": "5e5e67bb-b961-47ed-a87b-c825f1c3634a",
-      "latitude": -35.005447,
-      "longitude": 138.699249,
-      "street": "B28 - Waverley Ridge Rd",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
-      "reported_at": "2026-03-31T21:50:52Z"
-    },
-    {
-      "id": "bdf62db9-54c0-46a1-ad11-d12e2791018c",
-      "latitude": -35.048861,
-      "longitude": 138.533014,
+      "id": "895ce802-5900-4ac9-915b-047b6ac8dfbe",
+      "latitude": -35.047044,
+      "longitude": 138.531952,
       "street": "A15 - Ocean Bvd",
       "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
-      "reported_at": "2026-03-31T20:50:52Z"
+      "timestamp": "2026-03-31T22:30:23Z",
+      "reported_at": "2026-03-31T22:14:05Z"
     },
     {
-      "id": "cac12fcd-715d-4066-b2a8-1caad9bcc75d",
-      "latitude": -35.028525,
-      "longitude": 138.557339,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
+      "id": "10cf4457-c454-43fd-95b0-fe5f40ed7d44",
+      "latitude": -34.940931,
+      "longitude": 138.604754,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
-      "reported_at": "2026-03-31T21:56:12Z"
+      "timestamp": "2026-03-31T22:30:23Z",
+      "reported_at": "2026-03-31T22:24:38Z"
     },
     {
       "id": "3534199b-fb79-4435-99f4-1c6600ee55e9",
@@ -57,28 +67,18 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
+      "timestamp": "2026-03-31T22:30:23Z",
       "reported_at": "2026-03-31T21:23:10Z"
     },
     {
-      "id": "b558cc21-8eea-4a4f-9e19-34e21ef61dd8",
-      "latitude": -34.816765,
-      "longitude": 138.676918,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
-      "reported_at": "2026-03-31T21:47:02Z"
-    },
-    {
-      "id": "dfa59dc9-7bea-4e61-befe-82636c1e19b2",
-      "latitude": -35.045595,
-      "longitude": 138.551058,
+      "id": "ac19fd7f-dc50-460f-8cec-7a9bd9ef5b24",
+      "latitude": -35.047057,
+      "longitude": 138.549425,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-31T22:00:27Z",
-      "reported_at": "2026-03-31T21:30:27Z"
+      "timestamp": "2026-03-31T22:30:23Z",
+      "reported_at": "2026-03-31T22:20:34Z"
     }
   ]
 }
