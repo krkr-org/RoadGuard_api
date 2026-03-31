@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "bee4709c-d047-40c3-8334-3be4375cf088",
-      "latitude": -34.927522,
-      "longitude": 138.53422,
+      "id": "6244c573-83be-4331-b8c0-8b0fa37863af",
+      "latitude": -34.928635,
+      "longitude": 138.534291,
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-30T21:32:15Z"
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-31T01:15:52Z"
     },
     {
-      "id": "c85050fc-cb7b-4366-9f37-40eee15770af",
-      "latitude": -34.945156,
-      "longitude": 138.507803,
+      "id": "be26a900-522f-4ab8-8cff-10eabcc319b5",
+      "latitude": -34.795836,
+      "longitude": 138.640795,
+      "street": "Nobby Buckley Dr",
+      "city": "Parafield",
+      "type": "mobile",
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-31T02:20:57Z"
+    },
+    {
+      "id": "04e66cdc-3ad8-4ee7-b833-8f8d18c4cc0b",
+      "latitude": -34.944991,
+      "longitude": 138.511028,
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-30T23:11:45Z"
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-30T20:46:58Z"
     },
     {
-      "id": "ff6a2c61-7c49-493d-8596-b02d43b27752",
-      "latitude": -34.909403,
-      "longitude": 138.492408,
-      "street": "Military Rd",
-      "city": "Henley Beach",
+      "id": "91891b5b-39a6-4594-abe4-dea0ab679309",
+      "latitude": -34.913665,
+      "longitude": 138.520281,
+      "street": "Valetta Rd",
+      "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-30T23:42:14Z"
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-30T23:37:16Z"
+    },
+    {
+      "id": "e79de3e0-6b5e-466a-90d6-f7b98786977b",
+      "latitude": -34.914071,
+      "longitude": 138.522652,
+      "street": "Valetta Rd",
+      "city": "Kidman Park",
+      "type": "mobile",
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-31T02:14:40Z"
     },
     {
       "id": "4012066f-50de-4725-b240-d38a218c627d",
@@ -37,28 +57,8 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
+      "timestamp": "2026-03-31T02:30:22Z",
       "reported_at": "2026-03-31T01:38:55Z"
-    },
-    {
-      "id": "59d4e266-5bf8-4ecd-99d1-c5dc6cd3fa15",
-      "latitude": -34.913789,
-      "longitude": 138.574352,
-      "street": "Phillips St",
-      "city": "Thebarton",
-      "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-30T21:42:03Z"
-    },
-    {
-      "id": "21136c71-daa7-4bb5-a3e7-2c7351f29b98",
-      "latitude": -34.666364,
-      "longitude": 138.685789,
-      "street": "Douglas Dr",
-      "city": "Munno Para",
-      "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-30T22:07:26Z"
     },
     {
       "id": "399baa17-7f96-41c0-83d4-00cf786ac238",
@@ -67,18 +67,8 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
+      "timestamp": "2026-03-31T02:30:22Z",
       "reported_at": "2026-03-30T21:29:48Z"
-    },
-    {
-      "id": "06077849-d08a-4f98-aa39-fa0146890633",
-      "latitude": -34.906671,
-      "longitude": 138.50891,
-      "street": "Grange Rd",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-31T01:07:18Z"
     },
     {
       "id": "56e30398-cbfa-41a5-b94b-6a1fce8be53b",
@@ -87,28 +77,8 @@
       "street": "Diagonal Rd",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
+      "timestamp": "2026-03-31T02:30:22Z",
       "reported_at": "2026-03-31T00:59:37Z"
-    },
-    {
-      "id": "fe107f77-db87-431e-ba98-7f5451a26bd1",
-      "latitude": -34.902284,
-      "longitude": 138.609162,
-      "street": "Unknown Street",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-31T01:45:33Z"
-    },
-    {
-      "id": "b136b9f4-2978-4395-b9ed-47a9c4be4379",
-      "latitude": -34.964581,
-      "longitude": 138.554749,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
-      "reported_at": "2026-03-31T01:10:03Z"
     },
     {
       "id": "46e3ea22-28a4-4c65-9aa8-1137777adeb7",
@@ -117,8 +87,28 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-03-31T02:00:23Z",
+      "timestamp": "2026-03-31T02:30:22Z",
       "reported_at": "2026-03-31T01:25:17Z"
+    },
+    {
+      "id": "fe107f77-db87-431e-ba98-7f5451a26bd1",
+      "latitude": -34.902284,
+      "longitude": 138.609162,
+      "street": "Unknown Street",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-31T01:45:33Z"
+    },
+    {
+      "id": "9a0a2e8d-94e6-44b2-ab59-8d00dec74e1f",
+      "latitude": -34.795192,
+      "longitude": 138.501363,
+      "street": "A16 - Victoria Rd",
+      "city": "Osborne",
+      "type": "mobile",
+      "timestamp": "2026-03-31T02:30:22Z",
+      "reported_at": "2026-03-31T02:18:27Z"
     }
   ]
 }
