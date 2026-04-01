@@ -1,54 +1,14 @@
 {
   "radars": [
     {
-      "id": "5ec6beec-a140-4cd8-ac59-b779cb50f3cc",
-      "latitude": -34.837595,
-      "longitude": 138.723818,
-      "street": "Perserverence Rd",
-      "city": "Vista",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T07:46:31Z"
-    },
-    {
-      "id": "3414c083-77fc-408c-9768-e164135b60ad",
-      "latitude": -34.832202,
-      "longitude": 138.667872,
-      "street": "Charmaine Av",
-      "city": "Para Vista",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T07:08:39Z"
-    },
-    {
-      "id": "17d6d32b-114a-4687-bcf3-fc19985e547b",
-      "latitude": -34.851068,
-      "longitude": 138.661918,
-      "street": "Wandana Av",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T05:07:04Z"
-    },
-    {
-      "id": "185cbe9c-b12f-4c4e-82ad-2dd4638e5b0b",
-      "latitude": -34.817212,
-      "longitude": 138.636586,
+      "id": "7e5d801f-ca02-4f9c-b262-81b0522f21d2",
+      "latitude": -34.817851,
+      "longitude": 138.637582,
       "street": "Research Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T06:52:41Z"
-    },
-    {
-      "id": "403086ff-d374-497f-8c51-52d50cecc86e",
-      "latitude": -34.829573,
-      "longitude": 138.640668,
-      "street": "Beovich Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T05:25:09Z"
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T06:27:00Z"
     },
     {
       "id": "43739bc7-f40c-44ba-a1dd-2f951de22a04",
@@ -57,38 +17,48 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
+      "timestamp": "2026-04-01T09:30:25Z",
       "reported_at": "2026-04-01T06:18:03Z"
     },
     {
-      "id": "df0e3c61-b0fd-4227-96c5-797133b35b50",
-      "latitude": -34.836408,
-      "longitude": 138.630214,
+      "id": "3414c083-77fc-408c-9768-e164135b60ad",
+      "latitude": -34.832202,
+      "longitude": 138.667872,
+      "street": "Charmaine Av",
+      "city": "Para Vista",
+      "type": "mobile",
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T07:08:39Z"
+    },
+    {
+      "id": "1028c4d3-4a78-42fc-8c5a-4a3ef604a2ff",
+      "latitude": -34.850732,
+      "longitude": 138.661697,
+      "street": "Wandana Av",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T05:16:57Z"
+    },
+    {
+      "id": "df266a95-0778-433e-8517-b98976e0b8f7",
+      "latitude": -34.83627,
+      "longitude": 138.629949,
       "street": "Wright Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T07:11:55Z"
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T06:04:37Z"
     },
     {
-      "id": "03092a2d-f8e4-456c-8a29-d12cb15b0fe7",
-      "latitude": -34.924284,
-      "longitude": 138.602239,
-      "street": "Grenfell St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T08:56:28Z"
-    },
-    {
-      "id": "f8be199c-328d-49e4-9609-10841a92c3e8",
-      "latitude": -34.850892,
-      "longitude": 138.635609,
+      "id": "581bc6a7-a0d9-48e1-8247-8762323a3867",
+      "latitude": -34.850328,
+      "longitude": 138.635571,
       "street": "Fosters Rd",
       "city": "Northgate",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T06:27:29Z"
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T06:31:48Z"
     },
     {
       "id": "12032a81-83d4-4804-8362-481e3bf194de",
@@ -97,18 +67,58 @@
       "street": "Unknown Street",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
+      "timestamp": "2026-04-01T09:30:25Z",
       "reported_at": "2026-04-01T06:31:24Z"
     },
     {
-      "id": "bddcc919-9af2-43fc-a914-d1d5778d77e8",
-      "latitude": -34.833847,
-      "longitude": 138.610674,
+      "id": "32c71111-ccd1-49f3-a4b9-34a85c0e91d2",
+      "latitude": -34.772389,
+      "longitude": 138.657951,
+      "street": "Park Tce",
+      "city": "Salisbury Plain",
+      "type": "mobile",
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T09:23:28Z"
+    },
+    {
+      "id": "0743edd8-f121-49f6-9a0e-dfb5474871fd",
+      "latitude": -34.993433,
+      "longitude": 138.57497,
+      "street": "A2 - South Rd",
+      "city": "Clovelly Park",
+      "type": "mobile",
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T08:40:49Z"
+    },
+    {
+      "id": "1bd2d2c8-7c4c-4ba8-95f0-721df1f29c58",
+      "latitude": -34.906336,
+      "longitude": 138.573209,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T08:52:55Z"
+    },
+    {
+      "id": "82e3ed99-7b70-4eea-9ab2-0d10427a75e3",
+      "latitude": -34.833934,
+      "longitude": 138.610616,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T06:54:58Z"
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T04:56:45Z"
+    },
+    {
+      "id": "dbdabccf-cbb1-4db2-8d73-28eca6cd53d4",
+      "latitude": -34.847267,
+      "longitude": 138.626471,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-04-01T09:30:25Z",
+      "reported_at": "2026-04-01T08:58:23Z"
     },
     {
       "id": "2b26b3e8-bcc5-492d-87d8-b1999d0b9a94",
@@ -117,18 +127,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
+      "timestamp": "2026-04-01T09:30:25Z",
       "reported_at": "2026-04-01T06:20:58Z"
-    },
-    {
-      "id": "be3d7b70-820b-438f-86c3-2f98ed76c0d1",
-      "latitude": -34.71845,
-      "longitude": 138.572643,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:00:26Z",
-      "reported_at": "2026-04-01T07:58:48Z"
     }
   ]
 }
