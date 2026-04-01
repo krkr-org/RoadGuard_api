@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "7e5d801f-ca02-4f9c-b262-81b0522f21d2",
-      "latitude": -34.817851,
-      "longitude": 138.637582,
-      "street": "Research Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
-      "reported_at": "2026-04-01T06:27:00Z"
-    },
-    {
-      "id": "43739bc7-f40c-44ba-a1dd-2f951de22a04",
-      "latitude": -34.852574,
-      "longitude": 138.653751,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
-      "reported_at": "2026-04-01T06:18:03Z"
-    },
-    {
       "id": "3414c083-77fc-408c-9768-e164135b60ad",
       "latitude": -34.832202,
       "longitude": 138.667872,
       "street": "Charmaine Av",
       "city": "Para Vista",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T07:08:39Z"
     },
     {
@@ -37,18 +17,48 @@
       "street": "Wandana Av",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T05:16:57Z"
     },
     {
-      "id": "df266a95-0778-433e-8517-b98976e0b8f7",
-      "latitude": -34.83627,
-      "longitude": 138.629949,
-      "street": "Wright Rd",
-      "city": "Ingle Farm",
+      "id": "47b2e57c-40e8-42cd-a675-364ced649a56",
+      "latitude": -34.839194,
+      "longitude": 138.723228,
+      "street": "Perserverence Rd",
+      "city": "Vista",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
-      "reported_at": "2026-04-01T06:04:37Z"
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T06:56:29Z"
+    },
+    {
+      "id": "185cbe9c-b12f-4c4e-82ad-2dd4638e5b0b",
+      "latitude": -34.817212,
+      "longitude": 138.636586,
+      "street": "Research Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T06:52:41Z"
+    },
+    {
+      "id": "c5bdae7d-4ef6-4ea7-8f0d-3d2fc11d2f93",
+      "latitude": -34.933794,
+      "longitude": 138.610135,
+      "street": "Gilles St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T09:10:59Z"
+    },
+    {
+      "id": "43739bc7-f40c-44ba-a1dd-2f951de22a04",
+      "latitude": -34.852574,
+      "longitude": 138.653751,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T06:18:03Z"
     },
     {
       "id": "581bc6a7-a0d9-48e1-8247-8762323a3867",
@@ -57,8 +67,18 @@
       "street": "Fosters Rd",
       "city": "Northgate",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T06:31:48Z"
+    },
+    {
+      "id": "df266a95-0778-433e-8517-b98976e0b8f7",
+      "latitude": -34.83627,
+      "longitude": 138.629949,
+      "street": "Wright Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T06:04:37Z"
     },
     {
       "id": "12032a81-83d4-4804-8362-481e3bf194de",
@@ -67,7 +87,7 @@
       "street": "Unknown Street",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T06:31:24Z"
     },
     {
@@ -77,18 +97,8 @@
       "street": "Park Tce",
       "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T09:23:28Z"
-    },
-    {
-      "id": "0743edd8-f121-49f6-9a0e-dfb5474871fd",
-      "latitude": -34.993433,
-      "longitude": 138.57497,
-      "street": "A2 - South Rd",
-      "city": "Clovelly Park",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
-      "reported_at": "2026-04-01T08:40:49Z"
     },
     {
       "id": "1bd2d2c8-7c4c-4ba8-95f0-721df1f29c58",
@@ -97,8 +107,28 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T08:52:55Z"
+    },
+    {
+      "id": "9d70fb54-c01c-4dec-b37a-bd4de80faa3b",
+      "latitude": -34.916014,
+      "longitude": 138.640488,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T09:39:00Z"
+    },
+    {
+      "id": "f3077d47-9cbe-4bc5-a743-3357648b34dc",
+      "latitude": -34.847109,
+      "longitude": 138.628192,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-04-01T10:00:23Z",
+      "reported_at": "2026-04-01T05:18:54Z"
     },
     {
       "id": "82e3ed99-7b70-4eea-9ab2-0d10427a75e3",
@@ -107,18 +137,8 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T04:56:45Z"
-    },
-    {
-      "id": "dbdabccf-cbb1-4db2-8d73-28eca6cd53d4",
-      "latitude": -34.847267,
-      "longitude": 138.626471,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Northfield",
-      "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
-      "reported_at": "2026-04-01T08:58:23Z"
     },
     {
       "id": "2b26b3e8-bcc5-492d-87d8-b1999d0b9a94",
@@ -127,7 +147,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-01T09:30:25Z",
+      "timestamp": "2026-04-01T10:00:23Z",
       "reported_at": "2026-04-01T06:20:58Z"
     }
   ]
