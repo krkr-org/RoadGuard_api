@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "b6e96e41-dc7a-4ca5-b958-38b1275c279a",
+      "latitude": -34.752305,
+      "longitude": 138.652956,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
+      "type": "mobile",
+      "timestamp": "2026-04-01T21:30:23Z",
+      "reported_at": "2026-04-01T21:20:16Z"
+    },
+    {
+      "id": "4cb3b7eb-398c-49dc-a191-c8be8c1513c7",
+      "latitude": -34.842262,
+      "longitude": 138.59044,
+      "street": "A22 - Cavan Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-01T21:30:23Z",
+      "reported_at": "2026-04-01T21:12:33Z"
+    },
+    {
+      "id": "3bbef567-0a5d-469f-8a70-fe94550ee745",
+      "latitude": -34.894729,
+      "longitude": 138.585502,
+      "street": "A22 - Churchill Rd",
+      "city": "Ovingham",
+      "type": "mobile",
+      "timestamp": "2026-04-01T21:30:23Z",
+      "reported_at": "2026-04-01T21:14:13Z"
+    },
+    {
+      "id": "b4a8df65-c736-4e11-acb0-960501167b83",
+      "latitude": -34.753783,
+      "longitude": 138.649322,
+      "street": "A9 - John Rice Av",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-04-01T21:30:23Z",
+      "reported_at": "2026-04-01T21:24:13Z"
+    },
+    {
+      "id": "33dc8398-a375-42f0-b6a3-074c220d02b9",
+      "latitude": -34.910633,
+      "longitude": 138.612939,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-01T21:30:23Z",
+      "reported_at": "2026-04-01T21:10:52Z"
+    }
+  ]
 }
