@@ -1,64 +1,34 @@
 {
   "radars": [
     {
-      "id": "6a51252a-e0e6-4ded-8eac-9acd85b9ab4c",
-      "latitude": -34.908459,
-      "longitude": 138.504201,
-      "street": "Mitton Av",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T22:14:27Z"
-    },
-    {
-      "id": "f21096b9-dde2-4567-9664-a23d08ea9399",
-      "latitude": -35.009436,
-      "longitude": 138.762902,
-      "street": "Mount Barker Rd",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T22:19:17Z"
-    },
-    {
       "id": "3e35e72e-dc92-46d4-b6ea-cfeb7c90ac0e",
-      "latitude": -34.701611,
-      "longitude": 138.688112,
+      "latitude": -34.701499,
+      "longitude": 138.687853,
       "street": "Midway Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
+      "timestamp": "2026-04-01T23:00:25Z",
       "reported_at": "2026-04-01T21:37:51Z"
     },
     {
-      "id": "d240092a-5c85-41e8-a8a9-cfff6b5e7ee4",
-      "latitude": -35.016906,
-      "longitude": 138.568686,
-      "street": "Main South Rd",
-      "city": "Bedford Park",
+      "id": "bdef851f-776e-4792-b002-6b850de4c6b3",
+      "latitude": -34.844897,
+      "longitude": 138.532515,
+      "street": "Eastern Pde",
+      "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T21:32:25Z"
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:50:40Z"
     },
     {
-      "id": "91e5a4fb-642b-4222-9f43-cbec5e6779be",
-      "latitude": -34.920269,
-      "longitude": 138.658778,
-      "street": "Glynburn Rd",
-      "city": "Kensington Park",
+      "id": "e08bb7c8-f985-4be8-9d70-4bcdcfcd571f",
+      "latitude": -34.696131,
+      "longitude": 138.666477,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T21:56:38Z"
-    },
-    {
-      "id": "818a4715-f0fd-473a-ad04-01b194fc3335",
-      "latitude": -34.742453,
-      "longitude": 138.708149,
-      "street": "Black Top Rd",
-      "city": "Gould Creek",
-      "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T22:16:38Z"
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T21:37:05Z"
     },
     {
       "id": "95e4e0b0-c923-4873-a517-b171adec3e68",
@@ -67,7 +37,7 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
+      "timestamp": "2026-04-01T23:00:25Z",
       "reported_at": "2026-04-01T21:30:42Z"
     },
     {
@@ -77,28 +47,68 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
+      "timestamp": "2026-04-01T23:00:25Z",
       "reported_at": "2026-04-01T21:36:42Z"
     },
     {
-      "id": "7216f6ec-fe64-4017-b3c6-ec977a3ccce3",
-      "latitude": -34.842048,
-      "longitude": 138.590703,
-      "street": "A22 - Cavan Rd",
+      "id": "39bc9679-09a6-4c14-b8f6-ad05799fe604",
+      "latitude": -34.848826,
+      "longitude": 138.585626,
+      "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T21:07:42Z"
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:06:06Z"
     },
     {
-      "id": "7e91e223-2510-4ec2-adef-0290ade0a128",
-      "latitude": -34.851596,
-      "longitude": 138.525647,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Rosewater",
+      "id": "5c8fa214-4e20-4c03-a266-5c4228db989b",
+      "latitude": -34.843001,
+      "longitude": 138.589262,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-04-01T22:30:22Z",
-      "reported_at": "2026-04-01T22:18:09Z"
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:36:50Z"
+    },
+    {
+      "id": "201daac0-52b0-4ff2-be29-078d08368d4f",
+      "latitude": -34.849731,
+      "longitude": 138.572523,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:54:54Z"
+    },
+    {
+      "id": "0ebb9ce3-81c2-4416-831f-f31eb7cc4a84",
+      "latitude": -34.934772,
+      "longitude": 138.552729,
+      "street": "A14 - Marion Rd",
+      "city": "Cowandilla",
+      "type": "mobile",
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:48:32Z"
+    },
+    {
+      "id": "f05ac8ad-3a5d-4e50-996b-b8bdfa80e9c6",
+      "latitude": -34.680261,
+      "longitude": 138.6956,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:53:36Z"
+    },
+    {
+      "id": "3813f0ab-beac-4746-b25b-9b68c91b690b",
+      "latitude": -34.678877,
+      "longitude": 138.618943,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-01T23:00:25Z",
+      "reported_at": "2026-04-01T22:47:58Z"
     }
   ]
 }
