@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "d99c0c59-a643-46f7-84ec-2de32f99263a",
-      "latitude": -35.009344,
-      "longitude": 138.534676,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
-      "reported_at": "2026-04-01T02:22:26Z"
-    },
-    {
       "id": "a87022b2-f959-49bb-87ff-06fe02d02918",
       "latitude": -35.029937,
       "longitude": 138.620496,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
+      "timestamp": "2026-04-01T04:30:23Z",
       "reported_at": "2026-04-01T02:20:40Z"
     },
     {
@@ -27,8 +17,28 @@
       "street": "Folkestone Rd",
       "city": "South Brighton",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
+      "timestamp": "2026-04-01T04:30:23Z",
       "reported_at": "2026-04-01T01:52:09Z"
+    },
+    {
+      "id": "d99c0c59-a643-46f7-84ec-2de32f99263a",
+      "latitude": -35.009344,
+      "longitude": 138.534676,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-01T04:30:23Z",
+      "reported_at": "2026-04-01T02:22:26Z"
+    },
+    {
+      "id": "3e20a691-b038-4a24-bec8-d826344466eb",
+      "latitude": -34.795594,
+      "longitude": 138.647574,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-01T04:30:23Z",
+      "reported_at": "2026-04-01T04:22:28Z"
     },
     {
       "id": "adab7f43-a8aa-41d8-aba6-eca2a1aa84e6",
@@ -37,18 +47,8 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
+      "timestamp": "2026-04-01T04:30:23Z",
       "reported_at": "2026-04-01T00:59:23Z"
-    },
-    {
-      "id": "1d765afb-cde3-412c-b78d-9f8271dd3987",
-      "latitude": -34.791747,
-      "longitude": 138.602931,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
-      "reported_at": "2026-04-01T03:33:01Z"
     },
     {
       "id": "23dc29ee-312b-4ee0-8a2e-65aadf75b21a",
@@ -57,7 +57,7 @@
       "street": "Blythewood Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
+      "timestamp": "2026-04-01T04:30:23Z",
       "reported_at": "2026-04-01T03:56:23Z"
     },
     {
@@ -67,18 +67,18 @@
       "street": "Sturt Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
+      "timestamp": "2026-04-01T04:30:23Z",
       "reported_at": "2026-03-31T21:09:53Z"
     },
     {
-      "id": "dda44fc1-5507-473b-a93e-4dcb46bfdd1d",
-      "latitude": -34.927266,
-      "longitude": 138.635249,
+      "id": "e5d1a482-6a32-4420-85e4-71bdc0a71946",
+      "latitude": -34.927483,
+      "longitude": 138.63103,
       "street": "Kensington Rd",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
-      "reported_at": "2026-04-01T03:32:43Z"
+      "timestamp": "2026-04-01T04:30:23Z",
+      "reported_at": "2026-04-01T03:33:13Z"
     },
     {
       "id": "e6b9eafd-5e79-4d39-99a1-a1eb611db825",
@@ -87,38 +87,38 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
+      "timestamp": "2026-04-01T04:30:23Z",
       "reported_at": "2026-04-01T00:54:37Z"
     },
     {
-      "id": "160e1949-3e37-4605-9811-3c9fd26090b8",
-      "latitude": -34.747085,
-      "longitude": 138.673183,
-      "street": "A9 - John Rice Av",
-      "city": "Elizabeth Vale",
+      "id": "bc3d41ce-7afa-4165-8f89-b2a8d5d35909",
+      "latitude": -34.96226,
+      "longitude": 138.554719,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
-      "reported_at": "2026-04-01T03:43:55Z"
+      "timestamp": "2026-04-01T04:30:23Z",
+      "reported_at": "2026-04-01T04:04:01Z"
     },
     {
-      "id": "fd8df99d-102f-4088-8bd5-93a57afc0588",
-      "latitude": -34.835913,
-      "longitude": 138.527568,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "544f2a43-2303-4073-8e97-e82f8aefc5a2",
+      "latitude": -34.808865,
+      "longitude": 138.631773,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
-      "reported_at": "2026-04-01T03:57:42Z"
+      "timestamp": "2026-04-01T04:30:23Z",
+      "reported_at": "2026-04-01T04:13:44Z"
     },
     {
-      "id": "a833e4f2-ed44-4853-a4f5-fc03bbe97ceb",
-      "latitude": -34.849914,
-      "longitude": 138.564544,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "f446400c-460c-4f75-a161-b3e32cd57b39",
+      "latitude": -34.852484,
+      "longitude": 138.704441,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-04-01T04:00:23Z",
-      "reported_at": "2026-04-01T03:51:27Z"
+      "timestamp": "2026-04-01T04:30:23Z",
+      "reported_at": "2026-04-01T04:13:30Z"
     }
   ]
 }
