@@ -7,7 +7,7 @@
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
+      "timestamp": "2026-04-01T00:00:23Z",
       "reported_at": "2026-03-31T21:42:39Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
+      "timestamp": "2026-04-01T00:00:23Z",
       "reported_at": "2026-03-31T21:57:11Z"
     },
     {
@@ -27,8 +27,28 @@
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
+      "timestamp": "2026-04-01T00:00:23Z",
       "reported_at": "2026-03-31T21:56:39Z"
+    },
+    {
+      "id": "82b0d93a-381d-41fc-83bf-9a8249c6c8f4",
+      "latitude": -34.921596,
+      "longitude": 138.599916,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-01T00:00:23Z",
+      "reported_at": "2026-03-31T23:48:55Z"
+    },
+    {
+      "id": "fb77ae24-39c0-49c7-8e2b-1e2d3cd92a65",
+      "latitude": -34.835064,
+      "longitude": 138.617783,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-01T00:00:23Z",
+      "reported_at": "2026-03-31T23:55:40Z"
     },
     {
       "id": "bca3df61-c5f7-4c2c-9a6b-69c49c27b65f",
@@ -37,48 +57,38 @@
       "street": "Sturt Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
+      "timestamp": "2026-04-01T00:00:23Z",
       "reported_at": "2026-03-31T21:18:19Z"
     },
     {
-      "id": "7081bbf1-87cc-4aef-a457-cd4754c60ec0",
-      "latitude": -35.008801,
-      "longitude": 138.540265,
-      "street": "Morphett Rd",
-      "city": "Warradale",
+      "id": "bf3c9dd1-f623-411b-a699-8529daf744a6",
+      "latitude": -34.914433,
+      "longitude": 138.577883,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Southwark",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
-      "reported_at": "2026-03-31T23:06:05Z"
-    },
-    {
-      "id": "1fe592db-1958-458d-bf8a-a457d4704486",
-      "latitude": -35.026339,
-      "longitude": 138.793165,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
-      "reported_at": "2026-03-31T23:17:34Z"
+      "timestamp": "2026-04-01T00:00:23Z",
+      "reported_at": "2026-03-31T23:43:02Z"
     },
     {
       "id": "fd930a55-7ee5-40fd-91ae-8dfe0957e1df",
-      "latitude": -35.046637,
-      "longitude": 138.549819,
+      "latitude": -35.045961,
+      "longitude": 138.550461,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
+      "timestamp": "2026-04-01T00:00:23Z",
       "reported_at": "2026-03-31T23:17:51Z"
     },
     {
-      "id": "dc490e0d-cae4-4c3e-9106-18fbbe192978",
-      "latitude": -34.834077,
-      "longitude": 138.539459,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "282c0d1a-a745-4881-8a60-66ae38d773b6",
+      "latitude": -35.025878,
+      "longitude": 138.791318,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-03-31T23:30:22Z",
-      "reported_at": "2026-03-31T23:07:45Z"
+      "timestamp": "2026-04-01T00:00:23Z",
+      "reported_at": "2026-03-31T22:57:24Z"
     }
   ]
 }
