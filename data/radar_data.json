@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "a50da55c-1a75-4700-bd4d-a676cdc29b52",
-      "latitude": -35.025858,
-      "longitude": 138.528169,
-      "street": "Folkestone Rd",
-      "city": "South Brighton",
+      "id": "92e37187-dfe8-4aa8-ad6f-2d03299750b3",
+      "latitude": -35.02962,
+      "longitude": 138.620425,
+      "street": "Coromandel Pde",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-03-31T22:06:02Z"
+      "timestamp": "2026-04-01T03:00:24Z",
+      "reported_at": "2026-04-01T02:39:58Z"
     },
     {
-      "id": "adab7f43-a8aa-41d8-aba6-eca2a1aa84e6",
-      "latitude": -34.912904,
-      "longitude": 138.509476,
-      "street": "Marlborough St",
-      "city": "Fulham Gardens",
+      "id": "d99c0c59-a643-46f7-84ec-2de32f99263a",
+      "latitude": -35.009344,
+      "longitude": 138.534676,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-04-01T00:59:23Z"
+      "timestamp": "2026-04-01T03:00:24Z",
+      "reported_at": "2026-04-01T02:22:26Z"
     },
     {
       "id": "0c313819-3e61-41de-b32a-111b520db353",
@@ -27,8 +27,18 @@
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
+      "timestamp": "2026-04-01T03:00:24Z",
       "reported_at": "2026-03-31T21:56:39Z"
+    },
+    {
+      "id": "adab7f43-a8aa-41d8-aba6-eca2a1aa84e6",
+      "latitude": -34.912904,
+      "longitude": 138.509476,
+      "street": "Marlborough St",
+      "city": "Fulham Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-01T03:00:24Z",
+      "reported_at": "2026-04-01T00:59:23Z"
     },
     {
       "id": "bca3df61-c5f7-4c2c-9a6b-69c49c27b65f",
@@ -37,28 +47,8 @@
       "street": "Sturt Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
+      "timestamp": "2026-04-01T03:00:24Z",
       "reported_at": "2026-03-31T21:18:19Z"
-    },
-    {
-      "id": "f43e515e-3b1c-4135-95b6-7ec08d34015c",
-      "latitude": -34.832192,
-      "longitude": 138.7107,
-      "street": "Smart Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-04-01T01:36:53Z"
-    },
-    {
-      "id": "927f6471-0b69-44ab-9fcf-d730076f1a29",
-      "latitude": -35.081932,
-      "longitude": 138.513141,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-04-01T01:48:03Z"
     },
     {
       "id": "e6b9eafd-5e79-4d39-99a1-a1eb611db825",
@@ -67,38 +57,28 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
+      "timestamp": "2026-04-01T03:00:24Z",
       "reported_at": "2026-04-01T00:54:37Z"
     },
     {
-      "id": "b37c47dd-de83-4cf5-a855-7d20fc6ecafc",
-      "latitude": -35.072677,
-      "longitude": 138.552648,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-04-01T00:05:32Z"
-    },
-    {
-      "id": "784caa6f-17f4-4a8d-ae41-61bed7846bc2",
-      "latitude": -35.049428,
-      "longitude": 138.533565,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
-      "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-03-31T22:02:20Z"
-    },
-    {
-      "id": "a5338de9-a5e6-4c39-ba41-b7cf181d3d55",
-      "latitude": -35.046409,
-      "longitude": 138.550033,
+      "id": "714db96a-9562-4685-a0f9-213dbc4811df",
+      "latitude": -35.046329,
+      "longitude": 138.55011,
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-04-01T02:00:23Z",
-      "reported_at": "2026-04-01T00:50:53Z"
+      "timestamp": "2026-04-01T03:00:24Z",
+      "reported_at": "2026-04-01T00:05:04Z"
+    },
+    {
+      "id": "ec9cd932-fb21-4f64-840b-e15569e7fc38",
+      "latitude": -35.054172,
+      "longitude": 138.546077,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-01T03:00:24Z",
+      "reported_at": "2026-04-01T02:42:49Z"
     }
   ]
 }
