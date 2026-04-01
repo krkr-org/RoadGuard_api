@@ -1,13 +1,33 @@
 {
   "radars": [
     {
+      "id": "d99c0c59-a643-46f7-84ec-2de32f99263a",
+      "latitude": -35.009344,
+      "longitude": 138.534676,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-01T05:30:22Z",
+      "reported_at": "2026-04-01T02:22:26Z"
+    },
+    {
+      "id": "5fe22639-3e7d-4fb2-b800-ab1eba415bfd",
+      "latitude": -34.833646,
+      "longitude": 138.610343,
+      "street": "Unknown Street",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-01T05:30:22Z",
+      "reported_at": "2026-04-01T04:57:34Z"
+    },
+    {
       "id": "a87022b2-f959-49bb-87ff-06fe02d02918",
       "latitude": -35.029937,
       "longitude": 138.620496,
       "street": "Coromandel Pde",
       "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
+      "timestamp": "2026-04-01T05:30:22Z",
       "reported_at": "2026-04-01T02:20:40Z"
     },
     {
@@ -17,7 +37,7 @@
       "street": "Folkestone Rd",
       "city": "South Brighton",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
+      "timestamp": "2026-04-01T05:30:22Z",
       "reported_at": "2026-04-01T01:52:09Z"
     },
     {
@@ -27,28 +47,18 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
+      "timestamp": "2026-04-01T05:30:22Z",
       "reported_at": "2026-04-01T04:22:28Z"
     },
     {
-      "id": "d99c0c59-a643-46f7-84ec-2de32f99263a",
-      "latitude": -35.009344,
-      "longitude": 138.534676,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
+      "id": "74c75072-498d-4a98-8a54-2d108fcbf62b",
+      "latitude": -34.818062,
+      "longitude": 138.637936,
+      "street": "Research Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T02:22:26Z"
-    },
-    {
-      "id": "b3e82fc6-cfca-4f1c-b79c-0c647d8b7057",
-      "latitude": -34.930102,
-      "longitude": 138.534423,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T04:33:50Z"
+      "timestamp": "2026-04-01T05:30:22Z",
+      "reported_at": "2026-04-01T05:12:36Z"
     },
     {
       "id": "a0ff1746-a6f3-4ced-bd62-4ae1692ef50c",
@@ -57,68 +67,28 @@
       "street": "Miller St",
       "city": "Seacombe Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
+      "timestamp": "2026-04-01T05:30:22Z",
       "reported_at": "2026-04-01T01:24:07Z"
     },
     {
-      "id": "adab7f43-a8aa-41d8-aba6-eca2a1aa84e6",
-      "latitude": -34.912904,
-      "longitude": 138.509476,
-      "street": "Marlborough St",
-      "city": "Fulham Gardens",
+      "id": "58336962-e613-4bc3-a8c5-30cb883ee457",
+      "latitude": -34.83645,
+      "longitude": 138.6303,
+      "street": "Wright Rd",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T00:59:23Z"
+      "timestamp": "2026-04-01T05:30:22Z",
+      "reported_at": "2026-04-01T05:21:18Z"
     },
     {
-      "id": "649483fb-b1b7-403a-a37b-28e3779f4b0f",
-      "latitude": -35.018541,
-      "longitude": 138.536002,
-      "street": "Sturt Rd",
-      "city": "Warradale",
+      "id": "2f5dca5b-28f4-4897-8ce1-784017516602",
+      "latitude": -34.958298,
+      "longitude": 138.739522,
+      "street": "B26 - Greenhill Rd",
+      "city": "Uraidla",
       "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-03-31T21:09:53Z"
-    },
-    {
-      "id": "e5d1a482-6a32-4420-85e4-71bdc0a71946",
-      "latitude": -34.927483,
-      "longitude": 138.63103,
-      "street": "Kensington Rd",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T03:33:13Z"
-    },
-    {
-      "id": "15622653-2362-4fb8-b00d-2c0a31aabd4e",
-      "latitude": -34.773729,
-      "longitude": 138.647212,
-      "street": "Cross Keys Rd",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T04:35:24Z"
-    },
-    {
-      "id": "7b847bc1-43dc-46d9-ae8a-3f349e5c6cca",
-      "latitude": -34.932252,
-      "longitude": 138.552522,
-      "street": "A14 - Marion Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T04:45:52Z"
-    },
-    {
-      "id": "3a3cc92c-a7d4-4df7-b6b8-4109f5728e68",
-      "latitude": -35.099168,
-      "longitude": 138.516299,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-01T05:00:23Z",
-      "reported_at": "2026-04-01T04:57:10Z"
+      "timestamp": "2026-04-01T05:30:22Z",
+      "reported_at": "2026-04-01T05:07:00Z"
     }
   ]
 }
