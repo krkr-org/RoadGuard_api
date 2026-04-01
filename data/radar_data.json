@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "92e37187-dfe8-4aa8-ad6f-2d03299750b3",
-      "latitude": -35.02962,
-      "longitude": 138.620425,
-      "street": "Coromandel Pde",
-      "city": "Blackwood",
+      "id": "03bda811-52ad-4a0b-889e-80b220634ca2",
+      "latitude": -35.025687,
+      "longitude": 138.531847,
+      "street": "Folkestone Rd",
+      "city": "South Brighton",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
-      "reported_at": "2026-04-01T02:39:58Z"
+      "timestamp": "2026-04-01T03:30:22Z",
+      "reported_at": "2026-04-01T01:52:09Z"
     },
     {
       "id": "d99c0c59-a643-46f7-84ec-2de32f99263a",
@@ -17,8 +17,18 @@
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
+      "timestamp": "2026-04-01T03:30:22Z",
       "reported_at": "2026-04-01T02:22:26Z"
+    },
+    {
+      "id": "92e37187-dfe8-4aa8-ad6f-2d03299750b3",
+      "latitude": -35.02962,
+      "longitude": 138.620425,
+      "street": "Coromandel Pde",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-04-01T03:30:22Z",
+      "reported_at": "2026-04-01T02:39:58Z"
     },
     {
       "id": "0c313819-3e61-41de-b32a-111b520db353",
@@ -27,7 +37,7 @@
       "street": "Bradley Gr",
       "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
+      "timestamp": "2026-04-01T03:30:22Z",
       "reported_at": "2026-03-31T21:56:39Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "Marlborough St",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
+      "timestamp": "2026-04-01T03:30:22Z",
       "reported_at": "2026-04-01T00:59:23Z"
     },
     {
@@ -47,8 +57,18 @@
       "street": "Sturt Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
+      "timestamp": "2026-04-01T03:30:22Z",
       "reported_at": "2026-03-31T21:18:19Z"
+    },
+    {
+      "id": "e602471f-d717-430f-9cb5-86628deb4767",
+      "latitude": -35.048303,
+      "longitude": 138.559954,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-01T03:30:22Z",
+      "reported_at": "2026-04-01T03:22:35Z"
     },
     {
       "id": "e6b9eafd-5e79-4d39-99a1-a1eb611db825",
@@ -57,28 +77,18 @@
       "street": "B34 - Echunga Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
+      "timestamp": "2026-04-01T03:30:22Z",
       "reported_at": "2026-04-01T00:54:37Z"
     },
     {
-      "id": "714db96a-9562-4685-a0f9-213dbc4811df",
-      "latitude": -35.046329,
-      "longitude": 138.55011,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "ba67866f-a1ba-45ab-9469-cc406738b8d8",
+      "latitude": -35.099204,
+      "longitude": 138.532811,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
-      "reported_at": "2026-04-01T00:05:04Z"
-    },
-    {
-      "id": "ec9cd932-fb21-4f64-840b-e15569e7fc38",
-      "latitude": -35.054172,
-      "longitude": 138.546077,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-01T03:00:24Z",
-      "reported_at": "2026-04-01T02:42:49Z"
+      "timestamp": "2026-04-01T03:30:22Z",
+      "reported_at": "2026-04-01T03:09:22Z"
     }
   ]
 }
