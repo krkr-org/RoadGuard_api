@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "e6e1976e-b3b6-4903-94bb-7df46d27e177",
-      "latitude": -34.912126,
-      "longitude": 138.538026,
+      "id": "d268f4db-bab9-4c96-97c6-721356a17a88",
+      "latitude": -34.912166,
+      "longitude": 138.53749,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T07:51:25Z"
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T09:26:05Z"
     },
     {
       "id": "cc5b57e2-fbc1-4aa0-a067-e61bd0df99dc",
@@ -17,7 +17,7 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T08:09:43Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T06:16:36Z"
     },
     {
@@ -37,28 +37,38 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T06:16:41Z"
     },
     {
-      "id": "5c0c2233-8ab1-4077-a80b-929c8bcbeb3e",
-      "latitude": -34.929517,
-      "longitude": 138.542415,
+      "id": "e1b1515c-0f20-49f2-b9a3-bc2b8b7098fa",
+      "latitude": -34.930328,
+      "longitude": 138.542149,
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T06:55:48Z"
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T06:38:38Z"
     },
     {
-      "id": "2227a04f-febf-4041-a080-fc3108c6c505",
-      "latitude": -34.880048,
-      "longitude": 138.571361,
-      "street": "South Rd",
+      "id": "51488dfb-b294-447d-92a4-9b0325efac83",
+      "latitude": -34.898863,
+      "longitude": 138.691039,
+      "street": "Stradbroke Rd",
+      "city": "Rostrevor",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T09:42:58Z"
+    },
+    {
+      "id": "e8d1c3ab-1dd9-47c1-9b86-60b50bcb543a",
+      "latitude": -34.879867,
+      "longitude": 138.571417,
+      "street": "to South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T06:18:07Z"
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T05:40:27Z"
     },
     {
       "id": "f45559b2-f22b-4c14-b369-df5f51abf028",
@@ -67,18 +77,18 @@
       "street": "Unknown Street",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T05:00:35Z"
     },
     {
-      "id": "f91a0569-4598-4602-892f-d37268de6693",
-      "latitude": -35.020415,
-      "longitude": 138.582002,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "c415482d-47ea-4464-be04-321caf61b1d9",
+      "latitude": -35.016972,
+      "longitude": 138.561358,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T09:13:51Z"
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T09:46:38Z"
     },
     {
       "id": "25900eef-c9cd-4381-b94d-5b8e2ae48923",
@@ -87,8 +97,48 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T05:03:06Z"
+    },
+    {
+      "id": "721de5bf-02f9-42ab-97d7-c151ff4db437",
+      "latitude": -35.046081,
+      "longitude": 138.531786,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T08:49:49Z"
+    },
+    {
+      "id": "17a33d10-be19-4dc4-b165-5673930a8b45",
+      "latitude": -34.897743,
+      "longitude": 138.56028,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T07:55:50Z"
+    },
+    {
+      "id": "77fea2d8-22d8-4017-87b9-9a7c21c21835",
+      "latitude": -34.975952,
+      "longitude": 138.525513,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T06:19:49Z"
+    },
+    {
+      "id": "ee3a8a35-d9ef-464e-a0cd-2e01a28d7ced",
+      "latitude": -34.929884,
+      "longitude": 138.517547,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T09:47:43Z"
     },
     {
       "id": "7fcc1fe3-1dcd-45ad-a26c-41f875620465",
@@ -97,58 +147,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T07:27:34Z"
-    },
-    {
-      "id": "dc93f98f-ac97-4a45-90b3-5fffb09b102b",
-      "latitude": -34.929542,
-      "longitude": 138.517551,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T07:29:58Z"
-    },
-    {
-      "id": "3bb8ae9d-fcbf-446f-96d3-789e1aaad2a3",
-      "latitude": -34.894421,
-      "longitude": 138.643915,
-      "street": "A11 - Payneham Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T09:15:00Z"
-    },
-    {
-      "id": "75ad30d7-779c-40d5-940f-76773d832b59",
-      "latitude": -34.975899,
-      "longitude": 138.526643,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T04:52:35Z"
-    },
-    {
-      "id": "397cb785-dc10-4d55-b8a6-11a3c6dbcb9d",
-      "latitude": -34.897505,
-      "longitude": 138.559917,
-      "street": "A7 - Port Rd",
-      "city": "Welland",
-      "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T04:59:17Z"
-    },
-    {
-      "id": "ccebf497-a781-44ad-8251-3fd9a6d864ba",
-      "latitude": -34.97497,
-      "longitude": 138.538029,
-      "street": "A5 - Anzac Hwy",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
-      "reported_at": "2026-04-02T09:05:05Z"
     },
     {
       "id": "27118e11-b3c7-4a02-a461-bb9c9735e121",
@@ -157,7 +157,7 @@
       "street": "A20 - Main North Rd",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T09:24:41Z"
     },
     {
@@ -167,8 +167,28 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-02T09:30:23Z",
+      "timestamp": "2026-04-02T10:00:23Z",
       "reported_at": "2026-04-02T09:20:29Z"
+    },
+    {
+      "id": "0373d46a-8c05-4225-a1da-aba30dcbe84f",
+      "latitude": -35.06521,
+      "longitude": 138.545169,
+      "street": "M2 - Southern Exp",
+      "city": "Trott Park",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T09:53:04Z"
+    },
+    {
+      "id": "80597813-6254-4e56-88bc-9e1b560c7b7a",
+      "latitude": -34.878785,
+      "longitude": 138.571553,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-04-02T10:00:23Z",
+      "reported_at": "2026-04-02T07:50:37Z"
     }
   ]
 }
