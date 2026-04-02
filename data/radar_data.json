@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "1f56b439-f63f-4c44-9fd3-08c31cd44dac",
-      "latitude": -34.899248,
-      "longitude": 138.589262,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "13b0c0e8-6a20-41f3-9264-1eda3f7e7cfe",
+      "latitude": -34.87,
+      "longitude": 138.665729,
+      "street": "Unknown Street",
+      "city": "Unknown City",
       "type": "mobile",
-      "timestamp": "2026-04-02T21:00:26Z",
-      "reported_at": "2026-04-02T20:08:47Z"
+      "timestamp": "2026-04-02T21:30:23Z",
+      "reported_at": "2026-04-02T21:13:43Z"
+    },
+    {
+      "id": "b756a33a-3d5d-4ff4-8263-bbd5665d2e36",
+      "latitude": -34.925921,
+      "longitude": 138.579414,
+      "street": "R1 - James Congdon Dr (City Ring Route)",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-04-02T21:30:23Z",
+      "reported_at": "2026-04-02T20:55:20Z"
+    },
+    {
+      "id": "6efacb4e-fecc-4590-be6c-cc49a343b731",
+      "latitude": -34.901916,
+      "longitude": 138.585004,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
+      "type": "mobile",
+      "timestamp": "2026-04-02T21:30:23Z",
+      "reported_at": "2026-04-02T21:24:07Z"
     }
   ]
 }
