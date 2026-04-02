@@ -7,7 +7,7 @@
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
+      "timestamp": "2026-04-02T12:30:22Z",
       "reported_at": "2026-04-02T09:26:05Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
+      "timestamp": "2026-04-02T12:30:22Z",
       "reported_at": "2026-04-02T09:45:07Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Brooker Tce",
       "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
+      "timestamp": "2026-04-02T12:30:22Z",
       "reported_at": "2026-04-02T08:09:43Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
+      "timestamp": "2026-04-02T12:30:22Z",
       "reported_at": "2026-04-02T06:55:48Z"
+    },
+    {
+      "id": "9753e5fd-891e-4422-9f3e-b462d4697578",
+      "latitude": -34.92341,
+      "longitude": 138.578182,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-04-02T12:30:22Z",
+      "reported_at": "2026-04-02T12:06:51Z"
     },
     {
       "id": "14a4db75-707e-486f-afc1-d6a50c366f63",
@@ -47,38 +57,8 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
+      "timestamp": "2026-04-02T12:30:22Z",
       "reported_at": "2026-04-02T10:23:29Z"
-    },
-    {
-      "id": "fa43a89e-94ea-408d-a8ce-437601509876",
-      "latitude": -35.071054,
-      "longitude": 138.583197,
-      "street": "Happy Valley Dr",
-      "city": "Happy Valley",
-      "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
-      "reported_at": "2026-04-02T11:43:26Z"
-    },
-    {
-      "id": "93163049-a860-4744-b654-eabdb192c7dd",
-      "latitude": -34.87429,
-      "longitude": 138.587304,
-      "street": "Regency Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
-      "reported_at": "2026-04-02T11:37:01Z"
-    },
-    {
-      "id": "0e1b36ce-3006-4da6-85bb-f9469dea10f8",
-      "latitude": -34.925144,
-      "longitude": 138.517137,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
-      "reported_at": "2026-04-02T11:47:57Z"
     },
     {
       "id": "f619612f-d08b-438b-811a-bb1d6487c022",
@@ -87,18 +67,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
+      "timestamp": "2026-04-02T12:30:22Z",
       "reported_at": "2026-04-02T11:53:38Z"
-    },
-    {
-      "id": "624ebe50-1221-4059-bb6e-417a01ea7b39",
-      "latitude": -34.840921,
-      "longitude": 138.514883,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-02T12:00:28Z",
-      "reported_at": "2026-04-02T11:46:14Z"
     }
   ]
 }
