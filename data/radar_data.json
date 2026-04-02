@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "6519ba6c-97a8-4222-a3b2-7ed67a96240a",
+      "latitude": -34.79651,
+      "longitude": 138.649078,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T23:25:16Z"
+    },
+    {
+      "id": "3c98be49-e52a-468e-8157-c70ead341418",
+      "latitude": -34.917828,
+      "longitude": 138.627289,
+      "street": "Sydenham Rd",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-02T00:40:07Z"
+    },
+    {
       "id": "28c0a891-fdde-4d1a-a39c-a0d6848a2621",
       "latitude": -34.94344,
       "longitude": 138.500826,
       "street": "Seaview Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-01T22:24:42Z"
     },
     {
-      "id": "7f3271fe-6ce7-4bf8-96f4-572e4619b4d4",
-      "latitude": -34.679372,
-      "longitude": 138.681599,
+      "id": "e72f3bbd-fd40-4217-ad55-beb693f374ae",
+      "latitude": -34.680839,
+      "longitude": 138.680671,
       "street": "Coventry Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
-      "reported_at": "2026-04-01T23:49:22Z"
-    },
-    {
-      "id": "02f5b703-ab9c-4df6-bef2-38eff70c95b2",
-      "latitude": -34.701375,
-      "longitude": 138.687568,
-      "street": "Midway Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
-      "reported_at": "2026-04-01T21:42:00Z"
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T23:00:43Z"
     },
     {
       "id": "a96849c2-6808-4e97-bc0d-f621d0273812",
@@ -37,28 +47,28 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-01T22:48:44Z"
     },
     {
-      "id": "abb5622a-cb34-4ed6-9311-25b45ec9938f",
-      "latitude": -35.009658,
-      "longitude": 138.567979,
-      "street": "Unknown Street",
-      "city": "Tonsley",
+      "id": "3e35e72e-dc92-46d4-b6ea-cfeb7c90ac0e",
+      "latitude": -34.701611,
+      "longitude": 138.688112,
+      "street": "Midway Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
-      "reported_at": "2026-04-01T20:42:47Z"
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T21:37:51Z"
     },
     {
-      "id": "7aa52096-18d5-4162-8dc0-b1167d006232",
-      "latitude": -34.694642,
-      "longitude": 138.666811,
-      "street": "Peachey Rd",
-      "city": "Davoren Park",
+      "id": "08a72cfb-8902-4112-a20a-8c77585e1403",
+      "latitude": -34.833533,
+      "longitude": 138.675182,
+      "street": "Kelly Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
-      "reported_at": "2026-04-01T21:46:07Z"
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-02T00:35:27Z"
     },
     {
       "id": "04d63ce3-240f-44bc-8f24-382cecf9a8df",
@@ -67,8 +77,18 @@
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-01T22:57:52Z"
+    },
+    {
+      "id": "8cd3ee59-3bd5-4e12-a0c3-52d75eb53667",
+      "latitude": -34.703228,
+      "longitude": 138.702441,
+      "street": "Adams Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T23:04:09Z"
     },
     {
       "id": "95e4e0b0-c923-4873-a517-b171adec3e68",
@@ -77,28 +97,18 @@
       "street": "Hogarth Rd",
       "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-01T21:30:42Z"
     },
     {
-      "id": "b6621cb3-aaa9-48d8-b523-11336aa75a73",
-      "latitude": -34.742616,
-      "longitude": 138.706837,
+      "id": "bdbf84e1-9baa-4110-812c-90b815afc2aa",
+      "latitude": -34.742439,
+      "longitude": 138.708257,
       "street": "Black Top Rd",
       "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
-      "reported_at": "2026-04-01T21:41:28Z"
-    },
-    {
-      "id": "8a2d74b9-30dc-4b1e-ac45-058a5e2845e4",
-      "latitude": -34.703479,
-      "longitude": 138.702298,
-      "street": "Adams Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
-      "reported_at": "2026-04-01T23:31:37Z"
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T22:36:45Z"
     },
     {
       "id": "2cca3f21-385b-41c6-8561-289fee86b8c8",
@@ -107,8 +117,38 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-01T23:18:19Z"
+    },
+    {
+      "id": "7aa52096-18d5-4162-8dc0-b1167d006232",
+      "latitude": -34.694642,
+      "longitude": 138.666811,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T21:46:07Z"
+    },
+    {
+      "id": "0c4b9c0c-fff8-4d4b-8307-586f8e0c5f25",
+      "latitude": -34.841254,
+      "longitude": 138.591412,
+      "street": "A22 - Cavan Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-01T21:07:32Z"
+    },
+    {
+      "id": "c95ea38d-f55d-496a-bbf6-d8f13a703060",
+      "latitude": -34.861524,
+      "longitude": 138.601189,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-02T00:39:12Z"
     },
     {
       "id": "814b33ae-d3b8-4817-a24e-de1b20385d14",
@@ -117,8 +157,18 @@
       "street": "A22 - Cavan Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-01T23:57:45Z"
+    },
+    {
+      "id": "6fb36ae7-2fd9-4b26-8b6f-9a4638baa00d",
+      "latitude": -34.890667,
+      "longitude": 138.585216,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-02T01:00:24Z",
+      "reported_at": "2026-04-02T00:30:54Z"
     },
     {
       "id": "d18c993e-fb1e-4720-9e5d-af69e9b9ac01",
@@ -127,7 +177,7 @@
       "street": "A9 - John Rice Av",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-02T00:30:23Z",
+      "timestamp": "2026-04-02T01:00:24Z",
       "reported_at": "2026-04-02T00:06:02Z"
     }
   ]
