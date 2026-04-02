@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "ed6309a9-6773-4a2b-9883-4fae5068af28",
-      "latitude": -34.930456,
-      "longitude": 138.593345,
-      "street": "Gouger St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-02T03:05:09Z"
-    },
-    {
-      "id": "7f3271fe-6ce7-4bf8-96f4-572e4619b4d4",
-      "latitude": -34.679372,
-      "longitude": 138.681599,
+      "id": "98ecdda6-2326-4044-97a8-b7517a6864c7",
+      "latitude": -34.679148,
+      "longitude": 138.681743,
       "street": "Coventry Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-01T23:49:22Z"
+      "timestamp": "2026-04-02T04:00:23Z",
+      "reported_at": "2026-04-02T00:20:20Z"
     },
     {
-      "id": "02f5b703-ab9c-4df6-bef2-38eff70c95b2",
-      "latitude": -34.701375,
-      "longitude": 138.687568,
-      "street": "Midway Rd",
-      "city": "Elizabeth Downs",
+      "id": "3ce1a63d-0e07-4bd4-840b-d106a61c8908",
+      "latitude": -34.926342,
+      "longitude": 138.599686,
+      "street": "King William St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-01T21:42:00Z"
-    },
-    {
-      "id": "90f9531c-c14c-4667-b5b6-74e07678e58b",
-      "latitude": -34.868605,
-      "longitude": 138.636966,
-      "street": "Fosters Rd",
-      "city": "Greenacres",
-      "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-02T03:04:06Z"
-    },
-    {
-      "id": "452cc02c-d32a-492f-a3db-7cf2fc5d118c",
-      "latitude": -34.707388,
-      "longitude": 138.69976,
-      "street": "Adams Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-02T02:49:22Z"
+      "timestamp": "2026-04-02T04:00:23Z",
+      "reported_at": "2026-04-02T03:41:15Z"
     },
     {
       "id": "1e1a2b79-073c-4785-9a88-349c88b980b0",
@@ -57,8 +27,18 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
+      "timestamp": "2026-04-02T04:00:23Z",
       "reported_at": "2026-04-02T00:06:34Z"
+    },
+    {
+      "id": "452cc02c-d32a-492f-a3db-7cf2fc5d118c",
+      "latitude": -34.707388,
+      "longitude": 138.69976,
+      "street": "Adams Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-02T04:00:23Z",
+      "reported_at": "2026-04-02T02:49:22Z"
     },
     {
       "id": "e08bb7c8-f985-4be8-9d70-4bcdcfcd571f",
@@ -67,38 +47,28 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
+      "timestamp": "2026-04-02T04:00:23Z",
       "reported_at": "2026-04-01T21:37:05Z"
     },
     {
-      "id": "86f848a2-366d-4a40-9fbc-3ff1084069c6",
-      "latitude": -34.954054,
-      "longitude": 138.570307,
-      "street": "A5 - Anzac Hwy",
-      "city": "Kurralta Park",
+      "id": "39e46ebe-d1a0-492b-8180-251d2a399f15",
+      "latitude": -34.885728,
+      "longitude": 138.543079,
+      "street": "A7 - Port Rd",
+      "city": "Woodville Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-02T03:25:59Z"
+      "timestamp": "2026-04-02T04:00:23Z",
+      "reported_at": "2026-04-02T03:49:10Z"
     },
     {
-      "id": "02db324e-c803-40ac-83d2-44e332ca418e",
-      "latitude": -34.987431,
-      "longitude": 138.610358,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
+      "id": "bf0b1ab0-b5e7-41b8-b5ec-559341448016",
+      "latitude": -35.101607,
+      "longitude": 138.513666,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-02T03:19:09Z"
-    },
-    {
-      "id": "074548c8-7d16-4efe-8b55-22b4b5bf52d8",
-      "latitude": -34.97248,
-      "longitude": 138.627042,
-      "street": "B28 - Fullarton Rd",
-      "city": "Netherby",
-      "type": "mobile",
-      "timestamp": "2026-04-02T03:30:22Z",
-      "reported_at": "2026-04-02T03:28:58Z"
+      "timestamp": "2026-04-02T04:00:23Z",
+      "reported_at": "2026-04-02T03:50:43Z"
     }
   ]
 }
