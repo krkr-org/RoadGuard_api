@@ -1,44 +1,44 @@
 {
   "radars": [
     {
+      "id": "e9da98fd-7766-4e1b-8236-6f0d7a235b71",
+      "latitude": -34.937737,
+      "longitude": 138.650345,
+      "street": "Northumberland St",
+      "city": "Tusmore",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T05:04:53Z"
+    },
+    {
+      "id": "3186b785-f3ff-4243-a0e6-5598ee4437e4",
+      "latitude": -34.930014,
+      "longitude": 138.534416,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:08:09Z"
+    },
+    {
       "id": "64258a9b-947e-4b66-8ed6-46311b2ac4bc",
       "latitude": -34.912178,
       "longitude": 138.537259,
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
+      "timestamp": "2026-04-02T06:30:26Z",
       "reported_at": "2026-04-02T04:47:30Z"
     },
     {
-      "id": "406f1a80-644e-4e00-bb79-b34d2c01ac58",
-      "latitude": -34.929376,
-      "longitude": 138.542457,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
+      "id": "3b0d53ea-5a07-4ce4-a6c9-97a232357108",
+      "latitude": -34.969233,
+      "longitude": 138.5283,
+      "street": "Pine Av",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T04:37:02Z"
-    },
-    {
-      "id": "7dab33f8-a866-4e62-b470-d6a10dcee63b",
-      "latitude": -34.912736,
-      "longitude": 138.667698,
-      "street": "Gladstone Av",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:53:15Z"
-    },
-    {
-      "id": "e8d1c3ab-1dd9-47c1-9b86-60b50bcb543a",
-      "latitude": -34.87918,
-      "longitude": 138.571412,
-      "street": "to South Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:40:27Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:16:36Z"
     },
     {
       "id": "f45559b2-f22b-4c14-b369-df5f51abf028",
@@ -47,8 +47,28 @@
       "street": "Unknown Street",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
+      "timestamp": "2026-04-02T06:30:26Z",
       "reported_at": "2026-04-02T05:00:35Z"
+    },
+    {
+      "id": "516d9442-4d84-4529-b8b0-28965ebc84f3",
+      "latitude": -34.853197,
+      "longitude": 138.502306,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:22:38Z"
+    },
+    {
+      "id": "24905529-52b6-4ffc-a98b-b0a6b4c65a34",
+      "latitude": -34.856282,
+      "longitude": 138.502333,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T04:52:22Z"
     },
     {
       "id": "e0249f06-5437-4032-8bf6-f65601de4eaa",
@@ -57,18 +77,28 @@
       "street": "Majors Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
+      "timestamp": "2026-04-02T06:30:26Z",
       "reported_at": "2026-04-02T05:07:17Z"
     },
     {
-      "id": "25900eef-c9cd-4381-b94d-5b8e2ae48923",
-      "latitude": -34.901488,
-      "longitude": 138.541282,
+      "id": "c8e69ee4-55f4-4e14-a6da-b28ddb8c0376",
+      "latitude": -34.980453,
+      "longitude": 138.560234,
+      "street": "Raglan Av",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:24:28Z"
+    },
+    {
+      "id": "89fd47b8-f5fd-431b-9491-908a8ae892ad",
+      "latitude": -34.901462,
+      "longitude": 138.541386,
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:03:06Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T04:55:17Z"
     },
     {
       "id": "db552d57-3a88-46ab-99fc-ca18f6e0a720",
@@ -77,48 +107,58 @@
       "street": "Adams Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
+      "timestamp": "2026-04-02T06:30:26Z",
       "reported_at": "2026-04-02T04:09:41Z"
     },
     {
-      "id": "98e98706-26a4-483c-91b6-ba547638e558",
-      "latitude": -34.975996,
-      "longitude": 138.527438,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
+      "id": "9b859225-3299-4f57-8a7c-53448649c8a0",
+      "latitude": -35.053482,
+      "longitude": 138.559583,
+      "street": "A13 - Main South Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:07:17Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:27:03Z"
     },
     {
-      "id": "762d615d-2250-4062-9b31-ade21cc70d5a",
-      "latitude": -34.933082,
-      "longitude": 138.534268,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:42:22Z"
-    },
-    {
-      "id": "b4112526-4e4a-4e9b-9a84-6cc5c599c9cc",
-      "latitude": -34.930832,
-      "longitude": 138.51763,
+      "id": "9af9f564-72b8-4524-aab6-610c9e4f649d",
+      "latitude": -34.930945,
+      "longitude": 138.517627,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T04:42:33Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:18:33Z"
     },
     {
-      "id": "5fefbeff-28ba-48a8-9a15-c1f4d2f2f44b",
-      "latitude": -34.899008,
-      "longitude": 138.562188,
+      "id": "4bf301ae-707f-4daa-9aa9-c0462998665b",
+      "latitude": -34.898371,
+      "longitude": 138.561226,
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:44:53Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T05:35:45Z"
+    },
+    {
+      "id": "6972d1c6-e24b-4d5f-8e73-735392bd5f2d",
+      "latitude": -34.883102,
+      "longitude": 138.621894,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:16:38Z"
+    },
+    {
+      "id": "b2315639-f094-4781-842e-9504d3d13aa1",
+      "latitude": -34.932989,
+      "longitude": 138.535378,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T05:13:51Z"
     },
     {
       "id": "397cb785-dc10-4d55-b8a6-11a3c6dbcb9d",
@@ -127,28 +167,28 @@
       "street": "A7 - Port Rd",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
+      "timestamp": "2026-04-02T06:30:26Z",
       "reported_at": "2026-04-02T04:59:17Z"
     },
     {
-      "id": "7a2b2984-4c77-4321-8a18-c53f1e62128a",
-      "latitude": -34.772777,
-      "longitude": 138.616146,
-      "street": "Unknown Street",
-      "city": "Unknown City",
+      "id": "b36bf4fc-b4f0-45bb-94b8-2bcd1e6bb276",
+      "latitude": -34.976137,
+      "longitude": 138.524577,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg East",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T04:43:18Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:05:31Z"
     },
     {
-      "id": "4655bb24-da38-4111-8404-7c2727e76245",
-      "latitude": -34.882042,
-      "longitude": 138.571739,
-      "street": "M2 - North-South Mwy",
-      "city": "Renown Park",
+      "id": "b76566e6-16e4-433b-b693-28fd0486f93f",
+      "latitude": -34.783631,
+      "longitude": 138.653856,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury South",
       "type": "mobile",
-      "timestamp": "2026-04-02T06:00:26Z",
-      "reported_at": "2026-04-02T05:48:27Z"
+      "timestamp": "2026-04-02T06:30:26Z",
+      "reported_at": "2026-04-02T06:23:52Z"
     }
   ]
 }
