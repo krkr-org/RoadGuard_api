@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "e6e1976e-b3b6-4903-94bb-7df46d27e177",
+      "latitude": -34.912126,
+      "longitude": 138.538026,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T07:51:25Z"
+    },
+    {
       "id": "e9da98fd-7766-4e1b-8236-6f0d7a235b71",
       "latitude": -34.937737,
       "longitude": 138.650345,
       "street": "Northumberland St",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T05:04:53Z"
-    },
-    {
-      "id": "64258a9b-947e-4b66-8ed6-46311b2ac4bc",
-      "latitude": -34.912178,
-      "longitude": 138.537259,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T04:47:30Z"
     },
     {
       "id": "3b0d53ea-5a07-4ce4-a6c9-97a232357108",
@@ -27,18 +27,18 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T06:16:36Z"
     },
     {
-      "id": "929a4970-7f25-431f-be9a-c8df8d8c8d6c",
-      "latitude": -34.901372,
-      "longitude": 138.576218,
-      "street": "Chief St",
-      "city": "Brompton",
+      "id": "cc5b57e2-fbc1-4aa0-a067-e61bd0df99dc",
+      "latitude": -34.937665,
+      "longitude": 138.561932,
+      "street": "Brooker Tce",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T06:28:02Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T08:09:43Z"
     },
     {
       "id": "5c0c2233-8ab1-4077-a80b-929c8bcbeb3e",
@@ -47,8 +47,18 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T06:55:48Z"
+    },
+    {
+      "id": "4b3e0ed5-fe68-4fc9-81cc-0dfd0d99627c",
+      "latitude": -34.901214,
+      "longitude": 138.576375,
+      "street": "Chief St",
+      "city": "Brompton",
+      "type": "mobile",
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T06:16:41Z"
     },
     {
       "id": "e8d1c3ab-1dd9-47c1-9b86-60b50bcb543a",
@@ -57,7 +67,7 @@
       "street": "to South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T05:40:27Z"
     },
     {
@@ -67,7 +77,7 @@
       "street": "Unknown Street",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T05:00:35Z"
     },
     {
@@ -77,68 +87,78 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T05:03:06Z"
     },
     {
-      "id": "d293b3ff-875b-4aa7-9672-3c780ee9d4e8",
-      "latitude": -34.893852,
-      "longitude": 138.64179,
-      "street": "O.G Rd",
-      "city": "Marden",
+      "id": "4a64fe6a-7fe3-4daf-886b-7964eae7b2a1",
+      "latitude": -34.924191,
+      "longitude": 138.559505,
+      "street": "Henley Beach Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T08:10:09Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T08:27:28Z"
     },
     {
-      "id": "3c81bc16-1d6d-45c7-88d5-70ede1c6c720",
-      "latitude": -34.921622,
-      "longitude": 138.596311,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "721de5bf-02f9-42ab-97d7-c151ff4db437",
+      "latitude": -35.046081,
+      "longitude": 138.531786,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T08:24:20Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T08:49:49Z"
     },
     {
-      "id": "397cb785-dc10-4d55-b8a6-11a3c6dbcb9d",
-      "latitude": -34.897505,
-      "longitude": 138.559917,
-      "street": "A7 - Port Rd",
-      "city": "Welland",
-      "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T04:59:17Z"
-    },
-    {
-      "id": "0d3513ce-07a4-4e22-8721-dc498ed938b6",
-      "latitude": -34.87566,
-      "longitude": 138.602168,
-      "street": "A1 - Main North Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T08:16:29Z"
-    },
-    {
-      "id": "b4112526-4e4a-4e9b-9a84-6cc5c599c9cc",
-      "latitude": -34.930828,
-      "longitude": 138.51763,
+      "id": "7fcc1fe3-1dcd-45ad-a26c-41f875620465",
+      "latitude": -34.931041,
+      "longitude": 138.517625,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T04:42:33Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T07:27:34Z"
     },
     {
-      "id": "ec72bff2-c7dd-4559-9903-3deb22252fab",
-      "latitude": -34.932788,
-      "longitude": 138.536807,
+      "id": "80bb6dea-9a02-494c-8866-c91817f403f7",
+      "latitude": -34.946442,
+      "longitude": 138.579383,
+      "street": "A5 - Anzac Hwy",
+      "city": "Keswick",
+      "type": "mobile",
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T08:22:53Z"
+    },
+    {
+      "id": "f0f00e97-0855-4b5b-8721-115d54919098",
+      "latitude": -34.932883,
+      "longitude": 138.53511,
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T04:39:47Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T07:55:23Z"
+    },
+    {
+      "id": "17a33d10-be19-4dc4-b165-5673930a8b45",
+      "latitude": -34.897743,
+      "longitude": 138.56028,
+      "street": "A7 - Port Rd",
+      "city": "West Hindmarsh",
+      "type": "mobile",
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T07:55:50Z"
+    },
+    {
+      "id": "75ad30d7-779c-40d5-940f-76773d832b59",
+      "latitude": -34.975899,
+      "longitude": 138.526643,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T04:52:35Z"
     },
     {
       "id": "dc93f98f-ac97-4a45-90b3-5fffb09b102b",
@@ -147,18 +167,18 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T07:29:58Z"
     },
     {
-      "id": "80597813-6254-4e56-88bc-9e1b560c7b7a",
-      "latitude": -34.878785,
-      "longitude": 138.571553,
-      "street": "M2 - North-South Mwy",
-      "city": "Croydon Park",
+      "id": "3efc1df2-c652-4319-8a15-d54bf47488a6",
+      "latitude": -34.899256,
+      "longitude": 138.609254,
+      "street": "A10 - Northcote Tce",
+      "city": "Medindie",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T07:50:37Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T08:33:46Z"
     },
     {
       "id": "1bf254cb-d119-42a3-bafc-856ff34574bb",
@@ -167,18 +187,18 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
+      "timestamp": "2026-04-02T09:00:27Z",
       "reported_at": "2026-04-02T05:07:13Z"
     },
     {
-      "id": "3289af23-ac6e-431b-ba7c-dc47fb9ffea6",
-      "latitude": -34.689504,
-      "longitude": 138.591736,
-      "street": "M2 - Northern Exp",
-      "city": "Andrews Farm",
+      "id": "80597813-6254-4e56-88bc-9e1b560c7b7a",
+      "latitude": -34.878785,
+      "longitude": 138.571553,
+      "street": "M2 - North-South Mwy",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-02T08:30:23Z",
-      "reported_at": "2026-04-02T08:22:45Z"
+      "timestamp": "2026-04-02T09:00:27Z",
+      "reported_at": "2026-04-02T07:50:37Z"
     }
   ]
 }
