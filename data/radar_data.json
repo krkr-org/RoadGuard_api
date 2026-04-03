@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "1800078f-db77-4af7-9ce3-b791ba7a2005",
-      "latitude": -34.911075,
-      "longitude": 138.613035,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
+      "id": "c06819c2-a70e-4a87-bc04-c65746eff48e",
+      "latitude": -34.926416,
+      "longitude": 138.517842,
+      "street": "Henley Beach Rd",
+      "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-04-03T21:30:22Z",
-      "reported_at": "2026-04-03T21:17:29Z"
+      "timestamp": "2026-04-03T22:00:27Z",
+      "reported_at": "2026-04-03T21:37:38Z"
+    },
+    {
+      "id": "9b6b5e67-016b-4f73-b4c4-86df97a547eb",
+      "latitude": -34.895912,
+      "longitude": 138.640439,
+      "street": "A11 - Payneham Rd",
+      "city": "Payneham",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:00:27Z",
+      "reported_at": "2026-04-03T21:54:59Z"
     },
     {
       "id": "43466cc7-5edd-4ac1-af24-04a60dce8876",
@@ -17,8 +27,28 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-03T21:30:22Z",
+      "timestamp": "2026-04-03T22:00:27Z",
       "reported_at": "2026-04-03T20:49:31Z"
+    },
+    {
+      "id": "8c23c997-1bee-4f2d-9e36-3ff42e4b295f",
+      "latitude": -34.834038,
+      "longitude": 138.540217,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:00:27Z",
+      "reported_at": "2026-04-03T20:49:45Z"
+    },
+    {
+      "id": "95a89550-4829-42c7-891e-3614d415a224",
+      "latitude": -34.839513,
+      "longitude": 138.519314,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:00:27Z",
+      "reported_at": "2026-04-03T21:44:19Z"
     }
   ]
 }
