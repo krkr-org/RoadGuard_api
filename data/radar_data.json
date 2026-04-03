@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "08767c4c-cc1b-4cc0-8268-a4f6322be7e6",
-      "latitude": -34.964832,
-      "longitude": 138.572639,
-      "street": "to A2 - South Rd",
-      "city": "Glandore",
+      "id": "c38fa920-9f3c-4b4b-af77-1ec68f0d2ea6",
+      "latitude": -34.769668,
+      "longitude": 138.653472,
+      "street": "Park Tce",
+      "city": "Salisbury Plain",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
-      "reported_at": "2026-04-03T09:21:44Z"
-    },
-    {
-      "id": "43de7197-28f2-423b-bde6-1fd3b7442753",
-      "latitude": -34.907361,
-      "longitude": 138.596323,
-      "street": "O'Connell St",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
-      "reported_at": "2026-04-03T08:48:47Z"
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:21:46Z"
     },
     {
       "id": "13c6e592-3f5b-4507-ada8-c739ebae5dd4",
@@ -27,48 +17,38 @@
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
+      "timestamp": "2026-04-03T10:00:23Z",
       "reported_at": "2026-04-03T09:26:28Z"
     },
     {
-      "id": "916a56ee-f2f2-4f82-bb0c-79625871bf2f",
-      "latitude": -34.986985,
-      "longitude": 138.574496,
-      "street": "A2 - South Rd",
-      "city": "Melrose Park",
+      "id": "21a73b65-6092-4c54-b530-14292f78b187",
+      "latitude": -35.017443,
+      "longitude": 138.569109,
+      "street": "Main South Rd",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
-      "reported_at": "2026-04-03T09:09:26Z"
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:46:17Z"
     },
     {
-      "id": "c08b895b-2c30-44fa-b1af-7b3f79c4c7d2",
-      "latitude": -34.915101,
-      "longitude": 138.640385,
-      "street": "A17 - Portrush Rd",
-      "city": "Norwood",
+      "id": "b596dd86-ac3a-4a38-a085-75bb311923a8",
+      "latitude": -34.98056,
+      "longitude": 138.556206,
+      "street": "Raglan Av",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
-      "reported_at": "2026-04-03T08:53:18Z"
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:53:06Z"
     },
     {
-      "id": "2c06b5ea-a58b-499a-acd1-623ae5b00a4a",
-      "latitude": -34.855697,
-      "longitude": 138.600773,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
+      "id": "847f8f9f-f349-4ade-99a3-01c4c2c1edf2",
+      "latitude": -34.844609,
+      "longitude": 138.671424,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
-      "reported_at": "2026-04-03T09:23:51Z"
-    },
-    {
-      "id": "157e8d84-ab27-4a67-a689-0010f2dfc748",
-      "latitude": -34.903734,
-      "longitude": 138.582757,
-      "street": "R1 - Park Tce (City Ring Route)",
-      "city": "Bowden",
-      "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
-      "reported_at": "2026-04-03T09:16:03Z"
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:55:00Z"
     },
     {
       "id": "e88d3374-a7c9-4d16-93b1-08e1a5de951b",
@@ -77,8 +57,38 @@
       "street": "A2 - South Rd",
       "city": "Glandore",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:30:22Z",
+      "timestamp": "2026-04-03T10:00:23Z",
       "reported_at": "2026-04-03T09:25:35Z"
+    },
+    {
+      "id": "3ab8a698-e49f-4e24-9f8b-c93eb9a133de",
+      "latitude": -35.07528,
+      "longitude": 138.522055,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Sheidow Park",
+      "type": "mobile",
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:53:33Z"
+    },
+    {
+      "id": "49e3e8ab-287d-4040-a0b9-5d41666a6863",
+      "latitude": -34.900615,
+      "longitude": 138.604155,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:47:33Z"
+    },
+    {
+      "id": "2c06b5ea-a58b-499a-acd1-623ae5b00a4a",
+      "latitude": -34.855697,
+      "longitude": 138.600773,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-04-03T10:00:23Z",
+      "reported_at": "2026-04-03T09:23:51Z"
     }
   ]
 }
