@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "c3fb1653-f9c9-46be-9a05-4203c70b1079",
-      "latitude": -35.137802,
-      "longitude": 138.503561,
-      "street": "Beach Rd",
-      "city": "Christie Downs",
+      "id": "02dffed2-8226-4daa-be34-1dda4edbbe7b",
+      "latitude": -34.895029,
+      "longitude": 138.564935,
+      "street": "Henry St",
+      "city": "Croydon",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:00:27Z",
-      "reported_at": "2026-04-03T10:37:34Z"
+      "timestamp": "2026-04-03T11:30:26Z",
+      "reported_at": "2026-04-03T11:25:41Z"
     },
     {
-      "id": "54691c43-a4dd-40f0-a510-7e5046faac9d",
-      "latitude": -34.689214,
-      "longitude": 138.636831,
-      "street": "Womma Rd",
-      "city": "Penfield",
+      "id": "4f39aab8-9bc8-4f24-88ca-3668b33e3a99",
+      "latitude": -34.806934,
+      "longitude": 138.624917,
+      "street": "Elder Smith Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:00:27Z",
-      "reported_at": "2026-04-03T10:24:27Z"
+      "timestamp": "2026-04-03T11:30:26Z",
+      "reported_at": "2026-04-03T11:03:21Z"
     },
     {
-      "id": "70a8bb7a-1c0c-4a27-ad7b-49e07aa89c24",
-      "latitude": -34.792354,
-      "longitude": 138.648244,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "6cf90a30-f1da-4075-ae83-426786cbf625",
+      "latitude": -35.018553,
+      "longitude": 138.534172,
+      "street": "Sturt Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:00:27Z",
-      "reported_at": "2026-04-03T10:47:41Z"
-    },
-    {
-      "id": "847f8f9f-f349-4ade-99a3-01c4c2c1edf2",
-      "latitude": -34.844609,
-      "longitude": 138.671424,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
-      "type": "mobile",
-      "timestamp": "2026-04-03T11:00:27Z",
-      "reported_at": "2026-04-03T09:55:00Z"
+      "timestamp": "2026-04-03T11:30:26Z",
+      "reported_at": "2026-04-03T11:12:28Z"
     },
     {
       "id": "21064e70-c9a2-4996-abcb-3e356f35d74a",
@@ -47,18 +37,28 @@
       "street": "A10 - North East Rd",
       "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:00:27Z",
+      "timestamp": "2026-04-03T11:30:26Z",
       "reported_at": "2026-04-03T10:13:04Z"
     },
     {
-      "id": "61142f72-55e2-4554-840e-340380f1e97f",
-      "latitude": -35.103547,
-      "longitude": 138.511656,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
+      "id": "accd58a4-4185-46d4-aabe-400c0ac6d6b1",
+      "latitude": -34.983235,
+      "longitude": 138.556185,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:00:27Z",
-      "reported_at": "2026-04-03T10:48:56Z"
+      "timestamp": "2026-04-03T11:30:26Z",
+      "reported_at": "2026-04-03T11:17:57Z"
+    },
+    {
+      "id": "4bedf082-72d7-4fb0-8751-87cc10ca46e5",
+      "latitude": -35.089265,
+      "longitude": 138.530244,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-03T11:30:26Z",
+      "reported_at": "2026-04-03T11:07:49Z"
     }
   ]
 }
