@@ -1,54 +1,84 @@
 {
   "radars": [
     {
+      "id": "c220cab4-2400-4a64-9399-085d3b31dcae",
+      "latitude": -34.832451,
+      "longitude": 138.570297,
+      "street": "to A9 - Salisbury Hwy to Salisbury",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:30:25Z",
+      "reported_at": "2026-04-03T21:59:25Z"
+    },
+    {
       "id": "c06819c2-a70e-4a87-bc04-c65746eff48e",
       "latitude": -34.926416,
       "longitude": 138.517842,
       "street": "Henley Beach Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-04-03T22:00:27Z",
+      "timestamp": "2026-04-03T22:30:25Z",
       "reported_at": "2026-04-03T21:37:38Z"
     },
     {
-      "id": "9b6b5e67-016b-4f73-b4c4-86df97a547eb",
-      "latitude": -34.895912,
-      "longitude": 138.640439,
-      "street": "A11 - Payneham Rd",
-      "city": "Payneham",
+      "id": "599459a4-7e08-4b9d-afc7-956d1c53e80b",
+      "latitude": -34.923492,
+      "longitude": 138.578998,
+      "street": "Henley Beach Rd",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-04-03T22:00:27Z",
-      "reported_at": "2026-04-03T21:54:59Z"
+      "timestamp": "2026-04-03T22:30:25Z",
+      "reported_at": "2026-04-03T22:12:07Z"
     },
     {
-      "id": "43466cc7-5edd-4ac1-af24-04a60dce8876",
-      "latitude": -34.801711,
-      "longitude": 138.606157,
-      "street": "A9 - Salisbury Hwy",
+      "id": "802a781b-4769-4dde-a5ae-ba763cc2e01a",
+      "latitude": -34.801991,
+      "longitude": 138.608049,
+      "street": "Elder Smith Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-03T22:00:27Z",
-      "reported_at": "2026-04-03T20:49:31Z"
+      "timestamp": "2026-04-03T22:30:25Z",
+      "reported_at": "2026-04-03T22:18:00Z"
+    },
+    {
+      "id": "ba654f80-c395-4921-811d-c4a79a8fe5f1",
+      "latitude": -34.859953,
+      "longitude": 138.601074,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:30:25Z",
+      "reported_at": "2026-04-03T21:30:44Z"
+    },
+    {
+      "id": "cd45aad7-c9fb-4ea5-8df4-4791fab09517",
+      "latitude": -35.065402,
+      "longitude": 138.532594,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Sheidow Park",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:30:25Z",
+      "reported_at": "2026-04-03T22:00:43Z"
+    },
+    {
+      "id": "a5395666-6b89-4796-8f07-87e67427da27",
+      "latitude": -34.839587,
+      "longitude": 138.519428,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-03T22:30:25Z",
+      "reported_at": "2026-04-03T22:01:06Z"
     },
     {
       "id": "8c23c997-1bee-4f2d-9e36-3ff42e4b295f",
-      "latitude": -34.834038,
-      "longitude": 138.540217,
+      "latitude": -34.834029,
+      "longitude": 138.540373,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-03T22:00:27Z",
+      "timestamp": "2026-04-03T22:30:25Z",
       "reported_at": "2026-04-03T20:49:45Z"
-    },
-    {
-      "id": "95a89550-4829-42c7-891e-3614d415a224",
-      "latitude": -34.839513,
-      "longitude": 138.519314,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-04-03T22:00:27Z",
-      "reported_at": "2026-04-03T21:44:19Z"
     }
   ]
 }
