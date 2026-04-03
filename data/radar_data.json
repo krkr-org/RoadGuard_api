@@ -1,34 +1,54 @@
 {
   "radars": [
     {
-      "id": "10904d78-b6c2-4d99-a764-ff71f798f792",
-      "latitude": -34.948889,
-      "longitude": 138.589413,
-      "street": "Goodwood Rd",
-      "city": "Goodwood",
+      "id": "43de7197-28f2-423b-bde6-1fd3b7442753",
+      "latitude": -34.907361,
+      "longitude": 138.596323,
+      "street": "O'Connell St",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-03T08:30:22Z",
-      "reported_at": "2026-04-03T07:56:11Z"
+      "timestamp": "2026-04-03T09:00:23Z",
+      "reported_at": "2026-04-03T08:48:47Z"
     },
     {
-      "id": "7f218942-7b2a-47f7-ae88-3539364e1c69",
-      "latitude": -34.668717,
-      "longitude": 138.671839,
-      "street": "Curtis Rd",
-      "city": "Munno Para West",
+      "id": "003de080-8d60-447f-8dc0-680c01cbfa14",
+      "latitude": -35.020329,
+      "longitude": 138.802158,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-04-03T08:30:22Z",
-      "reported_at": "2026-04-03T07:59:05Z"
+      "timestamp": "2026-04-03T09:00:23Z",
+      "reported_at": "2026-04-03T08:32:32Z"
     },
     {
-      "id": "4c96a092-843a-4bd3-b4fd-354d43e8707f",
-      "latitude": -34.761077,
-      "longitude": 138.592261,
+      "id": "1212d455-41ba-451f-abb0-342683132bc8",
+      "latitude": -34.848642,
+      "longitude": 138.589687,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-03T09:00:23Z",
+      "reported_at": "2026-04-03T08:31:27Z"
+    },
+    {
+      "id": "e879ef4d-543d-4cc4-98e4-82fda5e99e06",
+      "latitude": -34.763515,
+      "longitude": 138.593086,
       "street": "A1 - Port Wakefield Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-03T08:30:22Z",
-      "reported_at": "2026-04-03T07:58:21Z"
+      "timestamp": "2026-04-03T09:00:23Z",
+      "reported_at": "2026-04-03T08:51:23Z"
+    },
+    {
+      "id": "6a65e0aa-6e03-45f7-8069-cf66b4b91749",
+      "latitude": -35.043564,
+      "longitude": 138.55275,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-03T09:00:23Z",
+      "reported_at": "2026-04-03T08:35:30Z"
     }
   ]
 }
