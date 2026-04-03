@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "46964111-f324-4c8c-ba46-840d9594b851",
-      "latitude": -34.922,
-      "longitude": 138.591768,
-      "street": "North Tce",
+      "id": "7cf44485-d460-4417-8ab2-7e1717bd926e",
+      "latitude": -34.826284,
+      "longitude": 138.642122,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-03T13:30:22Z",
+      "reported_at": "2026-04-03T13:00:53Z"
+    },
+    {
+      "id": "a6ea134e-3a73-46f1-b745-560a7320555b",
+      "latitude": -34.92089,
+      "longitude": 138.584314,
+      "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-03T13:00:22Z",
-      "reported_at": "2026-04-03T12:13:26Z"
+      "timestamp": "2026-04-03T13:30:22Z",
+      "reported_at": "2026-04-03T12:56:27Z"
     }
   ]
 }
