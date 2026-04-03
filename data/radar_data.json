@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "e07a5cef-7d6e-463e-8838-3e6fd87a47e5",
-      "latitude": -34.876881,
-      "longitude": 138.614327,
-      "street": "Galway Av",
-      "city": "Broadview",
+      "id": "c03bb73e-a4c3-4d1b-8bb6-388f3a3de6e1",
+      "latitude": -34.70079,
+      "longitude": 138.665162,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
-      "reported_at": "2026-04-03T06:27:40Z"
-    },
-    {
-      "id": "dfb6acff-7fd6-4e6d-bc48-9299191a0111",
-      "latitude": -35.130634,
-      "longitude": 138.481367,
-      "street": "Gulfview Rd",
-      "city": "Christies Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
-      "reported_at": "2026-04-03T06:36:11Z"
+      "timestamp": "2026-04-03T07:30:24Z",
+      "reported_at": "2026-04-03T07:15:35Z"
     },
     {
       "id": "bfeb4647-669b-4d4b-994c-5351345d3da7",
@@ -27,28 +17,8 @@
       "street": "Findon Rd",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
+      "timestamp": "2026-04-03T07:30:24Z",
       "reported_at": "2026-04-03T05:52:07Z"
-    },
-    {
-      "id": "db1655a4-0d76-446b-9dbb-f98f6977a4af",
-      "latitude": -34.856004,
-      "longitude": 138.502317,
-      "street": "Old Port Rd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
-      "reported_at": "2026-04-03T06:46:19Z"
-    },
-    {
-      "id": "af486ba5-ad1f-432c-8134-1485464954f0",
-      "latitude": -34.807647,
-      "longitude": 138.677987,
-      "street": "The Golden Way",
-      "city": "Wynn Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
-      "reported_at": "2026-04-03T06:28:37Z"
     },
     {
       "id": "0098b740-e311-43a0-ade5-cbc5e976f6bc",
@@ -57,28 +27,58 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
+      "timestamp": "2026-04-03T07:30:24Z",
       "reported_at": "2026-04-03T02:25:31Z"
     },
     {
-      "id": "6755779a-3be3-4350-8f28-2c7ef0839ac7",
-      "latitude": -35.021936,
-      "longitude": 138.559225,
+      "id": "a07421d6-7994-4a9f-9838-eefcf5a0303c",
+      "latitude": -34.803726,
+      "longitude": 138.684739,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-03T07:30:24Z",
+      "reported_at": "2026-04-03T07:12:37Z"
+    },
+    {
+      "id": "e4104bf8-665d-45cc-9a6e-16953cc47f05",
+      "latitude": -34.852374,
+      "longitude": 138.506048,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-03T07:30:24Z",
+      "reported_at": "2026-04-03T07:24:10Z"
+    },
+    {
+      "id": "92cd389c-70c3-4efe-9457-a9893b18d4b1",
+      "latitude": -35.020702,
+      "longitude": 138.55915,
       "street": "A14 - Marion Rd",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
-      "reported_at": "2026-04-03T05:25:45Z"
+      "timestamp": "2026-04-03T07:30:24Z",
+      "reported_at": "2026-04-03T07:04:41Z"
     },
     {
-      "id": "b57738cf-d9f1-4ce5-bc98-7477b9644522",
-      "latitude": -34.683919,
-      "longitude": 138.601873,
-      "street": "M2 - Northern Exp",
-      "city": "Penfield Gardens",
+      "id": "ee20441f-bda5-4492-a60b-3ac6bb0930a9",
+      "latitude": -34.836165,
+      "longitude": 138.680182,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-03T07:00:27Z",
-      "reported_at": "2026-04-03T06:55:49Z"
+      "timestamp": "2026-04-03T07:30:24Z",
+      "reported_at": "2026-04-03T07:13:14Z"
+    },
+    {
+      "id": "18b0cd44-da50-453e-95f7-b5afb1a5f63a",
+      "latitude": -35.038645,
+      "longitude": 138.81368,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-04-03T07:30:24Z",
+      "reported_at": "2026-04-03T07:11:23Z"
     }
   ]
 }
