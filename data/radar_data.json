@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "063d9524-ec9d-4a48-a527-1ac3df37d428",
+      "latitude": -34.801672,
+      "longitude": 138.606977,
+      "street": "Unknown Street",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-03T20:30:22Z",
+      "reported_at": "2026-04-03T20:05:59Z"
+    },
+    {
+      "id": "dff14bab-47ec-427f-a6a7-f4eb06eec4b7",
+      "latitude": -34.920253,
+      "longitude": 138.599231,
+      "street": "King William Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-03T20:30:22Z",
+      "reported_at": "2026-04-03T20:01:38Z"
+    }
+  ]
 }
