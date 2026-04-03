@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "4503ac8e-f6a6-4a74-a8e9-5e0e14441810",
-      "latitude": -34.86138,
-      "longitude": 138.661465,
-      "street": "Longview Rd",
-      "city": "Windsor Gardens",
+      "id": "b255bb60-e432-478e-b069-b6bf05070beb",
+      "latitude": -34.934966,
+      "longitude": 138.639869,
+      "street": "Sturt Av",
+      "city": "Toorak Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T02:11:11Z"
-    },
-    {
-      "id": "a143e7eb-75ce-499d-9e74-1c3eb87645c9",
-      "latitude": -34.859414,
-      "longitude": 138.679684,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-02T23:11:11Z"
-    },
-    {
-      "id": "4c8fe64f-b845-4dbe-8f8d-9994a6a8ed52",
-      "latitude": -34.881199,
-      "longitude": 138.681764,
-      "street": "Graves St",
-      "city": "Newton",
-      "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T00:11:30Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T00:25:54Z"
     },
     {
       "id": "5bed0042-6243-4cfb-a390-1ed0e796d97b",
@@ -37,8 +17,18 @@
       "street": "Stradbroke Rd",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
+      "timestamp": "2026-04-03T03:30:23Z",
       "reported_at": "2026-04-02T23:36:45Z"
+    },
+    {
+      "id": "4c8fe64f-b845-4dbe-8f8d-9994a6a8ed52",
+      "latitude": -34.881199,
+      "longitude": 138.681764,
+      "street": "Graves St",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T00:11:30Z"
     },
     {
       "id": "1c062075-9118-4e2c-a768-c2538675a641",
@@ -47,8 +37,28 @@
       "street": "Days Rd",
       "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
+      "timestamp": "2026-04-03T03:30:23Z",
       "reported_at": "2026-04-03T00:16:59Z"
+    },
+    {
+      "id": "c0f15c29-8e5c-4622-9913-ad4cbfc37c14",
+      "latitude": -34.869961,
+      "longitude": 138.665607,
+      "street": "Melville Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T02:28:01Z"
+    },
+    {
+      "id": "a143e7eb-75ce-499d-9e74-1c3eb87645c9",
+      "latitude": -34.859414,
+      "longitude": 138.679684,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-02T23:11:11Z"
     },
     {
       "id": "4cc9095b-c603-447a-a69d-da3690745090",
@@ -57,28 +67,18 @@
       "street": "Henley Beach Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
+      "timestamp": "2026-04-03T03:30:23Z",
       "reported_at": "2026-04-02T23:31:32Z"
     },
     {
-      "id": "5d8b086e-68e1-4abe-a33c-91dc35ba138e",
-      "latitude": -34.878349,
-      "longitude": 138.485034,
-      "street": "Military Rd",
-      "city": "Tennyson",
+      "id": "0ab20c4b-7282-49eb-bb91-c72db3692c9d",
+      "latitude": -35.139079,
+      "longitude": 138.477868,
+      "street": "Beach Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T02:21:01Z"
-    },
-    {
-      "id": "34e5f325-21a8-41fa-ad08-6890eb62d4b1",
-      "latitude": -35.053728,
-      "longitude": 138.559186,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T02:03:08Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T03:16:36Z"
     },
     {
       "id": "e5b416cc-6941-4ba1-a8bd-30221fedaa8a",
@@ -87,58 +87,88 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
+      "timestamp": "2026-04-03T03:30:23Z",
       "reported_at": "2026-04-03T01:35:54Z"
     },
     {
-      "id": "865b6689-6ba1-43dc-a812-15c4d01e67f1",
-      "latitude": -34.924485,
-      "longitude": 138.599725,
-      "street": "King William St",
+      "id": "bf7ce1c5-61ce-4426-bc1a-34f21875ad06",
+      "latitude": -35.017631,
+      "longitude": 138.549824,
+      "street": "Sturt Rd",
+      "city": "Oaklands Park",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T03:09:46Z"
+    },
+    {
+      "id": "0a0d4f2a-f1ec-4814-b351-186e8418fdfb",
+      "latitude": -34.927725,
+      "longitude": 138.61207,
+      "street": "Hutt St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T02:08:51Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T02:44:58Z"
     },
     {
-      "id": "fb4e838a-74ac-48fa-8eaa-ea21b25efa01",
-      "latitude": -34.705977,
-      "longitude": 138.663136,
-      "street": "Peachey Rd",
-      "city": "Edinburgh North",
+      "id": "715dd179-5175-4e85-8bed-711de4ce2890",
+      "latitude": -34.865865,
+      "longitude": 138.661901,
+      "street": "Sudholz Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T01:56:50Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T02:43:41Z"
     },
     {
-      "id": "56cf1a8e-3c26-4f1a-9887-ae556ab1156d",
-      "latitude": -35.0208,
-      "longitude": 138.559316,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "6463242a-cac2-47a3-9d95-a2ea12b841b2",
+      "latitude": -34.680617,
+      "longitude": 138.699462,
+      "street": "Craigmore Rd",
+      "city": "Blakeview",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T01:39:44Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T03:09:30Z"
     },
     {
-      "id": "96adcf77-4799-4381-ba8d-c4b22a009f2c",
-      "latitude": -34.876866,
-      "longitude": 138.693617,
+      "id": "74eb4e25-0c3d-4760-87e5-f20f8beaa81c",
+      "latitude": -35.132303,
+      "longitude": 138.485864,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T03:10:05Z"
+    },
+    {
+      "id": "f3ddf4fe-c7ee-479c-aff0-4c34282ec3a9",
+      "latitude": -34.958129,
+      "longitude": 138.625955,
+      "street": "B28 - Fullarton Rd",
+      "city": "Fullarton",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T02:54:57Z"
+    },
+    {
+      "id": "17ee74ab-2e41-4401-91bd-4caa3885a4d8",
+      "latitude": -35.102064,
+      "longitude": 138.530046,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T03:03:25Z"
+    },
+    {
+      "id": "2c5679fd-1fbc-4da3-aa5c-032b596d50c4",
+      "latitude": -34.875213,
+      "longitude": 138.695794,
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-02T21:37:06Z"
-    },
-    {
-      "id": "8e12819b-a61f-4fec-b320-05f4135f8b80",
-      "latitude": -34.975211,
-      "longitude": 138.537252,
-      "street": "A5 - Anzac Hwy",
-      "city": "Novar Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T01:50:06Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T01:17:39Z"
     },
     {
       "id": "bd8d077b-1098-4227-afbf-6d581f953eb2",
@@ -147,18 +177,18 @@
       "street": "Unknown Street",
       "city": "Urrbrae",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
+      "timestamp": "2026-04-03T03:30:23Z",
       "reported_at": "2026-04-03T01:32:46Z"
     },
     {
-      "id": "e2a16cfd-5ac4-49b2-82c4-b458c0b61a45",
-      "latitude": -34.711652,
-      "longitude": 138.575593,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
+      "id": "3a91cffa-6049-4642-b66f-dd0cc18d4399",
+      "latitude": -35.022396,
+      "longitude": 138.784917,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-04-03T02:30:23Z",
-      "reported_at": "2026-04-03T01:57:31Z"
+      "timestamp": "2026-04-03T03:30:23Z",
+      "reported_at": "2026-04-03T03:10:35Z"
     }
   ]
 }
