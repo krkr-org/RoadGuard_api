@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "6ee34ed0-d98f-44c4-9f6b-62cec3f4385e",
-      "latitude": -35.001074,
-      "longitude": 138.575438,
-      "street": "A2 - South Rd",
-      "city": "St. Marys",
+      "id": "d1b317fe-1788-4e39-88f5-da30197baa8d",
+      "latitude": -34.797742,
+      "longitude": 138.717038,
+      "street": "A11 - Hancock Rd",
+      "city": "Surrey Downs",
       "type": "mobile",
-      "timestamp": "2026-04-03T14:30:23Z",
-      "reported_at": "2026-04-03T14:02:27Z"
-    },
-    {
-      "id": "a7a9eb52-f3e8-4ade-8f15-5702dfebb5a6",
-      "latitude": -34.850333,
-      "longitude": 138.668339,
-      "street": "A10 - North East Rd",
-      "city": "Holden Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-03T14:30:23Z",
-      "reported_at": "2026-04-03T14:23:21Z"
-    },
-    {
-      "id": "7487793f-f8f7-4ad1-9633-6e42899cc605",
-      "latitude": -34.716744,
-      "longitude": 138.672852,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-04-03T14:30:23Z",
-      "reported_at": "2026-04-03T14:17:47Z"
+      "timestamp": "2026-04-03T15:00:23Z",
+      "reported_at": "2026-04-03T13:34:40Z"
     },
     {
       "id": "266dbda9-f746-4a5f-80d9-f9e0b0ff0cf4",
@@ -37,28 +17,8 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Fulham Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-03T14:30:23Z",
+      "timestamp": "2026-04-03T15:00:23Z",
       "reported_at": "2026-04-03T14:23:28Z"
-    },
-    {
-      "id": "d1b317fe-1788-4e39-88f5-da30197baa8d",
-      "latitude": -34.797742,
-      "longitude": 138.717038,
-      "street": "A11 - Hancock Rd",
-      "city": "Surrey Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-03T14:30:23Z",
-      "reported_at": "2026-04-03T13:34:40Z"
-    },
-    {
-      "id": "123113c4-614b-48af-9d94-c73c99977fb8",
-      "latitude": -34.915936,
-      "longitude": 138.614319,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-03T14:30:23Z",
-      "reported_at": "2026-04-03T14:09:39Z"
     }
   ]
 }
