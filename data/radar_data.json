@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "02dffed2-8226-4daa-be34-1dda4edbbe7b",
-      "latitude": -34.895029,
-      "longitude": 138.564935,
-      "street": "Henry St",
-      "city": "Croydon",
+      "id": "ea679109-c351-4a7d-a09c-98537fecd31f",
+      "latitude": -34.935785,
+      "longitude": 138.594417,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:30:26Z",
-      "reported_at": "2026-04-03T11:25:41Z"
+      "timestamp": "2026-04-03T12:00:22Z",
+      "reported_at": "2026-04-03T11:46:28Z"
     },
     {
-      "id": "4f39aab8-9bc8-4f24-88ca-3668b33e3a99",
-      "latitude": -34.806934,
-      "longitude": 138.624917,
-      "street": "Elder Smith Rd",
-      "city": "Parafield",
+      "id": "1fd426a0-790c-429e-a1c6-f77dd9766a34",
+      "latitude": -34.857065,
+      "longitude": 138.655779,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:30:26Z",
-      "reported_at": "2026-04-03T11:03:21Z"
-    },
-    {
-      "id": "6cf90a30-f1da-4075-ae83-426786cbf625",
-      "latitude": -35.018553,
-      "longitude": 138.534172,
-      "street": "Sturt Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-04-03T11:30:26Z",
-      "reported_at": "2026-04-03T11:12:28Z"
+      "timestamp": "2026-04-03T12:00:22Z",
+      "reported_at": "2026-04-03T11:30:37Z"
     },
     {
       "id": "21064e70-c9a2-4996-abcb-3e356f35d74a",
@@ -37,28 +27,8 @@
       "street": "A10 - North East Rd",
       "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-04-03T11:30:26Z",
+      "timestamp": "2026-04-03T12:00:22Z",
       "reported_at": "2026-04-03T10:13:04Z"
-    },
-    {
-      "id": "accd58a4-4185-46d4-aabe-400c0ac6d6b1",
-      "latitude": -34.983235,
-      "longitude": 138.556185,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-04-03T11:30:26Z",
-      "reported_at": "2026-04-03T11:17:57Z"
-    },
-    {
-      "id": "4bedf082-72d7-4fb0-8751-87cc10ca46e5",
-      "latitude": -35.089265,
-      "longitude": 138.530244,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-03T11:30:26Z",
-      "reported_at": "2026-04-03T11:07:49Z"
     }
   ]
 }
