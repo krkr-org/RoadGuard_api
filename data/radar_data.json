@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "24f3c0e5-f78a-45dd-8f59-5c13242f9c75",
-      "latitude": -34.882502,
-      "longitude": 138.691651,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
+      "id": "e07a5cef-7d6e-463e-8838-3e6fd87a47e5",
+      "latitude": -34.876881,
+      "longitude": 138.614327,
+      "street": "Galway Av",
+      "city": "Broadview",
       "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
-      "reported_at": "2026-04-03T02:54:43Z"
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T06:27:40Z"
     },
     {
-      "id": "69ef8fe9-599f-4bd7-a374-e6aec0eba708",
-      "latitude": -34.824208,
-      "longitude": 138.635729,
-      "street": "Bridge Rd",
-      "city": "Pooraka",
+      "id": "dfb6acff-7fd6-4e6d-bc48-9299191a0111",
+      "latitude": -35.130634,
+      "longitude": 138.481367,
+      "street": "Gulfview Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
-      "reported_at": "2026-04-03T06:21:08Z"
-    },
-    {
-      "id": "0098b740-e311-43a0-ade5-cbc5e976f6bc",
-      "latitude": -35.141397,
-      "longitude": 138.65996,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
-      "reported_at": "2026-04-03T02:25:31Z"
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T06:36:11Z"
     },
     {
       "id": "bfeb4647-669b-4d4b-994c-5351345d3da7",
@@ -37,38 +27,58 @@
       "street": "Findon Rd",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
+      "timestamp": "2026-04-03T07:00:27Z",
       "reported_at": "2026-04-03T05:52:07Z"
     },
     {
-      "id": "40c6791d-6fe0-4b9b-a319-011152e62fb6",
-      "latitude": -34.871238,
-      "longitude": 138.672135,
-      "street": "A11 - Lower North East Rd",
-      "city": "Paradise",
+      "id": "db1655a4-0d76-446b-9dbb-f98f6977a4af",
+      "latitude": -34.856004,
+      "longitude": 138.502317,
+      "street": "Old Port Rd",
+      "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
-      "reported_at": "2026-04-03T05:46:11Z"
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T06:46:19Z"
     },
     {
-      "id": "43fad3e8-1560-48eb-a48e-2709f5943fee",
-      "latitude": -34.792328,
-      "longitude": 138.648207,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
+      "id": "af486ba5-ad1f-432c-8134-1485464954f0",
+      "latitude": -34.807647,
+      "longitude": 138.677987,
+      "street": "The Golden Way",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
-      "reported_at": "2026-04-03T05:52:55Z"
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T06:28:37Z"
     },
     {
-      "id": "571f7f5f-cabc-42a8-88d1-376332af096a",
-      "latitude": -34.709025,
-      "longitude": 138.570893,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
+      "id": "0098b740-e311-43a0-ade5-cbc5e976f6bc",
+      "latitude": -35.141397,
+      "longitude": 138.65996,
+      "street": "Kangarilla Rd",
+      "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-04-03T06:30:22Z",
-      "reported_at": "2026-04-03T06:08:56Z"
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T02:25:31Z"
+    },
+    {
+      "id": "6755779a-3be3-4350-8f28-2c7ef0839ac7",
+      "latitude": -35.021936,
+      "longitude": 138.559225,
+      "street": "A14 - Marion Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T05:25:45Z"
+    },
+    {
+      "id": "b57738cf-d9f1-4ce5-bc98-7477b9644522",
+      "latitude": -34.683919,
+      "longitude": 138.601873,
+      "street": "M2 - Northern Exp",
+      "city": "Penfield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-03T07:00:27Z",
+      "reported_at": "2026-04-03T06:55:49Z"
     }
   ]
 }
