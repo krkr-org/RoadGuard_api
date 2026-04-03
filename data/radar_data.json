@@ -1,74 +1,44 @@
 {
   "radars": [
     {
-      "id": "c06819c2-a70e-4a87-bc04-c65746eff48e",
-      "latitude": -34.926416,
-      "longitude": 138.517842,
-      "street": "Henley Beach Rd",
-      "city": "Fulham",
-      "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T21:37:38Z"
-    },
-    {
       "id": "4f944cc7-f7bc-4cd7-aa40-c8356229104a",
       "latitude": -35.063294,
       "longitude": 138.653633,
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
+      "timestamp": "2026-04-03T23:30:22Z",
       "reported_at": "2026-04-03T21:58:23Z"
     },
     {
-      "id": "802a781b-4769-4dde-a5ae-ba763cc2e01a",
-      "latitude": -34.801991,
-      "longitude": 138.608049,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
+      "id": "3f068ab4-6af4-46c3-bc39-8b7eb6758a85",
+      "latitude": -35.017015,
+      "longitude": 138.562601,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:18:00Z"
+      "timestamp": "2026-04-03T23:30:22Z",
+      "reported_at": "2026-04-03T23:02:48Z"
     },
     {
-      "id": "62b0051e-7e10-4c47-b251-b7dd3fa6a009",
-      "latitude": -34.860759,
-      "longitude": 138.601132,
+      "id": "c06819c2-a70e-4a87-bc04-c65746eff48e",
+      "latitude": -34.926416,
+      "longitude": 138.517842,
+      "street": "Henley Beach Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-04-03T23:30:22Z",
+      "reported_at": "2026-04-03T21:37:38Z"
+    },
+    {
+      "id": "86e0584d-292c-4dcb-b0cc-7c78e04099e9",
+      "latitude": -34.861587,
+      "longitude": 138.601194,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T20:49:51Z"
-    },
-    {
-      "id": "945a9d69-4df0-4a42-981d-2dbc2f7a6d9b",
-      "latitude": -34.834232,
-      "longitude": 138.599163,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:34:52Z"
-    },
-    {
-      "id": "0dadd0c5-ebae-4e22-90cc-8d27ce1a46a2",
-      "latitude": -35.06611,
-      "longitude": 138.531861,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:36:47Z"
-    },
-    {
-      "id": "12132df6-4c1c-4fb5-94f4-375df83c8520",
-      "latitude": -35.067588,
-      "longitude": 138.530058,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:36:10Z"
+      "timestamp": "2026-04-03T23:30:22Z",
+      "reported_at": "2026-04-03T20:55:43Z"
     },
     {
       "id": "aca6c53e-ce35-454e-917f-c7a546161c1a",
@@ -77,38 +47,28 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
+      "timestamp": "2026-04-03T23:30:22Z",
       "reported_at": "2026-04-03T22:37:58Z"
     },
     {
-      "id": "b8e60823-f3a8-4555-9e07-6906599f1911",
-      "latitude": -34.801545,
-      "longitude": 138.606302,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:57:25Z"
-    },
-    {
-      "id": "9a9f656a-9028-4194-8096-7d05481b5ba8",
-      "latitude": -35.08366,
-      "longitude": 138.543225,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:56:25Z"
-    },
-    {
-      "id": "468dae95-ae14-4394-852c-56ba7f21b34f",
-      "latitude": -34.832834,
-      "longitude": 138.573373,
-      "street": "A9 - Salisbury Hwy",
+      "id": "735fb18a-82e8-48fc-ac74-8df677be5020",
+      "latitude": -34.833752,
+      "longitude": 138.546014,
+      "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-03T23:00:25Z",
-      "reported_at": "2026-04-03T22:20:58Z"
+      "timestamp": "2026-04-03T23:30:22Z",
+      "reported_at": "2026-04-03T23:22:57Z"
+    },
+    {
+      "id": "84d854c0-3ef5-4438-a589-19cf833eb27e",
+      "latitude": -35.02545,
+      "longitude": 138.789595,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-04-03T23:30:22Z",
+      "reported_at": "2026-04-03T23:13:24Z"
     }
   ]
 }
