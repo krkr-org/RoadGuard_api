@@ -1,54 +1,24 @@
 {
   "radars": [
     {
-      "id": "063d9524-ec9d-4a48-a527-1ac3df37d428",
-      "latitude": -34.801672,
-      "longitude": 138.606977,
-      "street": "Unknown Street",
+      "id": "1800078f-db77-4af7-9ce3-b791ba7a2005",
+      "latitude": -34.911075,
+      "longitude": 138.613035,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-03T21:30:22Z",
+      "reported_at": "2026-04-03T21:17:29Z"
+    },
+    {
+      "id": "43466cc7-5edd-4ac1-af24-04a60dce8876",
+      "latitude": -34.801711,
+      "longitude": 138.606157,
+      "street": "A9 - Salisbury Hwy",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-03T21:00:22Z",
-      "reported_at": "2026-04-03T20:05:59Z"
-    },
-    {
-      "id": "62b0051e-7e10-4c47-b251-b7dd3fa6a009",
-      "latitude": -34.860759,
-      "longitude": 138.601132,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-04-03T21:00:22Z",
-      "reported_at": "2026-04-03T20:49:51Z"
-    },
-    {
-      "id": "a7a52772-688c-4d7e-bec0-3b5fa5260803",
-      "latitude": -35.044282,
-      "longitude": 138.552064,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-04-03T21:00:22Z",
-      "reported_at": "2026-04-03T20:54:21Z"
-    },
-    {
-      "id": "96b6d9dd-443b-4a1d-a02f-50b79784f603",
-      "latitude": -35.010446,
-      "longitude": 138.781805,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-04-03T21:00:22Z",
-      "reported_at": "2026-04-03T20:33:11Z"
-    },
-    {
-      "id": "8c23c997-1bee-4f2d-9e36-3ff42e4b295f",
-      "latitude": -34.834038,
-      "longitude": 138.540217,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-03T21:00:22Z",
-      "reported_at": "2026-04-03T20:49:45Z"
+      "timestamp": "2026-04-03T21:30:22Z",
+      "reported_at": "2026-04-03T20:49:31Z"
     }
   ]
 }
