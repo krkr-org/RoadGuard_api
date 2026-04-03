@@ -1,54 +1,84 @@
 {
   "radars": [
     {
+      "id": "08767c4c-cc1b-4cc0-8268-a4f6322be7e6",
+      "latitude": -34.964832,
+      "longitude": 138.572639,
+      "street": "to A2 - South Rd",
+      "city": "Glandore",
+      "type": "mobile",
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T09:21:44Z"
+    },
+    {
       "id": "43de7197-28f2-423b-bde6-1fd3b7442753",
       "latitude": -34.907361,
       "longitude": 138.596323,
       "street": "O'Connell St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:00:23Z",
+      "timestamp": "2026-04-03T09:30:22Z",
       "reported_at": "2026-04-03T08:48:47Z"
     },
     {
-      "id": "003de080-8d60-447f-8dc0-680c01cbfa14",
-      "latitude": -35.020329,
-      "longitude": 138.802158,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Hahndorf",
+      "id": "13c6e592-3f5b-4507-ada8-c739ebae5dd4",
+      "latitude": -35.010843,
+      "longitude": 138.581828,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:00:23Z",
-      "reported_at": "2026-04-03T08:32:32Z"
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T09:26:28Z"
     },
     {
-      "id": "1212d455-41ba-451f-abb0-342683132bc8",
-      "latitude": -34.848642,
-      "longitude": 138.589687,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "916a56ee-f2f2-4f82-bb0c-79625871bf2f",
+      "latitude": -34.986985,
+      "longitude": 138.574496,
+      "street": "A2 - South Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:00:23Z",
-      "reported_at": "2026-04-03T08:31:27Z"
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T09:09:26Z"
     },
     {
-      "id": "e879ef4d-543d-4cc4-98e4-82fda5e99e06",
-      "latitude": -34.763515,
-      "longitude": 138.593086,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Paralowie",
+      "id": "c08b895b-2c30-44fa-b1af-7b3f79c4c7d2",
+      "latitude": -34.915101,
+      "longitude": 138.640385,
+      "street": "A17 - Portrush Rd",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:00:23Z",
-      "reported_at": "2026-04-03T08:51:23Z"
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T08:53:18Z"
     },
     {
-      "id": "6a65e0aa-6e03-45f7-8069-cf66b4b91749",
-      "latitude": -35.043564,
-      "longitude": 138.55275,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "2c06b5ea-a58b-499a-acd1-623ae5b00a4a",
+      "latitude": -34.855697,
+      "longitude": 138.600773,
+      "street": "A1 - Main North Rd",
+      "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-04-03T09:00:23Z",
-      "reported_at": "2026-04-03T08:35:30Z"
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T09:23:51Z"
+    },
+    {
+      "id": "157e8d84-ab27-4a67-a689-0010f2dfc748",
+      "latitude": -34.903734,
+      "longitude": 138.582757,
+      "street": "R1 - Park Tce (City Ring Route)",
+      "city": "Bowden",
+      "type": "mobile",
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T09:16:03Z"
+    },
+    {
+      "id": "e88d3374-a7c9-4d16-93b1-08e1a5de951b",
+      "latitude": -34.963869,
+      "longitude": 138.572657,
+      "street": "A2 - South Rd",
+      "city": "Glandore",
+      "type": "mobile",
+      "timestamp": "2026-04-03T09:30:22Z",
+      "reported_at": "2026-04-03T09:25:35Z"
     }
   ]
 }
