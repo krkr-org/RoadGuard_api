@@ -1,54 +1,44 @@
 {
   "radars": [
     {
+      "id": "86c11cf8-bb80-4f05-a194-383eaf86c50f",
+      "latitude": -34.833143,
+      "longitude": 138.559671,
+      "street": "to A9 - Port River Expy to Port Adelaide / Outer Harbor",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-04T13:00:23Z",
+      "reported_at": "2026-04-04T12:27:31Z"
+    },
+    {
       "id": "36c3fe19-1cad-45eb-996f-e434e53eb554",
       "latitude": -34.935313,
       "longitude": 138.607281,
       "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
+      "timestamp": "2026-04-04T13:00:23Z",
       "reported_at": "2026-04-04T11:40:00Z"
     },
     {
-      "id": "5a081b84-56ce-456e-a54d-616808216072",
-      "latitude": -34.982767,
-      "longitude": 138.53827,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
-      "reported_at": "2026-04-04T12:28:08Z"
-    },
-    {
-      "id": "4fe0002a-be93-4216-8e0c-a4cb5e1099df",
-      "latitude": -34.879611,
-      "longitude": 138.555568,
-      "street": "Torrens Rd",
-      "city": "Kilkenny",
-      "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
-      "reported_at": "2026-04-04T11:35:01Z"
-    },
-    {
-      "id": "ff9a8081-bb04-44b0-ad03-744484a58864",
-      "latitude": -34.841242,
-      "longitude": 138.674197,
-      "street": "A10 - North East Rd",
-      "city": "Valley View",
-      "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
-      "reported_at": "2026-04-04T12:13:46Z"
-    },
-    {
-      "id": "e3302082-d889-4f21-b9c3-9e042e68394b",
-      "latitude": -34.937346,
-      "longitude": 138.587195,
-      "street": "A5 - Anzac Hwy",
+      "id": "9264390d-3876-48d7-98d9-8a03fbd9ffbc",
+      "latitude": -34.925533,
+      "longitude": 138.599807,
+      "street": "King William St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
-      "reported_at": "2026-04-04T12:17:21Z"
+      "timestamp": "2026-04-04T13:00:23Z",
+      "reported_at": "2026-04-04T12:45:29Z"
+    },
+    {
+      "id": "1f8bd084-ef07-498a-b9d9-dba073f68fa2",
+      "latitude": -34.833875,
+      "longitude": 138.501884,
+      "street": "A16 - Victoria Rd",
+      "city": "Birkenhead",
+      "type": "mobile",
+      "timestamp": "2026-04-04T13:00:23Z",
+      "reported_at": "2026-04-04T12:40:05Z"
     },
     {
       "id": "87257c8e-35ff-4474-95df-6f3af262468e",
@@ -57,18 +47,8 @@
       "street": "Unknown Street",
       "city": "Elizabeth Vale",
       "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
+      "timestamp": "2026-04-04T13:00:23Z",
       "reported_at": "2026-04-04T12:09:58Z"
-    },
-    {
-      "id": "c1660c97-d78c-4c3d-8d9e-0090cfa098d2",
-      "latitude": -34.83601,
-      "longitude": 138.56292,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-04T12:30:22Z",
-      "reported_at": "2026-04-04T12:27:08Z"
     }
   ]
 }
