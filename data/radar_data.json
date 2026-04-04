@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "7cedefe7-02c1-4536-a201-906dc818b333",
-      "latitude": -34.840672,
-      "longitude": 138.674867,
+      "id": "71bc2a00-8053-4bd7-95f4-2ab72827dc7a",
+      "latitude": -34.941893,
+      "longitude": 138.571129,
+      "street": "A2 - South Rd",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2026-04-04T17:30:22Z",
+      "reported_at": "2026-04-04T17:00:18Z"
+    },
+    {
+      "id": "3e8027b1-bf50-43db-a7a2-ce226a0de664",
+      "latitude": -34.840804,
+      "longitude": 138.674712,
       "street": "A10 - North East Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-04-04T17:00:22Z",
-      "reported_at": "2026-04-04T15:49:28Z"
-    },
-    {
-      "id": "83422fad-efb1-4061-8138-9bfddb74c291",
-      "latitude": -34.804885,
-      "longitude": 138.603337,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-04T17:00:22Z",
-      "reported_at": "2026-04-04T16:16:29Z"
+      "timestamp": "2026-04-04T17:30:22Z",
+      "reported_at": "2026-04-04T17:01:39Z"
     }
   ]
 }
