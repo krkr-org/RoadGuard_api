@@ -1,64 +1,114 @@
 {
   "radars": [
     {
+      "id": "39a8e352-eae3-4927-8e9a-20cf16bbfdba",
+      "latitude": -34.898924,
+      "longitude": 138.587326,
+      "street": "Torrens Rd Service Rd",
+      "city": "Ovingham",
+      "type": "mobile",
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:45:29Z"
+    },
+    {
       "id": "1d9ff9dd-661d-4493-b369-688349a91512",
       "latitude": -34.922052,
       "longitude": 138.615251,
       "street": "Rundle Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
+      "timestamp": "2026-04-04T10:00:22Z",
       "reported_at": "2026-04-04T07:36:11Z"
     },
     {
-      "id": "970f8d3b-55e2-4074-b6d5-a9968c87bb58",
-      "latitude": -35.054709,
-      "longitude": 138.539312,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "6c79e475-e6ba-47f7-b962-ede22474dedf",
+      "latitude": -34.929587,
+      "longitude": 138.542393,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T08:59:45Z"
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:46:17Z"
     },
     {
-      "id": "ad9efc91-4621-4742-9b29-8b4d5b52c314",
-      "latitude": -35.010811,
-      "longitude": 138.582517,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
+      "id": "5f620ed0-34f2-4e68-9045-24dce5e64dd2",
+      "latitude": -34.934537,
+      "longitude": 138.536942,
+      "street": "Unknown Street",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:27:04Z"
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:22:44Z"
     },
     {
-      "id": "54a3062c-1880-4c3a-b687-6043b098383f",
-      "latitude": -34.920144,
-      "longitude": 138.514859,
+      "id": "499e7647-a74f-457b-afac-6768ef427db8",
+      "latitude": -34.834818,
+      "longitude": 138.626921,
+      "street": "Wright Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:56:36Z"
+    },
+    {
+      "id": "adf62d17-88e6-4e39-bf48-8541b9a8116f",
+      "latitude": -34.892111,
+      "longitude": 138.51365,
       "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
+      "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:16:54Z"
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:36:30Z"
     },
     {
-      "id": "df6745fb-8472-4c3b-b129-32937b7e5b3e",
-      "latitude": -34.848273,
-      "longitude": 138.507999,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:07:59Z"
-    },
-    {
-      "id": "5eb3e678-fb6c-4c38-bd0f-1d4c3eec4032",
-      "latitude": -35.020415,
-      "longitude": 138.800358,
+      "id": "95c9a794-9bfa-4da6-ba02-b826033fc0c1",
+      "latitude": -35.020418,
+      "longitude": 138.800284,
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T05:29:14Z"
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T05:43:29Z"
+    },
+    {
+      "id": "e1b1e2be-ff06-45b6-baa4-635a825a9c3a",
+      "latitude": -34.932461,
+      "longitude": 138.556282,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Cowandilla",
+      "type": "mobile",
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:45:28Z"
+    },
+    {
+      "id": "fbc9d853-913b-4052-b382-aa93c857bfa0",
+      "latitude": -34.931943,
+      "longitude": 138.567656,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Hilton",
+      "type": "mobile",
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:46:37Z"
+    },
+    {
+      "id": "20be78b7-0c49-480e-9222-82ec8410e043",
+      "latitude": -34.932688,
+      "longitude": 138.53867,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:25:55Z"
+    },
+    {
+      "id": "440a0ba9-ecd8-4feb-be81-863a0da1bf36",
+      "latitude": -34.94498,
+      "longitude": 138.55335,
+      "street": "A14 - Marion Rd",
+      "city": "Netley",
+      "type": "mobile",
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:42:39Z"
     },
     {
       "id": "88bf577f-d360-4a8f-8707-8a42beaf1ea8",
@@ -67,78 +117,18 @@
       "street": "A18 - McIntyre Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
+      "timestamp": "2026-04-04T10:00:22Z",
       "reported_at": "2026-04-04T09:17:39Z"
     },
     {
-      "id": "03cffc2e-caa7-41cc-a8dd-54ee77587704",
-      "latitude": -34.940602,
-      "longitude": 138.584167,
-      "street": "A5 - Anzac Hwy",
-      "city": "Adelaide",
+      "id": "62437b4d-26b1-4eb2-8249-250fa9114799",
+      "latitude": -34.790904,
+      "longitude": 138.579549,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
       "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:16:21Z"
-    },
-    {
-      "id": "30b5d68c-cc0a-4278-bed7-befc68f12acb",
-      "latitude": -34.889689,
-      "longitude": 138.656008,
-      "street": "A11 - Payneham Rd",
-      "city": "Glynde",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:14:18Z"
-    },
-    {
-      "id": "d6d74c67-93ec-4119-a645-a4733e437368",
-      "latitude": -34.963877,
-      "longitude": 138.640321,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:19:04Z"
-    },
-    {
-      "id": "3f4af806-e4da-4bdf-8029-57297c676e8d",
-      "latitude": -34.865525,
-      "longitude": 138.644655,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T08:43:19Z"
-    },
-    {
-      "id": "7236a200-1646-4141-8526-17e4d6334542",
-      "latitude": -34.880206,
-      "longitude": 138.533891,
-      "street": "A7 - Port Rd",
-      "city": "Woodville South",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:06:06Z"
-    },
-    {
-      "id": "45fc7412-cf52-4762-b55b-5fcf1663ffe6",
-      "latitude": -34.968472,
-      "longitude": 138.547732,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:08:18Z"
-    },
-    {
-      "id": "ce1e35b7-dbad-486b-bb06-ab7da75b9aeb",
-      "latitude": -35.120315,
-      "longitude": 138.508126,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-04T09:30:22Z",
-      "reported_at": "2026-04-04T09:21:56Z"
+      "timestamp": "2026-04-04T10:00:22Z",
+      "reported_at": "2026-04-04T09:35:08Z"
     }
   ]
 }
