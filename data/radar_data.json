@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "8a40075f-e92d-4091-96c8-0a42cc2d48a8",
-      "latitude": -34.894405,
-      "longitude": 138.64421,
-      "street": "A11 - Payneham Rd",
-      "city": "Payneham",
+      "id": "2e11fd4b-8cf2-4c5b-b1e7-8403f041620f",
+      "latitude": -34.885452,
+      "longitude": 138.584869,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-04T22:00:22Z",
-      "reported_at": "2026-04-04T21:36:24Z"
+      "timestamp": "2026-04-04T22:30:25Z",
+      "reported_at": "2026-04-04T22:02:26Z"
+    },
+    {
+      "id": "238b8dcf-576d-440a-9a95-0057855f27ac",
+      "latitude": -35.066903,
+      "longitude": 138.530775,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-04T22:30:25Z",
+      "reported_at": "2026-04-04T22:18:54Z"
+    },
+    {
+      "id": "36f99e3a-5b99-42fb-abb4-36ed4fc20d58",
+      "latitude": -34.965146,
+      "longitude": 138.646894,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-04-04T22:30:25Z",
+      "reported_at": "2026-04-04T22:20:04Z"
     }
   ]
 }
