@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "0a025fb7-c8c0-45f8-8b12-cf65f20c7fb3",
+      "latitude": -34.879021,
+      "longitude": 138.571979,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-04-04T06:00:25Z",
+      "reported_at": "2026-04-04T05:27:36Z"
+    },
+    {
       "id": "bab862e0-f4d8-4174-a5e1-31e43c7448ba",
       "latitude": -34.721975,
       "longitude": 138.64285,
       "street": "West Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
+      "timestamp": "2026-04-04T06:00:25Z",
       "reported_at": "2026-04-04T04:49:11Z"
-    },
-    {
-      "id": "b3db10df-61fb-492c-b4e5-912f09c74d4a",
-      "latitude": -34.922311,
-      "longitude": 138.612734,
-      "street": "Rundle Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
-      "reported_at": "2026-04-04T05:02:25Z"
     },
     {
       "id": "55be75b5-1b88-4c2a-89d9-b10ee8b1220d",
@@ -27,48 +27,58 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
+      "timestamp": "2026-04-04T06:00:25Z",
       "reported_at": "2026-04-04T02:12:46Z"
     },
     {
-      "id": "9bc12051-f6c4-4159-a1c1-cbf3a44b364a",
-      "latitude": -34.885926,
-      "longitude": 138.593944,
+      "id": "368322af-a7aa-4cdd-b65a-99570c144851",
+      "latitude": -34.89156,
+      "longitude": 138.487965,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-04-04T06:00:25Z",
+      "reported_at": "2026-04-04T05:53:30Z"
+    },
+    {
+      "id": "d103fa9a-45ad-47cb-8659-eeac40cff401",
+      "latitude": -34.880839,
+      "longitude": 138.593582,
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
-      "reported_at": "2026-04-04T02:54:25Z"
+      "timestamp": "2026-04-04T06:00:25Z",
+      "reported_at": "2026-04-04T05:35:12Z"
     },
     {
-      "id": "4e1d00b9-67e3-4f8c-870a-6a050eacc52a",
-      "latitude": -35.053834,
-      "longitude": 138.534854,
-      "street": "A15 - Ocean Bvd",
-      "city": "Seacliff Park",
+      "id": "3210932a-3879-4cad-a87d-176ebd21a335",
+      "latitude": -34.925116,
+      "longitude": 138.614172,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
-      "reported_at": "2026-04-04T05:18:01Z"
+      "timestamp": "2026-04-04T06:00:25Z",
+      "reported_at": "2026-04-04T05:22:36Z"
     },
     {
-      "id": "45ce2464-6bb9-498b-9c02-57c784bfa379",
-      "latitude": -34.98502,
-      "longitude": 138.804659,
+      "id": "b753762f-8658-4d41-a630-2c21d8f5d3c4",
+      "latitude": -35.132958,
+      "longitude": 138.485755,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-04T06:00:25Z",
+      "reported_at": "2026-04-04T05:32:33Z"
+    },
+    {
+      "id": "8d07b175-b239-4efc-9d8b-1e6e916ee69e",
+      "latitude": -34.984885,
+      "longitude": 138.801856,
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
-      "reported_at": "2026-04-04T05:07:47Z"
-    },
-    {
-      "id": "910d62ea-3afb-467f-9fe8-ca683e178903",
-      "latitude": -35.056305,
-      "longitude": 138.535047,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
-      "reported_at": "2026-04-04T05:19:31Z"
+      "timestamp": "2026-04-04T06:00:25Z",
+      "reported_at": "2026-04-04T03:39:14Z"
     },
     {
       "id": "5eb3e678-fb6c-4c38-bd0f-1d4c3eec4032",
@@ -77,18 +87,8 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
+      "timestamp": "2026-04-04T06:00:25Z",
       "reported_at": "2026-04-04T05:29:14Z"
-    },
-    {
-      "id": "a079e132-b10e-447c-a985-b0c5c629cb50",
-      "latitude": -34.83349,
-      "longitude": 138.550439,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-04T05:30:22Z",
-      "reported_at": "2026-04-04T01:32:18Z"
     }
   ]
 }
