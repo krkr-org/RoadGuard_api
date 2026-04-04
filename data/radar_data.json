@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "30ff5c1d-2d4a-46a3-abc1-9ca82e94bdd2",
-      "latitude": -34.922813,
-      "longitude": 138.605568,
-      "street": "Pulteney St",
-      "city": "Adelaide",
+      "id": "55be75b5-1b88-4c2a-89d9-b10ee8b1220d",
+      "latitude": -34.900726,
+      "longitude": 138.576858,
+      "street": "Chief St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-04T04:30:23Z",
-      "reported_at": "2026-04-04T04:11:12Z"
+      "timestamp": "2026-04-04T05:00:22Z",
+      "reported_at": "2026-04-04T02:12:46Z"
+    },
+    {
+      "id": "00e6604a-2f8f-4af0-9423-9f19d9e4e25a",
+      "latitude": -35.13631,
+      "longitude": 138.498793,
+      "street": "Morton Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-04T05:00:22Z",
+      "reported_at": "2026-04-04T04:40:33Z"
+    },
+    {
+      "id": "4b160608-5d9c-462f-ba51-079ead2ff9aa",
+      "latitude": -34.8455,
+      "longitude": 138.488077,
+      "street": "Hart St",
+      "city": "Glanville",
+      "type": "mobile",
+      "timestamp": "2026-04-04T05:00:22Z",
+      "reported_at": "2026-04-04T04:35:58Z"
     },
     {
       "id": "9bc12051-f6c4-4159-a1c1-cbf3a44b364a",
@@ -17,8 +37,18 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-04T04:30:23Z",
+      "timestamp": "2026-04-04T05:00:22Z",
       "reported_at": "2026-04-04T02:54:25Z"
+    },
+    {
+      "id": "5fd27a14-525e-4bc9-8562-65d3b014af93",
+      "latitude": -34.815375,
+      "longitude": 138.501174,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-04-04T05:00:22Z",
+      "reported_at": "2026-04-04T04:52:28Z"
     },
     {
       "id": "8d07b175-b239-4efc-9d8b-1e6e916ee69e",
@@ -27,8 +57,18 @@
       "street": "B26 - Greenhill Rd",
       "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-04-04T04:30:23Z",
+      "timestamp": "2026-04-04T05:00:22Z",
       "reported_at": "2026-04-04T03:39:14Z"
+    },
+    {
+      "id": "43f1cb89-f290-4828-be14-74c83c44ab0f",
+      "latitude": -34.766418,
+      "longitude": 138.605376,
+      "street": "A18 - Kings Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-04-04T05:00:22Z",
+      "reported_at": "2026-04-04T04:53:16Z"
     },
     {
       "id": "a079e132-b10e-447c-a985-b0c5c629cb50",
@@ -37,8 +77,18 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-04T04:30:23Z",
+      "timestamp": "2026-04-04T05:00:22Z",
       "reported_at": "2026-04-04T01:32:18Z"
+    },
+    {
+      "id": "3edff47e-ba9d-4fc1-91e0-be1ce20f3829",
+      "latitude": -34.808143,
+      "longitude": 138.600584,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-04T05:00:22Z",
+      "reported_at": "2026-04-04T04:54:50Z"
     }
   ]
 }
