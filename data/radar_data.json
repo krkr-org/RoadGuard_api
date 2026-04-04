@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "c87ee5f0-c1d0-4e13-8e63-d0fe25ea4187",
-      "latitude": -34.889716,
-      "longitude": 138.569745,
-      "street": "South Rd",
-      "city": "Ridleyton",
+      "id": "0832555d-5f55-4bfe-ba9b-19aed44e845d",
+      "latitude": -34.92207,
+      "longitude": 138.615199,
+      "street": "Rundle Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T05:59:10Z"
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:31:41Z"
+    },
+    {
+      "id": "6f366cc6-99b5-461a-8e9c-c45227a1cf58",
+      "latitude": -34.847114,
+      "longitude": 138.701933,
+      "street": "Valley Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:28:23Z"
     },
     {
       "id": "0c030151-0537-4d89-805f-ad02309eb287",
@@ -17,38 +27,28 @@
       "street": "Chief St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
+      "timestamp": "2026-04-04T07:00:23Z",
       "reported_at": "2026-04-04T04:44:15Z"
     },
     {
-      "id": "368322af-a7aa-4cdd-b65a-99570c144851",
-      "latitude": -34.89156,
-      "longitude": 138.487965,
-      "street": "Military Rd",
-      "city": "Tennyson",
-      "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T05:53:30Z"
-    },
-    {
-      "id": "f3a1c9c2-34d6-419b-8a0c-ad8ca14d1254",
-      "latitude": -34.874866,
-      "longitude": 138.576428,
-      "street": "Regency Rd",
+      "id": "6dce730a-5bb2-4f66-bcfa-664780c369d6",
+      "latitude": -34.875203,
+      "longitude": 138.572796,
+      "street": "Unknown Street",
       "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T06:15:01Z"
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:42:47Z"
     },
     {
-      "id": "da97ad64-e981-45b2-9424-2f2293d4bed1",
-      "latitude": -34.756465,
-      "longitude": 138.632034,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
+      "id": "d3e73d98-d32d-4c2b-becb-459ab19b9d85",
+      "latitude": -34.826347,
+      "longitude": 138.604772,
+      "street": "Montague Rd",
+      "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T06:03:56Z"
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:46:38Z"
     },
     {
       "id": "b753762f-8658-4d41-a630-2c21d8f5d3c4",
@@ -57,18 +57,28 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
+      "timestamp": "2026-04-04T07:00:23Z",
       "reported_at": "2026-04-04T05:32:33Z"
     },
     {
-      "id": "8d07b175-b239-4efc-9d8b-1e6e916ee69e",
-      "latitude": -34.984885,
-      "longitude": 138.801856,
-      "street": "B26 - Greenhill Rd",
-      "city": "Balhannah",
+      "id": "2cd85bc8-e0eb-4aa2-bdab-510fac14454a",
+      "latitude": -35.133989,
+      "longitude": 138.48599,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T03:39:14Z"
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:30:36Z"
+    },
+    {
+      "id": "b1af2edb-d9bb-45bc-81d2-319f0d4a6583",
+      "latitude": -35.065235,
+      "longitude": 138.532507,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:32:39Z"
     },
     {
       "id": "5eb3e678-fb6c-4c38-bd0f-1d4c3eec4032",
@@ -77,28 +87,28 @@
       "street": "B34 - Mount Barker Rd",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
+      "timestamp": "2026-04-04T07:00:23Z",
       "reported_at": "2026-04-04T05:29:14Z"
     },
     {
-      "id": "c3d39fff-3db5-4298-b853-316b923ae767",
-      "latitude": -34.970492,
-      "longitude": 138.555179,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton Park",
+      "id": "8d07b175-b239-4efc-9d8b-1e6e916ee69e",
+      "latitude": -34.984885,
+      "longitude": 138.801856,
+      "street": "B26 - Greenhill Rd",
+      "city": "Balhannah",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T06:18:56Z"
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T03:39:14Z"
     },
     {
-      "id": "d47b67a4-60a9-4ef2-a338-68738c5441e0",
-      "latitude": -34.867583,
-      "longitude": 138.583679,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
+      "id": "988e3008-957a-41ad-8a1d-4a602e50e15a",
+      "latitude": -34.971223,
+      "longitude": 138.555359,
+      "street": "A14 - Marion Rd",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
-      "reported_at": "2026-04-04T06:11:43Z"
+      "timestamp": "2026-04-04T07:00:23Z",
+      "reported_at": "2026-04-04T06:18:52Z"
     },
     {
       "id": "7ceb8b28-362c-4cdf-965c-9b0e1d762a91",
@@ -107,7 +117,7 @@
       "street": "A5 - Anzac Hwy",
       "city": "Novar Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-04T06:30:28Z",
+      "timestamp": "2026-04-04T07:00:23Z",
       "reported_at": "2026-04-04T06:00:01Z"
     }
   ]
