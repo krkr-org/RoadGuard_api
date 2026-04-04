@@ -1,54 +1,64 @@
 {
   "radars": [
     {
-      "id": "86c11cf8-bb80-4f05-a194-383eaf86c50f",
-      "latitude": -34.833143,
-      "longitude": 138.559671,
-      "street": "to A9 - Port River Expy to Port Adelaide / Outer Harbor",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-04T13:00:23Z",
-      "reported_at": "2026-04-04T12:27:31Z"
-    },
-    {
       "id": "36c3fe19-1cad-45eb-996f-e434e53eb554",
       "latitude": -34.935313,
       "longitude": 138.607281,
       "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T13:00:23Z",
+      "timestamp": "2026-04-04T13:30:22Z",
       "reported_at": "2026-04-04T11:40:00Z"
     },
     {
-      "id": "9264390d-3876-48d7-98d9-8a03fbd9ffbc",
-      "latitude": -34.925533,
-      "longitude": 138.599807,
-      "street": "King William St",
-      "city": "Adelaide",
+      "id": "c650bb94-20d1-45aa-9441-d625bc1806a1",
+      "latitude": -34.924256,
+      "longitude": 138.560002,
+      "street": "Henley Beach Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-04-04T13:00:23Z",
-      "reported_at": "2026-04-04T12:45:29Z"
+      "timestamp": "2026-04-04T13:30:22Z",
+      "reported_at": "2026-04-04T13:03:58Z"
     },
     {
-      "id": "1f8bd084-ef07-498a-b9d9-dba073f68fa2",
-      "latitude": -34.833875,
-      "longitude": 138.501884,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
+      "id": "d7345817-3fc4-49c8-9ef4-920683e5894d",
+      "latitude": -34.859263,
+      "longitude": 138.583015,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-04-04T13:00:23Z",
-      "reported_at": "2026-04-04T12:40:05Z"
+      "timestamp": "2026-04-04T13:30:22Z",
+      "reported_at": "2026-04-04T13:05:47Z"
     },
     {
-      "id": "87257c8e-35ff-4474-95df-6f3af262468e",
-      "latitude": -34.751525,
-      "longitude": 138.658056,
-      "street": "Unknown Street",
-      "city": "Elizabeth Vale",
+      "id": "bc60e786-5529-4eae-ac47-e7e03e81668a",
+      "latitude": -34.892433,
+      "longitude": 138.552231,
+      "street": "A7 - Port Rd",
+      "city": "Allenby Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-04T13:00:23Z",
-      "reported_at": "2026-04-04T12:09:58Z"
+      "timestamp": "2026-04-04T13:30:22Z",
+      "reported_at": "2026-04-04T13:16:46Z"
+    },
+    {
+      "id": "e3c8efe8-d9ae-4b0b-b966-5733d913aefb",
+      "latitude": -35.031321,
+      "longitude": 138.55494,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-04T13:30:22Z",
+      "reported_at": "2026-04-04T13:05:31Z"
+    },
+    {
+      "id": "2b5c8c6a-f1d4-4650-bca9-76cad2c9d292",
+      "latitude": -35.025863,
+      "longitude": 138.55745,
+      "street": "M2 - Southern Exp",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-04-04T13:30:22Z",
+      "reported_at": "2026-04-04T13:20:27Z"
     }
   ]
 }
