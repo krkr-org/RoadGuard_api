@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "1d9ff9dd-661d-4493-b369-688349a91512",
-      "latitude": -34.922052,
-      "longitude": 138.615251,
-      "street": "Rundle Rd",
+      "id": "36c3fe19-1cad-45eb-996f-e434e53eb554",
+      "latitude": -34.935313,
+      "longitude": 138.607281,
+      "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-04T12:00:23Z",
-      "reported_at": "2026-04-04T07:36:11Z"
+      "timestamp": "2026-04-04T12:30:22Z",
+      "reported_at": "2026-04-04T11:40:00Z"
+    },
+    {
+      "id": "5a081b84-56ce-456e-a54d-616808216072",
+      "latitude": -34.982767,
+      "longitude": 138.53827,
+      "street": "Morphett Rd",
+      "city": "Glengowrie",
+      "type": "mobile",
+      "timestamp": "2026-04-04T12:30:22Z",
+      "reported_at": "2026-04-04T12:28:08Z"
     },
     {
       "id": "4fe0002a-be93-4216-8e0c-a4cb5e1099df",
@@ -17,18 +27,48 @@
       "street": "Torrens Rd",
       "city": "Kilkenny",
       "type": "mobile",
-      "timestamp": "2026-04-04T12:00:23Z",
+      "timestamp": "2026-04-04T12:30:22Z",
       "reported_at": "2026-04-04T11:35:01Z"
     },
     {
-      "id": "9b9035c1-26c9-47b0-91ba-68a424742c1d",
-      "latitude": -34.972243,
-      "longitude": 138.656281,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "ff9a8081-bb04-44b0-ad03-744484a58864",
+      "latitude": -34.841242,
+      "longitude": 138.674197,
+      "street": "A10 - North East Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-04-04T12:00:23Z",
-      "reported_at": "2026-04-04T07:16:39Z"
+      "timestamp": "2026-04-04T12:30:22Z",
+      "reported_at": "2026-04-04T12:13:46Z"
+    },
+    {
+      "id": "e3302082-d889-4f21-b9c3-9e042e68394b",
+      "latitude": -34.937346,
+      "longitude": 138.587195,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-04T12:30:22Z",
+      "reported_at": "2026-04-04T12:17:21Z"
+    },
+    {
+      "id": "87257c8e-35ff-4474-95df-6f3af262468e",
+      "latitude": -34.751525,
+      "longitude": 138.658056,
+      "street": "Unknown Street",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-04T12:30:22Z",
+      "reported_at": "2026-04-04T12:09:58Z"
+    },
+    {
+      "id": "c1660c97-d78c-4c3d-8d9e-0090cfa098d2",
+      "latitude": -34.83601,
+      "longitude": 138.56292,
+      "street": "M2 - North-South Mwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-04T12:30:22Z",
+      "reported_at": "2026-04-04T12:27:08Z"
     }
   ]
 }
