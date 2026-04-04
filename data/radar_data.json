@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "daa3ac57-4fca-48ca-a002-db19c2c53118",
-      "latitude": -34.966957,
-      "longitude": 138.563868,
-      "street": "Winifred Av",
-      "city": "South Plympton",
+      "id": "ea0f135a-5d7d-416d-8dc5-8306d69799cf",
+      "latitude": -34.902245,
+      "longitude": 138.575352,
+      "street": "Chief St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-03T23:30:18Z"
+      "timestamp": "2026-04-04T01:00:23Z",
+      "reported_at": "2026-04-03T22:56:55Z"
     },
     {
       "id": "5c0c3630-a139-4230-9234-1a842d5418b4",
@@ -17,8 +17,28 @@
       "street": "to Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
+      "timestamp": "2026-04-04T01:00:23Z",
       "reported_at": "2026-04-03T23:10:18Z"
+    },
+    {
+      "id": "84033cb4-fdea-483f-8531-abe4aafa2b15",
+      "latitude": -35.068996,
+      "longitude": 138.629455,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-04T01:00:23Z",
+      "reported_at": "2026-04-04T00:40:03Z"
+    },
+    {
+      "id": "df36d8bb-e588-4e93-999c-71bd92d3bec2",
+      "latitude": -35.128635,
+      "longitude": 138.536573,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-04T01:00:23Z",
+      "reported_at": "2026-04-04T00:35:18Z"
     },
     {
       "id": "c06819c2-a70e-4a87-bc04-c65746eff48e",
@@ -27,78 +47,18 @@
       "street": "Henley Beach Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
+      "timestamp": "2026-04-04T01:00:23Z",
       "reported_at": "2026-04-03T21:37:38Z"
     },
     {
-      "id": "4f944cc7-f7bc-4cd7-aa40-c8356229104a",
-      "latitude": -35.063294,
-      "longitude": 138.653633,
-      "street": "Cherry Gardens Rd",
-      "city": "Cherry Gardens",
+      "id": "47c841e4-73e3-4b23-b3ca-bab58fa9c36b",
+      "latitude": -35.004232,
+      "longitude": 138.767062,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-03T21:58:23Z"
-    },
-    {
-      "id": "c19f53a1-939f-48de-ac6e-e2de541a5863",
-      "latitude": -34.876783,
-      "longitude": 138.484632,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
-      "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-04T00:02:09Z"
-    },
-    {
-      "id": "e1a3a31c-58cd-4f0a-a9e3-1b74736ad865",
-      "latitude": -34.907319,
-      "longitude": 138.639927,
-      "street": "A17 - Portrush Rd",
-      "city": "Evandale",
-      "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-03T23:51:34Z"
-    },
-    {
-      "id": "62b0051e-7e10-4c47-b251-b7dd3fa6a009",
-      "latitude": -34.860759,
-      "longitude": 138.601132,
-      "street": "A1 - Main North Rd",
-      "city": "Blair Athol",
-      "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-03T20:49:51Z"
-    },
-    {
-      "id": "d3a35df9-fd38-479d-a68c-7ac0565f3c8c",
-      "latitude": -34.808756,
-      "longitude": 138.631872,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-04T00:22:57Z"
-    },
-    {
-      "id": "1f1fbf9d-4ccc-4668-9a08-d5eae8ce4f89",
-      "latitude": -34.763991,
-      "longitude": 138.59287,
-      "street": "Unknown Street",
-      "city": "Bolivar",
-      "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-04T00:20:43Z"
-    },
-    {
-      "id": "735fb18a-82e8-48fc-ac74-8df677be5020",
-      "latitude": -34.833752,
-      "longitude": 138.546014,
-      "street": "A9 - Port River Exp",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
-      "reported_at": "2026-04-03T23:22:57Z"
+      "timestamp": "2026-04-04T01:00:23Z",
+      "reported_at": "2026-04-04T00:56:27Z"
     },
     {
       "id": "fd597edf-bd8b-452b-83d0-d4f9b12c8d4b",
@@ -107,7 +67,7 @@
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-04-04T00:30:26Z",
+      "timestamp": "2026-04-04T01:00:23Z",
       "reported_at": "2026-04-03T22:39:08Z"
     }
   ]
