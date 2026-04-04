@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "ea0f135a-5d7d-416d-8dc5-8306d69799cf",
-      "latitude": -34.902245,
-      "longitude": 138.575352,
-      "street": "Chief St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-04-04T02:00:22Z",
-      "reported_at": "2026-04-03T22:56:55Z"
-    },
-    {
       "id": "5c0c3630-a139-4230-9234-1a842d5418b4",
       "latitude": -34.833866,
       "longitude": 138.540366,
       "street": "to Hanson Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-04T02:00:22Z",
+      "timestamp": "2026-04-04T02:30:22Z",
       "reported_at": "2026-04-03T23:10:18Z"
     },
     {
@@ -27,37 +17,47 @@
       "street": "Cherry Gardens Rd",
       "city": "Cherry Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-04T02:00:22Z",
+      "timestamp": "2026-04-04T02:30:22Z",
       "reported_at": "2026-04-03T22:40:12Z"
     },
     {
-      "id": "7a8b33ce-7af5-4a0f-bdbb-3030c9f0d060",
-      "latitude": -34.792459,
-      "longitude": 138.501531,
-      "street": "A16 - Victoria Rd",
-      "city": "North Haven",
+      "id": "c291e1e4-ef59-40e3-8a56-857d1d94deb3",
+      "latitude": -35.017378,
+      "longitude": 138.554753,
+      "street": "Sturt Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-04-04T02:00:22Z",
-      "reported_at": "2026-04-04T01:36:58Z"
+      "timestamp": "2026-04-04T02:30:22Z",
+      "reported_at": "2026-04-04T01:56:09Z"
     },
     {
-      "id": "09bf74ea-6bbf-4301-876c-adb84aa08ff5",
-      "latitude": -35.003193,
-      "longitude": 138.760226,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
+      "id": "259e41e7-a1e2-4108-8db3-6f14de9b9e81",
+      "latitude": -34.818786,
+      "longitude": 138.501281,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
       "type": "mobile",
-      "timestamp": "2026-04-04T02:00:22Z",
-      "reported_at": "2026-04-04T01:29:19Z"
+      "timestamp": "2026-04-04T02:30:22Z",
+      "reported_at": "2026-04-04T02:10:24Z"
+    },
+    {
+      "id": "cb5524d9-ea1f-413e-8c4f-26621a78dab7",
+      "latitude": -34.940852,
+      "longitude": 138.606343,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Unley",
+      "type": "mobile",
+      "timestamp": "2026-04-04T02:30:22Z",
+      "reported_at": "2026-04-04T02:22:28Z"
     },
     {
       "id": "fd597edf-bd8b-452b-83d0-d4f9b12c8d4b",
-      "latitude": -34.834092,
-      "longitude": 138.53915,
+      "latitude": -34.834342,
+      "longitude": 138.534024,
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-04-04T02:00:22Z",
+      "timestamp": "2026-04-04T02:30:22Z",
       "reported_at": "2026-04-03T22:39:08Z"
     }
   ]
