@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "fb1f31fd-875f-4ae4-94d0-0e0783c0e1c6",
-      "latitude": -34.901141,
-      "longitude": 138.600474,
-      "street": "Medindie Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T06:01:13Z"
-    },
-    {
-      "id": "b77c8f43-99f5-441c-a147-285f00ae28ef",
-      "latitude": -34.906799,
-      "longitude": 138.684624,
-      "street": "Glen Stuart Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T07:03:41Z"
-    },
-    {
       "id": "ff2a5358-60d5-462f-a32d-92d7e4bc4f44",
       "latitude": -34.891699,
       "longitude": 138.661749,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
+      "timestamp": "2026-04-05T10:30:23Z",
       "reported_at": "2026-04-05T05:52:35Z"
     },
     {
@@ -37,58 +17,68 @@
       "street": "Devereux Rd",
       "city": "Linden Park",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
+      "timestamp": "2026-04-05T10:30:23Z",
       "reported_at": "2026-04-05T07:03:06Z"
     },
     {
-      "id": "d44ecd6b-2a6c-4940-8f9b-ee6f4c504d2d",
-      "latitude": -34.742913,
-      "longitude": 138.648116,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "b77c8f43-99f5-441c-a147-285f00ae28ef",
+      "latitude": -34.906799,
+      "longitude": 138.684624,
+      "street": "Glen Stuart Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T09:31:51Z"
+      "timestamp": "2026-04-05T10:30:23Z",
+      "reported_at": "2026-04-05T07:03:41Z"
     },
     {
-      "id": "d1de8e7a-7d08-496c-a0ba-8ad401692ce2",
-      "latitude": -34.893381,
-      "longitude": 138.607015,
+      "id": "29dade6d-bbec-41f4-98c4-baed3132a617",
+      "latitude": -34.893542,
+      "longitude": 138.603851,
       "street": "Nottage Tce",
       "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T08:33:13Z"
+      "timestamp": "2026-04-05T10:30:23Z",
+      "reported_at": "2026-04-05T05:31:05Z"
     },
     {
-      "id": "e42e1c76-8c7a-423c-b2d9-752865145203",
-      "latitude": -34.92349,
-      "longitude": 138.577246,
+      "id": "0d9704dd-62eb-489b-91b0-2117ff1ef871",
+      "latitude": -34.776455,
+      "longitude": 138.644772,
+      "street": "Cross Keys Rd",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-04-05T10:30:23Z",
+      "reported_at": "2026-04-05T10:22:48Z"
+    },
+    {
+      "id": "c0aff5f6-fd14-4d31-b285-57bb30a85e39",
+      "latitude": -34.698469,
+      "longitude": 138.658301,
+      "street": "Womma Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-04-05T10:30:23Z",
+      "reported_at": "2026-04-05T10:15:43Z"
+    },
+    {
+      "id": "81696a77-1288-44f6-b76d-d9d995d58fee",
+      "latitude": -34.933068,
+      "longitude": 138.588018,
+      "street": "West Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-05T10:30:23Z",
+      "reported_at": "2026-04-05T10:26:38Z"
+    },
+    {
+      "id": "5a4ece63-7f57-419f-9a9b-06584238a222",
+      "latitude": -34.923421,
+      "longitude": 138.579334,
       "street": "Henley Beach Rd",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T08:31:05Z"
-    },
-    {
-      "id": "3b39a942-0f5c-40da-aa7e-846713346742",
-      "latitude": -34.844996,
-      "longitude": 138.602393,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T09:32:39Z"
-    },
-    {
-      "id": "302cef51-b945-48f7-97bf-a82269e8100f",
-      "latitude": -34.970004,
-      "longitude": 138.5732,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T09:30:59Z"
+      "timestamp": "2026-04-05T10:30:23Z",
+      "reported_at": "2026-04-05T08:54:14Z"
     },
     {
       "id": "225ec594-cfa0-48f2-8bf1-d6d3d9806d81",
@@ -97,38 +87,8 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
+      "timestamp": "2026-04-05T10:30:23Z",
       "reported_at": "2026-04-05T09:47:38Z"
-    },
-    {
-      "id": "a4d1e7af-1968-44da-b5c4-f3238d4fc814",
-      "latitude": -34.88279,
-      "longitude": 138.538633,
-      "street": "A7 - Port Rd",
-      "city": "Woodville",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T09:49:15Z"
-    },
-    {
-      "id": "31e02f76-e53e-4736-b764-1b76000ac1e4",
-      "latitude": -35.109717,
-      "longitude": 138.523075,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T09:22:54Z"
-    },
-    {
-      "id": "69745f70-3841-456f-812a-07c3302d34b1",
-      "latitude": -34.959095,
-      "longitude": 138.554495,
-      "street": "A14 - Marion Rd",
-      "city": "North Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:00:22Z",
-      "reported_at": "2026-04-05T09:48:00Z"
     }
   ]
 }
