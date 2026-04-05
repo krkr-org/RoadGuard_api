@@ -1,14 +1,54 @@
 {
   "radars": [
     {
+      "id": "6df8f2d4-390e-4233-a96a-5f4f0addfc3f",
+      "latitude": -34.900955,
+      "longitude": 138.600652,
+      "street": "Medindie Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-05T06:30:23Z",
+      "reported_at": "2026-04-05T06:11:44Z"
+    },
+    {
+      "id": "1c737b21-c92c-4cc6-9fc3-a0ea1a98b9c5",
+      "latitude": -34.869058,
+      "longitude": 138.565839,
+      "street": "Days Rd",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-04-05T06:30:23Z",
+      "reported_at": "2026-04-05T05:46:09Z"
+    },
+    {
       "id": "ff2a5358-60d5-462f-a32d-92d7e4bc4f44",
       "latitude": -34.891699,
       "longitude": 138.661749,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
+      "timestamp": "2026-04-05T06:30:23Z",
       "reported_at": "2026-04-05T05:52:35Z"
+    },
+    {
+      "id": "2fd0a45b-359d-44da-bd66-cbe810a956d3",
+      "latitude": -34.915605,
+      "longitude": 138.587387,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-05T06:30:23Z",
+      "reported_at": "2026-04-05T06:05:33Z"
+    },
+    {
+      "id": "3109831a-5adc-4849-808f-fbf2e5358716",
+      "latitude": -34.860136,
+      "longitude": 138.490849,
+      "street": "Bartley Tce",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-04-05T06:30:23Z",
+      "reported_at": "2026-04-05T06:04:39Z"
     },
     {
       "id": "a074fdbd-2742-464c-ab3c-647f3d70319f",
@@ -17,7 +57,7 @@
       "street": "Adams Rd",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
+      "timestamp": "2026-04-05T06:30:23Z",
       "reported_at": "2026-04-05T05:00:13Z"
     },
     {
@@ -27,18 +67,8 @@
       "street": "Nottage Tce",
       "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
+      "timestamp": "2026-04-05T06:30:23Z",
       "reported_at": "2026-04-05T05:31:05Z"
-    },
-    {
-      "id": "583faa57-8280-4bb9-9dd8-582dd341f9d2",
-      "latitude": -34.927597,
-      "longitude": 138.620494,
-      "street": "Wakefield Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
-      "reported_at": "2026-04-05T05:26:38Z"
     },
     {
       "id": "3e7723ae-84c6-4ccc-ac0a-23fc923b3191",
@@ -47,38 +77,18 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
+      "timestamp": "2026-04-05T06:30:23Z",
       "reported_at": "2026-04-05T04:50:41Z"
     },
     {
-      "id": "ff2c654d-2d5e-4c6a-afe6-832a424d0382",
-      "latitude": -35.067826,
-      "longitude": 138.798532,
-      "street": "B34 - Echunga Rd",
-      "city": "Echunga",
-      "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
-      "reported_at": "2026-04-05T03:21:40Z"
-    },
-    {
-      "id": "a14fa01d-8a8a-40f9-8c88-afded7269314",
-      "latitude": -34.913504,
-      "longitude": 138.613764,
+      "id": "7bde7d59-26c5-4d67-be64-65a321ed955e",
+      "latitude": -34.911681,
+      "longitude": 138.613328,
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
-      "reported_at": "2026-04-05T05:30:19Z"
-    },
-    {
-      "id": "8e9b93a4-b0c5-470c-8970-1c6a4cc0afd8",
-      "latitude": -34.820097,
-      "longitude": 138.589383,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-04-05T06:00:23Z",
-      "reported_at": "2026-04-05T05:58:17Z"
+      "timestamp": "2026-04-05T06:30:23Z",
+      "reported_at": "2026-04-05T06:12:10Z"
     }
   ]
 }
