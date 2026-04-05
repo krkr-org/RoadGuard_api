@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "ff2a5358-60d5-462f-a32d-92d7e4bc4f44",
-      "latitude": -34.891699,
-      "longitude": 138.661749,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "d02c9452-9705-4b89-b1d3-dd9e8004cd1d",
+      "latitude": -34.930107,
+      "longitude": 138.651334,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
-      "reported_at": "2026-04-05T05:52:35Z"
-    },
-    {
-      "id": "2b9dc29f-81ad-4590-9cde-010accb9e763",
-      "latitude": -34.939089,
-      "longitude": 138.651402,
-      "street": "Devereux Rd",
-      "city": "Linden Park",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
-      "reported_at": "2026-04-05T07:03:06Z"
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T09:04:01Z"
     },
     {
       "id": "b77c8f43-99f5-441c-a147-285f00ae28ef",
@@ -27,38 +17,38 @@
       "street": "Glen Stuart Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
+      "timestamp": "2026-04-05T11:00:24Z",
       "reported_at": "2026-04-05T07:03:41Z"
     },
     {
-      "id": "29dade6d-bbec-41f4-98c4-baed3132a617",
-      "latitude": -34.893542,
-      "longitude": 138.603851,
+      "id": "2b9dc29f-81ad-4590-9cde-010accb9e763",
+      "latitude": -34.939089,
+      "longitude": 138.651402,
+      "street": "Devereux Rd",
+      "city": "Linden Park",
+      "type": "mobile",
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T07:03:06Z"
+    },
+    {
+      "id": "d1de8e7a-7d08-496c-a0ba-8ad401692ce2",
+      "latitude": -34.893381,
+      "longitude": 138.607015,
       "street": "Nottage Tce",
       "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
-      "reported_at": "2026-04-05T05:31:05Z"
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T08:33:13Z"
     },
     {
-      "id": "0d9704dd-62eb-489b-91b0-2117ff1ef871",
-      "latitude": -34.776455,
-      "longitude": 138.644772,
-      "street": "Cross Keys Rd",
-      "city": "Salisbury",
+      "id": "d212c1b2-2e48-4025-aae1-512c16348c81",
+      "latitude": -34.923487,
+      "longitude": 138.580787,
+      "street": "Glover Av",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
-      "reported_at": "2026-04-05T10:22:48Z"
-    },
-    {
-      "id": "c0aff5f6-fd14-4d31-b285-57bb30a85e39",
-      "latitude": -34.698469,
-      "longitude": 138.658301,
-      "street": "Womma Rd",
-      "city": "Davoren Park",
-      "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
-      "reported_at": "2026-04-05T10:15:43Z"
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T10:30:31Z"
     },
     {
       "id": "81696a77-1288-44f6-b76d-d9d995d58fee",
@@ -67,18 +57,18 @@
       "street": "West Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
+      "timestamp": "2026-04-05T11:00:24Z",
       "reported_at": "2026-04-05T10:26:38Z"
     },
     {
-      "id": "5a4ece63-7f57-419f-9a9b-06584238a222",
-      "latitude": -34.923421,
-      "longitude": 138.579334,
-      "street": "Henley Beach Rd",
-      "city": "Mile End",
+      "id": "292e9bf8-a105-43ae-ac11-aa45875fb248",
+      "latitude": -34.733273,
+      "longitude": 138.675865,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
-      "reported_at": "2026-04-05T08:54:14Z"
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T10:36:00Z"
     },
     {
       "id": "225ec594-cfa0-48f2-8bf1-d6d3d9806d81",
@@ -87,8 +77,38 @@
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T10:30:23Z",
+      "timestamp": "2026-04-05T11:00:24Z",
       "reported_at": "2026-04-05T09:47:38Z"
+    },
+    {
+      "id": "f57f61a5-ef82-4f41-b68b-9adea5a51495",
+      "latitude": -34.832853,
+      "longitude": 138.574681,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T10:37:34Z"
+    },
+    {
+      "id": "4bf9e81e-2611-4dd5-bbde-8fde32aca5a8",
+      "latitude": -35.038778,
+      "longitude": 138.557215,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T10:51:23Z"
+    },
+    {
+      "id": "25d25c49-fcf4-435b-94a6-5e0bb9dc91a0",
+      "latitude": -34.819365,
+      "longitude": 138.590092,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-04-05T11:00:24Z",
+      "reported_at": "2026-04-05T10:39:02Z"
     }
   ]
 }
