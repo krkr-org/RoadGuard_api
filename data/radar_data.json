@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "9b9b2e79-e2a4-4515-9106-be02d6490839",
-      "latitude": -34.900503,
-      "longitude": 138.610703,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
+      "id": "66f6d6fa-b150-4a45-8772-537cfb7afdfe",
+      "latitude": -34.914453,
+      "longitude": 138.561776,
+      "street": "Ashwin Pde",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-04-05T03:00:22Z",
-      "reported_at": "2026-04-04T23:07:18Z"
+      "timestamp": "2026-04-05T03:30:22Z",
+      "reported_at": "2026-04-05T02:29:53Z"
+    },
+    {
+      "id": "b2dab636-70bc-41b9-a18c-e08dd18007e1",
+      "latitude": -34.906235,
+      "longitude": 138.516243,
+      "street": "Grange Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-04-05T03:30:22Z",
+      "reported_at": "2026-04-05T03:10:32Z"
     },
     {
       "id": "a4ea160c-7475-448e-b4e7-69db34a17d6e",
@@ -17,8 +27,38 @@
       "street": "Henley Beach Rd",
       "city": "Fulham",
       "type": "mobile",
-      "timestamp": "2026-04-05T03:00:22Z",
+      "timestamp": "2026-04-05T03:30:22Z",
       "reported_at": "2026-04-05T00:38:54Z"
+    },
+    {
+      "id": "14914575-866a-4098-814b-d8405b5d28e1",
+      "latitude": -35.069031,
+      "longitude": 138.630003,
+      "street": "Cherry Gardens Rd",
+      "city": "Cherry Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-05T03:30:22Z",
+      "reported_at": "2026-04-05T03:09:54Z"
+    },
+    {
+      "id": "bac8d7dd-f9a3-4816-b5ee-1c28cf45a7da",
+      "latitude": -35.118781,
+      "longitude": 138.48975,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
+      "type": "mobile",
+      "timestamp": "2026-04-05T03:30:22Z",
+      "reported_at": "2026-04-05T03:17:43Z"
+    },
+    {
+      "id": "3d8c198a-aff5-4f39-a018-3df44ea884d4",
+      "latitude": -34.924628,
+      "longitude": 138.618437,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-05T03:30:22Z",
+      "reported_at": "2026-04-05T03:17:30Z"
     }
   ]
 }
