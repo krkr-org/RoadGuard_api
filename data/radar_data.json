@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "149634f3-aaef-413b-b3e6-62f661e1aabf",
-      "latitude": -34.911285,
-      "longitude": 138.564578,
-      "street": "A2 - South Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-04-05T22:00:22Z",
-      "reported_at": "2026-04-05T21:40:56Z"
-    },
-    {
-      "id": "5af9a965-1d2a-410a-b35d-ae59cfcdd19c",
-      "latitude": -34.807703,
-      "longitude": 138.632575,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-04-05T22:00:22Z",
-      "reported_at": "2026-04-05T21:30:25Z"
-    },
-    {
       "id": "0b8c3bf6-0097-4582-8810-fe610ffae722",
       "latitude": -34.789676,
       "longitude": 138.617092,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T22:00:22Z",
+      "timestamp": "2026-04-05T22:30:22Z",
       "reported_at": "2026-04-05T21:57:50Z"
+    },
+    {
+      "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
+      "latitude": -34.819183,
+      "longitude": 138.62231,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-05T22:30:22Z",
+      "reported_at": "2026-04-05T22:13:43Z"
+    },
+    {
+      "id": "ec5f88f1-4561-46ad-b7f3-f570b85bd0ac",
+      "latitude": -35.006896,
+      "longitude": 138.776178,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-04-05T22:30:22Z",
+      "reported_at": "2026-04-05T22:14:28Z"
     }
   ]
 }
