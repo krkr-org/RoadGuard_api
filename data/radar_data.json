@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "2b9dc29f-81ad-4590-9cde-010accb9e763",
-      "latitude": -34.939089,
-      "longitude": 138.651402,
-      "street": "Devereux Rd",
-      "city": "Linden Park",
-      "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
-      "reported_at": "2026-04-05T07:03:06Z"
-    },
-    {
-      "id": "6df8f2d4-390e-4233-a96a-5f4f0addfc3f",
-      "latitude": -34.901398,
-      "longitude": 138.600227,
-      "street": "Medindie Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
-      "reported_at": "2026-04-05T06:11:44Z"
-    },
-    {
       "id": "ff2a5358-60d5-462f-a32d-92d7e4bc4f44",
       "latitude": -34.891699,
       "longitude": 138.661749,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
+      "timestamp": "2026-04-05T09:30:22Z",
       "reported_at": "2026-04-05T05:52:35Z"
     },
     {
@@ -37,18 +17,38 @@
       "street": "Glen Stuart Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
+      "timestamp": "2026-04-05T09:30:22Z",
       "reported_at": "2026-04-05T07:03:41Z"
     },
     {
-      "id": "645cd293-bd1d-4d4a-9466-228fd46bd211",
-      "latitude": -34.905673,
-      "longitude": 138.595826,
-      "street": "O'Connell St",
+      "id": "fb1f31fd-875f-4ae4-94d0-0e0783c0e1c6",
+      "latitude": -34.901141,
+      "longitude": 138.600474,
+      "street": "Medindie Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
-      "reported_at": "2026-04-05T08:52:37Z"
+      "timestamp": "2026-04-05T09:30:22Z",
+      "reported_at": "2026-04-05T06:01:13Z"
+    },
+    {
+      "id": "2b9dc29f-81ad-4590-9cde-010accb9e763",
+      "latitude": -34.939089,
+      "longitude": 138.651402,
+      "street": "Devereux Rd",
+      "city": "Linden Park",
+      "type": "mobile",
+      "timestamp": "2026-04-05T09:30:22Z",
+      "reported_at": "2026-04-05T07:03:06Z"
+    },
+    {
+      "id": "e95828a9-7e84-4888-b8d2-6b8a5e9076f2",
+      "latitude": -34.744266,
+      "longitude": 138.647242,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-05T09:30:22Z",
+      "reported_at": "2026-04-05T09:06:40Z"
     },
     {
       "id": "10615489-739c-4e66-9917-8a76c452d3df",
@@ -57,38 +57,38 @@
       "street": "Nottage Tce",
       "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
+      "timestamp": "2026-04-05T09:30:22Z",
       "reported_at": "2026-04-05T08:39:03Z"
     },
     {
-      "id": "5a4ece63-7f57-419f-9a9b-06584238a222",
-      "latitude": -34.923417,
-      "longitude": 138.578948,
+      "id": "e42e1c76-8c7a-423c-b2d9-752865145203",
+      "latitude": -34.92349,
+      "longitude": 138.577246,
       "street": "Henley Beach Rd",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
-      "reported_at": "2026-04-05T08:54:14Z"
+      "timestamp": "2026-04-05T09:30:22Z",
+      "reported_at": "2026-04-05T08:31:05Z"
     },
     {
-      "id": "996bee4e-cf73-4e28-87f3-060d2cb96e3a",
-      "latitude": -34.805526,
-      "longitude": 138.634536,
-      "street": "A20 - Main North Rd",
-      "city": "Parafield",
-      "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
-      "reported_at": "2026-04-05T08:56:12Z"
-    },
-    {
-      "id": "a4fd5d7e-d711-4117-84c8-901e6407d717",
-      "latitude": -34.913227,
-      "longitude": 138.613531,
+      "id": "a14fa01d-8a8a-40f9-8c88-afded7269314",
+      "latitude": -34.913504,
+      "longitude": 138.613764,
       "street": "R1 - Hackney Rd (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T09:00:22Z",
-      "reported_at": "2026-04-05T05:44:28Z"
+      "timestamp": "2026-04-05T09:30:22Z",
+      "reported_at": "2026-04-05T05:30:19Z"
+    },
+    {
+      "id": "53fb1843-37fd-45b0-ab23-c3b565ab4198",
+      "latitude": -34.922534,
+      "longitude": 138.579261,
+      "street": "R1 - James Congdon Dr (City Ring Route)",
+      "city": "Mile End",
+      "type": "mobile",
+      "timestamp": "2026-04-05T09:30:22Z",
+      "reported_at": "2026-04-05T08:58:16Z"
     }
   ]
 }
