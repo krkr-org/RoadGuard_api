@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "cfa0a374-cfd2-4fe0-9aae-eb71cfb38d6b",
-      "latitude": -34.728565,
-      "longitude": 138.568091,
-      "street": "Robinson Rd",
-      "city": "Waterloo Corner",
+      "id": "f900e8b5-f437-4bcd-a7c6-5620313476dd",
+      "latitude": -34.936942,
+      "longitude": 138.536807,
+      "street": "Unknown Street",
+      "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
-      "reported_at": "2026-04-05T22:39:29Z"
+      "timestamp": "2026-04-05T23:30:22Z",
+      "reported_at": "2026-04-05T23:18:34Z"
     },
     {
-      "id": "30580349-6483-4a8a-a091-cf8a295fb4f7",
-      "latitude": -35.128517,
-      "longitude": 138.536564,
-      "street": "States Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
-      "reported_at": "2026-04-05T22:29:25Z"
-    },
-    {
-      "id": "b22757a7-7054-4546-88f3-f1d047ce1e83",
-      "latitude": -34.802911,
-      "longitude": 138.642909,
+      "id": "b9ab2f2f-de79-4aee-8d49-69c7f164eadf",
+      "latitude": -34.802891,
+      "longitude": 138.642877,
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
-      "reported_at": "2026-04-05T22:47:10Z"
-    },
-    {
-      "id": "2a280beb-89a3-4aac-86a8-ceb590be4500",
-      "latitude": -34.857998,
-      "longitude": 138.5026,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
-      "reported_at": "2026-04-05T22:43:36Z"
-    },
-    {
-      "id": "3d73dd0e-3a98-44c7-8984-5856366ec122",
-      "latitude": -35.099502,
-      "longitude": 138.792734,
-      "street": "B34 - Adelaide Rd",
-      "city": "Echunga",
-      "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
-      "reported_at": "2026-04-05T22:52:12Z"
-    },
-    {
-      "id": "8f754e52-9100-4953-8eee-6ab0939b6018",
-      "latitude": -34.788264,
-      "longitude": 138.61834,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
-      "reported_at": "2026-04-05T22:43:43Z"
+      "timestamp": "2026-04-05T23:30:22Z",
+      "reported_at": "2026-04-05T22:08:47Z"
     },
     {
       "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
@@ -67,8 +27,38 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
+      "timestamp": "2026-04-05T23:30:22Z",
       "reported_at": "2026-04-05T22:13:43Z"
+    },
+    {
+      "id": "2da2c840-1f3a-425a-bc72-e169d5826433",
+      "latitude": -34.966602,
+      "longitude": 138.550892,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:30:22Z",
+      "reported_at": "2026-04-05T23:02:10Z"
+    },
+    {
+      "id": "827bc341-0820-43ee-ab5b-a4f4b6bc24b7",
+      "latitude": -35.001602,
+      "longitude": 138.702882,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:30:22Z",
+      "reported_at": "2026-04-05T23:00:37Z"
+    },
+    {
+      "id": "8f754e52-9100-4953-8eee-6ab0939b6018",
+      "latitude": -34.788264,
+      "longitude": 138.61834,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:30:22Z",
+      "reported_at": "2026-04-05T22:43:43Z"
     },
     {
       "id": "8710392c-1f33-4c92-97eb-d19fbb03d04a",
@@ -77,7 +67,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:00:23Z",
+      "timestamp": "2026-04-05T23:30:22Z",
       "reported_at": "2026-04-05T22:03:57Z"
     }
   ]
