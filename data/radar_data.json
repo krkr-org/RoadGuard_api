@@ -1,14 +1,64 @@
 {
   "radars": [
     {
-      "id": "0b8c3bf6-0097-4582-8810-fe610ffae722",
-      "latitude": -34.789676,
-      "longitude": 138.617092,
+      "id": "cfa0a374-cfd2-4fe0-9aae-eb71cfb38d6b",
+      "latitude": -34.728565,
+      "longitude": 138.568091,
+      "street": "Robinson Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:39:29Z"
+    },
+    {
+      "id": "30580349-6483-4a8a-a091-cf8a295fb4f7",
+      "latitude": -35.128517,
+      "longitude": 138.536564,
+      "street": "States Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:29:25Z"
+    },
+    {
+      "id": "b22757a7-7054-4546-88f3-f1d047ce1e83",
+      "latitude": -34.802911,
+      "longitude": 138.642909,
+      "street": "Kesters Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:47:10Z"
+    },
+    {
+      "id": "2a280beb-89a3-4aac-86a8-ceb590be4500",
+      "latitude": -34.857998,
+      "longitude": 138.5026,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:43:36Z"
+    },
+    {
+      "id": "3d73dd0e-3a98-44c7-8984-5856366ec122",
+      "latitude": -35.099502,
+      "longitude": 138.792734,
+      "street": "B34 - Adelaide Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:52:12Z"
+    },
+    {
+      "id": "8f754e52-9100-4953-8eee-6ab0939b6018",
+      "latitude": -34.788264,
+      "longitude": 138.61834,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T22:30:22Z",
-      "reported_at": "2026-04-05T21:57:50Z"
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:43:43Z"
     },
     {
       "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
@@ -17,18 +67,18 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-05T22:30:22Z",
+      "timestamp": "2026-04-05T23:00:23Z",
       "reported_at": "2026-04-05T22:13:43Z"
     },
     {
-      "id": "ec5f88f1-4561-46ad-b7f3-f570b85bd0ac",
-      "latitude": -35.006896,
-      "longitude": 138.776178,
+      "id": "8710392c-1f33-4c92-97eb-d19fbb03d04a",
+      "latitude": -35.007027,
+      "longitude": 138.77759,
       "street": "M1 - South Eastern Fwy",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-04-05T22:30:22Z",
-      "reported_at": "2026-04-05T22:14:28Z"
+      "timestamp": "2026-04-05T23:00:23Z",
+      "reported_at": "2026-04-05T22:03:57Z"
     }
   ]
 }
