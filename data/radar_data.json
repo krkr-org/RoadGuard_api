@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "da47f2c7-d5ec-4e9b-885f-502de4427fa2",
-      "latitude": -34.859817,
-      "longitude": 138.649627,
-      "street": "Ramsay Av",
-      "city": "Hillcrest",
-      "type": "mobile",
-      "timestamp": "2026-04-05T13:30:22Z",
-      "reported_at": "2026-04-05T12:51:58Z"
-    },
-    {
       "id": "ceb59b04-edf6-48f0-bff8-975f798b99c5",
       "latitude": -34.901447,
       "longitude": 138.600179,
       "street": "Medindie Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-05T13:30:22Z",
+      "timestamp": "2026-04-05T14:00:23Z",
       "reported_at": "2026-04-05T11:26:17Z"
     },
     {
-      "id": "2a9386ac-887d-40c8-a3c9-26ea4232fc3a",
-      "latitude": -34.856452,
-      "longitude": 138.655595,
-      "street": "Unknown Street",
-      "city": "Gilles Plains",
+      "id": "004b5c3e-845f-4f41-86e1-13a569929b45",
+      "latitude": -34.924206,
+      "longitude": 138.561046,
+      "street": "Henley Beach Rd",
+      "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-04-05T13:30:22Z",
-      "reported_at": "2026-04-05T12:54:10Z"
+      "timestamp": "2026-04-05T14:00:23Z",
+      "reported_at": "2026-04-05T13:47:02Z"
+    },
+    {
+      "id": "555fcb54-619f-45f0-82d0-d9c5611bdf16",
+      "latitude": -34.793507,
+      "longitude": 138.698522,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-04-05T14:00:23Z",
+      "reported_at": "2026-04-05T13:33:13Z"
+    },
+    {
+      "id": "b35d2c7d-a4c3-4893-85b2-5072decfff57",
+      "latitude": -34.937103,
+      "longitude": 138.571036,
+      "street": "R1 - James Congdon Dr (City Ring Route)",
+      "city": "Mile End South",
+      "type": "mobile",
+      "timestamp": "2026-04-05T14:00:23Z",
+      "reported_at": "2026-04-05T13:36:00Z"
     }
   ]
 }
