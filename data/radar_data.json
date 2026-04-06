@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "cfa0a374-cfd2-4fe0-9aae-eb71cfb38d6b",
-      "latitude": -34.727981,
-      "longitude": 138.567862,
+      "id": "9cc2c2d8-91fb-44ad-9010-329226dc0731",
+      "latitude": -34.728237,
+      "longitude": 138.567982,
       "street": "Robinson Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-05T22:39:29Z"
+      "timestamp": "2026-04-06T02:30:31Z",
+      "reported_at": "2026-04-05T23:28:18Z"
     },
     {
-      "id": "fd41e6fc-a552-4ebb-88cf-41e45fbaff91",
-      "latitude": -34.776447,
-      "longitude": 138.599432,
-      "street": "Shepherdson Rd",
-      "city": "Parafield Gardens",
+      "id": "dd9648bb-9df2-4624-817b-10af733e62d9",
+      "latitude": -34.698408,
+      "longitude": 138.691647,
+      "street": "Hamblynn Rd",
+      "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-05T22:02:20Z"
+      "timestamp": "2026-04-06T02:30:31Z",
+      "reported_at": "2026-04-06T02:04:29Z"
+    },
+    {
+      "id": "a26df756-2af6-405e-af8c-37c02a2cd7fc",
+      "latitude": -34.852205,
+      "longitude": 138.591634,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-04-06T02:30:31Z",
+      "reported_at": "2026-04-06T02:14:55Z"
+    },
+    {
+      "id": "e6aa8525-2d87-48e8-b563-3cbfded28e6c",
+      "latitude": -34.774551,
+      "longitude": 138.678665,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-04-06T02:30:31Z",
+      "reported_at": "2026-04-06T02:07:58Z"
     },
     {
       "id": "96b1505b-bb58-4e84-b17f-8e39491000db",
@@ -27,28 +47,8 @@
       "street": "Peachey Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
+      "timestamp": "2026-04-06T02:30:31Z",
       "reported_at": "2026-04-06T01:49:10Z"
-    },
-    {
-      "id": "220f4223-6679-4bfc-befe-f1e617471876",
-      "latitude": -34.81829,
-      "longitude": 138.501128,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
-      "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-06T01:12:44Z"
-    },
-    {
-      "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
-      "latitude": -34.819183,
-      "longitude": 138.62231,
-      "street": "A20 - Main North Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-05T22:13:43Z"
     },
     {
       "id": "b0fe5280-159a-42b8-b1b5-7c2513a7580c",
@@ -57,58 +57,28 @@
       "street": "B10 - North East Rd",
       "city": "Inglewood",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
+      "timestamp": "2026-04-06T02:30:31Z",
       "reported_at": "2026-04-06T01:41:32Z"
     },
     {
-      "id": "be0be442-e69f-439f-848b-5e7bd512501d",
-      "latitude": -35.026793,
-      "longitude": 138.558624,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
+      "id": "9a050250-ebe2-45a9-acc9-24e0b7f769fd",
+      "latitude": -34.819531,
+      "longitude": 138.622279,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-06T01:16:30Z"
+      "timestamp": "2026-04-06T02:30:31Z",
+      "reported_at": "2026-04-06T02:22:49Z"
     },
     {
-      "id": "c761bf0a-e86f-489d-82f3-f68529dded47",
-      "latitude": -34.759233,
-      "longitude": 138.642957,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-06T01:40:17Z"
-    },
-    {
-      "id": "5aa82bb6-5dda-4cfb-906c-8894074ef3ce",
-      "latitude": -34.788606,
-      "longitude": 138.617898,
+      "id": "09bd94c5-4e6b-43c1-9961-084394de76d2",
+      "latitude": -34.789696,
+      "longitude": 138.61706,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-05T23:06:30Z"
-    },
-    {
-      "id": "85c19a75-9c95-4524-a11b-47ffe43fe772",
-      "latitude": -34.713337,
-      "longitude": 138.674617,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth",
-      "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-06T01:48:04Z"
-    },
-    {
-      "id": "8710392c-1f33-4c92-97eb-d19fbb03d04a",
-      "latitude": -35.007027,
-      "longitude": 138.77759,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-04-06T02:00:22Z",
-      "reported_at": "2026-04-05T22:03:57Z"
+      "timestamp": "2026-04-06T02:30:31Z",
+      "reported_at": "2026-04-06T00:27:38Z"
     }
   ]
 }
