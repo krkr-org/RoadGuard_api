@@ -1,64 +1,14 @@
 {
   "radars": [
     {
-      "id": "0210a65e-848c-4b93-83df-a30f2a30124d",
-      "latitude": -34.862603,
-      "longitude": 138.544663,
-      "street": "Ninth Av",
-      "city": "Woodville North",
+      "id": "20e027fc-0ae7-40ff-b6ff-b23a8122afc1",
+      "latitude": -34.884075,
+      "longitude": 138.571914,
+      "street": "South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T08:30:54Z"
-    },
-    {
-      "id": "926e9163-a402-4a11-b153-af5baada0c21",
-      "latitude": -34.841257,
-      "longitude": 138.604792,
-      "street": "Unknown Street",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T08:25:57Z"
-    },
-    {
-      "id": "78383621-2aa1-4704-977f-3f328362ca90",
-      "latitude": -35.025569,
-      "longitude": 138.587398,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T12:20:24Z"
-    },
-    {
-      "id": "643cde4f-a928-4d0d-9acd-7357612d3417",
-      "latitude": -34.919557,
-      "longitude": 138.580441,
-      "street": "Port Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T11:46:08Z"
-    },
-    {
-      "id": "974b9ff1-7aa5-441e-b400-fa1097543cb3",
-      "latitude": -35.049058,
-      "longitude": 138.620051,
-      "street": "B29 - Main Rd",
-      "city": "Coromandel Valley",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T08:38:36Z"
-    },
-    {
-      "id": "a0f90850-16ac-40df-b471-0ec777ce9793",
-      "latitude": -34.898123,
-      "longitude": 138.56168,
-      "street": "A7 - Port Rd",
-      "city": "Croydon",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T11:48:04Z"
+      "timestamp": "2026-04-06T13:00:22Z",
+      "reported_at": "2026-04-06T11:45:36Z"
     },
     {
       "id": "799ae3b9-19a8-4da4-8c7a-753fb49b5c95",
@@ -67,38 +17,8 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
+      "timestamp": "2026-04-06T13:00:22Z",
       "reported_at": "2026-04-06T10:23:26Z"
-    },
-    {
-      "id": "9a0cbad3-51eb-4891-82e9-a3f181ca6323",
-      "latitude": -34.854115,
-      "longitude": 138.617793,
-      "street": "A17 - Hampstead Rd",
-      "city": "Clearview",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T12:09:20Z"
-    },
-    {
-      "id": "b814a957-c343-4811-93b4-c25138b0321e",
-      "latitude": -34.847552,
-      "longitude": 138.612477,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T08:09:23Z"
-    },
-    {
-      "id": "9df284b1-3283-4747-883f-5b0354ebacf6",
-      "latitude": -34.840511,
-      "longitude": 138.599441,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T05:42:20Z"
     },
     {
       "id": "cb41fbee-6dc7-4306-b5b3-a4587d37c71a",
@@ -107,18 +27,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
+      "timestamp": "2026-04-06T13:00:22Z",
       "reported_at": "2026-04-06T10:34:58Z"
     },
     {
-      "id": "a9255cef-f80b-4b46-a448-2c67a6586a88",
-      "latitude": -34.798268,
-      "longitude": 138.657362,
-      "street": "A18 - McIntyre Rd",
-      "city": "Gulfview Heights",
+      "id": "b814a957-c343-4811-93b4-c25138b0321e",
+      "latitude": -34.847552,
+      "longitude": 138.612477,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-06T12:30:22Z",
-      "reported_at": "2026-04-06T12:04:06Z"
+      "timestamp": "2026-04-06T13:00:22Z",
+      "reported_at": "2026-04-06T08:09:23Z"
+    },
+    {
+      "id": "a0f90850-16ac-40df-b471-0ec777ce9793",
+      "latitude": -34.898123,
+      "longitude": 138.56168,
+      "street": "A7 - Port Rd",
+      "city": "Croydon",
+      "type": "mobile",
+      "timestamp": "2026-04-06T13:00:22Z",
+      "reported_at": "2026-04-06T11:48:04Z"
     }
   ]
 }
