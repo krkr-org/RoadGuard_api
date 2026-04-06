@@ -1,13 +1,53 @@
 {
   "radars": [
     {
+      "id": "48ac0d80-1559-4c6e-9126-6bae70910b5f",
+      "latitude": -34.849191,
+      "longitude": 138.798245,
+      "street": "Torrens Hill Rd",
+      "city": "Millbrook",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T23:00:47Z"
+    },
+    {
+      "id": "df8f6b6c-048a-48f8-8934-edf33457f324",
+      "latitude": -34.89285,
+      "longitude": 138.660264,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T22:39:46Z"
+    },
+    {
+      "id": "809288fd-d0ba-426d-92ce-6ed8fab60466",
+      "latitude": -34.899666,
+      "longitude": 138.611698,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T23:22:55Z"
+    },
+    {
+      "id": "78b66617-cfba-4e66-aa73-6dab96e8e187",
+      "latitude": -34.927857,
+      "longitude": 138.543335,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T23:12:23Z"
+    },
+    {
       "id": "b4b91c71-84b9-4593-b81e-ec82999e2fb9",
       "latitude": -34.903435,
       "longitude": 138.672354,
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-06T23:00:32Z",
+      "timestamp": "2026-04-06T23:30:23Z",
       "reported_at": "2026-04-06T22:24:36Z"
     },
     {
@@ -17,28 +57,8 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-06T23:00:32Z",
+      "timestamp": "2026-04-06T23:30:23Z",
       "reported_at": "2026-04-06T22:27:20Z"
-    },
-    {
-      "id": "12ac4687-2480-4c43-9924-189e99053f02",
-      "latitude": -34.937706,
-      "longitude": 138.536692,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-04-06T23:00:32Z",
-      "reported_at": "2026-04-06T22:51:47Z"
-    },
-    {
-      "id": "cae43141-a523-48f3-9f17-e97d3e29d3fe",
-      "latitude": -34.861631,
-      "longitude": 138.679852,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-04-06T23:00:32Z",
-      "reported_at": "2026-04-06T22:41:27Z"
     },
     {
       "id": "5dae41cd-ff2d-47f8-b364-5c522c1da087",
@@ -47,18 +67,48 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-04-06T23:00:32Z",
+      "timestamp": "2026-04-06T23:30:23Z",
       "reported_at": "2026-04-06T22:21:52Z"
     },
     {
-      "id": "b686a497-27b4-4b38-a5a8-49ebeeb159d5",
-      "latitude": -34.954778,
-      "longitude": 138.700708,
-      "street": "B26 - Greenhill Rd",
-      "city": "Greenhill",
+      "id": "cdaf02ff-83c5-45eb-9e31-a5a963178555",
+      "latitude": -34.931213,
+      "longitude": 138.651419,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-06T23:00:32Z",
-      "reported_at": "2026-04-06T22:32:21Z"
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T22:57:49Z"
+    },
+    {
+      "id": "4b19ca8f-cf19-4c96-b559-d53651123c7d",
+      "latitude": -34.886354,
+      "longitude": 138.630447,
+      "street": "Harris Rd",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T23:03:00Z"
+    },
+    {
+      "id": "12ac4687-2480-4c43-9924-189e99053f02",
+      "latitude": -34.937706,
+      "longitude": 138.536692,
+      "street": "Sir Richard Williams Av",
+      "city": "Adelaide Airport",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T22:51:47Z"
+    },
+    {
+      "id": "9098531e-3e21-425b-bcaa-63d8ff8f2a49",
+      "latitude": -34.954609,
+      "longitude": 138.569177,
+      "street": "A5 - Anzac Hwy",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-04-06T23:30:23Z",
+      "reported_at": "2026-04-06T22:58:53Z"
     }
   ]
 }
