@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "fbf5ba58-06f8-4516-8103-b8b9efcd751c",
-      "latitude": -34.887801,
-      "longitude": 138.585027,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
+      "id": "ca6bf9f9-8d8a-43be-acf6-072a8be5616f",
+      "latitude": -34.930384,
+      "longitude": 138.590627,
+      "street": "Blenheim St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-06T22:00:27Z",
-      "reported_at": "2026-04-06T21:36:10Z"
+      "timestamp": "2026-04-06T22:30:24Z",
+      "reported_at": "2026-04-06T22:11:24Z"
     },
     {
-      "id": "203da2ea-e6a6-4bfb-9953-3740adeef0ed",
-      "latitude": -34.93216,
-      "longitude": 138.562929,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Hilton",
+      "id": "e315ec59-3898-4aa1-b198-ad9a74464c85",
+      "latitude": -34.735559,
+      "longitude": 138.775599,
+      "street": "One Tree Hill Rd",
+      "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2026-04-06T22:00:27Z",
-      "reported_at": "2026-04-06T21:37:34Z"
+      "timestamp": "2026-04-06T22:30:24Z",
+      "reported_at": "2026-04-06T22:16:21Z"
     },
     {
-      "id": "f027f7e3-a90c-43fe-b5ad-04417c67fef4",
-      "latitude": -34.847773,
-      "longitude": 138.607857,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "17e8977c-8490-48cc-9ca5-a5066f109f1e",
+      "latitude": -34.851906,
+      "longitude": 138.509473,
+      "street": "A7 - Commercial Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-06T22:00:27Z",
-      "reported_at": "2026-04-06T21:54:03Z"
+      "timestamp": "2026-04-06T22:30:24Z",
+      "reported_at": "2026-04-06T21:58:23Z"
+    },
+    {
+      "id": "55851dd5-2ab6-4705-89ea-abc5a3703dea",
+      "latitude": -34.926859,
+      "longitude": 138.621571,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-06T22:30:24Z",
+      "reported_at": "2026-04-06T22:05:28Z"
     }
   ]
 }
