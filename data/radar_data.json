@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "ded6d43d-e35a-4b13-8a16-f55efa38c084",
-      "latitude": -34.93565,
-      "longitude": 138.600718,
-      "street": "South Tce",
-      "city": "Adelaide",
+      "id": "c69ddb9b-89bf-4629-a90e-ac2c14c5a03f",
+      "latitude": -34.911639,
+      "longitude": 138.548061,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:03:12Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:23:15Z"
     },
     {
       "id": "87f46c18-e9ae-45e2-9745-e331a818ad32",
@@ -17,8 +17,28 @@
       "street": "Ridley Gr",
       "city": "Woodville Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T06:05:11Z"
+    },
+    {
+      "id": "ded6d43d-e35a-4b13-8a16-f55efa38c084",
+      "latitude": -34.93565,
+      "longitude": 138.600718,
+      "street": "South Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T06:03:12Z"
+    },
+    {
+      "id": "8c196748-d931-4010-930c-14d4f598cd9e",
+      "latitude": -34.862581,
+      "longitude": 138.545151,
+      "street": "Ninth Av",
+      "city": "Woodville North",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:19:25Z"
     },
     {
       "id": "0ed136d2-e96d-45ec-9bdb-0add7710b564",
@@ -27,28 +47,18 @@
       "street": "Shepherdson Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T03:39:48Z"
     },
     {
-      "id": "6179f7b9-4da4-4ef5-a0da-cf1d40a274ed",
-      "latitude": -34.691251,
-      "longitude": 138.659763,
-      "street": "Stebonheath Rd",
-      "city": "Eyre",
+      "id": "e6816737-464d-4bfe-9bcb-c75d0512d906",
+      "latitude": -34.74699,
+      "longitude": 138.657582,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:54:59Z"
-    },
-    {
-      "id": "bcefc43d-b42e-40d0-b50c-380237e69475",
-      "latitude": -34.824506,
-      "longitude": 138.61735,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:34:25Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:16:42Z"
     },
     {
       "id": "612773b8-231e-467b-b7a2-a565b5d857eb",
@@ -57,58 +67,58 @@
       "street": "Bartels Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T06:40:06Z"
     },
     {
-      "id": "74bc1dc3-cfac-435d-8cba-57f1abcd40c4",
-      "latitude": -34.747712,
-      "longitude": 138.657363,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
+      "id": "75bcb5a0-67dc-48cd-ae9d-a09979df1978",
+      "latitude": -35.016859,
+      "longitude": 138.566505,
+      "street": "Sturt Rd",
+      "city": "Tonsley",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:01:53Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T06:57:50Z"
     },
     {
-      "id": "9e30db63-460e-4fa0-97f5-12a3e146de86",
-      "latitude": -35.054749,
-      "longitude": 138.562683,
-      "street": "Black Rd",
-      "city": "Flagstaff Hill",
+      "id": "a9e3e78b-4074-48f5-980a-aa2ba323eeb6",
+      "latitude": -35.017064,
+      "longitude": 138.558767,
+      "street": "Sturt Rd",
+      "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:50:37Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:26:49Z"
     },
     {
-      "id": "09a4ec5c-b870-4b3c-a550-437549bca98f",
-      "latitude": -34.850321,
-      "longitude": 138.564854,
-      "street": "South Rd",
-      "city": "Regency Park",
+      "id": "ccbff532-c67d-4939-8e1b-3f3dc12dbeb3",
+      "latitude": -34.842344,
+      "longitude": 138.492997,
+      "street": "A16 - Causeway Rd",
+      "city": "Exeter",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:41:08Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:01:12Z"
     },
     {
-      "id": "58db6e0f-75e7-4ac2-9290-7a204bb0c35c",
-      "latitude": -35.060701,
-      "longitude": 138.559571,
-      "street": "Chandlers Hill Rd",
-      "city": "O'Halloran Hill",
+      "id": "000b1300-db1b-4f05-842a-d680fc4d714a",
+      "latitude": -34.852121,
+      "longitude": 138.496461,
+      "street": "A16 - Bower Rd",
+      "city": "New Port",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:51:57Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:08:34Z"
     },
     {
-      "id": "8ce8d406-50d9-47c9-a90f-a05b0c9877ee",
-      "latitude": -35.14162,
-      "longitude": 138.524868,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
+      "id": "e06dcbdb-df42-44a5-a07f-48863cde101c",
+      "latitude": -35.017687,
+      "longitude": 138.786972,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Verdun",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:31:04Z"
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T06:56:56Z"
     },
     {
       "id": "cf01e2f7-ba93-4a56-8398-00fd8151cb1c",
@@ -117,7 +127,7 @@
       "street": "A7 - Port Rd",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T05:37:47Z"
     },
     {
@@ -127,8 +137,38 @@
       "street": "A7 - Port Rd",
       "city": "West Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T06:44:58Z"
+    },
+    {
+      "id": "3406a44a-1eb2-4e49-8eb8-5128dc33f7f0",
+      "latitude": -34.847511,
+      "longitude": 138.613243,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T05:47:11Z"
+    },
+    {
+      "id": "9af35b39-0681-43cd-bbb4-4e95935cab38",
+      "latitude": -34.844445,
+      "longitude": 138.679234,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T06:53:20Z"
+    },
+    {
+      "id": "8f8063f8-63f1-4abe-96c8-1975f64df8c6",
+      "latitude": -34.849721,
+      "longitude": 138.573579,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T06:59:47Z"
     },
     {
       "id": "f0ce3132-9c2f-47af-80f5-b9a525d0c013",
@@ -137,7 +177,7 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T06:39:36Z"
     },
     {
@@ -147,28 +187,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T05:42:20Z"
-    },
-    {
-      "id": "4811f927-dd81-4e8b-a404-ac2153dca315",
-      "latitude": -34.849621,
-      "longitude": 138.568784,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:16:31Z"
-    },
-    {
-      "id": "b5a577c0-76ed-4150-959a-80a8eba00098",
-      "latitude": -34.879558,
-      "longitude": 138.584466,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
-      "reported_at": "2026-04-06T06:22:59Z"
     },
     {
       "id": "e98fc3f6-e707-4d40-ace4-78c82f4c8783",
@@ -177,8 +197,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T05:04:38Z"
+    },
+    {
+      "id": "e61e7487-f782-429d-b895-c6dec1f13bef",
+      "latitude": -34.849819,
+      "longitude": 138.714483,
+      "street": "A11 - Lower North East Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T06:55:20Z"
+    },
+    {
+      "id": "21dff089-36ff-4f3f-859b-f35b507c164f",
+      "latitude": -34.798154,
+      "longitude": 138.657411,
+      "street": "A18 - McIntyre Rd",
+      "city": "Gulfview Heights",
+      "type": "mobile",
+      "timestamp": "2026-04-06T07:30:25Z",
+      "reported_at": "2026-04-06T07:15:59Z"
     },
     {
       "id": "aee78bd4-61ab-491d-9531-af6be6aaac56",
@@ -187,7 +227,7 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T07:00:23Z",
+      "timestamp": "2026-04-06T07:30:25Z",
       "reported_at": "2026-04-06T03:36:18Z"
     }
   ]
