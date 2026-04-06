@@ -1,24 +1,64 @@
 {
   "radars": [
     {
-      "id": "f900e8b5-f437-4bcd-a7c6-5620313476dd",
-      "latitude": -34.936942,
-      "longitude": 138.536807,
-      "street": "Unknown Street",
-      "city": "Adelaide Airport",
+      "id": "9cc2c2d8-91fb-44ad-9010-329226dc0731",
+      "latitude": -34.728237,
+      "longitude": 138.567982,
+      "street": "Robinson Rd",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
-      "reported_at": "2026-04-05T23:18:34Z"
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:28:18Z"
     },
     {
-      "id": "b9ab2f2f-de79-4aee-8d49-69c7f164eadf",
-      "latitude": -34.802891,
-      "longitude": 138.642877,
+      "id": "b22757a7-7054-4546-88f3-f1d047ce1e83",
+      "latitude": -34.802911,
+      "longitude": 138.642909,
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
-      "reported_at": "2026-04-05T22:08:47Z"
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T22:47:10Z"
+    },
+    {
+      "id": "961aba0e-b85c-40d2-82b7-eace49fd9ab3",
+      "latitude": -35.106517,
+      "longitude": 138.79449,
+      "street": "Meadows Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:46:32Z"
+    },
+    {
+      "id": "8563e467-0d54-4e8b-b5f4-154e91fa21f4",
+      "latitude": -34.710404,
+      "longitude": 138.78028,
+      "street": "Gawler-One Tree Hill Rd",
+      "city": "Yattalunga",
+      "type": "mobile",
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:38:53Z"
+    },
+    {
+      "id": "a92f00a7-d45e-4667-8f3e-a20da52ec809",
+      "latitude": -35.090916,
+      "longitude": 138.537245,
+      "street": "A13 - Main South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:36:36Z"
+    },
+    {
+      "id": "368f330c-40b0-4854-a691-a91d1965bd3f",
+      "latitude": -35.102875,
+      "longitude": 138.529292,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:56:27Z"
     },
     {
       "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
@@ -27,38 +67,38 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
+      "timestamp": "2026-04-06T00:00:23Z",
       "reported_at": "2026-04-05T22:13:43Z"
     },
     {
-      "id": "2da2c840-1f3a-425a-bc72-e169d5826433",
-      "latitude": -34.966602,
-      "longitude": 138.550892,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
-      "reported_at": "2026-04-05T23:02:10Z"
-    },
-    {
-      "id": "827bc341-0820-43ee-ab5b-a4f4b6bc24b7",
-      "latitude": -35.001602,
-      "longitude": 138.702882,
-      "street": "B28 - Waverley Ridge Rd",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
-      "reported_at": "2026-04-05T23:00:37Z"
-    },
-    {
-      "id": "8f754e52-9100-4953-8eee-6ab0939b6018",
-      "latitude": -34.788264,
-      "longitude": 138.61834,
+      "id": "5aa82bb6-5dda-4cfb-906c-8894074ef3ce",
+      "latitude": -34.788606,
+      "longitude": 138.617898,
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
-      "reported_at": "2026-04-05T22:43:43Z"
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:06:30Z"
+    },
+    {
+      "id": "d3ace321-c2a6-43dc-898a-1417dbbc2276",
+      "latitude": -34.764168,
+      "longitude": 138.593132,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:42:20Z"
+    },
+    {
+      "id": "65891839-227a-4e5a-b384-7d8a45610905",
+      "latitude": -34.767464,
+      "longitude": 138.594273,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-04-06T00:00:23Z",
+      "reported_at": "2026-04-05T23:26:25Z"
     },
     {
       "id": "8710392c-1f33-4c92-97eb-d19fbb03d04a",
@@ -67,7 +107,7 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-04-05T23:30:22Z",
+      "timestamp": "2026-04-06T00:00:23Z",
       "reported_at": "2026-04-05T22:03:57Z"
     }
   ]
