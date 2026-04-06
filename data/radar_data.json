@@ -1,44 +1,74 @@
 {
   "radars": [
     {
+      "id": "9da3593b-6dd4-42b4-b142-c34324576039",
+      "latitude": -34.902142,
+      "longitude": 138.59947,
+      "street": "Medindie Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:54:32Z"
+    },
+    {
+      "id": "552b255c-5c57-49ed-8456-a382d6bbf4ad",
+      "latitude": -34.776562,
+      "longitude": 138.599622,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:26:43Z"
+    },
+    {
       "id": "9cc2c2d8-91fb-44ad-9010-329226dc0731",
       "latitude": -34.728237,
       "longitude": 138.567982,
       "street": "Robinson Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
+      "timestamp": "2026-04-06T03:00:23Z",
       "reported_at": "2026-04-05T23:28:18Z"
     },
     {
-      "id": "dd9648bb-9df2-4624-817b-10af733e62d9",
-      "latitude": -34.698408,
-      "longitude": 138.691647,
-      "street": "Hamblynn Rd",
-      "city": "Elizabeth Downs",
+      "id": "894a24a5-8275-4365-b16b-f4a79e1def37",
+      "latitude": -35.081467,
+      "longitude": 138.570468,
+      "street": "Chandlers Hill Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
-      "reported_at": "2026-04-06T02:04:29Z"
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:30:31Z"
     },
     {
-      "id": "a26df756-2af6-405e-af8c-37c02a2cd7fc",
-      "latitude": -34.852205,
-      "longitude": 138.591634,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
+      "id": "2351095a-a156-47ce-8522-2b016ec5c7b5",
+      "latitude": -34.934707,
+      "longitude": 138.594353,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
-      "reported_at": "2026-04-06T02:14:55Z"
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:38:20Z"
     },
     {
-      "id": "e6aa8525-2d87-48e8-b563-3cbfded28e6c",
-      "latitude": -34.774551,
-      "longitude": 138.678665,
+      "id": "0c93dc80-72db-45ea-9f02-5ca9ebebe6f2",
+      "latitude": -34.778444,
+      "longitude": 138.674895,
       "street": "Bridge Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
-      "reported_at": "2026-04-06T02:07:58Z"
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:19:44Z"
+    },
+    {
+      "id": "0bcaf2b0-b014-4bbf-87eb-72e2f2a401bb",
+      "latitude": -34.726151,
+      "longitude": 138.735851,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T00:32:12Z"
     },
     {
       "id": "96b1505b-bb58-4e84-b17f-8e39491000db",
@@ -47,28 +77,88 @@
       "street": "Peachey Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
+      "timestamp": "2026-04-06T03:00:23Z",
       "reported_at": "2026-04-06T01:49:10Z"
     },
     {
-      "id": "b0fe5280-159a-42b8-b1b5-7c2513a7580c",
-      "latitude": -34.825158,
-      "longitude": 138.78087,
-      "street": "B10 - North East Rd",
-      "city": "Inglewood",
+      "id": "2b4c9329-0cf2-40a7-93be-bc592b950098",
+      "latitude": -35.102666,
+      "longitude": 138.529486,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
-      "reported_at": "2026-04-06T01:41:32Z"
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:37:15Z"
     },
     {
-      "id": "9a050250-ebe2-45a9-acc9-24e0b7f769fd",
-      "latitude": -34.819531,
-      "longitude": 138.622279,
+      "id": "9444faf7-2f8f-4b1b-b8d8-654e8bb0cce5",
+      "latitude": -34.963644,
+      "longitude": 138.642886,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:35:25Z"
+    },
+    {
+      "id": "cbe515eb-6efc-4ac5-9f94-b51d3d884d59",
+      "latitude": -34.927717,
+      "longitude": 138.552211,
+      "street": "A14 - Marion Rd",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:38:20Z"
+    },
+    {
+      "id": "c383ba14-ceda-4895-ba33-1e261e1f48cf",
+      "latitude": -34.964928,
+      "longitude": 138.619726,
+      "street": "A3 - Cross Rd",
+      "city": "Highgate",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:35:23Z"
+    },
+    {
+      "id": "d1e5fb3e-605a-436f-a71e-d793f188c11d",
+      "latitude": -34.963009,
+      "longitude": 138.643805,
+      "street": "A1 - Glen Osmond Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:46:30Z"
+    },
+    {
+      "id": "e55c073a-3247-4746-8a74-580c1512c838",
+      "latitude": -34.818875,
+      "longitude": 138.622862,
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
-      "reported_at": "2026-04-06T02:22:49Z"
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:13:50Z"
+    },
+    {
+      "id": "714efad6-a145-4cd9-aab7-84b529875f03",
+      "latitude": -34.87428,
+      "longitude": 138.667893,
+      "street": "A11 - Lower North East Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:31:54Z"
+    },
+    {
+      "id": "6734cb88-7463-48b8-897e-45df7dbc7fee",
+      "latitude": -34.822285,
+      "longitude": 138.59811,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-04-06T03:00:23Z",
+      "reported_at": "2026-04-06T02:57:09Z"
     },
     {
       "id": "09bd94c5-4e6b-43c1-9961-084394de76d2",
@@ -77,7 +167,7 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T02:30:31Z",
+      "timestamp": "2026-04-06T03:00:23Z",
       "reported_at": "2026-04-06T00:27:38Z"
     }
   ]
