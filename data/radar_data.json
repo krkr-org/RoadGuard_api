@@ -1,84 +1,94 @@
 {
   "radars": [
     {
+      "id": "0e30549e-a0f1-4015-bb9c-fb35715babed",
+      "latitude": -34.67941,
+      "longitude": 138.682957,
+      "street": "Anderson Walk",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:31:48Z"
+    },
+    {
+      "id": "b08de005-14bf-4622-8a03-ff9a86b890a5",
+      "latitude": -34.884565,
+      "longitude": 138.691814,
+      "street": "Stradbroke Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:35:18Z"
+    },
+    {
+      "id": "fd41e6fc-a552-4ebb-88cf-41e45fbaff91",
+      "latitude": -34.776447,
+      "longitude": 138.599432,
+      "street": "Shepherdson Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-05T22:02:20Z"
+    },
+    {
       "id": "cfa0a374-cfd2-4fe0-9aae-eb71cfb38d6b",
       "latitude": -34.728565,
       "longitude": 138.568091,
       "street": "Robinson Rd",
       "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
+      "timestamp": "2026-04-06T01:00:23Z",
       "reported_at": "2026-04-05T22:39:29Z"
     },
     {
-      "id": "62360e76-b71b-4a3e-b066-8d44945168dd",
-      "latitude": -34.88842,
-      "longitude": 138.676889,
-      "street": "Montacute Rd",
-      "city": "Newton",
+      "id": "5765e9dd-f212-48d8-bc3f-5515eb5ccf3a",
+      "latitude": -35.019129,
+      "longitude": 138.567406,
+      "street": "to A13 - Main South Rd to Darlington / Happy Valley",
+      "city": "Bedford Park",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-05T23:55:44Z"
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:32:03Z"
     },
     {
-      "id": "5eb6dd5a-ec51-4985-a78c-c4f7aca289fe",
-      "latitude": -34.873652,
-      "longitude": 138.602279,
-      "street": "Regency Rd",
-      "city": "Enfield",
+      "id": "9f5a093c-4b8b-4868-b2a1-7b67bcf15736",
+      "latitude": -35.000223,
+      "longitude": 138.712936,
+      "street": "to B33 to Stirling / Aldgate",
+      "city": "Crafers",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-05T23:55:45Z"
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:38:29Z"
     },
     {
-      "id": "b22757a7-7054-4546-88f3-f1d047ce1e83",
-      "latitude": -34.802911,
-      "longitude": 138.642909,
+      "id": "3c72a7a0-d45f-4c90-94c9-f3e683e7af90",
+      "latitude": -34.978099,
+      "longitude": 138.512266,
+      "street": "Colley Tce",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:36:20Z"
+    },
+    {
+      "id": "014dc82e-4432-4e9c-9edd-1edf132dc842",
+      "latitude": -34.716344,
+      "longitude": 138.744799,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:46:57Z"
+    },
+    {
+      "id": "4e5a57d2-ac08-4f6b-afa1-0e95d609c7fd",
+      "latitude": -34.802001,
+      "longitude": 138.641426,
       "street": "Kesters Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-05T22:47:10Z"
-    },
-    {
-      "id": "368f330c-40b0-4854-a691-a91d1965bd3f",
-      "latitude": -35.102875,
-      "longitude": 138.529292,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-05T23:56:27Z"
-    },
-    {
-      "id": "ec29ecec-9449-4a28-a27b-b6846af1265b",
-      "latitude": -35.02106,
-      "longitude": 138.681299,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Upper Sturt",
-      "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-06T00:07:21Z"
-    },
-    {
-      "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
-      "latitude": -34.819183,
-      "longitude": 138.62231,
-      "street": "A20 - Main North Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-05T22:13:43Z"
-    },
-    {
-      "id": "c7a0ab58-bb8f-4c16-a684-1df23a84422e",
-      "latitude": -34.968214,
-      "longitude": 138.548397,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-05T23:58:54Z"
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:02:19Z"
     },
     {
       "id": "8f754e52-9100-4953-8eee-6ab0939b6018",
@@ -87,18 +97,38 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
+      "timestamp": "2026-04-06T01:00:23Z",
       "reported_at": "2026-04-05T22:43:43Z"
     },
     {
-      "id": "c8af2040-313f-451e-94f2-0b4fd035f7a4",
-      "latitude": -35.014,
-      "longitude": 138.573251,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
+      "id": "35a80750-4e1c-4faf-9637-14847fdac4f2",
+      "latitude": -34.819183,
+      "longitude": 138.62231,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
-      "reported_at": "2026-04-06T00:03:57Z"
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-05T22:13:43Z"
+    },
+    {
+      "id": "ec29ecec-9449-4a28-a27b-b6846af1265b",
+      "latitude": -35.02106,
+      "longitude": 138.681299,
+      "street": "B28 - Upper Sturt Rd",
+      "city": "Upper Sturt",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:07:21Z"
+    },
+    {
+      "id": "62c2b0e2-08e0-4214-89a5-62b96dc2e0de",
+      "latitude": -34.840153,
+      "longitude": 138.517608,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:38:03Z"
     },
     {
       "id": "8710392c-1f33-4c92-97eb-d19fbb03d04a",
@@ -107,8 +137,18 @@
       "street": "M1 - South Eastern Fwy",
       "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-04-06T00:30:22Z",
+      "timestamp": "2026-04-06T01:00:23Z",
       "reported_at": "2026-04-05T22:03:57Z"
+    },
+    {
+      "id": "c8af2040-313f-451e-94f2-0b4fd035f7a4",
+      "latitude": -35.015693,
+      "longitude": 138.570967,
+      "street": "M2 - Southern Exp",
+      "city": "Bedford Park",
+      "type": "mobile",
+      "timestamp": "2026-04-06T01:00:23Z",
+      "reported_at": "2026-04-06T00:03:57Z"
     }
   ]
 }
