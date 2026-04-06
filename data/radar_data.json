@@ -1,64 +1,24 @@
 {
   "radars": [
     {
-      "id": "311fd7cb-703c-4cd9-bff8-8a59c558955b",
-      "latitude": -35.007639,
-      "longitude": 138.763802,
-      "street": "Fielding Rd",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:46:05Z"
-    },
-    {
-      "id": "8cd8ac8d-49d4-4044-ab70-72dd41682583",
-      "latitude": -34.853765,
-      "longitude": 138.601505,
-      "street": "Unknown Street",
-      "city": "Enfield",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:22:29Z"
-    },
-    {
-      "id": "77e46e73-4ec2-4bfc-aebb-a718309e8611",
-      "latitude": -34.805979,
-      "longitude": 138.61435,
-      "street": "Metro Pde",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:30:20Z"
-    },
-    {
-      "id": "c69ddb9b-89bf-4629-a90e-ac2c14c5a03f",
-      "latitude": -34.911639,
-      "longitude": 138.548061,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T07:23:15Z"
-    },
-    {
-      "id": "a60edb6d-e3c8-4c37-9a50-19e7d2f1fe8f",
-      "latitude": -34.860211,
-      "longitude": 138.565254,
-      "street": "Days Rd",
-      "city": "Angle Park",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T07:20:40Z"
-    },
-    {
       "id": "74d03d6c-2ea5-42c1-bcde-c45471b637bc",
       "latitude": -34.880089,
       "longitude": 138.571421,
       "street": "to South Rd",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T05:39:46Z"
+    },
+    {
+      "id": "a3760489-f37f-4d6f-b4eb-d7d79bfa515c",
+      "latitude": -34.861439,
+      "longitude": 138.565332,
+      "street": "Days Rd",
+      "city": "Angle Park",
+      "type": "mobile",
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T06:44:57Z"
     },
     {
       "id": "0210a65e-848c-4b93-83df-a30f2a30124d",
@@ -67,18 +27,8 @@
       "street": "Ninth Av",
       "city": "Woodville North",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T08:30:54Z"
-    },
-    {
-      "id": "9b5dc64f-844c-4d03-a8a3-c8aecbe96af1",
-      "latitude": -34.905605,
-      "longitude": 138.532599,
-      "street": "Findon Rd",
-      "city": "Kidman Park",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:41:59Z"
     },
     {
       "id": "926e9163-a402-4a11-b153-af5baada0c21",
@@ -87,18 +37,8 @@
       "street": "Unknown Street",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T08:25:57Z"
-    },
-    {
-      "id": "73e72647-b14a-4145-948f-af9e0ee86eb1",
-      "latitude": -34.847026,
-      "longitude": 138.617518,
-      "street": "Briens Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:17:57Z"
     },
     {
       "id": "e94b3596-5c83-4f9f-a13a-6c1ad47999e4",
@@ -107,7 +47,7 @@
       "street": "Sudholz Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T10:39:02Z"
     },
     {
@@ -117,48 +57,8 @@
       "street": "Port Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T10:36:30Z"
-    },
-    {
-      "id": "84475924-bbd9-43ff-8417-ad6229ccb0ce",
-      "latitude": -34.824149,
-      "longitude": 138.499715,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:42:23Z"
-    },
-    {
-      "id": "4f877d7f-bf2f-4207-be17-da8174e373ad",
-      "latitude": -35.146485,
-      "longitude": 138.477591,
-      "street": "A15 - Murray Rd",
-      "city": "Port Noarlunga",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:01:31Z"
-    },
-    {
-      "id": "83a2af00-a945-45a8-915c-b3ab899aa9be",
-      "latitude": -35.081819,
-      "longitude": 138.513298,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T09:04:57Z"
-    },
-    {
-      "id": "34728d3e-c91c-4546-a397-f91260d9a0a9",
-      "latitude": -35.078603,
-      "longitude": 138.517491,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:19:28Z"
     },
     {
       "id": "974b9ff1-7aa5-441e-b400-fa1097543cb3",
@@ -167,18 +67,8 @@
       "street": "B29 - Main Rd",
       "city": "Coromandel Valley",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T08:38:36Z"
-    },
-    {
-      "id": "aa03eb7f-a4d6-4cac-bf27-9eac4fedd0df",
-      "latitude": -34.898103,
-      "longitude": 138.56082,
-      "street": "A7 - Port Rd",
-      "city": "West Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T06:23:06Z"
     },
     {
       "id": "5bfd53c0-3046-4588-b65e-aa8387bbd122",
@@ -187,8 +77,28 @@
       "street": "A5 - Anzac Hwy",
       "city": "Keswick",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T10:33:54Z"
+    },
+    {
+      "id": "25cb29b3-3441-4819-9955-f139769593b3",
+      "latitude": -34.897661,
+      "longitude": 138.560988,
+      "street": "A7 - Port Rd",
+      "city": "Croydon",
+      "type": "mobile",
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T10:31:40Z"
+    },
+    {
+      "id": "3a8463b6-b5e2-4725-bac6-a52c6f0bc371",
+      "latitude": -34.919391,
+      "longitude": 138.579228,
+      "street": "R1 - James Congdon Dr (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T11:03:53Z"
     },
     {
       "id": "82a5e0d7-f8e1-4f9b-a891-673237e8a818",
@@ -197,7 +107,7 @@
       "street": "A14 - Marion Rd",
       "city": "Plympton Park",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T10:53:58Z"
     },
     {
@@ -207,18 +117,48 @@
       "street": "A7 - Port Rd",
       "city": "Welland",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T05:37:47Z"
     },
     {
-      "id": "af560d08-f035-4549-8375-37c5d48a749d",
-      "latitude": -34.847474,
-      "longitude": 138.614014,
+      "id": "82090812-29b9-4074-861b-6d8cbe4d5b4f",
+      "latitude": -34.850327,
+      "longitude": 138.668142,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T10:59:31Z"
+    },
+    {
+      "id": "56474e04-035d-4315-b969-7ac593652583",
+      "latitude": -34.839886,
+      "longitude": 138.599592,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T08:29:30Z"
+    },
+    {
+      "id": "f071043f-997c-4e49-b10f-50c14870184c",
+      "latitude": -34.840537,
+      "longitude": 138.605914,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T09:31:51Z"
+    },
+    {
+      "id": "b814a957-c343-4811-93b4-c25138b0321e",
+      "latitude": -34.847552,
+      "longitude": 138.612477,
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T08:49:14Z"
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T08:09:23Z"
     },
     {
       "id": "7baa1900-ddb3-4c0d-bc08-1e3ed845bbe1",
@@ -227,18 +167,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T05:57:57Z"
-    },
-    {
-      "id": "9df284b1-3283-4747-883f-5b0354ebacf6",
-      "latitude": -34.840511,
-      "longitude": 138.599441,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T05:42:20Z"
     },
     {
       "id": "81aa3d5f-927f-4740-8712-774e998ecb41",
@@ -247,38 +177,38 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
+      "timestamp": "2026-04-06T11:30:22Z",
       "reported_at": "2026-04-06T10:09:49Z"
     },
     {
-      "id": "77d8dbff-9781-4946-8d47-4a55036442d1",
-      "latitude": -35.016115,
-      "longitude": 138.570041,
-      "street": "M2 - Southern Exp",
-      "city": "Bedford Park",
+      "id": "220e767f-a9a9-4574-931f-16eba242cce1",
+      "latitude": -34.969703,
+      "longitude": 138.674061,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:25:58Z"
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T11:25:26Z"
     },
     {
-      "id": "a5b26eb0-8a6b-4cb6-9044-622329093c33",
-      "latitude": -34.878383,
-      "longitude": 138.57154,
+      "id": "4ac6fdae-59a0-42a4-93bc-9f0895f5479e",
+      "latitude": -34.879042,
+      "longitude": 138.571556,
       "street": "M2 - North-South Mwy",
       "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T08:11:14Z"
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T11:17:11Z"
     },
     {
-      "id": "544db98e-ca98-4cc2-8433-4ba7521bef4d",
-      "latitude": -35.018208,
-      "longitude": 138.784009,
+      "id": "e14afc87-7f05-42e4-aa14-374ca4324376",
+      "latitude": -35.029547,
+      "longitude": 138.802425,
       "street": "M1 - South Eastern Fwy",
       "city": "Hahndorf",
       "type": "mobile",
-      "timestamp": "2026-04-06T11:00:23Z",
-      "reported_at": "2026-04-06T10:47:39Z"
+      "timestamp": "2026-04-06T11:30:22Z",
+      "reported_at": "2026-04-06T11:16:26Z"
     }
   ]
 }
