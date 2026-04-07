@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "bcb194e2-ef16-412e-ac37-c5117a118d3a",
-      "latitude": -34.924583,
-      "longitude": 138.618643,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "1c944330-a7bb-48af-959c-682b3b399391",
+      "latitude": -34.932349,
+      "longitude": 138.624595,
+      "street": "Grant Av",
+      "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T22:00:22Z",
-      "reported_at": "2026-04-07T21:44:23Z"
+      "timestamp": "2026-04-07T22:30:22Z",
+      "reported_at": "2026-04-07T22:17:10Z"
+    },
+    {
+      "id": "d7d14b20-e6c6-4aac-aa54-3a29ab390384",
+      "latitude": -34.779674,
+      "longitude": 138.494811,
+      "street": "A16 - Victoria Rd",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2026-04-07T22:30:22Z",
+      "reported_at": "2026-04-07T22:17:38Z"
+    },
+    {
+      "id": "ce9776df-c052-44e2-b929-cab675093091",
+      "latitude": -34.78931,
+      "longitude": 138.643201,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-04-07T22:30:22Z",
+      "reported_at": "2026-04-07T22:19:59Z"
     }
   ]
 }
