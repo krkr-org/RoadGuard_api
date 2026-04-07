@@ -1,44 +1,44 @@
 {
   "radars": [
     {
-      "id": "a4d6a07e-416d-4d14-b010-6e4c83888156",
-      "latitude": -35.065407,
-      "longitude": 138.509117,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T06:07:28Z"
-    },
-    {
-      "id": "b00191df-5b7a-4467-ba1b-e0e3ae3ef56c",
-      "latitude": -35.118258,
-      "longitude": 138.475216,
+      "id": "bbde4264-edc9-4008-a961-7aaee994212f",
+      "latitude": -35.120037,
+      "longitude": 138.475355,
       "street": "Galloway Rd",
       "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T06:06:44Z"
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T07:47:45Z"
     },
     {
-      "id": "011d9537-86f6-463b-a1a8-cccef6021ae2",
-      "latitude": -35.134168,
-      "longitude": 138.51429,
+      "id": "9b84261d-8e75-4182-be21-8ca8f2493b25",
+      "latitude": -35.134195,
+      "longitude": 138.513753,
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T06:17:10Z"
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T06:18:07Z"
     },
     {
-      "id": "e1b0e8bf-b3c5-4c9a-ac50-ac0259b387b2",
-      "latitude": -35.096043,
-      "longitude": 138.534158,
-      "street": "Young St",
-      "city": "Reynella",
+      "id": "2a6356a2-8493-4cf0-9ba4-4b6b02cf4500",
+      "latitude": -35.065125,
+      "longitude": 138.509689,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T07:56:58Z"
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T07:38:51Z"
+    },
+    {
+      "id": "9d3937a7-cb70-46f0-b109-882d2ad48f8f",
+      "latitude": -35.114839,
+      "longitude": 138.578313,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T06:39:05Z"
     },
     {
       "id": "785f036d-9a93-4a09-b574-41af193abeef",
@@ -47,7 +47,7 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T07:37:53Z"
     },
     {
@@ -57,28 +57,38 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T06:30:34Z"
     },
     {
-      "id": "9d3937a7-cb70-46f0-b109-882d2ad48f8f",
-      "latitude": -35.114839,
-      "longitude": 138.578313,
-      "street": "Bains Rd",
-      "city": "Onkaparinga Hills",
+      "id": "03df792a-015c-478a-b2fa-4b60c72c7dee",
+      "latitude": -34.926186,
+      "longitude": 138.54405,
+      "street": "Airport Rd",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T06:39:05Z"
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T10:22:28Z"
     },
     {
-      "id": "641737a5-eb83-4b57-b410-da0dc088895c",
-      "latitude": -35.020799,
-      "longitude": 138.565796,
-      "street": "to M2 - Southern Exp",
-      "city": "Bedford Park",
+      "id": "e1b0e8bf-b3c5-4c9a-ac50-ac0259b387b2",
+      "latitude": -35.096043,
+      "longitude": 138.534158,
+      "street": "Young St",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T09:28:08Z"
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T07:56:58Z"
+    },
+    {
+      "id": "476997ee-891b-4653-bbca-fddd323f2c65",
+      "latitude": -34.666347,
+      "longitude": 138.705004,
+      "street": "Medlow Rd",
+      "city": "Blakeview",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T08:38:28Z"
     },
     {
       "id": "38d551ff-3ba8-428f-b7bc-e920ac68ac6b",
@@ -87,8 +97,18 @@
       "street": "Kapa Lane",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T06:29:28Z"
+    },
+    {
+      "id": "31d838bf-5a07-47b9-82c7-585b7ae94285",
+      "latitude": -34.83376,
+      "longitude": 138.645481,
+      "street": "Walkleys Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T09:33:38Z"
     },
     {
       "id": "ea85711f-6943-43fb-b95d-db5c4314271c",
@@ -97,38 +117,8 @@
       "street": "King William St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T09:56:48Z"
-    },
-    {
-      "id": "f38ea5ef-2738-4ee0-97fd-f89026b090e8",
-      "latitude": -34.821939,
-      "longitude": 138.500118,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs Bay",
-      "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T09:51:28Z"
-    },
-    {
-      "id": "24c12ddd-d2f7-431a-b316-d87cfa29fa5c",
-      "latitude": -35.133399,
-      "longitude": 138.485946,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T05:48:02Z"
-    },
-    {
-      "id": "3c0cb8cd-135c-4b3f-a259-edc8e41062a1",
-      "latitude": -34.81834,
-      "longitude": 138.501127,
-      "street": "A16 - Victoria Rd",
-      "city": "Largs North",
-      "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
-      "reported_at": "2026-04-07T09:24:11Z"
     },
     {
       "id": "33779dae-c801-4a0c-81e6-f7a0bf81b527",
@@ -137,8 +127,58 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T07:14:26Z"
+    },
+    {
+      "id": "01645c53-0bb4-4b84-a0b9-546532d673f8",
+      "latitude": -35.135377,
+      "longitude": 138.485937,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T10:01:39Z"
+    },
+    {
+      "id": "08f7ca0c-45d8-4a85-84e9-0336cf86f780",
+      "latitude": -35.133963,
+      "longitude": 138.485988,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T07:00:00Z"
+    },
+    {
+      "id": "3c0cb8cd-135c-4b3f-a259-edc8e41062a1",
+      "latitude": -34.81834,
+      "longitude": 138.501127,
+      "street": "A16 - Victoria Rd",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T09:24:11Z"
+    },
+    {
+      "id": "d9d52f24-c31d-44ce-a58e-a2ba67903147",
+      "latitude": -34.852191,
+      "longitude": 138.511183,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T10:22:52Z"
+    },
+    {
+      "id": "c886a0ec-076d-4561-be61-dd635861985e",
+      "latitude": -34.876431,
+      "longitude": 138.67196,
+      "street": "B31 - Gorge Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T10:24:29Z"
     },
     {
       "id": "4ed69c51-f854-4132-a0f4-58c73a7143f7",
@@ -147,7 +187,7 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T07:41:12Z"
     },
     {
@@ -157,8 +197,28 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-07T10:00:23Z",
+      "timestamp": "2026-04-07T10:30:23Z",
       "reported_at": "2026-04-07T09:49:04Z"
+    },
+    {
+      "id": "2e2d09cd-f842-4010-8fd1-15ec16d1c7eb",
+      "latitude": -35.015339,
+      "longitude": 138.522768,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T09:56:11Z"
+    },
+    {
+      "id": "1f1bd2a9-2243-4995-87a8-dfe2f00b84d5",
+      "latitude": -35.027668,
+      "longitude": 138.797977,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-04-07T10:30:23Z",
+      "reported_at": "2026-04-07T10:04:19Z"
     }
   ]
 }
