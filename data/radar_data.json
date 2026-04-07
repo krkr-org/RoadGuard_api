@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "ded19d15-5188-4915-a92b-993e6379dfbc",
-      "latitude": -34.926607,
-      "longitude": 138.621569,
-      "street": "Angas St",
-      "city": "Kent Town",
+      "id": "291614ac-3ff6-45c4-ba1e-d3e3fb3982d3",
+      "latitude": -35.018887,
+      "longitude": 138.611275,
+      "street": "Melton St",
+      "city": "Blackwood",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T03:33:12Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:43:16Z"
     },
     {
-      "id": "011d9537-86f6-463b-a1a8-cccef6021ae2",
-      "latitude": -35.134168,
-      "longitude": 138.51429,
+      "id": "9b84261d-8e75-4182-be21-8ca8f2493b25",
+      "latitude": -35.134195,
+      "longitude": 138.513753,
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:17:10Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T06:18:07Z"
     },
     {
       "id": "a4d6a07e-416d-4d14-b010-6e4c83888156",
@@ -27,28 +27,18 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
+      "timestamp": "2026-04-07T08:00:24Z",
       "reported_at": "2026-04-07T06:07:28Z"
     },
     {
-      "id": "80230aa6-5c68-4ddc-8fb3-a89f4a951303",
-      "latitude": -35.094364,
-      "longitude": 138.531625,
-      "street": "Grant Rd",
-      "city": "Reynella",
+      "id": "f7f262da-2b4c-4beb-b37d-ccc9286071e0",
+      "latitude": -35.120768,
+      "longitude": 138.47541,
+      "street": "Galloway Rd",
+      "city": "O'Sullivan Beach",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:30:34Z"
-    },
-    {
-      "id": "f4674ba4-00b5-466d-9668-a9c4bb4d632a",
-      "latitude": -35.114645,
-      "longitude": 138.579489,
-      "street": "Bains Rd",
-      "city": "Onkaparinga Hills",
-      "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:03:06Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:17:25Z"
     },
     {
       "id": "0438b15c-e730-462a-a3a0-a30c8294c25f",
@@ -57,18 +47,28 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
+      "timestamp": "2026-04-07T08:00:24Z",
       "reported_at": "2026-04-07T04:09:06Z"
     },
     {
-      "id": "238d512c-02ee-4de0-96ca-359760fce499",
-      "latitude": -34.886163,
-      "longitude": 138.570978,
-      "street": "South Rd",
-      "city": "Renown Park",
+      "id": "95360808-35ec-419c-aab4-3bf904c8ae5a",
+      "latitude": -35.114784,
+      "longitude": 138.578647,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:58:41Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:40:54Z"
+    },
+    {
+      "id": "bb2ebaa8-3198-4ccc-9017-b8c911e88f41",
+      "latitude": -35.094394,
+      "longitude": 138.531049,
+      "street": "Grant Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T06:54:28Z"
     },
     {
       "id": "bc0d2c03-2dfd-4889-9587-93a2788e949b",
@@ -77,7 +77,7 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
+      "timestamp": "2026-04-07T08:00:24Z",
       "reported_at": "2026-04-07T02:36:05Z"
     },
     {
@@ -87,58 +87,78 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
+      "timestamp": "2026-04-07T08:00:24Z",
       "reported_at": "2026-04-07T03:46:08Z"
     },
     {
-      "id": "0b15cf82-c65a-4b55-b3e3-0fb51e9c1a17",
-      "latitude": -34.853831,
-      "longitude": 138.529011,
-      "street": "Addison Rd",
-      "city": "Rosewater",
+      "id": "02bd23de-0ccf-4d43-ba7d-9b7c4946f803",
+      "latitude": -34.674493,
+      "longitude": 138.655989,
+      "street": "Andrews Rd",
+      "city": "Andrews Farm",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T07:08:27Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:34:03Z"
     },
     {
-      "id": "f58300fa-917c-4622-81f3-2179e3fb402f",
-      "latitude": -35.096097,
-      "longitude": 138.534162,
-      "street": "Young St",
-      "city": "Reynella",
+      "id": "da04a11f-ee8c-4ef9-98eb-8162a5226470",
+      "latitude": -34.874429,
+      "longitude": 138.483564,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:07:30Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:46:02Z"
     },
     {
-      "id": "09edc1d6-aa51-43fc-ad27-3feec0aafd72",
-      "latitude": -35.067695,
-      "longitude": 138.538632,
-      "street": "Adams Rd",
-      "city": "Trott Park",
-      "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T05:54:28Z"
-    },
-    {
-      "id": "03921c78-71c0-4a91-ac3e-9b8e350bfdd8",
-      "latitude": -35.068723,
-      "longitude": 138.536459,
-      "street": "Adams Rd",
-      "city": "Sheidow Park",
-      "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:32:27Z"
-    },
-    {
-      "id": "2dc6c2fc-39d8-4aa2-9a0b-1f0b208da945",
-      "latitude": -34.877551,
-      "longitude": 138.484797,
+      "id": "5669849d-177d-471e-89cf-52f754ba2aad",
+      "latitude": -34.877916,
+      "longitude": 138.484972,
       "street": "Military Rd",
       "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:43:15Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:14:52Z"
+    },
+    {
+      "id": "fd60a7f3-3935-4d1a-b406-d3667916dbf0",
+      "latitude": -35.021391,
+      "longitude": 138.61243,
+      "street": "Shepherds Hill Rd",
+      "city": "Blackwood",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:43:00Z"
+    },
+    {
+      "id": "2cbea3da-5303-42cd-83a4-06cbbbe793ac",
+      "latitude": -34.88882,
+      "longitude": 138.570762,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:55:04Z"
+    },
+    {
+      "id": "e519f836-beda-4255-a31e-b3705e6636b1",
+      "latitude": -34.948975,
+      "longitude": 138.599636,
+      "street": "King William Rd",
+      "city": "Goodwood",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:37:12Z"
+    },
+    {
+      "id": "a6b16f01-0b84-41b2-b729-15259ebc844c",
+      "latitude": -34.872204,
+      "longitude": 138.619863,
+      "street": "Muller Rd",
+      "city": "Greenacres",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:38:49Z"
     },
     {
       "id": "f2017f9c-df88-4a59-a777-3a8bf7886814",
@@ -147,28 +167,58 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
+      "timestamp": "2026-04-07T08:00:24Z",
       "reported_at": "2026-04-07T06:16:45Z"
     },
     {
-      "id": "40e747b2-1ad3-4625-90f9-4fe64102625d",
-      "latitude": -35.133318,
-      "longitude": 138.48594,
+      "id": "08f7ca0c-45d8-4a85-84e9-0336cf86f780",
+      "latitude": -35.133963,
+      "longitude": 138.485988,
       "street": "A15 - Dyson Rd",
       "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:51:20Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:00:00Z"
     },
     {
-      "id": "85738f7b-b934-4084-b0e2-d5e603ab8e9e",
-      "latitude": -35.106415,
-      "longitude": 138.526124,
+      "id": "1882b4d4-2a2e-450a-9179-2dcc080e58b7",
+      "latitude": -35.107064,
+      "longitude": 138.525487,
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T07:30:23Z",
-      "reported_at": "2026-04-07T06:50:50Z"
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T06:30:27Z"
+    },
+    {
+      "id": "abb49d9c-a4d7-497a-9217-10ec3e5d33fe",
+      "latitude": -34.965093,
+      "longitude": 138.552947,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:50:54Z"
+    },
+    {
+      "id": "8b723234-c695-489f-b5e2-4640788b58a7",
+      "latitude": -34.846532,
+      "longitude": 138.642087,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Northfield",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:38:17Z"
+    },
+    {
+      "id": "3ba49726-d143-45b6-9647-d9ef795bb91a",
+      "latitude": -34.668776,
+      "longitude": 138.702175,
+      "street": "A20 - Main North Rd",
+      "city": "Evanston South",
+      "type": "mobile",
+      "timestamp": "2026-04-07T08:00:24Z",
+      "reported_at": "2026-04-07T07:54:32Z"
     }
   ]
 }
