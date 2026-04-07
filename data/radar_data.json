@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "3a2f9cef-0580-4e28-bf02-88221719c584",
+      "latitude": -34.734704,
+      "longitude": 138.640684,
+      "street": "Purling Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-07T20:00:27Z",
+      "reported_at": "2026-04-07T19:27:40Z"
+    },
+    {
       "id": "23df857e-2c77-450d-b4c2-517629ee4468",
       "latitude": -34.842557,
       "longitude": 138.604165,
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-07T19:30:23Z",
+      "timestamp": "2026-04-07T20:00:27Z",
       "reported_at": "2026-04-07T16:44:36Z"
     }
   ]
