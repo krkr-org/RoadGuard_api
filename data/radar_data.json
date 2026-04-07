@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "ac159700-de8e-45e1-afc0-9ea99c8a93c4",
+      "latitude": -35.06887,
+      "longitude": 138.536889,
+      "street": "Heysen Dr",
+      "city": "Sheidow Park",
+      "type": "mobile",
+      "timestamp": "2026-04-07T13:30:22Z",
+      "reported_at": "2026-04-07T10:33:20Z"
+    },
+    {
       "id": "49dc7224-de57-40d9-85d2-c730094b7646",
       "latitude": -35.134413,
       "longitude": 138.509075,
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
+      "timestamp": "2026-04-07T13:30:22Z",
       "reported_at": "2026-04-07T10:08:53Z"
     },
     {
@@ -17,18 +27,8 @@
       "street": "Shelley St",
       "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
+      "timestamp": "2026-04-07T13:30:22Z",
       "reported_at": "2026-04-07T11:45:31Z"
-    },
-    {
-      "id": "03df792a-015c-478a-b2fa-4b60c72c7dee",
-      "latitude": -34.926186,
-      "longitude": 138.54405,
-      "street": "Airport Rd",
-      "city": "Brooklyn Park",
-      "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
-      "reported_at": "2026-04-07T10:22:28Z"
     },
     {
       "id": "899d1d1b-d3e8-4016-b88c-d7d2e838348a",
@@ -37,18 +37,8 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
+      "timestamp": "2026-04-07T13:30:22Z",
       "reported_at": "2026-04-07T11:56:17Z"
-    },
-    {
-      "id": "9c93e4ad-a32b-44b0-80ea-4a06677e871b",
-      "latitude": -34.927652,
-      "longitude": 138.621665,
-      "street": "Wakefield Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
-      "reported_at": "2026-04-07T12:03:31Z"
     },
     {
       "id": "01645c53-0bb4-4b84-a0b9-546532d673f8",
@@ -57,7 +47,7 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
+      "timestamp": "2026-04-07T13:30:22Z",
       "reported_at": "2026-04-07T10:01:39Z"
     },
     {
@@ -67,7 +57,7 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
+      "timestamp": "2026-04-07T13:30:22Z",
       "reported_at": "2026-04-07T09:15:54Z"
     },
     {
@@ -77,28 +67,8 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
+      "timestamp": "2026-04-07T13:30:22Z",
       "reported_at": "2026-04-07T11:37:43Z"
-    },
-    {
-      "id": "9a11423a-cda8-41fb-86c4-0b3422dd7caa",
-      "latitude": -34.841231,
-      "longitude": 138.605134,
-      "street": "A20 - Main North Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
-      "reported_at": "2026-04-07T12:01:53Z"
-    },
-    {
-      "id": "b1c86b74-9305-4806-964a-9a7175616d24",
-      "latitude": -34.775214,
-      "longitude": 138.629858,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-07T13:00:25Z",
-      "reported_at": "2026-04-07T12:26:55Z"
     }
   ]
 }
