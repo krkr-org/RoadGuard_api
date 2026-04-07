@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "cb2c8546-c706-436e-867c-21098e4025ad",
-      "latitude": -34.871199,
-      "longitude": 138.630754,
-      "street": "Birdwood Rd",
-      "city": "Greenacres",
+      "id": "ded19d15-5188-4915-a92b-993e6379dfbc",
+      "latitude": -34.926607,
+      "longitude": 138.621569,
+      "street": "Angas St",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-07T03:18:15Z"
-    },
-    {
-      "id": "001728f9-426a-4b8c-b988-f904403e125b",
-      "latitude": -34.862649,
-      "longitude": 138.679942,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-07T00:19:02Z"
-    },
-    {
-      "id": "fe74251c-0a50-4519-b602-9fcc01e1a0e5",
-      "latitude": -34.942819,
-      "longitude": 138.562312,
-      "street": "Grove Av",
-      "city": "Marleston",
-      "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-06T23:52:36Z"
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T03:33:12Z"
     },
     {
       "id": "bbe02efd-3bd3-4b76-a224-ba6c995e42b1",
@@ -37,18 +17,8 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
+      "timestamp": "2026-04-07T04:30:22Z",
       "reported_at": "2026-04-06T22:27:20Z"
-    },
-    {
-      "id": "0e66acad-332a-4de3-ba41-a425dbc52cd2",
-      "latitude": -34.932193,
-      "longitude": 138.627566,
-      "street": "Grant Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-06T23:16:15Z"
     },
     {
       "id": "0efc53c8-85ae-4fcd-9445-0b4c87fc7d6d",
@@ -57,8 +27,48 @@
       "street": "Tusmore Av",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
+      "timestamp": "2026-04-07T04:30:22Z",
       "reported_at": "2026-04-07T00:35:37Z"
+    },
+    {
+      "id": "0438b15c-e730-462a-a3a0-a30c8294c25f",
+      "latitude": -34.932271,
+      "longitude": 138.62609,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T04:09:06Z"
+    },
+    {
+      "id": "b9b65842-01ed-4527-bf2e-da219a9aec9e",
+      "latitude": -34.886676,
+      "longitude": 138.630038,
+      "street": "Harris Rd",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T00:29:36Z"
+    },
+    {
+      "id": "bc0d2c03-2dfd-4889-9587-93a2788e949b",
+      "latitude": -34.849201,
+      "longitude": 138.6535,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T02:36:05Z"
+    },
+    {
+      "id": "4b99701d-2afe-441e-bda6-b619b992d5ac",
+      "latitude": -34.943641,
+      "longitude": 138.562375,
+      "street": "Grove Av",
+      "city": "Marleston",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T02:21:46Z"
     },
     {
       "id": "2be53f26-b4a4-42d8-907a-3b9571825f57",
@@ -67,7 +77,7 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
+      "timestamp": "2026-04-07T04:30:22Z",
       "reported_at": "2026-04-07T01:44:32Z"
     },
     {
@@ -77,48 +87,78 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
+      "timestamp": "2026-04-07T04:30:22Z",
       "reported_at": "2026-04-06T23:22:55Z"
     },
     {
-      "id": "fa12cb71-7194-47a7-9ee3-9eb72d4ea4c6",
-      "latitude": -34.925099,
-      "longitude": 138.619365,
+      "id": "b63414e6-87ca-4e8b-9954-fb4748cfb1b0",
+      "latitude": -35.116127,
+      "longitude": 138.515559,
+      "street": "O'Sullivan Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T04:01:21Z"
+    },
+    {
+      "id": "b2c4a588-93a6-459f-ac9c-4ed7c41848f4",
+      "latitude": -34.84506,
+      "longitude": 138.501783,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T04:17:59Z"
+    },
+    {
+      "id": "c78eb915-f5b4-428a-a65c-fbf441b00a1f",
+      "latitude": -34.9236,
+      "longitude": 138.581563,
+      "street": "Glover Av",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T04:09:34Z"
+    },
+    {
+      "id": "ee6d0d32-f54e-4c57-8fbf-b1b9e7c79c1a",
+      "latitude": -35.105505,
+      "longitude": 138.516696,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T04:05:24Z"
+    },
+    {
+      "id": "48cac1c0-2cb6-4e12-b108-237e0e2d6c81",
+      "latitude": -34.682787,
+      "longitude": 138.623198,
+      "street": "Womma Rd",
+      "city": "Penfield",
+      "type": "mobile",
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T04:02:20Z"
+    },
+    {
+      "id": "c35faedb-5140-4983-ae8a-e140ecdd6bda",
+      "latitude": -34.925474,
+      "longitude": 138.619645,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-07T01:33:50Z"
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T00:26:33Z"
     },
     {
-      "id": "a330f06e-1100-4b0e-a1d2-802e5f07d6bb",
-      "latitude": -34.96346,
-      "longitude": 138.643735,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "9f600114-b53b-48c4-b72f-b86c7a1e78db",
+      "latitude": -34.975618,
+      "longitude": 138.678014,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-07T02:43:50Z"
-    },
-    {
-      "id": "902c7ed9-1bd5-41fb-9d24-81d88c31d0c3",
-      "latitude": -34.822226,
-      "longitude": 138.619583,
-      "street": "A20 - Main North Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-07T03:22:47Z"
-    },
-    {
-      "id": "84690728-7af7-4e12-a122-342f18e7a818",
-      "latitude": -34.755065,
-      "longitude": 138.647815,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-04-07T03:30:23Z",
-      "reported_at": "2026-04-07T03:05:37Z"
+      "timestamp": "2026-04-07T04:30:22Z",
+      "reported_at": "2026-04-07T03:59:08Z"
     }
   ]
 }
