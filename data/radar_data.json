@@ -1,74 +1,14 @@
 {
   "radars": [
     {
-      "id": "4b19ca8f-cf19-4c96-b559-d53651123c7d",
-      "latitude": -34.886354,
-      "longitude": 138.630447,
-      "street": "Harris Rd",
-      "city": "Vale Park",
+      "id": "0331dee6-39d0-4883-a47d-fec3fb004271",
+      "latitude": -34.997048,
+      "longitude": 138.513709,
+      "street": "Tarlton St",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T23:03:00Z"
-    },
-    {
-      "id": "040338ff-7d6c-46c9-a17c-69afb7e37013",
-      "latitude": -34.934175,
-      "longitude": 138.651651,
-      "street": "Tusmore Av",
-      "city": "Tusmore",
-      "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T23:45:55Z"
-    },
-    {
-      "id": "df8f6b6c-048a-48f8-8934-edf33457f324",
-      "latitude": -34.89285,
-      "longitude": 138.660264,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
-      "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T22:39:46Z"
-    },
-    {
-      "id": "b7652f86-4eda-44d2-85fb-25728e33a246",
-      "latitude": -34.861577,
-      "longitude": 138.679847,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T23:16:28Z"
-    },
-    {
-      "id": "809288fd-d0ba-426d-92ce-6ed8fab60466",
-      "latitude": -34.899666,
-      "longitude": 138.611698,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T23:22:55Z"
-    },
-    {
-      "id": "fe74251c-0a50-4519-b602-9fcc01e1a0e5",
-      "latitude": -34.942819,
-      "longitude": 138.562312,
-      "street": "Grove Av",
-      "city": "Marleston",
-      "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T23:52:36Z"
-    },
-    {
-      "id": "cdaf02ff-83c5-45eb-9e31-a5a963178555",
-      "latitude": -34.931213,
-      "longitude": 138.651419,
-      "street": "Tusmore Av",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T22:57:49Z"
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-07T01:54:22Z"
     },
     {
       "id": "5dae41cd-ff2d-47f8-b364-5c522c1da087",
@@ -77,28 +17,68 @@
       "street": "Blacks Rd",
       "city": "Gilles Plains",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
+      "timestamp": "2026-04-07T02:00:23Z",
       "reported_at": "2026-04-06T22:21:52Z"
     },
     {
-      "id": "0f530de3-2dce-4598-80c6-b61bf2cc8c16",
-      "latitude": -34.932267,
-      "longitude": 138.626738,
+      "id": "df8f6b6c-048a-48f8-8934-edf33457f324",
+      "latitude": -34.89285,
+      "longitude": 138.660264,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T22:39:46Z"
+    },
+    {
+      "id": "0e66acad-332a-4de3-ba41-a425dbc52cd2",
+      "latitude": -34.932193,
+      "longitude": 138.627566,
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T22:56:34Z"
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T23:16:15Z"
     },
     {
-      "id": "bbe02efd-3bd3-4b76-a224-ba6c995e42b1",
-      "latitude": -34.865321,
-      "longitude": 138.631626,
+      "id": "afc48c42-23b9-4e24-b544-65ddf58913ed",
+      "latitude": -34.865284,
+      "longitude": 138.632431,
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T22:27:20Z"
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T22:19:11Z"
+    },
+    {
+      "id": "040338ff-7d6c-46c9-a17c-69afb7e37013",
+      "latitude": -34.934175,
+      "longitude": 138.651651,
+      "street": "Tusmore Av",
+      "city": "Tusmore",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T23:45:55Z"
+    },
+    {
+      "id": "375c6b4a-7e81-4e4a-ba7b-abe39730712d",
+      "latitude": -34.861617,
+      "longitude": 138.679844,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T22:47:43Z"
+    },
+    {
+      "id": "809288fd-d0ba-426d-92ce-6ed8fab60466",
+      "latitude": -34.899666,
+      "longitude": 138.611698,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T23:22:55Z"
     },
     {
       "id": "b4b91c71-84b9-4593-b81e-ec82999e2fb9",
@@ -107,8 +87,18 @@
       "street": "Arthur St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
+      "timestamp": "2026-04-07T02:00:23Z",
       "reported_at": "2026-04-06T22:24:36Z"
+    },
+    {
+      "id": "cdaf02ff-83c5-45eb-9e31-a5a963178555",
+      "latitude": -34.931213,
+      "longitude": 138.651419,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T22:57:49Z"
     },
     {
       "id": "45c3e157-77d4-45ca-a2f0-7f54bd8e3db1",
@@ -117,38 +107,68 @@
       "street": "Fussell Pl",
       "city": "Alberton",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
+      "timestamp": "2026-04-07T02:00:23Z",
       "reported_at": "2026-04-06T22:53:26Z"
     },
     {
-      "id": "ccdaa9e0-b8c3-4908-9447-210a40c66a37",
-      "latitude": -34.726275,
-      "longitude": 138.603892,
-      "street": "Diment Rd",
-      "city": "Direk",
+      "id": "fe74251c-0a50-4519-b602-9fcc01e1a0e5",
+      "latitude": -34.942819,
+      "longitude": 138.562312,
+      "street": "Grove Av",
+      "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-06T23:43:58Z"
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T23:52:36Z"
     },
     {
-      "id": "c35faedb-5140-4983-ae8a-e140ecdd6bda",
-      "latitude": -34.925474,
-      "longitude": 138.619645,
+      "id": "34483d96-414f-40e5-87e4-2ba68ecd8ebb",
+      "latitude": -35.139186,
+      "longitude": 138.475691,
+      "street": "Beach Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-07T01:53:51Z"
+    },
+    {
+      "id": "1a126575-a221-4dfc-b186-72a5cb97ee69",
+      "latitude": -35.034672,
+      "longitude": 138.813704,
+      "street": "Main St",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-07T01:17:57Z"
+    },
+    {
+      "id": "012c4feb-ce5e-4ed7-be4c-ec38d1f9975c",
+      "latitude": -34.917413,
+      "longitude": 138.578663,
+      "street": "R1 - Port Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-07T01:33:24Z"
+    },
+    {
+      "id": "0c11c2e4-8559-4666-9f17-6a1471c4be03",
+      "latitude": -34.926923,
+      "longitude": 138.621655,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-07T00:26:33Z"
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-06T22:21:12Z"
     },
     {
-      "id": "88233d1e-889d-40c3-8c6f-72ce68c1156e",
-      "latitude": -35.047658,
-      "longitude": 138.822036,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
+      "id": "f056afe5-ecb7-40d7-9b89-4209b0d178f8",
+      "latitude": -34.808046,
+      "longitude": 138.632262,
+      "street": "A20 - Main North Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-04-07T01:30:22Z",
-      "reported_at": "2026-04-07T01:14:05Z"
+      "timestamp": "2026-04-07T02:00:23Z",
+      "reported_at": "2026-04-07T01:54:00Z"
     }
   ]
 }
