@@ -7,7 +7,7 @@
       "street": "Heysen Dr",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
+      "timestamp": "2026-04-07T14:00:24Z",
       "reported_at": "2026-04-07T10:33:20Z"
     },
     {
@@ -17,18 +17,8 @@
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
+      "timestamp": "2026-04-07T14:00:24Z",
       "reported_at": "2026-04-07T10:08:53Z"
-    },
-    {
-      "id": "6d84763b-15f9-4008-ad51-cc81c4aeed74",
-      "latitude": -34.90604,
-      "longitude": 138.653857,
-      "street": "Shelley St",
-      "city": "Firle",
-      "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
-      "reported_at": "2026-04-07T11:45:31Z"
     },
     {
       "id": "899d1d1b-d3e8-4016-b88c-d7d2e838348a",
@@ -37,8 +27,18 @@
       "street": "Young St",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
+      "timestamp": "2026-04-07T14:00:24Z",
       "reported_at": "2026-04-07T11:56:17Z"
+    },
+    {
+      "id": "6d84763b-15f9-4008-ad51-cc81c4aeed74",
+      "latitude": -34.90604,
+      "longitude": 138.653857,
+      "street": "Shelley St",
+      "city": "Firle",
+      "type": "mobile",
+      "timestamp": "2026-04-07T14:00:24Z",
+      "reported_at": "2026-04-07T11:45:31Z"
     },
     {
       "id": "01645c53-0bb4-4b84-a0b9-546532d673f8",
@@ -47,7 +47,7 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
+      "timestamp": "2026-04-07T14:00:24Z",
       "reported_at": "2026-04-07T10:01:39Z"
     },
     {
@@ -57,7 +57,7 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
+      "timestamp": "2026-04-07T14:00:24Z",
       "reported_at": "2026-04-07T09:15:54Z"
     },
     {
@@ -67,8 +67,28 @@
       "street": "A13 - Main South Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T13:30:22Z",
+      "timestamp": "2026-04-07T14:00:24Z",
       "reported_at": "2026-04-07T11:37:43Z"
+    },
+    {
+      "id": "0fefcfcc-a025-4004-a80a-324bba582ad6",
+      "latitude": -34.844636,
+      "longitude": 138.60292,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-07T14:00:24Z",
+      "reported_at": "2026-04-07T13:23:35Z"
+    },
+    {
+      "id": "112af08f-9b2b-430e-8ab9-deb133271289",
+      "latitude": -34.847622,
+      "longitude": 138.608056,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-07T14:00:24Z",
+      "reported_at": "2026-04-07T13:39:38Z"
     }
   ]
 }
