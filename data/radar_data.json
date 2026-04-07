@@ -7,7 +7,7 @@
       "street": "Angas St",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
+      "timestamp": "2026-04-07T07:00:23Z",
       "reported_at": "2026-04-07T03:33:12Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Elizabeth Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
+      "timestamp": "2026-04-07T07:00:23Z",
       "reported_at": "2026-04-07T06:17:10Z"
     },
     {
@@ -27,68 +27,8 @@
       "street": "Adams Rd",
       "city": "Trott Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
+      "timestamp": "2026-04-07T07:00:23Z",
       "reported_at": "2026-04-07T05:54:28Z"
-    },
-    {
-      "id": "773c360e-f734-4f38-b30a-a61d39c004c3",
-      "latitude": -35.09442,
-      "longitude": 138.530489,
-      "street": "Grant Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:10:32Z"
-    },
-    {
-      "id": "0438b15c-e730-462a-a3a0-a30c8294c25f",
-      "latitude": -34.932271,
-      "longitude": 138.62609,
-      "street": "Grant Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T04:09:06Z"
-    },
-    {
-      "id": "f4674ba4-00b5-466d-9668-a9c4bb4d632a",
-      "latitude": -35.114645,
-      "longitude": 138.579489,
-      "street": "Bains Rd",
-      "city": "Onkaparinga Hills",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:03:06Z"
-    },
-    {
-      "id": "7445cd89-8c0f-4d46-951b-56710b6d7b59",
-      "latitude": -34.865496,
-      "longitude": 138.627922,
-      "street": "Redward Av",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T03:46:08Z"
-    },
-    {
-      "id": "bc0d2c03-2dfd-4889-9587-93a2788e949b",
-      "latitude": -34.849201,
-      "longitude": 138.6535,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T02:36:05Z"
-    },
-    {
-      "id": "f58300fa-917c-4622-81f3-2179e3fb402f",
-      "latitude": -35.096097,
-      "longitude": 138.534162,
-      "street": "Young St",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:07:30Z"
     },
     {
       "id": "2be53f26-b4a4-42d8-907a-3b9571825f57",
@@ -97,8 +37,88 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
+      "timestamp": "2026-04-07T07:00:23Z",
       "reported_at": "2026-04-07T01:44:32Z"
+    },
+    {
+      "id": "80230aa6-5c68-4ddc-8fb3-a89f4a951303",
+      "latitude": -35.094364,
+      "longitude": 138.531625,
+      "street": "Grant Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:30:34Z"
+    },
+    {
+      "id": "f4674ba4-00b5-466d-9668-a9c4bb4d632a",
+      "latitude": -35.114645,
+      "longitude": 138.579489,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:03:06Z"
+    },
+    {
+      "id": "0438b15c-e730-462a-a3a0-a30c8294c25f",
+      "latitude": -34.932271,
+      "longitude": 138.62609,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T04:09:06Z"
+    },
+    {
+      "id": "7445cd89-8c0f-4d46-951b-56710b6d7b59",
+      "latitude": -34.865496,
+      "longitude": 138.627922,
+      "street": "Redward Av",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T03:46:08Z"
+    },
+    {
+      "id": "f58300fa-917c-4622-81f3-2179e3fb402f",
+      "latitude": -35.096097,
+      "longitude": 138.534162,
+      "street": "Young St",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:07:30Z"
+    },
+    {
+      "id": "bc0d2c03-2dfd-4889-9587-93a2788e949b",
+      "latitude": -34.849201,
+      "longitude": 138.6535,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T02:36:05Z"
+    },
+    {
+      "id": "3300514d-5fa3-4240-a782-15f404148f1d",
+      "latitude": -34.87651,
+      "longitude": 138.484571,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:37:09Z"
+    },
+    {
+      "id": "2dc6c2fc-39d8-4aa2-9a0b-1f0b208da945",
+      "latitude": -34.877551,
+      "longitude": 138.484797,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:43:15Z"
     },
     {
       "id": "fef2789b-e209-40c8-920c-921903cfc080",
@@ -107,28 +127,8 @@
       "street": "Woodville Rd",
       "city": "St. Clair",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
+      "timestamp": "2026-04-07T07:00:23Z",
       "reported_at": "2026-04-07T05:48:23Z"
-    },
-    {
-      "id": "abb65378-c5ec-4d5e-ae5e-23bb55bd888f",
-      "latitude": -34.900221,
-      "longitude": 138.59444,
-      "street": "Prospect Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:14:38Z"
-    },
-    {
-      "id": "b17f4c6c-7fb9-4f39-a5bd-5a1fef0bbadc",
-      "latitude": -34.716772,
-      "longitude": 138.744327,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:12:46Z"
     },
     {
       "id": "f2017f9c-df88-4a59-a777-3a8bf7886814",
@@ -137,28 +137,38 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
+      "timestamp": "2026-04-07T07:00:23Z",
       "reported_at": "2026-04-07T06:16:45Z"
     },
     {
-      "id": "cd8476ba-e37a-4c4b-8ef3-ae6e29c91901",
-      "latitude": -34.881233,
-      "longitude": 138.584573,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
+      "id": "f39133b9-26fe-40b8-851f-c8b32fa8d379",
+      "latitude": -35.13438,
+      "longitude": 138.485857,
+      "street": "A15 - Dyson Rd",
+      "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:05:51Z"
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:26:26Z"
     },
     {
-      "id": "69f496fc-8d5e-4d6c-b17c-a761ef880d8f",
-      "latitude": -34.800339,
-      "longitude": 138.607622,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "24c12ddd-d2f7-431a-b316-d87cfa29fa5c",
+      "latitude": -35.133399,
+      "longitude": 138.485946,
+      "street": "A15 - Dyson Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-04-07T06:30:22Z",
-      "reported_at": "2026-04-07T06:11:18Z"
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T05:48:02Z"
+    },
+    {
+      "id": "1882b4d4-2a2e-450a-9179-2dcc080e58b7",
+      "latitude": -35.106988,
+      "longitude": 138.525586,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-07T07:00:23Z",
+      "reported_at": "2026-04-07T06:30:27Z"
     }
   ]
 }
