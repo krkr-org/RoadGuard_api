@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "9f78ceb9-7e07-4830-9be2-8518ee1bcb26",
-      "latitude": -35.094369,
-      "longitude": 138.531556,
-      "street": "Grant Rd",
-      "city": "Reynella",
+      "id": "49dc7224-de57-40d9-85d2-c730094b7646",
+      "latitude": -35.134413,
+      "longitude": 138.509075,
+      "street": "Elizabeth Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
-      "reported_at": "2026-04-07T08:00:26Z"
-    },
-    {
-      "id": "e1b0e8bf-b3c5-4c9a-ac50-ac0259b387b2",
-      "latitude": -35.096043,
-      "longitude": 138.534158,
-      "street": "Young St",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
-      "reported_at": "2026-04-07T07:56:58Z"
+      "timestamp": "2026-04-07T13:00:25Z",
+      "reported_at": "2026-04-07T10:08:53Z"
     },
     {
       "id": "6d84763b-15f9-4008-ad51-cc81c4aeed74",
@@ -27,7 +17,7 @@
       "street": "Shelley St",
       "city": "Firle",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
+      "timestamp": "2026-04-07T13:00:25Z",
       "reported_at": "2026-04-07T11:45:31Z"
     },
     {
@@ -37,28 +27,28 @@
       "street": "Airport Rd",
       "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
+      "timestamp": "2026-04-07T13:00:25Z",
       "reported_at": "2026-04-07T10:22:28Z"
     },
     {
-      "id": "476997ee-891b-4653-bbca-fddd323f2c65",
-      "latitude": -34.666347,
-      "longitude": 138.705004,
-      "street": "Medlow Rd",
-      "city": "Blakeview",
+      "id": "899d1d1b-d3e8-4016-b88c-d7d2e838348a",
+      "latitude": -35.09679,
+      "longitude": 138.534208,
+      "street": "Young St",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
-      "reported_at": "2026-04-07T08:38:28Z"
+      "timestamp": "2026-04-07T13:00:25Z",
+      "reported_at": "2026-04-07T11:56:17Z"
     },
     {
-      "id": "08f7ca0c-45d8-4a85-84e9-0336cf86f780",
-      "latitude": -35.133934,
-      "longitude": 138.485986,
-      "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "id": "9c93e4ad-a32b-44b0-80ea-4a06677e871b",
+      "latitude": -34.927652,
+      "longitude": 138.621665,
+      "street": "Wakefield Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
-      "reported_at": "2026-04-07T07:00:00Z"
+      "timestamp": "2026-04-07T13:00:25Z",
+      "reported_at": "2026-04-07T12:03:31Z"
     },
     {
       "id": "01645c53-0bb4-4b84-a0b9-546532d673f8",
@@ -67,7 +57,7 @@
       "street": "A15 - Dyson Rd",
       "city": "Christies Beach",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
+      "timestamp": "2026-04-07T13:00:25Z",
       "reported_at": "2026-04-07T10:01:39Z"
     },
     {
@@ -77,18 +67,38 @@
       "street": "A15 - Murray Rd",
       "city": "Port Noarlunga",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
+      "timestamp": "2026-04-07T13:00:25Z",
       "reported_at": "2026-04-07T09:15:54Z"
     },
     {
-      "id": "c32ab27f-49b1-4f07-afbb-014843cde915",
-      "latitude": -34.699153,
-      "longitude": 138.683827,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Downs",
+      "id": "abb60ec2-ff2a-4548-8344-136593925ef6",
+      "latitude": -35.105133,
+      "longitude": 138.527169,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-07T12:00:25Z",
-      "reported_at": "2026-04-07T11:35:46Z"
+      "timestamp": "2026-04-07T13:00:25Z",
+      "reported_at": "2026-04-07T11:37:43Z"
+    },
+    {
+      "id": "9a11423a-cda8-41fb-86c4-0b3422dd7caa",
+      "latitude": -34.841231,
+      "longitude": 138.605134,
+      "street": "A20 - Main North Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-07T13:00:25Z",
+      "reported_at": "2026-04-07T12:01:53Z"
+    },
+    {
+      "id": "b1c86b74-9305-4806-964a-9a7175616d24",
+      "latitude": -34.775214,
+      "longitude": 138.629858,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-07T13:00:25Z",
+      "reported_at": "2026-04-07T12:26:55Z"
     }
   ]
 }
