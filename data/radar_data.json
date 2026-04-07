@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "b7652f86-4eda-44d2-85fb-25728e33a246",
-      "latitude": -34.861577,
-      "longitude": 138.679847,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
-      "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-06T23:16:28Z"
-    },
-    {
       "id": "4b19ca8f-cf19-4c96-b559-d53651123c7d",
       "latitude": -34.886354,
       "longitude": 138.630447,
       "street": "Harris Rd",
       "city": "Vale Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T23:03:00Z"
     },
     {
-      "id": "fe74251c-0a50-4519-b602-9fcc01e1a0e5",
-      "latitude": -34.942819,
-      "longitude": 138.562312,
-      "street": "Grove Av",
-      "city": "Marleston",
+      "id": "df8f6b6c-048a-48f8-8934-edf33457f324",
+      "latitude": -34.89285,
+      "longitude": 138.660264,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-06T23:52:36Z"
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T22:39:46Z"
+    },
+    {
+      "id": "b7652f86-4eda-44d2-85fb-25728e33a246",
+      "latitude": -34.861577,
+      "longitude": 138.679847,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T23:16:28Z"
     },
     {
       "id": "809288fd-d0ba-426d-92ce-6ed8fab60466",
@@ -37,48 +37,18 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T23:22:55Z"
     },
     {
-      "id": "5dae41cd-ff2d-47f8-b364-5c522c1da087",
-      "latitude": -34.852343,
-      "longitude": 138.653725,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
+      "id": "fe74251c-0a50-4519-b602-9fcc01e1a0e5",
+      "latitude": -34.942819,
+      "longitude": 138.562312,
+      "street": "Grove Av",
+      "city": "Marleston",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-06T22:21:52Z"
-    },
-    {
-      "id": "cdaf02ff-83c5-45eb-9e31-a5a963178555",
-      "latitude": -34.931213,
-      "longitude": 138.651419,
-      "street": "Tusmore Av",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-06T22:57:49Z"
-    },
-    {
-      "id": "afc48c42-23b9-4e24-b544-65ddf58913ed",
-      "latitude": -34.865284,
-      "longitude": 138.632431,
-      "street": "Redward Av",
-      "city": "Lightsview",
-      "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-06T22:19:11Z"
-    },
-    {
-      "id": "b4b91c71-84b9-4593-b81e-ec82999e2fb9",
-      "latitude": -34.903435,
-      "longitude": 138.672354,
-      "street": "Arthur St",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-06T22:24:36Z"
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T23:52:36Z"
     },
     {
       "id": "0f530de3-2dce-4598-80c6-b61bf2cc8c16",
@@ -87,8 +57,38 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T22:56:34Z"
+    },
+    {
+      "id": "5dae41cd-ff2d-47f8-b364-5c522c1da087",
+      "latitude": -34.852343,
+      "longitude": 138.653725,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T22:21:52Z"
+    },
+    {
+      "id": "bbe02efd-3bd3-4b76-a224-ba6c995e42b1",
+      "latitude": -34.865321,
+      "longitude": 138.631626,
+      "street": "Redward Av",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T22:27:20Z"
+    },
+    {
+      "id": "b4b91c71-84b9-4593-b81e-ec82999e2fb9",
+      "latitude": -34.903435,
+      "longitude": 138.672354,
+      "street": "Arthur St",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T22:24:36Z"
     },
     {
       "id": "040338ff-7d6c-46c9-a17c-69afb7e37013",
@@ -97,8 +97,28 @@
       "street": "Tusmore Av",
       "city": "Tusmore",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T23:45:55Z"
+    },
+    {
+      "id": "cdaf02ff-83c5-45eb-9e31-a5a963178555",
+      "latitude": -34.931213,
+      "longitude": 138.651419,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-06T22:57:49Z"
+    },
+    {
+      "id": "cb21250d-ec77-4e0c-a817-154b794d3317",
+      "latitude": -34.921805,
+      "longitude": 138.623353,
+      "street": "The Parade",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-07T00:44:46Z"
     },
     {
       "id": "45c3e157-77d4-45ca-a2f0-7f54bd8e3db1",
@@ -107,7 +127,7 @@
       "street": "Fussell Pl",
       "city": "Alberton",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T22:53:26Z"
     },
     {
@@ -117,28 +137,28 @@
       "street": "Diment Rd",
       "city": "Direk",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T23:43:58Z"
     },
     {
-      "id": "c8b99d6f-ec6e-4e95-9fb1-80ba2390bd5a",
-      "latitude": -35.115613,
-      "longitude": 138.525697,
-      "street": "Bains Rd",
-      "city": "Morphett Vale",
+      "id": "8c57ff4d-c84b-47dc-be28-e898359241fb",
+      "latitude": -34.741414,
+      "longitude": 138.657371,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-07T00:25:08Z"
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-07T00:34:43Z"
     },
     {
-      "id": "d00e015f-ea86-4635-bbd9-3ade4b772437",
-      "latitude": -34.991835,
-      "longitude": 138.591762,
-      "street": "Daws Rd",
-      "city": "Daw Park",
+      "id": "cef7ad65-0f00-4a7f-9f82-1d174fe4d99b",
+      "latitude": -35.044902,
+      "longitude": 138.531216,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-07T00:12:06Z"
+      "timestamp": "2026-04-07T01:00:23Z",
+      "reported_at": "2026-04-07T00:47:53Z"
     },
     {
       "id": "67614ecb-c3d9-4c36-92e3-1e4185c9ac67",
@@ -147,18 +167,8 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
+      "timestamp": "2026-04-07T01:00:23Z",
       "reported_at": "2026-04-06T22:56:19Z"
-    },
-    {
-      "id": "1d00ebe8-032b-41d3-a9a5-b56e7120e2ad",
-      "latitude": -34.803563,
-      "longitude": 138.596949,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-07T00:30:23Z",
-      "reported_at": "2026-04-07T00:13:39Z"
     }
   ]
 }
