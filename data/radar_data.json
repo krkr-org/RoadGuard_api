@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "bec945bc-6c15-4053-8ae1-9298a39c6af9",
-      "latitude": -34.899913,
-      "longitude": 138.564356,
-      "street": "A7 - Port Rd",
-      "city": "Croydon",
+      "id": "d19eb346-3ff4-4064-bb2f-3fe45ec28c7a",
+      "latitude": -34.87813,
+      "longitude": 138.57194,
+      "street": "South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T20:30:27Z",
-      "reported_at": "2026-04-07T20:22:41Z"
+      "timestamp": "2026-04-07T21:00:25Z",
+      "reported_at": "2026-04-07T20:38:31Z"
+    },
+    {
+      "id": "7d2c89c5-919e-466c-b20f-6c18355adc03",
+      "latitude": -35.050004,
+      "longitude": 138.579788,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-07T21:00:25Z",
+      "reported_at": "2026-04-07T20:38:48Z"
     },
     {
       "id": "23df857e-2c77-450d-b4c2-517629ee4468",
@@ -17,38 +27,8 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-07T20:30:27Z",
+      "timestamp": "2026-04-07T21:00:25Z",
       "reported_at": "2026-04-07T16:44:36Z"
-    },
-    {
-      "id": "95f878e3-648b-4ec2-b11f-1c11eea31eba",
-      "latitude": -34.901977,
-      "longitude": 138.566899,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
-      "type": "mobile",
-      "timestamp": "2026-04-07T20:30:27Z",
-      "reported_at": "2026-04-07T20:27:36Z"
-    },
-    {
-      "id": "7e5aa571-0fe9-4eef-abd8-0fa7083bc67b",
-      "latitude": -34.901012,
-      "longitude": 138.566684,
-      "street": "M2 - North-South Mwy",
-      "city": "Allenby Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-07T20:30:27Z",
-      "reported_at": "2026-04-07T20:26:56Z"
-    },
-    {
-      "id": "a88e76bd-3f1b-40ae-bfe0-fb0e17883f68",
-      "latitude": -34.850224,
-      "longitude": 138.564748,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
-      "type": "mobile",
-      "timestamp": "2026-04-07T20:30:27Z",
-      "reported_at": "2026-04-07T20:27:15Z"
     }
   ]
 }
