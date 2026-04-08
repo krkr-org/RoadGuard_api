@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "f662408c-bfa4-42d4-981c-db3381740643",
-      "latitude": -34.740461,
-      "longitude": 138.613471,
-      "street": "Bolivar Rd",
-      "city": "Burton",
+      "id": "8f8eea97-33c9-4d67-8f7d-3385e75d9731",
+      "latitude": -34.769687,
+      "longitude": 138.683302,
+      "street": "Green Valley Dr",
+      "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-04-08T13:00:22Z",
-      "reported_at": "2026-04-08T06:04:51Z"
+      "timestamp": "2026-04-08T13:30:22Z",
+      "reported_at": "2026-04-08T10:25:24Z"
     },
     {
-      "id": "7c751fdf-3dd9-496f-b956-11b76c26f66f",
-      "latitude": -34.96433,
-      "longitude": 138.516586,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "id": "10c04554-9d0c-47d1-b6f9-89198873617a",
+      "latitude": -34.925027,
+      "longitude": 138.543708,
+      "street": "Unknown Street",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-08T13:00:22Z",
-      "reported_at": "2026-04-08T12:33:21Z"
+      "timestamp": "2026-04-08T13:30:22Z",
+      "reported_at": "2026-04-08T13:23:35Z"
     },
     {
       "id": "6c5cf7e0-30a9-49c4-a1d8-88ad2e5e3d76",
@@ -27,8 +27,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-08T13:00:22Z",
+      "timestamp": "2026-04-08T13:30:22Z",
       "reported_at": "2026-04-08T12:06:02Z"
+    },
+    {
+      "id": "f1e52f6e-7cb3-43d6-a853-fa0642f83191",
+      "latitude": -34.742481,
+      "longitude": 138.676085,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-08T13:30:22Z",
+      "reported_at": "2026-04-08T13:18:52Z"
     }
   ]
 }
