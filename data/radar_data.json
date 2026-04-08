@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "ddee5940-697a-4e3d-9be6-9a2775027de4",
+      "latitude": -34.951361,
+      "longitude": 138.551506,
+      "street": "Harvey Av",
+      "city": "Netley",
+      "type": "mobile",
+      "timestamp": "2026-04-08T22:30:24Z",
+      "reported_at": "2026-04-08T22:11:16Z"
+    },
+    {
       "id": "a9d1f9de-159f-4b15-b929-48ec61ec86b9",
       "latitude": -34.99877,
       "longitude": 138.582543,
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-08T22:00:23Z",
+      "timestamp": "2026-04-08T22:30:24Z",
       "reported_at": "2026-04-08T21:58:47Z"
     },
     {
-      "id": "5d4c9828-5196-4367-bb11-36cb7fc02297",
-      "latitude": -35.065772,
-      "longitude": 138.531951,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "533abc20-f656-4e02-9207-746d5e898919",
+      "latitude": -34.968362,
+      "longitude": 138.543335,
+      "street": "Stonehouse Av",
+      "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-04-08T22:00:23Z",
-      "reported_at": "2026-04-08T21:46:37Z"
+      "timestamp": "2026-04-08T22:30:24Z",
+      "reported_at": "2026-04-08T21:53:54Z"
+    },
+    {
+      "id": "15b02d2b-443c-46c1-9e62-07acab60c861",
+      "latitude": -34.992415,
+      "longitude": 138.582568,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-04-08T22:30:24Z",
+      "reported_at": "2026-04-08T21:52:28Z"
+    },
+    {
+      "id": "aa6041eb-0c55-443d-852b-a8f6d127dfca",
+      "latitude": -34.92506,
+      "longitude": 138.614022,
+      "street": "Bartels Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-08T22:30:24Z",
+      "reported_at": "2026-04-08T22:10:38Z"
+    },
+    {
+      "id": "0776b384-4eba-4c97-aac0-3b22892fed29",
+      "latitude": -34.979949,
+      "longitude": 138.61056,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
+      "type": "mobile",
+      "timestamp": "2026-04-08T22:30:24Z",
+      "reported_at": "2026-04-08T22:14:37Z"
     }
   ]
 }
