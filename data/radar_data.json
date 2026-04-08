@@ -1,14 +1,44 @@
 {
   "radars": [
     {
+      "id": "8ae34144-78b4-4b9d-bb3b-d4382a334eeb",
+      "latitude": -34.779626,
+      "longitude": 138.494765,
+      "street": "Unknown Street",
+      "city": "North Haven",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:40:39Z"
+    },
+    {
+      "id": "033af68d-6a93-43ca-a5a9-62c705262131",
+      "latitude": -34.725432,
+      "longitude": 138.640677,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:34:26Z"
+    },
+    {
       "id": "3930656d-f45a-453d-aa53-a7760a3db9d0",
       "latitude": -34.808153,
       "longitude": 138.496595,
       "street": "Military Rd",
       "city": "Taperoo",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
+      "timestamp": "2026-04-08T00:00:27Z",
       "reported_at": "2026-04-07T22:58:39Z"
+    },
+    {
+      "id": "c0d33ce4-c155-48e8-b1b6-9b665f28d591",
+      "latitude": -34.817352,
+      "longitude": 138.504471,
+      "street": "Willochra St",
+      "city": "Largs North",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T22:28:59Z"
     },
     {
       "id": "7a337f7d-627b-4954-b401-71712468a0c7",
@@ -17,7 +47,7 @@
       "street": "Fairford Tce",
       "city": "Semaphore Park",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
+      "timestamp": "2026-04-08T00:00:27Z",
       "reported_at": "2026-04-07T22:47:16Z"
     },
     {
@@ -27,58 +57,8 @@
       "street": "May Tce",
       "city": "Ottoway",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
+      "timestamp": "2026-04-08T00:00:27Z",
       "reported_at": "2026-04-07T22:25:55Z"
-    },
-    {
-      "id": "0b019029-4ec5-4aef-8ae6-413d89abc7fc",
-      "latitude": -34.921806,
-      "longitude": 138.623335,
-      "street": "The Parade",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T23:03:35Z"
-    },
-    {
-      "id": "f5c98722-4154-4c18-a223-9bd8f1face4b",
-      "latitude": -34.809518,
-      "longitude": 138.632057,
-      "street": "Maxwell Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T23:27:25Z"
-    },
-    {
-      "id": "b9e4c4e5-dd5e-401a-b2b1-ec4975a6cf00",
-      "latitude": -34.795194,
-      "longitude": 138.491535,
-      "street": "Lady Gowrie Dr",
-      "city": "North Haven",
-      "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T22:46:43Z"
-    },
-    {
-      "id": "0cc1a72e-f7a9-4830-b955-7fd42a831452",
-      "latitude": -35.137143,
-      "longitude": 138.516495,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T23:20:57Z"
-    },
-    {
-      "id": "d3457d49-b7b1-4626-bfd3-57fe1896e1dd",
-      "latitude": -34.834512,
-      "longitude": 138.481836,
-      "street": "Esplanade",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T22:50:57Z"
     },
     {
       "id": "377a7e4b-c431-4a40-9663-ddebcdaef0d1",
@@ -87,18 +67,28 @@
       "street": "Glen Osmond Rd",
       "city": "Eastwood",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
+      "timestamp": "2026-04-08T00:00:27Z",
       "reported_at": "2026-04-07T23:25:43Z"
     },
     {
-      "id": "aa0495a3-0abd-48a1-b136-5a5b72fbe314",
-      "latitude": -35.126544,
-      "longitude": 138.51886,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
+      "id": "cf6711ad-d4bb-483d-a8a6-bfbddccfd0e8",
+      "latitude": -34.809518,
+      "longitude": 138.632058,
+      "street": "Maxwell Rd",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T23:03:10Z"
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:27:35Z"
+    },
+    {
+      "id": "91c1b8a7-a667-4287-a883-d01dc6045545",
+      "latitude": -34.834183,
+      "longitude": 138.481973,
+      "street": "Esplanade",
+      "city": "Semaphore",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T22:45:53Z"
     },
     {
       "id": "3971c36c-fdff-46ae-b53c-112b1ef0cfdf",
@@ -107,28 +97,58 @@
       "street": "Woolnough Rd",
       "city": "Largs Bay",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
+      "timestamp": "2026-04-08T00:00:27Z",
       "reported_at": "2026-04-07T22:42:38Z"
     },
     {
-      "id": "ffc9f0cf-a842-4cfe-beff-1cfbbc7c28bd",
-      "latitude": -34.83844,
-      "longitude": 138.507382,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
+      "id": "13f09759-8d61-41e3-b8f5-3c43aa3fe6da",
+      "latitude": -34.840332,
+      "longitude": 138.662744,
+      "street": "Nelson Rd",
+      "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T23:21:13Z"
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:48:13Z"
     },
     {
-      "id": "15d60c39-a946-4776-806d-12bcb88a89b3",
-      "latitude": -34.779975,
-      "longitude": 138.49582,
-      "street": "A16 - Victoria Rd",
-      "city": "Outer Harbor",
+      "id": "7df9e04e-9e24-40be-a426-b8f80361053f",
+      "latitude": -35.112907,
+      "longitude": 138.492175,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-07T23:30:23Z",
-      "reported_at": "2026-04-07T22:23:02Z"
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:46:38Z"
+    },
+    {
+      "id": "adcc1ed8-7cc9-4015-bd91-352b777e3595",
+      "latitude": -35.140803,
+      "longitude": 138.524658,
+      "street": "A13 - Main South Rd",
+      "city": "Hackham West",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:31:04Z"
+    },
+    {
+      "id": "0adbb859-3da5-4980-8bca-c8f5e7cd58c5",
+      "latitude": -34.918945,
+      "longitude": 138.616329,
+      "street": "A11 - North Tce",
+      "city": "Hackney",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:30:27Z"
+    },
+    {
+      "id": "5978df44-e821-4cf4-a31f-6af54d427741",
+      "latitude": -34.792529,
+      "longitude": 138.579062,
+      "street": "M2 - North-South Mwy",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-04-08T00:00:27Z",
+      "reported_at": "2026-04-07T23:55:29Z"
     }
   ]
 }
