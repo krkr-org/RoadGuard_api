@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "8d213eb7-8729-4044-900b-94a157bac818",
-      "latitude": -34.938296,
-      "longitude": 138.535821,
-      "street": "Sir Richard Williams Av",
-      "city": "Adelaide Airport",
+      "id": "715a5e63-e829-4fbb-986e-01ef274f0ed8",
+      "latitude": -34.743269,
+      "longitude": 138.626792,
+      "street": "Whites Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T06:51:40Z"
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T06:30:21Z"
     },
     {
-      "id": "b2b53025-5ca8-4240-adeb-4fa0bf252a85",
-      "latitude": -34.763408,
-      "longitude": 138.621436,
-      "street": "Burton Rd",
-      "city": "Salisbury Downs",
+      "id": "090a872b-dba5-4d9e-813d-4782d6499ad4",
+      "latitude": -34.739113,
+      "longitude": 138.669874,
+      "street": "Haydown Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T07:02:44Z"
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T06:45:19Z"
+    },
+    {
+      "id": "339ff691-0ec9-4903-ba89-1600d7921476",
+      "latitude": -34.761895,
+      "longitude": 138.610163,
+      "street": "Whites Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T06:17:32Z"
+    },
+    {
+      "id": "3003062d-ba6c-4e05-b335-399a60fe1552",
+      "latitude": -34.712869,
+      "longitude": 138.692072,
+      "street": "Seaborough Rd",
+      "city": "Elizabeth Park",
+      "type": "mobile",
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T06:57:05Z"
     },
     {
       "id": "31247552-9d1c-4238-8fea-57aa2d3663bd",
@@ -27,38 +47,8 @@
       "street": "Target Hill Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
+      "timestamp": "2026-04-08T08:00:23Z",
       "reported_at": "2026-04-08T06:46:52Z"
-    },
-    {
-      "id": "715a5e63-e829-4fbb-986e-01ef274f0ed8",
-      "latitude": -34.743269,
-      "longitude": 138.626792,
-      "street": "Whites Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T06:30:21Z"
-    },
-    {
-      "id": "988b0961-139c-48d5-9985-09c3c04422a5",
-      "latitude": -34.883052,
-      "longitude": 138.561218,
-      "street": "Torrens Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T07:10:34Z"
-    },
-    {
-      "id": "18ad7be2-b77c-4d65-a08e-1b65590895c6",
-      "latitude": -34.810051,
-      "longitude": 138.696854,
-      "street": "Golden Grove Rd",
-      "city": "Redwood Park",
-      "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T07:18:31Z"
     },
     {
       "id": "5286c256-85eb-4400-9a2c-c2904e20f833",
@@ -67,38 +57,28 @@
       "street": "Grenfell Rd",
       "city": "Modbury Heights",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
+      "timestamp": "2026-04-08T08:00:23Z",
       "reported_at": "2026-04-08T07:00:32Z"
     },
     {
-      "id": "86214de8-8b08-4af5-a3d0-28522c5a3b61",
-      "latitude": -34.930571,
-      "longitude": 138.600021,
-      "street": "King William St",
-      "city": "Adelaide",
+      "id": "24fab18e-899b-4dc7-8401-c89a5ae41357",
+      "latitude": -34.839959,
+      "longitude": 138.576691,
+      "street": "Cormack Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T06:46:50Z"
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T07:41:23Z"
     },
     {
-      "id": "7cd76fc2-b3a0-41fe-b8b0-1872e917137f",
-      "latitude": -34.66786,
-      "longitude": 138.772272,
-      "street": "Gawler-One Tree Hill Rd",
-      "city": "Uleybury",
+      "id": "acb351d0-d00e-4b9f-906c-e761579ba03a",
+      "latitude": -34.742384,
+      "longitude": 138.657366,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T07:20:57Z"
-    },
-    {
-      "id": "c72d6eb5-1e86-4fe4-94e6-6ca0c9ba9713",
-      "latitude": -34.739963,
-      "longitude": 138.613889,
-      "street": "Bolivar Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
-      "reported_at": "2026-04-08T06:45:43Z"
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T07:17:16Z"
     },
     {
       "id": "49aaf191-4ae0-44df-981e-d561876a2afc",
@@ -107,8 +87,28 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-08T07:30:22Z",
+      "timestamp": "2026-04-08T08:00:23Z",
       "reported_at": "2026-04-08T06:04:04Z"
+    },
+    {
+      "id": "c72d6eb5-1e86-4fe4-94e6-6ca0c9ba9713",
+      "latitude": -34.739963,
+      "longitude": 138.613889,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T06:45:43Z"
+    },
+    {
+      "id": "139773f3-267d-4a95-8b9f-53e9f1fcf120",
+      "latitude": -34.983162,
+      "longitude": 138.684794,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-04-08T08:00:23Z",
+      "reported_at": "2026-04-08T07:41:09Z"
     }
   ]
 }
