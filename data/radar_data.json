@@ -1,64 +1,94 @@
 {
   "radars": [
     {
-      "id": "6bbf224e-6ef9-4487-8678-c7de1eb6d307",
-      "latitude": -34.98364,
-      "longitude": 138.513326,
-      "street": "Moseley St",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
-      "reported_at": "2026-04-08T11:14:37Z"
-    },
-    {
       "id": "713f7b62-35a7-43c0-9d20-7b426b93728b",
       "latitude": -34.744815,
       "longitude": 138.62542,
       "street": "Whites Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
+      "timestamp": "2026-04-08T12:00:29Z",
       "reported_at": "2026-04-08T08:10:30Z"
     },
     {
-      "id": "b6a88eea-1dfd-4b67-8642-4f2b7425187d",
-      "latitude": -34.860627,
-      "longitude": 138.59221,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
-      "reported_at": "2026-04-08T11:14:48Z"
-    },
-    {
-      "id": "acb351d0-d00e-4b9f-906c-e761579ba03a",
-      "latitude": -34.742221,
-      "longitude": 138.657366,
+      "id": "39ff8dd8-80b3-401d-b716-10f0c0d2ffd9",
+      "latitude": -34.743524,
+      "longitude": 138.657364,
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
-      "reported_at": "2026-04-08T07:17:16Z"
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T06:10:00Z"
     },
     {
-      "id": "c72d6eb5-1e86-4fe4-94e6-6ca0c9ba9713",
-      "latitude": -34.739963,
-      "longitude": 138.613889,
+      "id": "f662408c-bfa4-42d4-981c-db3381740643",
+      "latitude": -34.740461,
+      "longitude": 138.613471,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
-      "reported_at": "2026-04-08T06:45:43Z"
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T06:04:51Z"
     },
     {
-      "id": "fd2f87d6-0288-47ee-a5c1-e33966b582e0",
-      "latitude": -34.979306,
-      "longitude": 138.573771,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
+      "id": "2b46ba21-a580-4ab0-a18f-7bb103164133",
+      "latitude": -34.904763,
+      "longitude": 138.570818,
+      "street": "A7 - Port Rd",
+      "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
-      "reported_at": "2026-04-08T11:22:26Z"
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T11:32:30Z"
+    },
+    {
+      "id": "8fa8df00-82df-48f9-9f17-2dba3d86a835",
+      "latitude": -34.938004,
+      "longitude": 138.57084,
+      "street": "A2 - South Rd",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T11:41:38Z"
+    },
+    {
+      "id": "067dfc09-3f0e-49bb-9862-0b65554ecdca",
+      "latitude": -34.84435,
+      "longitude": 138.680582,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T11:46:40Z"
+    },
+    {
+      "id": "7ed47322-1a51-4ca0-8e32-3a8120c11f93",
+      "latitude": -34.866087,
+      "longitude": 138.643919,
+      "street": "A10 - North East Rd",
+      "city": "Hillcrest",
+      "type": "mobile",
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T11:33:12Z"
+    },
+    {
+      "id": "d0f4cce7-7f90-49af-9f49-7ad67125250a",
+      "latitude": -34.763981,
+      "longitude": 138.592879,
+      "street": "Unknown Street",
+      "city": "Bolivar",
+      "type": "mobile",
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T11:18:11Z"
+    },
+    {
+      "id": "a0c0d730-4a14-4ff3-bea3-ee8b5ae37a14",
+      "latitude": -34.793528,
+      "longitude": 138.613483,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-08T12:00:29Z",
+      "reported_at": "2026-04-08T11:09:14Z"
     },
     {
       "id": "97e44522-67c8-40eb-a580-fd4eec739447",
@@ -67,18 +97,8 @@
       "street": "A11 - The Grove Way",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
+      "timestamp": "2026-04-08T12:00:29Z",
       "reported_at": "2026-04-08T09:56:37Z"
-    },
-    {
-      "id": "5949d64e-55ab-4bd2-9eb6-bdfe290fdbcd",
-      "latitude": -34.79085,
-      "longitude": 138.615892,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-08T11:30:23Z",
-      "reported_at": "2026-04-08T10:49:33Z"
     }
   ]
 }
