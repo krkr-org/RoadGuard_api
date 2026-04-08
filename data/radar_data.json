@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "087fe7f7-af6a-427c-be6e-af12dc081271",
+      "latitude": -34.715548,
+      "longitude": 138.754066,
+      "street": "Black Top Rd",
+      "city": "One Tree Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-08T21:00:26Z",
+      "reported_at": "2026-04-08T20:36:06Z"
+    },
+    {
+      "id": "357158b2-272b-4cff-a2b4-293ab5b81ec4",
+      "latitude": -34.795004,
+      "longitude": 138.612339,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-08T21:00:26Z",
+      "reported_at": "2026-04-08T20:55:26Z"
+    }
+  ]
 }
