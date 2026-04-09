@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "be1ac7de-ed13-4472-9484-fd6d6473cc2b",
+      "latitude": -34.901752,
+      "longitude": 138.657667,
+      "street": "Hallett Av",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-04-09T06:30:22Z",
+      "reported_at": "2026-04-09T06:09:20Z"
+    },
+    {
+      "id": "820d6cf9-522e-46d6-9658-9c94151c1413",
+      "latitude": -34.931943,
+      "longitude": 138.632398,
+      "street": "Grant Av",
+      "city": "Rose Park",
+      "type": "mobile",
+      "timestamp": "2026-04-09T06:30:22Z",
+      "reported_at": "2026-04-09T06:05:12Z"
+    },
+    {
       "id": "e3d00d12-630d-4c17-af55-38f8aaca2ad2",
       "latitude": -34.960444,
       "longitude": 138.615041,
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
+      "timestamp": "2026-04-09T06:30:22Z",
       "reported_at": "2026-04-09T04:56:48Z"
     },
     {
-      "id": "64aa19c5-7aac-46b1-85a4-26d53c28c6e5",
-      "latitude": -35.116385,
-      "longitude": 138.510468,
-      "street": "O'Sullivan Beach Rd",
-      "city": "Morphett Vale",
+      "id": "46a54281-bba9-403f-87f0-9d59efe4f681",
+      "latitude": -34.916177,
+      "longitude": 138.622742,
+      "street": "Fullarton Rd",
+      "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
-      "reported_at": "2026-04-09T05:05:10Z"
-    },
-    {
-      "id": "5c942c58-ca9d-48ee-9e01-9808c989d873",
-      "latitude": -34.925214,
-      "longitude": 138.63229,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
-      "reported_at": "2026-04-09T05:30:45Z"
+      "timestamp": "2026-04-09T06:30:22Z",
+      "reported_at": "2026-04-09T06:03:08Z"
     },
     {
       "id": "9979f1a1-0dab-4ea3-a499-45851d3edc45",
@@ -37,38 +47,28 @@
       "street": "Unknown Street",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
+      "timestamp": "2026-04-09T06:30:22Z",
       "reported_at": "2026-04-09T05:03:14Z"
     },
     {
-      "id": "5d8e0c61-9dd8-403c-9eba-2ddaedd8be3c",
-      "latitude": -34.927635,
-      "longitude": 138.628195,
-      "street": "Kensington Rd",
-      "city": "Norwood",
+      "id": "f51c2e95-85df-447a-a9e5-b43cd03879b1",
+      "latitude": -34.928865,
+      "longitude": 138.599265,
+      "street": "Victoria Sq",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
-      "reported_at": "2026-04-09T05:45:22Z"
+      "timestamp": "2026-04-09T06:30:22Z",
+      "reported_at": "2026-04-09T06:14:30Z"
     },
     {
-      "id": "fc74e2b9-9a85-4559-b867-9c29e975a22f",
-      "latitude": -34.978321,
-      "longitude": 138.609792,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
+      "id": "346aece0-8393-4a6b-a654-c3d5b3e0abe2",
+      "latitude": -34.964251,
+      "longitude": 138.631875,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
-      "reported_at": "2026-04-09T01:57:34Z"
-    },
-    {
-      "id": "0a023fe1-3813-4a73-9a63-9b8835d09339",
-      "latitude": -34.748122,
-      "longitude": 138.677212,
-      "street": "A20 - Main North Rd",
-      "city": "Hillbank",
-      "type": "mobile",
-      "timestamp": "2026-04-09T06:00:23Z",
-      "reported_at": "2026-04-09T05:53:37Z"
+      "timestamp": "2026-04-09T06:30:22Z",
+      "reported_at": "2026-04-09T06:04:20Z"
     }
   ]
 }
