@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "8468a21c-5d67-4f75-9122-a87d09325c07",
+      "latitude": -34.845492,
+      "longitude": 138.563319,
+      "street": "Brabham Cct",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T07:33:54Z"
+    },
+    {
       "id": "e584e260-f006-4157-a965-a52f79d69e68",
       "latitude": -34.953768,
       "longitude": 138.627305,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
+      "timestamp": "2026-04-09T08:00:27Z",
       "reported_at": "2026-04-09T05:54:40Z"
-    },
-    {
-      "id": "8474cb85-1f21-4b4d-9729-650a1f000eda",
-      "latitude": -34.929865,
-      "longitude": 138.651316,
-      "street": "Tusmore Av",
-      "city": "Leabrook",
-      "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T06:19:18Z"
-    },
-    {
-      "id": "ad64cfc0-0061-4d26-9af8-307dfd508881",
-      "latitude": -34.93279,
-      "longitude": 138.668631,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T06:27:38Z"
-    },
-    {
-      "id": "a9dce695-720c-41a5-871d-f735be820cbe",
-      "latitude": -34.901007,
-      "longitude": 138.656122,
-      "street": "Marian Rd",
-      "city": "Glynde",
-      "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T06:53:53Z"
     },
     {
       "id": "3fdef64b-0eb3-46da-9632-e4ffc6570918",
@@ -47,8 +27,38 @@
       "street": "Hawker St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
+      "timestamp": "2026-04-09T08:00:27Z",
       "reported_at": "2026-04-09T06:35:21Z"
+    },
+    {
+      "id": "7daaaa4b-5d4c-48d4-ac36-4edd3c3138d5",
+      "latitude": -34.963378,
+      "longitude": 138.5815,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T07:39:13Z"
+    },
+    {
+      "id": "268971cf-4c2f-45ed-8bcb-cf7f9584df06",
+      "latitude": -34.919736,
+      "longitude": 138.665833,
+      "street": "The Parade",
+      "city": "Kensington Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T06:26:46Z"
+    },
+    {
+      "id": "ad64cfc0-0061-4d26-9af8-307dfd508881",
+      "latitude": -34.93279,
+      "longitude": 138.668631,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T06:27:38Z"
     },
     {
       "id": "820d6cf9-522e-46d6-9658-9c94151c1413",
@@ -57,48 +67,48 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
+      "timestamp": "2026-04-09T08:00:27Z",
       "reported_at": "2026-04-09T06:05:12Z"
     },
     {
-      "id": "18a809f5-9a1f-4e66-9309-27b1f97093fe",
-      "latitude": -34.728071,
-      "longitude": 138.677464,
-      "street": "Midway Rd",
-      "city": "Elizabeth East",
+      "id": "8474cb85-1f21-4b4d-9729-650a1f000eda",
+      "latitude": -34.929865,
+      "longitude": 138.651316,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T06:58:10Z"
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T06:19:18Z"
     },
     {
-      "id": "310dc8d2-fab0-4f9e-bf69-8a911f59d11b",
-      "latitude": -34.924926,
-      "longitude": 138.546094,
-      "street": "Henley Beach Rd",
-      "city": "Underdale",
+      "id": "a9dce695-720c-41a5-871d-f735be820cbe",
+      "latitude": -34.901007,
+      "longitude": 138.656122,
+      "street": "Marian Rd",
+      "city": "Glynde",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T07:24:06Z"
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T06:53:53Z"
     },
     {
-      "id": "025b55ba-dd57-4f72-ad17-c4da3ad13988",
-      "latitude": -34.86363,
-      "longitude": 138.661613,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
+      "id": "346aece0-8393-4a6b-a654-c3d5b3e0abe2",
+      "latitude": -34.964251,
+      "longitude": 138.631875,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T07:20:39Z"
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T06:04:20Z"
     },
     {
-      "id": "25a9c7a5-6762-4d77-96cf-5844fce06a04",
-      "latitude": -34.853001,
-      "longitude": 138.546827,
-      "street": "Hanson Rd",
-      "city": "Athol Park",
+      "id": "b31237e6-1b3b-4134-adb2-c50e8dfad6d6",
+      "latitude": -34.995797,
+      "longitude": 138.732483,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Stirling",
       "type": "mobile",
-      "timestamp": "2026-04-09T07:30:23Z",
-      "reported_at": "2026-04-09T07:09:54Z"
+      "timestamp": "2026-04-09T08:00:27Z",
+      "reported_at": "2026-04-09T07:43:17Z"
     }
   ]
 }
