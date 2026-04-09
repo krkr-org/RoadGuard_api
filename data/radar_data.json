@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "04405fde-66dd-4fac-9240-fa14818ab892",
-      "latitude": -34.953547,
-      "longitude": 138.63127,
-      "street": "Wattle St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
-      "reported_at": "2026-04-09T11:06:00Z"
-    },
-    {
       "id": "c1669ecb-6e6e-4e60-913d-c0a655ab5b44",
       "latitude": -34.91964,
       "longitude": 138.66756,
       "street": "The Parade",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
+      "timestamp": "2026-04-09T12:30:22Z",
       "reported_at": "2026-04-09T08:28:05Z"
     },
     {
@@ -27,48 +17,38 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
+      "timestamp": "2026-04-09T12:30:22Z",
       "reported_at": "2026-04-09T09:02:54Z"
     },
     {
-      "id": "49d30553-1f51-4021-bd1e-f46d70a285f1",
-      "latitude": -34.929281,
-      "longitude": 138.588451,
-      "street": "Grote St",
-      "city": "Adelaide",
+      "id": "43ad26b1-ba63-445f-b76d-e75c29f384f3",
+      "latitude": -35.011269,
+      "longitude": 138.576964,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
-      "reported_at": "2026-04-09T11:35:15Z"
+      "timestamp": "2026-04-09T12:30:22Z",
+      "reported_at": "2026-04-09T12:03:08Z"
     },
     {
-      "id": "b6e1a1e1-aa99-4371-b29d-4cef9960c9e7",
-      "latitude": -34.726291,
-      "longitude": 138.666307,
-      "street": "Philip Hwy",
-      "city": "Elizabeth",
+      "id": "c1d35ce9-0df1-438b-ab09-4d41a1344fd1",
+      "latitude": -34.729019,
+      "longitude": 138.728585,
+      "street": "Black Top Rd",
+      "city": "Gould Creek",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
-      "reported_at": "2026-04-09T11:38:05Z"
+      "timestamp": "2026-04-09T12:30:22Z",
+      "reported_at": "2026-04-09T11:52:32Z"
     },
     {
-      "id": "6e4f5f84-5d9e-4ae5-9329-ead08c5f0e7c",
-      "latitude": -34.862665,
-      "longitude": 138.514319,
+      "id": "21b1d433-ea6a-4212-b41d-27a106d92b39",
+      "latitude": -34.880955,
+      "longitude": 138.535059,
       "street": "A7 - Port Rd",
-      "city": "Queenstown",
+      "city": "Woodville South",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
-      "reported_at": "2026-04-09T10:14:42Z"
-    },
-    {
-      "id": "9bec1cef-397c-47ed-b1ad-5c7f6726d48b",
-      "latitude": -34.964391,
-      "longitude": 138.630232,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
-      "reported_at": "2026-04-09T10:55:38Z"
+      "timestamp": "2026-04-09T12:30:22Z",
+      "reported_at": "2026-04-09T12:11:17Z"
     },
     {
       "id": "a6a86ab5-4f5d-4f27-bf17-ae91f060e150",
@@ -77,18 +57,28 @@
       "street": "A20 - Main North Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
+      "timestamp": "2026-04-09T12:30:22Z",
       "reported_at": "2026-04-09T10:40:19Z"
     },
     {
-      "id": "4547419e-72c2-406f-ab14-eee6be1425f5",
-      "latitude": -35.025946,
-      "longitude": 138.557592,
-      "street": "M2 - Southern Exp",
-      "city": "Sturt",
+      "id": "470df688-38ff-4738-b346-bd62fc797414",
+      "latitude": -34.954542,
+      "longitude": 138.517086,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-09T12:00:25Z",
-      "reported_at": "2026-04-09T11:43:30Z"
+      "timestamp": "2026-04-09T12:30:22Z",
+      "reported_at": "2026-04-09T12:01:38Z"
+    },
+    {
+      "id": "93f6c132-f0aa-4f58-be20-e17fc7a8058c",
+      "latitude": -35.087455,
+      "longitude": 138.541189,
+      "street": "A13 - Main South Rd",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-09T12:30:22Z",
+      "reported_at": "2026-04-09T12:10:59Z"
     }
   ]
 }
