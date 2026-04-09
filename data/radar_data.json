@@ -7,7 +7,7 @@
       "street": "Harvey Av",
       "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T22:11:16Z"
     },
     {
@@ -17,18 +17,8 @@
       "street": "Partridge St",
       "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T22:38:22Z"
-    },
-    {
-      "id": "fd12827d-cb36-4931-95c5-e50279f616b1",
-      "latitude": -34.952319,
-      "longitude": 138.57957,
-      "street": "Everard Tce",
-      "city": "Forestville",
-      "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
-      "reported_at": "2026-04-08T23:10:48Z"
     },
     {
       "id": "77485bf1-2ce8-45a5-82c9-c7d5bc80f583",
@@ -37,8 +27,18 @@
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T22:22:35Z"
+    },
+    {
+      "id": "93abfc75-0398-4cff-bcf9-3d00398caa32",
+      "latitude": -34.96643,
+      "longitude": 138.581715,
+      "street": "East Av",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-04-09T00:00:44Z",
+      "reported_at": "2026-04-08T22:29:05Z"
     },
     {
       "id": "ab74da58-79f0-43e6-b317-644874bd5904",
@@ -47,38 +47,28 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T23:05:31Z"
     },
     {
-      "id": "003d5763-095a-4708-a649-209226ba6015",
-      "latitude": -34.965463,
-      "longitude": 138.581646,
-      "street": "East Av",
-      "city": "Clarence Park",
+      "id": "cc070763-ec47-4531-9682-bc8d7b644217",
+      "latitude": -34.795654,
+      "longitude": 138.609959,
+      "street": "Ryans Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
-      "reported_at": "2026-04-08T22:31:28Z"
+      "timestamp": "2026-04-09T00:00:44Z",
+      "reported_at": "2026-04-08T23:08:24Z"
     },
     {
       "id": "15b02d2b-443c-46c1-9e62-07acab60c861",
-      "latitude": -34.99238,
-      "longitude": 138.58322,
+      "latitude": -34.992414,
+      "longitude": 138.582604,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T21:52:28Z"
-    },
-    {
-      "id": "8b33a092-8d87-4698-b949-1470ad65b6b1",
-      "latitude": -34.986982,
-      "longitude": 138.538578,
-      "street": "Morphett Rd",
-      "city": "Glengowrie",
-      "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
-      "reported_at": "2026-04-08T22:53:11Z"
     },
     {
       "id": "292ae9bb-66c8-4c7f-b128-5986c346fe88",
@@ -87,18 +77,8 @@
       "street": "Goodwood Rd",
       "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T22:38:33Z"
-    },
-    {
-      "id": "becc996c-aacc-4aa6-8c93-3064ba84896b",
-      "latitude": -34.933979,
-      "longitude": 138.612536,
-      "street": "Hutt St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
-      "reported_at": "2026-04-08T22:53:43Z"
     },
     {
       "id": "04167c55-1c0a-4c5d-9368-93568807337e",
@@ -107,28 +87,18 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
+      "timestamp": "2026-04-09T00:00:44Z",
       "reported_at": "2026-04-08T22:59:07Z"
     },
     {
-      "id": "0776b384-4eba-4c97-aac0-3b22892fed29",
-      "latitude": -34.979949,
-      "longitude": 138.61056,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
+      "id": "4ea105d9-5e1a-43e1-a088-1b254e0d1a35",
+      "latitude": -35.006799,
+      "longitude": 138.776687,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
       "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
-      "reported_at": "2026-04-08T22:14:37Z"
-    },
-    {
-      "id": "49d0eaec-55e3-4c43-bccc-e003e4670726",
-      "latitude": -34.77589,
-      "longitude": 138.620903,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-08T23:30:23Z",
-      "reported_at": "2026-04-08T22:57:32Z"
+      "timestamp": "2026-04-09T00:00:44Z",
+      "reported_at": "2026-04-08T23:36:10Z"
     }
   ]
 }
