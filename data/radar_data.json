@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "8468a21c-5d67-4f75-9122-a87d09325c07",
-      "latitude": -34.845492,
-      "longitude": 138.563319,
-      "street": "Brabham Cct",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T07:33:54Z"
-    },
-    {
       "id": "e584e260-f006-4157-a965-a52f79d69e68",
       "latitude": -34.953768,
       "longitude": 138.627305,
       "street": "Wattle St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
+      "timestamp": "2026-04-09T08:30:23Z",
       "reported_at": "2026-04-09T05:54:40Z"
     },
     {
@@ -27,38 +17,8 @@
       "street": "Hawker St",
       "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
+      "timestamp": "2026-04-09T08:30:23Z",
       "reported_at": "2026-04-09T06:35:21Z"
-    },
-    {
-      "id": "7daaaa4b-5d4c-48d4-ac36-4edd3c3138d5",
-      "latitude": -34.963378,
-      "longitude": 138.5815,
-      "street": "East Av",
-      "city": "Clarence Park",
-      "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T07:39:13Z"
-    },
-    {
-      "id": "268971cf-4c2f-45ed-8bcb-cf7f9584df06",
-      "latitude": -34.919736,
-      "longitude": 138.665833,
-      "street": "The Parade",
-      "city": "Kensington Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T06:26:46Z"
-    },
-    {
-      "id": "ad64cfc0-0061-4d26-9af8-307dfd508881",
-      "latitude": -34.93279,
-      "longitude": 138.668631,
-      "street": "Hallett Rd",
-      "city": "Stonyfell",
-      "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T06:27:38Z"
     },
     {
       "id": "820d6cf9-522e-46d6-9658-9c94151c1413",
@@ -67,8 +27,28 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
+      "timestamp": "2026-04-09T08:30:23Z",
       "reported_at": "2026-04-09T06:05:12Z"
+    },
+    {
+      "id": "b5b52b5a-9e38-4bc3-8682-ea5d3511ab9f",
+      "latitude": -34.932898,
+      "longitude": 138.66864,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:30:23Z",
+      "reported_at": "2026-04-09T06:22:13Z"
+    },
+    {
+      "id": "268971cf-4c2f-45ed-8bcb-cf7f9584df06",
+      "latitude": -34.919736,
+      "longitude": 138.665833,
+      "street": "The Parade",
+      "city": "Kensington Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:30:23Z",
+      "reported_at": "2026-04-09T06:26:46Z"
     },
     {
       "id": "8474cb85-1f21-4b4d-9729-650a1f000eda",
@@ -77,38 +57,48 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
+      "timestamp": "2026-04-09T08:30:23Z",
       "reported_at": "2026-04-09T06:19:18Z"
     },
     {
-      "id": "a9dce695-720c-41a5-871d-f735be820cbe",
-      "latitude": -34.901007,
-      "longitude": 138.656122,
-      "street": "Marian Rd",
-      "city": "Glynde",
+      "id": "9e3f66ae-3696-441e-bc64-19b476493e45",
+      "latitude": -35.138224,
+      "longitude": 138.494107,
+      "street": "Beach Rd",
+      "city": "Christie Downs",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T06:53:53Z"
+      "timestamp": "2026-04-09T08:30:23Z",
+      "reported_at": "2026-04-09T08:05:34Z"
     },
     {
-      "id": "346aece0-8393-4a6b-a654-c3d5b3e0abe2",
-      "latitude": -34.964251,
-      "longitude": 138.631875,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
+      "id": "511666b5-2433-4997-a57e-302c067a9e78",
+      "latitude": -35.104472,
+      "longitude": 138.538621,
+      "street": "Pimpala Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T06:04:20Z"
+      "timestamp": "2026-04-09T08:30:23Z",
+      "reported_at": "2026-04-09T07:59:57Z"
     },
     {
-      "id": "b31237e6-1b3b-4134-adb2-c50e8dfad6d6",
-      "latitude": -34.995797,
-      "longitude": 138.732483,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Stirling",
+      "id": "86eeee35-48bf-4389-a412-7f3487b5897d",
+      "latitude": -35.018515,
+      "longitude": 138.578892,
+      "street": "Sturt Rd",
+      "city": "Eden Hills",
       "type": "mobile",
-      "timestamp": "2026-04-09T08:00:27Z",
-      "reported_at": "2026-04-09T07:43:17Z"
+      "timestamp": "2026-04-09T08:30:23Z",
+      "reported_at": "2026-04-09T08:04:49Z"
+    },
+    {
+      "id": "f784b6be-0e02-47e3-bd3c-038ad72044b0",
+      "latitude": -34.676445,
+      "longitude": 138.550126,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Virginia",
+      "type": "mobile",
+      "timestamp": "2026-04-09T08:30:23Z",
+      "reported_at": "2026-04-09T08:22:06Z"
     }
   ]
 }
