@@ -1,44 +1,84 @@
 {
   "radars": [
     {
-      "id": "be1ac7de-ed13-4472-9484-fd6d6473cc2b",
-      "latitude": -34.901752,
-      "longitude": 138.657667,
-      "street": "Hallett Av",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
-      "reported_at": "2026-04-09T06:09:20Z"
-    },
-    {
       "id": "820d6cf9-522e-46d6-9658-9c94151c1413",
       "latitude": -34.931943,
       "longitude": 138.632398,
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
+      "timestamp": "2026-04-09T07:00:23Z",
       "reported_at": "2026-04-09T06:05:12Z"
     },
     {
-      "id": "e3d00d12-630d-4c17-af55-38f8aaca2ad2",
-      "latitude": -34.960444,
-      "longitude": 138.615041,
-      "street": "Duthy St",
-      "city": "Malvern",
+      "id": "b5b52b5a-9e38-4bc3-8682-ea5d3511ab9f",
+      "latitude": -34.932898,
+      "longitude": 138.66864,
+      "street": "Hallett Rd",
+      "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
-      "reported_at": "2026-04-09T04:56:48Z"
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:22:13Z"
     },
     {
-      "id": "46a54281-bba9-403f-87f0-9d59efe4f681",
-      "latitude": -34.916177,
-      "longitude": 138.622742,
-      "street": "Fullarton Rd",
-      "city": "Kent Town",
+      "id": "3fdef64b-0eb3-46da-9632-e4ffc6570918",
+      "latitude": -34.895952,
+      "longitude": 138.574687,
+      "street": "Hawker St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
-      "reported_at": "2026-04-09T06:03:08Z"
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:35:21Z"
+    },
+    {
+      "id": "268971cf-4c2f-45ed-8bcb-cf7f9584df06",
+      "latitude": -34.919736,
+      "longitude": 138.665833,
+      "street": "The Parade",
+      "city": "Kensington Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:26:46Z"
+    },
+    {
+      "id": "8474cb85-1f21-4b4d-9729-650a1f000eda",
+      "latitude": -34.930118,
+      "longitude": 138.651335,
+      "street": "Tusmore Av",
+      "city": "Leabrook",
+      "type": "mobile",
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:19:18Z"
+    },
+    {
+      "id": "53ec33d3-265a-4b08-a9e0-adb4d4447277",
+      "latitude": -34.720892,
+      "longitude": 138.682265,
+      "street": "Kinkaid Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:30:48Z"
+    },
+    {
+      "id": "f5ca4418-9249-46e6-87a3-f0c8e1148e34",
+      "latitude": -34.680609,
+      "longitude": 138.680815,
+      "street": "Coventry Rd",
+      "city": "Smithfield Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:28:42Z"
+    },
+    {
+      "id": "05e561a7-4ac6-48d1-b0b9-06e7fe71aaf0",
+      "latitude": -35.140365,
+      "longitude": 138.486756,
+      "street": "Unknown Street",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:38:53Z"
     },
     {
       "id": "9979f1a1-0dab-4ea3-a499-45851d3edc45",
@@ -47,18 +87,18 @@
       "street": "Unknown Street",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
+      "timestamp": "2026-04-09T07:00:23Z",
       "reported_at": "2026-04-09T05:03:14Z"
     },
     {
-      "id": "f51c2e95-85df-447a-a9e5-b43cd03879b1",
-      "latitude": -34.928865,
-      "longitude": 138.599265,
-      "street": "Victoria Sq",
+      "id": "b7533dd4-0933-40b8-8b20-c7628a070adb",
+      "latitude": -34.921962,
+      "longitude": 138.586947,
+      "street": "Unknown Street",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
-      "reported_at": "2026-04-09T06:14:30Z"
+      "timestamp": "2026-04-09T07:00:23Z",
+      "reported_at": "2026-04-09T06:46:18Z"
     },
     {
       "id": "346aece0-8393-4a6b-a654-c3d5b3e0abe2",
@@ -67,7 +107,7 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-04-09T06:30:22Z",
+      "timestamp": "2026-04-09T07:00:23Z",
       "reported_at": "2026-04-09T06:04:20Z"
     }
   ]
