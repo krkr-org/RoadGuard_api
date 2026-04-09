@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "fbe77ee7-c8ab-48bb-a91c-ef3244633bc5",
-      "latitude": -34.951418,
-      "longitude": 138.550358,
-      "street": "Harvey Av",
-      "city": "Netley",
-      "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
-      "reported_at": "2026-04-09T01:21:24Z"
-    },
-    {
-      "id": "1e5875e7-c3b7-4649-9872-42095200e511",
-      "latitude": -34.796421,
-      "longitude": 138.648931,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
-      "reported_at": "2026-04-09T01:20:01Z"
-    },
-    {
       "id": "bc184493-dd5b-438a-9ef5-87091872a4b1",
       "latitude": -34.979785,
       "longitude": 138.610561,
       "street": "Barrelder Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
+      "timestamp": "2026-04-09T04:30:23Z",
       "reported_at": "2026-04-09T00:12:59Z"
     },
     {
@@ -37,8 +17,28 @@
       "street": "Bennet Av",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
+      "timestamp": "2026-04-09T04:30:23Z",
       "reported_at": "2026-04-09T00:06:16Z"
+    },
+    {
+      "id": "fbe77ee7-c8ab-48bb-a91c-ef3244633bc5",
+      "latitude": -34.951418,
+      "longitude": 138.550358,
+      "street": "Harvey Av",
+      "city": "Netley",
+      "type": "mobile",
+      "timestamp": "2026-04-09T04:30:23Z",
+      "reported_at": "2026-04-09T01:21:24Z"
+    },
+    {
+      "id": "1e5875e7-c3b7-4649-9872-42095200e511",
+      "latitude": -34.796421,
+      "longitude": 138.648931,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-09T04:30:23Z",
+      "reported_at": "2026-04-09T01:20:01Z"
     },
     {
       "id": "51628f97-61cd-4cab-902c-9e5b3aad2664",
@@ -47,18 +47,8 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
+      "timestamp": "2026-04-09T04:30:23Z",
       "reported_at": "2026-04-09T00:05:19Z"
-    },
-    {
-      "id": "c946a155-3944-45e1-82cd-8b5a39513795",
-      "latitude": -34.919049,
-      "longitude": 138.658688,
-      "street": "Glynburn Rd",
-      "city": "Kensington Park",
-      "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
-      "reported_at": "2026-04-09T03:40:13Z"
     },
     {
       "id": "36e373d0-8a3a-4d70-b9a8-b4086606d19c",
@@ -67,18 +57,28 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
+      "timestamp": "2026-04-09T04:30:23Z",
       "reported_at": "2026-04-09T01:22:29Z"
     },
     {
-      "id": "fc74e2b9-9a85-4559-b867-9c29e975a22f",
-      "latitude": -34.978321,
-      "longitude": 138.609792,
-      "street": "B29 - Belair Rd",
-      "city": "Torrens Park",
+      "id": "13a16e70-68d3-41e8-b929-dc2f262c87d9",
+      "latitude": -34.833782,
+      "longitude": 138.683264,
+      "street": "Smart Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-09T04:00:23Z",
-      "reported_at": "2026-04-09T01:57:34Z"
+      "timestamp": "2026-04-09T04:30:23Z",
+      "reported_at": "2026-04-09T04:03:18Z"
+    },
+    {
+      "id": "122f0750-88d1-45d1-be67-0d82674e08f8",
+      "latitude": -34.922585,
+      "longitude": 138.5994,
+      "street": "King William St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-09T04:30:23Z",
+      "reported_at": "2026-04-09T04:14:20Z"
     }
   ]
 }
