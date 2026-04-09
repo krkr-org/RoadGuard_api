@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "a7b9f8c5-3bcb-4a44-a90c-7097cd0829bd",
-      "latitude": -34.990754,
-      "longitude": 138.578773,
-      "street": "Bennet Av",
-      "city": "Melrose Park",
+      "id": "969b781f-208b-41f8-b7f5-aaab758dad1b",
+      "latitude": -34.98784,
+      "longitude": 138.518308,
+      "street": "Partridge St",
+      "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-09T00:06:16Z"
+      "timestamp": "2026-04-09T02:30:27Z",
+      "reported_at": "2026-04-08T22:38:22Z"
+    },
+    {
+      "id": "1e5875e7-c3b7-4649-9872-42095200e511",
+      "latitude": -34.796421,
+      "longitude": 138.648931,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-09T02:30:27Z",
+      "reported_at": "2026-04-09T01:20:01Z"
     },
     {
       "id": "fbe77ee7-c8ab-48bb-a91c-ef3244633bc5",
@@ -17,18 +27,18 @@
       "street": "Harvey Av",
       "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
+      "timestamp": "2026-04-09T02:30:27Z",
       "reported_at": "2026-04-09T01:21:24Z"
     },
     {
-      "id": "969b781f-208b-41f8-b7f5-aaab758dad1b",
-      "latitude": -34.98784,
-      "longitude": 138.518308,
-      "street": "Partridge St",
-      "city": "Glenelg South",
+      "id": "a7b9f8c5-3bcb-4a44-a90c-7097cd0829bd",
+      "latitude": -34.990754,
+      "longitude": 138.578773,
+      "street": "Bennet Av",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-08T22:38:22Z"
+      "timestamp": "2026-04-09T02:30:27Z",
+      "reported_at": "2026-04-09T00:06:16Z"
     },
     {
       "id": "bc184493-dd5b-438a-9ef5-87091872a4b1",
@@ -37,8 +47,18 @@
       "street": "Barrelder Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
+      "timestamp": "2026-04-09T02:30:27Z",
       "reported_at": "2026-04-09T00:12:59Z"
+    },
+    {
+      "id": "51628f97-61cd-4cab-902c-9e5b3aad2664",
+      "latitude": -34.961366,
+      "longitude": 138.615111,
+      "street": "Duthy St",
+      "city": "Malvern",
+      "type": "mobile",
+      "timestamp": "2026-04-09T02:30:27Z",
+      "reported_at": "2026-04-09T00:05:19Z"
     },
     {
       "id": "93abfc75-0398-4cff-bcf9-3d00398caa32",
@@ -47,28 +67,8 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
+      "timestamp": "2026-04-09T02:30:27Z",
       "reported_at": "2026-04-08T22:29:05Z"
-    },
-    {
-      "id": "2bf9f1f6-db67-46fd-90b9-f39d88fb543a",
-      "latitude": -34.977671,
-      "longitude": 138.582721,
-      "street": "Edward St",
-      "city": "Cumberland Park",
-      "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-09T01:29:06Z"
-    },
-    {
-      "id": "a9d1f9de-159f-4b15-b929-48ec61ec86b9",
-      "latitude": -34.99877,
-      "longitude": 138.582543,
-      "street": "Cashel St",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-08T21:58:47Z"
     },
     {
       "id": "ab74da58-79f0-43e6-b317-644874bd5904",
@@ -77,68 +77,28 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
+      "timestamp": "2026-04-09T02:30:27Z",
       "reported_at": "2026-04-08T23:05:31Z"
     },
     {
-      "id": "f8862b83-4177-4fa1-92c1-cf5d6058c563",
-      "latitude": -34.96185,
-      "longitude": 138.615146,
-      "street": "Duthy St",
-      "city": "Malvern",
+      "id": "36e373d0-8a3a-4d70-b9a8-b4086606d19c",
+      "latitude": -34.992409,
+      "longitude": 138.582694,
+      "street": "Daws Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-09T00:24:39Z"
+      "timestamp": "2026-04-09T02:30:27Z",
+      "reported_at": "2026-04-09T01:22:29Z"
     },
     {
-      "id": "6bb6d53b-fde8-4de0-82fe-59fbe479b6d3",
-      "latitude": -34.78335,
-      "longitude": 138.606816,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
+      "id": "d60a22e1-6bd6-4443-88e1-85b0fbc75886",
+      "latitude": -34.921952,
+      "longitude": 138.592689,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-08T23:39:21Z"
-    },
-    {
-      "id": "cc070763-ec47-4531-9682-bc8d7b644217",
-      "latitude": -34.795654,
-      "longitude": 138.609959,
-      "street": "Ryans Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-08T23:08:24Z"
-    },
-    {
-      "id": "d9a807a4-229c-4acb-8035-cff632b7eb83",
-      "latitude": -34.91808,
-      "longitude": 138.67643,
-      "street": "Penfold Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-09T00:02:27Z"
-    },
-    {
-      "id": "04167c55-1c0a-4c5d-9368-93568807337e",
-      "latitude": -34.91341,
-      "longitude": 138.668023,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-08T22:59:07Z"
-    },
-    {
-      "id": "c6b702d9-25d5-4055-be0b-cdce6ea8391f",
-      "latitude": -34.801106,
-      "longitude": 138.606698,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-09T02:00:23Z",
-      "reported_at": "2026-04-09T01:50:27Z"
+      "timestamp": "2026-04-09T02:30:27Z",
+      "reported_at": "2026-04-09T02:06:31Z"
     }
   ]
 }
