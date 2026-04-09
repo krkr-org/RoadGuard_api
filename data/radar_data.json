@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "1e5875e7-c3b7-4649-9872-42095200e511",
-      "latitude": -34.796421,
-      "longitude": 138.648931,
-      "street": "Ayfield Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T01:20:01Z"
-    },
-    {
       "id": "fbe77ee7-c8ab-48bb-a91c-ef3244633bc5",
       "latitude": -34.951418,
       "longitude": 138.550358,
       "street": "Harvey Av",
       "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
+      "timestamp": "2026-04-09T04:00:23Z",
       "reported_at": "2026-04-09T01:21:24Z"
     },
     {
-      "id": "a7b9f8c5-3bcb-4a44-a90c-7097cd0829bd",
-      "latitude": -34.990754,
-      "longitude": 138.578773,
-      "street": "Bennet Av",
-      "city": "Melrose Park",
+      "id": "1e5875e7-c3b7-4649-9872-42095200e511",
+      "latitude": -34.796421,
+      "longitude": 138.648931,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T00:06:16Z"
+      "timestamp": "2026-04-09T04:00:23Z",
+      "reported_at": "2026-04-09T01:20:01Z"
     },
     {
       "id": "bc184493-dd5b-438a-9ef5-87091872a4b1",
@@ -37,8 +27,18 @@
       "street": "Barrelder Rd",
       "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
+      "timestamp": "2026-04-09T04:00:23Z",
       "reported_at": "2026-04-09T00:12:59Z"
+    },
+    {
+      "id": "a7b9f8c5-3bcb-4a44-a90c-7097cd0829bd",
+      "latitude": -34.990754,
+      "longitude": 138.578773,
+      "street": "Bennet Av",
+      "city": "Melrose Park",
+      "type": "mobile",
+      "timestamp": "2026-04-09T04:00:23Z",
+      "reported_at": "2026-04-09T00:06:16Z"
     },
     {
       "id": "51628f97-61cd-4cab-902c-9e5b3aad2664",
@@ -47,18 +47,18 @@
       "street": "Duthy St",
       "city": "Malvern",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
+      "timestamp": "2026-04-09T04:00:23Z",
       "reported_at": "2026-04-09T00:05:19Z"
     },
     {
-      "id": "0fd89af5-da8a-4be7-9e6a-73d6d831d57e",
-      "latitude": -34.733422,
-      "longitude": 138.637774,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "c946a155-3944-45e1-82cd-8b5a39513795",
+      "latitude": -34.919049,
+      "longitude": 138.658688,
+      "street": "Glynburn Rd",
+      "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T03:24:28Z"
+      "timestamp": "2026-04-09T04:00:23Z",
+      "reported_at": "2026-04-09T03:40:13Z"
     },
     {
       "id": "36e373d0-8a3a-4d70-b9a8-b4086606d19c",
@@ -67,48 +67,18 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
+      "timestamp": "2026-04-09T04:00:23Z",
       "reported_at": "2026-04-09T01:22:29Z"
     },
     {
-      "id": "7c915b05-2b2d-4211-8475-43cd63caf9c4",
-      "latitude": -34.884331,
-      "longitude": 138.532141,
-      "street": "Woodville Rd",
-      "city": "Woodville South",
+      "id": "fc74e2b9-9a85-4559-b867-9c29e975a22f",
+      "latitude": -34.978321,
+      "longitude": 138.609792,
+      "street": "B29 - Belair Rd",
+      "city": "Torrens Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T03:19:39Z"
-    },
-    {
-      "id": "fe8c0fb6-ac0a-447a-8bc7-a155a6e60005",
-      "latitude": -34.934037,
-      "longitude": 138.521798,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T03:01:49Z"
-    },
-    {
-      "id": "235c2d02-cfdb-4449-83e7-415a81d29416",
-      "latitude": -34.878667,
-      "longitude": 138.619623,
-      "street": "A17 - Hampstead Rd",
-      "city": "Broadview",
-      "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T03:10:12Z"
-    },
-    {
-      "id": "99034291-59e7-4835-900c-a689d3bbac0c",
-      "latitude": -34.876086,
-      "longitude": 138.6783,
-      "street": "B31 - Gorge Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-04-09T03:30:25Z",
-      "reported_at": "2026-04-09T02:42:02Z"
+      "timestamp": "2026-04-09T04:00:23Z",
+      "reported_at": "2026-04-09T01:57:34Z"
     }
   ]
 }
