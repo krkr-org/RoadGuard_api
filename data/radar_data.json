@@ -7,7 +7,7 @@
       "street": "Harvey Av",
       "city": "Netley",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T22:11:16Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "Partridge St",
       "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T22:38:22Z"
+    },
+    {
+      "id": "bc184493-dd5b-438a-9ef5-87091872a4b1",
+      "latitude": -34.979785,
+      "longitude": 138.610561,
+      "street": "Barrelder Rd",
+      "city": "Torrens Park",
+      "type": "mobile",
+      "timestamp": "2026-04-09T00:30:26Z",
+      "reported_at": "2026-04-09T00:12:59Z"
     },
     {
       "id": "77485bf1-2ce8-45a5-82c9-c7d5bc80f583",
@@ -27,7 +37,7 @@
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T22:22:35Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "East Av",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T22:29:05Z"
     },
     {
@@ -47,7 +57,7 @@
       "street": "Stonehouse Av",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T23:05:31Z"
     },
     {
@@ -57,8 +67,18 @@
       "street": "Ryans Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T23:08:24Z"
+    },
+    {
+      "id": "6bb6d53b-fde8-4de0-82fe-59fbe479b6d3",
+      "latitude": -34.78335,
+      "longitude": 138.606816,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-09T00:30:26Z",
+      "reported_at": "2026-04-08T23:39:21Z"
     },
     {
       "id": "15b02d2b-443c-46c1-9e62-07acab60c861",
@@ -67,18 +87,18 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T21:52:28Z"
     },
     {
-      "id": "292ae9bb-66c8-4c7f-b128-5986c346fe88",
-      "latitude": -34.972343,
-      "longitude": 138.591227,
-      "street": "Goodwood Rd",
-      "city": "Cumberland Park",
+      "id": "d9a807a4-229c-4acb-8035-cff632b7eb83",
+      "latitude": -34.91808,
+      "longitude": 138.67643,
+      "street": "Penfold Rd",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
-      "reported_at": "2026-04-08T22:38:33Z"
+      "timestamp": "2026-04-09T00:30:26Z",
+      "reported_at": "2026-04-09T00:02:27Z"
     },
     {
       "id": "04167c55-1c0a-4c5d-9368-93568807337e",
@@ -87,18 +107,28 @@
       "street": "B27 - Magill Rd",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
+      "timestamp": "2026-04-09T00:30:26Z",
       "reported_at": "2026-04-08T22:59:07Z"
     },
     {
-      "id": "4ea105d9-5e1a-43e1-a088-1b254e0d1a35",
-      "latitude": -35.006799,
-      "longitude": 138.776687,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
+      "id": "e771df7f-d08d-4890-8c72-989240a7906f",
+      "latitude": -34.949936,
+      "longitude": 138.607427,
+      "street": "B29 - Unley Rd",
+      "city": "Unley",
       "type": "mobile",
-      "timestamp": "2026-04-09T00:00:44Z",
-      "reported_at": "2026-04-08T23:36:10Z"
+      "timestamp": "2026-04-09T00:30:26Z",
+      "reported_at": "2026-04-09T00:01:34Z"
+    },
+    {
+      "id": "e6eb111f-1941-4bd6-bc6c-c0d78fb31461",
+      "latitude": -34.855724,
+      "longitude": 138.61792,
+      "street": "A17 - Hampstead Rd",
+      "city": "Clearview",
+      "type": "mobile",
+      "timestamp": "2026-04-09T00:30:26Z",
+      "reported_at": "2026-04-09T00:21:19Z"
     }
   ]
 }
