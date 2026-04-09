@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "e584e260-f006-4157-a965-a52f79d69e68",
-      "latitude": -34.953768,
-      "longitude": 138.627305,
-      "street": "Wattle St",
-      "city": "Fullarton",
-      "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T05:54:40Z"
-    },
-    {
-      "id": "3fdef64b-0eb3-46da-9632-e4ffc6570918",
-      "latitude": -34.895952,
-      "longitude": 138.574687,
-      "street": "Hawker St",
-      "city": "Brompton",
-      "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T06:35:21Z"
-    },
-    {
       "id": "393b2bcf-ec65-47ff-86cb-b38d6126870d",
       "latitude": -34.919751,
       "longitude": 138.66554,
       "street": "The Parade",
       "city": "Kensington Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
+      "timestamp": "2026-04-09T10:00:22Z",
       "reported_at": "2026-04-09T06:42:09Z"
     },
     {
@@ -37,38 +17,38 @@
       "street": "Grant Av",
       "city": "Rose Park",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
+      "timestamp": "2026-04-09T10:00:22Z",
       "reported_at": "2026-04-09T06:05:12Z"
     },
     {
-      "id": "b5b52b5a-9e38-4bc3-8682-ea5d3511ab9f",
-      "latitude": -34.932898,
-      "longitude": 138.66864,
+      "id": "ad64cfc0-0061-4d26-9af8-307dfd508881",
+      "latitude": -34.93279,
+      "longitude": 138.668631,
       "street": "Hallett Rd",
       "city": "Stonyfell",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T06:22:13Z"
+      "timestamp": "2026-04-09T10:00:22Z",
+      "reported_at": "2026-04-09T06:27:38Z"
     },
     {
-      "id": "cb3f894e-c7e3-4643-a820-235acd36ba09",
-      "latitude": -35.138733,
-      "longitude": 138.484639,
-      "street": "Beach Rd",
-      "city": "Christies Beach",
+      "id": "3fdef64b-0eb3-46da-9632-e4ffc6570918",
+      "latitude": -34.895952,
+      "longitude": 138.574687,
+      "street": "Hawker St",
+      "city": "Brompton",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T08:55:32Z"
+      "timestamp": "2026-04-09T10:00:22Z",
+      "reported_at": "2026-04-09T06:35:21Z"
     },
     {
-      "id": "4584c854-51bb-4c18-97d8-2d940f1f94be",
-      "latitude": -34.865084,
-      "longitude": 138.66155,
-      "street": "Sudholz Rd",
-      "city": "Paradise",
+      "id": "9d4e2c24-1472-4d7c-a37d-052f1a42a763",
+      "latitude": -34.852278,
+      "longitude": 138.528965,
+      "street": "Addison Rd",
+      "city": "Rosewater",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T09:17:48Z"
+      "timestamp": "2026-04-09T10:00:22Z",
+      "reported_at": "2026-04-09T09:45:38Z"
     },
     {
       "id": "7c4810c5-61c3-4f5a-afa0-b94656aa9d57",
@@ -77,8 +57,28 @@
       "street": "Sudholz Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
+      "timestamp": "2026-04-09T10:00:22Z",
       "reported_at": "2026-04-09T09:17:18Z"
+    },
+    {
+      "id": "74a52bf0-0028-4c1d-acfc-43744f13b2b7",
+      "latitude": -34.841366,
+      "longitude": 138.688706,
+      "street": "Reservoir Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-09T10:00:22Z",
+      "reported_at": "2026-04-09T09:43:20Z"
+    },
+    {
+      "id": "4584c854-51bb-4c18-97d8-2d940f1f94be",
+      "latitude": -34.865084,
+      "longitude": 138.66155,
+      "street": "Sudholz Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-09T10:00:22Z",
+      "reported_at": "2026-04-09T09:17:48Z"
     },
     {
       "id": "2c4f728c-f509-4c94-8989-c63ab2d320d3",
@@ -87,28 +87,18 @@
       "street": "A3 - Cross Rd",
       "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
+      "timestamp": "2026-04-09T10:00:22Z",
       "reported_at": "2026-04-09T07:14:43Z"
     },
     {
-      "id": "d6865293-d317-4075-bceb-70fc2e8cc0b3",
-      "latitude": -34.889512,
-      "longitude": 138.656209,
-      "street": "A11 - Payneham Rd",
-      "city": "Felixstow",
+      "id": "26bfe717-fe37-4acb-bd03-c60e55ffd6f1",
+      "latitude": -35.024984,
+      "longitude": 138.523616,
+      "street": "A15 - Brighton Rd",
+      "city": "South Brighton",
       "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T09:06:57Z"
-    },
-    {
-      "id": "f0036306-bec7-449e-b48b-3b46995667ab",
-      "latitude": -34.940966,
-      "longitude": 138.604052,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Unley",
-      "type": "mobile",
-      "timestamp": "2026-04-09T09:30:22Z",
-      "reported_at": "2026-04-09T09:26:00Z"
+      "timestamp": "2026-04-09T10:00:22Z",
+      "reported_at": "2026-04-09T09:30:20Z"
     }
   ]
 }
