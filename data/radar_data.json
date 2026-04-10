@@ -7,7 +7,7 @@
       "street": "Glenburnie St",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T07:09:45Z"
     },
     {
@@ -17,7 +17,7 @@
       "street": "Unknown Street",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T08:01:25Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T08:47:12Z"
     },
     {
@@ -37,7 +37,7 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T07:26:11Z"
     },
     {
@@ -47,8 +47,28 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T08:41:38Z"
+    },
+    {
+      "id": "f6a0224f-432e-4abf-b32c-1de6e48043e5",
+      "latitude": -34.905437,
+      "longitude": 138.53236,
+      "street": "Grange Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:00:22Z",
+      "reported_at": "2026-04-10T09:44:16Z"
+    },
+    {
+      "id": "8614d0cb-59b2-408b-9427-ac4e07a3e99c",
+      "latitude": -34.751916,
+      "longitude": 138.624539,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:00:22Z",
+      "reported_at": "2026-04-10T09:56:55Z"
     },
     {
       "id": "08f8f89f-df04-49bc-80f0-55f8264cf7e5",
@@ -57,28 +77,8 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T07:48:39Z"
-    },
-    {
-      "id": "e05053d8-fb39-4349-826a-01d0c2932688",
-      "latitude": -35.049175,
-      "longitude": 138.559613,
-      "street": "A13 - Main South Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
-      "reported_at": "2026-04-10T08:57:44Z"
-    },
-    {
-      "id": "eb9ed375-9851-4477-8c6b-15ccf7567728",
-      "latitude": -34.909473,
-      "longitude": 138.577048,
-      "street": "R1 - Port Rd (City Ring Route)",
-      "city": "Southwark",
-      "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
-      "reported_at": "2026-04-10T07:44:48Z"
     },
     {
       "id": "634a89b1-4eab-409b-99f5-b666de62dacc",
@@ -87,18 +87,8 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T06:41:07Z"
-    },
-    {
-      "id": "3a8496d1-c97d-48df-8aa2-005246cf4f61",
-      "latitude": -34.792881,
-      "longitude": 138.614073,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
-      "reported_at": "2026-04-10T09:18:22Z"
     },
     {
       "id": "42665b21-3954-4c11-a1f8-a99b37e0cb6c",
@@ -107,18 +97,38 @@
       "street": "A18 - Kings Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
+      "timestamp": "2026-04-10T10:00:22Z",
       "reported_at": "2026-04-10T06:41:35Z"
     },
     {
-      "id": "fba20271-551f-4d2e-9bad-cedca8a878c6",
-      "latitude": -34.833934,
-      "longitude": 138.539544,
+      "id": "bb8d9a85-a87c-4afd-a778-ae130f373e53",
+      "latitude": -34.833962,
+      "longitude": 138.541517,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-10T09:30:23Z",
-      "reported_at": "2026-04-10T06:57:45Z"
+      "timestamp": "2026-04-10T10:00:22Z",
+      "reported_at": "2026-04-10T07:54:09Z"
+    },
+    {
+      "id": "fae166de-fc8a-4d0b-86d6-bcb4ab2c9683",
+      "latitude": -34.83417,
+      "longitude": 138.537539,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:00:22Z",
+      "reported_at": "2026-04-10T09:32:59Z"
+    },
+    {
+      "id": "63232493-0bd1-4be1-84b1-47bb33ff32a9",
+      "latitude": -35.002902,
+      "longitude": 138.755891,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Bridgewater",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:00:22Z",
+      "reported_at": "2026-04-10T09:42:05Z"
     }
   ]
 }
