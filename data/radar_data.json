@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "cd5e2406-5b91-4ed0-a28f-587627c93173",
-      "latitude": -34.744755,
-      "longitude": 138.646929,
-      "street": "Purling Av",
-      "city": "Edinburgh",
+      "id": "f47fdd58-25ec-45ef-b10f-0d677346e5ed",
+      "latitude": -34.791614,
+      "longitude": 138.667278,
+      "street": "Marshall St",
+      "city": "Gulfview Heights",
       "type": "mobile",
-      "timestamp": "2026-04-10T04:30:22Z",
-      "reported_at": "2026-04-09T22:19:41Z"
+      "timestamp": "2026-04-10T05:30:23Z",
+      "reported_at": "2026-04-10T04:18:35Z"
     },
     {
-      "id": "93292bd6-ebbf-4ee1-b979-309ae9564483",
-      "latitude": -34.90296,
-      "longitude": 138.596472,
-      "street": "Barton Tce East",
-      "city": "North Adelaide",
+      "id": "ce55e26d-f7d8-47b7-b3f8-6f29910dc1fd",
+      "latitude": -34.825259,
+      "longitude": 138.612471,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-10T04:30:22Z",
-      "reported_at": "2026-04-10T01:18:27Z"
-    },
-    {
-      "id": "24239e1b-f0e2-4d88-93c8-c1dfd4ffceae",
-      "latitude": -34.729753,
-      "longitude": 138.55846,
-      "street": "St Kilda Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-04-10T04:30:22Z",
-      "reported_at": "2026-04-10T00:48:12Z"
+      "timestamp": "2026-04-10T05:30:23Z",
+      "reported_at": "2026-04-10T05:23:03Z"
     },
     {
       "id": "17a35326-b276-4937-aa37-f9c1820c62de",
@@ -37,8 +27,28 @@
       "street": "Old Port Wakefield Rd",
       "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-04-10T04:30:22Z",
+      "timestamp": "2026-04-10T05:30:23Z",
       "reported_at": "2026-04-10T02:05:47Z"
+    },
+    {
+      "id": "c611a0e2-1829-4af3-9137-7cc94ff8fc82",
+      "latitude": -34.901271,
+      "longitude": 138.606508,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-10T05:30:23Z",
+      "reported_at": "2026-04-10T05:20:52Z"
+    },
+    {
+      "id": "53fb7e7c-05b6-4851-97c5-6fed0dd1b021",
+      "latitude": -34.785149,
+      "longitude": 138.636367,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury South",
+      "type": "mobile",
+      "timestamp": "2026-04-10T05:30:23Z",
+      "reported_at": "2026-04-10T04:57:14Z"
     }
   ]
 }
