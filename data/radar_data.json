@@ -7,7 +7,7 @@
       "street": "Marshall St",
       "city": "Gulfview Heights",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
+      "timestamp": "2026-04-10T07:00:22Z",
       "reported_at": "2026-04-10T04:18:35Z"
     },
     {
@@ -17,18 +17,8 @@
       "street": "South Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
+      "timestamp": "2026-04-10T07:00:22Z",
       "reported_at": "2026-04-10T06:06:20Z"
-    },
-    {
-      "id": "a7288a91-f863-4eef-a61e-3144282c6187",
-      "latitude": -35.016563,
-      "longitude": 138.54463,
-      "street": "Unknown Street",
-      "city": "Oaklands Park",
-      "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
-      "reported_at": "2026-04-10T06:23:16Z"
     },
     {
       "id": "a19665c5-bc1d-44c1-8a7d-daaaed341d9f",
@@ -37,8 +27,18 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
+      "timestamp": "2026-04-10T07:00:22Z",
       "reported_at": "2026-04-10T06:01:41Z"
+    },
+    {
+      "id": "493dc6cf-1ac1-499b-a24d-612690db214d",
+      "latitude": -34.829781,
+      "longitude": 138.706832,
+      "street": "Tolley Rd",
+      "city": "St. Agnes",
+      "type": "mobile",
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:30:13Z"
     },
     {
       "id": "db28301e-c4b6-4fa8-bbe4-52fab0ae0fa4",
@@ -47,28 +47,38 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
+      "timestamp": "2026-04-10T07:00:22Z",
       "reported_at": "2026-04-10T06:26:31Z"
     },
     {
-      "id": "e2101d78-635e-429e-ab22-589619b7da91",
-      "latitude": -34.943413,
-      "longitude": 138.589103,
-      "street": "Goodwood Rd",
-      "city": "Wayville",
+      "id": "f1e4713e-2682-488c-a0b9-be9c99bebc7c",
+      "latitude": -34.775261,
+      "longitude": 138.677914,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
-      "reported_at": "2026-04-10T06:19:28Z"
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:57:58Z"
     },
     {
-      "id": "76291a66-8645-48a0-bd68-96b03c94d774",
-      "latitude": -34.906198,
-      "longitude": 138.573,
-      "street": "A7 - Port Rd",
-      "city": "Hindmarsh",
+      "id": "487981f4-ccd3-411e-be38-22081e5e3f15",
+      "latitude": -34.948918,
+      "longitude": 138.64308,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenunga",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
-      "reported_at": "2026-04-10T05:50:56Z"
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:52:51Z"
+    },
+    {
+      "id": "c1089d84-f824-41a4-8e57-68318104e31a",
+      "latitude": -34.936389,
+      "longitude": 138.552736,
+      "street": "A14 - Marion Rd",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:53:55Z"
     },
     {
       "id": "7ebd216f-4f6e-4f33-87e0-96a7f8bded76",
@@ -77,18 +87,38 @@
       "street": "A18 - McIntyre Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
+      "timestamp": "2026-04-10T07:00:22Z",
       "reported_at": "2026-04-10T06:11:09Z"
     },
     {
-      "id": "a05d6293-620d-43e3-a322-8b36b15c7016",
-      "latitude": -34.709018,
-      "longitude": 138.677348,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
+      "id": "0233cbeb-8771-4c32-ba60-3e54505bf26f",
+      "latitude": -34.824578,
+      "longitude": 138.70907,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
-      "reported_at": "2026-04-10T06:19:51Z"
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:35:51Z"
+    },
+    {
+      "id": "3a9eeb11-6a1d-4718-b624-4102dfacb3c2",
+      "latitude": -34.78236,
+      "longitude": 138.684527,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:31:28Z"
+    },
+    {
+      "id": "f2dc6159-6319-4968-bb98-fdac6a5e614a",
+      "latitude": -34.786194,
+      "longitude": 138.694461,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-04-10T07:00:22Z",
+      "reported_at": "2026-04-10T06:55:32Z"
     },
     {
       "id": "584eccf9-a612-4b5a-a48b-dea7174c8df4",
@@ -97,18 +127,8 @@
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
+      "timestamp": "2026-04-10T07:00:22Z",
       "reported_at": "2026-04-10T06:28:02Z"
-    },
-    {
-      "id": "c1bba7bc-dbf8-4f60-b3e1-3b7413a59838",
-      "latitude": -34.834087,
-      "longitude": 138.539251,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-04-10T06:30:22Z",
-      "reported_at": "2026-04-10T06:24:56Z"
     }
   ]
 }
