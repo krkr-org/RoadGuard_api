@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "e8ab90b2-59ae-4dcf-8c2b-88f40a11eade",
-      "latitude": -34.884724,
-      "longitude": 138.511128,
-      "street": "Glenburnie St",
-      "city": "Seaton",
+      "id": "5b30cbdc-8f34-424a-9fda-cf06de30056e",
+      "latitude": -34.923083,
+      "longitude": 138.599437,
+      "street": "King William St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T07:09:45Z"
-    },
-    {
-      "id": "80a324ca-5257-4639-9755-03929ddcbb1b",
-      "latitude": -35.021439,
-      "longitude": 138.564692,
-      "street": "to M2 - Southern Exp to City",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T10:40:17Z"
-    },
-    {
-      "id": "48f6e8ef-0365-445d-b41a-215e2474beb8",
-      "latitude": -34.862316,
-      "longitude": 138.50796,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T07:26:11Z"
+      "timestamp": "2026-04-10T11:30:22Z",
+      "reported_at": "2026-04-10T10:49:13Z"
     },
     {
       "id": "5ebfab06-d95a-4841-9ec7-3512f8927592",
@@ -37,8 +17,18 @@
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
+      "timestamp": "2026-04-10T11:30:22Z",
       "reported_at": "2026-04-10T07:22:52Z"
+    },
+    {
+      "id": "48f6e8ef-0365-445d-b41a-215e2474beb8",
+      "latitude": -34.862316,
+      "longitude": 138.50796,
+      "street": "Old Port Rd",
+      "city": "Queenstown",
+      "type": "mobile",
+      "timestamp": "2026-04-10T11:30:22Z",
+      "reported_at": "2026-04-10T07:26:11Z"
     },
     {
       "id": "d7a8629b-1fc6-4545-b833-4557502d6b2f",
@@ -47,18 +37,8 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
+      "timestamp": "2026-04-10T11:30:22Z",
       "reported_at": "2026-04-10T08:41:38Z"
-    },
-    {
-      "id": "5b30cbdc-8f34-424a-9fda-cf06de30056e",
-      "latitude": -34.923083,
-      "longitude": 138.599437,
-      "street": "King William St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T10:49:13Z"
     },
     {
       "id": "08f8f89f-df04-49bc-80f0-55f8264cf7e5",
@@ -67,28 +47,38 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
+      "timestamp": "2026-04-10T11:30:22Z",
       "reported_at": "2026-04-10T07:48:39Z"
     },
     {
-      "id": "e01c8391-d693-45f0-8c6c-1576abdc9fc9",
-      "latitude": -35.127501,
-      "longitude": 138.485564,
+      "id": "aacb6369-7f35-4727-84b3-dc9ebcfdf838",
+      "latitude": -35.121648,
+      "longitude": 138.487963,
       "street": "A15 - Dyson Rd",
-      "city": "Christie Downs",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T10:42:33Z"
+      "timestamp": "2026-04-10T11:30:22Z",
+      "reported_at": "2026-04-10T10:43:55Z"
     },
     {
-      "id": "f97c178c-4811-44d0-8bb5-5b1b1087fd29",
-      "latitude": -35.081854,
-      "longitude": 138.546615,
-      "street": "Panalatinga Rd",
-      "city": "Happy Valley",
+      "id": "ebe04488-029c-4bb9-a6ad-66f34b36c67c",
+      "latitude": -34.985682,
+      "longitude": 138.556352,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T10:17:59Z"
+      "timestamp": "2026-04-10T11:30:22Z",
+      "reported_at": "2026-04-10T10:49:57Z"
+    },
+    {
+      "id": "59e253c4-f322-4f5d-b7e9-5c6e8540578f",
+      "latitude": -34.88084,
+      "longitude": 138.534879,
+      "street": "A7 - Port Rd",
+      "city": "Woodville South",
+      "type": "mobile",
+      "timestamp": "2026-04-10T11:30:22Z",
+      "reported_at": "2026-04-10T11:02:47Z"
     },
     {
       "id": "f2b57aca-842c-4217-a07d-e5f03a75ec5a",
@@ -97,18 +87,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
+      "timestamp": "2026-04-10T11:30:22Z",
       "reported_at": "2026-04-10T10:25:21Z"
     },
     {
-      "id": "432b7348-48ba-4c20-9f6a-0bceb5a9f02b",
-      "latitude": -34.833701,
-      "longitude": 138.544042,
+      "id": "5ab22c6d-c52f-4805-aac0-e5c5b094d024",
+      "latitude": -34.833908,
+      "longitude": 138.542508,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
-      "reported_at": "2026-04-10T08:35:40Z"
+      "timestamp": "2026-04-10T11:30:22Z",
+      "reported_at": "2026-04-10T09:32:52Z"
     },
     {
       "id": "fae166de-fc8a-4d0b-86d6-bcb4ab2c9683",
@@ -117,7 +107,7 @@
       "street": "A9 - Port River Exp",
       "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-04-10T11:00:23Z",
+      "timestamp": "2026-04-10T11:30:22Z",
       "reported_at": "2026-04-10T09:32:59Z"
     }
   ]
