@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "7631b34c-1116-4cb8-b751-44daa6729253",
+      "latitude": -35.135837,
+      "longitude": 138.505114,
+      "street": "to M2 - Southern Exp to City",
+      "city": "Christie Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-10T01:30:22Z",
+      "reported_at": "2026-04-10T01:28:54Z"
+    },
+    {
       "id": "cd5e2406-5b91-4ed0-a28f-587627c93173",
       "latitude": -34.744755,
       "longitude": 138.646929,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-10T01:00:26Z",
+      "timestamp": "2026-04-10T01:30:22Z",
       "reported_at": "2026-04-09T22:19:41Z"
-    },
-    {
-      "id": "f80773c3-5d4f-41bf-8a1c-dc2fae474547",
-      "latitude": -34.859144,
-      "longitude": 138.529212,
-      "street": "Addison Rd",
-      "city": "Pennington",
-      "type": "mobile",
-      "timestamp": "2026-04-10T01:00:26Z",
-      "reported_at": "2026-04-10T00:16:13Z"
     },
     {
       "id": "548f82cb-3ef4-46b0-9c3d-7166b8f896f4",
@@ -27,8 +27,18 @@
       "street": "Hanson Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-10T01:00:26Z",
+      "timestamp": "2026-04-10T01:30:22Z",
       "reported_at": "2026-04-09T22:32:32Z"
+    },
+    {
+      "id": "f80773c3-5d4f-41bf-8a1c-dc2fae474547",
+      "latitude": -34.859144,
+      "longitude": 138.529212,
+      "street": "Addison Rd",
+      "city": "Pennington",
+      "type": "mobile",
+      "timestamp": "2026-04-10T01:30:22Z",
+      "reported_at": "2026-04-10T00:16:13Z"
     },
     {
       "id": "bd3aa10c-9982-446f-b668-7c3deef9418d",
@@ -37,8 +47,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-10T01:00:26Z",
+      "timestamp": "2026-04-10T01:30:22Z",
       "reported_at": "2026-04-10T00:47:28Z"
+    },
+    {
+      "id": "46ddec90-21c1-4315-8d84-20330ad4c762",
+      "latitude": -34.794157,
+      "longitude": 138.596773,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-04-10T01:30:22Z",
+      "reported_at": "2026-04-10T01:20:22Z"
     }
   ]
 }
