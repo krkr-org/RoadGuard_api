@@ -7,7 +7,7 @@
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:00:23Z",
+      "timestamp": "2026-04-10T02:30:25Z",
       "reported_at": "2026-04-09T23:09:00Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "Barton Tce East",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:00:23Z",
+      "timestamp": "2026-04-10T02:30:25Z",
       "reported_at": "2026-04-10T01:18:27Z"
+    },
+    {
+      "id": "66d247c0-0a61-42ee-9258-96a72c49197c",
+      "latitude": -34.729971,
+      "longitude": 138.557584,
+      "street": "St Kilda Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-04-10T02:30:25Z",
+      "reported_at": "2026-04-10T00:05:26Z"
     },
     {
       "id": "548f82cb-3ef4-46b0-9c3d-7166b8f896f4",
@@ -27,7 +37,7 @@
       "street": "Hanson Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:00:23Z",
+      "timestamp": "2026-04-10T02:30:25Z",
       "reported_at": "2026-04-09T22:32:32Z"
     },
     {
@@ -37,18 +47,48 @@
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:00:23Z",
+      "timestamp": "2026-04-10T02:30:25Z",
       "reported_at": "2026-04-10T00:16:13Z"
     },
     {
-      "id": "c412054d-bd57-46fb-8272-bc95e99dce7b",
-      "latitude": -34.946824,
-      "longitude": 138.62589,
-      "street": "A1 - Glen Osmond Rd",
-      "city": "Eastwood",
+      "id": "53514e54-eb3a-4aa7-867b-006e9a18f824",
+      "latitude": -34.942792,
+      "longitude": 138.557508,
+      "street": "Richmond Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:00:23Z",
-      "reported_at": "2026-04-10T01:43:14Z"
+      "timestamp": "2026-04-10T02:30:25Z",
+      "reported_at": "2026-04-10T02:04:07Z"
+    },
+    {
+      "id": "ceffde84-9967-4e27-a4a5-d7cfe609e47a",
+      "latitude": -34.800424,
+      "longitude": 138.501495,
+      "street": "A16 - Victoria Rd",
+      "city": "Osborne",
+      "type": "mobile",
+      "timestamp": "2026-04-10T02:30:25Z",
+      "reported_at": "2026-04-10T02:01:39Z"
+    },
+    {
+      "id": "22d1adfa-0edb-41fe-90b1-8807bf18a1b1",
+      "latitude": -34.674272,
+      "longitude": 138.699014,
+      "street": "A20 - Main North Rd",
+      "city": "Munno Para",
+      "type": "mobile",
+      "timestamp": "2026-04-10T02:30:25Z",
+      "reported_at": "2026-04-09T23:58:34Z"
+    },
+    {
+      "id": "e4218533-1322-4701-b7e0-333f9216a755",
+      "latitude": -34.81685,
+      "longitude": 138.592502,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-04-10T02:30:25Z",
+      "reported_at": "2026-04-10T02:13:50Z"
     }
   ]
 }
