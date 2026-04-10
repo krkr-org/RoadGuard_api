@@ -7,8 +7,18 @@
       "street": "Glenburnie St",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T07:09:45Z"
+    },
+    {
+      "id": "8be196a1-d2e7-43e3-9671-650e68deb6f1",
+      "latitude": -34.903989,
+      "longitude": 138.661064,
+      "street": "Arthur St",
+      "city": "Tranmere",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:30:22Z",
+      "reported_at": "2026-04-10T10:12:49Z"
     },
     {
       "id": "c73ed3a0-ca1b-4855-b2e0-2f27b6cb9725",
@@ -17,18 +27,8 @@
       "street": "Unknown Street",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T08:01:25Z"
-    },
-    {
-      "id": "5edeb720-8340-4929-9d95-5590ca86ed5d",
-      "latitude": -34.891927,
-      "longitude": 138.507826,
-      "street": "Trimmer Pde",
-      "city": "Seaton",
-      "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
-      "reported_at": "2026-04-10T08:47:12Z"
     },
     {
       "id": "48f6e8ef-0365-445d-b41a-215e2474beb8",
@@ -37,7 +37,7 @@
       "street": "Old Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T07:26:11Z"
     },
     {
@@ -47,28 +47,18 @@
       "street": "Crittenden Rd",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T08:41:38Z"
     },
     {
-      "id": "f6a0224f-432e-4abf-b32c-1de6e48043e5",
-      "latitude": -34.905437,
-      "longitude": 138.53236,
-      "street": "Grange Rd",
-      "city": "Findon",
+      "id": "1be00ded-7c27-4efc-98dd-74f495d98c39",
+      "latitude": -34.868698,
+      "longitude": 138.528948,
+      "street": "Cheltenham Pde",
+      "city": "Cheltenham",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
-      "reported_at": "2026-04-10T09:44:16Z"
-    },
-    {
-      "id": "8614d0cb-59b2-408b-9427-ac4e07a3e99c",
-      "latitude": -34.751916,
-      "longitude": 138.624539,
-      "street": "Waterloo Corner Rd",
-      "city": "Salisbury North",
-      "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
-      "reported_at": "2026-04-10T09:56:55Z"
+      "timestamp": "2026-04-10T10:30:22Z",
+      "reported_at": "2026-04-10T09:59:34Z"
     },
     {
       "id": "08f8f89f-df04-49bc-80f0-55f8264cf7e5",
@@ -77,8 +67,18 @@
       "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T07:48:39Z"
+    },
+    {
+      "id": "8614d0cb-59b2-408b-9427-ac4e07a3e99c",
+      "latitude": -34.751916,
+      "longitude": 138.624539,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury North",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:30:22Z",
+      "reported_at": "2026-04-10T09:56:55Z"
     },
     {
       "id": "634a89b1-4eab-409b-99f5-b666de62dacc",
@@ -87,7 +87,7 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T06:41:07Z"
     },
     {
@@ -97,38 +97,28 @@
       "street": "A18 - Kings Rd",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
+      "timestamp": "2026-04-10T10:30:22Z",
       "reported_at": "2026-04-10T06:41:35Z"
     },
     {
-      "id": "bb8d9a85-a87c-4afd-a778-ae130f373e53",
-      "latitude": -34.833962,
-      "longitude": 138.541517,
+      "id": "f2b57aca-842c-4217-a07d-e5f03a75ec5a",
+      "latitude": -34.77621,
+      "longitude": 138.629112,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-10T10:30:22Z",
+      "reported_at": "2026-04-10T10:25:21Z"
+    },
+    {
+      "id": "40533540-d5bf-44ec-b072-a736c9c1b8b2",
+      "latitude": -34.834048,
+      "longitude": 138.5372,
       "street": "A9 - Port River Exp",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
-      "reported_at": "2026-04-10T07:54:09Z"
-    },
-    {
-      "id": "fae166de-fc8a-4d0b-86d6-bcb4ab2c9683",
-      "latitude": -34.83417,
-      "longitude": 138.537539,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
-      "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
-      "reported_at": "2026-04-10T09:32:59Z"
-    },
-    {
-      "id": "63232493-0bd1-4be1-84b1-47bb33ff32a9",
-      "latitude": -35.002902,
-      "longitude": 138.755891,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Bridgewater",
-      "type": "mobile",
-      "timestamp": "2026-04-10T10:00:22Z",
-      "reported_at": "2026-04-10T09:42:05Z"
+      "timestamp": "2026-04-10T10:30:22Z",
+      "reported_at": "2026-04-10T10:04:59Z"
     }
   ]
 }
