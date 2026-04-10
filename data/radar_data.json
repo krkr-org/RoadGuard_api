@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "681efa71-e9c7-42e8-adb6-e3d3f8678d0c",
-      "latitude": -34.744659,
-      "longitude": 138.64699,
+      "id": "548f82cb-3ef4-46b0-9c3d-7166b8f896f4",
+      "latitude": -34.697293,
+      "longitude": 138.698923,
+      "street": "Hanson Rd",
+      "city": "Elizabeth Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-10T03:00:23Z",
+      "reported_at": "2026-04-09T22:32:32Z"
+    },
+    {
+      "id": "cd5e2406-5b91-4ed0-a28f-587627c93173",
+      "latitude": -34.744755,
+      "longitude": 138.646929,
       "street": "Purling Av",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
-      "reported_at": "2026-04-09T23:09:00Z"
+      "timestamp": "2026-04-10T03:00:23Z",
+      "reported_at": "2026-04-09T22:19:41Z"
     },
     {
       "id": "93292bd6-ebbf-4ee1-b979-309ae9564483",
@@ -17,28 +27,8 @@
       "street": "Barton Tce East",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
+      "timestamp": "2026-04-10T03:00:23Z",
       "reported_at": "2026-04-10T01:18:27Z"
-    },
-    {
-      "id": "66d247c0-0a61-42ee-9258-96a72c49197c",
-      "latitude": -34.729971,
-      "longitude": 138.557584,
-      "street": "St Kilda Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
-      "reported_at": "2026-04-10T00:05:26Z"
-    },
-    {
-      "id": "548f82cb-3ef4-46b0-9c3d-7166b8f896f4",
-      "latitude": -34.697293,
-      "longitude": 138.698923,
-      "street": "Hanson Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
-      "reported_at": "2026-04-09T22:32:32Z"
     },
     {
       "id": "f80773c3-5d4f-41bf-8a1c-dc2fae474547",
@@ -47,28 +37,28 @@
       "street": "Addison Rd",
       "city": "Pennington",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
+      "timestamp": "2026-04-10T03:00:23Z",
       "reported_at": "2026-04-10T00:16:13Z"
     },
     {
-      "id": "53514e54-eb3a-4aa7-867b-006e9a18f824",
-      "latitude": -34.942792,
-      "longitude": 138.557508,
-      "street": "Richmond Rd",
-      "city": "Richmond",
+      "id": "66d247c0-0a61-42ee-9258-96a72c49197c",
+      "latitude": -34.729971,
+      "longitude": 138.557584,
+      "street": "St Kilda Rd",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
-      "reported_at": "2026-04-10T02:04:07Z"
+      "timestamp": "2026-04-10T03:00:23Z",
+      "reported_at": "2026-04-10T00:05:26Z"
     },
     {
-      "id": "ceffde84-9967-4e27-a4a5-d7cfe609e47a",
-      "latitude": -34.800424,
-      "longitude": 138.501495,
-      "street": "A16 - Victoria Rd",
-      "city": "Osborne",
+      "id": "8e6bf83b-80cd-4c57-ae05-ea9f175bfc7c",
+      "latitude": -34.876362,
+      "longitude": 138.550376,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
-      "reported_at": "2026-04-10T02:01:39Z"
+      "timestamp": "2026-04-10T03:00:23Z",
+      "reported_at": "2026-04-10T02:56:15Z"
     },
     {
       "id": "22d1adfa-0edb-41fe-90b1-8807bf18a1b1",
@@ -77,18 +67,28 @@
       "street": "A20 - Main North Rd",
       "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
+      "timestamp": "2026-04-10T03:00:23Z",
       "reported_at": "2026-04-09T23:58:34Z"
     },
     {
-      "id": "e4218533-1322-4701-b7e0-333f9216a755",
-      "latitude": -34.81685,
-      "longitude": 138.592502,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
+      "id": "828c2569-91b7-44fb-aee6-393206a9aa80",
+      "latitude": -34.776141,
+      "longitude": 138.62132,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-04-10T02:30:25Z",
-      "reported_at": "2026-04-10T02:13:50Z"
+      "timestamp": "2026-04-10T03:00:23Z",
+      "reported_at": "2026-04-10T02:34:02Z"
+    },
+    {
+      "id": "e4c6a10c-36d2-4168-adb9-c7bb27016ee9",
+      "latitude": -35.037582,
+      "longitude": 138.812913,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Hahndorf",
+      "type": "mobile",
+      "timestamp": "2026-04-10T03:00:23Z",
+      "reported_at": "2026-04-10T02:57:32Z"
     }
   ]
 }
