@@ -2,23 +2,43 @@
   "radars": [
     {
       "id": "f5a9cb17-c717-4850-9a1b-d3dc96365529",
-      "latitude": -34.908546,
-      "longitude": 138.610482,
+      "latitude": -34.908493,
+      "longitude": 138.609853,
       "street": "Bundeys Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-10T22:30:22Z",
+      "timestamp": "2026-04-10T23:00:22Z",
       "reported_at": "2026-04-10T22:18:24Z"
     },
     {
-      "id": "9f94fbb1-a743-4771-91a1-d7af52f7c197",
-      "latitude": -35.048308,
-      "longitude": 138.548584,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "bcf13d27-9ab8-4a71-b902-3165863afdca",
+      "latitude": -35.005632,
+      "longitude": 138.54,
+      "street": "Morphett Rd",
+      "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-10T22:30:22Z",
-      "reported_at": "2026-04-10T22:07:06Z"
+      "timestamp": "2026-04-10T23:00:22Z",
+      "reported_at": "2026-04-10T22:13:31Z"
+    },
+    {
+      "id": "df3b3321-f678-4482-a47b-c8c475a7c390",
+      "latitude": -34.923668,
+      "longitude": 138.632167,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-04-10T23:00:22Z",
+      "reported_at": "2026-04-10T22:48:41Z"
+    },
+    {
+      "id": "05b2545a-f121-4970-8274-b35f0d91b0df",
+      "latitude": -34.836034,
+      "longitude": 138.501746,
+      "street": "A16 - Victoria Rd",
+      "city": "Birkenhead",
+      "type": "mobile",
+      "timestamp": "2026-04-10T23:00:22Z",
+      "reported_at": "2026-04-10T22:42:01Z"
     }
   ]
 }
