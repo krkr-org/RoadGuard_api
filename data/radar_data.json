@@ -1,84 +1,34 @@
 {
   "radars": [
     {
+      "id": "42ac710e-607b-44c9-a64a-b17baf03b38e",
+      "latitude": -34.953768,
+      "longitude": 138.571395,
+      "street": "to A5 - Anzac Hwy to City / Glenelg",
+      "city": "Glandore",
+      "type": "mobile",
+      "timestamp": "2026-04-11T10:00:23Z",
+      "reported_at": "2026-04-11T09:37:27Z"
+    },
+    {
       "id": "272d74b2-856c-4c60-9f4a-5821598b43d1",
       "latitude": -34.70051,
       "longitude": 138.710246,
       "street": "Blair Park Dr",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
+      "timestamp": "2026-04-11T10:00:23Z",
       "reported_at": "2026-04-11T07:38:52Z"
     },
     {
-      "id": "2ec4dc20-f982-4e09-aab4-1a657ece0005",
-      "latitude": -34.910089,
-      "longitude": 138.592548,
-      "street": "Jeffcott St",
-      "city": "North Adelaide",
+      "id": "6d2f5ae6-7e58-49c8-ad37-02207e3af13f",
+      "latitude": -34.809777,
+      "longitude": 138.717762,
+      "street": "A11 - Hancock Rd",
+      "city": "Redwood Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T06:47:34Z"
-    },
-    {
-      "id": "a4c329c0-e210-452d-b1d1-aa886a32d8ef",
-      "latitude": -34.921495,
-      "longitude": 138.598875,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T08:30:31Z"
-    },
-    {
-      "id": "202da7eb-2e45-49e4-8268-7db0469dfee2",
-      "latitude": -34.673863,
-      "longitude": 138.67791,
-      "street": "Peachey Rd",
-      "city": "Smithfield Plains",
-      "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T09:19:41Z"
-    },
-    {
-      "id": "41f36651-f0b5-41e3-81d6-74489096908a",
-      "latitude": -34.862606,
-      "longitude": 138.661589,
-      "street": "Sudholz Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T09:18:36Z"
-    },
-    {
-      "id": "f290d643-55ec-4fef-a5cc-bc2eb705881b",
-      "latitude": -34.831742,
-      "longitude": 138.501349,
-      "street": "A16 - Victoria Rd",
-      "city": "Peterhead",
-      "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T09:13:47Z"
-    },
-    {
-      "id": "aa6e732e-2c05-4a18-9a49-53cb896085b8",
-      "latitude": -34.782673,
-      "longitude": 138.632294,
-      "street": "A18 - Kings Rd",
-      "city": "Salisbury South",
-      "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T09:15:06Z"
-    },
-    {
-      "id": "183783b5-56cb-482d-9030-9f13e6fe3083",
-      "latitude": -34.82128,
-      "longitude": 138.588538,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Dry Creek",
-      "type": "mobile",
-      "timestamp": "2026-04-11T09:30:22Z",
-      "reported_at": "2026-04-11T08:22:25Z"
+      "timestamp": "2026-04-11T10:00:23Z",
+      "reported_at": "2026-04-11T09:44:22Z"
     }
   ]
 }
