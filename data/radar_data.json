@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "a311a369-4ff4-414d-beb6-101970ea58fa",
-      "latitude": -34.925047,
-      "longitude": 138.605728,
-      "street": "Pulteney St",
-      "city": "Adelaide",
+      "id": "e3a89bc2-779b-4b8a-ad00-32eaf9899494",
+      "latitude": -34.990114,
+      "longitude": 138.606719,
+      "street": "Springbank Rd",
+      "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-04-11T12:30:22Z",
-      "reported_at": "2026-04-11T12:03:15Z"
+      "timestamp": "2026-04-11T13:00:29Z",
+      "reported_at": "2026-04-11T09:48:42Z"
+    },
+    {
+      "id": "af9dee7f-0e9d-4c74-978f-d57a0d8d83aa",
+      "latitude": -35.044765,
+      "longitude": 138.570611,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-11T13:00:29Z",
+      "reported_at": "2026-04-11T12:48:44Z"
+    },
+    {
+      "id": "44d2458e-87b5-4a26-a667-34deabe8aa38",
+      "latitude": -34.900563,
+      "longitude": 138.540043,
+      "street": "Crittenden Rd",
+      "city": "Findon",
+      "type": "mobile",
+      "timestamp": "2026-04-11T13:00:29Z",
+      "reported_at": "2026-04-11T12:40:51Z"
     },
     {
       "id": "e83121e6-9034-4bc7-8751-304cd55102a0",
@@ -17,18 +37,38 @@
       "street": "A20 - Main North Rd",
       "city": "Elizabeth Downs",
       "type": "mobile",
-      "timestamp": "2026-04-11T12:30:22Z",
+      "timestamp": "2026-04-11T13:00:29Z",
       "reported_at": "2026-04-11T11:55:21Z"
     },
     {
-      "id": "ad4a4250-f668-4a66-a9f8-48c526c32bbb",
-      "latitude": -34.896491,
-      "longitude": 138.639313,
-      "street": "A11 - Payneham Rd",
-      "city": "Payneham",
+      "id": "32f5b907-f5db-4451-b853-ba4bb069950e",
+      "latitude": -34.974533,
+      "longitude": 138.573545,
+      "street": "A2 - South Rd",
+      "city": "Clarence Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-11T12:30:22Z",
-      "reported_at": "2026-04-11T11:41:14Z"
+      "timestamp": "2026-04-11T13:00:29Z",
+      "reported_at": "2026-04-11T12:38:31Z"
+    },
+    {
+      "id": "0d77aa3e-f25c-4a20-850e-454ec14dfdbd",
+      "latitude": -34.888124,
+      "longitude": 138.603066,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-11T13:00:29Z",
+      "reported_at": "2026-04-11T12:51:40Z"
+    },
+    {
+      "id": "27adf392-5f35-496a-b60b-4bf6d78d9797",
+      "latitude": -34.828532,
+      "longitude": 138.691818,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-04-11T13:00:29Z",
+      "reported_at": "2026-04-11T12:43:00Z"
     }
   ]
 }
