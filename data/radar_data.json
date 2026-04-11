@@ -1,74 +1,64 @@
 {
   "radars": [
     {
-      "id": "e3a89bc2-779b-4b8a-ad00-32eaf9899494",
-      "latitude": -34.990114,
-      "longitude": 138.606719,
+      "id": "c5c7b18f-7da3-4877-afec-6775b3cb7b07",
+      "latitude": -34.770226,
+      "longitude": 138.718723,
+      "street": "The Golden Way",
+      "city": "Greenwith",
+      "type": "mobile",
+      "timestamp": "2026-04-11T13:30:23Z",
+      "reported_at": "2026-04-11T13:07:52Z"
+    },
+    {
+      "id": "4f46ea20-2e1b-4d7a-99ef-6b11ba66c642",
+      "latitude": -34.99013,
+      "longitude": 138.607304,
       "street": "Springbank Rd",
       "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T09:48:42Z"
+      "timestamp": "2026-04-11T13:30:23Z",
+      "reported_at": "2026-04-11T12:19:20Z"
     },
     {
-      "id": "af9dee7f-0e9d-4c74-978f-d57a0d8d83aa",
-      "latitude": -35.044765,
-      "longitude": 138.570611,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
+      "id": "7ddb1acb-31f3-4f50-9e82-5104e99bcfa9",
+      "latitude": -34.917694,
+      "longitude": 138.599031,
+      "street": "King William Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T12:48:44Z"
+      "timestamp": "2026-04-11T13:30:23Z",
+      "reported_at": "2026-04-11T13:09:19Z"
     },
     {
-      "id": "44d2458e-87b5-4a26-a667-34deabe8aa38",
-      "latitude": -34.900563,
-      "longitude": 138.540043,
-      "street": "Crittenden Rd",
-      "city": "Findon",
+      "id": "3e9b3696-b269-492e-a484-fde2c4077297",
+      "latitude": -35.003815,
+      "longitude": 138.557737,
+      "street": "A14 - Marion Rd",
+      "city": "Marion",
       "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T12:40:51Z"
+      "timestamp": "2026-04-11T13:30:23Z",
+      "reported_at": "2026-04-11T13:05:50Z"
     },
     {
-      "id": "e83121e6-9034-4bc7-8751-304cd55102a0",
-      "latitude": -34.690406,
-      "longitude": 138.689326,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth Downs",
+      "id": "1ac65041-2961-431d-94da-41fa370dc9ce",
+      "latitude": -34.720511,
+      "longitude": 138.573538,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T11:55:21Z"
+      "timestamp": "2026-04-11T13:30:23Z",
+      "reported_at": "2026-04-11T13:01:02Z"
     },
     {
-      "id": "32f5b907-f5db-4451-b853-ba4bb069950e",
-      "latitude": -34.974533,
-      "longitude": 138.573545,
-      "street": "A2 - South Rd",
-      "city": "Clarence Gardens",
+      "id": "13cfd9ad-cf36-49d5-a69b-3af6b8e41f85",
+      "latitude": -34.857377,
+      "longitude": 138.565464,
+      "street": "M2 - North-South Mwy",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T12:38:31Z"
-    },
-    {
-      "id": "0d77aa3e-f25c-4a20-850e-454ec14dfdbd",
-      "latitude": -34.888124,
-      "longitude": 138.603066,
-      "street": "A1 - Main North Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T12:51:40Z"
-    },
-    {
-      "id": "27adf392-5f35-496a-b60b-4bf6d78d9797",
-      "latitude": -34.828532,
-      "longitude": 138.691818,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-04-11T13:00:29Z",
-      "reported_at": "2026-04-11T12:43:00Z"
+      "timestamp": "2026-04-11T13:30:23Z",
+      "reported_at": "2026-04-11T13:09:19Z"
     }
   ]
 }
