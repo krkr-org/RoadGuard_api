@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "b1897d4c-a5fc-48d3-8aa1-805b1324b951",
-      "latitude": -34.892758,
-      "longitude": 138.660383,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "5accd116-c58d-4e73-80ce-46c7f197f60d",
+      "latitude": -34.676217,
+      "longitude": 138.69523,
+      "street": "Myall Av",
+      "city": "Munno Para",
       "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
-      "reported_at": "2026-04-11T03:14:58Z"
-    },
-    {
-      "id": "d0645025-b858-482d-ad68-637274ff485e",
-      "latitude": -34.932134,
-      "longitude": 138.628888,
-      "street": "Grant Av",
-      "city": "Rose Park",
-      "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
-      "reported_at": "2026-04-11T01:10:04Z"
+      "timestamp": "2026-04-11T05:30:26Z",
+      "reported_at": "2026-04-11T01:38:05Z"
     },
     {
       "id": "1f564593-a966-4779-8fcb-30bdcb3c2ff0",
@@ -27,18 +17,18 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
+      "timestamp": "2026-04-11T05:30:26Z",
       "reported_at": "2026-04-11T03:05:07Z"
     },
     {
-      "id": "84dac26e-a3a7-4c1f-b3ef-a71f13a9d62f",
-      "latitude": -34.73404,
-      "longitude": 138.616603,
-      "street": "Diment Rd",
-      "city": "Direk",
+      "id": "b1897d4c-a5fc-48d3-8aa1-805b1324b951",
+      "latitude": -34.892758,
+      "longitude": 138.660383,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
-      "reported_at": "2026-04-11T02:51:48Z"
+      "timestamp": "2026-04-11T05:30:26Z",
+      "reported_at": "2026-04-11T03:14:58Z"
     },
     {
       "id": "81953380-c5e7-4794-84b6-6606be83a890",
@@ -47,7 +37,7 @@
       "street": "Meadows Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
+      "timestamp": "2026-04-11T05:30:26Z",
       "reported_at": "2026-04-11T02:25:35Z"
     },
     {
@@ -57,38 +47,8 @@
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
+      "timestamp": "2026-04-11T05:30:26Z",
       "reported_at": "2026-04-11T03:57:15Z"
-    },
-    {
-      "id": "df3b3321-f678-4482-a47b-c8c475a7c390",
-      "latitude": -34.923668,
-      "longitude": 138.632167,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
-      "reported_at": "2026-04-10T22:48:41Z"
-    },
-    {
-      "id": "62384182-8916-484d-beb4-d464a7c89d7b",
-      "latitude": -35.108932,
-      "longitude": 138.496696,
-      "street": "A15 - Dyson Rd",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
-      "reported_at": "2026-04-11T04:47:26Z"
-    },
-    {
-      "id": "1c1df31c-b905-45fd-b288-2db7501db7ce",
-      "latitude": -34.864075,
-      "longitude": 138.781356,
-      "street": "B31 - Gorge Rd",
-      "city": "Paracombe",
-      "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
-      "reported_at": "2026-04-11T03:55:40Z"
     },
     {
       "id": "4d27a5cd-07d7-474a-91e5-a633197bfb0a",
@@ -97,8 +57,18 @@
       "street": "A20 - Main North Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-11T05:00:23Z",
+      "timestamp": "2026-04-11T05:30:26Z",
       "reported_at": "2026-04-11T03:49:57Z"
+    },
+    {
+      "id": "1c1df31c-b905-45fd-b288-2db7501db7ce",
+      "latitude": -34.864075,
+      "longitude": 138.781356,
+      "street": "B31 - Gorge Rd",
+      "city": "Paracombe",
+      "type": "mobile",
+      "timestamp": "2026-04-11T05:30:26Z",
+      "reported_at": "2026-04-11T03:55:40Z"
     }
   ]
 }
