@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "2a906912-98a5-4b5b-bdc7-dd03ef471805",
-      "latitude": -35.126539,
-      "longitude": 138.518966,
-      "street": "Flaxmill Rd",
-      "city": "Morphett Vale",
+      "id": "db4d0b63-bc72-4700-8f6a-5bbcd5261471",
+      "latitude": -34.846266,
+      "longitude": 138.61804,
+      "street": "Briens Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-11T15:00:24Z",
-      "reported_at": "2026-04-11T14:47:51Z"
+      "timestamp": "2026-04-11T15:30:24Z",
+      "reported_at": "2026-04-11T14:52:42Z"
     },
     {
       "id": "9f1e8d0a-5d0f-4406-b625-e8bac37901af",
@@ -17,8 +17,28 @@
       "street": "King William Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-11T15:00:24Z",
+      "timestamp": "2026-04-11T15:30:24Z",
       "reported_at": "2026-04-11T14:45:25Z"
+    },
+    {
+      "id": "949426fb-2bab-4c85-bfb5-77ebf230081b",
+      "latitude": -34.829684,
+      "longitude": 138.660789,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-11T15:30:24Z",
+      "reported_at": "2026-04-11T15:07:36Z"
+    },
+    {
+      "id": "4c0dc85f-b81d-4793-a59e-1df79b423840",
+      "latitude": -34.921735,
+      "longitude": 138.569611,
+      "street": "A2 - South Rd",
+      "city": "Torrensville",
+      "type": "mobile",
+      "timestamp": "2026-04-11T15:30:24Z",
+      "reported_at": "2026-04-11T15:14:29Z"
     }
   ]
 }
