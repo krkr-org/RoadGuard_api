@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "11d36767-c675-4317-9de3-d70060e4c221",
+      "latitude": -34.958942,
+      "longitude": 138.513465,
+      "street": "Africaine Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:43:58Z"
+    },
+    {
       "id": "4b7d1be4-4c1c-4ab3-a9bc-cf377ef855a2",
       "latitude": -35.073646,
       "longitude": 138.584973,
       "street": "Taylors Rd West",
       "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
+      "timestamp": "2026-04-11T02:00:27Z",
       "reported_at": "2026-04-11T01:00:59Z"
-    },
-    {
-      "id": "95ea4b67-a4a2-4afa-94fb-1496decb1164",
-      "latitude": -34.899124,
-      "longitude": 138.612344,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
-      "reported_at": "2026-04-10T23:01:35Z"
-    },
-    {
-      "id": "63e811a7-7050-49bf-b9dd-1cd8b19132b0",
-      "latitude": -34.888827,
-      "longitude": 138.642772,
-      "street": "Briar Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
-      "reported_at": "2026-04-10T23:36:37Z"
-    },
-    {
-      "id": "f5a9cb17-c717-4850-9a1b-d3dc96365529",
-      "latitude": -34.908493,
-      "longitude": 138.609853,
-      "street": "Bundeys Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
-      "reported_at": "2026-04-10T22:18:24Z"
     },
     {
       "id": "7693b4f1-07db-452f-a80a-15f0bfc552c1",
@@ -47,8 +27,58 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
+      "timestamp": "2026-04-11T02:00:27Z",
       "reported_at": "2026-04-10T22:33:08Z"
+    },
+    {
+      "id": "95ea4b67-a4a2-4afa-94fb-1496decb1164",
+      "latitude": -34.899124,
+      "longitude": 138.612344,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-10T23:01:35Z"
+    },
+    {
+      "id": "c811eb5b-26ca-4a92-b3aa-1bd5e9bf5092",
+      "latitude": -34.898723,
+      "longitude": 138.566765,
+      "street": "to M2 - North-South Mwy to Regency Park",
+      "city": "Croydon",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:57:58Z"
+    },
+    {
+      "id": "c27b5b51-7284-4225-b2ca-86f8eb737d0c",
+      "latitude": -34.889002,
+      "longitude": 138.642901,
+      "street": "Briar Rd",
+      "city": "Felixstow",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-10T23:07:33Z"
+    },
+    {
+      "id": "f0576196-1fc1-4586-be83-3306d1fb98f5",
+      "latitude": -34.996642,
+      "longitude": 138.530099,
+      "street": "Oaklands Rd",
+      "city": "Somerton Park",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:50:55Z"
+    },
+    {
+      "id": "70ea5eb5-4bdf-45d0-a58b-168b73c971b8",
+      "latitude": -34.996468,
+      "longitude": 138.539275,
+      "street": "Morphett Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:45:29Z"
     },
     {
       "id": "df3b3321-f678-4482-a47b-c8c475a7c390",
@@ -57,8 +87,18 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
+      "timestamp": "2026-04-11T02:00:27Z",
       "reported_at": "2026-04-10T22:48:41Z"
+    },
+    {
+      "id": "9c845651-63fd-4f05-bb87-0bcfd0c2bc94",
+      "latitude": -34.85774,
+      "longitude": 138.656142,
+      "street": "Sudholz Rd",
+      "city": "Windsor Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:40:19Z"
     },
     {
       "id": "fee40ef5-8f76-4eab-b3e8-b4d989d848b9",
@@ -67,38 +107,58 @@
       "street": "Philip Hwy",
       "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
+      "timestamp": "2026-04-11T02:00:27Z",
       "reported_at": "2026-04-11T01:27:32Z"
     },
     {
-      "id": "02eab74b-87b1-42e6-89c4-d35b983b0f15",
-      "latitude": -34.932637,
-      "longitude": 138.552083,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Brooklyn Park",
+      "id": "9f4cd091-90f3-47e9-a141-1f4661e82e59",
+      "latitude": -34.695409,
+      "longitude": 138.666806,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
-      "reported_at": "2026-04-11T01:14:59Z"
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:21:18Z"
     },
     {
-      "id": "44bccb94-b0e4-4406-9e6a-269d54008203",
-      "latitude": -34.859338,
-      "longitude": 138.583114,
-      "street": "A22 - Churchill Rd",
-      "city": "Kilburn",
+      "id": "7f42d84e-545e-4bd9-95ae-ea74f1825043",
+      "latitude": -35.046081,
+      "longitude": 138.531786,
+      "street": "A15 - Ocean Bvd",
+      "city": "Seacliff Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
-      "reported_at": "2026-04-11T01:11:06Z"
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:52:57Z"
     },
     {
-      "id": "95eded14-a37a-4e57-b16c-4f695fb2054d",
-      "latitude": -35.091192,
-      "longitude": 138.526343,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "3234f43f-d87e-46c9-b673-7274fc6df7e9",
+      "latitude": -34.997255,
+      "longitude": 138.52152,
+      "street": "A15 - Brighton Rd",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:30:23Z",
-      "reported_at": "2026-04-11T01:16:15Z"
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:45:37Z"
+    },
+    {
+      "id": "fff2f9f5-f3f8-491d-a3a7-8013ab3abfdc",
+      "latitude": -35.01887,
+      "longitude": 138.523026,
+      "street": "A15 - Brighton Rd",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:57:59Z"
+    },
+    {
+      "id": "d25cb7d1-79e4-4dd6-acc6-604d8d76bd6b",
+      "latitude": -34.97543,
+      "longitude": 138.519655,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-11T02:00:27Z",
+      "reported_at": "2026-04-11T01:53:06Z"
     }
   ]
 }
