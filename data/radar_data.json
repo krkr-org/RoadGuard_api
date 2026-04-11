@@ -1,34 +1,44 @@
 {
   "radars": [
     {
-      "id": "e8aa8659-7570-4121-a989-47e42a3dd9a1",
-      "latitude": -35.007622,
-      "longitude": 138.559621,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
+      "id": "272d74b2-856c-4c60-9f4a-5821598b43d1",
+      "latitude": -34.70051,
+      "longitude": 138.710246,
+      "street": "Blair Park Dr",
+      "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T06:32:03Z"
+      "timestamp": "2026-04-11T08:00:23Z",
+      "reported_at": "2026-04-11T07:38:52Z"
     },
     {
-      "id": "b1897d4c-a5fc-48d3-8aa1-805b1324b951",
-      "latitude": -34.892758,
-      "longitude": 138.660383,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "f44a89f2-964a-48ec-a5f0-4642321eb5a8",
+      "latitude": -35.030401,
+      "longitude": 138.560397,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T03:14:58Z"
+      "timestamp": "2026-04-11T08:00:23Z",
+      "reported_at": "2026-04-11T07:42:58Z"
     },
     {
-      "id": "99e413e7-5253-4a48-be7f-ae4a725f92f1",
-      "latitude": -34.99307,
-      "longitude": 138.568645,
-      "street": "Daws Rd",
-      "city": "Edwardstown",
+      "id": "f491f6ef-0282-46a5-a149-21d39f710be2",
+      "latitude": -34.911023,
+      "longitude": 138.658128,
+      "street": "Glynburn Rd",
+      "city": "St. Morris",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T07:22:12Z"
+      "timestamp": "2026-04-11T08:00:23Z",
+      "reported_at": "2026-04-11T07:48:58Z"
+    },
+    {
+      "id": "a9196a35-13ae-4f9e-b871-f9ac25395203",
+      "latitude": -34.876935,
+      "longitude": 138.551146,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2026-04-11T08:00:23Z",
+      "reported_at": "2026-04-11T07:33:59Z"
     },
     {
       "id": "2ec4dc20-f982-4e09-aab4-1a657ece0005",
@@ -37,18 +47,18 @@
       "street": "Jeffcott St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
+      "timestamp": "2026-04-11T08:00:23Z",
       "reported_at": "2026-04-11T06:47:34Z"
     },
     {
-      "id": "83eacf09-adc3-4b63-be9c-8cf97f5d5af9",
-      "latitude": -34.990116,
-      "longitude": 138.606396,
-      "street": "Springbank Rd",
-      "city": "Clapham",
+      "id": "270970a7-9efb-4006-9432-22e7e53b0c4f",
+      "latitude": -34.763568,
+      "longitude": 138.63795,
+      "street": "Winzor St",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T05:59:36Z"
+      "timestamp": "2026-04-11T08:00:23Z",
+      "reported_at": "2026-04-11T07:25:52Z"
     },
     {
       "id": "1c1df31c-b905-45fd-b288-2db7501db7ce",
@@ -57,38 +67,18 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
+      "timestamp": "2026-04-11T08:00:23Z",
       "reported_at": "2026-04-11T03:55:40Z"
     },
     {
-      "id": "d4d3e4fb-2621-4cb3-9ca7-fd55a5cbf583",
-      "latitude": -34.844807,
-      "longitude": 138.670875,
-      "street": "Unknown Street",
-      "city": "Valley View",
-      "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T07:04:05Z"
-    },
-    {
-      "id": "9640e109-4437-4d69-86c0-68a5de93acd3",
-      "latitude": -34.788843,
-      "longitude": 138.617688,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T07:14:42Z"
-    },
-    {
-      "id": "a84c1439-07cd-4e8d-8bcc-083293c0d83a",
-      "latitude": -34.803091,
-      "longitude": 138.636955,
+      "id": "e2ed5f68-6b2c-49e4-b7ae-5f0a6a1d9004",
+      "latitude": -34.768765,
+      "longitude": 138.667397,
       "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-11T07:30:25Z",
-      "reported_at": "2026-04-11T07:20:32Z"
+      "timestamp": "2026-04-11T08:00:23Z",
+      "reported_at": "2026-04-11T07:39:57Z"
     }
   ]
 }
