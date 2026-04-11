@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "6e7abeae-f379-4051-9bc9-2274a42083e2",
-      "latitude": -34.924425,
-      "longitude": 138.594118,
-      "street": "Light Sq",
+      "id": "2a906912-98a5-4b5b-bdc7-dd03ef471805",
+      "latitude": -35.126539,
+      "longitude": 138.518966,
+      "street": "Flaxmill Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-11T15:00:24Z",
+      "reported_at": "2026-04-11T14:47:51Z"
+    },
+    {
+      "id": "9f1e8d0a-5d0f-4406-b625-e8bac37901af",
+      "latitude": -34.918758,
+      "longitude": 138.599115,
+      "street": "King William Rd",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-11T14:30:22Z",
-      "reported_at": "2026-04-11T13:52:22Z"
-    },
-    {
-      "id": "179ee226-2163-461b-823d-798503abd13c",
-      "latitude": -34.990196,
-      "longitude": 138.604766,
-      "street": "Springbank Rd",
-      "city": "Clapham",
-      "type": "mobile",
-      "timestamp": "2026-04-11T14:30:22Z",
-      "reported_at": "2026-04-11T11:51:32Z"
-    },
-    {
-      "id": "ec4114ef-eff5-4df2-aa02-a32f611b404e",
-      "latitude": -34.817832,
-      "longitude": 138.561859,
-      "street": "M2 - North-South Mwy",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-11T14:30:22Z",
-      "reported_at": "2026-04-11T13:48:01Z"
+      "timestamp": "2026-04-11T15:00:24Z",
+      "reported_at": "2026-04-11T14:45:25Z"
     }
   ]
 }
