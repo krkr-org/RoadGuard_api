@@ -1,34 +1,14 @@
 {
   "radars": [
     {
-      "id": "7693b4f1-07db-452f-a80a-15f0bfc552c1",
-      "latitude": -34.893331,
-      "longitude": 138.659636,
-      "street": "Hectorville Rd",
-      "city": "Hectorville",
+      "id": "4b7d1be4-4c1c-4ab3-a9bc-cf377ef855a2",
+      "latitude": -35.073646,
+      "longitude": 138.584973,
+      "street": "Taylors Rd West",
+      "city": "Aberfoyle Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-10T22:33:08Z"
-    },
-    {
-      "id": "f5a9cb17-c717-4850-9a1b-d3dc96365529",
-      "latitude": -34.908493,
-      "longitude": 138.609853,
-      "street": "Bundeys Rd",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-10T22:18:24Z"
-    },
-    {
-      "id": "c27b5b51-7284-4225-b2ca-86f8eb737d0c",
-      "latitude": -34.889002,
-      "longitude": 138.642901,
-      "street": "Briar Rd",
-      "city": "Felixstow",
-      "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-10T23:07:33Z"
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-11T01:00:59Z"
     },
     {
       "id": "95ea4b67-a4a2-4afa-94fb-1496decb1164",
@@ -37,18 +17,38 @@
       "street": "Walkerville Tce",
       "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
+      "timestamp": "2026-04-11T01:30:23Z",
       "reported_at": "2026-04-10T23:01:35Z"
     },
     {
-      "id": "065acfa2-7e22-439c-b628-f34d7dc3f744",
-      "latitude": -34.732533,
-      "longitude": 138.604493,
-      "street": "Helps Rd",
-      "city": "Burton",
+      "id": "63e811a7-7050-49bf-b9dd-1cd8b19132b0",
+      "latitude": -34.888827,
+      "longitude": 138.642772,
+      "street": "Briar Rd",
+      "city": "Felixstow",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-11T00:35:16Z"
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-10T23:36:37Z"
+    },
+    {
+      "id": "f5a9cb17-c717-4850-9a1b-d3dc96365529",
+      "latitude": -34.908493,
+      "longitude": 138.609853,
+      "street": "Bundeys Rd",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-10T22:18:24Z"
+    },
+    {
+      "id": "7693b4f1-07db-452f-a80a-15f0bfc552c1",
+      "latitude": -34.893331,
+      "longitude": 138.659636,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-10T22:33:08Z"
     },
     {
       "id": "df3b3321-f678-4482-a47b-c8c475a7c390",
@@ -57,48 +57,48 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
+      "timestamp": "2026-04-11T01:30:23Z",
       "reported_at": "2026-04-10T22:48:41Z"
     },
     {
-      "id": "05d3d369-a225-4096-b08e-24dc50d5dddb",
-      "latitude": -35.029238,
-      "longitude": 138.541579,
-      "street": "Seacombe Rd",
-      "city": "Dover Gardens",
+      "id": "fee40ef5-8f76-4eab-b3e8-b4d989d848b9",
+      "latitude": -34.741636,
+      "longitude": 138.657577,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-10T23:51:09Z"
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-11T01:27:32Z"
     },
     {
-      "id": "8bceb097-f920-43d8-a6f5-9702769b6e31",
-      "latitude": -34.803537,
-      "longitude": 138.501478,
-      "street": "A16 - Victoria Rd",
-      "city": "Taperoo",
+      "id": "02eab74b-87b1-42e6-89c4-d35b983b0f15",
+      "latitude": -34.932637,
+      "longitude": 138.552083,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Brooklyn Park",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-11T00:05:40Z"
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-11T01:14:59Z"
     },
     {
-      "id": "5797206f-8d84-47df-ae89-6cc4e1e68e9b",
-      "latitude": -34.960672,
-      "longitude": 138.572427,
-      "street": "A2 - South Rd",
-      "city": "Glandore",
+      "id": "44bccb94-b0e4-4406-9e6a-269d54008203",
+      "latitude": -34.859338,
+      "longitude": 138.583114,
+      "street": "A22 - Churchill Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-11T00:55:14Z"
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-11T01:11:06Z"
     },
     {
-      "id": "fbdc1643-c506-40df-928d-f867eefdb6a1",
-      "latitude": -34.827259,
-      "longitude": 138.704092,
-      "street": "A10 - North East Rd",
-      "city": "St. Agnes",
+      "id": "95eded14-a37a-4e57-b16c-4f695fb2054d",
+      "latitude": -35.091192,
+      "longitude": 138.526343,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-11T01:00:22Z",
-      "reported_at": "2026-04-11T00:21:36Z"
+      "timestamp": "2026-04-11T01:30:23Z",
+      "reported_at": "2026-04-11T01:16:15Z"
     }
   ]
 }
