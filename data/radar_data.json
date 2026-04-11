@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "5accd116-c58d-4e73-80ce-46c7f197f60d",
-      "latitude": -34.676217,
-      "longitude": 138.69523,
-      "street": "Myall Av",
-      "city": "Munno Para",
+      "id": "fa6428fd-5d4e-41fd-b46c-e4cb52840c8d",
+      "latitude": -34.979223,
+      "longitude": 138.564813,
+      "street": "Towers Tce",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-11T06:00:22Z",
-      "reported_at": "2026-04-11T01:38:05Z"
+      "timestamp": "2026-04-11T06:30:22Z",
+      "reported_at": "2026-04-11T05:51:21Z"
     },
     {
       "id": "b1897d4c-a5fc-48d3-8aa1-805b1324b951",
@@ -17,28 +17,8 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-11T06:00:22Z",
+      "timestamp": "2026-04-11T06:30:22Z",
       "reported_at": "2026-04-11T03:14:58Z"
-    },
-    {
-      "id": "39cec6ca-f9b8-40b3-b944-acf1cf7d2568",
-      "latitude": -35.007999,
-      "longitude": 138.561747,
-      "street": "Alawoona Av",
-      "city": "Mitchell Park",
-      "type": "mobile",
-      "timestamp": "2026-04-11T06:00:22Z",
-      "reported_at": "2026-04-11T05:40:28Z"
-    },
-    {
-      "id": "217cec2a-95de-47db-ab55-072f3380247f",
-      "latitude": -34.992398,
-      "longitude": 138.582891,
-      "street": "Daws Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-04-11T06:00:22Z",
-      "reported_at": "2026-04-11T03:57:15Z"
     },
     {
       "id": "83eacf09-adc3-4b63-be9c-8cf97f5d5af9",
@@ -47,8 +27,18 @@
       "street": "Springbank Rd",
       "city": "Clapham",
       "type": "mobile",
-      "timestamp": "2026-04-11T06:00:22Z",
+      "timestamp": "2026-04-11T06:30:22Z",
       "reported_at": "2026-04-11T05:59:36Z"
+    },
+    {
+      "id": "54901b1c-69d6-4650-aeec-5e7d6d1bb0c1",
+      "latitude": -34.990369,
+      "longitude": 138.601282,
+      "street": "Springbank Rd",
+      "city": "Colonel Light Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-11T06:30:22Z",
+      "reported_at": "2026-04-11T06:07:30Z"
     },
     {
       "id": "1c1df31c-b905-45fd-b288-2db7501db7ce",
@@ -57,8 +47,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-11T06:00:22Z",
+      "timestamp": "2026-04-11T06:30:22Z",
       "reported_at": "2026-04-11T03:55:40Z"
+    },
+    {
+      "id": "df93c996-640c-40e7-b4e8-537b0e8cf175",
+      "latitude": -34.835668,
+      "longitude": 138.680557,
+      "street": "A10 - North East Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-04-11T06:30:22Z",
+      "reported_at": "2026-04-11T06:21:29Z"
+    },
+    {
+      "id": "644cab78-afe1-4596-a44b-514450a771d8",
+      "latitude": -34.776278,
+      "longitude": 138.594971,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-11T06:30:22Z",
+      "reported_at": "2026-04-11T06:12:25Z"
     }
   ]
 }
