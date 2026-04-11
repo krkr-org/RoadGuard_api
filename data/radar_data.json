@@ -1,24 +1,64 @@
 {
   "radars": [
     {
+      "id": "6d83d784-06d2-4d52-a31e-0841644e98a0",
+      "latitude": -34.892848,
+      "longitude": 138.660266,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
+      "type": "mobile",
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T22:56:42Z"
+    },
+    {
       "id": "f5a9cb17-c717-4850-9a1b-d3dc96365529",
       "latitude": -34.908493,
       "longitude": 138.609853,
       "street": "Bundeys Rd",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-10T23:00:22Z",
+      "timestamp": "2026-04-11T00:00:23Z",
       "reported_at": "2026-04-10T22:18:24Z"
     },
     {
-      "id": "bcf13d27-9ab8-4a71-b902-3165863afdca",
-      "latitude": -35.005632,
-      "longitude": 138.54,
-      "street": "Morphett Rd",
-      "city": "Warradale",
+      "id": "95ea4b67-a4a2-4afa-94fb-1496decb1164",
+      "latitude": -34.899124,
+      "longitude": 138.612344,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-04-10T23:00:22Z",
-      "reported_at": "2026-04-10T22:13:31Z"
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T23:01:35Z"
+    },
+    {
+      "id": "63e811a7-7050-49bf-b9dd-1cd8b19132b0",
+      "latitude": -34.888827,
+      "longitude": 138.642772,
+      "street": "Briar Rd",
+      "city": "Felixstow",
+      "type": "mobile",
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T23:36:37Z"
+    },
+    {
+      "id": "0437acb7-df1a-4b28-8774-e687747d8879",
+      "latitude": -35.030008,
+      "longitude": 138.528442,
+      "street": "Seacombe Rd",
+      "city": "South Brighton",
+      "type": "mobile",
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T23:48:44Z"
+    },
+    {
+      "id": "05d3d369-a225-4096-b08e-24dc50d5dddb",
+      "latitude": -35.029238,
+      "longitude": 138.541579,
+      "street": "Seacombe Rd",
+      "city": "Dover Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T23:51:09Z"
     },
     {
       "id": "df3b3321-f678-4482-a47b-c8c475a7c390",
@@ -27,18 +67,28 @@
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-10T23:00:22Z",
+      "timestamp": "2026-04-11T00:00:23Z",
       "reported_at": "2026-04-10T22:48:41Z"
     },
     {
-      "id": "05b2545a-f121-4970-8274-b35f0d91b0df",
-      "latitude": -34.836034,
-      "longitude": 138.501746,
-      "street": "A16 - Victoria Rd",
-      "city": "Birkenhead",
+      "id": "55f52491-b919-43fc-b942-e0d35dfb68e7",
+      "latitude": -35.030684,
+      "longitude": 138.523941,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
       "type": "mobile",
-      "timestamp": "2026-04-10T23:00:22Z",
-      "reported_at": "2026-04-10T22:42:01Z"
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T23:48:07Z"
+    },
+    {
+      "id": "477b2234-ca8d-44d0-ab4a-5fd72be4d755",
+      "latitude": -34.994094,
+      "longitude": 138.69734,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Crafers West",
+      "type": "mobile",
+      "timestamp": "2026-04-11T00:00:23Z",
+      "reported_at": "2026-04-10T23:47:21Z"
     }
   ]
 }
