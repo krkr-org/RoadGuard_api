@@ -1,34 +1,24 @@
 {
   "radars": [
     {
-      "id": "d1b32572-8321-4ad2-9ee7-da9590f8c4b8",
-      "latitude": -34.912205,
-      "longitude": 138.536769,
-      "street": "Hartley Rd",
-      "city": "Flinders Park",
-      "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
-      "reported_at": "2026-04-11T23:28:03Z"
-    },
-    {
       "id": "0024c584-6aac-4027-a2c6-46d8fb533487",
       "latitude": -34.909177,
       "longitude": 138.492371,
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
+      "timestamp": "2026-04-12T03:30:25Z",
       "reported_at": "2026-04-12T00:31:29Z"
     },
     {
-      "id": "3c6bbdad-93ba-42a7-991a-25d3707fb853",
-      "latitude": -34.956984,
-      "longitude": 138.50916,
+      "id": "d05d6827-6cee-42a7-b45b-a7b5baac0682",
+      "latitude": -34.956644,
+      "longitude": 138.509021,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
-      "reported_at": "2026-04-11T22:41:52Z"
+      "timestamp": "2026-04-12T03:30:25Z",
+      "reported_at": "2026-04-11T21:39:03Z"
     },
     {
       "id": "2bd484ea-ada7-45d6-9c41-3d84da48c37c",
@@ -37,38 +27,28 @@
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
+      "timestamp": "2026-04-12T03:30:25Z",
       "reported_at": "2026-04-12T01:27:46Z"
     },
     {
-      "id": "c37cb9bc-85bb-41b6-a4a0-6562526df6d2",
-      "latitude": -34.899896,
-      "longitude": 138.617513,
-      "street": "Stephen Tce",
-      "city": "Walkerville",
+      "id": "d45ef55d-9709-4407-b267-0f1604bae4c0",
+      "latitude": -35.054749,
+      "longitude": 138.538196,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
-      "reported_at": "2026-04-12T02:32:22Z"
+      "timestamp": "2026-04-12T03:30:25Z",
+      "reported_at": "2026-04-12T03:23:49Z"
     },
     {
-      "id": "3031d19b-0386-4579-8fa2-0c717fd45b9e",
-      "latitude": -34.919898,
-      "longitude": 138.623046,
+      "id": "b8912ad2-3004-4856-a0c1-7abe34f4914d",
+      "latitude": -34.917958,
+      "longitude": 138.622902,
       "street": "Fullarton Rd",
       "city": "Kent Town",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
-      "reported_at": "2026-04-12T02:12:25Z"
-    },
-    {
-      "id": "c84802ba-6bf0-4cc6-a552-05eba22cd718",
-      "latitude": -34.964235,
-      "longitude": 138.516579,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
-      "reported_at": "2026-04-12T01:57:43Z"
+      "timestamp": "2026-04-12T03:30:25Z",
+      "reported_at": "2026-04-12T02:39:46Z"
     },
     {
       "id": "0376f709-9a55-4c3e-9920-2aa0f6fb8700",
@@ -77,8 +57,18 @@
       "street": "A5 - Anzac Hwy",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
+      "timestamp": "2026-04-12T03:30:25Z",
       "reported_at": "2026-04-12T02:39:25Z"
+    },
+    {
+      "id": "c84802ba-6bf0-4cc6-a552-05eba22cd718",
+      "latitude": -34.964235,
+      "longitude": 138.516579,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-12T03:30:25Z",
+      "reported_at": "2026-04-12T01:57:43Z"
     },
     {
       "id": "6e93becf-59cf-468b-8967-4959676204f6",
@@ -87,7 +77,7 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-12T03:00:24Z",
+      "timestamp": "2026-04-12T03:30:25Z",
       "reported_at": "2026-04-12T02:22:12Z"
     }
   ]
