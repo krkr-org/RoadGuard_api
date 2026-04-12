@@ -1,24 +1,54 @@
 {
   "radars": [
     {
+      "id": "c2462ba1-69b7-4f5a-ad44-a2b71fc54dcc",
+      "latitude": -34.912216,
+      "longitude": 138.536412,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T03:54:46Z"
+    },
+    {
       "id": "2bd484ea-ada7-45d6-9c41-3d84da48c37c",
       "latitude": -34.895395,
       "longitude": 138.527288,
       "street": "Balcombe Av",
       "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-12T05:00:22Z",
+      "timestamp": "2026-04-12T05:30:22Z",
       "reported_at": "2026-04-12T01:27:46Z"
     },
     {
-      "id": "0a45fab4-a162-486f-8f1e-59510aadcef7",
-      "latitude": -34.950151,
-      "longitude": 138.553727,
-      "street": "A14 - Marion Rd",
-      "city": "North Plympton",
+      "id": "78e4e9af-7f46-4985-8311-04faf055ea2b",
+      "latitude": -35.052345,
+      "longitude": 138.592445,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-04-12T05:00:22Z",
-      "reported_at": "2026-04-12T04:51:52Z"
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:05:55Z"
+    },
+    {
+      "id": "3c665cb4-03bd-4b03-9c27-57509c2833fb",
+      "latitude": -34.697131,
+      "longitude": 138.666374,
+      "street": "Peachey Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:18:45Z"
+    },
+    {
+      "id": "8aadf727-a10a-4d1c-991d-c3d187fe54a6",
+      "latitude": -34.955092,
+      "longitude": 138.643565,
+      "street": "A17 - Portrush Rd",
+      "city": "Glenunga",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:23:48Z"
     },
     {
       "id": "c84802ba-6bf0-4cc6-a552-05eba22cd718",
@@ -27,8 +57,28 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-12T05:00:22Z",
+      "timestamp": "2026-04-12T05:30:22Z",
       "reported_at": "2026-04-12T01:57:43Z"
+    },
+    {
+      "id": "feeb19cc-0448-4841-82e9-8f1b952c430c",
+      "latitude": -34.948893,
+      "longitude": 138.553759,
+      "street": "A14 - Marion Rd",
+      "city": "Netley",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:02:56Z"
+    },
+    {
+      "id": "1e960d70-4f43-486f-a3ea-a44a48994f94",
+      "latitude": -34.962596,
+      "longitude": 138.644174,
+      "street": "A17 - Portrush Rd",
+      "city": "Mount Osmond",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:23:02Z"
     },
     {
       "id": "c65ebec6-0617-4337-b6fa-539b2307cfbb",
@@ -37,8 +87,18 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-12T05:00:22Z",
+      "timestamp": "2026-04-12T05:30:22Z",
       "reported_at": "2026-04-12T04:31:13Z"
+    },
+    {
+      "id": "e3876814-0377-4892-b962-42f8aef3391b",
+      "latitude": -34.963605,
+      "longitude": 138.643336,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:22:36Z"
     },
     {
       "id": "6e93becf-59cf-468b-8967-4959676204f6",
@@ -47,8 +107,28 @@
       "street": "B31 - Gorge Rd",
       "city": "Paracombe",
       "type": "mobile",
-      "timestamp": "2026-04-12T05:00:22Z",
+      "timestamp": "2026-04-12T05:30:22Z",
       "reported_at": "2026-04-12T02:22:12Z"
+    },
+    {
+      "id": "91c70ea8-9a9e-40eb-a7f2-cc62c81116de",
+      "latitude": -34.773258,
+      "longitude": 138.663089,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury Plain",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:24:56Z"
+    },
+    {
+      "id": "04980fc5-b017-40b6-8b35-5ccd1ee8cd16",
+      "latitude": -34.82007,
+      "longitude": 138.589409,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-04-12T05:30:22Z",
+      "reported_at": "2026-04-12T05:21:25Z"
     }
   ]
 }
