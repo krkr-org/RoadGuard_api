@@ -1,34 +1,24 @@
 {
   "radars": [
     {
+      "id": "45f59be0-6b6e-4602-80c1-af0724b6d7c8",
+      "latitude": -34.891176,
+      "longitude": 138.550396,
+      "street": "A7 - Port Rd",
+      "city": "Beverley",
+      "type": "mobile",
+      "timestamp": "2026-04-12T14:00:27Z",
+      "reported_at": "2026-04-12T13:49:12Z"
+    },
+    {
       "id": "b777408a-80b6-46e2-ac8d-ab01cf4643f5",
       "latitude": -34.820766,
       "longitude": 138.726865,
       "street": "A10 - North East Rd",
       "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-04-12T13:30:23Z",
+      "timestamp": "2026-04-12T14:00:27Z",
       "reported_at": "2026-04-12T11:05:47Z"
-    },
-    {
-      "id": "86b1831c-88e4-4fbf-a298-b5493652b5e7",
-      "latitude": -34.797049,
-      "longitude": 138.655766,
-      "street": "A18 - McIntyre Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-04-12T13:30:23Z",
-      "reported_at": "2026-04-12T07:05:34Z"
-    },
-    {
-      "id": "1d128d3d-464b-441d-b2a2-054010c682da",
-      "latitude": -34.735392,
-      "longitude": 138.577438,
-      "street": "M2 - North-South Mwy",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-04-12T13:30:23Z",
-      "reported_at": "2026-04-12T13:17:26Z"
     }
   ]
 }
