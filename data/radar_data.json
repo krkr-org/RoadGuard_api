@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "99e295c8-3de4-438a-9494-2dcd7dbff058",
+      "latitude": -34.72613,
+      "longitude": 138.635827,
+      "street": "Sturton Rd",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:03:31Z"
+    },
+    {
       "id": "04dcf3dc-60b4-47e4-a7b2-16c68a861bc7",
       "latitude": -34.953563,
       "longitude": 138.559282,
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
+      "timestamp": "2026-04-12T23:30:23Z",
       "reported_at": "2026-04-12T21:59:06Z"
+    },
+    {
+      "id": "6c7e632f-7531-44f2-9988-cbf7f1ab730a",
+      "latitude": -34.961206,
+      "longitude": 138.563432,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:20:28Z"
     },
     {
       "id": "33a8bb3f-ee35-4e50-80db-85f5b3e40d15",
@@ -17,58 +37,78 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
+      "timestamp": "2026-04-12T23:30:23Z",
       "reported_at": "2026-04-12T21:46:11Z"
     },
     {
-      "id": "3e08e38a-6eb7-4f8e-b99e-0d09e8282d76",
-      "latitude": -34.961702,
-      "longitude": 138.56347,
-      "street": "Beckman St",
-      "city": "Plympton",
+      "id": "265e5e6d-5861-4643-b217-22b23149ec2b",
+      "latitude": -34.745302,
+      "longitude": 138.646579,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
-      "reported_at": "2026-04-12T21:56:14Z"
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:21:45Z"
     },
     {
-      "id": "6dc7ee37-9164-464d-8bce-11f091ece3c3",
-      "latitude": -34.880476,
-      "longitude": 138.691493,
-      "street": "Stradbroke Rd",
-      "city": "Newton",
+      "id": "d883c300-f24a-465e-b2bf-a89a82c9cbb4",
+      "latitude": -34.877082,
+      "longitude": 138.484826,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
-      "reported_at": "2026-04-12T22:46:13Z"
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:22:45Z"
     },
     {
-      "id": "6dbdd2c0-72e6-4bf1-844b-e2aae2f98c4a",
-      "latitude": -35.010839,
-      "longitude": 138.583628,
+      "id": "008089ba-af28-445c-bd9e-1405d901b242",
+      "latitude": -35.010982,
+      "longitude": 138.580907,
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
-      "reported_at": "2026-04-12T22:51:59Z"
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:08:35Z"
     },
     {
-      "id": "638571cd-e6db-445d-b729-4249813d4675",
-      "latitude": -35.02731,
-      "longitude": 138.599812,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "bf72ffac-cf52-48f2-9dee-74c1cfe6049e",
+      "latitude": -34.699515,
+      "longitude": 138.660685,
+      "street": "Womma Rd",
+      "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
-      "reported_at": "2026-04-12T22:51:28Z"
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:15:02Z"
     },
     {
-      "id": "817c5371-120b-46b2-9e06-b47001533362",
-      "latitude": -34.942074,
-      "longitude": 138.586136,
+      "id": "b65e91e9-fc3a-493b-a069-ecebbc94c8cb",
+      "latitude": -34.980265,
+      "longitude": 138.622436,
+      "street": "B28 - Old Belair Rd",
+      "city": "Mitcham",
+      "type": "mobile",
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:20:55Z"
+    },
+    {
+      "id": "5da80517-40c4-4aa2-8c38-ea56a40a8fe5",
+      "latitude": -34.941821,
+      "longitude": 138.587164,
       "street": "R1 - Greenhill Rd (City Ring Route)",
       "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-04-12T23:00:23Z",
-      "reported_at": "2026-04-12T22:22:58Z"
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:02:01Z"
+    },
+    {
+      "id": "e3f13770-236a-49e0-877f-4d9109bd7303",
+      "latitude": -34.971384,
+      "longitude": 138.543263,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-04-12T23:30:23Z",
+      "reported_at": "2026-04-12T23:13:04Z"
     }
   ]
 }
