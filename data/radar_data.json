@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "4c55a895-d044-4096-9daf-acbd6e243156",
-      "latitude": -34.828318,
-      "longitude": 138.65313,
-      "street": "Fairfax Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T21:34:05Z"
-    },
-    {
       "id": "d05d6827-6cee-42a7-b45b-a7b5baac0682",
       "latitude": -34.956722,
       "longitude": 138.509064,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
+      "timestamp": "2026-04-12T00:00:23Z",
       "reported_at": "2026-04-11T21:39:03Z"
+    },
+    {
+      "id": "4c55a895-d044-4096-9daf-acbd6e243156",
+      "latitude": -34.828318,
+      "longitude": 138.65313,
+      "street": "Fairfax Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-12T00:00:23Z",
+      "reported_at": "2026-04-11T21:34:05Z"
     },
     {
       "id": "8954afb7-ac3b-469f-b757-51855e5dd477",
@@ -27,48 +27,8 @@
       "street": "Henley Beach Rd",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
+      "timestamp": "2026-04-12T00:00:23Z",
       "reported_at": "2026-04-11T23:16:40Z"
-    },
-    {
-      "id": "66939b6b-6592-498b-8a97-74d3f1103392",
-      "latitude": -35.040617,
-      "longitude": 138.569049,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T23:01:07Z"
-    },
-    {
-      "id": "495cd614-a1fc-4698-bdba-571a6a9da750",
-      "latitude": -34.995255,
-      "longitude": 138.592892,
-      "street": "Goodwood Rd",
-      "city": "Pasadena",
-      "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T22:55:55Z"
-    },
-    {
-      "id": "1589cbac-8d96-4cf5-a328-89615ead63aa",
-      "latitude": -34.979606,
-      "longitude": 138.520241,
-      "street": "A15 - Brighton Rd",
-      "city": "Glenelg",
-      "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T22:53:47Z"
-    },
-    {
-      "id": "4b73614d-ca41-4209-858e-c94a197bbcd3",
-      "latitude": -34.965379,
-      "longitude": 138.516655,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T21:52:41Z"
     },
     {
       "id": "a00f0cea-3f95-4b5e-bdc8-9e52af17f027",
@@ -77,28 +37,28 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
+      "timestamp": "2026-04-12T00:00:23Z",
       "reported_at": "2026-04-11T21:30:44Z"
     },
     {
-      "id": "7e46f520-4514-44ee-8f07-eb4022db944f",
-      "latitude": -35.046755,
-      "longitude": 138.54996,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "4b73614d-ca41-4209-858e-c94a197bbcd3",
+      "latitude": -34.965379,
+      "longitude": 138.516655,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T23:15:06Z"
+      "timestamp": "2026-04-12T00:00:23Z",
+      "reported_at": "2026-04-11T21:52:41Z"
     },
     {
-      "id": "c94f1341-c7c0-48db-a8dc-533234c64356",
-      "latitude": -35.049062,
-      "longitude": 138.547995,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
+      "id": "0da71cec-e2e1-4922-9a76-45e12141c7b7",
+      "latitude": -34.940719,
+      "longitude": 138.608823,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Parkside",
       "type": "mobile",
-      "timestamp": "2026-04-11T23:30:22Z",
-      "reported_at": "2026-04-11T23:19:19Z"
+      "timestamp": "2026-04-12T00:00:23Z",
+      "reported_at": "2026-04-11T23:43:34Z"
     }
   ]
 }
