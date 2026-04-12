@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "43101231-a78d-4f85-8586-9affab99d42d",
-      "latitude": -34.955684,
-      "longitude": 138.515783,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-12T13:00:22Z",
-      "reported_at": "2026-04-12T12:38:12Z"
-    },
-    {
       "id": "b777408a-80b6-46e2-ac8d-ab01cf4643f5",
       "latitude": -34.820766,
       "longitude": 138.726865,
       "street": "A10 - North East Rd",
       "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-04-12T13:00:22Z",
+      "timestamp": "2026-04-12T13:30:23Z",
       "reported_at": "2026-04-12T11:05:47Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-12T13:00:22Z",
+      "timestamp": "2026-04-12T13:30:23Z",
       "reported_at": "2026-04-12T07:05:34Z"
+    },
+    {
+      "id": "1d128d3d-464b-441d-b2a2-054010c682da",
+      "latitude": -34.735392,
+      "longitude": 138.577438,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-04-12T13:30:23Z",
+      "reported_at": "2026-04-12T13:17:26Z"
     }
   ]
 }
