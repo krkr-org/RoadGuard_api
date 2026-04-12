@@ -1,84 +1,74 @@
 {
   "radars": [
     {
-      "id": "3c6bbdad-93ba-42a7-991a-25d3707fb853",
-      "latitude": -34.956984,
-      "longitude": 138.50916,
+      "id": "5685bd18-3aeb-4620-95c2-e99b17683890",
+      "latitude": -34.912238,
+      "longitude": 138.535938,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-11T23:13:10Z"
+    },
+    {
+      "id": "0024c584-6aac-4027-a2c6-46d8fb533487",
+      "latitude": -34.909177,
+      "longitude": 138.492371,
+      "street": "Military Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-12T00:31:29Z"
+    },
+    {
+      "id": "d05d6827-6cee-42a7-b45b-a7b5baac0682",
+      "latitude": -34.956644,
+      "longitude": 138.509021,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-11T22:41:52Z"
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-11T21:39:03Z"
     },
     {
-      "id": "4c55a895-d044-4096-9daf-acbd6e243156",
-      "latitude": -34.828318,
-      "longitude": 138.65313,
-      "street": "Fairfax Rd",
-      "city": "Ingle Farm",
+      "id": "2bd484ea-ada7-45d6-9c41-3d84da48c37c",
+      "latitude": -34.895395,
+      "longitude": 138.527288,
+      "street": "Balcombe Av",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-11T21:34:05Z"
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-12T01:27:46Z"
     },
     {
-      "id": "10386462-dfc8-4349-aedb-3fc44a3882ec",
-      "latitude": -34.926181,
-      "longitude": 138.529968,
-      "street": "Henley Beach Rd",
-      "city": "Lockleys",
+      "id": "ef1c3c13-8d03-45eb-b24b-2a1f786ec24d",
+      "latitude": -34.941575,
+      "longitude": 138.580822,
+      "street": "R1 - Richmond Rd (City Ring Route)",
+      "city": "Keswick Terminal",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-11T23:48:28Z"
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-12T02:09:06Z"
     },
     {
-      "id": "f16a9b41-5544-4699-98de-d3068f37b9ba",
-      "latitude": -35.033716,
-      "longitude": 138.563425,
-      "street": "Flagstaff Rd",
-      "city": "Flagstaff Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-12T00:00:48Z"
-    },
-    {
-      "id": "0fdeeda8-bde7-4b06-ac68-3e1ea2c8deee",
-      "latitude": -34.897393,
-      "longitude": 138.639297,
-      "street": "A17 - Portrush Rd",
-      "city": "Payneham",
-      "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-12T00:06:57Z"
-    },
-    {
-      "id": "58ae9ad5-d73a-45de-a5c4-99d3add08cee",
-      "latitude": -34.966872,
-      "longitude": 138.516893,
+      "id": "6a6480be-ca09-4aea-85eb-86dee09c9a7f",
+      "latitude": -34.965143,
+      "longitude": 138.516645,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-12T00:20:58Z"
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-12T01:36:32Z"
     },
     {
-      "id": "598670e2-cb09-4af1-b312-faa99187f7e2",
-      "latitude": -35.009604,
-      "longitude": 138.558287,
-      "street": "A14 - Marion Rd",
-      "city": "Mitchell Park",
+      "id": "8161b858-7e3e-4b38-adda-2a0f6ed0125e",
+      "latitude": -34.836962,
+      "longitude": 138.525615,
+      "street": "A9 - Port River Exp",
+      "city": "Gillman",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-12T00:19:24Z"
-    },
-    {
-      "id": "c32d925e-52b8-4617-bc51-bfdb1d1cfb8c",
-      "latitude": -35.039176,
-      "longitude": 138.556782,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-04-12T00:30:22Z",
-      "reported_at": "2026-04-12T00:19:41Z"
+      "timestamp": "2026-04-12T02:30:22Z",
+      "reported_at": "2026-04-12T02:00:22Z"
     }
   ]
 }
