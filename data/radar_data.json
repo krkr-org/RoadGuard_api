@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "8f2df03b-956f-4e62-8142-f6b4140a498b",
+      "latitude": -35.05257,
+      "longitude": 138.54622,
+      "street": "to M2 - Southern Exp to City",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-12T09:30:22Z",
+      "reported_at": "2026-04-12T08:53:21Z"
+    },
+    {
       "id": "44f20e06-cd20-4d22-b27a-88fe644f97c2",
       "latitude": -34.787637,
       "longitude": 138.655114,
       "street": "Northbri Av",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
+      "timestamp": "2026-04-12T09:30:22Z",
       "reported_at": "2026-04-12T06:46:40Z"
     },
     {
@@ -17,38 +27,28 @@
       "street": "Seaborough Rd",
       "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
+      "timestamp": "2026-04-12T09:30:22Z",
       "reported_at": "2026-04-12T08:03:12Z"
     },
     {
-      "id": "d14cf3c8-b4aa-417f-9f7b-759936c40559",
-      "latitude": -34.859638,
-      "longitude": 138.502912,
-      "street": "Frederick Rd",
-      "city": "West Lakes",
+      "id": "f5100612-c1b4-4676-90fa-58e5bd8201d5",
+      "latitude": -34.914128,
+      "longitude": 138.645994,
+      "street": "Unknown Street",
+      "city": "Trinity Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
-      "reported_at": "2026-04-12T07:06:16Z"
+      "timestamp": "2026-04-12T09:30:22Z",
+      "reported_at": "2026-04-12T09:05:14Z"
     },
     {
-      "id": "ab2a1e96-7531-4bb3-b2e4-7e2d5b4a2d80",
-      "latitude": -35.054384,
-      "longitude": 138.546699,
-      "street": "Majors Rd",
-      "city": "O'Halloran Hill",
+      "id": "730ef4d7-4574-467b-818e-6109611c0b3d",
+      "latitude": -34.875391,
+      "longitude": 138.564853,
+      "street": "Regency Rd",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
-      "reported_at": "2026-04-12T08:49:06Z"
-    },
-    {
-      "id": "b99d7ade-502a-46dd-acbc-2bd56146f34b",
-      "latitude": -34.961953,
-      "longitude": 138.558091,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
-      "reported_at": "2026-04-12T08:22:34Z"
+      "timestamp": "2026-04-12T09:30:22Z",
+      "reported_at": "2026-04-12T09:17:16Z"
     },
     {
       "id": "6fd61ea8-c3ea-41b6-8dbf-7fc5de822ae8",
@@ -57,38 +57,18 @@
       "street": "A10 - North East Rd",
       "city": "Tea Tree Gully",
       "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
+      "timestamp": "2026-04-12T09:30:22Z",
       "reported_at": "2026-04-12T06:21:07Z"
     },
     {
-      "id": "49e249a8-46cd-4d33-94f0-d8557ba73816",
-      "latitude": -35.00869,
-      "longitude": 138.698558,
-      "street": "B28 - Upper Sturt Rd",
-      "city": "Crafers West",
-      "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
-      "reported_at": "2026-04-12T08:36:45Z"
-    },
-    {
-      "id": "3e65a8ee-5442-4772-b40a-722780fbf7bc",
-      "latitude": -34.78881,
-      "longitude": 138.696854,
-      "street": "A11 - The Grove Way",
-      "city": "Golden Grove",
-      "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
-      "reported_at": "2026-04-12T08:30:32Z"
-    },
-    {
-      "id": "7451a990-c39c-4e35-9bb6-cd31bba5cf10",
-      "latitude": -34.796228,
-      "longitude": 138.654235,
+      "id": "86b1831c-88e4-4fbf-a298-b5493652b5e7",
+      "latitude": -34.797049,
+      "longitude": 138.655766,
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-12T09:00:23Z",
-      "reported_at": "2026-04-12T06:49:45Z"
+      "timestamp": "2026-04-12T09:30:22Z",
+      "reported_at": "2026-04-12T07:05:34Z"
     }
   ]
 }
