@@ -1,24 +1,94 @@
 {
   "radars": [
     {
+      "id": "04dcf3dc-60b4-47e4-a7b2-16c68a861bc7",
+      "latitude": -34.953563,
+      "longitude": 138.559282,
+      "street": "Birdwood Tce",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T21:59:06Z"
+    },
+    {
+      "id": "3e08e38a-6eb7-4f8e-b99e-0d09e8282d76",
+      "latitude": -34.961702,
+      "longitude": 138.56347,
+      "street": "Beckman St",
+      "city": "Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T21:56:14Z"
+    },
+    {
+      "id": "33a8bb3f-ee35-4e50-80db-85f5b3e40d15",
+      "latitude": -34.949487,
+      "longitude": 138.566518,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T21:46:11Z"
+    },
+    {
+      "id": "7c31a6aa-3555-4f40-9df5-3a1abb41cae5",
+      "latitude": -35.08167,
+      "longitude": 138.571127,
+      "street": "Chandlers Hill Rd",
+      "city": "Happy Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T22:17:14Z"
+    },
+    {
       "id": "88678919-780c-4e69-b75d-22ea2a657c24",
       "latitude": -34.992521,
       "longitude": 138.582718,
       "street": "Daws Rd",
       "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T22:00:23Z",
+      "timestamp": "2026-04-12T22:30:22Z",
       "reported_at": "2026-04-12T21:30:21Z"
     },
     {
-      "id": "9e3e3044-ad80-4708-aabb-46856d022517",
-      "latitude": -34.833523,
-      "longitude": 138.551187,
-      "street": "A9 - Port River Exp",
+      "id": "09d8b488-5843-45eb-8e67-d73383aea56f",
+      "latitude": -34.806471,
+      "longitude": 138.701809,
+      "street": "Grenfell Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T22:03:18Z"
+    },
+    {
+      "id": "32a91e01-664c-468f-b546-84a621b68ef9",
+      "latitude": -34.849953,
+      "longitude": 138.561049,
+      "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-12T22:00:23Z",
-      "reported_at": "2026-04-12T21:53:33Z"
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T22:21:00Z"
+    },
+    {
+      "id": "85c32166-1604-4874-9686-e3fefed058d9",
+      "latitude": -34.877959,
+      "longitude": 138.619567,
+      "street": "A17 - Hampstead Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T22:19:48Z"
+    },
+    {
+      "id": "817c5371-120b-46b2-9e06-b47001533362",
+      "latitude": -34.942074,
+      "longitude": 138.586136,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
+      "type": "mobile",
+      "timestamp": "2026-04-12T22:30:22Z",
+      "reported_at": "2026-04-12T22:22:58Z"
     }
   ]
 }
