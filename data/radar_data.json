@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "d05d6827-6cee-42a7-b45b-a7b5baac0682",
-      "latitude": -34.956722,
-      "longitude": 138.509064,
+      "id": "3c6bbdad-93ba-42a7-991a-25d3707fb853",
+      "latitude": -34.956984,
+      "longitude": 138.50916,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:00:23Z",
-      "reported_at": "2026-04-11T21:39:03Z"
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-11T22:41:52Z"
     },
     {
       "id": "4c55a895-d044-4096-9daf-acbd6e243156",
@@ -17,48 +17,68 @@
       "street": "Fairfax Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:00:23Z",
+      "timestamp": "2026-04-12T00:30:22Z",
       "reported_at": "2026-04-11T21:34:05Z"
     },
     {
-      "id": "8954afb7-ac3b-469f-b757-51855e5dd477",
-      "latitude": -34.925976,
-      "longitude": 138.540998,
+      "id": "10386462-dfc8-4349-aedb-3fc44a3882ec",
+      "latitude": -34.926181,
+      "longitude": 138.529968,
       "street": "Henley Beach Rd",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:00:23Z",
-      "reported_at": "2026-04-11T23:16:40Z"
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-11T23:48:28Z"
     },
     {
-      "id": "a00f0cea-3f95-4b5e-bdc8-9e52af17f027",
-      "latitude": -34.794815,
-      "longitude": 138.612344,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
+      "id": "f16a9b41-5544-4699-98de-d3068f37b9ba",
+      "latitude": -35.033716,
+      "longitude": 138.563425,
+      "street": "Flagstaff Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:00:23Z",
-      "reported_at": "2026-04-11T21:30:44Z"
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-12T00:00:48Z"
     },
     {
-      "id": "4b73614d-ca41-4209-858e-c94a197bbcd3",
-      "latitude": -34.965379,
-      "longitude": 138.516655,
+      "id": "0fdeeda8-bde7-4b06-ac68-3e1ea2c8deee",
+      "latitude": -34.897393,
+      "longitude": 138.639297,
+      "street": "A17 - Portrush Rd",
+      "city": "Payneham",
+      "type": "mobile",
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-12T00:06:57Z"
+    },
+    {
+      "id": "58ae9ad5-d73a-45de-a5c4-99d3add08cee",
+      "latitude": -34.966872,
+      "longitude": 138.516893,
       "street": "A15 - Tapleys Hill Rd",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:00:23Z",
-      "reported_at": "2026-04-11T21:52:41Z"
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-12T00:20:58Z"
     },
     {
-      "id": "0da71cec-e2e1-4922-9a76-45e12141c7b7",
-      "latitude": -34.940719,
-      "longitude": 138.608823,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Parkside",
+      "id": "598670e2-cb09-4af1-b312-faa99187f7e2",
+      "latitude": -35.009604,
+      "longitude": 138.558287,
+      "street": "A14 - Marion Rd",
+      "city": "Mitchell Park",
       "type": "mobile",
-      "timestamp": "2026-04-12T00:00:23Z",
-      "reported_at": "2026-04-11T23:43:34Z"
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-12T00:19:24Z"
+    },
+    {
+      "id": "c32d925e-52b8-4617-bc51-bfdb1d1cfb8c",
+      "latitude": -35.039176,
+      "longitude": 138.556782,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-12T00:30:22Z",
+      "reported_at": "2026-04-12T00:19:41Z"
     }
   ]
 }
