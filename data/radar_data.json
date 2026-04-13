@@ -1,54 +1,54 @@
 {
   "radars": [
     {
-      "id": "2295b71c-3f9c-4fa6-bac4-0f9f742dd5a7",
-      "latitude": -35.100639,
-      "longitude": 138.532758,
-      "street": "Edinburgh Cr",
-      "city": "Old Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
-      "reported_at": "2026-04-13T01:07:19Z"
-    },
-    {
       "id": "0f83fe05-c8b3-4018-bd74-f9d671cc0f55",
       "latitude": -34.998984,
       "longitude": 138.582561,
       "street": "Cashel St",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
+      "timestamp": "2026-04-13T05:30:22Z",
       "reported_at": "2026-04-13T02:56:11Z"
     },
     {
-      "id": "61e130e4-fa22-427e-b01a-548697e97ec9",
-      "latitude": -34.949546,
-      "longitude": 138.565318,
+      "id": "f3d2f3a6-5b0a-4ef9-8340-fed5fa0f1b12",
+      "latitude": -34.949448,
+      "longitude": 138.567305,
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
-      "reported_at": "2026-04-12T23:17:40Z"
+      "timestamp": "2026-04-13T05:30:22Z",
+      "reported_at": "2026-04-13T03:12:31Z"
     },
     {
-      "id": "6c7e632f-7531-44f2-9988-cbf7f1ab730a",
-      "latitude": -34.961492,
-      "longitude": 138.563454,
-      "street": "Beckman St",
-      "city": "Plympton",
+      "id": "4db53c47-2d16-4294-8876-7f8f2544844b",
+      "latitude": -34.710977,
+      "longitude": 138.690261,
+      "street": "Midway Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
-      "reported_at": "2026-04-12T23:20:28Z"
+      "timestamp": "2026-04-13T05:30:22Z",
+      "reported_at": "2026-04-13T04:00:28Z"
     },
     {
-      "id": "7f4614d5-389f-497d-b55a-bd7c9b2c3001",
-      "latitude": -34.864662,
-      "longitude": 138.531143,
-      "street": "Torrens Rd",
-      "city": "Hendon",
+      "id": "5f606804-88a7-4aca-827b-33e7f3242946",
+      "latitude": -34.893453,
+      "longitude": 138.605462,
+      "street": "Nottage Tce",
+      "city": "Medindie Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
-      "reported_at": "2026-04-13T04:38:36Z"
+      "timestamp": "2026-04-13T05:30:22Z",
+      "reported_at": "2026-04-13T05:10:04Z"
+    },
+    {
+      "id": "7c5c7420-0daa-4b64-baeb-0aec8a6d503d",
+      "latitude": -34.971319,
+      "longitude": 138.543647,
+      "street": "A5 - Anzac Hwy",
+      "city": "Camden Park",
+      "type": "mobile",
+      "timestamp": "2026-04-13T05:30:22Z",
+      "reported_at": "2026-04-13T05:02:15Z"
     },
     {
       "id": "9555c6a4-af58-4d93-a9d2-be23f70bd3ea",
@@ -57,18 +57,8 @@
       "street": "B27 - Magill Rd",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
+      "timestamp": "2026-04-13T05:30:22Z",
       "reported_at": "2026-04-13T04:47:27Z"
-    },
-    {
-      "id": "fefe1757-b93c-460f-b92e-d54c63b5bdec",
-      "latitude": -34.971248,
-      "longitude": 138.543476,
-      "street": "A5 - Anzac Hwy",
-      "city": "Camden Park",
-      "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
-      "reported_at": "2026-04-13T02:35:10Z"
     },
     {
       "id": "903be361-7608-4a94-99eb-49981f44a75b",
@@ -77,8 +67,18 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-13T05:00:23Z",
+      "timestamp": "2026-04-13T05:30:22Z",
       "reported_at": "2026-04-13T04:53:12Z"
+    },
+    {
+      "id": "7a32fe98-f446-46b5-a110-d4556d74c574",
+      "latitude": -34.834621,
+      "longitude": 138.531466,
+      "street": "A9 - Port River Exp",
+      "city": "Wingfield",
+      "type": "mobile",
+      "timestamp": "2026-04-13T05:30:22Z",
+      "reported_at": "2026-04-13T05:27:40Z"
     }
   ]
 }
