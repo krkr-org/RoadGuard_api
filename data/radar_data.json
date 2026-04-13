@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "6c28ac82-f413-4a4a-99c7-45e9b1401ec1",
+      "latitude": -34.920529,
+      "longitude": 138.650233,
+      "street": "The Parade",
+      "city": "Kensington Park",
+      "type": "mobile",
+      "timestamp": "2026-04-13T11:00:28Z",
+      "reported_at": "2026-04-13T10:39:36Z"
+    },
+    {
       "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
       "latitude": -34.828201,
       "longitude": 138.610035,
       "street": "Diagonal Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
+      "timestamp": "2026-04-13T11:00:28Z",
       "reported_at": "2026-04-13T06:15:54Z"
-    },
-    {
-      "id": "ecdc0465-9e0b-47da-bb74-8a523ee03af7",
-      "latitude": -34.856632,
-      "longitude": 138.638943,
-      "street": "Sir Ross Smith Bvd",
-      "city": "Oakden",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T07:23:17Z"
     },
     {
       "id": "97fce2c9-8abf-4791-bb60-29332fc65ccc",
@@ -27,18 +27,18 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
+      "timestamp": "2026-04-13T11:00:28Z",
       "reported_at": "2026-04-13T06:40:27Z"
     },
     {
-      "id": "d7686c9b-0cfb-43e1-adbf-1607b739d947",
-      "latitude": -34.868029,
-      "longitude": 138.653387,
-      "street": "Pitman Rd",
-      "city": "Windsor Gardens",
+      "id": "ecdc0465-9e0b-47da-bb74-8a523ee03af7",
+      "latitude": -34.856632,
+      "longitude": 138.638943,
+      "street": "Sir Ross Smith Bvd",
+      "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T06:39:06Z"
+      "timestamp": "2026-04-13T11:00:28Z",
+      "reported_at": "2026-04-13T07:23:17Z"
     },
     {
       "id": "3412c153-065a-4fc0-b852-6896898690ca",
@@ -47,7 +47,7 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
+      "timestamp": "2026-04-13T11:00:28Z",
       "reported_at": "2026-04-13T07:05:56Z"
     },
     {
@@ -57,28 +57,8 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
+      "timestamp": "2026-04-13T11:00:28Z",
       "reported_at": "2026-04-13T08:55:44Z"
-    },
-    {
-      "id": "17243bcd-72de-4449-86ef-f6632bd1ce6d",
-      "latitude": -34.731259,
-      "longitude": 138.663154,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T10:03:43Z"
-    },
-    {
-      "id": "a32fa442-52df-4792-8cde-9df8a6df6ea1",
-      "latitude": -34.824586,
-      "longitude": 138.636002,
-      "street": "Montague Rd",
-      "city": "Ingle Farm",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T10:13:41Z"
     },
     {
       "id": "af9e4179-5ae6-414d-ab78-562db3d9ac09",
@@ -87,38 +67,28 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
+      "timestamp": "2026-04-13T11:00:28Z",
       "reported_at": "2026-04-13T08:42:02Z"
     },
     {
-      "id": "91740ade-3e3b-44a4-a20a-e5cebbdee1fe",
-      "latitude": -34.820488,
-      "longitude": 138.621427,
-      "street": "A20 - Main North Rd",
-      "city": "Pooraka",
+      "id": "a269b4ab-1e00-48f3-9d3a-34f7c5b84495",
+      "latitude": -35.082889,
+      "longitude": 138.546649,
+      "street": "Kenihans Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T10:01:21Z"
+      "timestamp": "2026-04-13T11:00:28Z",
+      "reported_at": "2026-04-13T10:45:40Z"
     },
     {
-      "id": "c6a3df19-770d-485c-914e-0fd38aeacf0f",
-      "latitude": -35.035124,
-      "longitude": 138.524285,
-      "street": "A15 - Brighton Rd",
-      "city": "Seacliff",
+      "id": "3c17c7cc-2ea6-46ef-9167-b3aa99f811a8",
+      "latitude": -34.921438,
+      "longitude": 138.600289,
+      "street": "North Tce",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T09:57:44Z"
-    },
-    {
-      "id": "2189418e-d6c9-4480-be67-bdbc22a2b4f7",
-      "latitude": -34.787999,
-      "longitude": 138.596134,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Globe Derby Park",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:30:23Z",
-      "reported_at": "2026-04-13T09:32:15Z"
+      "timestamp": "2026-04-13T11:00:28Z",
+      "reported_at": "2026-04-13T10:05:53Z"
     }
   ]
 }
