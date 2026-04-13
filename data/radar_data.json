@@ -7,7 +7,7 @@
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
+      "timestamp": "2026-04-13T00:30:23Z",
       "reported_at": "2026-04-12T21:59:06Z"
     },
     {
@@ -17,18 +17,18 @@
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
+      "timestamp": "2026-04-13T00:30:23Z",
       "reported_at": "2026-04-12T21:46:11Z"
     },
     {
-      "id": "6c7e632f-7531-44f2-9988-cbf7f1ab730a",
-      "latitude": -34.961206,
-      "longitude": 138.563432,
+      "id": "4df5ee0d-33d6-4e2c-9fe9-7f6a9e6396ac",
+      "latitude": -34.962362,
+      "longitude": 138.563521,
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
-      "reported_at": "2026-04-12T23:20:28Z"
+      "timestamp": "2026-04-13T00:30:23Z",
+      "reported_at": "2026-04-12T22:11:49Z"
     },
     {
       "id": "008089ba-af28-445c-bd9e-1405d901b242",
@@ -37,8 +37,18 @@
       "street": "Ayliffes Rd",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
+      "timestamp": "2026-04-13T00:30:23Z",
       "reported_at": "2026-04-12T23:08:35Z"
+    },
+    {
+      "id": "7c50ac08-0340-485f-b21e-ec38b234392b",
+      "latitude": -34.877009,
+      "longitude": 138.571355,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-04-13T00:30:23Z",
+      "reported_at": "2026-04-12T23:45:51Z"
     },
     {
       "id": "c6344cea-fe92-40e3-aa9d-203cdc88dfdb",
@@ -47,38 +57,38 @@
       "street": "Unknown Street",
       "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
+      "timestamp": "2026-04-13T00:30:23Z",
       "reported_at": "2026-04-12T22:55:32Z"
     },
     {
-      "id": "424f0883-4531-4e3e-be04-505397e0f6e9",
-      "latitude": -35.101158,
-      "longitude": 138.531125,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
-      "reported_at": "2026-04-12T23:35:25Z"
-    },
-    {
-      "id": "eeb4d65c-c207-4518-a03f-654d244fe299",
-      "latitude": -34.848328,
-      "longitude": 138.600129,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
-      "reported_at": "2026-04-12T23:26:56Z"
-    },
-    {
       "id": "e3f13770-236a-49e0-877f-4d9109bd7303",
-      "latitude": -34.971384,
-      "longitude": 138.543263,
+      "latitude": -34.971396,
+      "longitude": 138.543244,
       "street": "A5 - Anzac Hwy",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T00:00:22Z",
+      "timestamp": "2026-04-13T00:30:23Z",
       "reported_at": "2026-04-12T23:13:04Z"
+    },
+    {
+      "id": "b721dafa-b154-4c84-8beb-c501468e5ab5",
+      "latitude": -35.045398,
+      "longitude": 138.550999,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-13T00:30:23Z",
+      "reported_at": "2026-04-13T00:24:48Z"
+    },
+    {
+      "id": "43746ec2-dd48-4a0a-bfdb-10588beaa2b7",
+      "latitude": -35.049225,
+      "longitude": 138.547899,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-13T00:30:23Z",
+      "reported_at": "2026-04-13T00:24:42Z"
     }
   ]
 }
