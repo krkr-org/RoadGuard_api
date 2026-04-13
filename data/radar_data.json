@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "9645447f-a76f-41b9-80ca-3f34c1b75c66",
-      "latitude": -34.977161,
-      "longitude": 138.557006,
-      "street": "Thomas St",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T09:42:15Z"
-    },
-    {
-      "id": "ddefebd3-c1a1-44b4-a374-7ca9d8edb073",
-      "latitude": -34.828915,
-      "longitude": 138.608271,
+      "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
+      "latitude": -34.828201,
+      "longitude": 138.610035,
       "street": "Diagonal Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T06:29:23Z"
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T06:15:54Z"
     },
     {
-      "id": "981190a1-0ceb-4a9f-813d-342a3b144c55",
-      "latitude": -34.85733,
-      "longitude": 138.637699,
+      "id": "ecdc0465-9e0b-47da-bb74-8a523ee03af7",
+      "latitude": -34.856632,
+      "longitude": 138.638943,
       "street": "Sir Ross Smith Bvd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T06:26:20Z"
-    },
-    {
-      "id": "d7686c9b-0cfb-43e1-adbf-1607b739d947",
-      "latitude": -34.868029,
-      "longitude": 138.653387,
-      "street": "Pitman Rd",
-      "city": "Windsor Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T06:39:06Z"
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T07:23:17Z"
     },
     {
       "id": "97fce2c9-8abf-4791-bb60-29332fc65ccc",
@@ -47,28 +27,28 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
+      "timestamp": "2026-04-13T10:30:23Z",
       "reported_at": "2026-04-13T06:40:27Z"
     },
     {
-      "id": "af9e4179-5ae6-414d-ab78-562db3d9ac09",
-      "latitude": -34.737549,
-      "longitude": 138.616051,
-      "street": "Bolivar Rd",
-      "city": "Burton",
+      "id": "d7686c9b-0cfb-43e1-adbf-1607b739d947",
+      "latitude": -34.868029,
+      "longitude": 138.653387,
+      "street": "Pitman Rd",
+      "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T08:42:02Z"
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T06:39:06Z"
     },
     {
-      "id": "8ade5178-0f1f-49a6-aec9-78df521f2ad5",
-      "latitude": -34.836728,
-      "longitude": 138.621268,
+      "id": "3412c153-065a-4fc0-b852-6896898690ca",
+      "latitude": -34.836663,
+      "longitude": 138.621135,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T06:00:26Z"
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T07:05:56Z"
     },
     {
       "id": "5713c90b-3932-4e77-9b39-3a1629970cef",
@@ -77,28 +57,58 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
+      "timestamp": "2026-04-13T10:30:23Z",
       "reported_at": "2026-04-13T08:55:44Z"
     },
     {
-      "id": "f780e588-68d2-411e-afea-6af2a1df0249",
-      "latitude": -35.103304,
-      "longitude": 138.529082,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
+      "id": "17243bcd-72de-4449-86ef-f6632bd1ce6d",
+      "latitude": -34.731259,
+      "longitude": 138.663154,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T09:32:26Z"
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T10:03:43Z"
     },
     {
-      "id": "08e85815-4e33-4841-bf81-315cdc1267c7",
-      "latitude": -34.816159,
-      "longitude": 138.624992,
-      "street": "A20 - Main North Rd",
-      "city": "Mawson Lakes",
+      "id": "a32fa442-52df-4792-8cde-9df8a6df6ea1",
+      "latitude": -34.824586,
+      "longitude": 138.636002,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T09:55:44Z"
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T10:13:41Z"
+    },
+    {
+      "id": "af9e4179-5ae6-414d-ab78-562db3d9ac09",
+      "latitude": -34.737549,
+      "longitude": 138.616051,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T08:42:02Z"
+    },
+    {
+      "id": "91740ade-3e3b-44a4-a20a-e5cebbdee1fe",
+      "latitude": -34.820488,
+      "longitude": 138.621427,
+      "street": "A20 - Main North Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T10:01:21Z"
+    },
+    {
+      "id": "c6a3df19-770d-485c-914e-0fd38aeacf0f",
+      "latitude": -35.035124,
+      "longitude": 138.524285,
+      "street": "A15 - Brighton Rd",
+      "city": "Seacliff",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:30:23Z",
+      "reported_at": "2026-04-13T09:57:44Z"
     },
     {
       "id": "2189418e-d6c9-4480-be67-bdbc22a2b4f7",
@@ -107,18 +117,8 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Globe Derby Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
+      "timestamp": "2026-04-13T10:30:23Z",
       "reported_at": "2026-04-13T09:32:15Z"
-    },
-    {
-      "id": "1baa42b3-274c-4df2-a5bf-92012584f3fe",
-      "latitude": -34.839448,
-      "longitude": 138.519868,
-      "street": "A9 - Port River Exp",
-      "city": "Port Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-13T10:00:23Z",
-      "reported_at": "2026-04-13T09:32:23Z"
     }
   ]
 }
