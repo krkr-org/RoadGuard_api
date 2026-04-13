@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
-      "latitude": -34.827979,
-      "longitude": 138.610586,
+      "id": "9645447f-a76f-41b9-80ca-3f34c1b75c66",
+      "latitude": -34.977161,
+      "longitude": 138.557006,
+      "street": "Thomas St",
+      "city": "South Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T09:42:15Z"
+    },
+    {
+      "id": "ddefebd3-c1a1-44b4-a374-7ca9d8edb073",
+      "latitude": -34.828915,
+      "longitude": 138.608271,
       "street": "Diagonal Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
-      "reported_at": "2026-04-13T06:15:54Z"
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T06:29:23Z"
     },
     {
       "id": "981190a1-0ceb-4a9f-813d-342a3b144c55",
@@ -17,7 +27,7 @@
       "street": "Sir Ross Smith Bvd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
+      "timestamp": "2026-04-13T10:00:23Z",
       "reported_at": "2026-04-13T06:26:20Z"
     },
     {
@@ -27,7 +37,7 @@
       "street": "Pitman Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
+      "timestamp": "2026-04-13T10:00:23Z",
       "reported_at": "2026-04-13T06:39:06Z"
     },
     {
@@ -37,18 +47,8 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
+      "timestamp": "2026-04-13T10:00:23Z",
       "reported_at": "2026-04-13T06:40:27Z"
-    },
-    {
-      "id": "8ade5178-0f1f-49a6-aec9-78df521f2ad5",
-      "latitude": -34.836728,
-      "longitude": 138.621268,
-      "street": "South Tce",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
-      "reported_at": "2026-04-13T06:00:26Z"
     },
     {
       "id": "af9e4179-5ae6-414d-ab78-562db3d9ac09",
@@ -57,8 +57,18 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
+      "timestamp": "2026-04-13T10:00:23Z",
       "reported_at": "2026-04-13T08:42:02Z"
+    },
+    {
+      "id": "8ade5178-0f1f-49a6-aec9-78df521f2ad5",
+      "latitude": -34.836728,
+      "longitude": 138.621268,
+      "street": "South Tce",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T06:00:26Z"
     },
     {
       "id": "5713c90b-3932-4e77-9b39-3a1629970cef",
@@ -67,18 +77,48 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
+      "timestamp": "2026-04-13T10:00:23Z",
       "reported_at": "2026-04-13T08:55:44Z"
     },
     {
-      "id": "24d39c1d-0462-459b-99d8-cc3b5594dbc4",
-      "latitude": -34.885636,
-      "longitude": 138.584884,
-      "street": "A22 - Churchill Rd",
-      "city": "Prospect",
+      "id": "f780e588-68d2-411e-afea-6af2a1df0249",
+      "latitude": -35.103304,
+      "longitude": 138.529082,
+      "street": "A13 - Main South Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:30:22Z",
-      "reported_at": "2026-04-13T09:07:33Z"
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T09:32:26Z"
+    },
+    {
+      "id": "08e85815-4e33-4841-bf81-315cdc1267c7",
+      "latitude": -34.816159,
+      "longitude": 138.624992,
+      "street": "A20 - Main North Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T09:55:44Z"
+    },
+    {
+      "id": "2189418e-d6c9-4480-be67-bdbc22a2b4f7",
+      "latitude": -34.787999,
+      "longitude": 138.596134,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Globe Derby Park",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T09:32:15Z"
+    },
+    {
+      "id": "1baa42b3-274c-4df2-a5bf-92012584f3fe",
+      "latitude": -34.839448,
+      "longitude": 138.519868,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-13T10:00:23Z",
+      "reported_at": "2026-04-13T09:32:23Z"
     }
   ]
 }
