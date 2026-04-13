@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "2295b71c-3f9c-4fa6-bac4-0f9f742dd5a7",
+      "latitude": -35.100639,
+      "longitude": 138.532758,
+      "street": "Edinburgh Cr",
+      "city": "Old Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-13T03:00:23Z",
+      "reported_at": "2026-04-13T01:07:19Z"
+    },
+    {
       "id": "04dcf3dc-60b4-47e4-a7b2-16c68a861bc7",
       "latitude": -34.953563,
       "longitude": 138.559282,
       "street": "Birdwood Tce",
       "city": "North Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
+      "timestamp": "2026-04-13T03:00:23Z",
       "reported_at": "2026-04-12T21:59:06Z"
     },
     {
@@ -17,48 +27,58 @@
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
+      "timestamp": "2026-04-13T03:00:23Z",
       "reported_at": "2026-04-13T00:29:57Z"
     },
     {
+      "id": "61e130e4-fa22-427e-b01a-548697e97ec9",
+      "latitude": -34.949546,
+      "longitude": 138.565318,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
+      "type": "mobile",
+      "timestamp": "2026-04-13T03:00:23Z",
+      "reported_at": "2026-04-12T23:17:40Z"
+    },
+    {
       "id": "6c7e632f-7531-44f2-9988-cbf7f1ab730a",
-      "latitude": -34.961766,
-      "longitude": 138.563475,
+      "latitude": -34.961492,
+      "longitude": 138.563454,
       "street": "Beckman St",
       "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
+      "timestamp": "2026-04-13T03:00:23Z",
       "reported_at": "2026-04-12T23:20:28Z"
     },
     {
-      "id": "c6344cea-fe92-40e3-aa9d-203cdc88dfdb",
-      "latitude": -35.011083,
-      "longitude": 138.582674,
-      "street": "Unknown Street",
-      "city": "St. Marys",
+      "id": "d1947894-5775-4297-8201-37708220d788",
+      "latitude": -34.8428,
+      "longitude": 138.688821,
+      "street": "Reservoir Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
-      "reported_at": "2026-04-12T22:55:32Z"
+      "timestamp": "2026-04-13T03:00:23Z",
+      "reported_at": "2026-04-13T02:41:28Z"
     },
     {
-      "id": "fb2cf5ae-53f7-413c-8f6f-d8c4350ceaff",
-      "latitude": -34.921669,
-      "longitude": 138.595343,
-      "street": "North Tce",
-      "city": "Adelaide",
+      "id": "499a9627-ed81-44b9-9439-5804a6319ff6",
+      "latitude": -34.894738,
+      "longitude": 138.642482,
+      "street": "O.G Rd",
+      "city": "Marden",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
-      "reported_at": "2026-04-13T01:53:43Z"
+      "timestamp": "2026-04-13T03:00:23Z",
+      "reported_at": "2026-04-13T02:55:47Z"
     },
     {
-      "id": "7c8ee00b-3833-46e0-b9fa-98742d320b64",
-      "latitude": -34.971952,
-      "longitude": 138.542649,
+      "id": "fefe1757-b93c-460f-b92e-d54c63b5bdec",
+      "latitude": -34.971661,
+      "longitude": 138.542825,
       "street": "A5 - Anzac Hwy",
       "city": "Camden Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
-      "reported_at": "2026-04-12T23:17:44Z"
+      "timestamp": "2026-04-13T03:00:23Z",
+      "reported_at": "2026-04-13T02:35:10Z"
     },
     {
       "id": "e32aac62-bad3-4fe7-9862-28350db7496f",
@@ -67,7 +87,7 @@
       "street": "M2 - Southern Exp",
       "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-04-13T02:30:23Z",
+      "timestamp": "2026-04-13T03:00:23Z",
       "reported_at": "2026-04-13T00:35:45Z"
     }
   ]
