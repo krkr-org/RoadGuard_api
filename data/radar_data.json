@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "ff99f37e-ed78-4ea2-bc67-f733a036a2a8",
-      "latitude": -34.798092,
-      "longitude": 138.65694,
-      "street": "Bridge Rd",
-      "city": "Para Hills West",
-      "type": "mobile",
-      "timestamp": "2026-04-13T21:30:26Z",
-      "reported_at": "2026-04-13T21:10:34Z"
-    },
-    {
       "id": "ff57aa9e-ec73-4410-841b-817419e53eaf",
       "latitude": -34.934119,
       "longitude": 138.517923,
       "street": "Unknown Street",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-04-13T21:30:26Z",
+      "timestamp": "2026-04-13T22:00:24Z",
       "reported_at": "2026-04-13T21:19:13Z"
+    },
+    {
+      "id": "979460d8-4301-4cea-8dfb-da425916265a",
+      "latitude": -34.924737,
+      "longitude": 138.618857,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-13T22:00:24Z",
+      "reported_at": "2026-04-13T21:51:32Z"
+    },
+    {
+      "id": "d6510d70-b138-45e7-993a-3a9bb62843f7",
+      "latitude": -35.017293,
+      "longitude": 138.786647,
+      "street": "B34 - Mount Barker Rd",
+      "city": "Verdun",
+      "type": "mobile",
+      "timestamp": "2026-04-13T22:00:24Z",
+      "reported_at": "2026-04-13T21:35:53Z"
     }
   ]
 }
