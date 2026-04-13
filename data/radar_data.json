@@ -1,13 +1,43 @@
 {
   "radars": [
     {
+      "id": "86a7e7f8-6187-4cee-82bc-d25899ce9a50",
+      "latitude": -34.932065,
+      "longitude": 138.589213,
+      "street": "Wright St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-13T22:30:22Z",
+      "reported_at": "2026-04-13T22:14:09Z"
+    },
+    {
+      "id": "a6abd545-f42c-447f-be5d-da49ede36412",
+      "latitude": -34.930696,
+      "longitude": 138.588639,
+      "street": "Gouger St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-13T22:30:22Z",
+      "reported_at": "2026-04-13T22:06:59Z"
+    },
+    {
+      "id": "21fc27d8-a224-44d0-b1d4-cac15dc0f883",
+      "latitude": -35.116316,
+      "longitude": 138.511868,
+      "street": "O'Sullivan Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-13T22:30:22Z",
+      "reported_at": "2026-04-13T22:01:32Z"
+    },
+    {
       "id": "ff57aa9e-ec73-4410-841b-817419e53eaf",
       "latitude": -34.934119,
       "longitude": 138.517923,
       "street": "Unknown Street",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-04-13T22:00:24Z",
+      "timestamp": "2026-04-13T22:30:22Z",
       "reported_at": "2026-04-13T21:19:13Z"
     },
     {
@@ -17,18 +47,18 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-13T22:00:24Z",
+      "timestamp": "2026-04-13T22:30:22Z",
       "reported_at": "2026-04-13T21:51:32Z"
     },
     {
-      "id": "d6510d70-b138-45e7-993a-3a9bb62843f7",
-      "latitude": -35.017293,
-      "longitude": 138.786647,
-      "street": "B34 - Mount Barker Rd",
-      "city": "Verdun",
+      "id": "07344aeb-60dd-4e77-9c90-c25578b58995",
+      "latitude": -34.732751,
+      "longitude": 138.576604,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-13T22:00:24Z",
-      "reported_at": "2026-04-13T21:35:53Z"
+      "timestamp": "2026-04-13T22:30:22Z",
+      "reported_at": "2026-04-13T22:18:06Z"
     }
   ]
 }
