@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "0f83fe05-c8b3-4018-bd74-f9d671cc0f55",
-      "latitude": -34.998984,
-      "longitude": 138.582561,
-      "street": "Cashel St",
-      "city": "St. Marys",
+      "id": "3dff6e28-b6c5-4f41-a1a4-dddbc0464fee",
+      "latitude": -34.864407,
+      "longitude": 138.559245,
+      "street": "Durham Tce",
+      "city": "Ferryden Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
-      "reported_at": "2026-04-13T02:56:11Z"
-    },
-    {
-      "id": "f3d2f3a6-5b0a-4ef9-8340-fed5fa0f1b12",
-      "latitude": -34.949448,
-      "longitude": 138.567305,
-      "street": "Tennyson St",
-      "city": "Kurralta Park",
-      "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
-      "reported_at": "2026-04-13T03:12:31Z"
+      "timestamp": "2026-04-13T07:30:22Z",
+      "reported_at": "2026-04-13T07:05:53Z"
     },
     {
       "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
@@ -27,28 +17,28 @@
       "street": "Diagonal Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
+      "timestamp": "2026-04-13T07:30:22Z",
       "reported_at": "2026-04-13T06:15:54Z"
     },
     {
-      "id": "be541645-1fe7-495d-82ed-f5aaa936ad18",
-      "latitude": -34.857205,
-      "longitude": 138.637859,
-      "street": "Sir Ross Smith Bvd",
-      "city": "Oakden",
+      "id": "062fa24a-eeaa-4733-9931-633bb4ab2872",
+      "latitude": -34.949567,
+      "longitude": 138.564908,
+      "street": "Tennyson St",
+      "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
-      "reported_at": "2026-04-13T06:39:26Z"
+      "timestamp": "2026-04-13T07:30:22Z",
+      "reported_at": "2026-04-13T03:56:43Z"
     },
     {
-      "id": "4db53c47-2d16-4294-8876-7f8f2544844b",
-      "latitude": -34.710977,
-      "longitude": 138.690261,
-      "street": "Midway Rd",
-      "city": "Elizabeth Park",
+      "id": "48c9372d-f445-4056-bc77-8b51a44f1e0f",
+      "latitude": -34.867184,
+      "longitude": 138.653929,
+      "street": "Pitman Rd",
+      "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
-      "reported_at": "2026-04-13T04:00:28Z"
+      "timestamp": "2026-04-13T07:30:22Z",
+      "reported_at": "2026-04-13T06:37:37Z"
     },
     {
       "id": "546e68b8-b2cc-4b79-a97c-25c161792e63",
@@ -57,18 +47,28 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
+      "timestamp": "2026-04-13T07:30:22Z",
       "reported_at": "2026-04-13T06:23:25Z"
     },
     {
-      "id": "82ac5031-f6b3-4ceb-8dc5-2dcfb7c691ca",
-      "latitude": -34.766296,
-      "longitude": 138.669307,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury Plain",
+      "id": "63b5283c-b0da-40c8-b862-8b07b6f8ae66",
+      "latitude": -34.92416,
+      "longitude": 138.604573,
+      "street": "Grenfell St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:00:23Z",
-      "reported_at": "2026-04-13T06:31:37Z"
+      "timestamp": "2026-04-13T07:30:22Z",
+      "reported_at": "2026-04-13T07:14:23Z"
+    },
+    {
+      "id": "2053c49d-3a88-41a9-8d62-3c05afb420fb",
+      "latitude": -34.715779,
+      "longitude": 138.576768,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-04-13T07:30:22Z",
+      "reported_at": "2026-04-13T07:20:34Z"
     }
   ]
 }
