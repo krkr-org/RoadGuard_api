@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "ff99f37e-ed78-4ea2-bc67-f733a036a2a8",
+      "latitude": -34.798092,
+      "longitude": 138.65694,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-13T21:30:26Z",
+      "reported_at": "2026-04-13T21:10:34Z"
+    },
+    {
+      "id": "ff57aa9e-ec73-4410-841b-817419e53eaf",
+      "latitude": -34.934119,
+      "longitude": 138.517923,
+      "street": "Unknown Street",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-04-13T21:30:26Z",
+      "reported_at": "2026-04-13T21:19:13Z"
+    }
+  ]
 }
