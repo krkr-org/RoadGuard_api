@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "a43813e4-c422-4af3-886f-5c494aa7cc8b",
-      "latitude": -35.093184,
-      "longitude": 138.554478,
-      "street": "Reynell Rd",
-      "city": "Reynella East",
-      "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
-      "reported_at": "2026-04-13T11:20:05Z"
-    },
-    {
       "id": "ead37f5f-7520-4ca6-a338-3824f6ad53ab",
       "latitude": -34.829946,
       "longitude": 138.641753,
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
+      "timestamp": "2026-04-13T12:00:23Z",
       "reported_at": "2026-04-13T10:53:27Z"
+    },
+    {
+      "id": "34f2981b-3b0e-48a6-aaa1-8159760b9a23",
+      "latitude": -34.874653,
+      "longitude": 138.662184,
+      "street": "Church Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-13T12:00:23Z",
+      "reported_at": "2026-04-13T08:44:18Z"
+    },
+    {
+      "id": "4ca3a2eb-f0da-4cab-a0e8-909e820d8bff",
+      "latitude": -34.833224,
+      "longitude": 138.516226,
+      "street": "Grand Trunkway",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-13T12:00:23Z",
+      "reported_at": "2026-04-13T11:41:33Z"
     },
     {
       "id": "ecdc0465-9e0b-47da-bb74-8a523ee03af7",
@@ -27,18 +37,8 @@
       "street": "Sir Ross Smith Bvd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
+      "timestamp": "2026-04-13T12:00:23Z",
       "reported_at": "2026-04-13T07:23:17Z"
-    },
-    {
-      "id": "d5e9d592-cd0a-4c12-b95a-a2628a3db39e",
-      "latitude": -34.87516,
-      "longitude": 138.663367,
-      "street": "Church Rd",
-      "city": "Paradise",
-      "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
-      "reported_at": "2026-04-13T08:06:37Z"
     },
     {
       "id": "5713c90b-3932-4e77-9b39-3a1629970cef",
@@ -47,28 +47,48 @@
       "street": "Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
+      "timestamp": "2026-04-13T12:00:23Z",
       "reported_at": "2026-04-13T08:55:44Z"
     },
     {
-      "id": "f40c7afa-b367-48c8-bd06-40c98434e209",
-      "latitude": -34.872559,
-      "longitude": 138.618895,
-      "street": "Regency Rd",
-      "city": "Broadview",
+      "id": "0c601090-5fda-4d98-a563-ce93481d6932",
+      "latitude": -34.814297,
+      "longitude": 138.640243,
+      "street": "Maxwell Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
-      "reported_at": "2026-04-13T11:00:39Z"
+      "timestamp": "2026-04-13T12:00:23Z",
+      "reported_at": "2026-04-13T11:32:50Z"
     },
     {
-      "id": "9be12ffb-0caa-4f81-ba9f-56680c9b09de",
-      "latitude": -34.836359,
-      "longitude": 138.620511,
-      "street": "South Tce",
-      "city": "Pooraka",
+      "id": "ff78a51f-336c-4d9e-a687-e0d38f757bd9",
+      "latitude": -34.963893,
+      "longitude": 138.638397,
+      "street": "A3 - Cross Rd",
+      "city": "Myrtle Bank",
       "type": "mobile",
-      "timestamp": "2026-04-13T11:30:25Z",
-      "reported_at": "2026-04-13T09:24:59Z"
+      "timestamp": "2026-04-13T12:00:23Z",
+      "reported_at": "2026-04-13T11:38:05Z"
+    },
+    {
+      "id": "e2ece9c3-e6ba-486f-97e4-edab60472e21",
+      "latitude": -35.052648,
+      "longitude": 138.546414,
+      "street": "M2 - Southern Exp",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-13T12:00:23Z",
+      "reported_at": "2026-04-13T11:32:25Z"
+    },
+    {
+      "id": "04a77fe4-f2f3-4991-bbf9-337596cdeff7",
+      "latitude": -34.897256,
+      "longitude": 138.567313,
+      "street": "M2 - North-South Mwy",
+      "city": "Allenby Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-13T12:00:23Z",
+      "reported_at": "2026-04-13T11:35:29Z"
     }
   ]
 }
