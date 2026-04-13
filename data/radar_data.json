@@ -1,44 +1,64 @@
 {
   "radars": [
     {
-      "id": "3dff6e28-b6c5-4f41-a1a4-dddbc0464fee",
-      "latitude": -34.864407,
-      "longitude": 138.559245,
-      "street": "Durham Tce",
-      "city": "Ferryden Park",
-      "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
-      "reported_at": "2026-04-13T07:05:53Z"
-    },
-    {
-      "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
-      "latitude": -34.827979,
-      "longitude": 138.610586,
-      "street": "Diagonal Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
-      "reported_at": "2026-04-13T06:15:54Z"
-    },
-    {
       "id": "062fa24a-eeaa-4733-9931-633bb4ab2872",
       "latitude": -34.949567,
       "longitude": 138.564908,
       "street": "Tennyson St",
       "city": "Kurralta Park",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
+      "timestamp": "2026-04-13T08:30:22Z",
       "reported_at": "2026-04-13T03:56:43Z"
     },
     {
-      "id": "48c9372d-f445-4056-bc77-8b51a44f1e0f",
-      "latitude": -34.867184,
-      "longitude": 138.653929,
+      "id": "d7686c9b-0cfb-43e1-adbf-1607b739d947",
+      "latitude": -34.868029,
+      "longitude": 138.653387,
       "street": "Pitman Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
-      "reported_at": "2026-04-13T06:37:37Z"
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T06:39:06Z"
+    },
+    {
+      "id": "ddefebd3-c1a1-44b4-a374-7ca9d8edb073",
+      "latitude": -34.828915,
+      "longitude": 138.608271,
+      "street": "Diagonal Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T06:29:23Z"
+    },
+    {
+      "id": "ecdc0465-9e0b-47da-bb74-8a523ee03af7",
+      "latitude": -34.856632,
+      "longitude": 138.638943,
+      "street": "Sir Ross Smith Bvd",
+      "city": "Oakden",
+      "type": "mobile",
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T07:23:17Z"
+    },
+    {
+      "id": "d5e9d592-cd0a-4c12-b95a-a2628a3db39e",
+      "latitude": -34.87516,
+      "longitude": 138.663367,
+      "street": "Church Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T08:06:37Z"
+    },
+    {
+      "id": "97fce2c9-8abf-4791-bb60-29332fc65ccc",
+      "latitude": -34.829802,
+      "longitude": 138.641365,
+      "street": "Beovich Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T06:40:27Z"
     },
     {
       "id": "546e68b8-b2cc-4b79-a97c-25c161792e63",
@@ -47,28 +67,38 @@
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
+      "timestamp": "2026-04-13T08:30:22Z",
       "reported_at": "2026-04-13T06:23:25Z"
     },
     {
-      "id": "63b5283c-b0da-40c8-b862-8b07b6f8ae66",
-      "latitude": -34.92416,
-      "longitude": 138.604573,
-      "street": "Grenfell St",
-      "city": "Adelaide",
+      "id": "9b670cb4-aa70-4614-8616-e57642b4a454",
+      "latitude": -34.806599,
+      "longitude": 138.695217,
+      "street": "Grenfell Rd",
+      "city": "Wynn Vale",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
-      "reported_at": "2026-04-13T07:14:23Z"
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T07:40:09Z"
     },
     {
-      "id": "2053c49d-3a88-41a9-8d62-3c05afb420fb",
-      "latitude": -34.715779,
-      "longitude": 138.576768,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
+      "id": "153ccb2f-94ab-4b84-b352-525244f963b9",
+      "latitude": -34.670727,
+      "longitude": 138.561803,
+      "street": "Old Port Wakefield Rd",
+      "city": "Virginia",
       "type": "mobile",
-      "timestamp": "2026-04-13T07:30:22Z",
-      "reported_at": "2026-04-13T07:20:34Z"
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T08:00:37Z"
+    },
+    {
+      "id": "b7614dbf-bba3-4e0f-9481-60a9d54144a5",
+      "latitude": -34.975688,
+      "longitude": 138.530938,
+      "street": "A5 - Anzac Hwy",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-13T08:30:22Z",
+      "reported_at": "2026-04-13T08:16:45Z"
     }
   ]
 }
