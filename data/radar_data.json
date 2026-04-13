@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
+      "latitude": -34.827979,
+      "longitude": 138.610586,
+      "street": "Diagonal Rd",
+      "city": "Pooraka",
+      "type": "mobile",
+      "timestamp": "2026-04-13T09:30:22Z",
+      "reported_at": "2026-04-13T06:15:54Z"
+    },
+    {
       "id": "981190a1-0ceb-4a9f-813d-342a3b144c55",
       "latitude": -34.85733,
       "longitude": 138.637699,
       "street": "Sir Ross Smith Bvd",
       "city": "Oakden",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
+      "timestamp": "2026-04-13T09:30:22Z",
       "reported_at": "2026-04-13T06:26:20Z"
     },
     {
@@ -17,18 +27,8 @@
       "street": "Pitman Rd",
       "city": "Windsor Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
+      "timestamp": "2026-04-13T09:30:22Z",
       "reported_at": "2026-04-13T06:39:06Z"
-    },
-    {
-      "id": "ae57edd7-4254-48eb-a780-c9de68b143d0",
-      "latitude": -34.827979,
-      "longitude": 138.610586,
-      "street": "Diagonal Rd",
-      "city": "Pooraka",
-      "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
-      "reported_at": "2026-04-13T06:15:54Z"
     },
     {
       "id": "97fce2c9-8abf-4791-bb60-29332fc65ccc",
@@ -37,28 +37,18 @@
       "street": "Beovich Rd",
       "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
+      "timestamp": "2026-04-13T09:30:22Z",
       "reported_at": "2026-04-13T06:40:27Z"
     },
     {
-      "id": "546e68b8-b2cc-4b79-a97c-25c161792e63",
-      "latitude": -34.837222,
-      "longitude": 138.622317,
+      "id": "8ade5178-0f1f-49a6-aec9-78df521f2ad5",
+      "latitude": -34.836728,
+      "longitude": 138.621268,
       "street": "South Tce",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
-      "reported_at": "2026-04-13T06:23:25Z"
-    },
-    {
-      "id": "5713c90b-3932-4e77-9b39-3a1629970cef",
-      "latitude": -35.137125,
-      "longitude": 138.516859,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
-      "reported_at": "2026-04-13T08:55:44Z"
+      "timestamp": "2026-04-13T09:30:22Z",
+      "reported_at": "2026-04-13T06:00:26Z"
     },
     {
       "id": "af9e4179-5ae6-414d-ab78-562db3d9ac09",
@@ -67,8 +57,28 @@
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-13T09:00:23Z",
+      "timestamp": "2026-04-13T09:30:22Z",
       "reported_at": "2026-04-13T08:42:02Z"
+    },
+    {
+      "id": "5713c90b-3932-4e77-9b39-3a1629970cef",
+      "latitude": -35.137125,
+      "longitude": 138.516859,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-13T09:30:22Z",
+      "reported_at": "2026-04-13T08:55:44Z"
+    },
+    {
+      "id": "24d39c1d-0462-459b-99d8-cc3b5594dbc4",
+      "latitude": -34.885636,
+      "longitude": 138.584884,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-13T09:30:22Z",
+      "reported_at": "2026-04-13T09:07:33Z"
     }
   ]
 }
