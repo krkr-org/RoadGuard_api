@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "5dff503e-f44e-48d0-b1cc-f0b7b87d91f6",
-      "latitude": -34.98683,
-      "longitude": 138.51358,
-      "street": "Moseley St",
-      "city": "Glenelg South",
-      "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
-      "reported_at": "2026-04-14T07:27:45Z"
-    },
-    {
       "id": "f1f1d56e-5fa1-4193-9e98-5e6ab1b2ea09",
       "latitude": -34.985417,
       "longitude": 138.513409,
       "street": "Unknown Street",
       "city": "Glenelg",
       "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
+      "timestamp": "2026-04-14T12:00:30Z",
       "reported_at": "2026-04-14T08:38:02Z"
-    },
-    {
-      "id": "dbe96e05-0709-4265-981f-3452083ffea0",
-      "latitude": -34.929131,
-      "longitude": 138.534346,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
-      "reported_at": "2026-04-14T07:45:45Z"
-    },
-    {
-      "id": "a6cd0b6b-bb63-41aa-ac9b-16a25d233d0e",
-      "latitude": -34.941127,
-      "longitude": 138.502961,
-      "street": "Military Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
-      "reported_at": "2026-04-14T07:47:46Z"
     },
     {
       "id": "b3c66671-dc4a-494b-9d82-e0c9e1bfb787",
@@ -47,7 +17,7 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
+      "timestamp": "2026-04-14T12:00:30Z",
       "reported_at": "2026-04-14T07:09:53Z"
     },
     {
@@ -57,7 +27,7 @@
       "street": "Adelphi Tce",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
+      "timestamp": "2026-04-14T12:00:30Z",
       "reported_at": "2026-04-14T09:08:46Z"
     },
     {
@@ -67,38 +37,18 @@
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
+      "timestamp": "2026-04-14T12:00:30Z",
       "reported_at": "2026-04-14T08:29:59Z"
     },
     {
-      "id": "39aa0212-d67f-4e8b-9787-e779b638fd85",
-      "latitude": -34.967743,
-      "longitude": 138.555096,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton",
+      "id": "b37c29d3-99bc-45db-8e12-71b806159492",
+      "latitude": -34.965619,
+      "longitude": 138.647996,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Mount Osmond",
       "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
-      "reported_at": "2026-04-14T10:42:17Z"
-    },
-    {
-      "id": "467d13db-0227-4a7c-9bb9-d8fe108f16ac",
-      "latitude": -34.963825,
-      "longitude": 138.639779,
-      "street": "A3 - Cross Rd",
-      "city": "Myrtle Bank",
-      "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
-      "reported_at": "2026-04-14T11:05:50Z"
-    },
-    {
-      "id": "100af0b7-f26a-430b-ae42-4949a054a16e",
-      "latitude": -34.848357,
-      "longitude": 138.595696,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-14T11:30:25Z",
-      "reported_at": "2026-04-14T11:05:23Z"
+      "timestamp": "2026-04-14T12:00:30Z",
+      "reported_at": "2026-04-14T11:42:40Z"
     }
   ]
 }
