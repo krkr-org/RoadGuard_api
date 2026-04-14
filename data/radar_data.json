@@ -1,64 +1,84 @@
 {
   "radars": [
     {
+      "id": "36b85fbc-bf02-42ba-8849-eb375fa760ec",
+      "latitude": -34.861179,
+      "longitude": 138.679807,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-04-14T23:30:23Z",
+      "reported_at": "2026-04-14T22:30:01Z"
+    },
+    {
+      "id": "57d8326e-148b-4c0d-8689-19d5b40c9613",
+      "latitude": -34.851125,
+      "longitude": 138.694163,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-14T23:30:23Z",
+      "reported_at": "2026-04-14T22:17:27Z"
+    },
+    {
       "id": "3801c5c4-4e7e-405a-9191-1eb1aaf49f16",
       "latitude": -34.87024,
       "longitude": 138.666047,
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:30:22Z",
+      "timestamp": "2026-04-14T23:30:23Z",
       "reported_at": "2026-04-14T22:08:30Z"
     },
     {
-      "id": "9fa149f6-6190-4e84-bc8b-90ae7497409c",
-      "latitude": -34.850781,
-      "longitude": 138.694146,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
+      "id": "c54e37a5-69ab-40f6-8648-cce5d712f322",
+      "latitude": -34.87904,
+      "longitude": 138.530731,
+      "street": "Findon Rd",
+      "city": "Woodville South",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:30:22Z",
-      "reported_at": "2026-04-14T22:18:57Z"
+      "timestamp": "2026-04-14T23:30:23Z",
+      "reported_at": "2026-04-14T23:16:13Z"
     },
     {
-      "id": "9db08385-5299-4eed-b35f-912a909da47b",
-      "latitude": -34.967673,
-      "longitude": 138.516956,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "id": "9d026496-7197-4470-929c-f720aa5ca236",
+      "latitude": -34.748369,
+      "longitude": 138.640149,
+      "street": "Commercial Rd",
+      "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:30:22Z",
-      "reported_at": "2026-04-14T21:59:48Z"
+      "timestamp": "2026-04-14T23:30:23Z",
+      "reported_at": "2026-04-14T23:15:18Z"
     },
     {
       "id": "d6f9828f-8c76-425c-93be-1f7286f444c3",
-      "latitude": -34.923666,
-      "longitude": 138.617365,
+      "latitude": -34.923966,
+      "longitude": 138.617784,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:30:22Z",
+      "timestamp": "2026-04-14T23:30:23Z",
       "reported_at": "2026-04-14T22:05:21Z"
     },
     {
-      "id": "cf99b857-8033-4ef8-b96f-efeb3bb568bf",
-      "latitude": -34.875918,
-      "longitude": 138.694905,
-      "street": "B31 - Gorge Rd",
-      "city": "Athelstone",
+      "id": "45c2af7f-403e-4b75-81a8-bcb5884177a7",
+      "latitude": -34.824389,
+      "longitude": 138.709446,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:30:22Z",
-      "reported_at": "2026-04-14T22:06:12Z"
+      "timestamp": "2026-04-14T23:30:23Z",
+      "reported_at": "2026-04-14T22:38:47Z"
     },
     {
-      "id": "6045a135-51ae-4fae-9324-157e847fc50a",
-      "latitude": -35.121956,
-      "longitude": 138.507509,
-      "street": "M2 - Southern Exp",
-      "city": "Morphett Vale",
+      "id": "ccdf7250-1253-4467-95ed-796e5f9abe47",
+      "latitude": -34.840496,
+      "longitude": 138.711033,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:30:22Z",
-      "reported_at": "2026-04-14T22:27:41Z"
+      "timestamp": "2026-04-14T23:30:23Z",
+      "reported_at": "2026-04-14T22:38:56Z"
     }
   ]
 }
