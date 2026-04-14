@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "45f2d62b-7503-4a62-ab9f-97770774f58e",
-      "latitude": -34.929887,
-      "longitude": 138.534406,
-      "street": "May Tce",
-      "city": "Lockleys",
-      "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T05:45:32Z"
-    },
-    {
       "id": "3643bd95-cc89-4008-a6e1-8c23526cb39f",
       "latitude": -34.98792,
       "longitude": 138.513667,
       "street": "Moseley St",
       "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
+      "timestamp": "2026-04-14T07:00:26Z",
       "reported_at": "2026-04-14T05:58:16Z"
+    },
+    {
+      "id": "45f2d62b-7503-4a62-ab9f-97770774f58e",
+      "latitude": -34.929887,
+      "longitude": 138.534406,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T05:45:32Z"
+    },
+    {
+      "id": "7f4c94e1-44ff-4132-bff0-b19d0ea182c4",
+      "latitude": -34.922005,
+      "longitude": 138.601874,
+      "street": "Gawler Pl",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:53:22Z"
+    },
+    {
+      "id": "de39a7db-5af2-4d5b-9b8d-dc0851139a1e",
+      "latitude": -34.945173,
+      "longitude": 138.50747,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T05:26:11Z"
     },
     {
       "id": "1f97f9f7-8628-42e0-9cb6-6cde1a945980",
@@ -27,78 +47,98 @@
       "street": "Adelphi Tce",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
+      "timestamp": "2026-04-14T07:00:26Z",
       "reported_at": "2026-04-14T06:02:25Z"
     },
     {
-      "id": "2dae435c-e8b7-4d15-adee-b1d31f98bea3",
-      "latitude": -34.993437,
-      "longitude": 138.562941,
+      "id": "ecaff519-b7bf-47b2-957d-a5c7e24c1f98",
+      "latitude": -34.905284,
+      "longitude": 138.491495,
+      "street": "Military Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:57:19Z"
+    },
+    {
+      "id": "b19bfb37-6f2f-4087-9005-a2413cdd32ac",
+      "latitude": -34.904182,
+      "longitude": 138.50544,
+      "street": "Frederick Rd",
+      "city": "Grange",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:27:17Z"
+    },
+    {
+      "id": "37466f5b-f1ee-4757-b8cc-067b6dcc25cf",
+      "latitude": -35.009293,
+      "longitude": 138.539408,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:37:52Z"
+    },
+    {
+      "id": "9fd977c9-5600-4e73-9292-41df4b4de635",
+      "latitude": -35.061033,
+      "longitude": 138.605355,
+      "street": "Oakridge Rd",
+      "city": "Aberfoyle Park",
+      "type": "mobile",
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:49:10Z"
+    },
+    {
+      "id": "1cbc18f0-3046-4a2e-8e51-7c08e0297508",
+      "latitude": -34.993251,
+      "longitude": 138.565066,
       "street": "Daws Rd",
       "city": "Ascot Park",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T06:11:22Z"
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:37:38Z"
     },
     {
-      "id": "b65cfde7-5a7d-4b41-b5d5-8cf708836eaa",
-      "latitude": -35.003719,
-      "longitude": 138.589183,
-      "street": "Fiveash Dr",
-      "city": "Pasadena",
+      "id": "3a298589-b9cf-4e9a-bc34-c4ab482ec10e",
+      "latitude": -34.796519,
+      "longitude": 138.64282,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T06:21:38Z"
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:48:54Z"
     },
     {
-      "id": "ba323db5-f7a4-4067-b694-c0587bb58c54",
-      "latitude": -35.064381,
-      "longitude": 138.533594,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Sheidow Park",
+      "id": "959c9867-e315-4295-9566-a97d5b6043b3",
+      "latitude": -34.797605,
+      "longitude": 138.65646,
+      "street": "A18 - McIntyre Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T05:59:25Z"
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:23:15Z"
     },
     {
-      "id": "8f4709e4-6dcc-49e7-873b-661aabb893a6",
-      "latitude": -34.849806,
-      "longitude": 138.575506,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Regency Park",
+      "id": "3227aa04-1ef5-48f4-9d2e-7cdc6bc10ea5",
+      "latitude": -34.795136,
+      "longitude": 138.64384,
+      "street": "A20 - Main North Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T06:11:52Z"
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:44:54Z"
     },
     {
-      "id": "66057441-d729-4c5b-8123-da9cab445172",
-      "latitude": -34.850791,
-      "longitude": 138.542917,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Ottoway",
+      "id": "31ef9613-0a0d-4ca9-9ae3-3fc802713a8f",
+      "latitude": -34.776724,
+      "longitude": 138.660263,
+      "street": "A20 - Main North Rd",
+      "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T06:07:53Z"
-    },
-    {
-      "id": "e41cbc74-6e36-45f1-9889-7bfa50df3587",
-      "latitude": -34.755145,
-      "longitude": 138.647743,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
-      "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T05:37:32Z"
-    },
-    {
-      "id": "17917a9f-2319-469f-8d99-f72d32739b80",
-      "latitude": -35.032021,
-      "longitude": 138.806635,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Hahndorf",
-      "type": "mobile",
-      "timestamp": "2026-04-14T06:30:23Z",
-      "reported_at": "2026-04-14T05:42:47Z"
+      "timestamp": "2026-04-14T07:00:26Z",
+      "reported_at": "2026-04-14T06:49:32Z"
     }
   ]
 }
