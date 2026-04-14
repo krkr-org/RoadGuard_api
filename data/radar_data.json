@@ -7,7 +7,7 @@
       "street": "May Tce",
       "city": "Lockleys",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
+      "timestamp": "2026-04-14T09:00:30Z",
       "reported_at": "2026-04-14T05:56:50Z"
     },
     {
@@ -17,18 +17,48 @@
       "street": "Moseley St",
       "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
+      "timestamp": "2026-04-14T09:00:30Z",
       "reported_at": "2026-04-14T05:58:16Z"
     },
     {
-      "id": "31d6338f-94ad-4ef4-be2e-739dda978f2b",
-      "latitude": -34.943385,
-      "longitude": 138.503762,
+      "id": "f1f1d56e-5fa1-4193-9e98-5e6ab1b2ea09",
+      "latitude": -34.985417,
+      "longitude": 138.513409,
+      "street": "Unknown Street",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:38:02Z"
+    },
+    {
+      "id": "a6cd0b6b-bb63-41aa-ac9b-16a25d233d0e",
+      "latitude": -34.941127,
+      "longitude": 138.502961,
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
-      "reported_at": "2026-04-14T07:01:26Z"
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T07:47:46Z"
+    },
+    {
+      "id": "f303b3ca-9db8-45cc-a5f8-d9f4c5e05cbe",
+      "latitude": -34.971301,
+      "longitude": 138.528447,
+      "street": "Pine Av",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T06:12:03Z"
+    },
+    {
+      "id": "70e267e3-cbb8-43b2-9153-ee3c8f96d2b6",
+      "latitude": -34.800518,
+      "longitude": 138.604502,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:38:17Z"
     },
     {
       "id": "4355ff50-96ba-4597-a191-1a236a4ee001",
@@ -37,38 +67,68 @@
       "street": "West Beach Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
+      "timestamp": "2026-04-14T09:00:30Z",
       "reported_at": "2026-04-14T05:48:46Z"
     },
     {
-      "id": "946c58fa-82ae-44fc-b296-1d068f2c5725",
-      "latitude": -34.972193,
-      "longitude": 138.51424,
+      "id": "09e1ce5f-6630-4261-bf35-00677beefc0d",
+      "latitude": -34.908039,
+      "longitude": 138.492183,
+      "street": "Military Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:29:59Z"
+    },
+    {
+      "id": "1f97f9f7-8628-42e0-9cb6-6cde1a945980",
+      "latitude": -34.972751,
+      "longitude": 138.514287,
       "street": "Adelphi Tce",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
-      "reported_at": "2026-04-14T06:02:57Z"
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T06:02:25Z"
     },
     {
-      "id": "78b96dcc-f0b5-4212-b689-6ae90eaaa0d2",
-      "latitude": -34.970908,
-      "longitude": 138.528421,
-      "street": "Pine Av",
-      "city": "Glenelg North",
+      "id": "16969b6a-2b61-4f13-8040-8caa179197a0",
+      "latitude": -34.87779,
+      "longitude": 138.484954,
+      "street": "Military Rd",
+      "city": "Tennyson",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
-      "reported_at": "2026-04-14T06:48:20Z"
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:47:00Z"
     },
     {
-      "id": "2361958e-3a2f-45cc-a697-06a268fcdb0b",
-      "latitude": -34.71724,
-      "longitude": 138.782463,
-      "street": "One Tree Hill Rd",
+      "id": "9d09064b-709f-49b3-bfd9-c0ef11cf2bee",
+      "latitude": -34.874936,
+      "longitude": 138.483829,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:29:20Z"
+    },
+    {
+      "id": "e8e0d722-f2df-44a8-a769-d097f80ce555",
+      "latitude": -34.887477,
+      "longitude": 138.689065,
+      "street": "Montacute Rd",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:31:33Z"
+    },
+    {
+      "id": "dec4a0c4-0060-41df-aa4d-ac18e3feb92c",
+      "latitude": -34.718288,
+      "longitude": 138.760654,
+      "street": "Black Top Rd",
       "city": "One Tree Hill",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
-      "reported_at": "2026-04-14T08:18:30Z"
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:32:40Z"
     },
     {
       "id": "dc9bacca-3781-4959-aa8d-9512f2dedb0d",
@@ -77,8 +137,28 @@
       "street": "A6 - Sir Donald Bradman Dr",
       "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-04-14T08:30:26Z",
+      "timestamp": "2026-04-14T09:00:30Z",
       "reported_at": "2026-04-14T07:51:18Z"
+    },
+    {
+      "id": "f31e74c8-07dd-4c43-9e6d-1a127649bad8",
+      "latitude": -34.870716,
+      "longitude": 138.63785,
+      "street": "A10 - North East Rd",
+      "city": "Greenacres",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:51:00Z"
+    },
+    {
+      "id": "215dc523-79da-4c5a-baa9-89778c76d92b",
+      "latitude": -34.774816,
+      "longitude": 138.619142,
+      "street": "A18 - Kings Rd",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-14T09:00:30Z",
+      "reported_at": "2026-04-14T08:57:53Z"
     }
   ]
 }
