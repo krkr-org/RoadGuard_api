@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "59ddf4b2-be59-4129-8b4a-cb1ec301a0d0",
-      "latitude": -34.861686,
-      "longitude": 138.507008,
-      "street": "Old Port Rd",
-      "city": "Queenstown",
+      "id": "92ea9c03-4b19-4e37-bc89-0dc3ffa77e8c",
+      "latitude": -35.094487,
+      "longitude": 138.528998,
+      "street": "Grant Rd",
+      "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
-      "reported_at": "2026-04-14T01:34:09Z"
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:25:32Z"
     },
     {
-      "id": "e9cf0df2-89c6-4200-9557-ea0a22adaad5",
-      "latitude": -35.116031,
-      "longitude": 138.51739,
+      "id": "057e25d2-2f04-47e1-b668-f39421133563",
+      "latitude": -34.896025,
+      "longitude": 138.489035,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:30:46Z"
+    },
+    {
+      "id": "24c836b0-ddef-4c68-8ce9-52090bacd3cd",
+      "latitude": -35.115872,
+      "longitude": 138.520664,
       "street": "O'Sullivan Beach Rd",
       "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
-      "reported_at": "2026-04-14T01:59:39Z"
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:38:39Z"
     },
     {
       "id": "b0f4f4d4-9fcb-4dda-885e-0068d8f746cf",
@@ -27,18 +37,28 @@
       "street": "Stephen Tce",
       "city": "Walkerville",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
+      "timestamp": "2026-04-14T03:00:23Z",
       "reported_at": "2026-04-13T23:33:41Z"
     },
     {
-      "id": "52879823-1cc4-4a50-b397-3abae853039c",
-      "latitude": -34.818841,
-      "longitude": 138.677494,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
+      "id": "6e73693b-2bd5-4737-a460-7cabe88388f7",
+      "latitude": -35.106799,
+      "longitude": 138.498757,
+      "street": "A15 - Dyson Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
-      "reported_at": "2026-04-14T02:12:57Z"
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:46:34Z"
+    },
+    {
+      "id": "da0a3cce-a6d2-4890-96d6-bd601d25e4c3",
+      "latitude": -34.845025,
+      "longitude": 138.668223,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:42:04Z"
     },
     {
       "id": "ce3116aa-3ee7-4e86-8ac0-f2a4612cbd4f",
@@ -47,28 +67,28 @@
       "street": "A20 - Main North Rd",
       "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
+      "timestamp": "2026-04-14T03:00:23Z",
       "reported_at": "2026-04-14T02:23:32Z"
     },
     {
-      "id": "fadc633c-881a-487d-8475-2e069b2c3c63",
-      "latitude": -34.767573,
-      "longitude": 138.668206,
-      "street": "A20 - Main North Rd",
-      "city": "Salisbury Plain",
+      "id": "c0bc9346-f9fd-4f8c-b81a-fe09c2040275",
+      "latitude": -34.752496,
+      "longitude": 138.651441,
+      "street": "A9 - John Rice Av",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
-      "reported_at": "2026-04-14T02:28:53Z"
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:49:29Z"
     },
     {
-      "id": "a2d661ee-bbfe-4518-8e37-58d465251eec",
-      "latitude": -34.965087,
-      "longitude": 138.646805,
-      "street": "M1 - South Eastern Fwy",
-      "city": "Mount Osmond",
+      "id": "55c3e670-97af-40b4-8dc8-8dcb41ce079b",
+      "latitude": -35.032888,
+      "longitude": 138.555582,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-04-14T02:30:23Z",
-      "reported_at": "2026-04-14T02:10:47Z"
+      "timestamp": "2026-04-14T03:00:23Z",
+      "reported_at": "2026-04-14T02:36:13Z"
     }
   ]
 }
