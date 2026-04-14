@@ -1,14 +1,64 @@
 {
   "radars": [
     {
-      "id": "eec32e81-cad8-4821-83ab-b0fe1753e18b",
-      "latitude": -35.047193,
-      "longitude": 138.549571,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "3801c5c4-4e7e-405a-9191-1eb1aaf49f16",
+      "latitude": -34.87024,
+      "longitude": 138.666047,
+      "street": "Darley Rd",
+      "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-04-14T22:00:28Z",
-      "reported_at": "2026-04-14T21:50:31Z"
+      "timestamp": "2026-04-14T22:30:22Z",
+      "reported_at": "2026-04-14T22:08:30Z"
+    },
+    {
+      "id": "9fa149f6-6190-4e84-bc8b-90ae7497409c",
+      "latitude": -34.850781,
+      "longitude": 138.694146,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-14T22:30:22Z",
+      "reported_at": "2026-04-14T22:18:57Z"
+    },
+    {
+      "id": "9db08385-5299-4eed-b35f-912a909da47b",
+      "latitude": -34.967673,
+      "longitude": 138.516956,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Glenelg North",
+      "type": "mobile",
+      "timestamp": "2026-04-14T22:30:22Z",
+      "reported_at": "2026-04-14T21:59:48Z"
+    },
+    {
+      "id": "d6f9828f-8c76-425c-93be-1f7286f444c3",
+      "latitude": -34.923666,
+      "longitude": 138.617365,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-14T22:30:22Z",
+      "reported_at": "2026-04-14T22:05:21Z"
+    },
+    {
+      "id": "cf99b857-8033-4ef8-b96f-efeb3bb568bf",
+      "latitude": -34.875918,
+      "longitude": 138.694905,
+      "street": "B31 - Gorge Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2026-04-14T22:30:22Z",
+      "reported_at": "2026-04-14T22:06:12Z"
+    },
+    {
+      "id": "6045a135-51ae-4fae-9324-157e847fc50a",
+      "latitude": -35.121956,
+      "longitude": 138.507509,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-14T22:30:22Z",
+      "reported_at": "2026-04-14T22:27:41Z"
     }
   ]
 }
