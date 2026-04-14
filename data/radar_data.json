@@ -1,44 +1,54 @@
 {
   "radars": [
     {
+      "id": "da8568e6-86b8-4ae1-9713-f580cd223f54",
+      "latitude": -35.036097,
+      "longitude": 138.623199,
+      "street": "Winns Rd",
+      "city": "Coromandel Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-14T05:30:22Z",
+      "reported_at": "2026-04-14T05:17:44Z"
+    },
+    {
       "id": "9e3d9a1a-4a1a-4ef8-a85f-422397490552",
       "latitude": -35.094382,
       "longitude": 138.531305,
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-14T04:30:23Z",
+      "timestamp": "2026-04-14T05:30:22Z",
       "reported_at": "2026-04-14T02:25:48Z"
     },
     {
-      "id": "1cf47387-bd90-4543-a26f-22540c689514",
-      "latitude": -34.868582,
-      "longitude": 138.54799,
-      "street": "Hanson Rd",
-      "city": "Woodville North",
+      "id": "f163441e-70cc-406d-9d98-9e8e3eb55959",
+      "latitude": -35.040205,
+      "longitude": 138.626399,
+      "street": "B29 - Main Rd",
+      "city": "Coromandel Valley",
       "type": "mobile",
-      "timestamp": "2026-04-14T04:30:23Z",
-      "reported_at": "2026-04-14T03:46:17Z"
+      "timestamp": "2026-04-14T05:30:22Z",
+      "reported_at": "2026-04-14T04:46:01Z"
     },
     {
-      "id": "0558261b-f518-419a-8df8-83df47b5c91d",
-      "latitude": -35.120847,
-      "longitude": 138.523261,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "id": "bebaddf9-95e7-4f98-80a4-ff9c3338b44f",
+      "latitude": -34.847365,
+      "longitude": 138.616758,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-14T04:30:23Z",
-      "reported_at": "2026-04-14T04:15:53Z"
+      "timestamp": "2026-04-14T05:30:22Z",
+      "reported_at": "2026-04-14T05:20:14Z"
     },
     {
-      "id": "fd592cd4-559c-4eb7-b72e-d5e8c8bfa2a7",
-      "latitude": -34.836769,
-      "longitude": 138.525786,
-      "street": "A9 - Port River Exp",
-      "city": "Gillman",
+      "id": "6a2ae814-60e8-4c6b-894c-9c25e840545c",
+      "latitude": -34.769537,
+      "longitude": 138.635108,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-14T04:30:23Z",
-      "reported_at": "2026-04-14T04:24:53Z"
+      "timestamp": "2026-04-14T05:30:22Z",
+      "reported_at": "2026-04-14T05:18:16Z"
     }
   ]
 }
