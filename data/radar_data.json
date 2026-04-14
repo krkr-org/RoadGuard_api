@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "a85622d8-c548-40cb-a6c8-9dde84b78b40",
-      "latitude": -34.986855,
-      "longitude": 138.513566,
+      "id": "16174099-3f5c-4630-a930-0ea43cba993a",
+      "latitude": -34.927081,
+      "longitude": 138.534199,
+      "street": "May Tce",
+      "city": "Lockleys",
+      "type": "mobile",
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T05:56:50Z"
+    },
+    {
+      "id": "3643bd95-cc89-4008-a6e1-8c23526cb39f",
+      "latitude": -34.98792,
+      "longitude": 138.513667,
       "street": "Moseley St",
       "city": "Glenelg South",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
-      "reported_at": "2026-04-14T07:12:30Z"
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T05:58:16Z"
+    },
+    {
+      "id": "b3c66671-dc4a-494b-9d82-e0c9e1bfb787",
+      "latitude": -34.944977,
+      "longitude": 138.511305,
+      "street": "West Beach Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T07:09:53Z"
     },
     {
       "id": "31d6338f-94ad-4ef4-be2e-739dda978f2b",
@@ -17,28 +37,8 @@
       "street": "Military Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
+      "timestamp": "2026-04-14T08:00:24Z",
       "reported_at": "2026-04-14T07:01:26Z"
-    },
-    {
-      "id": "4355ff50-96ba-4597-a191-1a236a4ee001",
-      "latitude": -34.945008,
-      "longitude": 138.510696,
-      "street": "West Beach Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
-      "reported_at": "2026-04-14T05:48:46Z"
-    },
-    {
-      "id": "4de01ec5-7855-4068-9623-30b4b468099e",
-      "latitude": -34.964893,
-      "longitude": 138.509683,
-      "street": "North Esplanade",
-      "city": "Glenelg North",
-      "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
-      "reported_at": "2026-04-14T07:03:00Z"
     },
     {
       "id": "78b96dcc-f0b5-4212-b689-6ae90eaaa0d2",
@@ -47,7 +47,7 @@
       "street": "Pine Av",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
+      "timestamp": "2026-04-14T08:00:24Z",
       "reported_at": "2026-04-14T06:48:20Z"
     },
     {
@@ -57,38 +57,48 @@
       "street": "Adelphi Tce",
       "city": "Glenelg North",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
+      "timestamp": "2026-04-14T08:00:24Z",
       "reported_at": "2026-04-14T06:02:57Z"
     },
     {
-      "id": "c88d8733-957d-4bc9-8776-a120ddde2779",
-      "latitude": -35.022921,
-      "longitude": 138.541327,
-      "street": "Morphett Rd",
-      "city": "Dover Gardens",
+      "id": "179c9ecf-901d-4c85-b2b3-8902be583cf6",
+      "latitude": -34.724335,
+      "longitude": 138.681414,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
-      "reported_at": "2026-04-14T06:32:20Z"
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T07:34:31Z"
     },
     {
-      "id": "6444ddb4-3547-479f-9ddc-a9921725b7e5",
-      "latitude": -34.871296,
-      "longitude": 138.633098,
-      "street": "Muller Rd",
-      "city": "Greenacres",
+      "id": "dc9bacca-3781-4959-aa8d-9512f2dedb0d",
+      "latitude": -34.931546,
+      "longitude": 138.575414,
+      "street": "A6 - Sir Donald Bradman Dr",
+      "city": "Mile End",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
-      "reported_at": "2026-04-14T07:04:49Z"
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T07:51:18Z"
     },
     {
-      "id": "0d36bd83-81b1-4e30-a120-beda4f7e14cf",
-      "latitude": -34.718362,
-      "longitude": 138.761249,
-      "street": "Black Top Rd",
-      "city": "One Tree Hill",
+      "id": "e3d8b050-2c59-410b-93b4-c8ec7a5fd369",
+      "latitude": -34.913543,
+      "longitude": 138.689024,
+      "street": "B27 - Old Norton Summit Rd",
+      "city": "Teringie",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
-      "reported_at": "2026-04-14T07:18:16Z"
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T07:33:19Z"
+    },
+    {
+      "id": "5eca639c-b2e6-42ac-a25f-3ad9a7491341",
+      "latitude": -34.912892,
+      "longitude": 138.684894,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T07:34:21Z"
     },
     {
       "id": "704065b0-fb8c-4561-961b-560acedc1d63",
@@ -97,8 +107,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
+      "timestamp": "2026-04-14T08:00:24Z",
       "reported_at": "2026-04-14T07:10:46Z"
+    },
+    {
+      "id": "5be5f7f5-e1d3-4aa8-aa56-7499b210f454",
+      "latitude": -34.885008,
+      "longitude": 138.624637,
+      "street": "A17 - Ascot Av",
+      "city": "Vale Park",
+      "type": "mobile",
+      "timestamp": "2026-04-14T08:00:24Z",
+      "reported_at": "2026-04-14T07:50:38Z"
     },
     {
       "id": "b2bf7f41-7f6a-4530-a9e2-8ff7a46d64b2",
@@ -107,7 +127,7 @@
       "street": "A18 - McIntyre Rd",
       "city": "Salisbury East",
       "type": "mobile",
-      "timestamp": "2026-04-14T07:30:26Z",
+      "timestamp": "2026-04-14T08:00:24Z",
       "reported_at": "2026-04-14T07:23:33Z"
     }
   ]
