@@ -1,14 +1,34 @@
 {
   "radars": [
     {
+      "id": "8cece7cf-41cb-405d-8961-0e5d80b94742",
+      "latitude": -35.064624,
+      "longitude": 138.526594,
+      "street": "Aroona Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T06:42:43Z"
+    },
+    {
       "id": "05a59a3a-45e2-415f-a957-bbb54b55f64b",
       "latitude": -34.886637,
       "longitude": 138.522575,
       "street": "Todville St",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
+      "timestamp": "2026-04-15T08:30:23Z",
       "reported_at": "2026-04-15T07:29:20Z"
+    },
+    {
+      "id": "f0b21f7f-f285-4689-a306-2bd3a108922d",
+      "latitude": -34.795006,
+      "longitude": 138.646602,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T07:39:49Z"
     },
     {
       "id": "59321561-48d1-446a-bdb4-61d50058c472",
@@ -17,8 +37,18 @@
       "street": "Moore Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
+      "timestamp": "2026-04-15T08:30:23Z",
       "reported_at": "2026-04-15T06:37:20Z"
+    },
+    {
+      "id": "b23487e5-ed3a-4b57-b147-645917ae372d",
+      "latitude": -35.062492,
+      "longitude": 138.517487,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T06:37:00Z"
     },
     {
       "id": "6516791a-90bc-4ee1-8fb8-4b9b7b5a257b",
@@ -27,18 +57,8 @@
       "street": "Regency Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
+      "timestamp": "2026-04-15T08:30:23Z",
       "reported_at": "2026-04-15T06:36:30Z"
-    },
-    {
-      "id": "4a148c6c-b7c7-43fa-8985-f5f28ca6e426",
-      "latitude": -34.832887,
-      "longitude": 138.565082,
-      "street": "to M2 - North South Mwy to Regency Park / City",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:27:31Z"
     },
     {
       "id": "95ee1624-ef38-437a-a255-65876ce6de8e",
@@ -47,48 +67,38 @@
       "street": "Crittenden Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
+      "timestamp": "2026-04-15T08:30:23Z",
       "reported_at": "2026-04-15T06:31:48Z"
     },
     {
-      "id": "a6b7af30-7f7c-4850-94bb-fa7d9a388914",
-      "latitude": -34.97563,
-      "longitude": 138.59148,
-      "street": "Goodwood Rd",
-      "city": "Cumberland Park",
+      "id": "63914d1b-78a5-4c9e-ae68-ce255c6afe20",
+      "latitude": -34.919871,
+      "longitude": 138.581185,
+      "street": "Port Rd",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:25:20Z"
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T08:00:51Z"
     },
     {
-      "id": "70b22480-4317-4dd6-b7ad-ebe7cae1fc9b",
-      "latitude": -34.674547,
-      "longitude": 138.563055,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "59c7130e-3fbe-4204-a9b8-7b79fdcd957e",
+      "latitude": -34.839312,
+      "longitude": 138.675748,
+      "street": "Kelly Rd",
+      "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:55:39Z"
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T06:11:48Z"
     },
     {
-      "id": "e684cd17-2dc0-4c94-bc35-fbad7bda1061",
-      "latitude": -34.771996,
-      "longitude": 138.617001,
-      "street": "Martins Rd",
-      "city": "Salisbury Downs",
+      "id": "26d263e9-b871-4eda-ac01-a9566d87a59b",
+      "latitude": -35.130735,
+      "longitude": 138.523982,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:32:00Z"
-    },
-    {
-      "id": "f2119cdc-a2e1-4fc1-9c21-e1f6986d6c86",
-      "latitude": -34.853811,
-      "longitude": 138.509347,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:22:31Z"
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T08:05:51Z"
     },
     {
       "id": "1b10925a-7c07-4262-892c-940e9f8f4d50",
@@ -97,28 +107,18 @@
       "street": "R1 - Park Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
+      "timestamp": "2026-04-15T08:30:23Z",
       "reported_at": "2026-04-15T07:52:37Z"
     },
     {
-      "id": "176079fd-c1fa-41b1-b2e5-ab041fbea62f",
-      "latitude": -34.848926,
-      "longitude": 138.583093,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
-      "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:52:00Z"
-    },
-    {
-      "id": "1146defe-761a-4cd8-bef6-2fed391e271f",
-      "latitude": -34.849682,
-      "longitude": 138.564255,
+      "id": "44b7d276-4e25-4846-8a53-d2784e62f301",
+      "latitude": -34.849881,
+      "longitude": 138.57248,
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:00:24Z",
-      "reported_at": "2026-04-15T07:43:08Z"
+      "timestamp": "2026-04-15T08:30:23Z",
+      "reported_at": "2026-04-15T08:21:06Z"
     }
   ]
 }
