@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "0dd93bcb-1d21-4ea2-96a6-c872822de305",
-      "latitude": -34.850483,
-      "longitude": 138.564488,
-      "street": "South Rd",
-      "city": "Regency Park",
+      "id": "d5434216-f411-492d-8590-fc52eda98149",
+      "latitude": -34.921988,
+      "longitude": 138.593409,
+      "street": "Morphett St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T22:00:24Z",
-      "reported_at": "2026-04-15T21:42:52Z"
+      "timestamp": "2026-04-15T22:30:24Z",
+      "reported_at": "2026-04-15T21:59:08Z"
+    },
+    {
+      "id": "554b64ff-6fce-4442-8f0b-8a9af11e2e11",
+      "latitude": -34.935914,
+      "longitude": 138.608051,
+      "street": "Glen Osmond Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-15T22:30:24Z",
+      "reported_at": "2026-04-15T22:04:16Z"
+    },
+    {
+      "id": "6fe3504d-0596-49c7-850d-0a0bed719094",
+      "latitude": -34.872908,
+      "longitude": 138.615843,
+      "street": "Regency Rd",
+      "city": "Broadview",
+      "type": "mobile",
+      "timestamp": "2026-04-15T22:30:24Z",
+      "reported_at": "2026-04-15T22:22:31Z"
     }
   ]
 }
