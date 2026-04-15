@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "8cece7cf-41cb-405d-8961-0e5d80b94742",
+      "latitude": -35.064624,
+      "longitude": 138.526594,
+      "street": "Aroona Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T06:42:43Z"
+    },
+    {
       "id": "05a59a3a-45e2-415f-a957-bbb54b55f64b",
       "latitude": -34.886637,
       "longitude": 138.522575,
       "street": "Todville St",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
+      "timestamp": "2026-04-15T10:00:23Z",
       "reported_at": "2026-04-15T07:29:20Z"
     },
     {
@@ -17,7 +27,7 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
+      "timestamp": "2026-04-15T10:00:23Z",
       "reported_at": "2026-04-15T07:39:49Z"
     },
     {
@@ -27,8 +37,28 @@
       "street": "Moore Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
+      "timestamp": "2026-04-15T10:00:23Z",
       "reported_at": "2026-04-15T06:37:20Z"
+    },
+    {
+      "id": "e326a5c9-a440-49f9-8210-b82efca95415",
+      "latitude": -34.908527,
+      "longitude": 138.492264,
+      "street": "Military Rd",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T08:28:04Z"
+    },
+    {
+      "id": "6dd4907f-656b-4d32-9011-189e064e9686",
+      "latitude": -35.062535,
+      "longitude": 138.516605,
+      "street": "Perry Barr Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T07:24:27Z"
     },
     {
       "id": "6516791a-90bc-4ee1-8fb8-4b9b7b5a257b",
@@ -37,58 +67,18 @@
       "street": "Regency Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
+      "timestamp": "2026-04-15T10:00:23Z",
       "reported_at": "2026-04-15T06:36:30Z"
     },
     {
-      "id": "b23487e5-ed3a-4b57-b147-645917ae372d",
-      "latitude": -35.062492,
-      "longitude": 138.517487,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
+      "id": "5109c57e-5c9e-4619-bf67-58add2ceb9de",
+      "latitude": -34.741881,
+      "longitude": 138.64879,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
-      "reported_at": "2026-04-15T06:37:00Z"
-    },
-    {
-      "id": "cf7a9480-b5e2-4936-a6f5-a1ad9045990f",
-      "latitude": -34.7019,
-      "longitude": 138.688775,
-      "street": "Midway Rd",
-      "city": "Elizabeth Downs",
-      "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
-      "reported_at": "2026-04-15T09:11:38Z"
-    },
-    {
-      "id": "b0d89575-6d49-400e-92a5-40a7e14ac56c",
-      "latitude": -34.838726,
-      "longitude": 138.483311,
-      "street": "Semaphore Rd",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
-      "reported_at": "2026-04-15T08:43:50Z"
-    },
-    {
-      "id": "72c09d02-b452-42a9-a783-a1d316d96044",
-      "latitude": -34.921159,
-      "longitude": 138.607976,
-      "street": "North Tce",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
-      "reported_at": "2026-04-15T09:06:29Z"
-    },
-    {
-      "id": "fa905425-f88f-4acd-9622-2d73fbb8768d",
-      "latitude": -34.924243,
-      "longitude": 138.601427,
-      "street": "Grenfell St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
-      "reported_at": "2026-04-15T09:20:23Z"
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T09:41:01Z"
     },
     {
       "id": "59c7130e-3fbe-4204-a9b8-7b79fdcd957e",
@@ -97,18 +87,38 @@
       "street": "Kelly Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
+      "timestamp": "2026-04-15T10:00:23Z",
       "reported_at": "2026-04-15T06:11:48Z"
     },
     {
-      "id": "20a3664e-c096-4bc3-abd2-4aa06f19f4bc",
-      "latitude": -35.14042,
-      "longitude": 138.524774,
-      "street": "A13 - Main South Rd",
-      "city": "Hackham West",
+      "id": "0c7748ee-476b-4d72-9503-38e499fb7720",
+      "latitude": -35.051143,
+      "longitude": 138.574153,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
       "type": "mobile",
-      "timestamp": "2026-04-15T09:30:22Z",
-      "reported_at": "2026-04-15T08:57:44Z"
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T09:30:26Z"
+    },
+    {
+      "id": "fa905425-f88f-4acd-9622-2d73fbb8768d",
+      "latitude": -34.924243,
+      "longitude": 138.601427,
+      "street": "Grenfell St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T09:20:23Z"
+    },
+    {
+      "id": "a97a761d-0f0c-40bb-adcb-6d2a64daad05",
+      "latitude": -34.883454,
+      "longitude": 138.620952,
+      "street": "A10 - North East Rd",
+      "city": "Manningham",
+      "type": "mobile",
+      "timestamp": "2026-04-15T10:00:23Z",
+      "reported_at": "2026-04-15T09:28:56Z"
     }
   ]
 }
