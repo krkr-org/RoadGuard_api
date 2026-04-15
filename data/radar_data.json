@@ -1,34 +1,84 @@
 {
   "radars": [
     {
-      "id": "d5434216-f411-492d-8590-fc52eda98149",
-      "latitude": -34.921988,
-      "longitude": 138.593409,
-      "street": "Morphett St",
-      "city": "Adelaide",
+      "id": "07f88a1e-96fb-4536-9777-5d1b30549ed0",
+      "latitude": -34.992198,
+      "longitude": 138.513354,
+      "street": "Tarlton St",
+      "city": "Somerton Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T22:30:24Z",
-      "reported_at": "2026-04-15T21:59:08Z"
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:45:14Z"
     },
     {
-      "id": "554b64ff-6fce-4442-8f0b-8a9af11e2e11",
-      "latitude": -34.935914,
-      "longitude": 138.608051,
-      "street": "Glen Osmond Rd",
-      "city": "Adelaide",
+      "id": "5410eee6-dce3-40ee-a2f8-62981bbd872f",
+      "latitude": -34.909536,
+      "longitude": 138.581425,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T22:30:24Z",
-      "reported_at": "2026-04-15T22:04:16Z"
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:20:33Z"
     },
     {
-      "id": "6fe3504d-0596-49c7-850d-0a0bed719094",
-      "latitude": -34.872908,
-      "longitude": 138.615843,
+      "id": "31d1a003-ed50-44a0-8dfe-ac3a3abffad2",
+      "latitude": -35.115582,
+      "longitude": 138.548371,
+      "street": "Panalatinga Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:33:23Z"
+    },
+    {
+      "id": "fcf0f5b2-a3ce-4688-9ceb-01a8823a9033",
+      "latitude": -34.92169,
+      "longitude": 138.594931,
+      "street": "North Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:43:13Z"
+    },
+    {
+      "id": "5484a1bf-4a45-42c2-b7b3-27b004f3afee",
+      "latitude": -34.921533,
+      "longitude": 138.593374,
+      "street": "Montefiore Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:23:18Z"
+    },
+    {
+      "id": "8a2a2286-c084-43f8-b386-a7cd720f8058",
+      "latitude": -34.895156,
+      "longitude": 138.594571,
+      "street": "Prospect Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:07:39Z"
+    },
+    {
+      "id": "6d6ec29c-09c5-4c3e-b211-150aa1cd3239",
+      "latitude": -34.875012,
+      "longitude": 138.570959,
       "street": "Regency Rd",
-      "city": "Broadview",
+      "city": "Regency Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T22:30:24Z",
-      "reported_at": "2026-04-15T22:22:31Z"
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:29:22Z"
+    },
+    {
+      "id": "e29334b6-120d-4013-af57-525cc9bfb712",
+      "latitude": -34.826356,
+      "longitude": 138.603924,
+      "street": "Montague Rd",
+      "city": "Cavan",
+      "type": "mobile",
+      "timestamp": "2026-04-15T23:00:22Z",
+      "reported_at": "2026-04-15T22:36:28Z"
     }
   ]
 }
