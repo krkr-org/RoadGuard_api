@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "8cece7cf-41cb-405d-8961-0e5d80b94742",
-      "latitude": -35.064624,
-      "longitude": 138.526594,
-      "street": "Aroona Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
-      "reported_at": "2026-04-15T06:42:43Z"
-    },
-    {
       "id": "05a59a3a-45e2-415f-a957-bbb54b55f64b",
       "latitude": -34.886637,
       "longitude": 138.522575,
       "street": "Todville St",
       "city": "Woodville West",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T07:29:20Z"
     },
     {
@@ -27,8 +17,18 @@
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T07:39:49Z"
+    },
+    {
+      "id": "68047825-3f83-4158-834c-f3ef92a61243",
+      "latitude": -34.941246,
+      "longitude": 138.500426,
+      "street": "Seaview Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:27:45Z"
     },
     {
       "id": "59321561-48d1-446a-bdb4-61d50058c472",
@@ -37,7 +37,7 @@
       "street": "Moore Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T06:37:20Z"
     },
     {
@@ -47,7 +47,7 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T06:37:00Z"
     },
     {
@@ -57,7 +57,7 @@
       "street": "Regency Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T06:36:30Z"
     },
     {
@@ -67,18 +67,48 @@
       "street": "Crittenden Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T06:31:48Z"
     },
     {
-      "id": "63914d1b-78a5-4c9e-ae68-ce255c6afe20",
-      "latitude": -34.919871,
-      "longitude": 138.581185,
-      "street": "Port Rd",
-      "city": "Adelaide",
+      "id": "b0d89575-6d49-400e-92a5-40a7e14ac56c",
+      "latitude": -34.838726,
+      "longitude": 138.483311,
+      "street": "Semaphore Rd",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
-      "reported_at": "2026-04-15T08:00:51Z"
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:43:50Z"
+    },
+    {
+      "id": "8f6018b1-4dd6-4998-b0e8-50ab1b9160aa",
+      "latitude": -34.993566,
+      "longitude": 138.558109,
+      "street": "Daws Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:29:30Z"
+    },
+    {
+      "id": "0696d65d-b40a-4fd4-9385-bed7af030dd9",
+      "latitude": -35.054734,
+      "longitude": 138.563004,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:32:55Z"
+    },
+    {
+      "id": "fcb02e37-9b6b-49d2-bad8-e758b714c398",
+      "latitude": -35.017385,
+      "longitude": 138.552657,
+      "street": "Sturt Rd",
+      "city": "Sturt",
+      "type": "mobile",
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:37:12Z"
     },
     {
       "id": "59c7130e-3fbe-4204-a9b8-7b79fdcd957e",
@@ -87,38 +117,28 @@
       "street": "Kelly Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
+      "timestamp": "2026-04-15T09:00:22Z",
       "reported_at": "2026-04-15T06:11:48Z"
     },
     {
-      "id": "26d263e9-b871-4eda-ac01-a9566d87a59b",
-      "latitude": -35.130735,
-      "longitude": 138.523982,
-      "street": "A13 - Main South Rd",
-      "city": "Morphett Vale",
+      "id": "26725dbd-550a-44a0-b68c-54610897bdec",
+      "latitude": -34.761197,
+      "longitude": 138.594929,
+      "street": "Bolivar Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
-      "reported_at": "2026-04-15T08:05:51Z"
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:31:45Z"
     },
     {
-      "id": "1b10925a-7c07-4262-892c-940e9f8f4d50",
-      "latitude": -34.908478,
-      "longitude": 138.577236,
-      "street": "R1 - Park Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "7b8225e1-65b9-46d8-b86a-979c16828adf",
+      "latitude": -34.728532,
+      "longitude": 138.675161,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
-      "reported_at": "2026-04-15T07:52:37Z"
-    },
-    {
-      "id": "44b7d276-4e25-4846-8a53-d2784e62f301",
-      "latitude": -34.849881,
-      "longitude": 138.57248,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Wingfield",
-      "type": "mobile",
-      "timestamp": "2026-04-15T08:30:23Z",
-      "reported_at": "2026-04-15T08:21:06Z"
+      "timestamp": "2026-04-15T09:00:22Z",
+      "reported_at": "2026-04-15T08:32:06Z"
     }
   ]
 }
