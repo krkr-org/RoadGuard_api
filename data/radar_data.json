@@ -1,33 +1,13 @@
 {
   "radars": [
     {
-      "id": "40a985bf-b4be-4239-aa25-667d45cb2ceb",
-      "latitude": -35.064583,
-      "longitude": 138.526677,
-      "street": "Alfonso Dr",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
-      "reported_at": "2026-04-15T07:24:22Z"
-    },
-    {
-      "id": "05a59a3a-45e2-415f-a957-bbb54b55f64b",
-      "latitude": -34.886637,
-      "longitude": 138.522575,
-      "street": "Todville St",
-      "city": "Woodville West",
-      "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
-      "reported_at": "2026-04-15T07:29:20Z"
-    },
-    {
       "id": "f0b21f7f-f285-4689-a306-2bd3a108922d",
       "latitude": -34.795006,
       "longitude": 138.646602,
       "street": "Ayfield Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
+      "timestamp": "2026-04-15T11:30:23Z",
       "reported_at": "2026-04-15T07:39:49Z"
     },
     {
@@ -37,28 +17,28 @@
       "street": "Military Rd",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
+      "timestamp": "2026-04-15T11:30:23Z",
       "reported_at": "2026-04-15T08:28:04Z"
     },
     {
-      "id": "6dd4907f-656b-4d32-9011-189e064e9686",
-      "latitude": -35.062535,
-      "longitude": 138.516605,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
-      "reported_at": "2026-04-15T07:24:27Z"
-    },
-    {
-      "id": "76afe502-2feb-4a7e-ab0a-75bf12e7fc2e",
-      "latitude": -34.68325,
-      "longitude": 138.671917,
+      "id": "acdbba4c-4aca-4b50-b9f1-59cf119c6e10",
+      "latitude": -34.691171,
+      "longitude": 138.66867,
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
-      "reported_at": "2026-04-15T10:48:26Z"
+      "timestamp": "2026-04-15T11:30:23Z",
+      "reported_at": "2026-04-15T10:24:30Z"
+    },
+    {
+      "id": "ccd6974f-4d85-4d8a-ac65-e5d83728e5ad",
+      "latitude": -34.787162,
+      "longitude": 138.666666,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-04-15T11:30:23Z",
+      "reported_at": "2026-04-15T10:52:24Z"
     },
     {
       "id": "49db7bc8-3bf0-481c-856a-4179197dbcef",
@@ -67,8 +47,18 @@
       "street": "A15 - Lonsdale Rd",
       "city": "Sheidow Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
+      "timestamp": "2026-04-15T11:30:23Z",
       "reported_at": "2026-04-15T10:43:36Z"
+    },
+    {
+      "id": "13fd4dcc-a501-4030-abe0-eda818f93e54",
+      "latitude": -35.065538,
+      "longitude": 138.532193,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-15T11:30:23Z",
+      "reported_at": "2026-04-15T11:20:45Z"
     },
     {
       "id": "d2d0b010-c5ee-4704-8251-a3cf66ba40b8",
@@ -77,8 +67,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-15T11:00:22Z",
+      "timestamp": "2026-04-15T11:30:23Z",
       "reported_at": "2026-04-15T10:18:36Z"
+    },
+    {
+      "id": "96a05475-c7d1-4512-875e-9165f95d9b5b",
+      "latitude": -34.698034,
+      "longitude": 138.684126,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-04-15T11:30:23Z",
+      "reported_at": "2026-04-15T11:13:40Z"
     }
   ]
 }
