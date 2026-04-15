@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "07f88a1e-96fb-4536-9777-5d1b30549ed0",
-      "latitude": -34.992198,
-      "longitude": 138.513354,
-      "street": "Tarlton St",
-      "city": "Somerton Park",
+      "id": "3dad6aed-ed27-45f9-a939-ea0d58325a2e",
+      "latitude": -34.923203,
+      "longitude": 138.607969,
+      "street": "Frome St",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
-      "reported_at": "2026-04-15T22:45:14Z"
+      "timestamp": "2026-04-15T23:30:23Z",
+      "reported_at": "2026-04-15T23:11:01Z"
     },
     {
       "id": "5410eee6-dce3-40ee-a2f8-62981bbd872f",
@@ -17,38 +17,18 @@
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
+      "timestamp": "2026-04-15T23:30:23Z",
       "reported_at": "2026-04-15T22:20:33Z"
     },
     {
-      "id": "31d1a003-ed50-44a0-8dfe-ac3a3abffad2",
-      "latitude": -35.115582,
-      "longitude": 138.548371,
-      "street": "Panalatinga Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
-      "reported_at": "2026-04-15T22:33:23Z"
-    },
-    {
-      "id": "fcf0f5b2-a3ce-4688-9ceb-01a8823a9033",
-      "latitude": -34.92169,
-      "longitude": 138.594931,
+      "id": "699f6194-8f49-4c12-8475-df8b6b993a44",
+      "latitude": -34.921871,
+      "longitude": 138.594347,
       "street": "North Tce",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
-      "reported_at": "2026-04-15T22:43:13Z"
-    },
-    {
-      "id": "5484a1bf-4a45-42c2-b7b3-27b004f3afee",
-      "latitude": -34.921533,
-      "longitude": 138.593374,
-      "street": "Montefiore Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
-      "reported_at": "2026-04-15T22:23:18Z"
+      "timestamp": "2026-04-15T23:30:23Z",
+      "reported_at": "2026-04-15T23:01:32Z"
     },
     {
       "id": "8a2a2286-c084-43f8-b386-a7cd720f8058",
@@ -57,28 +37,38 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
+      "timestamp": "2026-04-15T23:30:23Z",
       "reported_at": "2026-04-15T22:07:39Z"
     },
     {
-      "id": "6d6ec29c-09c5-4c3e-b211-150aa1cd3239",
-      "latitude": -34.875012,
-      "longitude": 138.570959,
-      "street": "Regency Rd",
-      "city": "Regency Park",
+      "id": "1d4051f1-a963-4b7e-bb57-f7e96d270121",
+      "latitude": -35.001677,
+      "longitude": 138.702809,
+      "street": "B28 - Waverley Ridge Rd",
+      "city": "Crafers West",
       "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
-      "reported_at": "2026-04-15T22:29:22Z"
+      "timestamp": "2026-04-15T23:30:23Z",
+      "reported_at": "2026-04-15T23:14:32Z"
     },
     {
-      "id": "e29334b6-120d-4013-af57-525cc9bfb712",
-      "latitude": -34.826356,
-      "longitude": 138.603924,
-      "street": "Montague Rd",
-      "city": "Cavan",
+      "id": "74d3b065-e059-4aa4-90c9-6cb00f8d65b4",
+      "latitude": -34.921592,
+      "longitude": 138.548783,
+      "street": "A14 - Holbrooks Rd",
+      "city": "Underdale",
       "type": "mobile",
-      "timestamp": "2026-04-15T23:00:22Z",
-      "reported_at": "2026-04-15T22:36:28Z"
+      "timestamp": "2026-04-15T23:30:23Z",
+      "reported_at": "2026-04-15T23:09:37Z"
+    },
+    {
+      "id": "8f158a49-f401-4006-a106-9c6c484544b2",
+      "latitude": -34.910743,
+      "longitude": 138.612963,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-15T23:30:23Z",
+      "reported_at": "2026-04-15T23:24:35Z"
     }
   ]
 }
