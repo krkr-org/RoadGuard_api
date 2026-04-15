@@ -1,54 +1,44 @@
 {
   "radars": [
     {
-      "id": "36b85fbc-bf02-42ba-8849-eb375fa760ec",
-      "latitude": -34.861728,
-      "longitude": 138.679861,
+      "id": "3b840519-0089-4c00-b27c-99cab80c6674",
+      "latitude": -34.872382,
+      "longitude": 138.694907,
+      "street": "Schulze Rd",
+      "city": "Paradise",
+      "type": "mobile",
+      "timestamp": "2026-04-15T02:30:23Z",
+      "reported_at": "2026-04-15T00:26:20Z"
+    },
+    {
+      "id": "98f5dc9d-c2bd-44ca-9bbc-cceddc262993",
+      "latitude": -34.862693,
+      "longitude": 138.679945,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-14T22:30:01Z"
+      "timestamp": "2026-04-15T02:30:23Z",
+      "reported_at": "2026-04-15T00:32:40Z"
     },
     {
-      "id": "7000c087-ef73-4d2f-bd0e-17b2d58120fb",
-      "latitude": -34.879383,
-      "longitude": 138.49771,
-      "street": "West Lakes Bvd",
-      "city": "West Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-15T01:36:08Z"
-    },
-    {
-      "id": "8aaac7ea-763d-48e9-8b99-bff0aac10324",
-      "latitude": -34.824847,
-      "longitude": 138.615444,
-      "street": "Montague Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-15T01:27:52Z"
-    },
-    {
-      "id": "0ce226ce-6745-49a2-adf5-5734fae79824",
-      "latitude": -34.850871,
-      "longitude": 138.69415,
+      "id": "57d8326e-148b-4c0d-8689-19d5b40c9613",
+      "latitude": -34.851125,
+      "longitude": 138.694163,
       "street": "Awoonga Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-14T23:04:53Z"
+      "timestamp": "2026-04-15T02:30:23Z",
+      "reported_at": "2026-04-14T22:17:27Z"
     },
     {
-      "id": "3801c5c4-4e7e-405a-9191-1eb1aaf49f16",
-      "latitude": -34.87024,
-      "longitude": 138.666047,
-      "street": "Darley Rd",
-      "city": "Paradise",
+      "id": "9ef5b5d1-e3b4-4358-85d0-1ec20fca21f9",
+      "latitude": -34.824616,
+      "longitude": 138.617237,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-14T22:08:30Z"
+      "timestamp": "2026-04-15T02:30:23Z",
+      "reported_at": "2026-04-15T01:43:05Z"
     },
     {
       "id": "b520529a-cb42-4bb8-a41d-c5977e4b8a62",
@@ -57,28 +47,18 @@
       "street": "Diment Rd",
       "city": "Salisbury North",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
+      "timestamp": "2026-04-15T02:30:23Z",
       "reported_at": "2026-04-15T01:15:35Z"
     },
     {
-      "id": "6034bc7f-f828-4b26-860f-c2b3a98eec07",
-      "latitude": -35.104113,
-      "longitude": 138.528345,
-      "street": "A13 - Main South Rd",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-15T01:37:21Z"
-    },
-    {
-      "id": "8ab4fd6a-a87d-451d-b638-4e371e845d56",
-      "latitude": -34.840118,
-      "longitude": 138.715028,
+      "id": "5113d8e2-5235-4c2c-8e45-945518ca4ef2",
+      "latitude": -34.84056,
+      "longitude": 138.710368,
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-14T22:30:17Z"
+      "timestamp": "2026-04-15T02:30:23Z",
+      "reported_at": "2026-04-14T23:07:25Z"
     },
     {
       "id": "cf99b857-8033-4ef8-b96f-efeb3bb568bf",
@@ -87,28 +67,18 @@
       "street": "B31 - Gorge Rd",
       "city": "Athelstone",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
+      "timestamp": "2026-04-15T02:30:23Z",
       "reported_at": "2026-04-14T22:06:12Z"
     },
     {
-      "id": "45c2af7f-403e-4b75-81a8-bcb5884177a7",
-      "latitude": -34.824389,
-      "longitude": 138.709446,
+      "id": "8e8c88cc-2002-44f6-acd2-b788a8bec1ef",
+      "latitude": -34.823772,
+      "longitude": 138.710113,
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-14T22:38:47Z"
-    },
-    {
-      "id": "4d424dea-af26-4c23-8cd6-9c13d675c772",
-      "latitude": -35.053542,
-      "longitude": 138.546216,
-      "street": "M2 - Southern Exp",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-15T02:00:25Z",
-      "reported_at": "2026-04-15T01:47:58Z"
+      "timestamp": "2026-04-15T02:30:23Z",
+      "reported_at": "2026-04-14T22:47:48Z"
     }
   ]
 }
