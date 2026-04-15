@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "59321561-48d1-446a-bdb4-61d50058c472",
+      "latitude": -35.100538,
+      "longitude": 138.510563,
+      "street": "Moore Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-15T07:30:23Z",
+      "reported_at": "2026-04-15T06:37:20Z"
+    },
+    {
       "id": "b23487e5-ed3a-4b57-b147-645917ae372d",
       "latitude": -35.062492,
       "longitude": 138.517487,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
+      "timestamp": "2026-04-15T07:30:23Z",
       "reported_at": "2026-04-15T06:37:00Z"
     },
     {
@@ -17,38 +27,38 @@
       "street": "Regency Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
+      "timestamp": "2026-04-15T07:30:23Z",
       "reported_at": "2026-04-15T06:36:30Z"
     },
     {
-      "id": "69a04da3-3661-483a-b330-d9094d3416e1",
-      "latitude": -34.962717,
-      "longitude": 138.615213,
-      "street": "Duthy St",
-      "city": "Malvern",
+      "id": "c40609a8-6f03-4a4e-9d4e-74311de12dbb",
+      "latitude": -34.976152,
+      "longitude": 138.608691,
+      "street": "Grange Rd",
+      "city": "Hawthorn",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T06:36:15Z"
+      "timestamp": "2026-04-15T07:30:23Z",
+      "reported_at": "2026-04-15T07:05:11Z"
     },
     {
-      "id": "26fbaf39-53e6-4fb9-920e-b918f247afb4",
-      "latitude": -34.861458,
-      "longitude": 138.651947,
-      "street": "Pitman Rd",
-      "city": "Windsor Gardens",
+      "id": "4a148c6c-b7c7-43fa-8985-f5f28ca6e426",
+      "latitude": -34.832887,
+      "longitude": 138.565082,
+      "street": "to M2 - North South Mwy to Regency Park / City",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T06:45:54Z"
+      "timestamp": "2026-04-15T07:30:23Z",
+      "reported_at": "2026-04-15T07:27:31Z"
     },
     {
-      "id": "02b5263c-0719-4b79-8cd1-04a2eb7f6b1f",
-      "latitude": -34.850269,
-      "longitude": 138.694229,
-      "street": "Macdonnell St",
-      "city": "Highbury",
+      "id": "0c9f3003-ab02-43b7-acf6-911b848c3487",
+      "latitude": -34.734544,
+      "longitude": 138.640314,
+      "street": "Purling Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T03:24:27Z"
+      "timestamp": "2026-04-15T07:30:23Z",
+      "reported_at": "2026-04-15T06:08:54Z"
     },
     {
       "id": "95ee1624-ef38-437a-a255-65876ce6de8e",
@@ -57,58 +67,18 @@
       "street": "Crittenden Rd",
       "city": "Smithfield Plains",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
+      "timestamp": "2026-04-15T07:30:23Z",
       "reported_at": "2026-04-15T06:31:48Z"
     },
     {
-      "id": "437a833a-3ca4-4d36-bb17-92987d0a931e",
-      "latitude": -34.873053,
-      "longitude": 138.528448,
-      "street": "Cheltenham Pde",
-      "city": "Cheltenham",
+      "id": "a6b7af30-7f7c-4850-94bb-fa7d9a388914",
+      "latitude": -34.97563,
+      "longitude": 138.59148,
+      "street": "Goodwood Rd",
+      "city": "Cumberland Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T06:37:32Z"
-    },
-    {
-      "id": "92b6b145-3095-4883-af8a-a754d088625a",
-      "latitude": -34.801543,
-      "longitude": 138.606851,
-      "street": "Elder Smith Rd",
-      "city": "Mawson Lakes",
-      "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T06:38:14Z"
-    },
-    {
-      "id": "ecdef514-0c7e-44ea-8b98-cf75407644a7",
-      "latitude": -34.780764,
-      "longitude": 138.497388,
-      "street": "A16 - Victoria Rd",
-      "city": "Outer Harbor",
-      "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T04:18:40Z"
-    },
-    {
-      "id": "3061d66c-14d9-43e8-b93c-705efb2e6b76",
-      "latitude": -34.96548,
-      "longitude": 138.608858,
-      "street": "A3 - Cross Rd",
-      "city": "Malvern",
-      "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T06:20:39Z"
-    },
-    {
-      "id": "65280816-2314-488a-9e6f-b458d657447b",
-      "latitude": -34.908219,
-      "longitude": 138.628978,
-      "street": "A11 - Payneham Rd",
-      "city": "St. Peters",
-      "type": "mobile",
-      "timestamp": "2026-04-15T07:00:24Z",
-      "reported_at": "2026-04-15T06:35:55Z"
+      "timestamp": "2026-04-15T07:30:23Z",
+      "reported_at": "2026-04-15T07:25:20Z"
     }
   ]
 }
