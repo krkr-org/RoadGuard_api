@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "0e019412-e7c0-4519-84f6-f82cd32be14a",
+      "latitude": -34.883604,
+      "longitude": 138.66597,
+      "street": "Clairville Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-04-15T03:00:27Z",
+      "reported_at": "2026-04-15T02:07:23Z"
+    },
+    {
       "id": "3b840519-0089-4c00-b27c-99cab80c6674",
       "latitude": -34.872382,
       "longitude": 138.694907,
       "street": "Schulze Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
+      "timestamp": "2026-04-15T03:00:27Z",
       "reported_at": "2026-04-15T00:26:20Z"
     },
     {
@@ -17,18 +27,18 @@
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
+      "timestamp": "2026-04-15T03:00:27Z",
       "reported_at": "2026-04-15T00:32:40Z"
     },
     {
-      "id": "57d8326e-148b-4c0d-8689-19d5b40c9613",
-      "latitude": -34.851125,
-      "longitude": 138.694163,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
+      "id": "9897fc39-0859-4ae8-8787-608c4a4d8695",
+      "latitude": -34.882593,
+      "longitude": 138.57143,
+      "street": "South Rd",
+      "city": "Croydon Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
-      "reported_at": "2026-04-14T22:17:27Z"
+      "timestamp": "2026-04-15T03:00:27Z",
+      "reported_at": "2026-04-15T02:36:08Z"
     },
     {
       "id": "9ef5b5d1-e3b4-4358-85d0-1ec20fca21f9",
@@ -37,18 +47,28 @@
       "street": "Montague Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
+      "timestamp": "2026-04-15T03:00:27Z",
       "reported_at": "2026-04-15T01:43:05Z"
     },
     {
-      "id": "b520529a-cb42-4bb8-a41d-c5977e4b8a62",
-      "latitude": -34.741658,
-      "longitude": 138.629117,
-      "street": "Diment Rd",
-      "city": "Salisbury North",
+      "id": "0ce226ce-6745-49a2-adf5-5734fae79824",
+      "latitude": -34.850871,
+      "longitude": 138.69415,
+      "street": "Awoonga Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
-      "reported_at": "2026-04-15T01:15:35Z"
+      "timestamp": "2026-04-15T03:00:27Z",
+      "reported_at": "2026-04-14T23:04:53Z"
+    },
+    {
+      "id": "59cb0cd0-7657-492f-9783-7fc8fe3e0d18",
+      "latitude": -34.817021,
+      "longitude": 138.677013,
+      "street": "A18 - McIntyre Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-04-15T03:00:27Z",
+      "reported_at": "2026-04-15T02:50:15Z"
     },
     {
       "id": "5113d8e2-5235-4c2c-8e45-945518ca4ef2",
@@ -57,28 +77,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
+      "timestamp": "2026-04-15T03:00:27Z",
       "reported_at": "2026-04-14T23:07:25Z"
     },
     {
-      "id": "cf99b857-8033-4ef8-b96f-efeb3bb568bf",
-      "latitude": -34.875918,
-      "longitude": 138.694905,
-      "street": "B31 - Gorge Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
-      "reported_at": "2026-04-14T22:06:12Z"
-    },
-    {
-      "id": "8e8c88cc-2002-44f6-acd2-b788a8bec1ef",
-      "latitude": -34.823772,
-      "longitude": 138.710113,
+      "id": "45c2af7f-403e-4b75-81a8-bcb5884177a7",
+      "latitude": -34.824389,
+      "longitude": 138.709446,
       "street": "A10 - North East Rd",
       "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-04-15T02:30:23Z",
-      "reported_at": "2026-04-14T22:47:48Z"
+      "timestamp": "2026-04-15T03:00:27Z",
+      "reported_at": "2026-04-14T22:38:47Z"
     }
   ]
 }
