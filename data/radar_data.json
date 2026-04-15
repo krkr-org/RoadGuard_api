@@ -1,54 +1,34 @@
 {
   "radars": [
     {
-      "id": "3036563b-5408-458d-bbba-319bac48711c",
-      "latitude": -34.861993,
-      "longitude": 138.679885,
+      "id": "36b85fbc-bf02-42ba-8849-eb375fa760ec",
+      "latitude": -34.861728,
+      "longitude": 138.679861,
       "street": "Balmoral Rd",
       "city": "Dernancourt",
       "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
-      "reported_at": "2026-04-14T22:25:47Z"
+      "timestamp": "2026-04-15T01:30:23Z",
+      "reported_at": "2026-04-14T22:30:01Z"
     },
     {
-      "id": "3c3b0164-11b1-49e4-9b1f-95d314396949",
-      "latitude": -34.870942,
-      "longitude": 138.666656,
+      "id": "3801c5c4-4e7e-405a-9191-1eb1aaf49f16",
+      "latitude": -34.87024,
+      "longitude": 138.666047,
       "street": "Darley Rd",
       "city": "Paradise",
       "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
-      "reported_at": "2026-04-14T22:23:41Z"
+      "timestamp": "2026-04-15T01:30:23Z",
+      "reported_at": "2026-04-14T22:08:30Z"
     },
     {
-      "id": "d0e6669c-f072-446c-97d8-9d4ff1cdd041",
-      "latitude": -34.847906,
-      "longitude": 138.693979,
-      "street": "Awoonga Rd",
-      "city": "Hope Valley",
+      "id": "fe6cdac0-4e44-45ae-835d-f665031a56ad",
+      "latitude": -34.820481,
+      "longitude": 138.59799,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Cavan",
       "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
-      "reported_at": "2026-04-14T23:00:06Z"
-    },
-    {
-      "id": "b8b3d60d-716d-459a-ab19-86a27ec3c1db",
-      "latitude": -34.87573,
-      "longitude": 138.695141,
-      "street": "B31 - Gorge Rd",
-      "city": "Athelstone",
-      "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
-      "reported_at": "2026-04-14T22:06:21Z"
-    },
-    {
-      "id": "45c2af7f-403e-4b75-81a8-bcb5884177a7",
-      "latitude": -34.824389,
-      "longitude": 138.709446,
-      "street": "A10 - North East Rd",
-      "city": "Ridgehaven",
-      "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
-      "reported_at": "2026-04-14T22:38:47Z"
+      "timestamp": "2026-04-15T01:30:23Z",
+      "reported_at": "2026-04-15T01:22:44Z"
     },
     {
       "id": "5113d8e2-5235-4c2c-8e45-945518ca4ef2",
@@ -57,18 +37,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
+      "timestamp": "2026-04-15T01:30:23Z",
       "reported_at": "2026-04-14T23:07:25Z"
     },
     {
-      "id": "1927d067-368e-465d-b8ec-96508efea76e",
-      "latitude": -35.048662,
-      "longitude": 138.547957,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "45c2af7f-403e-4b75-81a8-bcb5884177a7",
+      "latitude": -34.824389,
+      "longitude": 138.709446,
+      "street": "A10 - North East Rd",
+      "city": "Ridgehaven",
       "type": "mobile",
-      "timestamp": "2026-04-15T01:00:27Z",
-      "reported_at": "2026-04-15T00:57:03Z"
+      "timestamp": "2026-04-15T01:30:23Z",
+      "reported_at": "2026-04-14T22:38:47Z"
+    },
+    {
+      "id": "cf99b857-8033-4ef8-b96f-efeb3bb568bf",
+      "latitude": -34.875918,
+      "longitude": 138.694905,
+      "street": "B31 - Gorge Rd",
+      "city": "Athelstone",
+      "type": "mobile",
+      "timestamp": "2026-04-15T01:30:23Z",
+      "reported_at": "2026-04-14T22:06:12Z"
     }
   ]
 }
