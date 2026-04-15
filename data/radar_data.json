@@ -1,34 +1,34 @@
 {
   "radars": [
     {
-      "id": "e326a5c9-a440-49f9-8210-b82efca95415",
-      "latitude": -34.908527,
-      "longitude": 138.492264,
-      "street": "Military Rd",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-15T12:30:23Z",
-      "reported_at": "2026-04-15T08:28:04Z"
-    },
-    {
       "id": "2d060690-5dcc-4af5-8b24-5bbc29abc9ce",
       "latitude": -35.062463,
       "longitude": 138.518086,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-15T12:30:23Z",
+      "timestamp": "2026-04-15T13:00:24Z",
       "reported_at": "2026-04-15T10:10:06Z"
     },
     {
-      "id": "398022e0-6f55-4709-a7dc-e9a23aa970e0",
-      "latitude": -34.837896,
-      "longitude": 138.48044,
-      "street": "Esplanade",
-      "city": "Semaphore",
+      "id": "3cbc75b1-3e5f-438b-98d1-dd7a94b461dc",
+      "latitude": -34.856829,
+      "longitude": 138.677304,
+      "street": "Lyons Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-04-15T12:30:23Z",
-      "reported_at": "2026-04-15T11:56:33Z"
+      "timestamp": "2026-04-15T13:00:24Z",
+      "reported_at": "2026-04-15T12:34:07Z"
+    },
+    {
+      "id": "4d665770-7fb3-4321-b444-747c6cd6ab18",
+      "latitude": -34.937666,
+      "longitude": 138.611117,
+      "street": "Glen Osmond Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-15T13:00:24Z",
+      "reported_at": "2026-04-15T12:29:44Z"
     },
     {
       "id": "acdbba4c-4aca-4b50-b9f1-59cf119c6e10",
@@ -37,7 +37,7 @@
       "street": "Peachey Rd",
       "city": "Davoren Park",
       "type": "mobile",
-      "timestamp": "2026-04-15T12:30:23Z",
+      "timestamp": "2026-04-15T13:00:24Z",
       "reported_at": "2026-04-15T10:24:30Z"
     },
     {
@@ -47,18 +47,8 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-15T12:30:23Z",
+      "timestamp": "2026-04-15T13:00:24Z",
       "reported_at": "2026-04-15T10:18:36Z"
-    },
-    {
-      "id": "d487ea8c-4f0d-4811-b669-01d460c92188",
-      "latitude": -34.695207,
-      "longitude": 138.685902,
-      "street": "A20 - Main North Rd",
-      "city": "Elizabeth North",
-      "type": "mobile",
-      "timestamp": "2026-04-15T12:30:23Z",
-      "reported_at": "2026-04-15T12:04:09Z"
     }
   ]
 }
