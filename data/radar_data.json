@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "a221fd23-6061-47cc-8a14-af4d1b66c171",
-      "latitude": -34.806776,
-      "longitude": 138.624076,
+      "id": "4e5ef86b-08f5-4885-a4dc-60df8533074b",
+      "latitude": -35.125123,
+      "longitude": 138.54552,
+      "street": "Wheatsheaf Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-16T23:00:22Z",
+      "reported_at": "2026-04-16T22:51:30Z"
+    },
+    {
+      "id": "8f516f46-28f2-4ba7-8044-17610210dcfa",
+      "latitude": -34.807086,
+      "longitude": 138.625701,
       "street": "Elder Smith Rd",
       "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-04-16T22:30:23Z",
-      "reported_at": "2026-04-16T22:28:31Z"
+      "timestamp": "2026-04-16T23:00:22Z",
+      "reported_at": "2026-04-16T22:16:19Z"
     },
     {
       "id": "d0a3177a-ac66-4349-809f-afcda2d6d102",
@@ -17,8 +27,18 @@
       "street": "Prospect Rd",
       "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-16T22:30:23Z",
+      "timestamp": "2026-04-16T23:00:22Z",
       "reported_at": "2026-04-16T22:21:48Z"
+    },
+    {
+      "id": "bd8f5cdb-9ef1-48c2-8479-0e20c53d149e",
+      "latitude": -34.807702,
+      "longitude": 138.627328,
+      "street": "Elder Smith Rd",
+      "city": "Mawson Lakes",
+      "type": "mobile",
+      "timestamp": "2026-04-16T23:00:22Z",
+      "reported_at": "2026-04-16T22:42:59Z"
     },
     {
       "id": "c1f822ad-e4d9-4032-83a2-dec13dc34510",
@@ -27,7 +47,7 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-16T22:30:23Z",
+      "timestamp": "2026-04-16T23:00:22Z",
       "reported_at": "2026-04-16T22:25:09Z"
     }
   ]
