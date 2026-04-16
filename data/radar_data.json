@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "4cc54224-8056-4b9e-9de4-b98492883484",
-      "latitude": -34.729063,
-      "longitude": 138.68136,
+      "id": "81102c4e-f073-4f0e-95f1-aa477037ca6b",
+      "latitude": -34.73039,
+      "longitude": 138.680856,
       "street": "Halsey Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T06:22:43Z"
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T05:59:28Z"
     },
     {
       "id": "c19b45e6-af71-4f3b-8d22-1adcb5222ecc",
@@ -17,18 +17,8 @@
       "street": "Brodie Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
+      "timestamp": "2026-04-16T09:30:22Z",
       "reported_at": "2026-04-16T07:25:45Z"
-    },
-    {
-      "id": "d93b1c75-59b5-48a7-b958-fc4fdb726516",
-      "latitude": -34.845373,
-      "longitude": 138.486785,
-      "street": "Swan Tce",
-      "city": "Semaphore South",
-      "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T08:47:16Z"
     },
     {
       "id": "67394137-b6c8-41f7-89e7-c781af45d18b",
@@ -37,18 +27,38 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
+      "timestamp": "2026-04-16T09:30:22Z",
       "reported_at": "2026-04-16T08:13:05Z"
     },
     {
-      "id": "790d2725-d676-41a3-bfce-e9fe5f17f661",
-      "latitude": -34.68054,
-      "longitude": 138.685473,
+      "id": "daa3c14e-0766-4929-ba65-ea04401b384b",
+      "latitude": -34.678478,
+      "longitude": 138.76503,
+      "street": "Medlow Rd",
+      "city": "Uleybury",
+      "type": "mobile",
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T06:57:32Z"
+    },
+    {
+      "id": "59ffc6d5-7894-429c-bd18-b8a534966075",
+      "latitude": -34.720597,
+      "longitude": 138.681579,
+      "street": "Kinkaid Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T09:16:23Z"
+    },
+    {
+      "id": "bc0749e2-e58c-4f07-9c37-e56054330c1f",
+      "latitude": -34.680338,
+      "longitude": 138.685102,
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T07:20:05Z"
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T09:04:55Z"
     },
     {
       "id": "42d0f5f1-146c-4114-bf9a-d04b1cee38d3",
@@ -57,8 +67,18 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
+      "timestamp": "2026-04-16T09:30:22Z",
       "reported_at": "2026-04-16T06:29:56Z"
+    },
+    {
+      "id": "1bff0e1b-7476-42e4-8185-8aa752c9a52e",
+      "latitude": -34.72183,
+      "longitude": 138.683415,
+      "street": "Midway Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T09:03:58Z"
     },
     {
       "id": "64415505-b243-4350-881f-1803e2a1de0d",
@@ -67,18 +87,8 @@
       "street": "Blackburn Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
+      "timestamp": "2026-04-16T09:30:22Z",
       "reported_at": "2026-04-16T08:39:01Z"
-    },
-    {
-      "id": "0de49169-3cfc-46b6-9a7f-75665c2b9e19",
-      "latitude": -34.670254,
-      "longitude": 138.71518,
-      "street": "Medlow Rd",
-      "city": "Blakeview",
-      "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T08:29:19Z"
     },
     {
       "id": "690da18c-fa60-4dce-9971-3e92701e0217",
@@ -87,7 +97,7 @@
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
+      "timestamp": "2026-04-16T09:30:22Z",
       "reported_at": "2026-04-16T07:42:45Z"
     },
     {
@@ -97,48 +107,48 @@
       "street": "B28 - James Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
+      "timestamp": "2026-04-16T09:30:22Z",
       "reported_at": "2026-04-16T07:35:54Z"
     },
     {
-      "id": "34965a84-e7ca-48bf-9eb9-4fcb5cdabdf6",
-      "latitude": -34.990452,
-      "longitude": 138.625053,
-      "street": "B28 - Old Belair Rd",
-      "city": "Belair",
+      "id": "284f8eec-9753-4f29-ba38-28fe722454de",
+      "latitude": -34.85348,
+      "longitude": 138.663938,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T08:26:02Z"
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T09:10:05Z"
     },
     {
-      "id": "c94d9e68-c9cf-4cec-9c89-6b99f5b7d4e8",
-      "latitude": -34.839103,
-      "longitude": 138.676723,
+      "id": "1edc694b-b141-49f1-8a6c-b0fcd8ed618a",
+      "latitude": -34.839292,
+      "longitude": 138.67627,
       "street": "A10 - North East Rd",
       "city": "Modbury",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T08:35:58Z"
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T08:59:08Z"
     },
     {
-      "id": "ec45585b-c2fa-4bd5-ad80-3e8d7cb0ac5b",
-      "latitude": -34.772329,
-      "longitude": 138.632436,
+      "id": "f5065553-fa57-40db-bc89-b7720d8f4c10",
+      "latitude": -34.83389,
+      "longitude": 138.681487,
+      "street": "A18 - Wright Rd",
+      "city": "Modbury",
+      "type": "mobile",
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T09:05:12Z"
+    },
+    {
+      "id": "f48ea011-b715-47a2-83f0-237d3ef0f410",
+      "latitude": -34.771125,
+      "longitude": 138.633542,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T08:22:09Z"
-    },
-    {
-      "id": "a69b5b64-2901-4136-bb4b-e362c7b2ba80",
-      "latitude": -35.036172,
-      "longitude": 138.557525,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-04-16T09:00:22Z",
-      "reported_at": "2026-04-16T08:48:05Z"
+      "timestamp": "2026-04-16T09:30:22Z",
+      "reported_at": "2026-04-16T09:04:59Z"
     }
   ]
 }
