@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "440ff0cf-b3cf-4fe2-9854-a9b147485019",
+      "latitude": -34.917371,
+      "longitude": 138.649642,
+      "street": "Unknown Street",
+      "city": "Beulah Park",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:00:24Z",
+      "reported_at": "2026-04-16T06:31:28Z"
+    },
+    {
       "id": "77b31571-1f74-4f48-a28e-aafbda3d4d7a",
       "latitude": -34.913863,
       "longitude": 138.527168,
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-04-16T06:30:22Z",
+      "timestamp": "2026-04-16T07:00:24Z",
       "reported_at": "2026-04-16T03:14:34Z"
     },
     {
@@ -17,48 +27,58 @@
       "street": "Stebonheath Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-04-16T06:30:22Z",
+      "timestamp": "2026-04-16T07:00:24Z",
       "reported_at": "2026-04-16T05:34:03Z"
     },
     {
-      "id": "5e3bdca7-c46e-4356-8cd5-eef91ea7d073",
-      "latitude": -34.876598,
-      "longitude": 138.484591,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
+      "id": "42d0f5f1-146c-4114-bf9a-d04b1cee38d3",
+      "latitude": -34.699027,
+      "longitude": 138.714585,
+      "street": "Uley Rd",
+      "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-04-16T06:30:22Z",
-      "reported_at": "2026-04-16T06:24:12Z"
+      "timestamp": "2026-04-16T07:00:24Z",
+      "reported_at": "2026-04-16T06:29:56Z"
     },
     {
-      "id": "e7c20c8d-db77-4481-9f3b-fa173b801a45",
-      "latitude": -35.10553,
-      "longitude": 138.518359,
-      "street": "Sherriffs Rd",
-      "city": "Reynella",
+      "id": "8e88b4b7-1c4b-4e7e-bfd4-7608d451aec0",
+      "latitude": -34.680232,
+      "longitude": 138.684857,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-04-16T06:30:22Z",
-      "reported_at": "2026-04-16T05:57:00Z"
+      "timestamp": "2026-04-16T07:00:24Z",
+      "reported_at": "2026-04-16T06:44:37Z"
     },
     {
-      "id": "e4eb8a0c-6857-42d6-a2e1-3831c456353c",
-      "latitude": -34.748623,
-      "longitude": 138.682426,
+      "id": "8eb4217f-1deb-45b6-9696-6aebcda16155",
+      "latitude": -34.782327,
+      "longitude": 138.607729,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:00:24Z",
+      "reported_at": "2026-04-16T06:29:54Z"
+    },
+    {
+      "id": "1662d548-4fe2-4f38-90f2-b382be611f36",
+      "latitude": -34.748634,
+      "longitude": 138.682419,
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-04-16T06:30:22Z",
-      "reported_at": "2026-04-16T06:04:28Z"
+      "timestamp": "2026-04-16T07:00:24Z",
+      "reported_at": "2026-04-16T06:18:57Z"
     },
     {
-      "id": "514d7584-a699-4a5c-bc83-ac025aff076e",
-      "latitude": -34.853844,
-      "longitude": 138.56482,
-      "street": "M2 - North-South Mwy",
-      "city": "Regency Park",
+      "id": "70384455-90f7-4dbe-9cc1-23135fcdcf6e",
+      "latitude": -34.941751,
+      "longitude": 138.588599,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-04-16T06:30:22Z",
-      "reported_at": "2026-04-16T06:20:41Z"
+      "timestamp": "2026-04-16T07:00:24Z",
+      "reported_at": "2026-04-16T06:32:27Z"
     }
   ]
 }
