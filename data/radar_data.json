@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "99edd2ee-2e3b-4d5e-bdda-ef035e668185",
-      "latitude": -34.920286,
-      "longitude": 138.553936,
-      "street": "Hardys Rd",
-      "city": "Underdale",
+      "id": "a221fd23-6061-47cc-8a14-af4d1b66c171",
+      "latitude": -34.806776,
+      "longitude": 138.624076,
+      "street": "Elder Smith Rd",
+      "city": "Parafield",
       "type": "mobile",
-      "timestamp": "2026-04-16T22:00:22Z",
-      "reported_at": "2026-04-16T21:50:12Z"
+      "timestamp": "2026-04-16T22:30:23Z",
+      "reported_at": "2026-04-16T22:28:31Z"
     },
     {
-      "id": "71dd64c6-cc26-4c2f-8ae6-9f5bfcdc32cb",
-      "latitude": -34.797498,
-      "longitude": 138.609933,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Green Fields",
+      "id": "d0a3177a-ac66-4349-809f-afcda2d6d102",
+      "latitude": -34.893331,
+      "longitude": 138.594448,
+      "street": "Prospect Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-16T22:00:22Z",
-      "reported_at": "2026-04-16T21:46:41Z"
+      "timestamp": "2026-04-16T22:30:23Z",
+      "reported_at": "2026-04-16T22:21:48Z"
+    },
+    {
+      "id": "c1f822ad-e4d9-4032-83a2-dec13dc34510",
+      "latitude": -34.901271,
+      "longitude": 138.606868,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-16T22:30:23Z",
+      "reported_at": "2026-04-16T22:25:09Z"
     }
   ]
 }
