@@ -1,23 +1,13 @@
 {
   "radars": [
     {
-      "id": "81102c4e-f073-4f0e-95f1-aa477037ca6b",
-      "latitude": -34.73039,
-      "longitude": 138.680856,
-      "street": "Halsey Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T05:59:28Z"
-    },
-    {
       "id": "c19b45e6-af71-4f3b-8d22-1adcb5222ecc",
       "latitude": -35.102186,
       "longitude": 138.509048,
       "street": "Brodie Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
+      "timestamp": "2026-04-16T10:30:23Z",
       "reported_at": "2026-04-16T07:25:45Z"
     },
     {
@@ -27,48 +17,28 @@
       "street": "Redward Av",
       "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
+      "timestamp": "2026-04-16T10:30:23Z",
       "reported_at": "2026-04-16T08:13:05Z"
     },
     {
-      "id": "790d2725-d676-41a3-bfce-e9fe5f17f661",
-      "latitude": -34.68054,
-      "longitude": 138.685473,
+      "id": "017eb081-af36-4eb9-bf85-c68aa4c2931f",
+      "latitude": -34.699098,
+      "longitude": 138.714794,
+      "street": "Uley Rd",
+      "city": "Craigmore",
+      "type": "mobile",
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T07:43:10Z"
+    },
+    {
+      "id": "bc0749e2-e58c-4f07-9c37-e56054330c1f",
+      "latitude": -34.680338,
+      "longitude": 138.685102,
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T07:20:05Z"
-    },
-    {
-      "id": "64415505-b243-4350-881f-1803e2a1de0d",
-      "latitude": -34.735092,
-      "longitude": 138.681437,
-      "street": "Blackburn Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T08:39:01Z"
-    },
-    {
-      "id": "49a5a88b-39de-4412-9449-384dc80ca2c8",
-      "latitude": -34.731019,
-      "longitude": 138.686912,
-      "street": "Highfield Dr",
-      "city": "Hillbank",
-      "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:21:36Z"
-    },
-    {
-      "id": "1bff0e1b-7476-42e4-8185-8aa752c9a52e",
-      "latitude": -34.72183,
-      "longitude": 138.683415,
-      "street": "Midway Rd",
-      "city": "Elizabeth East",
-      "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:03:58Z"
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T09:04:55Z"
     },
     {
       "id": "59ffc6d5-7894-429c-bd18-b8a534966075",
@@ -77,28 +47,38 @@
       "street": "Kinkaid Rd",
       "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
+      "timestamp": "2026-04-16T10:30:23Z",
       "reported_at": "2026-04-16T09:16:23Z"
     },
     {
-      "id": "d9149e40-b9ad-443d-8237-370cf951b982",
-      "latitude": -35.137212,
-      "longitude": 138.515085,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
+      "id": "64415505-b243-4350-881f-1803e2a1de0d",
+      "latitude": -34.735092,
+      "longitude": 138.681437,
+      "street": "Blackburn Rd",
+      "city": "Elizabeth East",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:43:54Z"
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T08:39:01Z"
     },
     {
-      "id": "4308dfbc-874d-494f-8711-4e7a17081a69",
-      "latitude": -34.928366,
-      "longitude": 138.606212,
-      "street": "Wakefield St",
-      "city": "Adelaide",
+      "id": "daa3c14e-0766-4929-ba65-ea04401b384b",
+      "latitude": -34.678478,
+      "longitude": 138.76503,
+      "street": "Medlow Rd",
+      "city": "Uleybury",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:38:33Z"
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T06:57:32Z"
+    },
+    {
+      "id": "49a5a88b-39de-4412-9449-384dc80ca2c8",
+      "latitude": -34.731019,
+      "longitude": 138.686912,
+      "street": "Highfield Dr",
+      "city": "Hillbank",
+      "type": "mobile",
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T09:21:36Z"
     },
     {
       "id": "eed022b4-ff4e-4a1a-91b0-641fd47df1ef",
@@ -107,7 +87,7 @@
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
+      "timestamp": "2026-04-16T10:30:23Z",
       "reported_at": "2026-04-16T08:34:40Z"
     },
     {
@@ -117,28 +97,28 @@
       "street": "B28 - James Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
+      "timestamp": "2026-04-16T10:30:23Z",
       "reported_at": "2026-04-16T07:35:54Z"
     },
     {
-      "id": "d90212a1-bc45-4f0f-a9af-dc9888093233",
-      "latitude": -34.819738,
-      "longitude": 138.677997,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
+      "id": "18a428bb-aebd-408e-af76-dbd9e8495029",
+      "latitude": -34.849302,
+      "longitude": 138.669215,
+      "street": "A10 - North East Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:18:39Z"
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T10:09:30Z"
     },
     {
-      "id": "75a285db-f0a8-4854-9648-dd6b7489377b",
-      "latitude": -34.966544,
-      "longitude": 138.516876,
+      "id": "eaa93e1c-3ca9-4eb4-aa62-4cafcad8e728",
+      "latitude": -34.944576,
+      "longitude": 138.517792,
       "street": "A15 - Tapleys Hill Rd",
-      "city": "Glenelg North",
+      "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:39:25Z"
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T10:29:50Z"
     },
     {
       "id": "f48ea011-b715-47a2-83f0-237d3ef0f410",
@@ -147,18 +127,18 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury Downs",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
+      "timestamp": "2026-04-16T10:30:23Z",
       "reported_at": "2026-04-16T09:04:59Z"
     },
     {
-      "id": "6862585d-7d98-47d7-9422-2cadfa381f19",
-      "latitude": -34.831025,
-      "longitude": 138.583964,
+      "id": "1cb75648-9b57-4516-852e-25210eee9880",
+      "latitude": -34.828208,
+      "longitude": 138.585271,
       "street": "A9 - Salisbury Hwy",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-04-16T10:00:25Z",
-      "reported_at": "2026-04-16T09:53:11Z"
+      "timestamp": "2026-04-16T10:30:23Z",
+      "reported_at": "2026-04-16T09:59:17Z"
     }
   ]
 }
