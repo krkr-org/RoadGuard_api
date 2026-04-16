@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "440ff0cf-b3cf-4fe2-9854-a9b147485019",
-      "latitude": -34.917371,
-      "longitude": 138.649642,
-      "street": "Unknown Street",
-      "city": "Beulah Park",
+      "id": "7c9ab598-4991-421a-ac7b-73c5b2e41b7e",
+      "latitude": -34.889806,
+      "longitude": 138.589679,
+      "street": "Braund Rd",
+      "city": "Prospect",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
-      "reported_at": "2026-04-16T06:31:28Z"
-    },
-    {
-      "id": "77b31571-1f74-4f48-a28e-aafbda3d4d7a",
-      "latitude": -34.913863,
-      "longitude": 138.527168,
-      "street": "Valetta Rd",
-      "city": "Kidman Park",
-      "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
-      "reported_at": "2026-04-16T03:14:34Z"
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T07:13:18Z"
     },
     {
       "id": "6b915b5b-63a8-4f0c-879a-a02092a68478",
@@ -27,7 +17,7 @@
       "street": "Stebonheath Rd",
       "city": "Edinburgh North",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
+      "timestamp": "2026-04-16T07:30:27Z",
       "reported_at": "2026-04-16T05:34:03Z"
     },
     {
@@ -37,18 +27,18 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
+      "timestamp": "2026-04-16T07:30:27Z",
       "reported_at": "2026-04-16T06:29:56Z"
     },
     {
-      "id": "8e88b4b7-1c4b-4e7e-bfd4-7608d451aec0",
-      "latitude": -34.680232,
-      "longitude": 138.684857,
-      "street": "Anderson Walk",
-      "city": "Smithfield",
+      "id": "daa3c14e-0766-4929-ba65-ea04401b384b",
+      "latitude": -34.678478,
+      "longitude": 138.76503,
+      "street": "Medlow Rd",
+      "city": "Uleybury",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
-      "reported_at": "2026-04-16T06:44:37Z"
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T06:57:32Z"
     },
     {
       "id": "8eb4217f-1deb-45b6-9696-6aebcda16155",
@@ -57,28 +47,78 @@
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
+      "timestamp": "2026-04-16T07:30:27Z",
       "reported_at": "2026-04-16T06:29:54Z"
     },
     {
-      "id": "1662d548-4fe2-4f38-90f2-b382be611f36",
-      "latitude": -34.748634,
-      "longitude": 138.682419,
+      "id": "8e88b4b7-1c4b-4e7e-bfd4-7608d451aec0",
+      "latitude": -34.680232,
+      "longitude": 138.684857,
+      "street": "Anderson Walk",
+      "city": "Smithfield",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T06:44:37Z"
+    },
+    {
+      "id": "8fe9d068-b3e6-414b-baf4-612c4d5b0474",
+      "latitude": -35.054712,
+      "longitude": 138.563484,
+      "street": "Black Rd",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T07:15:42Z"
+    },
+    {
+      "id": "3aad6fea-4423-4dd7-8f03-6c446704b60e",
+      "latitude": -35.136974,
+      "longitude": 138.519874,
+      "street": "Beach Rd",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T06:53:37Z"
+    },
+    {
+      "id": "e4eb8a0c-6857-42d6-a2e1-3831c456353c",
+      "latitude": -34.748623,
+      "longitude": 138.682426,
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
-      "reported_at": "2026-04-16T06:18:57Z"
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T06:04:28Z"
     },
     {
-      "id": "70384455-90f7-4dbe-9cc1-23135fcdcf6e",
-      "latitude": -34.941751,
-      "longitude": 138.588599,
-      "street": "R1 - Greenhill Rd (City Ring Route)",
-      "city": "Wayville",
+      "id": "9a53885d-c5cd-415e-b96d-c560c152ba44",
+      "latitude": -34.848242,
+      "longitude": 138.596189,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-16T07:00:24Z",
-      "reported_at": "2026-04-16T06:32:27Z"
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T07:08:42Z"
+    },
+    {
+      "id": "98ed4795-7027-46a4-956b-023a27d7e0df",
+      "latitude": -34.692619,
+      "longitude": 138.567372,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T07:22:42Z"
+    },
+    {
+      "id": "365830c4-4513-4d43-af47-7680d394378f",
+      "latitude": -34.774747,
+      "longitude": 138.630424,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-16T07:30:27Z",
+      "reported_at": "2026-04-16T07:13:16Z"
     }
   ]
 }
