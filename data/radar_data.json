@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "ad690c97-a3b5-4619-a7fb-fb7d885baf27",
-      "latitude": -34.879896,
-      "longitude": 138.571417,
-      "street": "to South Rd",
-      "city": "Croydon Park",
-      "type": "mobile",
-      "timestamp": "2026-04-16T04:30:22Z",
-      "reported_at": "2026-04-16T04:01:47Z"
-    },
-    {
       "id": "77b31571-1f74-4f48-a28e-aafbda3d4d7a",
       "latitude": -34.913863,
       "longitude": 138.527168,
       "street": "Valetta Rd",
       "city": "Kidman Park",
       "type": "mobile",
-      "timestamp": "2026-04-16T04:30:22Z",
+      "timestamp": "2026-04-16T05:00:23Z",
       "reported_at": "2026-04-16T03:14:34Z"
+    },
+    {
+      "id": "862d0932-ac98-49e4-8e65-a82cf13c1b55",
+      "latitude": -34.923475,
+      "longitude": 138.607991,
+      "street": "Frome St",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-16T05:00:23Z",
+      "reported_at": "2026-04-16T04:25:58Z"
     },
     {
       "id": "101ce3d3-1e63-464e-be07-6574ea31345c",
@@ -27,18 +27,28 @@
       "street": "Chandlers Hill Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-16T04:30:22Z",
+      "timestamp": "2026-04-16T05:00:23Z",
       "reported_at": "2026-04-16T03:26:02Z"
     },
     {
-      "id": "4203c575-e1ee-4894-89a5-8c41fc21507a",
-      "latitude": -34.811029,
-      "longitude": 138.674497,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
+      "id": "fb672a4f-5845-47ea-9634-cd44f1706d9f",
+      "latitude": -34.76302,
+      "longitude": 138.639657,
+      "street": "Waterloo Corner Rd",
+      "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-16T04:30:22Z",
-      "reported_at": "2026-04-16T04:14:23Z"
+      "timestamp": "2026-04-16T05:00:23Z",
+      "reported_at": "2026-04-16T04:47:30Z"
+    },
+    {
+      "id": "707bc0f5-1f06-4a85-bb94-77d461c5b21e",
+      "latitude": -34.894266,
+      "longitude": 138.602422,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-16T05:00:23Z",
+      "reported_at": "2026-04-16T04:42:12Z"
     }
   ]
 }
