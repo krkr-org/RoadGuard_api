@@ -1,14 +1,34 @@
 {
   "radars": [
     {
-      "id": "65a61313-f0ab-4f61-82cb-e08441aaa5f5",
-      "latitude": -34.883725,
-      "longitude": 138.566853,
-      "street": "Days Rd",
-      "city": "Croydon Park",
+      "id": "c19b45e6-af71-4f3b-8d22-1adcb5222ecc",
+      "latitude": -35.102186,
+      "longitude": 138.509048,
+      "street": "Brodie Rd",
+      "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T07:41:16Z"
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T07:25:45Z"
+    },
+    {
+      "id": "67394137-b6c8-41f7-89e7-c781af45d18b",
+      "latitude": -34.866213,
+      "longitude": 138.620112,
+      "street": "Redward Av",
+      "city": "Lightsview",
+      "type": "mobile",
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T08:13:05Z"
+    },
+    {
+      "id": "daa3c14e-0766-4929-ba65-ea04401b384b",
+      "latitude": -34.678478,
+      "longitude": 138.76503,
+      "street": "Medlow Rd",
+      "city": "Uleybury",
+      "type": "mobile",
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T06:57:32Z"
     },
     {
       "id": "42d0f5f1-146c-4114-bf9a-d04b1cee38d3",
@@ -17,68 +37,48 @@
       "street": "Uley Rd",
       "city": "Craigmore",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
+      "timestamp": "2026-04-16T08:30:26Z",
       "reported_at": "2026-04-16T06:29:56Z"
     },
     {
-      "id": "8eb4217f-1deb-45b6-9696-6aebcda16155",
-      "latitude": -34.782327,
-      "longitude": 138.607729,
-      "street": "Martins Rd",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T06:29:54Z"
-    },
-    {
-      "id": "c2bf1f1d-851c-40fb-a661-04fa9f37c48b",
-      "latitude": -34.681356,
-      "longitude": 138.687403,
+      "id": "8e88b4b7-1c4b-4e7e-bfd4-7608d451aec0",
+      "latitude": -34.680232,
+      "longitude": 138.684857,
       "street": "Anderson Walk",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T07:33:39Z"
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T06:44:37Z"
     },
     {
-      "id": "3aad6fea-4423-4dd7-8f03-6c446704b60e",
-      "latitude": -35.136974,
-      "longitude": 138.519874,
-      "street": "Beach Rd",
-      "city": "Morphett Vale",
-      "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T06:53:37Z"
-    },
-    {
-      "id": "196d42fd-d54d-4f9c-b397-21680963aeee",
-      "latitude": -34.915496,
-      "longitude": 138.598829,
-      "street": "Sir Edwin Smith Av",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T07:40:53Z"
-    },
-    {
-      "id": "c06089d1-3cef-474a-a695-a80fcede867d",
+      "id": "5c78b0a0-041b-4e3a-a546-5142684b6cc4",
       "latitude": -34.979896,
-      "longitude": 138.567358,
+      "longitude": 138.567362,
       "street": "Raglan Av",
       "city": "Edwardstown",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T07:37:51Z"
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T08:08:43Z"
     },
     {
-      "id": "e4eb8a0c-6857-42d6-a2e1-3831c456353c",
-      "latitude": -34.748623,
-      "longitude": 138.682426,
+      "id": "18e465b9-c343-42c6-a5b8-94b23ed49ddd",
+      "latitude": -34.875433,
+      "longitude": 138.571175,
+      "street": "South Rd",
+      "city": "Croydon Park",
+      "type": "mobile",
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T08:09:26Z"
+    },
+    {
+      "id": "d545de5f-7db8-46b7-a6a5-d58d6ed828d2",
+      "latitude": -34.749534,
+      "longitude": 138.681709,
       "street": "Black Top Rd",
       "city": "Hillbank",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T06:04:28Z"
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T06:27:09Z"
     },
     {
       "id": "ec9b2965-3542-4fcd-b1f9-441882b65aca",
@@ -87,28 +87,38 @@
       "street": "One Tree Hill Rd",
       "city": "Golden Grove",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
+      "timestamp": "2026-04-16T08:30:26Z",
       "reported_at": "2026-04-16T07:56:37Z"
     },
     {
-      "id": "d60542fc-ceeb-45c7-8462-b538340309e0",
-      "latitude": -34.990279,
-      "longitude": 138.625187,
-      "street": "B28 - Old Belair Rd",
+      "id": "03f0d247-74c9-43f2-b214-dc51c350294c",
+      "latitude": -34.992739,
+      "longitude": 138.625587,
+      "street": "B28 - James Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T07:50:40Z"
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T07:35:54Z"
     },
     {
-      "id": "f6278cfe-f3f9-40c4-92ef-118a17e19384",
-      "latitude": -34.806298,
-      "longitude": 138.602225,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Mawson Lakes",
+      "id": "64aecf76-440a-40eb-8190-d7be0792ca0e",
+      "latitude": -34.849616,
+      "longitude": 138.568317,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-16T08:00:29Z",
-      "reported_at": "2026-04-16T07:52:22Z"
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T08:16:13Z"
+    },
+    {
+      "id": "a5bd48ca-5e50-4cb5-9d18-2f8cfea3c687",
+      "latitude": -34.772987,
+      "longitude": 138.632004,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury Downs",
+      "type": "mobile",
+      "timestamp": "2026-04-16T08:30:26Z",
+      "reported_at": "2026-04-16T07:11:09Z"
     }
   ]
 }
