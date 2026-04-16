@@ -1,3 +1,24 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "99edd2ee-2e3b-4d5e-bdda-ef035e668185",
+      "latitude": -34.920286,
+      "longitude": 138.553936,
+      "street": "Hardys Rd",
+      "city": "Underdale",
+      "type": "mobile",
+      "timestamp": "2026-04-16T22:00:22Z",
+      "reported_at": "2026-04-16T21:50:12Z"
+    },
+    {
+      "id": "71dd64c6-cc26-4c2f-8ae6-9f5bfcdc32cb",
+      "latitude": -34.797498,
+      "longitude": 138.609933,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Green Fields",
+      "type": "mobile",
+      "timestamp": "2026-04-16T22:00:22Z",
+      "reported_at": "2026-04-16T21:46:41Z"
+    }
+  ]
 }
