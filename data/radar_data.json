@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "1c8c78ee-e688-4fd5-8491-247276d24d91",
-      "latitude": -34.955272,
-      "longitude": 138.55855,
-      "street": "Birdwood Tce",
-      "city": "North Plympton",
+      "id": "3753bc11-9b2c-48b7-b057-b475083e61b8",
+      "latitude": -34.944641,
+      "longitude": 138.658149,
+      "street": "Cooper Pl",
+      "city": "Hazelwood Park",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T04:20:13Z"
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:08:45Z"
     },
     {
       "id": "7e889cf4-412e-44cf-8f6c-4c2d4707efc3",
@@ -17,28 +17,28 @@
       "street": "Fisher St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
+      "timestamp": "2026-04-17T09:00:23Z",
       "reported_at": "2026-04-17T07:04:26Z"
     },
     {
-      "id": "4d7c526a-5dd7-4e2c-980a-570e0d3fff79",
-      "latitude": -34.903544,
-      "longitude": 138.669774,
-      "street": "Arthur St",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T06:59:53Z"
-    },
-    {
-      "id": "5a5a8230-fbf1-4eb5-9d7b-19e10a8a1bff",
-      "latitude": -34.914696,
-      "longitude": 138.585941,
+      "id": "75a0abb8-0d35-46cf-ac92-a3be7d9baf7c",
+      "latitude": -34.91431,
+      "longitude": 138.585335,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T05:47:21Z"
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T07:20:34Z"
+    },
+    {
+      "id": "675612d2-dea9-4db3-8072-0003e103d680",
+      "latitude": -34.903601,
+      "longitude": 138.668734,
+      "street": "Arthur St",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:35:18Z"
     },
     {
       "id": "96234b93-b7e7-4900-b16f-e0f68b15318e",
@@ -47,8 +47,18 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
+      "timestamp": "2026-04-17T09:00:23Z",
       "reported_at": "2026-04-17T06:29:06Z"
+    },
+    {
+      "id": "6f367bed-8ec0-4a5b-9050-b67008942f0f",
+      "latitude": -34.869407,
+      "longitude": 138.60712,
+      "street": "Watson Av",
+      "city": "Enfield",
+      "type": "mobile",
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:15:35Z"
     },
     {
       "id": "4f379d29-0e91-4679-bf3c-90ed0818c395",
@@ -57,78 +67,68 @@
       "street": "Burton Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
+      "timestamp": "2026-04-17T09:00:23Z",
       "reported_at": "2026-04-17T07:12:57Z"
     },
     {
-      "id": "a47576a6-7227-4fb0-b8e4-8b965630cbe3",
-      "latitude": -35.105694,
-      "longitude": 138.514833,
-      "street": "Sherriffs Rd",
-      "city": "Morphett Vale",
+      "id": "1136ed33-82d8-4730-9de1-9cd0aeeeffd1",
+      "latitude": -34.968858,
+      "longitude": 138.555182,
+      "street": "A14 - Marion Rd",
+      "city": "South Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T07:46:09Z"
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:43:01Z"
     },
     {
-      "id": "6d99be76-ed9e-41f2-989f-e9c80833d544",
-      "latitude": -34.874988,
-      "longitude": 138.48398,
-      "street": "Military Rd",
-      "city": "West Lakes Shore",
+      "id": "030b79fa-1707-4939-80a7-9ad48c733b31",
+      "latitude": -34.959635,
+      "longitude": 138.561649,
+      "street": "A5 - Anzac Hwy",
+      "city": "Plympton",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T07:00:48Z"
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:52:08Z"
     },
     {
-      "id": "0c5fb390-e359-437c-a8b3-2ee9b1c66f9b",
-      "latitude": -34.838974,
-      "longitude": 138.484166,
-      "street": "Semaphore Rd",
-      "city": "Semaphore",
-      "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T07:22:56Z"
-    },
-    {
-      "id": "e2030c39-99c5-4d4f-8691-c603d01c9973",
-      "latitude": -34.924954,
-      "longitude": 138.632463,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T07:48:28Z"
-    },
-    {
-      "id": "3315b7cd-a56c-43a5-97a7-6a6e1f02bc91",
-      "latitude": -34.917196,
-      "longitude": 138.676371,
-      "street": "Penfold Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T07:46:31Z"
-    },
-    {
-      "id": "34f4beae-9bfd-4780-b209-ac2ee8fa2846",
-      "latitude": -34.919106,
-      "longitude": 138.615046,
-      "street": "R1 - Hackney Rd (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T07:54:27Z"
-    },
-    {
-      "id": "baf00ff0-4baf-4fd1-8371-71820e404644",
-      "latitude": -34.925915,
-      "longitude": 138.620517,
+      "id": "7c0a6d29-0b00-43e5-a5b9-b24dce686812",
+      "latitude": -34.92545,
+      "longitude": 138.61961,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T08:00:23Z",
-      "reported_at": "2026-04-17T05:42:46Z"
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T06:27:32Z"
+    },
+    {
+      "id": "835ac145-9bb5-42a1-bda7-d7d2aa0fa080",
+      "latitude": -34.802448,
+      "longitude": 138.637518,
+      "street": "A20 - Main North Rd",
+      "city": "Para Hills West",
+      "type": "mobile",
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:10:09Z"
+    },
+    {
+      "id": "fcd006ee-5676-4d6c-8c8d-290155e825d6",
+      "latitude": -35.096663,
+      "longitude": 138.518509,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T07:19:16Z"
+    },
+    {
+      "id": "9ec36710-5c1f-4b7f-b566-7ee050dad5dc",
+      "latitude": -34.717785,
+      "longitude": 138.572462,
+      "street": "M2 - North-South Mwy",
+      "city": "Waterloo Corner",
+      "type": "mobile",
+      "timestamp": "2026-04-17T09:00:23Z",
+      "reported_at": "2026-04-17T08:57:53Z"
     }
   ]
 }
