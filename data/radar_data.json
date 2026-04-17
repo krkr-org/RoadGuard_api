@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "f2c25515-5a36-47ce-9d63-ac6601be5021",
-      "latitude": -34.758371,
-      "longitude": 138.61361,
-      "street": "Burton Rd",
-      "city": "Paralowie",
+      "id": "f4d70fa7-b3dc-42f8-89b1-75b3d7ac934d",
+      "latitude": -34.79632,
+      "longitude": 138.648767,
+      "street": "Ayfield Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:30:25Z",
-      "reported_at": "2026-04-17T02:05:42Z"
+      "timestamp": "2026-04-17T03:00:22Z",
+      "reported_at": "2026-04-17T01:49:15Z"
     },
     {
       "id": "62b4fbf5-d829-40bf-b1ff-f3235f921d21",
@@ -17,7 +17,7 @@
       "street": "St. Vincent St",
       "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:30:25Z",
+      "timestamp": "2026-04-17T03:00:22Z",
       "reported_at": "2026-04-17T01:37:22Z"
     },
     {
@@ -27,7 +27,7 @@
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:30:25Z",
+      "timestamp": "2026-04-17T03:00:22Z",
       "reported_at": "2026-04-17T01:10:09Z"
     },
     {
@@ -37,8 +37,18 @@
       "street": "Bridge Rd",
       "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:30:25Z",
+      "timestamp": "2026-04-17T03:00:22Z",
       "reported_at": "2026-04-17T02:01:07Z"
+    },
+    {
+      "id": "c7c2d38f-24db-4661-bb99-4010e7790858",
+      "latitude": -34.955249,
+      "longitude": 138.589908,
+      "street": "Goodwood Rd",
+      "city": "Millswood",
+      "type": "mobile",
+      "timestamp": "2026-04-17T03:00:22Z",
+      "reported_at": "2026-04-17T02:17:26Z"
     },
     {
       "id": "b526c982-90ca-4145-ad8d-418532fdaf55",
@@ -47,18 +57,8 @@
       "street": "B28 - Old Belair Rd",
       "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:30:25Z",
+      "timestamp": "2026-04-17T03:00:22Z",
       "reported_at": "2026-04-17T02:25:55Z"
-    },
-    {
-      "id": "2389e854-fa96-433f-b2ac-a54f56242735",
-      "latitude": -34.934935,
-      "longitude": 138.517125,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "West Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-17T02:30:25Z",
-      "reported_at": "2026-04-17T02:28:33Z"
     }
   ]
 }
