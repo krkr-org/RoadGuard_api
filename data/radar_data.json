@@ -1,24 +1,14 @@
 {
   "radars": [
     {
-      "id": "53778c20-1be5-4d17-a68a-f8e872c799d1",
-      "latitude": -34.91291,
-      "longitude": 138.679402,
-      "street": "Park St",
-      "city": "Magill",
+      "id": "e4c94cd2-c11b-4381-ac36-bd8fee93accd",
+      "latitude": -34.92605,
+      "longitude": 138.632548,
+      "street": "Osmond Tce",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-17T13:30:22Z",
-      "reported_at": "2026-04-17T09:54:59Z"
-    },
-    {
-      "id": "95836e71-19a8-4610-8df7-535fcf6c1eb1",
-      "latitude": -34.935248,
-      "longitude": 138.535814,
-      "street": "James Schofield Dr",
-      "city": "Adelaide Airport",
-      "type": "mobile",
-      "timestamp": "2026-04-17T13:30:22Z",
-      "reported_at": "2026-04-17T09:13:15Z"
+      "timestamp": "2026-04-17T14:00:24Z",
+      "reported_at": "2026-04-17T09:10:36Z"
     },
     {
       "id": "dedfc6c0-7c4f-4ba5-97c9-5ee9f7c8a00a",
@@ -27,28 +17,38 @@
       "street": "Goodwood Rd",
       "city": "Clarence Park",
       "type": "mobile",
-      "timestamp": "2026-04-17T13:30:22Z",
+      "timestamp": "2026-04-17T14:00:24Z",
       "reported_at": "2026-04-17T12:59:27Z"
     },
     {
-      "id": "e4c94cd2-c11b-4381-ac36-bd8fee93accd",
-      "latitude": -34.92605,
-      "longitude": 138.632548,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "4d4ffd57-3fdc-43d0-b203-8ac2d7d5ca21",
+      "latitude": -34.991046,
+      "longitude": 138.574799,
+      "street": "A2 - South Rd",
+      "city": "Melrose Park",
       "type": "mobile",
-      "timestamp": "2026-04-17T13:30:22Z",
-      "reported_at": "2026-04-17T09:10:36Z"
+      "timestamp": "2026-04-17T14:00:24Z",
+      "reported_at": "2026-04-17T13:53:33Z"
     },
     {
-      "id": "64def5e7-a9af-4fe5-8dea-bcdb0d44a09d",
-      "latitude": -34.924414,
-      "longitude": 138.597911,
-      "street": "Currie St",
-      "city": "Adelaide",
+      "id": "804643b5-fea1-408e-a2b6-e6649d11789d",
+      "latitude": -35.023654,
+      "longitude": 138.562496,
+      "street": "A13 - Main South Rd",
+      "city": "Darlington",
       "type": "mobile",
-      "timestamp": "2026-04-17T13:30:22Z",
-      "reported_at": "2026-04-17T12:39:20Z"
+      "timestamp": "2026-04-17T14:00:24Z",
+      "reported_at": "2026-04-17T13:51:06Z"
+    },
+    {
+      "id": "7209db4c-e89d-4ca1-8659-d4604bf62396",
+      "latitude": -34.847664,
+      "longitude": 138.610073,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Gepps Cross",
+      "type": "mobile",
+      "timestamp": "2026-04-17T14:00:24Z",
+      "reported_at": "2026-04-17T13:38:07Z"
     }
   ]
 }
