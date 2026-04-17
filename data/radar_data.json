@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "988ad78f-ff85-4d80-a34f-89dc2c3da046",
+      "latitude": -35.022496,
+      "longitude": 138.516391,
+      "street": "Esplanade",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T09:35:19Z"
+    },
+    {
       "id": "3753bc11-9b2c-48b7-b057-b475083e61b8",
       "latitude": -34.944641,
       "longitude": 138.658149,
       "street": "Cooper Pl",
       "city": "Hazelwood Park",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
+      "timestamp": "2026-04-17T10:00:22Z",
       "reported_at": "2026-04-17T08:08:45Z"
     },
     {
@@ -17,18 +27,28 @@
       "street": "Fisher St",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
+      "timestamp": "2026-04-17T10:00:22Z",
       "reported_at": "2026-04-17T07:04:26Z"
     },
     {
-      "id": "5a5a8230-fbf1-4eb5-9d7b-19e10a8a1bff",
-      "latitude": -34.914696,
-      "longitude": 138.585941,
+      "id": "9120a997-fae4-48e9-87d5-077b23fe0080",
+      "latitude": -34.903457,
+      "longitude": 138.670833,
+      "street": "Unknown Street",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T08:49:35Z"
+    },
+    {
+      "id": "75a0abb8-0d35-46cf-ac92-a3be7d9baf7c",
+      "latitude": -34.914413,
+      "longitude": 138.585454,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
-      "reported_at": "2026-04-17T05:47:21Z"
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T07:20:34Z"
     },
     {
       "id": "96234b93-b7e7-4900-b16f-e0f68b15318e",
@@ -37,7 +57,7 @@
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
+      "timestamp": "2026-04-17T10:00:22Z",
       "reported_at": "2026-04-17T06:29:06Z"
     },
     {
@@ -47,18 +67,18 @@
       "street": "Watson Av",
       "city": "Enfield",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
+      "timestamp": "2026-04-17T10:00:22Z",
       "reported_at": "2026-04-17T08:15:35Z"
     },
     {
-      "id": "9768d76b-70a7-40a5-b9d9-416354c57fbd",
-      "latitude": -34.907432,
-      "longitude": 138.59646,
-      "street": "O'Connell St",
+      "id": "9b639a0c-5379-4f06-a57f-ac694d5ca919",
+      "latitude": -34.909801,
+      "longitude": 138.592445,
+      "street": "Jeffcott St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
-      "reported_at": "2026-04-17T09:02:50Z"
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T09:53:13Z"
     },
     {
       "id": "db500173-e62a-4a15-a388-121fe90a21be",
@@ -67,28 +87,8 @@
       "street": "Montacute Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
+      "timestamp": "2026-04-17T10:00:22Z",
       "reported_at": "2026-04-17T09:03:45Z"
-    },
-    {
-      "id": "baf00ff0-4baf-4fd1-8371-71820e404644",
-      "latitude": -34.926032,
-      "longitude": 138.62068,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
-      "reported_at": "2026-04-17T05:42:46Z"
-    },
-    {
-      "id": "9e5f7a54-7b84-4b33-9a9b-866ee56f8605",
-      "latitude": -34.943076,
-      "longitude": 138.553211,
-      "street": "A14 - Marion Rd",
-      "city": "Netley",
-      "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
-      "reported_at": "2026-04-17T09:08:27Z"
     },
     {
       "id": "054a7979-381a-4056-b471-3b4536b6a830",
@@ -97,28 +97,38 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
+      "timestamp": "2026-04-17T10:00:22Z",
       "reported_at": "2026-04-17T09:24:31Z"
     },
     {
-      "id": "835ac145-9bb5-42a1-bda7-d7d2aa0fa080",
-      "latitude": -34.80227,
-      "longitude": 138.637674,
-      "street": "A20 - Main North Rd",
-      "city": "Para Hills West",
+      "id": "29c3ef57-838c-49cd-ae66-351a6579581b",
+      "latitude": -34.926442,
+      "longitude": 138.621272,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
-      "reported_at": "2026-04-17T08:10:09Z"
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T05:48:19Z"
     },
     {
-      "id": "ed4be0bb-97ba-47e1-8588-2a998acd7d1a",
-      "latitude": -35.099221,
-      "longitude": 138.516038,
-      "street": "M2 - Southern Exp",
-      "city": "Reynella",
+      "id": "edaa355c-a36a-4dae-9c0d-6ecd7a047cbf",
+      "latitude": -34.941763,
+      "longitude": 138.588339,
+      "street": "R1 - Greenhill Rd (City Ring Route)",
+      "city": "Wayville",
       "type": "mobile",
-      "timestamp": "2026-04-17T09:30:22Z",
-      "reported_at": "2026-04-17T09:22:52Z"
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T09:33:52Z"
+    },
+    {
+      "id": "b43d6c0c-c5d3-4dee-9e42-9af14a79516c",
+      "latitude": -34.697189,
+      "longitude": 138.684657,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth North",
+      "type": "mobile",
+      "timestamp": "2026-04-17T10:00:22Z",
+      "reported_at": "2026-04-17T09:33:53Z"
     }
   ]
 }
