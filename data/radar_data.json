@@ -1,44 +1,14 @@
 {
   "radars": [
     {
-      "id": "476e2ec6-03d6-4bf8-84f8-022229032cdf",
-      "latitude": -35.105602,
-      "longitude": 138.51464,
-      "street": "Sherriffs Rd",
-      "city": "Morphett Vale",
+      "id": "5de91454-c2a4-4601-b3b2-8088b3c75b9b",
+      "latitude": -34.919187,
+      "longitude": 138.632042,
+      "street": "Osmond Tce",
+      "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
-      "reported_at": "2026-04-17T00:31:56Z"
-    },
-    {
-      "id": "068ebe12-1781-4b60-bc52-bedd7d59dd64",
-      "latitude": -35.140376,
-      "longitude": 138.659617,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
-      "reported_at": "2026-04-16T22:52:07Z"
-    },
-    {
-      "id": "8cef5817-5a4d-4026-ba02-75436d303b99",
-      "latitude": -34.919896,
-      "longitude": 138.676562,
-      "street": "Penfold Rd",
-      "city": "Rosslyn Park",
-      "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
-      "reported_at": "2026-04-17T00:42:17Z"
-    },
-    {
-      "id": "8904859c-dc1f-479f-a432-40eb2a869329",
-      "latitude": -34.758253,
-      "longitude": 138.814147,
-      "street": "Kersbrook Rd",
-      "city": "Sampson Flat",
-      "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
-      "reported_at": "2026-04-17T00:33:47Z"
+      "timestamp": "2026-04-17T01:30:22Z",
+      "reported_at": "2026-04-17T01:25:44Z"
     },
     {
       "id": "23963861-a3d0-4a53-94c7-27dae306958e",
@@ -47,28 +17,38 @@
       "street": "B27 - Magill Rd",
       "city": "Kensington Park",
       "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
+      "timestamp": "2026-04-17T01:30:22Z",
       "reported_at": "2026-04-17T00:39:52Z"
     },
     {
-      "id": "d31cd372-c6d8-404f-94e9-37ef1a0a9001",
-      "latitude": -34.968262,
-      "longitude": 138.573081,
-      "street": "A2 - South Rd",
-      "city": "Edwardstown",
+      "id": "cf1b9b64-9cae-4226-9978-cf47afff1bf1",
+      "latitude": -34.711072,
+      "longitude": 138.676318,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Park",
       "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
-      "reported_at": "2026-04-17T00:09:56Z"
+      "timestamp": "2026-04-17T01:30:22Z",
+      "reported_at": "2026-04-17T01:15:55Z"
     },
     {
-      "id": "be7bb4c2-c975-4f35-95cb-febf0d776bab",
-      "latitude": -34.926661,
-      "longitude": 138.621309,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
-      "city": "Adelaide",
+      "id": "2e480198-515b-446d-ae54-e86863f76766",
+      "latitude": -34.769259,
+      "longitude": 138.677627,
+      "street": "A11 - The Grove Way",
+      "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-04-17T01:00:24Z",
-      "reported_at": "2026-04-17T00:37:11Z"
+      "timestamp": "2026-04-17T01:30:22Z",
+      "reported_at": "2026-04-17T01:05:24Z"
+    },
+    {
+      "id": "be81550c-13b4-4901-84f4-786a8e85f464",
+      "latitude": -35.090944,
+      "longitude": 138.526394,
+      "street": "M2 - Southern Exp",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-17T01:30:22Z",
+      "reported_at": "2026-04-17T01:21:28Z"
     }
   ]
 }
