@@ -1,44 +1,54 @@
 {
   "radars": [
     {
+      "id": "7223cba7-704c-400b-a119-78638740b9ac",
+      "latitude": -35.138877,
+      "longitude": 138.483118,
+      "street": "Beach Rd",
+      "city": "Christies Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-17T00:00:25Z",
+      "reported_at": "2026-04-16T23:43:17Z"
+    },
+    {
       "id": "068ebe12-1781-4b60-bc52-bedd7d59dd64",
       "latitude": -35.140376,
       "longitude": 138.659617,
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-04-16T23:30:22Z",
+      "timestamp": "2026-04-17T00:00:25Z",
       "reported_at": "2026-04-16T22:52:07Z"
     },
     {
-      "id": "f2baf651-4c5b-479c-b1fd-a17735374591",
-      "latitude": -35.036489,
-      "longitude": 138.68987,
+      "id": "80a4a1e1-5c91-48ff-81ac-ed5afde1f42f",
+      "latitude": -35.053947,
+      "longitude": 138.554216,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-17T00:00:25Z",
+      "reported_at": "2026-04-16T23:46:34Z"
+    },
+    {
+      "id": "e279fa5c-560f-414c-b238-f3efb8440154",
+      "latitude": -35.036661,
+      "longitude": 138.689861,
       "street": "Ironbank Rd",
       "city": "Ironbank",
       "type": "mobile",
-      "timestamp": "2026-04-16T23:30:22Z",
-      "reported_at": "2026-04-16T22:59:27Z"
+      "timestamp": "2026-04-17T00:00:25Z",
+      "reported_at": "2026-04-16T23:48:22Z"
     },
     {
-      "id": "ae7bc52c-19dc-44bb-a188-0801c2c82ecf",
-      "latitude": -34.748221,
-      "longitude": 138.606518,
-      "street": "Bolivar Rd",
-      "city": "Paralowie",
+      "id": "ba05933b-e195-42f1-a2c4-7bfc9dded815",
+      "latitude": -34.899027,
+      "longitude": 138.551644,
+      "street": "A14 - East Av",
+      "city": "Beverley",
       "type": "mobile",
-      "timestamp": "2026-04-16T23:30:22Z",
-      "reported_at": "2026-04-16T22:59:58Z"
-    },
-    {
-      "id": "d9d1be55-d3d4-46c4-836d-dd5c36eec5f7",
-      "latitude": -34.955962,
-      "longitude": 138.572045,
-      "street": "A2 - South Rd",
-      "city": "Glandore",
-      "type": "mobile",
-      "timestamp": "2026-04-16T23:30:22Z",
-      "reported_at": "2026-04-16T23:13:16Z"
+      "timestamp": "2026-04-17T00:00:25Z",
+      "reported_at": "2026-04-16T23:33:53Z"
     }
   ]
 }
