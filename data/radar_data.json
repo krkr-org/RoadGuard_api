@@ -1,44 +1,24 @@
 {
   "radars": [
     {
-      "id": "e4c94cd2-c11b-4381-ac36-bd8fee93accd",
-      "latitude": -34.92605,
-      "longitude": 138.632548,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "24ebc58e-9c60-4b31-bf75-645eeab28506",
+      "latitude": -34.954031,
+      "longitude": 138.621831,
+      "street": "Wattle St",
+      "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-04-17T14:00:24Z",
-      "reported_at": "2026-04-17T09:10:36Z"
+      "timestamp": "2026-04-17T15:00:22Z",
+      "reported_at": "2026-04-17T14:45:20Z"
     },
     {
-      "id": "dedfc6c0-7c4f-4ba5-97c9-5ee9f7c8a00a",
-      "latitude": -34.96106,
-      "longitude": 138.590421,
-      "street": "Goodwood Rd",
-      "city": "Clarence Park",
+      "id": "97822f4f-6ec8-4903-9f2d-2432aff2c641",
+      "latitude": -35.010904,
+      "longitude": 138.580571,
+      "street": "Ayliffes Rd",
+      "city": "St. Marys",
       "type": "mobile",
-      "timestamp": "2026-04-17T14:00:24Z",
-      "reported_at": "2026-04-17T12:59:27Z"
-    },
-    {
-      "id": "4d4ffd57-3fdc-43d0-b203-8ac2d7d5ca21",
-      "latitude": -34.991046,
-      "longitude": 138.574799,
-      "street": "A2 - South Rd",
-      "city": "Melrose Park",
-      "type": "mobile",
-      "timestamp": "2026-04-17T14:00:24Z",
-      "reported_at": "2026-04-17T13:53:33Z"
-    },
-    {
-      "id": "804643b5-fea1-408e-a2b6-e6649d11789d",
-      "latitude": -35.023654,
-      "longitude": 138.562496,
-      "street": "A13 - Main South Rd",
-      "city": "Darlington",
-      "type": "mobile",
-      "timestamp": "2026-04-17T14:00:24Z",
-      "reported_at": "2026-04-17T13:51:06Z"
+      "timestamp": "2026-04-17T15:00:22Z",
+      "reported_at": "2026-04-17T14:17:54Z"
     },
     {
       "id": "7209db4c-e89d-4ca1-8659-d4604bf62396",
@@ -47,8 +27,18 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-17T14:00:24Z",
+      "timestamp": "2026-04-17T15:00:22Z",
       "reported_at": "2026-04-17T13:38:07Z"
+    },
+    {
+      "id": "1e1237cf-16a3-4142-9898-2363c9bf7bb0",
+      "latitude": -35.118215,
+      "longitude": 138.508907,
+      "street": "M2 - Southern Exp",
+      "city": "Morphett Vale",
+      "type": "mobile",
+      "timestamp": "2026-04-17T15:00:22Z",
+      "reported_at": "2026-04-17T14:41:50Z"
     }
   ]
 }
