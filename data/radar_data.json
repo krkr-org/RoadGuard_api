@@ -1,64 +1,94 @@
 {
   "radars": [
     {
-      "id": "e8aedbd7-643b-485d-8ded-7b0ca8edd833",
-      "latitude": -34.928077,
-      "longitude": 138.651162,
+      "id": "1c8c78ee-e688-4fd5-8491-247276d24d91",
+      "latitude": -34.955272,
+      "longitude": 138.55855,
+      "street": "Birdwood Tce",
+      "city": "North Plympton",
+      "type": "mobile",
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T04:20:13Z"
+    },
+    {
+      "id": "96234b93-b7e7-4900-b16f-e0f68b15318e",
+      "latitude": -34.930661,
+      "longitude": 138.651377,
       "street": "Tusmore Av",
       "city": "Leabrook",
       "type": "mobile",
-      "timestamp": "2026-04-17T06:30:22Z",
-      "reported_at": "2026-04-17T05:57:21Z"
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T06:29:06Z"
     },
     {
-      "id": "5a5a8230-fbf1-4eb5-9d7b-19e10a8a1bff",
-      "latitude": -34.914333,
-      "longitude": 138.585305,
+      "id": "75a0abb8-0d35-46cf-ac92-a3be7d9baf7c",
+      "latitude": -34.91431,
+      "longitude": 138.585335,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T06:30:22Z",
-      "reported_at": "2026-04-17T05:47:21Z"
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T07:20:34Z"
     },
     {
-      "id": "a2a33fcc-8274-4d7e-b072-1c53aff00dc1",
-      "latitude": -34.976024,
-      "longitude": 138.526874,
-      "street": "A5 - Anzac Hwy",
-      "city": "Glenelg East",
+      "id": "4d7c526a-5dd7-4e2c-980a-570e0d3fff79",
+      "latitude": -34.903544,
+      "longitude": 138.669774,
+      "street": "Arthur St",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-17T06:30:22Z",
-      "reported_at": "2026-04-17T06:08:06Z"
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T06:59:53Z"
     },
     {
-      "id": "279f556a-57b6-4151-b4bd-fdfbe58cb7e0",
-      "latitude": -34.901231,
-      "longitude": 138.609219,
-      "street": "A10 - Northcote Tce",
-      "city": "Medindie",
+      "id": "4f379d29-0e91-4679-bf3c-90ed0818c395",
+      "latitude": -34.760252,
+      "longitude": 138.616693,
+      "street": "Burton Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-17T06:30:22Z",
-      "reported_at": "2026-04-17T05:40:47Z"
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T07:12:57Z"
     },
     {
-      "id": "baf00ff0-4baf-4fd1-8371-71820e404644",
-      "latitude": -34.925915,
-      "longitude": 138.620517,
+      "id": "6d99be76-ed9e-41f2-989f-e9c80833d544",
+      "latitude": -34.874988,
+      "longitude": 138.48398,
+      "street": "Military Rd",
+      "city": "West Lakes Shore",
+      "type": "mobile",
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T07:00:48Z"
+    },
+    {
+      "id": "56106edb-269e-4b2d-a471-3177fea87caa",
+      "latitude": -34.925886,
+      "longitude": 138.632342,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T06:17:10Z"
+    },
+    {
+      "id": "d0831616-a75c-4162-8c24-04dc5625eed0",
+      "latitude": -34.892722,
+      "longitude": 138.577242,
+      "street": "Torrens Rd",
+      "city": "Renown Park",
+      "type": "mobile",
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T07:15:33Z"
+    },
+    {
+      "id": "29c3ef57-838c-49cd-ae66-351a6579581b",
+      "latitude": -34.926367,
+      "longitude": 138.621155,
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T06:30:22Z",
-      "reported_at": "2026-04-17T05:42:46Z"
-    },
-    {
-      "id": "29b7891b-8ab2-4e61-ad43-b7c6952a32f8",
-      "latitude": -34.832165,
-      "longitude": 138.719624,
-      "street": "A11 - Hancock Rd",
-      "city": "St. Agnes",
-      "type": "mobile",
-      "timestamp": "2026-04-17T06:30:22Z",
-      "reported_at": "2026-04-17T05:44:01Z"
+      "timestamp": "2026-04-17T07:30:24Z",
+      "reported_at": "2026-04-17T05:48:19Z"
     }
   ]
 }
