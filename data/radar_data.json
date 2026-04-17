@@ -1,34 +1,64 @@
 {
   "radars": [
     {
-      "id": "068ebe12-1781-4b60-bc52-bedd7d59dd64",
-      "latitude": -35.140376,
-      "longitude": 138.659617,
+      "id": "f2c25515-5a36-47ce-9d63-ac6601be5021",
+      "latitude": -34.758371,
+      "longitude": 138.61361,
+      "street": "Burton Rd",
+      "city": "Paralowie",
+      "type": "mobile",
+      "timestamp": "2026-04-17T02:30:25Z",
+      "reported_at": "2026-04-17T02:05:42Z"
+    },
+    {
+      "id": "62b4fbf5-d829-40bf-b1ff-f3235f921d21",
+      "latitude": -34.84529,
+      "longitude": 138.500155,
+      "street": "St. Vincent St",
+      "city": "Port Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-17T02:30:25Z",
+      "reported_at": "2026-04-17T01:37:22Z"
+    },
+    {
+      "id": "013acfb9-5ae3-44d0-b926-f8e4e4744a74",
+      "latitude": -35.140753,
+      "longitude": 138.659744,
       "street": "Kangarilla Rd",
       "city": "Kangarilla",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:00:23Z",
-      "reported_at": "2026-04-16T22:52:07Z"
+      "timestamp": "2026-04-17T02:30:25Z",
+      "reported_at": "2026-04-17T01:10:09Z"
     },
     {
-      "id": "5de91454-c2a4-4601-b3b2-8088b3c75b9b",
-      "latitude": -34.919187,
-      "longitude": 138.632042,
-      "street": "Osmond Tce",
-      "city": "Norwood",
+      "id": "06e621ae-170a-4f52-96e5-a64041bcdf49",
+      "latitude": -34.812398,
+      "longitude": 138.644313,
+      "street": "Bridge Rd",
+      "city": "Para Hills West",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:00:23Z",
-      "reported_at": "2026-04-17T01:25:44Z"
+      "timestamp": "2026-04-17T02:30:25Z",
+      "reported_at": "2026-04-17T02:01:07Z"
     },
     {
-      "id": "c943efe4-28f1-44c7-85c6-b60f0ecc340e",
-      "latitude": -34.678727,
-      "longitude": 138.564411,
-      "street": "Old Port Wakefield Rd",
-      "city": "Virginia",
+      "id": "b526c982-90ca-4145-ad8d-418532fdaf55",
+      "latitude": -34.991884,
+      "longitude": 138.625204,
+      "street": "B28 - Old Belair Rd",
+      "city": "Belair",
       "type": "mobile",
-      "timestamp": "2026-04-17T02:00:23Z",
-      "reported_at": "2026-04-17T01:38:15Z"
+      "timestamp": "2026-04-17T02:30:25Z",
+      "reported_at": "2026-04-17T02:25:55Z"
+    },
+    {
+      "id": "2389e854-fa96-433f-b2ac-a54f56242735",
+      "latitude": -34.934935,
+      "longitude": 138.517125,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "West Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-17T02:30:25Z",
+      "reported_at": "2026-04-17T02:28:33Z"
     }
   ]
 }
