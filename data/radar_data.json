@@ -1,14 +1,14 @@
 {
   "radars": [
     {
-      "id": "3753bc11-9b2c-48b7-b057-b475083e61b8",
-      "latitude": -34.944641,
-      "longitude": 138.658149,
-      "street": "Cooper Pl",
-      "city": "Hazelwood Park",
+      "id": "53778c20-1be5-4d17-a68a-f8e872c799d1",
+      "latitude": -34.91291,
+      "longitude": 138.679402,
+      "street": "Park St",
+      "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
-      "reported_at": "2026-04-17T08:08:45Z"
+      "timestamp": "2026-04-17T12:30:22Z",
+      "reported_at": "2026-04-17T09:54:59Z"
     },
     {
       "id": "9120a997-fae4-48e9-87d5-077b23fe0080",
@@ -17,8 +17,18 @@
       "street": "Unknown Street",
       "city": "Magill",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
+      "timestamp": "2026-04-17T12:30:22Z",
       "reported_at": "2026-04-17T08:49:35Z"
+    },
+    {
+      "id": "675612d2-dea9-4db3-8072-0003e103d680",
+      "latitude": -34.903601,
+      "longitude": 138.668734,
+      "street": "Arthur St",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-17T12:30:22Z",
+      "reported_at": "2026-04-17T08:35:18Z"
     },
     {
       "id": "6f367bed-8ec0-4a5b-9050-b67008942f0f",
@@ -27,7 +37,7 @@
       "street": "Watson Av",
       "city": "Enfield",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
+      "timestamp": "2026-04-17T12:30:22Z",
       "reported_at": "2026-04-17T08:15:35Z"
     },
     {
@@ -37,7 +47,7 @@
       "street": "James Schofield Dr",
       "city": "Adelaide Airport",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
+      "timestamp": "2026-04-17T12:30:22Z",
       "reported_at": "2026-04-17T09:13:15Z"
     },
     {
@@ -47,28 +57,8 @@
       "street": "Liberator Dr",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
+      "timestamp": "2026-04-17T12:30:22Z",
       "reported_at": "2026-04-17T11:49:14Z"
-    },
-    {
-      "id": "e4c94cd2-c11b-4381-ac36-bd8fee93accd",
-      "latitude": -34.92605,
-      "longitude": 138.632548,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
-      "reported_at": "2026-04-17T09:10:36Z"
-    },
-    {
-      "id": "e52586c6-ceaf-45e3-9eff-632af8a22ee2",
-      "latitude": -34.890351,
-      "longitude": 138.594213,
-      "street": "Prospect Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
-      "reported_at": "2026-04-17T11:29:15Z"
     },
     {
       "id": "98707c05-4c49-4641-89ef-95fcc65eb274",
@@ -77,28 +67,48 @@
       "street": "Goodwood Rd",
       "city": "Pasadena",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
+      "timestamp": "2026-04-17T12:30:22Z",
       "reported_at": "2026-04-17T11:56:52Z"
     },
     {
-      "id": "5d8a2c25-846b-4401-86bb-99c7e0ba8c80",
-      "latitude": -34.91938,
-      "longitude": 138.599164,
-      "street": "King William Rd",
-      "city": "Adelaide",
+      "id": "d601a7dd-8dec-4ffe-83bf-c6621d527daa",
+      "latitude": -34.905151,
+      "longitude": 138.539443,
+      "street": "Grange Rd",
+      "city": "Findon",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
-      "reported_at": "2026-04-17T11:25:34Z"
+      "timestamp": "2026-04-17T12:30:22Z",
+      "reported_at": "2026-04-17T11:50:25Z"
     },
     {
-      "id": "b14afb52-4c09-4383-9496-e9ec51993c76",
-      "latitude": -34.925519,
-      "longitude": 138.619957,
-      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "id": "572295e6-3ceb-4902-a8b4-edfe319caa6c",
+      "latitude": -34.934008,
+      "longitude": 138.59432,
+      "street": "Morphett St",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-17T12:00:22Z",
-      "reported_at": "2026-04-17T10:29:46Z"
+      "timestamp": "2026-04-17T12:30:22Z",
+      "reported_at": "2026-04-17T12:03:45Z"
+    },
+    {
+      "id": "e4c94cd2-c11b-4381-ac36-bd8fee93accd",
+      "latitude": -34.92605,
+      "longitude": 138.632548,
+      "street": "Osmond Tce",
+      "city": "Norwood",
+      "type": "mobile",
+      "timestamp": "2026-04-17T12:30:22Z",
+      "reported_at": "2026-04-17T09:10:36Z"
+    },
+    {
+      "id": "e178cc11-83d6-4b35-bf4b-0d389ad8783b",
+      "latitude": -34.961048,
+      "longitude": 138.608315,
+      "street": "B29 - Unley Rd",
+      "city": "Unley Park",
+      "type": "mobile",
+      "timestamp": "2026-04-17T12:30:22Z",
+      "reported_at": "2026-04-17T11:59:59Z"
     }
   ]
 }
