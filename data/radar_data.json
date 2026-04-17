@@ -1,24 +1,24 @@
 {
   "radars": [
     {
+      "id": "1f297568-df32-4b52-b8cc-6157b85368cc",
+      "latitude": -34.736322,
+      "longitude": 138.61714,
+      "street": "Bolivar Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-04-17T23:00:23Z",
+      "reported_at": "2026-04-17T22:15:47Z"
+    },
+    {
       "id": "b34d4247-d55c-40a0-9334-d84fc85ec1db",
       "latitude": -34.804965,
       "longitude": 138.597058,
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-17T22:30:23Z",
+      "timestamp": "2026-04-17T23:00:23Z",
       "reported_at": "2026-04-17T21:44:12Z"
-    },
-    {
-      "id": "5aff0740-323d-4f71-b9e0-f6ce6afb0f7d",
-      "latitude": -34.970639,
-      "longitude": 138.55519,
-      "street": "A14 - Marion Rd",
-      "city": "Plympton Park",
-      "type": "mobile",
-      "timestamp": "2026-04-17T22:30:23Z",
-      "reported_at": "2026-04-17T22:15:01Z"
     },
     {
       "id": "1ae67469-1e8d-436a-8702-cde99d75a3f5",
@@ -27,7 +27,7 @@
       "street": "M2 - Northern Exp",
       "city": "Penfield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-17T22:30:23Z",
+      "timestamp": "2026-04-17T23:00:23Z",
       "reported_at": "2026-04-17T22:21:18Z"
     }
   ]
