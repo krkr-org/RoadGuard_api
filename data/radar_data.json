@@ -1,44 +1,24 @@
 {
   "radars": [
     {
+      "id": "191b08cc-6837-418b-a9d7-7d04b28b99a3",
+      "latitude": -34.936929,
+      "longitude": 138.552733,
+      "street": "Trennery St",
+      "city": "West Richmond",
+      "type": "mobile",
+      "timestamp": "2026-04-18T14:00:23Z",
+      "reported_at": "2026-04-18T13:31:10Z"
+    },
+    {
       "id": "1a01e1d4-0b87-482b-879b-772eff7f07ef",
       "latitude": -34.861502,
       "longitude": 138.600817,
       "street": "Unknown Street",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-04-18T13:00:23Z",
+      "timestamp": "2026-04-18T14:00:23Z",
       "reported_at": "2026-04-18T10:29:51Z"
-    },
-    {
-      "id": "dc5aaef3-0b2b-487d-956f-b73cd332a8e6",
-      "latitude": -34.918951,
-      "longitude": 138.579038,
-      "street": "Port Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-18T13:00:23Z",
-      "reported_at": "2026-04-18T12:48:04Z"
-    },
-    {
-      "id": "97336446-5730-4457-ae1c-2d3d9ce08f37",
-      "latitude": -34.860632,
-      "longitude": 138.513089,
-      "street": "A7 - Port Rd",
-      "city": "Queenstown",
-      "type": "mobile",
-      "timestamp": "2026-04-18T13:00:23Z",
-      "reported_at": "2026-04-18T11:52:36Z"
-    },
-    {
-      "id": "1118dfff-5eb4-41a9-906d-56ce8b854a06",
-      "latitude": -34.995292,
-      "longitude": 138.557181,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
-      "type": "mobile",
-      "timestamp": "2026-04-18T13:00:23Z",
-      "reported_at": "2026-04-18T12:44:32Z"
     },
     {
       "id": "df9f6e7a-6986-414c-ba74-abed339fc670",
@@ -47,7 +27,7 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Valley View",
       "type": "mobile",
-      "timestamp": "2026-04-18T13:00:23Z",
+      "timestamp": "2026-04-18T14:00:23Z",
       "reported_at": "2026-04-18T10:59:06Z"
     }
   ]
