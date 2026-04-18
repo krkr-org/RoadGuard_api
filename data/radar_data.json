@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "3c3f2b0d-67d5-4e6c-ab39-1e5cc8841cdb",
-      "latitude": -34.949022,
-      "longitude": 138.581123,
-      "street": "Leader St",
-      "city": "Forestville",
+      "id": "20b32024-51ff-4595-9d07-738efb1e9f69",
+      "latitude": -34.905877,
+      "longitude": 138.600575,
+      "street": "LeFevre Tce",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T07:51:41Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:03:18Z"
     },
     {
-      "id": "798776f0-0e1c-4e2a-aed8-07251717c4c6",
-      "latitude": -34.723293,
-      "longitude": 138.687794,
-      "street": "Kinkaid Rd",
-      "city": "Elizabeth East",
+      "id": "c6a8510e-c476-4390-baf4-c5bc2bf1519d",
+      "latitude": -34.839559,
+      "longitude": 138.68856,
+      "street": "Reservoir Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T07:34:00Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:00:33Z"
+    },
+    {
+      "id": "3fab37cc-3270-439b-ad82-3066b2fc29f8",
+      "latitude": -35.029941,
+      "longitude": 138.529664,
+      "street": "Seacombe Rd",
+      "city": "South Brighton",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:07:55Z"
+    },
+    {
+      "id": "01462c21-881f-470a-9ac0-f5ab8796bdb4",
+      "latitude": -35.016865,
+      "longitude": 138.563622,
+      "street": "Sturt Rd",
+      "city": "Mitchell Park",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:17:55Z"
     },
     {
       "id": "63eca4e6-4cee-4439-a9d1-44c8202b2db6",
@@ -27,78 +47,88 @@
       "street": "Unknown Street",
       "city": "Newton",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
+      "timestamp": "2026-04-18T08:30:22Z",
       "reported_at": "2026-04-18T07:47:01Z"
     },
     {
-      "id": "00c075f9-03bb-4515-b64a-ed275d82ab30",
-      "latitude": -34.864628,
-      "longitude": 138.592498,
-      "street": "Prospect Rd",
-      "city": "Kilburn",
-      "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T06:59:48Z"
-    },
-    {
-      "id": "5914939e-3d10-4dee-bb91-b350481b9255",
-      "latitude": -34.857959,
-      "longitude": 138.511528,
+      "id": "5de1210c-a631-4e72-8cfb-675ccc7181a8",
+      "latitude": -34.859042,
+      "longitude": 138.512161,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T07:29:39Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T06:28:48Z"
     },
     {
-      "id": "e6e08d69-3aa3-489d-af1e-f8940290a0dd",
-      "latitude": -34.932269,
-      "longitude": 138.517594,
+      "id": "fdd365d7-2688-435a-8b9f-083ebe8457b0",
+      "latitude": -34.930314,
+      "longitude": 138.51754,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Fulham",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:11:14Z"
+    },
+    {
+      "id": "2d2b6a67-89e9-45f5-bfd5-d3125b70cdbf",
+      "latitude": -34.931721,
+      "longitude": 138.517513,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T05:37:15Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T06:03:48Z"
     },
     {
-      "id": "c7389953-5d1e-4ef2-9bee-779a25511d76",
-      "latitude": -34.871153,
-      "longitude": 138.521157,
+      "id": "516c371b-bdb0-46f0-8c81-0084acf24bcc",
+      "latitude": -34.871879,
+      "longitude": 138.522251,
       "street": "A7 - Port Rd",
       "city": "Cheltenham",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T06:52:37Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T05:57:34Z"
     },
     {
-      "id": "11e02a5b-d183-4de2-9102-119b42f908ac",
-      "latitude": -34.858279,
-      "longitude": 138.600843,
+      "id": "dd715688-e864-4042-8f90-4e3d1480ad38",
+      "latitude": -34.856726,
+      "longitude": 138.600734,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T07:26:43Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T05:58:16Z"
     },
     {
-      "id": "e35e8f32-280a-4598-b9bc-8fdde540830e",
-      "latitude": -34.722146,
-      "longitude": 138.673843,
+      "id": "225c6813-ffd7-4d77-a48f-a69476eea005",
+      "latitude": -34.845619,
+      "longitude": 138.659176,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:22:03Z"
+    },
+    {
+      "id": "49f53b1c-e8eb-4ca0-9afc-522538951f00",
+      "latitude": -34.828954,
+      "longitude": 138.614132,
       "street": "A20 - Main North Rd",
-      "city": "Elizabeth East",
+      "city": "Pooraka",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T07:48:48Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:21:00Z"
     },
     {
-      "id": "740a8c57-1d58-4a88-b90f-ed81555dc28f",
-      "latitude": -34.78576,
-      "longitude": 138.694267,
-      "street": "A11 - The Grove Way",
-      "city": "Golden Grove",
+      "id": "ec52c3ec-02ad-4618-a775-18259756fdab",
+      "latitude": -34.730537,
+      "longitude": 138.675314,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth Grove",
       "type": "mobile",
-      "timestamp": "2026-04-18T08:00:22Z",
-      "reported_at": "2026-04-18T07:36:13Z"
+      "timestamp": "2026-04-18T08:30:22Z",
+      "reported_at": "2026-04-18T08:20:35Z"
     }
   ]
 }
