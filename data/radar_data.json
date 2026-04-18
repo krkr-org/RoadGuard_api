@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "b96af289-652b-4385-afc0-327774d1a226",
-      "latitude": -34.737642,
-      "longitude": 138.615966,
+      "id": "7a42967a-5681-4b30-a95a-2b22bcd9fcac",
+      "latitude": -34.736513,
+      "longitude": 138.616993,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-18T01:00:22Z",
-      "reported_at": "2026-04-17T22:56:24Z"
-    },
-    {
-      "id": "b515cc95-e4b4-4436-963f-e30d9eed3bd2",
-      "latitude": -34.862055,
-      "longitude": 138.506719,
-      "street": "Old Port Rd",
-      "city": "Royal Park",
-      "type": "mobile",
-      "timestamp": "2026-04-18T01:00:22Z",
-      "reported_at": "2026-04-18T00:52:27Z"
-    },
-    {
-      "id": "6d04f048-11e9-464c-ad9f-addaaa4b930c",
-      "latitude": -35.029073,
-      "longitude": 138.543096,
-      "street": "Seacombe Rd",
-      "city": "Seacombe Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-18T01:00:22Z",
-      "reported_at": "2026-04-18T00:38:00Z"
+      "timestamp": "2026-04-18T01:30:24Z",
+      "reported_at": "2026-04-18T00:51:03Z"
     },
     {
       "id": "b34d4247-d55c-40a0-9334-d84fc85ec1db",
-      "latitude": -34.804965,
-      "longitude": 138.597058,
+      "latitude": -34.804791,
+      "longitude": 138.597044,
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-18T01:00:22Z",
+      "timestamp": "2026-04-18T01:30:24Z",
       "reported_at": "2026-04-17T21:44:12Z"
+    },
+    {
+      "id": "19375098-7a1b-4e75-82a1-d63de11dac74",
+      "latitude": -34.803659,
+      "longitude": 138.596701,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Dry Creek",
+      "type": "mobile",
+      "timestamp": "2026-04-18T01:30:24Z",
+      "reported_at": "2026-04-18T01:18:56Z"
     }
   ]
 }
