@@ -1,24 +1,34 @@
 {
   "radars": [
     {
-      "id": "1edb09c4-5d9a-437b-9b94-08c5c8babaab",
-      "latitude": -35.106154,
-      "longitude": 138.50912,
-      "street": "Unknown Street",
-      "city": "Lonsdale",
-      "type": "mobile",
-      "timestamp": "2026-04-18T00:30:22Z",
-      "reported_at": "2026-04-17T23:57:56Z"
-    },
-    {
-      "id": "1f297568-df32-4b52-b8cc-6157b85368cc",
-      "latitude": -34.736322,
-      "longitude": 138.61714,
+      "id": "b96af289-652b-4385-afc0-327774d1a226",
+      "latitude": -34.737642,
+      "longitude": 138.615966,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-18T00:30:22Z",
-      "reported_at": "2026-04-17T22:15:47Z"
+      "timestamp": "2026-04-18T01:00:22Z",
+      "reported_at": "2026-04-17T22:56:24Z"
+    },
+    {
+      "id": "b515cc95-e4b4-4436-963f-e30d9eed3bd2",
+      "latitude": -34.862055,
+      "longitude": 138.506719,
+      "street": "Old Port Rd",
+      "city": "Royal Park",
+      "type": "mobile",
+      "timestamp": "2026-04-18T01:00:22Z",
+      "reported_at": "2026-04-18T00:52:27Z"
+    },
+    {
+      "id": "6d04f048-11e9-464c-ad9f-addaaa4b930c",
+      "latitude": -35.029073,
+      "longitude": 138.543096,
+      "street": "Seacombe Rd",
+      "city": "Seacombe Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-18T01:00:22Z",
+      "reported_at": "2026-04-18T00:38:00Z"
     },
     {
       "id": "b34d4247-d55c-40a0-9334-d84fc85ec1db",
@@ -27,7 +37,7 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-18T00:30:22Z",
+      "timestamp": "2026-04-18T01:00:22Z",
       "reported_at": "2026-04-17T21:44:12Z"
     }
   ]
