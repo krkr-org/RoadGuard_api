@@ -1,3 +1,54 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "12211135-865b-4027-9cbd-7ee5c92d3ba5",
+      "latitude": -34.925274,
+      "longitude": 138.619613,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-18T22:00:22Z",
+      "reported_at": "2026-04-18T21:53:15Z"
+    },
+    {
+      "id": "b7bbb5be-84d9-4362-ae9f-d282f89748ba",
+      "latitude": -34.940077,
+      "longitude": 138.584636,
+      "street": "A5 - Anzac Hwy",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-18T22:00:22Z",
+      "reported_at": "2026-04-18T21:41:34Z"
+    },
+    {
+      "id": "b6061e06-75ce-4c1b-adea-e50cd100a9ca",
+      "latitude": -34.912868,
+      "longitude": 138.684616,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-18T22:00:22Z",
+      "reported_at": "2026-04-18T21:47:09Z"
+    },
+    {
+      "id": "5fa1ce42-9846-4c49-a39a-524da5d3920e",
+      "latitude": -34.913968,
+      "longitude": 138.613858,
+      "street": "R1 - Hackney Rd (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-18T22:00:22Z",
+      "reported_at": "2026-04-18T21:43:57Z"
+    },
+    {
+      "id": "896c5807-a5f4-4791-9e23-f9429507c263",
+      "latitude": -35.038064,
+      "longitude": 138.557475,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-18T22:00:22Z",
+      "reported_at": "2026-04-18T21:52:01Z"
+    }
+  ]
 }
