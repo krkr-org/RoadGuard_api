@@ -1,74 +1,104 @@
 {
   "radars": [
     {
-      "id": "d6a20eb4-9ccd-428f-a42e-55c0148cc35c",
-      "latitude": -35.094359,
-      "longitude": 138.531767,
-      "street": "Grant Rd",
-      "city": "Reynella",
+      "id": "3c3f2b0d-67d5-4e6c-ab39-1e5cc8841cdb",
+      "latitude": -34.949022,
+      "longitude": 138.581123,
+      "street": "Leader St",
+      "city": "Forestville",
       "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
-      "reported_at": "2026-04-18T03:21:42Z"
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:51:41Z"
     },
     {
-      "id": "f01af980-3823-4a43-a275-bc22301de6b6",
-      "latitude": -34.858804,
-      "longitude": 138.512024,
+      "id": "798776f0-0e1c-4e2a-aed8-07251717c4c6",
+      "latitude": -34.723293,
+      "longitude": 138.687794,
+      "street": "Kinkaid Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:34:00Z"
+    },
+    {
+      "id": "63eca4e6-4cee-4439-a9d1-44c8202b2db6",
+      "latitude": -34.888486,
+      "longitude": 138.675921,
+      "street": "Unknown Street",
+      "city": "Newton",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:47:01Z"
+    },
+    {
+      "id": "00c075f9-03bb-4515-b64a-ed275d82ab30",
+      "latitude": -34.864628,
+      "longitude": 138.592498,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T06:59:48Z"
+    },
+    {
+      "id": "5914939e-3d10-4dee-bb91-b350481b9255",
+      "latitude": -34.857959,
+      "longitude": 138.511528,
       "street": "A7 - Port Rd",
       "city": "Queenstown",
       "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
-      "reported_at": "2026-04-18T06:25:20Z"
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:29:39Z"
     },
     {
       "id": "e6e08d69-3aa3-489d-af1e-f8940290a0dd",
-      "latitude": -34.932143,
-      "longitude": 138.517597,
+      "latitude": -34.932269,
+      "longitude": 138.517594,
       "street": "A15 - Tapleys Hill Rd",
       "city": "West Beach",
       "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
+      "timestamp": "2026-04-18T08:00:22Z",
       "reported_at": "2026-04-18T05:37:15Z"
     },
     {
-      "id": "823d0911-3982-45e7-b2c9-9b1a280037cf",
-      "latitude": -34.941727,
-      "longitude": 138.577486,
-      "street": "R1 - Richmond Rd (City Ring Route)",
-      "city": "Mile End South",
-      "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
-      "reported_at": "2026-04-18T06:16:55Z"
-    },
-    {
-      "id": "d0aa4d44-386d-4520-b9b6-60223ade7403",
-      "latitude": -34.937677,
-      "longitude": 138.552932,
-      "street": "A14 - Marion Rd",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
-      "reported_at": "2026-04-18T06:45:36Z"
-    },
-    {
-      "id": "516c371b-bdb0-46f0-8c81-0084acf24bcc",
-      "latitude": -34.871879,
-      "longitude": 138.522251,
+      "id": "c7389953-5d1e-4ef2-9bee-779a25511d76",
+      "latitude": -34.871153,
+      "longitude": 138.521157,
       "street": "A7 - Port Rd",
       "city": "Cheltenham",
       "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
-      "reported_at": "2026-04-18T05:57:34Z"
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T06:52:37Z"
     },
     {
-      "id": "dd715688-e864-4042-8f90-4e3d1480ad38",
-      "latitude": -34.856847,
-      "longitude": 138.600742,
+      "id": "11e02a5b-d183-4de2-9102-119b42f908ac",
+      "latitude": -34.858279,
+      "longitude": 138.600843,
       "street": "A1 - Main North Rd",
       "city": "Blair Athol",
       "type": "mobile",
-      "timestamp": "2026-04-18T07:00:22Z",
-      "reported_at": "2026-04-18T05:58:16Z"
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:26:43Z"
+    },
+    {
+      "id": "e35e8f32-280a-4598-b9bc-8fdde540830e",
+      "latitude": -34.722146,
+      "longitude": 138.673843,
+      "street": "A20 - Main North Rd",
+      "city": "Elizabeth East",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:48:48Z"
+    },
+    {
+      "id": "740a8c57-1d58-4a88-b90f-ed81555dc28f",
+      "latitude": -34.78576,
+      "longitude": 138.694267,
+      "street": "A11 - The Grove Way",
+      "city": "Golden Grove",
+      "type": "mobile",
+      "timestamp": "2026-04-18T08:00:22Z",
+      "reported_at": "2026-04-18T07:36:13Z"
     }
   ]
 }
