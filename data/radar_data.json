@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "7a42967a-5681-4b30-a95a-2b22bcd9fcac",
-      "latitude": -34.736513,
-      "longitude": 138.616993,
+      "id": "de97afd8-411f-4f51-97c3-ff6d7717743a",
+      "latitude": -34.70048,
+      "longitude": 138.667743,
+      "street": "Heytesbury Rd",
+      "city": "Davoren Park",
+      "type": "mobile",
+      "timestamp": "2026-04-18T02:30:22Z",
+      "reported_at": "2026-04-18T02:03:14Z"
+    },
+    {
+      "id": "9c906fa4-5b55-4c42-82a1-f7dadb110b90",
+      "latitude": -34.736546,
+      "longitude": 138.616986,
       "street": "Bolivar Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-18T02:00:22Z",
-      "reported_at": "2026-04-18T00:51:03Z"
-    },
-    {
-      "id": "e96db76e-a659-45fe-93ef-44cb0bac2fb1",
-      "latitude": -35.141882,
-      "longitude": 138.660123,
-      "street": "Kangarilla Rd",
-      "city": "Kangarilla",
-      "type": "mobile",
-      "timestamp": "2026-04-18T02:00:22Z",
-      "reported_at": "2026-04-18T01:33:59Z"
+      "timestamp": "2026-04-18T02:30:22Z",
+      "reported_at": "2026-04-18T02:19:25Z"
     },
     {
       "id": "6e14ec24-38df-4b7c-b6ca-32c6a4906ee6",
@@ -27,7 +27,7 @@
       "street": "A1 - Port Wakefield Rd",
       "city": "Dry Creek",
       "type": "mobile",
-      "timestamp": "2026-04-18T02:00:22Z",
+      "timestamp": "2026-04-18T02:30:22Z",
       "reported_at": "2026-04-18T01:33:09Z"
     }
   ]
