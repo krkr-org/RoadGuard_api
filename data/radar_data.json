@@ -1,64 +1,14 @@
 {
   "radars": [
     {
-      "id": "07aa08db-c93d-4fe1-8c17-f59048bc521a",
-      "latitude": -34.915203,
-      "longitude": 138.586746,
+      "id": "6b239da3-1f0b-4d2a-9009-74c18169d622",
+      "latitude": -34.917099,
+      "longitude": 138.590077,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T03:02:41Z"
-    },
-    {
-      "id": "47da1985-a627-4718-a351-263cb701e951",
-      "latitude": -34.809403,
-      "longitude": 138.68613,
-      "street": "Ladywood Rd",
-      "city": "Modbury Heights",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T04:57:32Z"
-    },
-    {
-      "id": "3f7dceef-9cc8-492e-b720-50c592e1b810",
-      "latitude": -34.907794,
-      "longitude": 138.663045,
-      "street": "Shakespeare Av",
-      "city": "Tranmere",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T01:52:31Z"
-    },
-    {
-      "id": "0511f569-7966-4bfa-8652-a6a739f0832c",
-      "latitude": -34.990628,
-      "longitude": 138.596053,
-      "street": "Springbank Rd",
-      "city": "Colonel Light Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T05:08:25Z"
-    },
-    {
-      "id": "16ea862a-5a47-4c17-8e86-795fa5c4093e",
-      "latitude": -34.874486,
-      "longitude": 138.584831,
-      "street": "Regency Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T05:19:02Z"
-    },
-    {
-      "id": "749200cc-90eb-46b4-b698-bfd6f00ecd30",
-      "latitude": -34.828025,
-      "longitude": 138.679807,
-      "street": "A18 - McIntyre Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T05:18:28Z"
+      "timestamp": "2026-04-19T06:00:23Z",
+      "reported_at": "2026-04-19T02:55:58Z"
     },
     {
       "id": "1588c943-fd6f-4654-b553-0f88ce999903",
@@ -67,28 +17,8 @@
       "street": "A5 - Anzac Hwy",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
+      "timestamp": "2026-04-19T06:00:23Z",
       "reported_at": "2026-04-19T02:03:22Z"
-    },
-    {
-      "id": "bf52320f-31d7-49ce-8894-cb09ece93b55",
-      "latitude": -34.839152,
-      "longitude": 138.676664,
-      "street": "A10 - North East Rd",
-      "city": "Modbury",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-19T05:23:11Z"
-    },
-    {
-      "id": "fbe9084c-98e6-4cb8-87ef-e341a2b2d8ee",
-      "latitude": -34.912808,
-      "longitude": 138.683921,
-      "street": "B27 - Magill Rd",
-      "city": "Magill",
-      "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
-      "reported_at": "2026-04-18T22:36:23Z"
     },
     {
       "id": "8f06a885-63d4-4bc9-9212-3a27c769207e",
@@ -97,8 +27,28 @@
       "street": "A16 - Grand Junction Rd",
       "city": "Gepps Cross",
       "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
+      "timestamp": "2026-04-19T06:00:23Z",
       "reported_at": "2026-04-19T04:42:31Z"
+    },
+    {
+      "id": "3f0678e5-94f5-4a22-8e81-d32f17797b40",
+      "latitude": -34.879198,
+      "longitude": 138.584433,
+      "street": "A22 - Churchill Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-19T06:00:23Z",
+      "reported_at": "2026-04-19T05:32:23Z"
+    },
+    {
+      "id": "fbe9084c-98e6-4cb8-87ef-e341a2b2d8ee",
+      "latitude": -34.912808,
+      "longitude": 138.683921,
+      "street": "B27 - Magill Rd",
+      "city": "Magill",
+      "type": "mobile",
+      "timestamp": "2026-04-19T06:00:23Z",
+      "reported_at": "2026-04-18T22:36:23Z"
     },
     {
       "id": "fa996049-5216-44ba-89f0-9218552c9d5c",
@@ -107,7 +57,7 @@
       "street": "R1 - Richmond Rd (City Ring Route)",
       "city": "Mile End South",
       "type": "mobile",
-      "timestamp": "2026-04-19T05:30:21Z",
+      "timestamp": "2026-04-19T06:00:23Z",
       "reported_at": "2026-04-19T04:06:43Z"
     }
   ]
