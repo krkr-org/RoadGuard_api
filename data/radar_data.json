@@ -1,44 +1,54 @@
 {
   "radars": [
     {
+      "id": "9bbfd77c-5878-4faf-8c53-8f3e8375728c",
+      "latitude": -34.912041,
+      "longitude": 138.539936,
+      "street": "Hartley Rd",
+      "city": "Flinders Park",
+      "type": "mobile",
+      "timestamp": "2026-04-19T23:30:23Z",
+      "reported_at": "2026-04-19T22:28:14Z"
+    },
+    {
+      "id": "9d106eda-285b-4ea6-bdde-16ce3f709f33",
+      "latitude": -34.928751,
+      "longitude": 138.544656,
+      "street": "Marshall Tce",
+      "city": "Brooklyn Park",
+      "type": "mobile",
+      "timestamp": "2026-04-19T23:30:23Z",
+      "reported_at": "2026-04-19T22:52:08Z"
+    },
+    {
       "id": "d43e5521-8822-4c97-9c6b-7e0cc359f27a",
       "latitude": -34.889364,
       "longitude": 138.66479,
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-19T23:00:23Z",
+      "timestamp": "2026-04-19T23:30:23Z",
       "reported_at": "2026-04-19T21:10:41Z"
     },
     {
-      "id": "6fb80e3c-a678-4855-b873-1060482c12f3",
-      "latitude": -34.891913,
-      "longitude": 138.508138,
+      "id": "a111e468-c1c0-44a5-8737-b91c6179562b",
+      "latitude": -34.89182,
+      "longitude": 138.51051,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-19T23:00:23Z",
-      "reported_at": "2026-04-19T22:28:52Z"
+      "timestamp": "2026-04-19T23:30:23Z",
+      "reported_at": "2026-04-19T21:57:09Z"
     },
     {
-      "id": "6fbb2b3f-cb87-4621-a5af-613bbde7ff02",
-      "latitude": -34.920049,
-      "longitude": 138.514702,
-      "street": "A15 - Tapleys Hill Rd",
-      "city": "Fulham Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-19T23:00:23Z",
-      "reported_at": "2026-04-19T21:51:26Z"
-    },
-    {
-      "id": "8ca8f4ec-2591-4df2-97ef-6d119e4462b9",
-      "latitude": -34.903713,
-      "longitude": 138.569215,
+      "id": "e14ebbf6-a757-44fd-a823-3cf3498b172f",
+      "latitude": -34.903615,
+      "longitude": 138.569075,
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-04-19T23:00:23Z",
-      "reported_at": "2026-04-19T22:34:34Z"
+      "timestamp": "2026-04-19T23:30:23Z",
+      "reported_at": "2026-04-19T22:16:21Z"
     }
   ]
 }
