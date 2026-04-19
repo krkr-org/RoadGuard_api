@@ -7,7 +7,7 @@
       "street": "North St",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
+      "timestamp": "2026-04-19T08:30:22Z",
       "reported_at": "2026-04-19T06:52:46Z"
     },
     {
@@ -17,8 +17,18 @@
       "street": "Dunrobin Rd",
       "city": "Warradale",
       "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
+      "timestamp": "2026-04-19T08:30:22Z",
       "reported_at": "2026-04-19T07:14:10Z"
+    },
+    {
+      "id": "e9c9220c-b570-4705-a25c-f5230454de78",
+      "latitude": -34.848626,
+      "longitude": 138.702058,
+      "street": "Valley Rd",
+      "city": "Highbury",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:30:22Z",
+      "reported_at": "2026-04-19T07:33:53Z"
     },
     {
       "id": "845e1d63-9a3b-4ef8-ad05-0415445cb3f9",
@@ -27,18 +37,8 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
+      "timestamp": "2026-04-19T08:30:22Z",
       "reported_at": "2026-04-19T07:30:03Z"
-    },
-    {
-      "id": "dc9e239d-3e84-4351-93f0-e992900a0f1f",
-      "latitude": -35.059528,
-      "longitude": 138.530659,
-      "street": "Perry Barr Rd",
-      "city": "Hallett Cove",
-      "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
-      "reported_at": "2026-04-19T07:37:56Z"
     },
     {
       "id": "077d90d1-376d-4448-a293-cfcadddb5499",
@@ -47,7 +47,7 @@
       "street": "O'Sullivan Beach Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
+      "timestamp": "2026-04-19T08:30:22Z",
       "reported_at": "2026-04-19T05:59:57Z"
     },
     {
@@ -57,8 +57,28 @@
       "street": "Chandlers Hill Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
+      "timestamp": "2026-04-19T08:30:22Z",
       "reported_at": "2026-04-19T06:02:28Z"
+    },
+    {
+      "id": "6d5785e5-4afa-4320-a7c8-90610e8da474",
+      "latitude": -34.789109,
+      "longitude": 138.664919,
+      "street": "Bridge Rd",
+      "city": "Salisbury East",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:30:22Z",
+      "reported_at": "2026-04-19T08:10:44Z"
+    },
+    {
+      "id": "17c38c35-c8e2-4414-ba85-13e345109740",
+      "latitude": -34.976548,
+      "longitude": 138.519868,
+      "street": "A15 - Brighton Rd",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:30:22Z",
+      "reported_at": "2026-04-19T08:02:52Z"
     },
     {
       "id": "c6286e8a-ba67-4a9e-8e8c-1c9a9148db7a",
@@ -67,7 +87,7 @@
       "street": "A15 - Tapleys Hill Rd",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-19T08:00:23Z",
+      "timestamp": "2026-04-19T08:30:22Z",
       "reported_at": "2026-04-19T07:29:17Z"
     }
   ]
