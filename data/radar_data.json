@@ -1,54 +1,44 @@
 {
   "radars": [
     {
-      "id": "0f82f39c-d0a3-495a-839f-712db0372146",
-      "latitude": -35.09431,
-      "longitude": 138.532734,
+      "id": "d500748d-f380-403d-8b18-6d53c37d3251",
+      "latitude": -34.918782,
+      "longitude": 138.503583,
+      "street": "North St",
+      "city": "Henley Beach",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:00:23Z",
+      "reported_at": "2026-04-19T06:52:46Z"
+    },
+    {
+      "id": "52ee68fa-4240-400c-821c-e5d5674ee959",
+      "latitude": -35.009431,
+      "longitude": 138.532939,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:00:23Z",
+      "reported_at": "2026-04-19T07:14:10Z"
+    },
+    {
+      "id": "845e1d63-9a3b-4ef8-ad05-0415445cb3f9",
+      "latitude": -35.094437,
+      "longitude": 138.530118,
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-19T07:30:22Z",
-      "reported_at": "2026-04-19T07:10:55Z"
+      "timestamp": "2026-04-19T08:00:23Z",
+      "reported_at": "2026-04-19T07:30:03Z"
     },
     {
-      "id": "8cc13d36-4333-47a8-be69-eda6d5de221e",
-      "latitude": -35.059564,
-      "longitude": 138.530513,
+      "id": "dc9e239d-3e84-4351-93f0-e992900a0f1f",
+      "latitude": -35.059528,
+      "longitude": 138.530659,
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-19T07:30:22Z",
-      "reported_at": "2026-04-19T06:58:13Z"
-    },
-    {
-      "id": "72b6fbb0-2db5-45e6-8ddc-a6aaf3c350d4",
-      "latitude": -34.848397,
-      "longitude": 138.702039,
-      "street": "Valley Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-04-19T07:30:22Z",
-      "reported_at": "2026-04-19T06:54:40Z"
-    },
-    {
-      "id": "dc5a587f-8f24-4bcc-bb48-9c0b11788482",
-      "latitude": -35.071593,
-      "longitude": 138.562998,
-      "street": "Chandlers Hill Rd",
-      "city": "O'Halloran Hill",
-      "type": "mobile",
-      "timestamp": "2026-04-19T07:30:22Z",
-      "reported_at": "2026-04-19T06:05:36Z"
-    },
-    {
-      "id": "8928e9ff-2047-4e50-82a9-5bcfc600f33d",
-      "latitude": -34.795653,
-      "longitude": 138.659095,
-      "street": "Bridge Rd",
-      "city": "Salisbury East",
-      "type": "mobile",
-      "timestamp": "2026-04-19T07:30:22Z",
-      "reported_at": "2026-04-19T07:10:22Z"
+      "timestamp": "2026-04-19T08:00:23Z",
+      "reported_at": "2026-04-19T07:37:56Z"
     },
     {
       "id": "077d90d1-376d-4448-a293-cfcadddb5499",
@@ -57,8 +47,28 @@
       "street": "O'Sullivan Beach Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-19T07:30:22Z",
+      "timestamp": "2026-04-19T08:00:23Z",
       "reported_at": "2026-04-19T05:59:57Z"
+    },
+    {
+      "id": "48ad1bc0-8261-4039-8813-345070f463a7",
+      "latitude": -35.070261,
+      "longitude": 138.562877,
+      "street": "Chandlers Hill Rd",
+      "city": "O'Halloran Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:00:23Z",
+      "reported_at": "2026-04-19T06:02:28Z"
+    },
+    {
+      "id": "c6286e8a-ba67-4a9e-8e8c-1c9a9148db7a",
+      "latitude": -34.889249,
+      "longitude": 138.513559,
+      "street": "A15 - Tapleys Hill Rd",
+      "city": "Seaton",
+      "type": "mobile",
+      "timestamp": "2026-04-19T08:00:23Z",
+      "reported_at": "2026-04-19T07:29:17Z"
     }
   ]
 }
