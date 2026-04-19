@@ -1,13 +1,23 @@
 {
   "radars": [
     {
+      "id": "a7844c60-e4cc-465e-85b3-2a8d75de17af",
+      "latitude": -34.697004,
+      "longitude": 138.656138,
+      "street": "Stebonheath Rd",
+      "city": "Eyre",
+      "type": "mobile",
+      "timestamp": "2026-04-19T19:30:23Z",
+      "reported_at": "2026-04-19T18:55:39Z"
+    },
+    {
       "id": "7885fa0c-4271-436f-bb1d-cd3ac25e61e3",
       "latitude": -34.772656,
       "longitude": 138.594794,
       "street": "A1 - Port Wakefield Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-19T19:00:24Z",
+      "timestamp": "2026-04-19T19:30:23Z",
       "reported_at": "2026-04-19T18:41:07Z"
     }
   ]
