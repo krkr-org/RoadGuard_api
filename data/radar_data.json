@@ -1,43 +1,13 @@
 {
   "radars": [
     {
-      "id": "d500748d-f380-403d-8b18-6d53c37d3251",
-      "latitude": -34.918782,
-      "longitude": 138.503583,
-      "street": "North St",
-      "city": "Henley Beach",
-      "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
-      "reported_at": "2026-04-19T06:52:46Z"
-    },
-    {
-      "id": "52ee68fa-4240-400c-821c-e5d5674ee959",
-      "latitude": -35.009431,
-      "longitude": 138.532939,
-      "street": "Dunrobin Rd",
-      "city": "Warradale",
-      "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
-      "reported_at": "2026-04-19T07:14:10Z"
-    },
-    {
-      "id": "126a871e-c41d-4dde-b26d-0c1ebf30b838",
-      "latitude": -35.022596,
-      "longitude": 138.529767,
-      "street": "Hastings St",
-      "city": "Brighton",
-      "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
-      "reported_at": "2026-04-19T09:53:28Z"
-    },
-    {
       "id": "0f1fdb67-7b8c-4dee-bb99-1b96495740c5",
       "latitude": -35.011856,
       "longitude": 138.528288,
       "street": "Addison Rd",
       "city": "Hove",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T07:06:55Z"
     },
     {
@@ -47,8 +17,28 @@
       "street": "Brolga Pl",
       "city": "Sturt",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T08:22:32Z"
+    },
+    {
+      "id": "52ee68fa-4240-400c-821c-e5d5674ee959",
+      "latitude": -35.009431,
+      "longitude": 138.532939,
+      "street": "Dunrobin Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-19T11:00:23Z",
+      "reported_at": "2026-04-19T07:14:10Z"
+    },
+    {
+      "id": "126a871e-c41d-4dde-b26d-0c1ebf30b838",
+      "latitude": -35.022596,
+      "longitude": 138.529767,
+      "street": "Hastings St",
+      "city": "Brighton",
+      "type": "mobile",
+      "timestamp": "2026-04-19T11:00:23Z",
+      "reported_at": "2026-04-19T09:53:28Z"
     },
     {
       "id": "4f4fe1f4-f7b5-4d5f-b245-58c59c8b9358",
@@ -57,18 +47,8 @@
       "street": "Perry Barr Rd",
       "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T08:19:51Z"
-    },
-    {
-      "id": "817f276f-6d7c-4737-901f-6330aa8a670e",
-      "latitude": -34.759975,
-      "longitude": 138.616236,
-      "street": "Burton Rd",
-      "city": "Paralowie",
-      "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
-      "reported_at": "2026-04-19T08:12:33Z"
     },
     {
       "id": "845e1d63-9a3b-4ef8-ad05-0415445cb3f9",
@@ -77,7 +57,7 @@
       "street": "Grant Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T07:30:03Z"
     },
     {
@@ -87,7 +67,7 @@
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T07:33:53Z"
     },
     {
@@ -97,18 +77,18 @@
       "street": "O'Sullivan Beach Rd",
       "city": "Lonsdale",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T08:40:12Z"
     },
     {
-      "id": "8f9c8548-922d-4868-ad32-38129769fad5",
-      "latitude": -34.996532,
-      "longitude": 138.533803,
+      "id": "d1812c51-30ee-4c43-8a69-0e821b218bf1",
+      "latitude": -34.996652,
+      "longitude": 138.531484,
       "street": "Oaklands Rd",
       "city": "Glengowrie",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
-      "reported_at": "2026-04-19T09:37:05Z"
+      "timestamp": "2026-04-19T11:00:23Z",
+      "reported_at": "2026-04-19T09:26:53Z"
     },
     {
       "id": "48ad1bc0-8261-4039-8813-345070f463a7",
@@ -117,7 +97,7 @@
       "street": "Chandlers Hill Rd",
       "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-19T10:30:26Z",
+      "timestamp": "2026-04-19T11:00:23Z",
       "reported_at": "2026-04-19T06:02:28Z"
     }
   ]
