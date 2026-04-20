@@ -1,34 +1,44 @@
 {
   "radars": [
     {
+      "id": "a8f6e656-eb55-4c7d-8e0d-a702b33737b5",
+      "latitude": -34.935315,
+      "longitude": 138.631647,
+      "street": "Stuart Rd",
+      "city": "Dulwich",
+      "type": "mobile",
+      "timestamp": "2026-04-20T23:30:23Z",
+      "reported_at": "2026-04-20T22:50:54Z"
+    },
+    {
+      "id": "77e55cd9-daa4-48dd-8c7f-a84c7553c7ac",
+      "latitude": -34.890783,
+      "longitude": 138.487686,
+      "street": "Military Rd",
+      "city": "Tennyson",
+      "type": "mobile",
+      "timestamp": "2026-04-20T23:30:23Z",
+      "reported_at": "2026-04-20T23:04:29Z"
+    },
+    {
       "id": "2eaf3052-a511-4e6a-ab9a-3641eabcab9b",
       "latitude": -35.105497,
       "longitude": 138.795277,
       "street": "Meadows Rd",
       "city": "Echunga",
       "type": "mobile",
-      "timestamp": "2026-04-20T23:00:25Z",
+      "timestamp": "2026-04-20T23:30:23Z",
       "reported_at": "2026-04-20T22:46:31Z"
     },
     {
-      "id": "28701b1b-0839-4190-9c66-bc00d74d82a3",
-      "latitude": -34.807316,
-      "longitude": 138.717735,
-      "street": "A11 - Hancock Rd",
-      "city": "Redwood Park",
-      "type": "mobile",
-      "timestamp": "2026-04-20T23:00:25Z",
-      "reported_at": "2026-04-20T22:43:44Z"
-    },
-    {
-      "id": "d9ebb76d-a8cb-4a10-91bb-6553f6fba83d",
-      "latitude": -34.7559,
-      "longitude": 138.677914,
+      "id": "28760e93-2402-4516-b599-fa6edebef727",
+      "latitude": -34.756238,
+      "longitude": 138.677719,
       "street": "A20 - Main North Rd",
       "city": "Salisbury Heights",
       "type": "mobile",
-      "timestamp": "2026-04-20T23:00:25Z",
-      "reported_at": "2026-04-20T22:56:35Z"
+      "timestamp": "2026-04-20T23:30:23Z",
+      "reported_at": "2026-04-20T23:05:34Z"
     }
   ]
 }
