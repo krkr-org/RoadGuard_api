@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "39d1b9fa-7ff4-4a7e-9f54-8af667cd7a20",
-      "latitude": -34.848073,
-      "longitude": 138.702012,
-      "street": "Valley Rd",
-      "city": "Hope Valley",
-      "type": "mobile",
-      "timestamp": "2026-04-20T15:30:23Z",
-      "reported_at": "2026-04-20T12:17:44Z"
-    },
-    {
       "id": "a503b56d-a185-41d9-a473-846e1a8672b3",
       "latitude": -34.892104,
       "longitude": 138.556059,
       "street": "Rosetta St",
       "city": "West Croydon",
       "type": "mobile",
-      "timestamp": "2026-04-20T15:30:23Z",
+      "timestamp": "2026-04-20T16:00:22Z",
       "reported_at": "2026-04-20T15:28:50Z"
+    },
+    {
+      "id": "39d1b9fa-7ff4-4a7e-9f54-8af667cd7a20",
+      "latitude": -34.848073,
+      "longitude": 138.702012,
+      "street": "Valley Rd",
+      "city": "Hope Valley",
+      "type": "mobile",
+      "timestamp": "2026-04-20T16:00:22Z",
+      "reported_at": "2026-04-20T12:17:44Z"
+    },
+    {
+      "id": "5cd393ad-7436-4a3d-9695-97559d01db8f",
+      "latitude": -34.829483,
+      "longitude": 138.661562,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
+      "type": "mobile",
+      "timestamp": "2026-04-20T16:00:22Z",
+      "reported_at": "2026-04-20T12:10:39Z"
+    },
+    {
+      "id": "030a089d-cc5f-4d02-9e3e-f75d3e23743b",
+      "latitude": -34.893502,
+      "longitude": 138.604559,
+      "street": "Nottage Tce",
+      "city": "Medindie Gardens",
+      "type": "mobile",
+      "timestamp": "2026-04-20T16:00:22Z",
+      "reported_at": "2026-04-20T15:31:00Z"
     }
   ]
 }
