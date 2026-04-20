@@ -7,7 +7,7 @@
       "street": "Hartley Rd",
       "city": "Flinders Park",
       "type": "mobile",
-      "timestamp": "2026-04-20T00:30:23Z",
+      "timestamp": "2026-04-20T01:00:23Z",
       "reported_at": "2026-04-19T22:28:14Z"
     },
     {
@@ -17,18 +17,38 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-20T00:30:23Z",
+      "timestamp": "2026-04-20T01:00:23Z",
       "reported_at": "2026-04-19T21:10:41Z"
     },
     {
-      "id": "a111e468-c1c0-44a5-8737-b91c6179562b",
-      "latitude": -34.89182,
-      "longitude": 138.51051,
+      "id": "32d3e2df-1387-4bbd-888d-858cdce3b02c",
+      "latitude": -34.901756,
+      "longitude": 138.575838,
+      "street": "Chief St",
+      "city": "Brompton",
+      "type": "mobile",
+      "timestamp": "2026-04-20T01:00:23Z",
+      "reported_at": "2026-04-19T23:34:04Z"
+    },
+    {
+      "id": "6cde01ac-c334-4aaf-a671-ef364f52e9a1",
+      "latitude": -34.891879,
+      "longitude": 138.511035,
       "street": "Trimmer Pde",
       "city": "Seaton",
       "type": "mobile",
-      "timestamp": "2026-04-20T00:30:23Z",
-      "reported_at": "2026-04-19T21:57:09Z"
+      "timestamp": "2026-04-20T01:00:23Z",
+      "reported_at": "2026-04-19T23:31:10Z"
+    },
+    {
+      "id": "6c81182c-a0d8-4d37-bacf-c99357edc7fa",
+      "latitude": -35.105962,
+      "longitude": 138.511004,
+      "street": "Sherriffs Rd",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-20T01:00:23Z",
+      "reported_at": "2026-04-20T00:40:44Z"
     },
     {
       "id": "e14ebbf6-a757-44fd-a823-3cf3498b172f",
@@ -37,18 +57,8 @@
       "street": "A7 - Port Rd",
       "city": "Hindmarsh",
       "type": "mobile",
-      "timestamp": "2026-04-20T00:30:23Z",
+      "timestamp": "2026-04-20T01:00:23Z",
       "reported_at": "2026-04-19T22:16:21Z"
-    },
-    {
-      "id": "b23c9060-22f5-4130-9102-d0d3708ddab9",
-      "latitude": -34.71806,
-      "longitude": 138.577728,
-      "street": "A1 - Port Wakefield Rd",
-      "city": "Waterloo Corner",
-      "type": "mobile",
-      "timestamp": "2026-04-20T00:30:23Z",
-      "reported_at": "2026-04-20T00:02:17Z"
     }
   ]
 }
