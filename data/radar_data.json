@@ -1,24 +1,54 @@
 {
   "radars": [
     {
-      "id": "e7024098-9849-40c4-bebf-135ca4094a77",
-      "latitude": -34.848553,
-      "longitude": 138.589664,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Gepps Cross",
+      "id": "39d1b9fa-7ff4-4a7e-9f54-8af667cd7a20",
+      "latitude": -34.848073,
+      "longitude": 138.702012,
+      "street": "Valley Rd",
+      "city": "Hope Valley",
       "type": "mobile",
-      "timestamp": "2026-04-20T12:30:22Z",
-      "reported_at": "2026-04-20T12:13:12Z"
+      "timestamp": "2026-04-20T13:30:24Z",
+      "reported_at": "2026-04-20T12:17:44Z"
     },
     {
-      "id": "5332521c-0b28-44a7-8c0d-410c9d6a827a",
-      "latitude": -34.860392,
-      "longitude": 138.651251,
-      "street": "A10 - North East Rd",
-      "city": "Hillcrest",
+      "id": "5cd393ad-7436-4a3d-9695-97559d01db8f",
+      "latitude": -34.829483,
+      "longitude": 138.661562,
+      "street": "Montague Rd",
+      "city": "Ingle Farm",
       "type": "mobile",
-      "timestamp": "2026-04-20T12:30:22Z",
-      "reported_at": "2026-04-20T12:15:18Z"
+      "timestamp": "2026-04-20T13:30:24Z",
+      "reported_at": "2026-04-20T12:10:39Z"
+    },
+    {
+      "id": "13cc4457-df11-4862-b619-04e32e2f54ff",
+      "latitude": -35.002808,
+      "longitude": 138.534756,
+      "street": "Diagonal Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-20T13:30:24Z",
+      "reported_at": "2026-04-20T13:16:26Z"
+    },
+    {
+      "id": "6f33b10f-7afa-48fd-9fa7-85bf2b8a9d23",
+      "latitude": -34.838388,
+      "longitude": 138.662588,
+      "street": "Nelson Rd",
+      "city": "Valley View",
+      "type": "mobile",
+      "timestamp": "2026-04-20T13:30:24Z",
+      "reported_at": "2026-04-20T13:04:09Z"
+    },
+    {
+      "id": "ea055264-ad51-402f-8ffc-02915c2f76d3",
+      "latitude": -34.974745,
+      "longitude": 138.555499,
+      "street": "A14 - Marion Rd",
+      "city": "Plympton Park",
+      "type": "mobile",
+      "timestamp": "2026-04-20T13:30:24Z",
+      "reported_at": "2026-04-20T13:10:47Z"
     }
   ]
 }
