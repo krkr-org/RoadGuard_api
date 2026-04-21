@@ -1,14 +1,64 @@
 {
   "radars": [
     {
-      "id": "4e9e177e-3ce7-4da5-9d22-85486c617f97",
-      "latitude": -34.844207,
-      "longitude": 138.684542,
-      "street": "A16 - Grand Junction Rd",
-      "city": "Holden Hill",
+      "id": "76bcf603-fbd0-46f7-b4ae-6fabbb77c126",
+      "latitude": -34.848805,
+      "longitude": 138.702073,
+      "street": "Valley Rd",
+      "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:00:23Z",
-      "reported_at": "2026-04-21T21:44:59Z"
+      "timestamp": "2026-04-21T22:30:22Z",
+      "reported_at": "2026-04-21T21:56:45Z"
+    },
+    {
+      "id": "a2d95e9e-5736-4f6f-bf7a-1b0dda539f6b",
+      "latitude": -35.048722,
+      "longitude": 138.583916,
+      "street": "Unknown Street",
+      "city": "Flagstaff Hill",
+      "type": "mobile",
+      "timestamp": "2026-04-21T22:30:22Z",
+      "reported_at": "2026-04-21T22:10:18Z"
+    },
+    {
+      "id": "6ad7f335-9280-47ba-a536-3af2c7cebdf9",
+      "latitude": -35.088427,
+      "longitude": 138.49809,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
+      "type": "mobile",
+      "timestamp": "2026-04-21T22:30:22Z",
+      "reported_at": "2026-04-21T22:12:30Z"
+    },
+    {
+      "id": "1b664aa5-3d37-4343-a7af-a16ab2c01ef3",
+      "latitude": -34.994511,
+      "longitude": 138.556978,
+      "street": "A14 - Marion Rd",
+      "city": "Ascot Park",
+      "type": "mobile",
+      "timestamp": "2026-04-21T22:30:22Z",
+      "reported_at": "2026-04-21T22:22:54Z"
+    },
+    {
+      "id": "5dc7ebff-19db-435a-bbbf-08bf9e3c2a0a",
+      "latitude": -34.807629,
+      "longitude": 138.717754,
+      "street": "A11 - Hancock Rd",
+      "city": "Redwood Park",
+      "type": "mobile",
+      "timestamp": "2026-04-21T22:30:22Z",
+      "reported_at": "2026-04-21T22:28:18Z"
+    },
+    {
+      "id": "d6dfafc0-e810-4a8a-bdf1-0e6603fdb10b",
+      "latitude": -34.757003,
+      "longitude": 138.645922,
+      "street": "A9 - Salisbury Hwy",
+      "city": "Salisbury",
+      "type": "mobile",
+      "timestamp": "2026-04-21T22:30:22Z",
+      "reported_at": "2026-04-21T22:22:59Z"
     }
   ]
 }
