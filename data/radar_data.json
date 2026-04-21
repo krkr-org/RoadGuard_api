@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "941113c7-a149-4f5f-9d4d-c3fc735d93b2",
-      "latitude": -34.948702,
-      "longitude": 138.586581,
-      "street": "Leader St",
-      "city": "Goodwood",
-      "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T08:23:07Z"
-    },
-    {
       "id": "0d67a314-d7a9-42b2-b3c5-0bb07d4a1525",
       "latitude": -34.91546,
       "longitude": 138.587155,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
+      "timestamp": "2026-04-21T09:00:24Z",
       "reported_at": "2026-04-21T05:54:45Z"
+    },
+    {
+      "id": "ff0abbb6-d6b9-410e-9620-5fd791f9332c",
+      "latitude": -34.862138,
+      "longitude": 138.679915,
+      "street": "Balmoral Rd",
+      "city": "Dernancourt",
+      "type": "mobile",
+      "timestamp": "2026-04-21T09:00:24Z",
+      "reported_at": "2026-04-21T06:03:37Z"
     },
     {
       "id": "8a3cb4c5-c4ef-410f-9ada-7327423b4f75",
@@ -27,48 +27,38 @@
       "street": "Hectorville Rd",
       "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
+      "timestamp": "2026-04-21T09:00:24Z",
       "reported_at": "2026-04-21T07:17:21Z"
     },
     {
-      "id": "43151dfc-facc-4a6e-a175-8cd3b4097317",
-      "latitude": -34.862066,
-      "longitude": 138.679892,
-      "street": "Balmoral Rd",
-      "city": "Dernancourt",
+      "id": "89cf11be-7306-4b12-b570-c034cc1de781",
+      "latitude": -34.939892,
+      "longitude": 138.594697,
+      "street": "Sir Lewis Cohen Av",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T06:24:42Z"
+      "timestamp": "2026-04-21T09:00:24Z",
+      "reported_at": "2026-04-21T06:42:52Z"
     },
     {
-      "id": "1ba66b34-f707-470b-970f-3827169db208",
-      "latitude": -34.852034,
-      "longitude": 138.528952,
-      "street": "Addison Rd",
-      "city": "Rosewater",
+      "id": "c92bf164-4d70-4789-8882-13c0f56aad63",
+      "latitude": -34.992459,
+      "longitude": 138.583987,
+      "street": "Daws Rd",
+      "city": "Daw Park",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T08:14:11Z"
+      "timestamp": "2026-04-21T09:00:24Z",
+      "reported_at": "2026-04-21T08:44:52Z"
     },
     {
-      "id": "d6f8456a-7ba7-40df-8a6b-a985354e822d",
-      "latitude": -34.908722,
-      "longitude": 138.604275,
-      "street": "Melbourne St",
-      "city": "North Adelaide",
+      "id": "0b6ee9e0-cb47-4cc2-814c-3afe13f3ecea",
+      "latitude": -34.858185,
+      "longitude": 138.592056,
+      "street": "Prospect Rd",
+      "city": "Kilburn",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T07:56:49Z"
-    },
-    {
-      "id": "4f8ffb6b-79fa-4d32-b431-c626e7f71942",
-      "latitude": -34.730005,
-      "longitude": 138.663951,
-      "street": "Philip Hwy",
-      "city": "Elizabeth South",
-      "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T08:15:33Z"
+      "timestamp": "2026-04-21T09:00:24Z",
+      "reported_at": "2026-04-21T08:28:45Z"
     },
     {
       "id": "2061eb5f-82ee-4b1c-bf7a-59156a004457",
@@ -77,7 +67,7 @@
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
+      "timestamp": "2026-04-21T09:00:24Z",
       "reported_at": "2026-04-21T08:13:53Z"
     },
     {
@@ -87,38 +77,8 @@
       "street": "R1 - Dequetteville Tce (City Ring Route)",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
+      "timestamp": "2026-04-21T09:00:24Z",
       "reported_at": "2026-04-21T06:53:39Z"
-    },
-    {
-      "id": "04c642a9-8edb-4d2a-a522-00f1d502ee85",
-      "latitude": -34.882605,
-      "longitude": 138.621335,
-      "street": "A17 - Taunton Rd",
-      "city": "Manningham",
-      "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T08:11:44Z"
-    },
-    {
-      "id": "06a8e1ad-4a9d-4145-af27-0852fd0e6b96",
-      "latitude": -34.824298,
-      "longitude": 138.741034,
-      "street": "A10 - North East Rd",
-      "city": "Tea Tree Gully",
-      "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T08:13:31Z"
-    },
-    {
-      "id": "df753417-9bc6-4f72-b853-71cee174a7aa",
-      "latitude": -34.782515,
-      "longitude": 138.623345,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Parafield Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-21T08:30:23Z",
-      "reported_at": "2026-04-21T08:26:40Z"
     }
   ]
 }
