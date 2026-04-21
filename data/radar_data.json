@@ -1,24 +1,64 @@
 {
   "radars": [
     {
-      "id": "256e53b6-b48b-4d3e-9bb7-26050eea364f",
-      "latitude": -34.85668,
-      "longitude": 138.505742,
-      "street": "Webb St",
-      "city": "Port Adelaide",
+      "id": "999bb5ab-3824-4cbb-bc64-4042480f7e31",
+      "latitude": -34.942369,
+      "longitude": 138.564483,
+      "street": "Richmond Rd",
+      "city": "Richmond",
       "type": "mobile",
-      "timestamp": "2026-04-21T05:00:24Z",
-      "reported_at": "2026-04-21T04:02:03Z"
+      "timestamp": "2026-04-21T06:00:23Z",
+      "reported_at": "2026-04-21T05:29:35Z"
     },
     {
-      "id": "ab52826e-c051-4b19-ae09-9439096d1b71",
-      "latitude": -34.929719,
-      "longitude": 138.55364,
-      "street": "Hounslow Av",
-      "city": "Torrensville",
+      "id": "b150f81b-bcef-4929-9094-806330870ebe",
+      "latitude": -34.941245,
+      "longitude": 138.594793,
+      "street": "Sir Lewis Cohen Av",
+      "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T05:00:24Z",
-      "reported_at": "2026-04-21T01:22:50Z"
+      "timestamp": "2026-04-21T06:00:23Z",
+      "reported_at": "2026-04-21T05:31:30Z"
+    },
+    {
+      "id": "7eee426e-9402-444a-a44a-cab1b3cec5e6",
+      "latitude": -34.938172,
+      "longitude": 138.611951,
+      "street": "Glen Osmond Rd",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-21T06:00:23Z",
+      "reported_at": "2026-04-21T05:28:43Z"
+    },
+    {
+      "id": "3193249e-5d9c-4425-9506-6fa8216e30af",
+      "latitude": -34.876983,
+      "longitude": 138.551226,
+      "street": "Torrens Rd",
+      "city": "Kilkenny",
+      "type": "mobile",
+      "timestamp": "2026-04-21T06:00:23Z",
+      "reported_at": "2026-04-21T05:54:19Z"
+    },
+    {
+      "id": "cf816a9b-3ef4-4e0d-9358-b7f2a5fc6988",
+      "latitude": -34.900313,
+      "longitude": 138.603107,
+      "street": "R1 - Robe Tce (City Ring Route)",
+      "city": "North Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-21T06:00:23Z",
+      "reported_at": "2026-04-21T05:48:16Z"
+    },
+    {
+      "id": "7ca1f52a-40be-424f-99c2-5c635192be26",
+      "latitude": -34.927038,
+      "longitude": 138.622062,
+      "street": "R1 - Dequetteville Tce (City Ring Route)",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-21T06:00:23Z",
+      "reported_at": "2026-04-21T05:50:52Z"
     }
   ]
 }
