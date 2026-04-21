@@ -1,24 +1,34 @@
 {
   "radars": [
     {
+      "id": "63f20ddf-1fbe-4994-8a27-90989e1bc489",
+      "latitude": -34.863579,
+      "longitude": 138.562375,
+      "street": "Ridley Gr",
+      "city": "Ferryden Park",
+      "type": "mobile",
+      "timestamp": "2026-04-21T04:30:22Z",
+      "reported_at": "2026-04-21T04:15:28Z"
+    },
+    {
       "id": "ab52826e-c051-4b19-ae09-9439096d1b71",
       "latitude": -34.929719,
       "longitude": 138.55364,
       "street": "Hounslow Av",
       "city": "Torrensville",
       "type": "mobile",
-      "timestamp": "2026-04-21T04:00:23Z",
+      "timestamp": "2026-04-21T04:30:22Z",
       "reported_at": "2026-04-21T01:22:50Z"
     },
     {
-      "id": "48accfcd-cba7-4d63-9f6f-5ac33395297b",
-      "latitude": -34.89004,
-      "longitude": 138.653501,
-      "street": "Unknown Street",
-      "city": "Felixstow",
+      "id": "481377ab-20d1-4e70-8516-27a56e703793",
+      "latitude": -35.08537,
+      "longitude": 138.543087,
+      "street": "A13 - Main South Rd",
+      "city": "Old Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-21T04:00:23Z",
-      "reported_at": "2026-04-20T23:53:15Z"
+      "timestamp": "2026-04-21T04:30:22Z",
+      "reported_at": "2026-04-21T04:08:35Z"
     }
   ]
 }
