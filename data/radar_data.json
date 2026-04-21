@@ -1,64 +1,84 @@
 {
   "radars": [
     {
-      "id": "0d67a314-d7a9-42b2-b3c5-0bb07d4a1525",
-      "latitude": -34.915658,
-      "longitude": 138.587472,
+      "id": "e93ffee7-f4cc-4251-97ed-e7d5c9b4ace3",
+      "latitude": -35.139317,
+      "longitude": 138.490052,
+      "street": "David Witton Dr",
+      "city": "Noarlunga Centre",
+      "type": "mobile",
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:50:58Z"
+    },
+    {
+      "id": "f0c56466-ce47-424c-8c19-6a549e8230fb",
+      "latitude": -34.915517,
+      "longitude": 138.587246,
       "street": "War Memorial Dr",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T06:30:22Z",
-      "reported_at": "2026-04-21T05:54:45Z"
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:50:08Z"
     },
     {
-      "id": "4f5d4086-00cc-4f8e-836c-a4532e6b9792",
-      "latitude": -34.853936,
-      "longitude": 138.502341,
-      "street": "Old Port Rd",
-      "city": "Port Adelaide",
+      "id": "7e9aad82-d589-4206-9444-3f4b2cd22397",
+      "latitude": -34.898728,
+      "longitude": 138.612815,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
       "type": "mobile",
-      "timestamp": "2026-04-21T06:30:22Z",
-      "reported_at": "2026-04-21T06:08:18Z"
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:45:44Z"
     },
     {
-      "id": "9ea478aa-954b-4ebb-9365-889369377b7c",
-      "latitude": -34.940055,
-      "longitude": 138.594683,
+      "id": "18581f7b-ad99-42a1-92a6-e2c0e24fc230",
+      "latitude": -34.996531,
+      "longitude": 138.539281,
+      "street": "Morphett Rd",
+      "city": "Warradale",
+      "type": "mobile",
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:37:56Z"
+    },
+    {
+      "id": "89cf11be-7306-4b12-b570-c034cc1de781",
+      "latitude": -34.939686,
+      "longitude": 138.594682,
       "street": "Sir Lewis Cohen Av",
       "city": "Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T06:30:22Z",
-      "reported_at": "2026-04-21T05:31:33Z"
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:42:52Z"
     },
     {
-      "id": "a03b96f0-f124-4e54-b2c0-9fa75472a914",
-      "latitude": -35.020887,
-      "longitude": 138.559322,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "90f7592e-5381-4002-867d-ef0b7cef23bf",
+      "latitude": -34.828509,
+      "longitude": 138.679205,
+      "street": "Montague Rd",
+      "city": "Modbury North",
       "type": "mobile",
-      "timestamp": "2026-04-21T06:30:22Z",
-      "reported_at": "2026-04-21T06:24:43Z"
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:27:15Z"
     },
     {
       "id": "cf816a9b-3ef4-4e0d-9358-b7f2a5fc6988",
-      "latitude": -34.900336,
-      "longitude": 138.603147,
+      "latitude": -34.900334,
+      "longitude": 138.603139,
       "street": "R1 - Robe Tce (City Ring Route)",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-21T06:30:22Z",
+      "timestamp": "2026-04-21T07:00:23Z",
       "reported_at": "2026-04-21T05:48:16Z"
     },
     {
-      "id": "feb70bde-62fd-43bd-947f-98dd6617bb5d",
-      "latitude": -34.764156,
-      "longitude": 138.639974,
-      "street": "A9 - Salisbury Hwy",
-      "city": "Salisbury",
+      "id": "b8adeb5a-5aab-439e-9c25-0b22a00cf50d",
+      "latitude": -34.691754,
+      "longitude": 138.566499,
+      "street": "A1 - Port Wakefield Rd",
+      "city": "Waterloo Corner",
       "type": "mobile",
-      "timestamp": "2026-04-21T06:30:22Z",
-      "reported_at": "2026-04-21T06:14:23Z"
+      "timestamp": "2026-04-21T07:00:23Z",
+      "reported_at": "2026-04-21T06:40:16Z"
     }
   ]
 }
