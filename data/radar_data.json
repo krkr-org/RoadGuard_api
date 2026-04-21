@@ -1,64 +1,124 @@
 {
   "radars": [
     {
+      "id": "78ec72f6-9f90-4c95-b468-e51e7f49205c",
+      "latitude": -34.725014,
+      "longitude": 138.633232,
+      "street": "Sturton Rd",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:36:21Z"
+    },
+    {
       "id": "76bcf603-fbd0-46f7-b4ae-6fabbb77c126",
       "latitude": -34.848805,
       "longitude": 138.702073,
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:30:22Z",
+      "timestamp": "2026-04-21T23:30:22Z",
       "reported_at": "2026-04-21T21:56:45Z"
     },
     {
-      "id": "a2d95e9e-5736-4f6f-bf7a-1b0dda539f6b",
-      "latitude": -35.048722,
-      "longitude": 138.583916,
-      "street": "Unknown Street",
-      "city": "Flagstaff Hill",
+      "id": "249b9649-4921-4738-b432-b7e373ab8bf6",
+      "latitude": -34.761391,
+      "longitude": 138.610612,
+      "street": "Whites Rd",
+      "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:30:22Z",
-      "reported_at": "2026-04-21T22:10:18Z"
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:27:50Z"
     },
     {
-      "id": "6ad7f335-9280-47ba-a536-3af2c7cebdf9",
-      "latitude": -35.088427,
-      "longitude": 138.49809,
-      "street": "A15 - Lonsdale Rd",
-      "city": "Hallett Cove",
+      "id": "6cb0e2cf-82c6-4cde-bd9a-8448544759a4",
+      "latitude": -34.721027,
+      "longitude": 138.643409,
+      "street": "West Av",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:30:22Z",
-      "reported_at": "2026-04-21T22:12:30Z"
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:57:13Z"
     },
     {
-      "id": "1b664aa5-3d37-4343-a7af-a16ab2c01ef3",
-      "latitude": -34.994511,
-      "longitude": 138.556978,
-      "street": "A14 - Marion Rd",
-      "city": "Ascot Park",
+      "id": "5613244f-8d6b-461f-ad63-a37f1cdfa65f",
+      "latitude": -34.783866,
+      "longitude": 138.606353,
+      "street": "Martins Rd",
+      "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:30:22Z",
-      "reported_at": "2026-04-21T22:22:54Z"
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:47:28Z"
     },
     {
-      "id": "5dc7ebff-19db-435a-bbbf-08bf9e3c2a0a",
-      "latitude": -34.807629,
-      "longitude": 138.717754,
-      "street": "A11 - Hancock Rd",
-      "city": "Redwood Park",
+      "id": "6634bf9f-caa7-471b-9bc6-ba8be7eab679",
+      "latitude": -34.729756,
+      "longitude": 138.629512,
+      "street": "Edinburgh Rd",
+      "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:30:22Z",
-      "reported_at": "2026-04-21T22:28:18Z"
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T23:24:31Z"
     },
     {
-      "id": "d6dfafc0-e810-4a8a-bdf1-0e6603fdb10b",
-      "latitude": -34.757003,
-      "longitude": 138.645922,
+      "id": "1f44d279-5e05-4382-80ea-9a1630610f56",
+      "latitude": -34.99293,
+      "longitude": 138.57294,
+      "street": "Daws Rd",
+      "city": "Edwardstown",
+      "type": "mobile",
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T23:15:52Z"
+    },
+    {
+      "id": "5d62122d-0d28-40d4-9abf-d78b90f8168a",
+      "latitude": -34.927571,
+      "longitude": 138.587604,
+      "street": "West Tce",
+      "city": "Adelaide",
+      "type": "mobile",
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T23:24:34Z"
+    },
+    {
+      "id": "a1764f65-a430-4cff-9ad0-3e2046ae6c49",
+      "latitude": -34.739047,
+      "longitude": 138.603463,
+      "street": "Waterloo Corner Rd",
+      "city": "Burton",
+      "type": "mobile",
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:13:33Z"
+    },
+    {
+      "id": "d0c80adc-5a7b-45e1-aeac-b8cff84ae20d",
+      "latitude": -35.00389,
+      "longitude": 138.807949,
+      "street": "B34 - Onkaparinga Valley Rd",
+      "city": "Balhannah",
+      "type": "mobile",
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:50:33Z"
+    },
+    {
+      "id": "eba2266b-ed30-4e2c-9506-5fdef0dbb21d",
+      "latitude": -35.104508,
+      "longitude": 138.795929,
+      "street": "B33 - Angus Rd",
+      "city": "Echunga",
+      "type": "mobile",
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T23:04:06Z"
+    },
+    {
+      "id": "b6cd0a41-2964-481e-bb68-63ee23e8992a",
+      "latitude": -34.757147,
+      "longitude": 138.645963,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-21T22:30:22Z",
-      "reported_at": "2026-04-21T22:22:59Z"
+      "timestamp": "2026-04-21T23:30:22Z",
+      "reported_at": "2026-04-21T22:31:19Z"
     }
   ]
 }
