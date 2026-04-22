@@ -1,44 +1,34 @@
 {
   "radars": [
     {
-      "id": "78ec72f6-9f90-4c95-b468-e51e7f49205c",
-      "latitude": -34.725014,
-      "longitude": 138.633232,
+      "id": "e0d1473f-0c4c-4e9f-8a59-b9c0824b7428",
+      "latitude": -34.727283,
+      "longitude": 138.638506,
       "street": "Sturton Rd",
       "city": "Edinburgh",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-21T22:36:21Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T03:32:54Z"
     },
     {
-      "id": "d15ff858-4820-418d-aa2b-1a87714355ed",
-      "latitude": -34.783116,
-      "longitude": 138.607027,
+      "id": "60dcaaa7-e949-45b7-81d4-aac9d681faf4",
+      "latitude": -34.719557,
+      "longitude": 138.644382,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T01:42:02Z"
+    },
+    {
+      "id": "5613244f-8d6b-461f-ad63-a37f1cdfa65f",
+      "latitude": -34.783866,
+      "longitude": 138.606353,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-21T22:52:24Z"
-    },
-    {
-      "id": "33e8f5e0-cbdf-4f87-a6f8-1912b6ebeb9d",
-      "latitude": -35.002543,
-      "longitude": 138.716026,
-      "street": "to B33 - Mt Barker Rd / Stirling / Aldgate",
-      "city": "Stirling",
-      "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T02:16:45Z"
-    },
-    {
-      "id": "fd7b24e8-87db-4da8-a1ce-56b2406b024a",
-      "latitude": -34.927538,
-      "longitude": 138.592268,
-      "street": "Franklin St",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T01:16:08Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-21T22:47:28Z"
     },
     {
       "id": "249b9649-4921-4738-b432-b7e373ab8bf6",
@@ -47,98 +37,58 @@
       "street": "Whites Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
+      "timestamp": "2026-04-22T04:00:23Z",
       "reported_at": "2026-04-21T22:27:50Z"
     },
     {
-      "id": "aa94fc3f-c235-4379-a417-f2a436be3ac7",
-      "latitude": -34.902472,
-      "longitude": 138.505314,
-      "street": "Frederick Rd",
-      "city": "Grange",
+      "id": "8392bf5c-10ee-4bb7-9c48-ea5ef907e6ca",
+      "latitude": -34.854319,
+      "longitude": 138.502359,
+      "street": "Old Port Rd",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T01:48:18Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T02:38:53Z"
     },
     {
-      "id": "9dc76b44-7654-4f86-a5cb-9fcb6a5bc958",
-      "latitude": -35.016123,
-      "longitude": 138.570791,
-      "street": "Main South Rd",
-      "city": "Bedford Park",
+      "id": "44548f38-b636-44c8-8cb8-35a485f68b51",
+      "latitude": -34.825188,
+      "longitude": 138.612222,
+      "street": "Montague Rd",
+      "city": "Mawson Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T02:08:33Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T03:19:28Z"
     },
     {
-      "id": "16943c33-85b6-40f8-a6c8-3845591ea538",
-      "latitude": -35.016602,
-      "longitude": 138.569739,
-      "street": "Sturt Rd",
-      "city": "Bedford Park",
-      "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T02:22:08Z"
-    },
-    {
-      "id": "0abad7fa-3ae5-4592-860f-776f9404c358",
-      "latitude": -34.873809,
-      "longitude": 138.597404,
-      "street": "Regency Rd",
-      "city": "Prospect",
-      "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T02:08:43Z"
-    },
-    {
-      "id": "717b7941-5739-40fb-99ef-cc926cdd5076",
-      "latitude": -34.73804,
-      "longitude": 138.601816,
-      "street": "Waterloo Corner Rd",
-      "city": "Burton",
-      "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-21T22:47:03Z"
-    },
-    {
-      "id": "a11dd4d7-10da-4ff7-9d37-acc9676c6e82",
-      "latitude": -34.764102,
-      "longitude": 138.628693,
+      "id": "27a33ff7-f473-4e52-b08a-dc3c190b3c6d",
+      "latitude": -34.764096,
+      "longitude": 138.628701,
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-21T23:14:32Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T00:56:12Z"
     },
     {
-      "id": "55758378-9880-4cd3-91ca-16ffc77f2929",
-      "latitude": -35.020273,
-      "longitude": 138.559279,
-      "street": "A14 - Marion Rd",
-      "city": "Sturt",
+      "id": "c5857255-d0ba-4ba9-9988-a7b4d59e377e",
+      "latitude": -35.062904,
+      "longitude": 138.534415,
+      "street": "A15 - Lonsdale Rd",
+      "city": "Hallett Cove",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T02:18:55Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T03:49:03Z"
     },
     {
-      "id": "0636e337-cefa-4205-b212-9757aff33d24",
-      "latitude": -34.92939,
-      "longitude": 138.585092,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-22T01:12:35Z"
-    },
-    {
-      "id": "8168d3e8-92c2-4e17-b1a5-ec8e8024094d",
-      "latitude": -34.756826,
-      "longitude": 138.646119,
+      "id": "a1ecc689-1920-4182-9e76-cb05ce13b974",
+      "latitude": -34.755841,
+      "longitude": 138.647124,
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-22T02:30:23Z",
-      "reported_at": "2026-04-21T23:00:40Z"
+      "timestamp": "2026-04-22T04:00:23Z",
+      "reported_at": "2026-04-22T02:14:11Z"
     }
   ]
 }
