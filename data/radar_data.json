@@ -1,3 +1,34 @@
 {
-  "radars": []
+  "radars": [
+    {
+      "id": "b67b14ed-a0c8-4d39-b105-f4c47c85228a",
+      "latitude": -34.943997,
+      "longitude": 138.548921,
+      "street": "Transport Av",
+      "city": "Netley",
+      "type": "mobile",
+      "timestamp": "2026-04-22T21:30:24Z",
+      "reported_at": "2026-04-22T20:04:44Z"
+    },
+    {
+      "id": "ca746484-5c24-458f-9585-ee2e4c284a27",
+      "latitude": -34.990098,
+      "longitude": 138.608718,
+      "street": "Springbank Rd",
+      "city": "Torrens Park",
+      "type": "mobile",
+      "timestamp": "2026-04-22T21:30:24Z",
+      "reported_at": "2026-04-22T21:13:55Z"
+    },
+    {
+      "id": "3eb2acad-f833-43ee-be7f-02b5dd21a7b4",
+      "latitude": -34.967272,
+      "longitude": 138.573298,
+      "street": "A3 - Cross Rd",
+      "city": "Clarence Park",
+      "type": "mobile",
+      "timestamp": "2026-04-22T21:30:24Z",
+      "reported_at": "2026-04-22T20:56:30Z"
+    }
+  ]
 }
