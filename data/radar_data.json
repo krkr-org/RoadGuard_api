@@ -1,24 +1,24 @@
 {
   "radars": [
     {
-      "id": "6cb0e2cf-82c6-4cde-bd9a-8448544759a4",
-      "latitude": -34.721027,
-      "longitude": 138.643409,
-      "street": "West Av",
-      "city": "Edinburgh",
-      "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
-      "reported_at": "2026-04-21T22:57:13Z"
-    },
-    {
-      "id": "5613244f-8d6b-461f-ad63-a37f1cdfa65f",
-      "latitude": -34.783866,
-      "longitude": 138.606353,
+      "id": "d15ff858-4820-418d-aa2b-1a87714355ed",
+      "latitude": -34.783116,
+      "longitude": 138.607027,
       "street": "Martins Rd",
       "city": "Parafield Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
-      "reported_at": "2026-04-21T22:47:28Z"
+      "timestamp": "2026-04-22T00:30:22Z",
+      "reported_at": "2026-04-21T22:52:24Z"
+    },
+    {
+      "id": "acfe89df-4830-4481-b9b1-bbaee81afed7",
+      "latitude": -34.726898,
+      "longitude": 138.639733,
+      "street": "West Av",
+      "city": "Edinburgh",
+      "type": "mobile",
+      "timestamp": "2026-04-22T00:30:22Z",
+      "reported_at": "2026-04-21T23:26:53Z"
     },
     {
       "id": "249b9649-4921-4738-b432-b7e373ab8bf6",
@@ -27,7 +27,7 @@
       "street": "Whites Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
+      "timestamp": "2026-04-22T00:30:22Z",
       "reported_at": "2026-04-21T22:27:50Z"
     },
     {
@@ -37,18 +37,28 @@
       "street": "Valley Rd",
       "city": "Highbury",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
+      "timestamp": "2026-04-22T00:30:22Z",
       "reported_at": "2026-04-21T21:56:45Z"
     },
     {
-      "id": "326d7f60-610f-4bd9-b9fd-90403207caf1",
-      "latitude": -35.020456,
-      "longitude": 138.582059,
-      "street": "Shepherds Hill Rd",
-      "city": "Eden Hills",
+      "id": "0ddc35c2-365c-466e-94c8-349c0e5cabd3",
+      "latitude": -35.053812,
+      "longitude": 138.557263,
+      "street": "Majors Rd",
+      "city": "O'Halloran Hill",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
-      "reported_at": "2026-04-21T23:32:26Z"
+      "timestamp": "2026-04-22T00:30:22Z",
+      "reported_at": "2026-04-22T00:11:29Z"
+    },
+    {
+      "id": "e5117f08-b388-4924-b920-0b8f1255b237",
+      "latitude": -34.888937,
+      "longitude": 138.668355,
+      "street": "Montacute Rd",
+      "city": "Campbelltown",
+      "type": "mobile",
+      "timestamp": "2026-04-22T00:30:22Z",
+      "reported_at": "2026-04-22T00:05:34Z"
     },
     {
       "id": "a1764f65-a430-4cff-9ad0-3e2046ae6c49",
@@ -57,7 +67,7 @@
       "street": "Waterloo Corner Rd",
       "city": "Burton",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
+      "timestamp": "2026-04-22T00:30:22Z",
       "reported_at": "2026-04-21T22:13:33Z"
     },
     {
@@ -67,7 +77,7 @@
       "street": "Winzor St",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
+      "timestamp": "2026-04-22T00:30:22Z",
       "reported_at": "2026-04-21T23:24:52Z"
     },
     {
@@ -77,7 +87,7 @@
       "street": "A9 - Salisbury Hwy",
       "city": "Salisbury",
       "type": "mobile",
-      "timestamp": "2026-04-22T00:00:24Z",
+      "timestamp": "2026-04-22T00:30:22Z",
       "reported_at": "2026-04-21T22:31:19Z"
     }
   ]
