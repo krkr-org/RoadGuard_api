@@ -1,24 +1,44 @@
 {
   "radars": [
     {
-      "id": "0e3a51ec-cdd4-417e-a3da-3c82be0e9708",
-      "latitude": -34.776377,
-      "longitude": 138.606386,
-      "street": "Beckett St",
-      "city": "Parafield Gardens",
+      "id": "6987640e-4369-4a69-b75f-92e98a0db6f5",
+      "latitude": -34.889226,
+      "longitude": 138.664869,
+      "street": "Hectorville Rd",
+      "city": "Hectorville",
       "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T06:43:10Z"
+      "timestamp": "2026-04-22T11:00:25Z",
+      "reported_at": "2026-04-22T09:55:13Z"
     },
     {
-      "id": "afe89ed2-adf0-4c58-b675-e287b7b06670",
-      "latitude": -34.88126,
-      "longitude": 138.501946,
+      "id": "cd276ec7-0ab6-4218-a661-383542b539a2",
+      "latitude": -34.880836,
+      "longitude": 138.498021,
       "street": "Troubridge Dr",
       "city": "West Lakes",
       "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T06:33:47Z"
+      "timestamp": "2026-04-22T11:00:25Z",
+      "reported_at": "2026-04-22T07:40:15Z"
+    },
+    {
+      "id": "24966661-8d68-4411-80a6-60fa63156dfe",
+      "latitude": -34.711256,
+      "longitude": 138.663002,
+      "street": "Winterslow Rd",
+      "city": "Edinburgh North",
+      "type": "mobile",
+      "timestamp": "2026-04-22T11:00:25Z",
+      "reported_at": "2026-04-22T10:30:58Z"
+    },
+    {
+      "id": "6ca5ae48-2c64-41fd-8e2c-fd25ab0fcf4a",
+      "latitude": -34.857389,
+      "longitude": 138.63605,
+      "street": "Fosters Rd",
+      "city": "Northgate",
+      "type": "mobile",
+      "timestamp": "2026-04-22T11:00:25Z",
+      "reported_at": "2026-04-22T10:31:27Z"
     },
     {
       "id": "5715eedb-1a4e-4b06-a92f-3d76d5a42ee8",
@@ -27,58 +47,8 @@
       "street": "Montacute Rd",
       "city": "Campbelltown",
       "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
+      "timestamp": "2026-04-22T11:00:25Z",
       "reported_at": "2026-04-22T09:55:42Z"
-    },
-    {
-      "id": "3fad0acc-5595-439e-b2ad-ac68e77cc0b4",
-      "latitude": -35.010992,
-      "longitude": 138.580741,
-      "street": "Ayliffes Rd",
-      "city": "St. Marys",
-      "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T10:11:55Z"
-    },
-    {
-      "id": "2589e126-af51-49a4-bfe1-5d3c3ddae521",
-      "latitude": -34.980338,
-      "longitude": 138.561786,
-      "street": "Raglan Av",
-      "city": "South Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T08:27:15Z"
-    },
-    {
-      "id": "0b2e80fd-03ac-4c32-88e9-6640e8071d4d",
-      "latitude": -34.968384,
-      "longitude": 138.547867,
-      "street": "A5 - Anzac Hwy",
-      "city": "Plympton",
-      "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T10:09:22Z"
-    },
-    {
-      "id": "ec7566d3-ff31-4f1c-88cb-1561a928a691",
-      "latitude": -35.008126,
-      "longitude": 138.789942,
-      "street": "B34 - Onkaparinga Valley Rd",
-      "city": "Verdun",
-      "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T10:14:18Z"
-    },
-    {
-      "id": "e29a576d-804e-4838-a783-8127eb954657",
-      "latitude": -34.896026,
-      "longitude": 138.558531,
-      "street": "A7 - Port Rd",
-      "city": "West Croydon",
-      "type": "mobile",
-      "timestamp": "2026-04-22T10:30:23Z",
-      "reported_at": "2026-04-22T10:02:06Z"
     }
   ]
 }
