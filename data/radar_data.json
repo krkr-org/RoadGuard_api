@@ -1,14 +1,24 @@
 {
   "radars": [
     {
-      "id": "f9eda3ee-b599-405b-b039-12c1c87e71df",
-      "latitude": -35.114056,
-      "longitude": 138.558035,
+      "id": "cb28bb2c-8fb7-408c-b06a-5e06ff53e140",
+      "latitude": -35.105345,
+      "longitude": 138.520391,
+      "street": "Unknown Street",
+      "city": "Reynella",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T05:41:25Z"
+    },
+    {
+      "id": "12f6488a-6eb3-4694-942c-cb9c3b68c9f9",
+      "latitude": -35.114045,
+      "longitude": 138.558268,
       "street": "Bains Rd",
       "city": "Woodcroft",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T06:55:30Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:40:44Z"
     },
     {
       "id": "a8d3939e-0eda-4a3d-a2a3-6e79834c1dfd",
@@ -17,8 +27,68 @@
       "street": "Reynell Rd",
       "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
+      "timestamp": "2026-04-23T08:30:23Z",
       "reported_at": "2026-04-23T06:58:15Z"
+    },
+    {
+      "id": "46c46df2-9b05-4d25-938c-b97c2ba744aa",
+      "latitude": -35.11394,
+      "longitude": 138.561523,
+      "street": "Bains Rd",
+      "city": "Onkaparinga Hills",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:14:56Z"
+    },
+    {
+      "id": "cbb225f0-8258-41fc-afa8-6054ac2dec5a",
+      "latitude": -35.0846,
+      "longitude": 138.558824,
+      "street": "Byards Rd",
+      "city": "Reynella East",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T06:18:04Z"
+    },
+    {
+      "id": "6547b3fb-604f-420c-beb9-1014d278e94c",
+      "latitude": -35.103808,
+      "longitude": 138.551903,
+      "street": "Pimpala Rd",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:35:20Z"
+    },
+    {
+      "id": "46f9d903-7616-458f-93c3-94c51d7072e5",
+      "latitude": -35.099257,
+      "longitude": 138.559947,
+      "street": "Sir James Hardy Way",
+      "city": "Woodcroft",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T08:09:47Z"
+    },
+    {
+      "id": "d8c86076-ebdc-4b56-bbe2-a765ab340324",
+      "latitude": -34.976181,
+      "longitude": 138.608631,
+      "street": "Grange Rd",
+      "city": "Hawthorn",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:58:25Z"
+    },
+    {
+      "id": "4593abfa-8350-4bcc-87d4-531bab099822",
+      "latitude": -34.977845,
+      "longitude": 138.517565,
+      "street": "Gordon St",
+      "city": "Glenelg",
+      "type": "mobile",
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T08:20:06Z"
     },
     {
       "id": "70ac8d8e-0300-497b-b695-55564fe9fa35",
@@ -27,28 +97,8 @@
       "street": "Burton Rd",
       "city": "Paralowie",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
+      "timestamp": "2026-04-23T08:30:23Z",
       "reported_at": "2026-04-23T06:26:57Z"
-    },
-    {
-      "id": "a1257771-e34d-47e6-b86e-f896c4430955",
-      "latitude": -34.984026,
-      "longitude": 138.546764,
-      "street": "Hendrie St",
-      "city": "Morphettville",
-      "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T06:26:34Z"
-    },
-    {
-      "id": "cb28bb2c-8fb7-408c-b06a-5e06ff53e140",
-      "latitude": -35.105345,
-      "longitude": 138.520391,
-      "street": "Unknown Street",
-      "city": "Reynella",
-      "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T05:41:25Z"
     },
     {
       "id": "7dc66aad-c07c-4d27-a237-0df15b38b334",
@@ -57,18 +107,18 @@
       "street": "Unknown Street",
       "city": "Smithfield",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
+      "timestamp": "2026-04-23T08:30:23Z",
       "reported_at": "2026-04-23T06:50:24Z"
     },
     {
-      "id": "c30888a9-5bfa-4e9e-8ba6-5b3493d479bb",
-      "latitude": -35.120245,
-      "longitude": 138.510366,
-      "street": "Brodie Rd",
-      "city": "Morphett Vale",
+      "id": "245a2659-647d-445a-8397-ec7ed7cceb9f",
+      "latitude": -34.837264,
+      "longitude": 138.48069,
+      "street": "Esplanade",
+      "city": "Semaphore",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T06:57:03Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T06:43:46Z"
     },
     {
       "id": "503c85f0-9492-4d98-aebb-2af0e7bab532",
@@ -77,38 +127,18 @@
       "street": "Sherriffs Rd",
       "city": "Reynella",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
+      "timestamp": "2026-04-23T08:30:23Z",
       "reported_at": "2026-04-23T05:52:08Z"
     },
     {
-      "id": "dd482b86-f6fe-4a49-b290-ab1a1cc29f9f",
-      "latitude": -34.836393,
-      "longitude": 138.645305,
-      "street": "Walkleys Rd",
-      "city": "Walkley Heights",
+      "id": "a1937486-177f-4bde-826b-6f90ed0a98f5",
+      "latitude": -35.082374,
+      "longitude": 138.562546,
+      "street": "Kenihans Rd",
+      "city": "Happy Valley",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T07:26:20Z"
-    },
-    {
-      "id": "55189bd2-2206-4c36-8663-8b2564fe1ae5",
-      "latitude": -34.92417,
-      "longitude": 138.583681,
-      "street": "Glover Av",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T04:10:21Z"
-    },
-    {
-      "id": "fe1fcc23-6c2e-4fb5-8c57-540ff687b381",
-      "latitude": -34.923173,
-      "longitude": 138.632138,
-      "street": "Osmond Tce",
-      "city": "Norwood",
-      "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T03:29:53Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:01:42Z"
     },
     {
       "id": "5972ff76-d84d-4c00-a04e-6b44dbf71f01",
@@ -117,68 +147,68 @@
       "street": "Cormack Rd",
       "city": "Wingfield",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
+      "timestamp": "2026-04-23T08:30:23Z",
       "reported_at": "2026-04-23T07:07:11Z"
     },
     {
-      "id": "a1efeaff-e798-4508-82cf-b97e0974407d",
-      "latitude": -34.850584,
-      "longitude": 138.536746,
-      "street": "Eastern Pde",
-      "city": "Ottoway",
+      "id": "2749a8dc-779f-4462-81da-7debde9a42f0",
+      "latitude": -34.858743,
+      "longitude": 138.636191,
+      "street": "Fosters Rd",
+      "city": "Lightsview",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T07:13:25Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:54:06Z"
     },
     {
-      "id": "4c3be1c8-e8a1-48dd-ba3d-fc8dcb8f8cf9",
-      "latitude": -34.743342,
-      "longitude": 138.703172,
-      "street": "Black Top Rd",
-      "city": "Gould Creek",
+      "id": "c6dbb9e4-b300-4de1-9df0-91420496cf8b",
+      "latitude": -34.746353,
+      "longitude": 138.657364,
+      "street": "Philip Hwy",
+      "city": "Elizabeth South",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T07:19:28Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T08:10:51Z"
     },
     {
-      "id": "d659a805-a178-499f-b3ce-ea4132cfeff6",
-      "latitude": -34.901481,
-      "longitude": 138.607236,
-      "street": "R1 - Robe Tce (City Ring Route)",
-      "city": "North Adelaide",
+      "id": "efe1ddd4-2c7e-400c-959c-ad3ac10efa87",
+      "latitude": -34.838781,
+      "longitude": 138.508917,
+      "street": "A9 - Port River Exp",
+      "city": "Port Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T06:58:43Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T08:20:57Z"
     },
     {
-      "id": "d257e3cd-0397-415c-94bb-58193f1bad5e",
-      "latitude": -34.899133,
-      "longitude": 138.589344,
-      "street": "R1 - Fitzroy Tce (City Ring Route)",
-      "city": "Thorngate",
+      "id": "42af2b3b-8dca-45d7-a65f-bc2473b33405",
+      "latitude": -35.112316,
+      "longitude": 138.522596,
+      "street": "A13 - Main South Rd",
+      "city": "Morphett Vale",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T07:10:06Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:03:12Z"
     },
     {
-      "id": "706173fb-d75c-4935-b574-da6ee0522246",
-      "latitude": -34.931818,
-      "longitude": 138.572023,
-      "street": "A6 - Sir Donald Bradman Dr",
-      "city": "Mile End",
+      "id": "368120dc-1373-4f90-a1b6-f9e9e0cb1db1",
+      "latitude": -34.844956,
+      "longitude": 138.671378,
+      "street": "A16 - Grand Junction Rd",
+      "city": "Holden Hill",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T06:26:58Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T08:11:00Z"
     },
     {
-      "id": "ef32de79-4b66-4e18-b832-f640a000d592",
-      "latitude": -35.045398,
-      "longitude": 138.550999,
-      "street": "M2 - Southern Exp",
-      "city": "Darlington",
+      "id": "2d74c2f2-9712-4336-84f0-42fdd459b680",
+      "latitude": -34.969153,
+      "longitude": 138.67331,
+      "street": "M1 - South Eastern Fwy",
+      "city": "Leawood Gardens",
       "type": "mobile",
-      "timestamp": "2026-04-23T07:30:22Z",
-      "reported_at": "2026-04-23T07:24:32Z"
+      "timestamp": "2026-04-23T08:30:23Z",
+      "reported_at": "2026-04-23T07:51:38Z"
     }
   ]
 }
