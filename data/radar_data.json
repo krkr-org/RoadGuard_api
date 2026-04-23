@@ -1,84 +1,34 @@
 {
   "radars": [
     {
-      "id": "a4cc17e1-3844-41f8-90ca-b396e04313cb",
-      "latitude": -34.915583,
-      "longitude": 138.587351,
-      "street": "War Memorial Dr",
-      "city": "North Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-22T22:25:48Z"
-    },
-    {
-      "id": "c15b5a96-bf70-47fa-a822-7088c4af6843",
-      "latitude": -34.928522,
-      "longitude": 138.668244,
-      "street": "Hallett Rd",
-      "city": "Erindale",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-22T22:02:25Z"
-    },
-    {
-      "id": "8c0d5074-20af-4402-8795-3eccb3472d83",
-      "latitude": -34.898961,
-      "longitude": 138.612538,
-      "street": "Walkerville Tce",
-      "city": "Gilberton",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-22T23:03:04Z"
-    },
-    {
-      "id": "f5a32964-50b8-4fd2-92dc-32eb65aebc4f",
-      "latitude": -34.93779,
-      "longitude": 138.561941,
-      "street": "Brooker Tce",
-      "city": "Richmond",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-23T00:26:38Z"
-    },
-    {
-      "id": "4a487661-3875-4ab9-893f-99f8edd1b513",
-      "latitude": -34.919705,
-      "longitude": 138.666398,
-      "street": "The Parade",
-      "city": "Kensington Gardens",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-22T23:38:59Z"
-    },
-    {
-      "id": "d817f6c1-3b67-4c5d-99bb-0c6e1352a090",
-      "latitude": -34.850582,
-      "longitude": 138.653605,
-      "street": "Blacks Rd",
-      "city": "Gilles Plains",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-23T01:59:39Z"
-    },
-    {
       "id": "14eadc45-b479-418f-b8c9-5a50196436da",
       "latitude": -34.913775,
       "longitude": 138.496876,
       "street": "Unknown Street",
       "city": "Henley Beach",
       "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
+      "timestamp": "2026-04-23T05:00:24Z",
       "reported_at": "2026-04-23T02:55:38Z"
     },
     {
-      "id": "0b3e32d4-26de-4ba2-8a62-c82914391809",
-      "latitude": -34.720993,
-      "longitude": 138.682492,
-      "street": "Kinkaid Rd",
-      "city": "Elizabeth East",
+      "id": "a4cc17e1-3844-41f8-90ca-b396e04313cb",
+      "latitude": -34.915583,
+      "longitude": 138.587351,
+      "street": "War Memorial Dr",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-23T00:31:55Z"
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-22T22:25:48Z"
+    },
+    {
+      "id": "2ac40478-2f0e-4759-8855-e9a31c282b01",
+      "latitude": -34.900772,
+      "longitude": 138.610384,
+      "street": "Walkerville Tce",
+      "city": "Gilberton",
+      "type": "mobile",
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-22T22:52:53Z"
     },
     {
       "id": "503b0c56-e0b9-4eca-a39b-f35ab4ab3b3a",
@@ -87,28 +37,48 @@
       "street": "Fisher St",
       "city": "Fullarton",
       "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
+      "timestamp": "2026-04-23T05:00:24Z",
       "reported_at": "2026-04-23T01:03:07Z"
     },
     {
-      "id": "a401513e-5f1f-444a-8483-647b7aa01b4d",
-      "latitude": -34.924927,
-      "longitude": 138.632461,
+      "id": "d817f6c1-3b67-4c5d-99bb-0c6e1352a090",
+      "latitude": -34.850582,
+      "longitude": 138.653605,
+      "street": "Blacks Rd",
+      "city": "Gilles Plains",
+      "type": "mobile",
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-23T01:59:39Z"
+    },
+    {
+      "id": "33936bf0-c763-4daf-a08e-9842c46daf2e",
+      "latitude": -34.940285,
+      "longitude": 138.562126,
+      "street": "Brooker Tce",
+      "city": "Richmond",
+      "type": "mobile",
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-23T04:16:43Z"
+    },
+    {
+      "id": "c15b5a96-bf70-47fa-a822-7088c4af6843",
+      "latitude": -34.928522,
+      "longitude": 138.668244,
+      "street": "Hallett Rd",
+      "city": "Erindale",
+      "type": "mobile",
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-22T22:02:25Z"
+    },
+    {
+      "id": "fe1fcc23-6c2e-4fb5-8c57-540ff687b381",
+      "latitude": -34.923173,
+      "longitude": 138.632138,
       "street": "Osmond Tce",
       "city": "Norwood",
       "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-23T03:28:25Z"
-    },
-    {
-      "id": "340ce955-b969-4022-8d2e-2382510bf213",
-      "latitude": -34.915574,
-      "longitude": 138.60534,
-      "street": "Frome Rd",
-      "city": "Adelaide",
-      "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-22T23:28:03Z"
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-23T03:29:53Z"
     },
     {
       "id": "e9ef9607-7d39-4452-befc-86f297535f37",
@@ -117,18 +87,38 @@
       "street": "Melbourne St",
       "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
+      "timestamp": "2026-04-23T05:00:24Z",
       "reported_at": "2026-04-23T03:08:34Z"
     },
     {
-      "id": "f0eb0cc3-e28a-4dbd-9fc1-1de1bfda42d8",
-      "latitude": -34.84902,
-      "longitude": 138.508466,
-      "street": "A7 - Commercial Rd",
-      "city": "Port Adelaide",
+      "id": "043c56fb-bc53-4cd4-bf41-bf2123ca9d8f",
+      "latitude": -34.905056,
+      "longitude": 138.611151,
+      "street": "R1 - Mann Rd (City Ring Route)",
+      "city": "North Adelaide",
       "type": "mobile",
-      "timestamp": "2026-04-23T04:30:23Z",
-      "reported_at": "2026-04-23T03:59:30Z"
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-23T04:35:06Z"
+    },
+    {
+      "id": "1be1683c-0052-49bb-bb22-170d172171c3",
+      "latitude": -34.877079,
+      "longitude": 138.602159,
+      "street": "A1 - Main North Rd",
+      "city": "Prospect",
+      "type": "mobile",
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-23T04:46:54Z"
+    },
+    {
+      "id": "8ec54604-1d74-464c-a52f-5ea52852b715",
+      "latitude": -35.038746,
+      "longitude": 138.557232,
+      "street": "M2 - Southern Exp",
+      "city": "Darlington",
+      "type": "mobile",
+      "timestamp": "2026-04-23T05:00:24Z",
+      "reported_at": "2026-04-23T04:55:41Z"
     }
   ]
 }
